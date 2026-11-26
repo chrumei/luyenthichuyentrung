@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "source_policy": "Toàn bộ mục lục và nội dung chính thức của 3 quyển giáo trình dưới đây chỉ sử dụng duy nhất 3 tệp PDF trong thư mục docs/.",
+  "books": [
+    {
+      "id": "hsk4shang",
+      "name": "HSK 4 上",
+      "full_title": "Giáo trình chuẩn HSK 4 上 (Tập 1) – Bản dịch TS. Nguyễn Thị Minh Hồng",
+      "pdf_file": "Chuẩn HSK 4上 .pdf",
+      "total_pages": 161,
+      "lessons": [
+        { "id": "hsk4shang_l01", "number": 1, "title_zh": "简单的爱情", "title_vi": "Tình yêu đơn giản", "page": 10, "grammar_preview": ["不仅……也/还/而且……", "从来", "刚", "即使……也……", "(在)……上"], "compare_preview": "刚—刚才", "dataFile": "data/lessons/hsk4shang_l01.json" },
+        { "id": "hsk4shang_l02", "number": 2, "title_zh": "真正的朋友", "title_vi": "Người bạn chân chính", "page": 22, "grammar_preview": ["正好", "差不多", "尽管", "却", "而"], "compare_preview": "差不多—几乎", "dataFile": "data/lessons/hsk4shang_l02.json" },
+        { "id": "hsk4shang_l03", "number": 3, "title_zh": "经理对我印象不错。", "title_vi": "Giám đốc có ấn tượng tốt về tôi.", "page": 34, "grammar_preview": ["挺", "本来", "另外", "首先……其次……", "不管"], "compare_preview": "另外—另", "dataFile": "data/lessons/hsk4shang_l03.json" },
+        { "id": "hsk4shang_l04", "number": 4, "title_zh": "不要太着急赚钱。", "title_vi": "Đừng quá nôn nóng kiếm tiền.", "page": 48, "grammar_preview": ["以为", "原来", "并", "按照", "甚至"], "compare_preview": "原来—本来", "dataFile": "data/lessons/hsk4shang_l04.json" },
+        { "id": "hsk4shang_l05", "number": 5, "title_zh": "只买对的，不买贵的。", "title_vi": "Chỉ mua cái đúng, không mua cái đắt.", "page": 60, "grammar_preview": ["肯定", "再说", "实际", "对……来说", "尤其"], "compare_preview": "尤其—特别", "dataFile": "data/lessons/hsk4shang_l05.json" },
+        { "id": "hsk4shang_l06", "number": 6, "title_zh": "一分钱一分货。", "title_vi": "Tiền nào của nấy.", "page": 74, "grammar_preview": ["竟然", "倍", "值得", "其中", "(在)……下"], "compare_preview": "值得—值", "dataFile": "data/lessons/hsk4shang_l06.json" },
+        { "id": "hsk4shang_l07", "number": 7, "title_zh": "最好的医生是自己。", "title_vi": "Bác sĩ tốt nhất là bản thân.", "page": 86, "grammar_preview": ["估计", "来不及", "离合词重叠", "要是", "既……又/也/还……"], "compare_preview": "估计—可能", "dataFile": "data/lessons/hsk4shang_l07.json" },
+        { "id": "hsk4shang_l08", "number": 8, "title_zh": "生活中不缺少美。", "title_vi": "Cuộc sống không thiếu cái đẹp.", "page": 98, "grammar_preview": ["使", "只要", "可不是", "因此", "往往"], "compare_preview": "往往—经常", "dataFile": "data/lessons/hsk4shang_l08.json" },
+        { "id": "hsk4shang_l09", "number": 9, "title_zh": "阳光总在风雨后。", "title_vi": "Sau cơn mưa trời lại sáng.", "page": 110, "grammar_preview": ["难道", "通过", "可是", "结果", "上"], "compare_preview": "通过—经过", "dataFile": "data/lessons/hsk4shang_l09.json" },
+        { "id": "hsk4shang_l10", "number": 10, "title_zh": "幸福的标准", "title_vi": "Tiêu chuẩn của hạnh phúc", "page": 124, "grammar_preview": ["不过", "确实", "在……看来", "由于", "比如"], "compare_preview": "不过—但是", "dataFile": "data/lessons/hsk4shang_l10.json" }
+      ],
+      "clusters": [
+        { "id": "hsk4shang_c1_5", "group_type": "5_lessons", "label": "Bài 1–5", "from": 1, "to": 5 },
+        { "id": "hsk4shang_c6_10", "group_type": "5_lessons", "label": "Bài 6–10", "from": 6, "to": 10 },
+        { "id": "hsk4shang_c1_10", "group_type": "10_lessons", "label": "Tổng hợp Bài 1–10", "from": 1, "to": 10 }
+      ]
+    },
+    {
+      "id": "hsk4xia",
+      "name": "HSK 4 下",
+      "full_title": "Giáo trình chuẩn HSK 4 下 (Tập 2) – Bản dịch TS. Nguyễn Thị Minh Hồng",
+      "pdf_file": "Chuẩn HSK4 下.pdf",
+      "total_pages": 174,
+      "lessons": [
+        { "id": "hsk4xia_l11", "number": 11, "title_zh": "读书好，读好书，好读书", "title_vi": "Đọc sách có rất nhiều lợi ích, đọc sách hay, thích đọc sách", "page": 10, "grammar_preview": ["连", "否则", "无论", "然而", "同时"], "compare_preview": "无论—不管", "dataFile": "data/lessons/hsk4xia_l11.json" },
+        { "id": "hsk4xia_l12", "number": 12, "title_zh": "用心发现世界", "title_vi": "Khám phá thế giới bằng trái tim", "page": 23, "grammar_preview": ["并且", "再……也……", "对于", "名量词重叠", "相反"], "compare_preview": "对于—关于", "dataFile": "data/lessons/hsk4xia_l12.json" },
+        { "id": "hsk4xia_l13", "number": 13, "title_zh": "喝着茶看京剧", "title_vi": "Uống trà trong lúc xem Kinh kịch", "page": 36, "grammar_preview": ["大概", "偶尔", "由", "进行", "随着"], "compare_preview": "大概—也许", "dataFile": "data/lessons/hsk4xia_l13.json" },
+        { "id": "hsk4xia_l14", "number": 14, "title_zh": "保护地球母亲", "title_vi": "Bảo vệ Mẹ Trái đất", "page": 50, "grammar_preview": ["够", "以", "既然", "于是", "什么的"], "compare_preview": "于是—因此", "dataFile": "data/lessons/hsk4xia_l14.json" },
+        { "id": "hsk4xia_l15", "number": 15, "title_zh": "教育孩子的艺术", "title_vi": "Nghệ thuật giáo dục con cái", "page": 64, "grammar_preview": ["想起来", "弄", "千万", "来", "左右"], "compare_preview": "千万—一定", "dataFile": "data/lessons/hsk4xia_l15.json" },
+        { "id": "hsk4xia_l16", "number": 16, "title_zh": "生活可以更美好。", "title_vi": "Cuộc sống có thể tốt đẹp hơn.", "page": 80, "grammar_preview": ["可", "恐怕", "到底", "拿……来说", "敢"], "compare_preview": "恐怕—怕", "dataFile": "data/lessons/hsk4xia_l16.json" },
+        { "id": "hsk4xia_l17", "number": 17, "title_zh": "人与自然", "title_vi": "Con người và thiên nhiên", "page": 94, "grammar_preview": ["倒", "干", "趟", "为了……而……", "仍然"], "compare_preview": "趟—次", "dataFile": "data/lessons/hsk4xia_l17.json" },
+        { "id": "hsk4xia_l18", "number": 18, "title_zh": "科技与世界", "title_vi": "Khoa học công nghệ và thế giới", "page": 108, "grammar_preview": ["是否", "受不了", "接着", "除此以外", "把……叫作……"], "compare_preview": "接着—然后", "dataFile": "data/lessons/hsk4xia_l18.json" },
+        { "id": "hsk4xia_l19", "number": 19, "title_zh": "生活的味道", "title_vi": "Mùi vị của cuộc sống", "page": 122, "grammar_preview": ["疑问代词活用表示任指", "上", "出来", "总的来说", "在于"], "compare_preview": "出来—起来", "dataFile": "data/lessons/hsk4xia_l19.json" },
+        { "id": "hsk4xia_l20", "number": 20, "title_zh": "路上的风景", "title_vi": "Quang cảnh dọc đường", "page": 135, "grammar_preview": ["动词+着+动词+着", "一……就……", "究竟", "起来", "动词+起"], "compare_preview": "究竟—到底", "dataFile": "data/lessons/hsk4xia_l20.json" }
+      ],
+      "clusters": [
+        { "id": "hsk4xia_c11_15", "group_type": "5_lessons", "label": "Bài 11–15", "from": 11, "to": 15 },
+        { "id": "hsk4xia_c16_20", "group_type": "5_lessons", "label": "Bài 16–20", "from": 16, "to": 20 },
+        { "id": "hsk4xia_c11_20", "group_type": "10_lessons", "label": "Tổng hợp Bài 11–20", "from": 11, "to": 20 }
+      ]
+    },
+    {
+      "id": "hsk5shang",
+      "name": "HSK 5 上",
+      "full_title": "Giáo trình chuẩn HSK 5 上 (Tập 1) – Bản dịch TS. Nguyễn Thị Minh Hồng",
+      "pdf_file": "Giáo Trình Chuẩn HSK5 (Tập 1).pdf",
+      "total_pages": 159,
+      "lessons": [
+        { "id": "hsk5shang_l01", "number": 1, "title_zh": "爱的细节", "title_vi": "Những điều nhỏ nhặt trong tình yêu", "page": 14, "grammar_preview": ["如何", "靠", "居然"], "compare_preview": "如何—怎么", "dataFile": "data/lessons/hsk5shang_l01.json" },
+        { "id": "hsk5shang_l02", "number": 2, "title_zh": "留串钥匙给父母", "title_vi": "Để chìa khóa cho ba mẹ", "page": 21, "grammar_preview": ["以来", "临", "立刻"], "compare_preview": "悄悄—偷偷", "dataFile": "data/lessons/hsk5shang_l02.json" },
+        { "id": "hsk5shang_l03", "number": 3, "title_zh": "人生有选择，一切可改变", "title_vi": "Đời người có lựa chọn, mọi thứ có đổi thay", "page": 29, "grammar_preview": ["各自", "勿", "包括", "时刻"], "compare_preview": "舒适—舒服", "dataFile": "data/lessons/hsk5shang_l03.json" },
+        { "id": "hsk5shang_l04", "number": 4, "title_zh": "子路背米", "title_vi": "Tử Lộ vác gạo", "page": 38, "grammar_preview": ["至今", "顶", "……得不行/很/不得了", "反而"], "compare_preview": "满足—满意", "dataFile": "data/lessons/hsk5shang_l04.json" },
+        { "id": "hsk5shang_l05", "number": 5, "title_zh": "济南的泉水", "title_vi": "Nước suối Tế Nam", "page": 46, "grammar_preview": ["起来", "于", "从而", "为 (wéi)"], "compare_preview": "美丽—优美", "dataFile": "data/lessons/hsk5shang_l05.json" },
+        { "id": "hsk5shang_l06", "number": 6, "title_zh": "除夕的由来", "title_vi": "Nguồn gốc đêm giao thừa", "page": 55, "grammar_preview": ["替", "说不定", "似的", "纷纷"], "compare_preview": "打听—询问", "dataFile": "data/lessons/hsk5shang_l06.json" },
+        { "id": "hsk5shang_l07", "number": 7, "title_zh": "成语故事两则", "title_vi": "Hai câu chuyện thành ngữ", "page": 66, "grammar_preview": ["瞎", "分别", "根", "便"], "compare_preview": "忽然—突然", "dataFile": "data/lessons/hsk5shang_l07.json" },
+        { "id": "hsk5shang_l08", "number": 8, "title_zh": "“朝三暮四”的古今义", "title_vi": "Thành ngữ “Sáng ba chiều bốn”", "page": 75, "grammar_preview": ["倒", "……来……去", "要不"], "compare_preview": "彼此—互相", "dataFile": "data/lessons/hsk5shang_l08.json" },
+        { "id": "hsk5shang_l09", "number": 9, "title_zh": "别样鲁迅", "title_vi": "Một Lỗ Tấn khác", "page": 83, "grammar_preview": ["算", "作为", "曾经"], "compare_preview": "亲自—自己", "dataFile": "data/lessons/hsk5shang_l09.json" },
+        { "id": "hsk5shang_l10", "number": 10, "title_zh": "争论的奇迹", "title_vi": "Kỳ tích của cuộc tranh luận", "page": 92, "grammar_preview": ["毕竟", "逐渐", "或许"], "compare_preview": "显示—显得", "dataFile": "data/lessons/hsk5shang_l10.json" },
+        { "id": "hsk5shang_l11", "number": 11, "title_zh": "闹钟的危害", "title_vi": "Tác hại của đồng hồ báo thức", "page": 100, "grammar_preview": ["来/过来", "所", "相当", "数"], "compare_preview": "持续—继续", "dataFile": "data/lessons/hsk5shang_l11.json" },
+        { "id": "hsk5shang_l12", "number": 12, "title_zh": "海外用户玩儿微信", "title_vi": "Người dùng WeChat ở nước ngoài", "page": 109, "grammar_preview": ["以及", "程度"], "compare_preview": "发达—发展", "dataFile": "data/lessons/hsk5shang_l12.json" },
+        { "id": "hsk5shang_l13", "number": 13, "title_zh": "锯掉生活的“筐底”", "title_vi": "Cưa bỏ “Đáy giỏ” cuộc sống", "page": 118, "grammar_preview": ["何况", "何必", "多亏"], "compare_preview": "激烈—强烈", "dataFile": "data/lessons/hsk5shang_l13.json" },
+        { "id": "hsk5shang_l14", "number": 14, "title_zh": "北京的四合院", "title_vi": "Tứ hợp viện Bắc Kinh", "page": 126, "grammar_preview": ["所谓", "则", "为……所……", "起"], "compare_preview": "通常—常常", "dataFile": "data/lessons/hsk5shang_l14.json" },
+        { "id": "hsk5shang_l15", "number": 15, "title_zh": "纸上谈兵", "title_vi": "Đánh trận trên giấy", "page": 135, "grammar_preview": ["动词+得/不过", "迟早", "再三"], "compare_preview": "胜利—成功", "dataFile": "data/lessons/hsk5shang_l15.json" },
+        { "id": "hsk5shang_l16", "number": 16, "title_zh": "体重与节食", "title_vi": "Cân nặng và ăn kiêng", "page": 146, "grammar_preview": ["即", "个别", "非"], "compare_preview": "临时—暂时", "dataFile": "data/lessons/hsk5shang_l16.json" },
+        { "id": "hsk5shang_l17", "number": 17, "title_zh": "在最美好的时刻离开", "title_vi": "Rời khỏi vào thời khắc tốt đẹp nhất", "page": 154, "grammar_preview": ["以", "平常", "宁可"], "compare_preview": "忽视—轻视", "dataFile": "data/lessons/hsk5shang_l17.json" },
+        { "id": "hsk5shang_l18", "number": 18, "title_zh": "抽象艺术美不美？", "title_vi": "Nghệ thuật trừu tượng đẹp hay xấu?", "page": 162, "grammar_preview": ["极其", "其余", "可见"], "compare_preview": "目前—现在", "dataFile": "data/lessons/hsk5shang_l18.json" }
+      ],
+      "clusters": [
+        { "id": "hsk5shang_c1_5", "group_type": "5_lessons", "label": "Bài 1–5", "from": 1, "to": 5 },
+        { "id": "hsk5shang_c6_10", "group_type": "5_lessons", "label": "Bài 6–10", "from": 6, "to": 10 },
+        { "id": "hsk5shang_c11_15", "group_type": "5_lessons", "label": "Bài 11–15", "from": 11, "to": 15 },
+        { "id": "hsk5shang_c16_18", "group_type": "5_lessons", "label": "Bài 16–18 (Cụm cuối)", "from": 16, "to": 18 },
+        { "id": "hsk5shang_c1_10", "group_type": "10_lessons", "label": "Tổng hợp Bài 1–10", "from": 1, "to": 10 },
+        { "id": "hsk5shang_c11_18", "group_type": "10_lessons", "label": "Tổng hợp Bài 11–18", "from": 11, "to": 18 }
+      ]
+    }
+  ]
+}

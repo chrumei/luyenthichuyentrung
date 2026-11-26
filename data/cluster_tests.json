@@ -1,0 +1,783 @@
+{
+  "schema_version": "1.1",
+  "note": "Đề kiểm tra tổng hợp theo cụm bài bám sát 100% nội dung đã số hóa từ 3 giáo trình trong docs/ (đã đủ trọn bộ 3 cụm của HSK 4 上: Bài 1–5, Bài 6–10 và Tổng hợp Bài 1–10).",
+  "tests": {
+    "hsk4shang_c1_5": {
+      "title": "Đề kiểm tra tổng hợp Cụm Bài 1–5 (HSK 4 上 – Đủ 5 bài)",
+      "questions": [
+        {
+          "id": "ct_4s15_1", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 1 (刚—刚才)", "mistake_category": "Ngữ pháp",
+          "prompt": "Chọn từ ĐÚNG cho câu: “不好意思，______我太忙了，没时间跟你说话。”",
+          "options": ["刚才", "刚", "从来", "原来"],
+          "answer": "刚才",
+          "explanation": "Chỗ trống đứng TRƯỚC chủ ngữ '我'. Danh từ thời gian 刚才 đứng trước chủ ngữ được; phó từ 刚 không đứng trước chủ ngữ.",
+          "review_tip": "Ôn bảng 比一比: 刚—刚才 (HSK 4 上 Bài 1)."
+        },
+        {
+          "id": "ct_4s15_2", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 2 (差不多—几乎)", "mistake_category": "Ngữ pháp",
+          "prompt": "Chọn từ ĐÚNG: “要不是你给我打电话，我______忘了咱俩见面的事。”",
+          "options": ["几乎", "差不多", "正好", "专门"],
+          "answer": "几乎",
+          "explanation": "Diễn tả điều không mong muốn suýt xảy ra nhưng cuối cùng không xảy ra → CHỈ dùng 几乎 (không dùng 差不多).",
+          "review_tip": "Ôn bảng 比一比: 差不多—几乎 (HSK 4 上 Bài 2)."
+        },
+        {
+          "id": "ct_4s15_3", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Bài 2 (尽管/却)", "mistake_category": "Ngữ pháp",
+          "prompt": "Chọn cặp từ phối hợp tự nhiên nhất: “______已经毕业这么多年，我们______经常联系。”",
+          "options": ["尽管……还是……", "即使……但是……", "不仅……却……", "不管……因此……"],
+          "answer": "尽管……还是……",
+          "explanation": "尽管 đưa ra sự thật đã có, vế sau phối hợp với 还是 / 却 / 但是.",
+          "review_tip": "Ôn cấu trúc 尽管 (HSK 4 上 Bài 2)."
+        },
+        {
+          "id": "ct_4s15_4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 3 (另外—另)", "mistake_category": "Ngữ pháp",
+          "prompt": "Chọn từ ĐÚNG: “我还要去趟超市，______，别忘了给小王回个电话。”",
+          "options": ["另外", "另", "其他", "其次"],
+          "answer": "另外",
+          "explanation": "另外 có thể làm liên từ đứng độc lập nối hai vế câu (có dấu phẩy phía sau); 另 là phó từ/đại từ không đứng một mình kiểu này.",
+          "review_tip": "Ôn bảng 比一比: 另外—另 (HSK 4 上 Bài 3)."
+        },
+        {
+          "id": "ct_4s15_5", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 4 (原来—本来)", "mistake_category": "Ngữ pháp",
+          "prompt": "Chọn từ ĐÚNG: “我以为他是北方人，聊了一会儿才知道，______他是广东人！”",
+          "options": ["原来", "本来", "按照", "甚至"],
+          "answer": "原来",
+          "explanation": "Biểu thị sự phát hiện ra sự thật bất ngờ ('hóa ra là...') → CHỈ dùng 原来 (本来 không có nghĩa 'hóa ra').",
+          "review_tip": "Ôn bảng 比一比: 原来—本来 (HSK 4 上 Bài 4)."
+        },
+        {
+          "id": "ct_4s15_6", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 5 (尤其—特别)", "mistake_category": "Ngữ pháp",
+          "prompt": "Chọn từ ĐÚNG: “这里的水果都很好吃，______是夏天的西瓜。”",
+          "options": ["尤其", "特别", "实际", "肯定"],
+          "answer": "尤其",
+          "explanation": "Nêu bật một đối tượng tiêu biểu nhất trong phạm vi lớn hơn đã nhắc trước ('đặc biệt là / nhất là') → 尤其是.",
+          "review_tip": "Ôn bảng 比一比: 尤其—特别 (HSK 4 上 Bài 5)."
+        },
+        {
+          "id": "ct_4s15_7", "type": "error_fix", "level": "Vận dụng", "origin_tag": "Bài 4 (并)", "mistake_category": "Ngữ pháp",
+          "prompt": "Câu nào sau đây dùng phó từ “并” ĐÚNG ngữ pháp?",
+          "options": [
+            "刚参加工作时，赚钱并不是最重要的。",
+            "刚参加工作时，赚钱并很重要。",
+            "刚参加工作时，并不赚钱重要。",
+            "刚参加工作时，并我不想赚钱。"
+          ],
+          "answer": "刚参加工作时，赚钱并不是最重要的。",
+          "explanation": "Phó từ 并 (nhấn mạnh sự phủ định/bác bỏ) PHẢI đứng ngay trước từ phủ định 不/没/非 (并不是 / 并没有).",
+          "review_tip": "Ôn phó từ 并 (HSK 4 上 Bài 4)."
+        },
+        {
+          "id": "ct_4s15_8", "type": "reorder", "level": "Vận dụng", "origin_tag": "Bài 5 (对……来说)", "mistake_category": "Ngữ pháp",
+          "prompt": "Sắp xếp thành câu hoàn chỉnh:",
+          "tokens": ["对", "来说，", "年轻的大学生", "积累经验", "比赚钱更重要。"],
+          "answer": "对年轻的大学生来说，积累经验比赚钱更重要。",
+          "explanation": "Khung 对 + Đối tượng + 来说 (đối với ai đó mà nói).",
+          "review_tip": "Ôn cấu trúc 对……来说 (Bài 5) và từ 积累 (Bài 4)."
+        },
+        {
+          "id": "ct_4s15_9", "type": "reading_mc", "level": "Phân biệt", "origin_tag": "Tổng hợp Bài 1–5", "mistake_category": "Đọc hiểu",
+          "passage": "买东西时，只买对的，不买贵的。对很多人来说，买衣服首先要考虑质量，其次才是价格。如果一件衣服虽然打折很便宜，但是并不适合自己，买回来也是一种浪费。",
+          "prompt": "Theo đoạn văn trên, thái độ mua sắm hợp lý là gì?",
+          "options": [
+            "Ưu tiên chất lượng và sự phù hợp với bản thân thay vì chỉ ham rẻ",
+            "Hễ thấy giảm giá là phải mua ngay cho đỡ phí",
+            "Chỉ mua những món đồ thật đắt tiền",
+            "Giá cả luôn quan trọng hơn chất lượng"
+          ],
+          "answer": "Ưu tiên chất lượng và sự phù hợp với bản thân thay vì chỉ ham rẻ",
+          "explanation": "Đoạn văn nêu rõ: 首先要考虑质量，其次才是价格 và 不适合自己买回来也是一种浪费.",
+          "review_tip": "Ôn lại nội dung Bài 5 và cấu trúc 首先……其次…… (Bài 3)."
+        },
+        {
+          "id": "ct_4s15_10", "type": "translate_vi_zh", "level": "Vận dụng", "origin_tag": "Dịch Việt – Trung", "mistake_category": "Dịch thuật",
+          "prompt": "Dịch sang tiếng Trung: “Bất kể làm việc gì, trước hết đều phải nghiêm túc và có trách nhiệm.”",
+          "hint": "Dùng 不管 (Bài 3), 首先 (Bài 3), 负责/责任 (Bài 3–4).",
+          "keywords": ["不管", "首先"],
+          "answer": "不管做什么工作，首先都要认真负责。",
+          "explanation": "不管做什么……，首先都要…… kết hợp tự nhiên các cấu trúc trọng tâm của Bài 3 & 4.",
+          "review_tip": "Ôn cấu trúc 不管 và 首先……其次……."
+        }
+      ]
+    },
+    "hsk4shang_c6_10": {
+      "title": "Đề kiểm tra tổng hợp Cụm Bài 6–10 (HSK 4 上 – Đủ 5 bài)",
+      "questions": [
+        {
+          "id": "ct_4s610_1", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 6 (值得—值)", "mistake_category": "Ngữ pháp",
+          "prompt": "Chọn từ ĐÚNG: “这本关于中国文化的书内容非常丰富，很______一看。”",
+          "options": ["值得", "值", "估计", "确实"],
+          "answer": "值得",
+          "explanation": "值得 kết hợp với động từ/cụm động từ (值得一看 / 值得学习); còn 值 đi với số tiền cụ thể (值两百块钱).",
+          "review_tip": "Ôn bảng 比一比: 值得—值 (HSK 4 上 Bài 6)."
+        },
+        {
+          "id": "ct_4s610_2", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Bài 6 (竟然 / (在)……下)", "mistake_category": "Ngữ pháp",
+          "prompt": "Điền cặp từ chuẩn xác: “在大家的帮助______，他______提前三天就完成了任务！”",
+          "options": ["下 / 竟然", "上 / 往往", "中 / 由于", "里 / 不过"],
+          "answer": "下 / 竟然",
+          "explanation": "在……的帮助下 = dưới sự giúp đỡ của...; 竟然 = không ngờ lại (biểu thị ngạc nhiên).",
+          "review_tip": "Ôn (在)……下 và 竟然 (HSK 4 上 Bài 6)."
+        },
+        {
+          "id": "ct_4s610_3", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Bài 7 (离合词重叠 AAB)", "mistake_category": "Ngữ pháp",
+          "prompt": "Dạng lặp lại ĐÚNG của các từ ly hợp 散步, 聊天, 帮忙 là:",
+          "options": ["散散步、聊聊天、帮帮忙", "散步散步、聊天聊天、帮忙帮忙", "散散步步、聊聊天天、帮帮忙忙", "散步了步、聊天了天、帮忙了忙"],
+          "answer": "散散步、聊聊天、帮帮忙",
+          "explanation": "Động từ ly hợp (kết cấu động-tân) lặp lại theo công thức AAB (chỉ lặp lại động từ phía trước): 散散步, 聊聊天, 帮帮忙.",
+          "review_tip": "Ôn chuyên đề 离合词重叠 (HSK 4 上 Bài 7)."
+        },
+        {
+          "id": "ct_4s610_4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 8 (往往—经常)", "mistake_category": "Ngữ pháp",
+          "prompt": "Chọn từ ĐÚNG cho câu nói về kế hoạch/lời khuyên tương lai: “以后你要______锻炼身体，别总熬夜。”",
+          "options": ["经常", "往往", "竟然", "难道"],
+          "answer": "经常",
+          "explanation": "往往 chỉ dùng đúc kết quy luật đã xảy ra trong quá khứ, KHÔNG dùng trong câu cầu khiến hay nói kế hoạch tương lai → CHỈ dùng 经常!",
+          "review_tip": "Ôn bảng 比一比: 往往—经常 (HSK 4 上 Bài 8)."
+        },
+        {
+          "id": "ct_4s610_5", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Bài 8 (只要……就……)", "mistake_category": "Ngữ pháp",
+          "prompt": "Điền cặp liên từ đúng: “______用积极的态度面对生活，你______会发现生活中并不缺少美。”",
+          "options": ["只要……就……", "只有……就……", "由于……却……", "难道……就……"],
+          "answer": "只要……就……",
+          "explanation": "只要 + Điều kiện đủ，就 + Kết quả (Chú ý phân biệt với 只有……才……!).",
+          "review_tip": "Ôn 只要……就…… (HSK 4 上 Bài 8)."
+        },
+        {
+          "id": "ct_4s610_6", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 9 (通过—经过)", "mistake_category": "Ngữ pháp",
+          "prompt": "Chọn từ ĐÚNG: “______反复实验和总结失败的经验，爱迪生终于发明了电灯。”",
+          "options": ["通过", "经过", "Cả 通过 và 经过 đều dùng được", "不过"],
+          "answer": "Cả 通过 và 经过 đều dùng được",
+          "explanation": "Khi biểu thị đạt kết quả nhờ một quá trình/phương pháp, cả 通过 (nhấn phương thức) và 经过 (nhấn quá trình) đều chấp nhận được trong ngữ cảnh này.",
+          "review_tip": "Ôn bảng 比一比: 通过—经过 (HSK 4 上 Bài 9)."
+        },
+        {
+          "id": "ct_4s610_7", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Bài 9 (难道)", "mistake_category": "Ngữ pháp",
+          "prompt": "Câu phản vấn “难道你忘了吗？” mang ý khẳng định nào?",
+          "options": [
+            "Bạn không thể nào quên được / Lẽ nào bạn quên rồi sao!",
+            "Chắc chắn bạn đã quên rồi.",
+            "Bạn nên quên đi.",
+            "Bạn chưa từng nhớ."
+          ],
+          "answer": "Bạn không thể nào quên được / Lẽ nào bạn quên rồi sao!",
+          "explanation": "难道 dùng trong câu hỏi tu từ: dạng khẳng định (难道你忘了) biểu thị ý phủ định (lẽ nào lại quên = đáng lẽ không được quên).",
+          "review_tip": "Ôn phó từ 难道 (HSK 4 上 Bài 9)."
+        },
+        {
+          "id": "ct_4s610_8", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 10 (不过—但是)", "mistake_category": "Ngữ pháp",
+          "prompt": "Chọn từ ĐÚNG (làm phó từ mang nghĩa 'chỉ là / chẳng qua chỉ là'): “这______是一个小小的误会，别放在心上。”",
+          "options": ["不过", "但是", "然而", "可是"],
+          "answer": "不过",
+          "explanation": "Ngoài chức năng liên từ chuyển ý nhẹ như 但是, 不过 còn là phó từ mang nghĩa 'chỉ là' (= 仅仅); 但是 không có chức năng phó từ này!",
+          "review_tip": "Ôn bảng 比一比: 不过—但是 (HSK 4 上 Bài 10)."
+        },
+        {
+          "id": "ct_4s610_9", "type": "reorder", "level": "Vận dụng", "origin_tag": "Bài 10 (在……看来)", "mistake_category": "Ngữ pháp",
+          "prompt": "Sắp xếp thành câu hoàn chỉnh:",
+          "tokens": ["看来，", "在", "幸福", "每个人", "标准都不同。", "的"],
+          "answer": "在每个人看来，幸福的标准都不同。",
+          "explanation": "Cấu trúc 在 + Người + 看来 (theo cách nhìn của ai đó).",
+          "review_tip": "Ôn cấu trúc 在……看来 (HSK 4 上 Bài 10)."
+        },
+        {
+          "id": "ct_4s610_10", "type": "reading_mc", "level": "Vận dụng", "origin_tag": "Tổng hợp Bài 6–10", "mistake_category": "Đọc hiểu",
+          "passage": "在很多人看来，有钱就等于幸福。不过，经济条件好确实能使生活更方便，却不一定带来真正的快乐。由于每个人的经历和生活态度不同，幸福并没有统一的标准。",
+          "prompt": "Quan điểm chính của đoạn văn trên là gì?",
+          "options": [
+            "Điều kiện kinh tế tốt giúp cuộc sống tiện lợi nhưng hạnh phúc không có tiêu chuẩn chung duy nhất",
+            "Chỉ cần có nhiều tiền chắc chắn sẽ có hạnh phúc thật sự",
+            "Kinh tế hoàn toàn không liên quan gì đến cuộc sống",
+            "Mọi người đều có cùng một tiêu chuẩn hạnh phúc"
+          ],
+          "answer": "Điều kiện kinh tế tốt giúp cuộc sống tiện lợi nhưng hạnh phúc không có tiêu chuẩn chung duy nhất",
+          "explanation": "Đoạn văn dùng cấu trúc 在……看来, 不过……却…… và 由于 để khẳng định 幸福并没有统一的标准.",
+          "review_tip": "Ôn lại Bài 10: 幸福的标准."
+        }
+      ]
+    },
+    "hsk4shang_c1_10": {
+      "title": "Đề kiểm tra Tổng hợp Cuối quyển HSK 4 上 (Bài 1–10)",
+      "questions": [
+        {
+          "id": "ct_4s10_1", "type": "context_mc", "level": "Phân biệt", "origin_tag": "Bài 1 & 6", "mistake_category": "Ngữ pháp",
+          "prompt": "Chọn cặp phương vị từ chuẩn: “北方和南方在饮食______不同；在大家的努力______，活动非常成功。”",
+          "options": ["上 / 下", "下 / 上", "中 / 上", "上 / 中"],
+          "answer": "上 / 下",
+          "explanation": "在……上 = xét về phương diện (Bài 1); 在……下 = dưới điều kiện/sự giúp đỡ (Bài 6).",
+          "review_tip": "Phân biệt (在)……上 (Bài 1) và (在)……下 (Bài 6)."
+        },
+        {
+          "id": "ct_4s10_2", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 1–10 Cận nghĩa", "mistake_category": "Từ vựng",
+          "prompt": "Chọn câu DÙNG ĐÚNG từ cận nghĩa:",
+          "options": [
+            "这件大衣很值，才三百块钱，而且质量特别好。",
+            "这件大衣很值得三百块钱。",
+            "我昨天刚才去过那家新开的书店。",
+            "以后你要往往给我写信啊！"
+          ],
+          "answer": "这件大衣很值，才三百块钱，而且质量特别好。",
+          "explanation": "值 dùng làm vị ngữ đánh giá đáng đồng tiền bát gạo; câu B sai 值得+số tiền, câu C sai 昨天+刚才, câu D sai 往往 dùng cho tương lai.",
+          "review_tip": "Tổng ôn các cặp 比一比 của cả 10 bài HSK 4 上."
+        },
+        {
+          "id": "ct_4s10_3", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Bài 7 (既……又……)", "mistake_category": "Ngữ pháp",
+          "prompt": "Điền cặp liên từ thích hợp: “每天散散步，______能锻炼身体，______能放松心情。”",
+          "options": ["既……又……", "只要……才……", "即使……但是……", "由于……不过……"],
+          "answer": "既……又……",
+          "explanation": "既……又…… nối 2 lợi ích song song cùng tồn tại (vừa... vừa...).",
+          "review_tip": "Ôn cấu trúc 既……又/也/还…… (HSK 4 上 Bài 7)."
+        },
+        {
+          "id": "ct_4s10_4", "type": "context_mc", "level": "Phân biệt", "origin_tag": "Bài 10 同字词 (经)", "mistake_category": "Từ vựng",
+          "prompt": "Chọn đúng nhóm từ đồng tự '经' điền vào 2 chỗ trống: “这段难忘的______让我积累了很多工作______。”",
+          "options": ["经历 / 经验", "经验 / 经济", "经济 / 经历", "经常 / 经历"],
+          "answer": "经历 / 经验",
+          "explanation": "经历 = trải nghiệm/sự việc từng trải qua (难忘的经历); 经验 = kinh nghiệm đúc kết được (积累工作经验).",
+          "review_tip": "Ôn nhóm đồng tự 经 (经济 / 经验 / 经历 – Bài 10)."
+        },
+        {
+          "id": "ct_4s10_5", "type": "error_fix", "level": "Vận dụng", "origin_tag": "Bài 4 & 9", "mistake_category": "Ngữ pháp",
+          "prompt": "Chọn cách sửa ĐÚNG cho câu sai: “由于他工作很认真，所以老板对他非常满意。” (trong văn viết chuẩn HSK 4)",
+          "options": [
+            "Đổi '所以' thành '因此' (hoặc bỏ '所以'): 由于他工作很认真，因此老板对他非常满意。",
+            "Đổi '由于' thành '即使'",
+            "Đổi '认真' thành '负责'",
+            "Đổi '满意' thành '同意'"
+          ],
+          "answer": "Đổi '所以' thành '因此' (hoặc bỏ '所以'): 由于他工作很认真，因此老板对他非常满意。",
+          "explanation": "由于 (văn viết) thường phối hợp với 因此 / 因而 hoặc không cần từ nối vế sau, tránh ghép trực tiếp 由于……所以…… (dùng 因为……所以……).",
+          "review_tip": "Ôn liên từ 由于 (Bài 10) và 因此 (Bài 8)."
+        },
+        {
+          "id": "ct_4s10_6", "type": "reorder", "level": "Vận dụng", "origin_tag": "Bài 8–9", "mistake_category": "Ngữ pháp",
+          "prompt": "Sắp xếp thành câu hoàn chỉnh:",
+          "tokens": ["坚持下去，", "只要", "就会", "你", "看到风雨后的阳光。"],
+          "answer": "只要你坚持下去，就会看到风雨后的阳光。",
+          "explanation": "只要 + Chủ ngữ + Điều kiện，就 + Kết quả (chủ ngữ cùng là 你 nên vế 2 lược chủ ngữ).",
+          "review_tip": "Ôn Bài 8 (只要……就……) và Bài 9 (阳光总在风雨后)."
+        }
+      ]
+    },
+    "hsk4xia_c11_15": {
+      "title": "Đề kiểm tra tổng hợp Cụm Bài 11–15 (HSK 4 下 – Đủ 5 bài)",
+      "questions": [
+        {
+          "id": "ct_4x15_1", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 11 (无论—不管)", "mistake_category": "Ngữ pháp",
+          "prompt": "Chọn từ ĐÚNG: “______去不去，你都应该早点儿告诉我。”",
+          "options": ["不管", "无论", "否则", "然而"],
+          "answer": "不管",
+          "explanation": "Dạng chính phản trực tiếp 去不去 chỉ đi với 不管 (nếu dùng 无论 phải đổi thành 无论去还是不去).",
+          "review_tip": "Ôn bảng 比一比: 无论—不管 (Bài 11)."
+        },
+        {
+          "id": "ct_4x15_2", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 12 (对于—关于)", "mistake_category": "Ngữ pháp",
+          "prompt": "Chọn từ ĐÚNG làm tiêu đề bài báo/định ngữ: “这是一本______中国传统文化的书。”",
+          "options": ["关于", "对于", "随着", "由"],
+          "answer": "关于",
+          "explanation": "关于 dùng để làm định ngữ ('quyển sách về...') hoặc tiêu đề, còn 对于 không đặt trước 的 làm định ngữ kiểu này (对于 chỉ đối tượng cảm nhận/thái độ).",
+          "review_tip": "Ôn bảng 比一比: 对于—关于 (Bài 12)."
+        },
+        {
+          "id": "ct_4x15_3", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 13 (大概—也许)", "mistake_category": "Ngữ pháp",
+          "prompt": "Chọn từ ĐÚNG để ước lượng con số: “从我家到学校坐地铁______需要二十分钟。”",
+          "options": ["大概", "也许", "偶尔", "相反"],
+          "answer": "大概",
+          "explanation": "大概 đứng trước số lượng/thời lượng để ước lượng ('khoảng 20 phút'); 也许 chỉ suy đoán khả năng chứ không ước lượng số lượng.",
+          "review_tip": "Ôn bảng 比一比: 大概—也许 (Bài 13)."
+        },
+        {
+          "id": "ct_4x15_4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 14 (于是—因此)", "mistake_category": "Ngữ pháp",
+          "prompt": "Chọn cặp liên từ chuẩn: “______你已经决定了，我们______支持你的选择。”",
+          "options": ["既然……就……", "于是……因此……", "无论……否则……", "随着……然而……"],
+          "answer": "既然……就……",
+          "explanation": "既然 nêu sự thật đã có làm tiền đề, vế sau phối hợp với 就 để suy ra kết luận hợp lý.",
+          "review_tip": "Ôn cấu trúc 既然……就…… (Bài 14)."
+        },
+        {
+          "id": "ct_4x15_5", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 15 (千万—一定)", "mistake_category": "Ngữ pháp",
+          "prompt": "Chọn từ ĐÚNG cho câu căn dặn tha thiết: “开车时______要注意安全，别看手机！”",
+          "options": ["千万", "大概", "偶尔", "于是"],
+          "answer": "千万",
+          "explanation": "千万 (nhất định/tuyệt đối đừng) chuyên dùng trong câu cầu khiến, nhắc nhở, căn dặn khẩn thiết (thường đi với 要 hoặc 别/不要).",
+          "review_tip": "Ôn bảng 比一比: 千万—一定 (Bài 15)."
+        },
+        {
+          "id": "ct_4x15_6", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Bài 13 (随着)", "mistake_category": "Ngữ pháp",
+          "prompt": "Điền giới từ thích hợp: “______生活水平的提高，人们越来越重视健康和环保。”",
+          "options": ["随着", "由", "对于", "以"],
+          "answer": "随着",
+          "explanation": "随着 + sự biến đổi (生活水平的提高 / 时间的变化), vế sau chỉ thay đổi kéo theo.",
+          "review_tip": "Ôn giới từ 随着 (Bài 13)."
+        },
+        {
+          "id": "ct_4x15_7", "type": "reorder", "level": "Vận dụng", "origin_tag": "Bài 11 (连……都……)", "mistake_category": "Ngữ pháp",
+          "prompt": "Sắp xếp thành câu đúng:",
+          "tokens": ["中文报纸", "连", "看得懂。", "他", "都"],
+          "answer": "他连中文报纸都看得懂。",
+          "explanation": "Cấu trúc nhấn mạnh: S + 连 + O + 都 + V.",
+          "review_tip": "Ôn cấu trúc 连……都…… (Bài 11)."
+        },
+        {
+          "id": "ct_4x15_8", "type": "reading_mc", "level": "Vận dụng", "origin_tag": "Tổng hợp Bài 11–15", "mistake_category": "Đọc hiểu",
+          "passage": "教育孩子是一门艺术。孩子犯错时，父母千万不要急着批评，而应该先了解原因；相反，当孩子通过努力取得进步时，父母要及时表扬和鼓励，这样孩子才会养成自信的好习惯。",
+          "prompt": "Theo đoạn văn, khi con mắc lỗi, cha mẹ nên làm gì?",
+          "options": [
+            "Không vội phê bình mà nên tìm hiểu nguyên nhân trước",
+            "Phê bình ngay lập tức để con nhớ lâu",
+            "Mặc kệ không cần quan tâm",
+            "Không bao giờ khen ngợi con"
+          ],
+          "answer": "Không vội phê bình mà nên tìm hiểu nguyên nhân trước",
+          "explanation": "Đoạn văn viết rõ: '父母千万不要急着批评，而应该先了解原因'.",
+          "review_tip": "Ôn Bài 15: 教育孩子的艺术."
+        }
+      ]
+    },
+    "hsk4xia_c16_20": {
+      "title": "Đề kiểm tra tổng hợp Cụm Bài 16–20 (HSK 4 下 – Đủ 5 bài)",
+      "questions": [
+        {
+          "id": "ct_4x20_1", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 16 (恐怕—怕)", "mistake_category": "Ngữ pháp",
+          "prompt": "Chọn từ ĐÚNG khi lịch sự từ chối / suy đoán lo ngại: “不好意思，今天下午我______来不及去参加聚会了。”",
+          "options": ["恐怕", "怕", "敢", "倒"],
+          "answer": "恐怕",
+          "explanation": "恐怕 là phó từ dùng diễn tả sự ước đoán kèm lo ngại hoặc từ chối uyển chuyển ('e rằng'); 怕 thiên về cảm giác sợ hãi cụ thể (怕黑, 怕冷).",
+          "review_tip": "Ôn bảng 比一比: 恐怕—怕 (Bài 16)."
+        },
+        {
+          "id": "ct_4x20_2", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 17 (趟—次)", "mistake_category": "Ngữ pháp",
+          "prompt": "Chọn lượng từ ĐÚNG cho chuyến đi khứ hồi (đi rồi về): “下个月我要去北京出差一______。”",
+          "options": ["趟", "次", "Cả 趟 và 次 đều dùng được (趟 nhấn mạnh chuyến đi lại)", "页"],
+          "answer": "Cả 趟 và 次 đều dùng được (趟 nhấn mạnh chuyến đi lại)",
+          "explanation": "趟 chuyên dùng cho hành động đi lại có khứ hồi (去一趟北京, 跑两趟医院); 次 dùng rộng cho mọi hành động lặp lại.",
+          "review_tip": "Ôn bảng 比一比: 趟—次 (Bài 17)."
+        },
+        {
+          "id": "ct_4x20_3", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 18 (接着—然后)", "mistake_category": "Ngữ pháp",
+          "prompt": "Chọn từ ĐÚNG khi nói tiếp tục hành động đang làm dở: “刚才说到哪儿了？你______说吧。”",
+          "options": ["接着", "然后", "是否", "仍然"],
+          "answer": "接着",
+          "explanation": "接着 làm phó từ trực tiếp trước động từ biểu thị tiếp tục hành động bị gián đoạn (接着说, 接着看); 然后 chỉ dùng nối hai hành động khác nhau kế tiếp nhau.",
+          "review_tip": "Ôn bảng 比一比: 接着—然后 (Bài 18)."
+        },
+        {
+          "id": "ct_4x20_4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 19 (出来—起来)", "mistake_category": "Ngữ pháp",
+          "prompt": "Chọn bổ ngữ xu hướng ĐÚNG: “看她的表情，我一眼就看______她今天心情不好。”",
+          "options": ["出来", "起来", "上去", "下来"],
+          "answer": "出来",
+          "explanation": "V + 出来 biểu thị nhận ra, phân biệt ra điều gì đó từ ẩn thành hiện (看出来, 听出来, 认出来).",
+          "review_tip": "Ôn bảng 比一比: 出来—起来 (Bài 19)."
+        },
+        {
+          "id": "ct_4x20_5", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 20 (究竟—到底)", "mistake_category": "Ngữ pháp",
+          "prompt": "Chọn từ ĐÚNG cho câu trần thuật mang nghĩa 'đến cùng': “只要认准了方向，就一定要坚持______。”",
+          "options": ["到底", "究竟", "恐怕", "是否"],
+          "answer": "到底",
+          "explanation": "坚持到底 = kiên trì đến cùng (到底 có thể làm bổ ngữ động từ 'đến cùng'; 究竟 KHÔNG dùng như bổ ngữ này!).",
+          "review_tip": "Ôn bảng 比一比: 究竟—到底 (Bài 20)."
+        },
+        {
+          "id": "ct_4x20_6", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Bài 19 (在于)", "mistake_category": "Ngữ pháp",
+          "prompt": "Điền động từ văn viết chuẩn: “旅行的意义不仅______看风景，更______放松心情、开阔眼界。”",
+          "options": ["在于 / 在于", "关于 / 对于", "由于 / 于是", "接着 / 然后"],
+          "answer": "在于 / 在于",
+          "explanation": "在于 = nằm ở chỗ (chỉ bản chất, điểm cốt lõi của vấn đề).",
+          "review_tip": "Ôn động từ 在于 (Bài 19)."
+        },
+        {
+          "id": "ct_4x20_7", "type": "reorder", "level": "Vận dụng", "origin_tag": "Bài 20 (一……就……)", "mistake_category": "Ngữ pháp",
+          "prompt": "Sắp xếp thành câu hoàn chỉnh:",
+          "tokens": ["听到", "一", "这首歌，", "我就", "想起了大学生活。"],
+          "answer": "一听到这首歌，我就想起了大学生活。",
+          "explanation": "Cấu trúc 一 + Hành động 1，就 + Hành động 2 (hễ/vừa... là liền...).",
+          "review_tip": "Ôn cấu trúc 一……就…… (Bài 20)."
+        },
+        {
+          "id": "ct_4x20_8", "type": "error_fix", "level": "Vận dụng", "origin_tag": "Bài 18 (把……叫作……)", "mistake_category": "Ngữ pháp",
+          "prompt": "Chọn câu ĐÚNG cấu trúc “把……叫作……”:",
+          "options": [
+            "人们常常把地球叫作“人类的母亲”。",
+            "人们常常叫作把地球“人类的母亲”。",
+            "人们常常把地球叫作是“人类的母亲”了。",
+            "地球把人们叫作“人类的母亲”。"
+          ],
+          "answer": "人们常常把地球叫作“人类的母亲”。",
+          "explanation": "Cấu trúc chuẩn: Chủ thể + 把 + A + 叫作 + Tên gọi B.",
+          "review_tip": "Ôn cấu trúc 把……叫作…… (Bài 18)."
+        }
+      ]
+    },
+    "hsk4xia_c11_20": {
+      "title": "Đề kiểm tra Tổng hợp Cuối quyển HSK 4 下 (Bài 11–20)",
+      "questions": [
+        {
+          "id": "ct_4xall_1", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Tổng hợp HSK 4 下", "mistake_category": "Ngữ pháp",
+          "prompt": "Chọn câu DÙNG ĐÚNG ngữ pháp hoàn toàn:",
+          "options": [
+            "他笑着笑着，突然想起一件重要的事情。",
+            "他笑着笑，突然想起一件重要的事情。",
+            "他笑笑着着，突然想起一件重要的事情。",
+            "他笑了一笑，于是想起一件重要的事情来。"
+          ],
+          "answer": "他笑着笑着，突然想起一件重要的事情。",
+          "explanation": "Cấu trúc 'V + 着 + V + 着' (Bài 20) diễn tả một hành động đang tiếp diễn thì nảy sinh tình huống khác.",
+          "review_tip": "Ôn cấu trúc 动词+着+动词+着 (Bài 20)."
+        },
+        {
+          "id": "ct_4xall_2", "type": "context_mc", "level": "Phân biệt", "origin_tag": "Bài 17 同字词 (然)", "mistake_category": "Từ vựng",
+          "prompt": "Chọn cặp từ đồng tự '然' phù hợp: “______答应了别人，就应该认真做到；尽管遇到了困难，他______没有放弃。”",
+          "options": ["既然 / 仍然", "突然 / 竟然", "仍然 / 既然", "竟然 / 突然"],
+          "answer": "既然 / 仍然",
+          "explanation": "既然 = đã... thì (tiền đề); 仍然 = vẫn như cũ (bất chấp khó khăn vẫn không bỏ cuộc).",
+          "review_tip": "Ôn nhóm đồng tự 然 (既然 / 竟然 / 仍然 / 突然 – Bài 17)."
+        },
+        {
+          "id": "ct_4xall_3", "type": "grammar_mc", "level": "Vận dụng", "origin_tag": "Bài 16 & 19", "mistake_category": "Ngữ pháp",
+          "prompt": "Điền cấu trúc mở đầu nêu ví dụ chuẩn: “______学汉语______，多听多说是最有效的方法。”",
+          "options": ["拿……来说", "把……叫作", "为了……而", "在……同时"],
+          "answer": "拿……来说",
+          "explanation": "拿 + A + 来说 = lấy A làm ví dụ mà nói (Bài 16).",
+          "review_tip": "Ôn cấu trúc 拿……来说 (Bài 16)."
+        },
+        {
+          "id": "ct_4xall_4", "type": "reading_mc", "level": "Vận dụng", "origin_tag": "Tổng hợp Bài 11–20", "mistake_category": "Đọc hiểu",
+          "passage": "科技的发展确实给生活带来了许多方便，除此以外，它还改变了人们交流和学习的方式。然而，总的来说，工具是否能发挥积极作用，关键仍然在于使用它的人。",
+          "prompt": "Ý chính của đoạn văn trên là gì?",
+          "options": [
+            "Công nghệ mang lại nhiều tiện ích nhưng hiệu quả tích cực cuối cùng vẫn phụ thuộc vào người sử dụng",
+            "Công nghệ chỉ mang lại tác hại cho việc học tập",
+            "Mọi công cụ công nghệ đều tự động phát huy tác dụng tích cực",
+            "Cách giao tiếp của con người không hề thay đổi"
+          ],
+          "answer": "Công nghệ mang lại nhiều tiện ích nhưng hiệu quả tích cực cuối cùng vẫn phụ thuộc vào người sử dụng",
+          "explanation": "Câu chốt sau '然而，总的来说' nêu rõ: '关键仍然在于使用它的人'.",
+          "review_tip": "Ôn Bài 18 (除此以外, 是否) và Bài 19 (总的来说, 在于)."
+        },
+        {
+          "id": "ct_4xall_5", "type": "translate_zh_vi", "level": "Vận dụng", "origin_tag": "Dịch Trung – Việt", "mistake_category": "Dịch thuật",
+          "prompt": "Dịch sang tiếng Việt: “保护地球环境不仅是为了我们自己，更是为了下一代。”",
+          "hint": "Chú ý 不仅……更是…… và 为了 (Bài 14 & 17).",
+          "keywords": ["bảo vệ", "môi trường"],
+          "answer": "Bảo vệ môi trường Trái đất không chỉ vì chính chúng ta, mà càng là vì thế hệ mai sau.",
+          "explanation": "Dịch rõ quan hệ tăng tiến 不仅……更是…… và mục đích 为了.",
+          "review_tip": "Ôn Bài 14 (保护地球母亲) và Bài 17 (为了……而……)."
+        }
+      ]
+    },
+    "hsk5shang_c1_5": {
+      "title": "Đề kiểm tra tổng hợp Cụm Bài 1–5 (HSK 5 上 – Đủ 5 bài)",
+      "questions": [
+        {
+          "id": "ct_5s15_1", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 1 (如何—怎么)", "mistake_category": "Ngữ pháp",
+          "prompt": "Chọn từ đúng: “听说你去电台工作了？情况______？”",
+          "options": ["如何", "怎么", "居然", "从而"],
+          "answer": "如何",
+          "explanation": "如何 đặt ở cuối câu để hỏi thăm tình hình hoặc trưng cầu ý kiến (情况如何？).",
+          "review_tip": "Ôn 词语辨析: 如何—怎么 (HSK 5 上 Bài 1)."
+        },
+        {
+          "id": "ct_5s15_2", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 2 (悄悄—偷偷)", "mistake_category": "Từ vựng",
+          "prompt": "Chọn từ phù hợp sắc thái nhẹ nhàng không mang ý xấu: “妈妈怕吵醒睡着的孩子，______地关上了门。”",
+          "options": ["悄悄", "偷偷", "反而", "立刻"],
+          "answer": "悄悄",
+          "explanation": "悄悄 nhấn mạnh âm thanh nhỏ/nhẹ nhàng (trung tính/tích cực), còn 偷偷 nhấn mạnh giấu giếm không muốn ai biết (thường hơi tiêu cực).",
+          "review_tip": "Ôn 词语辨析: 悄悄—偷偷 (HSK 5 上 Bài 2)."
+        },
+        {
+          "id": "ct_5s15_3", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 3 (舒适—舒服)", "mistake_category": "Từ vựng",
+          "prompt": "Chọn từ ĐÚNG (khi nói cảm giác khó ở của cơ thể): “我今天头有点儿疼，身体不太______。”",
+          "options": ["舒服", "舒适", "满意", "满足"],
+          "answer": "舒服",
+          "explanation": "舒服 dùng cho cả cảm giác cơ thể (身体不舒服) và khẩu ngữ; 舒适 thiên về văn viết miêu tả môi trường/điều kiện tiện nghi (舒适的环境).",
+          "review_tip": "Ôn 词语辨析: 舒适—舒服 (HSK 5 上 Bài 3)."
+        },
+        {
+          "id": "ct_5s15_4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 4 (满足—满意)", "mistake_category": "Từ vựng",
+          "prompt": "Chọn từ ĐÚNG mang tân ngữ phía sau: “这家餐厅的菜品非常丰富，能够______不同客人的口味要求。”",
+          "options": ["满足", "满意", "优美", "舒适"],
+          "answer": "满足",
+          "explanation": "满足 có thể làm động từ mang trực tiếp tân ngữ ('đáp ứng nhu cầu/yêu cầu': 满足要求/满足需要); 满意 không mang tân ngữ trực tiếp!",
+          "review_tip": "Ôn 词语辨析: 满足—满意 (HSK 5 上 Bài 4)."
+        },
+        {
+          "id": "ct_5s15_5", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 5 (美丽—优美)", "mistake_category": "Từ vựng",
+          "prompt": "Chọn tính từ kết hợp tự nhiên nhất với “旋律 / 舞姿 / 语言”: “她的钢琴演奏旋律非常______。”",
+          "options": ["优美", "美丽", "舒服", "满意"],
+          "answer": "优美",
+          "explanation": "优美 nhấn mạnh vẻ tao nhã, mềm mại, uyển chuyển của nghệ thuật (âm nhạc, vũ điệu, văn phong, môi trường); 美丽 thiên về vẻ đẹp ngoại hình/phong cảnh.",
+          "review_tip": "Ôn 词语辨析: 美丽—优美 (HSK 5 上 Bài 5)."
+        },
+        {
+          "id": "ct_5s15_6", "type": "grammar_mc", "level": "Vận dụng", "origin_tag": "Bài 4 (反而)", "mistake_category": "Ngữ pháp",
+          "prompt": "Điền phó từ phù hợp: “吃了退烧药以后，他的烧不仅没退，______更厉害了。”",
+          "options": ["反而", "从而", "以来", "各自"],
+          "answer": "反而",
+          "explanation": "反而 (ngược lại / trái lại) diễn tả kết quả đi ngược hẳn với kỳ vọng ở vế trước (thường đi cùng 不仅没……，反而……).",
+          "review_tip": "Ôn phó từ 反而 (HSK 5 上 Bài 4)."
+        },
+        {
+          "id": "ct_5s15_7", "type": "grammar_mc", "level": "Vận dụng", "origin_tag": "Bài 5 (从而)", "mistake_category": "Ngữ pháp",
+          "prompt": "Điền liên từ văn viết biểu thị 'từ đó / nhờ vậy mà': “我们改进了复习方法，______大大提高了学习效率。”",
+          "options": ["从而", "反而", "居然", "时刻"],
+          "answer": "从而",
+          "explanation": "从而 nối nguyên nhân/biện pháp phía trước với kết quả/mục đích đạt được phía sau.",
+          "review_tip": "Ôn liên từ 从而 (HSK 5 上 Bài 5)."
+        }
+      ]
+    },
+    "hsk5shang_c6_10": {
+      "title": "Đề kiểm tra tổng hợp Cụm Bài 6–10 (HSK 5 上 – Đủ 5 bài)",
+      "questions": [
+        {
+          "id": "ct_5s610_1", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 6 (打听—询问)", "mistake_category": "Từ vựng",
+          "prompt": "Chọn từ trang trọng phù hợp với tình huống nhân viên/bác sĩ hỏi thông tin: “医生详细______了病人的身体状况。”",
+          "options": ["询问", "打听", "瞎", "算"],
+          "answer": "询问",
+          "explanation": "询问 mang sắc thái trang trọng, hỏi trực tiếp để nắm thông tin chính thức; 打听 thiên về dò hỏi xung quanh, khẩu ngữ.",
+          "review_tip": "Ôn 词语辨析: 打听—询问 (HSK 5 上 Bài 6)."
+        },
+        {
+          "id": "ct_5s610_2", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 7 (忽然—突然)", "mistake_category": "Ngữ pháp",
+          "prompt": "Chọn từ ĐÚNG làm định ngữ trước danh từ (hoặc đi sau 很): “这件事发生得太______了，大家都没有思想准备。”",
+          "options": ["突然", "忽然", "纷纷", "便"],
+          "answer": "突然",
+          "explanation": "突然 là TÍNH TỪ nên nhận được phó từ mức độ (太突然、很突然) và làm bổ ngữ/định ngữ; 忽然 chỉ là phó từ!",
+          "review_tip": "Ôn 词语辨析: 忽然—突然 (HSK 5 上 Bài 7)."
+        },
+        {
+          "id": "ct_5s610_3", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 8 (彼此—互相)", "mistake_category": "Ngữ pháp",
+          "prompt": "Chọn từ ĐÚNG làm tân ngữ/định ngữ: “我们认识十几年了，非常了解______的性格。”",
+          "options": ["彼此", "互相", "各自", "毕竟"],
+          "answer": "彼此",
+          "explanation": "彼此 là ĐẠI TỪ nên làm chủ ngữ, tân ngữ, định ngữ (了解彼此的性格) được; 互相 là phó từ chỉ đứng trước động từ!",
+          "review_tip": "Ôn 词语辨析: 彼此—互相 (HSK 5 上 Bài 8)."
+        },
+        {
+          "id": "ct_5s610_4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 9 (亲自—自己)", "mistake_category": "Ngữ pháp",
+          "prompt": "Chọn từ ĐÚNG làm tân ngữ sau động từ: “遇到困难时，我们要相信______的能力。”",
+          "options": ["自己", "亲自", "彼此", "作为"],
+          "answer": "自己",
+          "explanation": "自己 là đại từ làm định ngữ/tân ngữ được (相信自己的能力); 亲自 là phó từ chỉ đứng trước động từ (亲自去, 亲自做)!",
+          "review_tip": "Ôn 词语辨析: 亲自—自己 (HSK 5 上 Bài 9)."
+        },
+        {
+          "id": "ct_5s610_5", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 10 (显示—显得)", "mistake_category": "Từ vựng",
+          "prompt": "Chọn từ ĐÚNG trước tính từ: “穿上这件淡绿色的衣服，她______特别有精神。”",
+          "options": ["显得", "显示", "逐渐", "或许"],
+          "answer": "显得",
+          "explanation": "显得 + Tính từ = trông có vẻ/tỏ ra (显得年轻, 显得很有精神); 显示 + Danh từ/số liệu = hiển thị, cho thấy (结果显示).",
+          "review_tip": "Ôn 词语辨析: 显示—显得 (HSK 5 上 Bài 10)."
+        },
+        {
+          "id": "ct_5s610_6", "type": "grammar_mc", "level": "Vận dụng", "origin_tag": "Bài 10 (毕竟)", "mistake_category": "Ngữ pháp",
+          "prompt": "Điền phó từ biểu thị 'dù sao thì / rốt cuộc vẫn là': “你别对他要求太严格了，他______还是个孩子。”",
+          "options": ["毕竟", "曾经", "要不", "说不定"],
+          "answer": "毕竟",
+          "explanation": "毕竟 nhấn mạnh nguyên nhân hay đặc điểm cốt lõi không thể bỏ qua ('dù sao cậu bé vẫn chỉ là trẻ con').",
+          "review_tip": "Ôn phó từ 毕竟 (HSK 5 上 Bài 10)."
+        }
+      ]
+    },
+    "hsk5shang_c11_15": {
+      "title": "Đề kiểm tra tổng hợp Cụm Bài 11–15 (HSK 5 上 – Đủ 5 bài)",
+      "questions": [
+        {
+          "id": "ct_5s1115_1", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 11 (持续—继续)", "mistake_category": "Từ vựng",
+          "prompt": "Chọn từ ĐÚNG khi hành động bị ngắt quãng rồi làm tiếp: “大家休息十分钟，一会儿我们______讨论这个问题。”",
+          "options": ["继续", "持续", "相当", "迟早"],
+          "answer": "继续",
+          "explanation": "继续 dùng cho hành động nối tiếp (có thể từng tạm dừng rồi làm tiếp); 持续 nhấn mạnh trạng thái kéo dài liên tục không gián đoạn (持续了三天).",
+          "review_tip": "Ôn 词语辨析: 持续—继续 (HSK 5 上 Bài 11)."
+        },
+        {
+          "id": "ct_5s1115_2", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 12 (发达—发展)", "mistake_category": "Ngữ pháp",
+          "prompt": "Chọn từ ĐÚNG (là tính từ chỉ mức độ cao): “这座城市的公共交通非常______，出行十分方便。”",
+          "options": ["发达", "发展", "激烈", "通常"],
+          "answer": "发达",
+          "explanation": "发达 là TÍNH TỪ đi với phó từ mức độ (非常发达 – rất phát triển); 发展 là động từ/danh từ chỉ quá trình phát triển.",
+          "review_tip": "Ôn 词语辨析: 发达—发展 (HSK 5 上 Bài 12)."
+        },
+        {
+          "id": "ct_5s1115_3", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 13 (激烈—强烈)", "mistake_category": "Từ vựng",
+          "prompt": "Chọn từ kết hợp chuẩn với “争论 / 比赛 / 竞争”: “关于这个方案，双方展开了______的争论。”",
+          "options": ["激烈", "强烈", "发达", "迟早"],
+          "answer": "激烈",
+          "explanation": "激烈 dùng cho hoạt động đối kháng/hành động sôi nổi (激烈争论, 激烈比赛); 强烈 dùng cho cảm xúc, ánh sáng, ý nguyện, phản ứng (强烈反对, 强烈愿望).",
+          "review_tip": "Ôn 词语辨析: 激烈—强烈 (HSK 5 上 Bài 13)."
+        },
+        {
+          "id": "ct_5s1115_4", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Bài 13 (何况 / 多亏)", "mistake_category": "Ngữ pháp",
+          "prompt": "Điền liên từ tăng tiến phản vấn ('huống hồ'): “连大人都搬不动这个箱子，______是个十岁的小孩儿呢？”",
+          "options": ["何况", "何必", "多亏", "以及"],
+          "answer": "何况",
+          "explanation": "何况 = huống chi, huống hồ (thường đi với 连……都…… ở vế trước và 呢 ở cuối câu).",
+          "review_tip": "Ôn liên từ 何况 và phân biệt với 何必 (HSK 5 上 Bài 13)."
+        },
+        {
+          "id": "ct_5s1115_5", "type": "grammar_mc", "level": "Vận dụng", "origin_tag": "Bài 14 (为……所……)", "mistake_category": "Ngữ pháp",
+          "prompt": "Chọn câu DÙNG ĐÚNG cấu trúc bị động văn viết “为……所……”:",
+          "options": [
+            "北京的四合院建筑风格广为人们所喜爱。",
+            "北京的四合院建筑风格为喜爱人们所。",
+            "人们广为四合院所喜爱。",
+            "北京的四合院建筑风格所为人们喜爱。"
+          ],
+          "answer": "北京的四合院建筑风格广为人们所喜爱。",
+          "explanation": "Công thức chuẩn: Chủ ngữ (đối tượng chịu tác động) + 为 + Tác nhân + 所 + Động từ 2 âm tiết.",
+          "review_tip": "Ôn cấu trúc 为……所…… (HSK 5 上 Bài 14)."
+        },
+        {
+          "id": "ct_5s1115_6", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 15 (胜利—成功)", "mistake_category": "Từ vựng",
+          "prompt": "Chọn từ phù hợp khi nói về chiến tranh hoặc trận đấu đối kháng: “经过艰苦的比赛，我们队终于取得了______。”",
+          "options": ["胜利", "成功", "再三", "所谓"],
+          "answer": "胜利",
+          "explanation": "胜利 nhấn mạnh đánh bại đối thủ trong chiến tranh/thi đấu; 成功 nhấn mạnh đạt được mục tiêu công việc/nghiên cứu/sự nghiệp.",
+          "review_tip": "Ôn 词语辨析: 胜利—成功 (HSK 5 上 Bài 15)."
+        }
+      ]
+    },
+    "hsk5shang_c16_18": {
+      "title": "Đề kiểm tra tổng hợp Cụm Bài 16–18 (HSK 5 上 – Cụm cuối 3 bài)",
+      "questions": [
+        {
+          "id": "ct_5s1618_1", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 16 (临时—暂时)", "mistake_category": "Từ vựng",
+          "prompt": "Chọn từ ĐÚNG cho sự việc phát sinh đột xuất không có kế hoạch trước: “经理今天______有急事，会议改到明天上午了。”",
+          "options": ["临时", "暂时", "个别", "其余"],
+          "answer": "临时",
+          "explanation": "临时 nhấn mạnh tính đột xuất, phát sinh ngay sát lúc làm việc (临时有事, 临时改变计划); 暂时 nhấn mạnh thời gian ngắn rồi sẽ đổi lại.",
+          "review_tip": "Ôn 词语辨析: 临时—暂时 (HSK 5 上 Bài 16)."
+        },
+        {
+          "id": "ct_5s1618_2", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Bài 16 (非……不可)", "mistake_category": "Ngữ pháp",
+          "prompt": "Câu “这次演讲比赛，我非参加不可！” biểu đạt sắc thái nào?",
+          "options": [
+            "Nhất định phải tham gia bằng được (quyết tâm khẳng định mạnh)",
+            "Tuyệt đối không được tham gia",
+            "Không cần thiết phải tham gia",
+            "Có tham gia hay không cũng được"
+          ],
+          "answer": "Nhất định phải tham gia bằng được (quyết tâm khẳng định mạnh)",
+          "explanation": "Phủ định hai lần '非……不可' = nhất định phải, không thể không.",
+          "review_tip": "Ôn phó từ 非 (HSK 5 上 Bài 16)."
+        },
+        {
+          "id": "ct_5s1618_3", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 17 (忽视—轻视)", "mistake_category": "Từ vựng",
+          "prompt": "Chọn từ ĐÚNG (chỉ sự sơ suất quên chú ý, không phải coi thường): “大家往往重视演出的开始，却容易______结束时的准备。”",
+          "options": ["忽视", "轻视", "宁可", "可见"],
+          "answer": "忽视",
+          "explanation": "忽视 = xem nhẹ, lơ là thiếu chú ý (không mang ý khinh thường); 轻视 = khinh thường, coi thường (mang thái độ chủ quan đánh giá thấp).",
+          "review_tip": "Ôn 词语辨析: 忽视—轻视 (HSK 5 上 Bài 17)."
+        },
+        {
+          "id": "ct_5s1618_4", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Bài 17 (宁可)", "mistake_category": "Ngữ pháp",
+          "prompt": "Hoàn thành câu chuẩn ngữ pháp với “宁可”: “为了保证质量，他______多花一点儿时间，______不随便应付。”",
+          "options": ["宁可……也……", "宁可……但是……", "不仅……宁可……", "既然……宁可……"],
+          "answer": "宁可……也……",
+          "explanation": "Cặp cấu trúc lựa chọn dứt khoát: 宁可 + Phương án chấp nhận thiệt hơn，也 + Kiên quyết làm/không làm điều kia.",
+          "review_tip": "Ôn liên từ 宁可 (HSK 5 上 Bài 17)."
+        },
+        {
+          "id": "ct_5s1618_5", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Bài 18 (目前—现在)", "mistake_category": "Từ vựng",
+          "prompt": "Chọn câu DÙNG ĐÚNG cặp “目前—现在”:",
+          "options": [
+            "目前我们还在收集研究数据；现在已经是晚上九点了。",
+            "目前已经是晚上九点了。",
+            "现在为止，一切进展顺利。",
+            "从目前开始，我要每天早睡早起。"
+          ],
+          "answer": "目前我们还在收集研究数据；现在已经是晚上九点了。",
+          "explanation": "目前 chỉ giai đoạn hiện nay (văn viết, không dùng báo giờ cụ thể và không đi với '从目前开始'); 现在 dùng cho cả thời điểm cụ thể (现在九点).",
+          "review_tip": "Ôn 词语辨析: 目前—现在 (HSK 5 上 Bài 18)."
+        },
+        {
+          "id": "ct_5s1618_6", "type": "grammar_mc", "level": "Vận dụng", "origin_tag": "Bài 18 (极其 / 可见)", "mistake_category": "Ngữ pháp",
+          "prompt": "Điền cặp từ chuẩn xác: “他每天花三个小时练字，成绩提高得很快，______坚持是多么重要！”",
+          "options": ["可见", "其余", "极其", "宁可"],
+          "answer": "可见",
+          "explanation": "可见 = có thể thấy rằng (rút ra kết luận rõ ràng từ sự kiện vừa nêu phía trước).",
+          "review_tip": "Ôn liên từ 可见 (HSK 5 上 Bài 18)."
+        }
+      ]
+    },
+    "hsk5shang_c1_10": {
+      "title": "Đề kiểm tra Tổng hợp Nửa đầu HSK 5 上 (Bài 1–10)",
+      "questions": [
+        {
+          "id": "ct_5s110_1", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "HSK 5 上 Bài 1–10", "mistake_category": "Ngữ pháp",
+          "prompt": "Chọn câu ĐÚNG hoàn toàn về từ loại & ngữ pháp:",
+          "options": [
+            "我们彼此非常信任，而且平时经常互相帮助。",
+            "我们互相非常信任，而且平时经常彼此帮助。",
+            "今天如何这么冷？是不是降温了？",
+            "这项新政策已经满意了大多数市民的要求。"
+          ],
+          "answer": "我们彼此非常信任，而且平时经常互相帮助。",
+          "explanation": "彼此 là đại từ, 互相 là phó từ; câu C sai 如何 hỏi nguyên nhân, câu D sai 满意 mang tân ngữ (phải là 满足).",
+          "review_tip": "Tổng ôn Bài 1, 4, 8 của HSK 5 上."
+        },
+        {
+          "id": "ct_5s110_2", "type": "grammar_mc", "level": "Vận dụng", "origin_tag": "Bài 2 & 9", "mistake_category": "Ngữ pháp",
+          "prompt": "Điền cặp từ phù hợp: “改革开放______，中国经济发生了巨大变化；______一名青年，我们应该努力学习。”",
+          "options": ["以来 / 作为", "以来 / 算", "至今 / 亲自", "从而 / 作为"],
+          "answer": "以来 / 作为",
+          "explanation": "……以来 = kể từ... đến nay (Bài 2); 作为 + thân phận = với tư cách là... (Bài 9).",
+          "review_tip": "Ôn 以来 (Bài 2) và 作为 (Bài 9)."
+        },
+        {
+          "id": "ct_5s110_3", "type": "reading_mc", "level": "Vận dụng", "origin_tag": "Tổng hợp Bài 1–10", "mistake_category": "Đọc hiểu",
+          "passage": "许多重大的科学发现，往往并不是一开始就得到所有人认可的。面对不同的声音，如果害怕争论，反而会失去接近真理的机会；相反，理性地讨论和实验，逐渐就能显示出事实的真相。",
+          "prompt": "Theo đoạn văn, thái độ đúng đắn trước những ý kiến tranh luận khác biệt là gì?",
+          "options": [
+            "Thảo luận lý tính và thực nghiệm để dần tìm ra sự thật",
+            "Tránh mọi cuộc tranh luận để giữ hòa khí",
+            "Từ bỏ ngay nếu ban đầu không được ai ủng hộ",
+            "Chỉ tin vào ý kiến của số đông"
+          ],
+          "answer": "Thảo luận lý tính và thực nghiệm để dần tìm ra sự thật",
+          "explanation": "Đoạn văn chỉ rõ: '理性地讨论和实验，逐渐就能显示出事实的真相'.",
+          "review_tip": "Ôn Bài 10 (争论的奇迹) và Bài 4 (反而)."
+        }
+      ]
+    },
+    "hsk5shang_c11_18": {
+      "title": "Đề kiểm tra Tổng hợp Nửa sau HSK 5 上 (Bài 11–18)",
+      "questions": [
+        {
+          "id": "ct_5s1118_1", "type": "synonym_mc", "level": "Vận dụng", "origin_tag": "HSK 5 上 Bài 11–18", "mistake_category": "Ngữ pháp",
+          "prompt": "Chọn câu KHÔNG mắc lỗi dùng từ cận nghĩa:",
+          "options": [
+            "多亏你再三提醒，我才没有忽视这个极其重要的细节。",
+            "多亏你再三提醒，我才没有轻视这个目前九点的会议。",
+            "这场雨继续下了三天三夜，一直没有停。",
+            "这里的交通非常发展，去哪儿都很方便。"
+          ],
+          "answer": "多亏你再三提醒，我才没有忽视这个极其重要的细节。",
+          "explanation": "Câu A dùng chuẩn cả 多亏, 再三, 忽视, 极其. (B sai 目前 báo giờ; C cần 持续 vì không gián đoạn; D cần tính từ 发达).",
+          "review_tip": "Tổng ôn Bài 11–18 HSK 5 上."
+        },
+        {
+          "id": "ct_5s1118_2", "type": "error_fix", "level": "Vận dụng", "origin_tag": "Bài 13 & 15", "mistake_category": "Ngữ pháp",
+          "prompt": "Chọn cách giải thích ĐÚNG cho thành ngữ “纸上谈兵” (Bài 15):",
+          "options": [
+            "Chỉ nói lý thuyết suông trên giấy, thiếu kinh nghiệm thực tế nên không giải quyết được vấn đề",
+            "Viết chữ rất đẹp trên giấy",
+            "Rất giỏi chỉ huy đánh trận thực tế",
+            "Thích đọc sách lịch sử cổ đại"
+          ],
+          "answer": "Chỉ nói lý thuyết suông trên giấy, thiếu kinh nghiệm thực tế nên không giải quyết được vấn đề",
+          "explanation": "Điển tích Triệu Quát thời Chiến Quốc trong Bài 15: chỉ giỏi lý luận sách vở mà thiếu ứng biến thực tế.",
+          "review_tip": "Ôn Bài 15: 纸上谈兵."
+        },
+        {
+          "id": "ct_5s1118_3", "type": "translate_zh_vi", "level": "Vận dụng", "origin_tag": "Bài 17–18", "mistake_category": "Dịch thuật",
+          "prompt": "Dịch sang tiếng Việt: “在最美好的时刻离开，往往会给人留下极其深刻的印象。”",
+          "hint": "Chú ý 极其深刻 (vô cùng sâu sắc) và 留下……印象.",
+          "keywords": ["khoảnh khắc", "ấn tượng"],
+          "answer": "Rời đi vào khoảnh khắc tươi đẹp nhất thường sẽ để lại cho người khác ấn tượng vô cùng sâu sắc.",
+          "explanation": "Kết hợp từ vựng Bài 17 (在最美好的时刻离开, 深刻) và Bài 18 (极其).",
+          "review_tip": "Ôn Bài 17 & 18 HSK 5 上."
+        }
+      ]
+    }
+  }
+}
