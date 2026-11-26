@@ -1,0 +1,477 @@
+{
+  "id": "hsk5shang_l11",
+  "book_id": "hsk5shang",
+  "textbook": "HSK 5 上",
+  "lesson_number": 11,
+  "title_zh": "闹钟的危害",
+  "title_vi": "Tác hại của đồng hồ báo thức",
+  "pdf_pages": "Trang sách 100–108 (Giáo Trình Chuẩn HSK5 Tập 1.pdf)",
+  "source_status": "verified_textbook",
+  "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"],
+  "vocabulary": [
+    {
+      "id": "hsk5s_l11_w01", "order": 1, "textbook": "HSK 5 上", "lesson": 11,
+      "hanzi": "闹钟", "pinyin": "nàozhōng",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "đồng hồ báo thức", "structure": "定闹钟 / 生物闹钟 / 光闹钟", "explanation": "Loại đồng hồ có thể hẹn giờ đổ chuông đánh thức.", "examples": [{ "chinese": "光线是自然醒的必要条件，是人体内的生物闹钟。", "pinyin": "Guāngxiàn shì zìrán xǐng de bìyào tiáojiàn, shì réntǐ nèi de shēngwù nàozhōng.", "vietnamese": "Ánh sáng là điều kiện cần thiết để thức dậy tự nhiên, là đồng hồ báo thức sinh học bên trong cơ thể người.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "可以定时发出铃声叫醒人的钟。", "collocations": ["定闹钟", "闹钟响了", "传统闹钟"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l11_w02", "order": 2, "textbook": "HSK 5 上", "lesson": 11,
+      "hanzi": "危害", "pinyin": "wēihài",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "gây nguy hại, làm hại", "structure": "危害 + 健康 / 社会安全 / 环境", "explanation": "Làm tổn hại nghiêm trọng đến sức khỏe, xã hội hoặc lợi ích lớn.", "examples": [{ "chinese": "闹钟的危害", "pinyin": "Nàozhōng de wēihài", "vietnamese": "Tác hại của đồng hồ báo thức", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["mối nguy hại, tác hại"], "structure": "造成很大危害 / ……的危害", "difference_note": "Như ở ngay tiêu đề bài học '闹钟的危害', 危害 cũng dùng làm danh từ chỉ hậu quả nguy hại.", "examples": [{ "chinese": "吸烟对身体健康的危害非常大。", "pinyin": "Xīyān duì shēntǐ jiànkāng de wēihài fēicháng dà.", "vietnamese": "Tác hại của việc hút thuốc đối với sức khỏe cơ thể rất lớn." }] }
+      ],
+      "chinese_explanation": "使受破坏；损害。", "collocations": ["危害社会", "危害健康", "造成危害"], "usage_note": "Phân biệt với 伤害 (bài tập 2 câu 4 tr.107): 危害 dùng cho đối tượng lớn/trừu tượng (社会安全、环境、健康); 伤害 thường dùng cho tình cảm hoặc cơ thể cụ thể (伤害感情、伤害身体).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l11_w03", "order": 3, "textbook": "HSK 5 上", "lesson": 11,
+      "hanzi": "人类", "pinyin": "rénlèi",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "loài người", "structure": "人类睡眠 / 人类社会 / 全人类", "explanation": "Chỉ toàn thể giống loài con người nói chung.", "examples": [{ "chinese": "医学研究证明，人类睡眠有其特定的机制。", "pinyin": "Yīxué yánjiū zhèngmíng, rénlèi shuìmián yǒu qí tèdìng de jīzhì.", "vietnamese": "Nghiên cứu y học chứng minh giấc ngủ của loài người có cơ chế đặc thù của nó.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "人的总称。", "collocations": ["人类社会", "人类历史", "人类发明"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l11_w04", "order": 4, "textbook": "HSK 5 上", "lesson": 11, "is_out_of_syllabus": true,
+      "hanzi": "机制", "pinyin": "jīzhì",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "cơ chế", "structure": "特定的机制 / 睡眠机制 / 竞争机制", "explanation": "Cấu tạo và nguyên lý vận hành của một hệ thống sinh học hoặc xã hội.", "examples": [{ "chinese": "人类睡眠有其特定的机制。", "pinyin": "Rénlèi shuìmián yǒu qí tèdìng de jīzhì.", "vietnamese": "Giấc ngủ của loài người có cơ chế đặc thù của nó.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "有机体的构造、功能和相互关系；泛指工作系统的组织或部分之间相互作用的过程和方式。", "collocations": ["特定机制", "管理机制", "竞争机制"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l11_w05", "order": 5, "textbook": "HSK 5 上", "lesson": 11, "is_out_of_syllabus": true,
+      "hanzi": "生物", "pinyin": "shēngwù",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "sinh vật", "structure": "生物钟 / 海洋生物 / 生物学", "explanation": "Các thể có sự sống trong tự nhiên (động vật, thực vật, vi sinh vật).", "examples": [{ "chinese": "自然醒是最符合人体生物钟规律的。", "pinyin": "Zìrán xǐng shì zuì fúhé réntǐ shēngwùzhōng guīlǜ de.", "vietnamese": "Thức dậy tự nhiên là phù hợp nhất với quy luật đồng hồ sinh học của cơ thể người.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "自然界中具有生命的物体。", "collocations": ["生物钟", "生物闹钟", "保护生物"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l11_w06", "order": 6, "textbook": "HSK 5 上", "lesson": 11,
+      "hanzi": "规律", "pinyin": "guīlǜ",
+      "lesson_usage": { "part_of_speech": "名词 / 形容词 (Danh từ / Tính từ)", "meanings": ["1. (Danh từ) quy luật", "2. (Tính từ) đều đặn, có nhịp điệu"], "meaning": "quy luật; đều đều, có nhịp điệu", "structure": "(dt) 符合……规律 / 自然规律; (tt) 生活很规律 / 有规律的运动", "explanation": "Mối liên hệ bản chất lặp đi lặp lại; hoặc tính chất đều đặn, có giờ giấc.", "examples": [
+        { "chinese": "自然醒是最符合人体生物钟规律的。", "pinyin": "Zìrán xǐng shì zuì fúhé réntǐ shēngwùzhōng guīlǜ de.", "vietnamese": "Thức dậy tự nhiên phù hợp nhất với quy luật đồng hồ sinh học của cơ thể.", "from_text": true },
+        { "chinese": "生命在于运动，有规律的运动对于身体健康大有好处。", "pinyin": "Shēngmìng zàiyú yùndòng, yǒu guīlǜ de yùndòng duìyú shēntǐ jiànkāng dàyǒu hǎochu.", "vietnamese": "Sự sống nằm ở vận động, vận động đều đặn rất có ích cho sức khỏe." }
+      ] },
+      "additional_usages": [], "chinese_explanation": "事物之间的内在的必然联系；有节奏、整齐有序。", "collocations": ["生物钟规律", "自然规律", "生活很规律", "有规律的运动"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l11_w07", "order": 7, "textbook": "HSK 5 上", "lesson": 11,
+      "hanzi": "光线", "pinyin": "guāngxiàn",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "ánh sáng, tia sáng", "structure": "太阳光线 / 光线昏暗 / 光线明亮", "explanation": "Ánh sáng truyền đi từ nguồn sáng (mặt trời, đèn...).", "examples": [{ "chinese": "光线是自然醒的必要条件，是人体内的生物闹钟。", "pinyin": "Guāngxiàn shì zìrán xǐng de bìyào tiáojiàn, shì réntǐ nèi de shēngwù nàozhōng.", "vietnamese": "Ánh sáng là điều kiện cần thiết để thức dậy tự nhiên, là chiếc đồng hồ báo thức sinh học trong cơ thể người.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "光辐射的路线；亮光。", "collocations": ["光线明亮", "光线昏暗", "自然光线", "太阳光线"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l11_w08", "order": 8, "textbook": "HSK 5 上", "lesson": 11,
+      "hanzi": "必要", "pinyin": "bìyào",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "cần thiết, thiết yếu", "structure": "必要条件 / 很有必要 / 没有必要", "explanation": "Không thể thiếu, bắt buộc phải có.", "examples": [{ "chinese": "光线是自然醒的必要条件。", "pinyin": "Guāngxiàn shì zìrán xǐng de bìyào tiáojiàn.", "vietnamese": "Ánh sáng là điều kiện cần thiết của việc thức dậy tự nhiên.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["sự cần thiết"], "structure": "有……的必要 / 很有必要 / 没必要", "difference_note": "Làm tân ngữ cho 有/没有, biểu thị sự cần thiết phải làm việc gì.", "examples": [{ "chinese": "在婚姻问题上，听听父母的意见还是很有必要的。", "pinyin": "Zài hūnyīn wèntí shang, tīngting fùmǔ de yìjiàn háishi hěn yǒu bìyào de.", "vietnamese": "Trong vấn đề hôn nhân, lắng nghe ý kiến cha mẹ vẫn rất cần thiết." }] }
+      ],
+      "chinese_explanation": "不可缺少；非这样不行。", "collocations": ["必要条件", "很有必要", "没有必要"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l11_w09", "order": 9, "textbook": "HSK 5 上", "lesson": 11, "is_out_of_syllabus": true,
+      "hanzi": "过渡", "pinyin": "guòdù",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "quá độ, chuyển tiếp", "structure": "从 A 过渡到 B", "explanation": "Chuyển dần từ giai đoạn hoặc trạng thái này sang giai đoạn, trạng thái khác.", "examples": [{ "chinese": "人逐渐从熟睡过渡到浅睡，直到醒来。", "pinyin": "Rén zhújiàn cóng shúshuì guòdù dào qiǎnshuì, zhídào xǐnglai.", "vietnamese": "Con người dần chuyển tiếp từ ngủ sâu sang ngủ nông, cho đến khi tỉnh dậy.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "事物由一个阶段或一种状态逐渐发展变化而转入另一个阶段或另一种状态。", "collocations": ["从……过渡到……", "自然过渡", "过渡时期"], "usage_note": "Phân biệt với 过度 (guòdù — quá mức, vượt quá giới hạn: 过度疲劳).", "common_errors": "Dễ viết nhầm thành 过度 (đồng âm).", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l11_w10", "order": 10, "textbook": "HSK 5 上", "lesson": 11,
+      "hanzi": "浅", "pinyin": "qiǎn",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "nông, cạn", "structure": "浅睡 / 河水很浅", "explanation": "Không sâu (về mức độ giấc ngủ, mực nước...), trái nghĩa với 深.", "examples": [{ "chinese": "人逐渐从熟睡过渡到浅睡，直到醒来。", "pinyin": "Rén zhújiàn cóng shúshuì guòdù dào qiǎnshuì, zhídào xǐnglai.", "vietnamese": "Con người dần chuyển từ ngủ say sang ngủ nông, cho đến khi tỉnh dậy.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "形容词 (Nghĩa mở rộng: nhạt màu / nông cạn)", "meanings": ["nhạt (màu sắc)", "đơn giản, dễ hiểu (nội dung)"], "structure": "浅色 / 浅蓝色 / 浅显", "difference_note": "Dùng cho màu sắc (trái với 深 màu đậm) hoặc độ khó kiến thức.", "examples": [{ "chinese": "这件浅蓝色的衬衫很适合你。", "pinyin": "Zhè jiàn qiǎnlánsè de chènshān hěn shìhé nǐ.", "vietnamese": "Chiếc áo sơ mi màu xanh dương nhạt này rất hợp với bạn." }] }
+      ],
+      "chinese_explanation": "从表面到底部距离小；程度不深；颜色淡。", "collocations": ["浅睡", "浅色", "河水很浅"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l11_w11", "order": 11, "textbook": "HSK 5 上", "lesson": 11,
+      "hanzi": "现代", "pinyin": "xiàndài",
+      "lesson_usage": { "part_of_speech": "名词 / 形容词 (Danh từ / Tính từ)", "meanings": ["1. (Danh từ) thời đại ngày nay", "2. (Tính từ) hiện đại"], "meaning": "thời đại ngày nay; hiện đại", "structure": "现代生活 / 现代社会 / 现代人", "explanation": "Thời kỳ hiện tại hoặc mang đặc trưng tiến bộ của thời đại ngày nay.", "examples": [{ "chinese": "紧张的现代生活，使很多上班的人无法享受轻松舒适的睡眠。", "pinyin": "Jǐnzhāng de xiàndài shēnghuó, shǐ hěn duō shàngbān de rén wúfǎ xiǎngshòu qīngsōng shūshì de shuìmián.", "vietnamese": "Cuộc sống hiện đại căng thẳng khiến nhiều người đi làm không thể tận hưởng giấc ngủ nhẹ nhàng thoải mái.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "现在这个时代；符合当前时代特征的。", "collocations": ["现代生活", "现代社会", "现代技术", "现代化"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l11_w12", "order": 12, "textbook": "HSK 5 上", "lesson": 11,
+      "hanzi": "享受", "pinyin": "xiǎngshòu",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "hưởng thụ", "structure": "享受 + 生活 / 自由 / 艺术 / 幸福 / 快乐 / 睡眠", "explanation": "Tận hưởng điều tốt đẹp về vật chất hoặc tinh thần.", "examples": [{ "chinese": "使很多上班的人无法享受轻松舒适的睡眠。", "pinyin": "Shǐ hěn duō shàngbān de rén wúfǎ xiǎngshòu qīngsōng shūshì de shuìmián.", "vietnamese": "Khiến nhiều người đi làm không thể tận hưởng giấc ngủ nhẹ nhàng thoải mái.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["niềm vui hưởng thụ, sự tận hưởng"], "structure": "一种享受 / 精神享受", "difference_note": "Đứng sau lượng từ 一种 hoặc định ngữ để gọi tên cảm giác tận hưởng.", "examples": [{ "chinese": "周末听听音乐对我来说是一种享受。", "pinyin": "Zhōumò tīngting yīnyuè duì wǒ lái shuō shì yì zhǒng xiǎngshòu.", "vietnamese": "Cuối tuần nghe nhạc đối với tôi là một sự tận hưởng." }] }
+      ],
+      "chinese_explanation": "在物质上或精神上得到满足。", "collocations": ["享受自由", "享受人生", "享受音乐", "享受幸福"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l11_w13", "order": 13, "textbook": "HSK 5 上", "lesson": 11,
+      "hanzi": "用途", "pinyin": "yòngtú",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "công dụng", "structure": "闹钟的用途 / 广泛的用途 / 什么用途", "explanation": "Phạm vi và mục đích sử dụng của một vật.", "examples": [{ "chinese": "闹钟的用途就显得格外重要了。", "pinyin": "Nàozhōng de yòngtú jiù xiǎnde géwài zhòngyào le.", "vietnamese": "Công dụng của đồng hồ báo thức liền trở nên đặc biệt quan trọng.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "应用的方面或范围。", "collocations": ["主要用途", "用途广泛", "特殊用途"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l11_w14", "order": 14, "textbook": "HSK 5 上", "lesson": 11,
+      "hanzi": "实验", "pinyin": "shíyàn",
+      "lesson_usage": { "part_of_speech": "动词 / 名词 (Động từ / Danh từ)", "meanings": ["1. (Động từ) thực nghiệm, làm thí nghiệm", "2. (Danh từ) cuộc thí nghiệm, công việc thực nghiệm"], "meaning": "thực nghiệm; công việc thực nghiệm", "structure": "做实验 / 实验研究 / 实验室", "explanation": "Tiến hành thử nghiệm khoa học để kiểm chứng giả thuyết hoặc quy luật.", "examples": [{ "chinese": "但实验研究证明，人们对自然醒与被闹钟铃声叫醒这两种方式所产生的反应是很不相同的。", "pinyin": "Dàn shíyàn yánjiū zhèngmíng, rénmen duì zìrán xǐng yǔ bèi nàozhōng língshēng jiàoxǐng zhè liǎng zhǒng fāngshì suǒ chǎnshēng de fǎnyìng shì hěn bù xiāngtóng de.", "vietnamese": "Nhưng nghiên cứu thực nghiệm chứng minh phản ứng của con người trước hai cách thức dậy tự nhiên và bị chuông báo thức đánh thức rất khác nhau.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "为了检验某种科学理论或假设而进行某种操作或从事某种活动。", "collocations": ["做实验", "实验失败", "实验证明", "实验室"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l11_w15", "order": 15, "textbook": "HSK 5 上", "lesson": 11,
+      "hanzi": "铃", "pinyin": "líng",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "cái chuông", "structure": "铃声 / 闹铃 / 门铃 / 上课铃", "explanation": "Thiết bị phát ra tiếng rung kêu báo hiệu.", "examples": [{ "chinese": "人们对自然醒与被闹钟铃声叫醒这两种方式所产生的反应是很不相同的。", "pinyin": "Rénmen duì zìrán xǐng yǔ bèi nàozhōng língshēng jiàoxǐng zhè liǎng zhǒng fāngshì suǒ chǎnshēng de fǎnyìng shì hěn bù xiāngtóng de.", "vietnamese": "Phản ứng của con người với việc thức dậy tự nhiên và bị chuông đồng hồ báo thức đánh thức rất khác nhau.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "用金属制成的响器；按铃发声的装置。", "collocations": ["闹铃", "铃声", "门铃", "打铃"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l11_w16", "order": 16, "textbook": "HSK 5 上", "lesson": 11,
+      "hanzi": "所", "pinyin": "suǒ",
+      "lesson_usage": { "part_of_speech": "助词 (Trợ từ)", "meaning": "mà (dùng trước động từ trong kết cấu chủ-vị làm định ngữ hoặc danh từ hóa)", "structure": "S + 所 + V + 的 (+ N) / 有(无) + 所 + V", "explanation": "Trợ từ văn viết đặt trước động từ để nhấn mạnh đối tượng chịu tác động của hành động.", "examples": [{ "chinese": "人们对自然醒与被闹钟铃声叫醒这两种方式所产生的反应是很不相同的。", "pinyin": "Rénmen duì zìrán xǐng yǔ bèi nàozhōng língshēng jiàoxǐng zhè liǎng zhǒng fāngshì suǒ chǎnshēng de fǎnyìng shì hěn bù xiāngtóng de.", "vietnamese": "Phản ứng mà con người tạo ra với việc thức dậy tự nhiên và bị chuông báo thức đánh thức là rất khác nhau.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "量词 (Lượng từ — Chú thích 2 tr.103)", "meanings": ["ngôi, tòa (dùng cho trường học, bệnh viện, nhà ở, cơ quan)"], "structure": "一所大学 / 一所幼儿园 / 一所医院", "difference_note": "Khác hoàn toàn với trợ từ 所 đứng trước động từ.", "examples": [{ "chinese": "学校附近就有一所幼儿园，你可以把孩子送到那儿去。", "pinyin": "Xuéxiào fùjìn jiù yǒu yì suǒ yòu'éryuán, nǐ kěyǐ bǎ háizi sòng dào nàr qù.", "vietnamese": "Gần trường có ngay một nhà trẻ, bạn có thể gửi con ở đó." }] },
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["viện, sở, trạm, nơi chốn"], "structure": "研究所 / 派出所 / 厕所", "difference_note": "Làm yếu tố tạo danh từ chỉ cơ quan/địa điểm.", "examples": [{ "chinese": "他在一家医学研究所工作。", "pinyin": "Tā zài yì jiā yīxué yánjiūsuǒ gōngzuò.", "vietnamese": "Anh ấy làm việc tại một viện nghiên cứu y học." }] }
+      ],
+      "chinese_explanation": "助词，用在动词前指称事物；量词，用于住所、机构等。", "collocations": ["所产生的反应", "有所提高", "无所不谈", "一所大学"], "usage_note": "Xem kỹ Chú thích 2 tr.103 với 3 cấu trúc: S+所+V, 有/无+所+V và lượng từ 一所.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l11_w17", "order": 17, "textbook": "HSK 5 上", "lesson": 11,
+      "hanzi": "状态", "pinyin": "zhuàngtài",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "trạng thái, tình trạng", "structure": "睡眠状态 / 清醒状态 / 正常状态 / 工作状态", "explanation": "Tình hình, diện mạo biểu hiện của con người hoặc sự vật tại một thời điểm.", "examples": [{ "chinese": "从睡眠状态过渡到清醒状态时，人的呼吸会从16次/分钟提高到24次/分钟。", "pinyin": "Cóng shuìmián zhuàngtài guòdù dào qīngxǐng zhuàngtài shí, rén de hūxī huì cóng shíliù cì/fēnzhōng tígāo dào èrshísì cì/fēnzhōng.", "vietnamese": "Khi chuyển tiếp từ trạng thái ngủ sang trạng thái tỉnh táo, nhịp thở của con người sẽ tăng từ 16 lần/phút lên 24 lần/phút.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "人或事物表现出来的形态。", "collocations": ["睡眠状态", "正常状态", "心理状态", "进入状态"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l11_w18", "order": 18, "textbook": "HSK 5 上", "lesson": 11, "is_out_of_syllabus": true,
+      "hanzi": "清醒", "pinyin": "qīngxǐng",
+      "lesson_usage": { "part_of_speech": "形容词 / 动词 (Tính từ / Động từ)", "meanings": ["1. (Tính từ) tỉnh táo, minh mẫn", "2. (Động từ) tỉnh lại"], "meaning": "tỉnh táo; tỉnh lại", "structure": "清醒状态 / 清醒过来 / 头脑清醒", "explanation": "Đầu óc sáng suốt, không mơ màng; hoặc chuyển từ mê/ngủ sang tỉnh.", "examples": [{ "chinese": "从睡眠状态过渡到清醒状态时，人的呼吸会提高。", "pinyin": "Cóng shuìmián zhuàngtài guòdù dào qīngxǐng zhuàngtài shí, rén de hūxī huì tígāo.", "vietnamese": "Khi chuyển từ trạng thái ngủ sang trạng thái tỉnh táo, nhịp thở của người sẽ tăng lên.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "（头脑）清楚明白；由昏迷或睡眠中恢复正常知觉。", "collocations": ["清醒过来", "头脑清醒", "保持清醒"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l11_w19", "order": 19, "textbook": "HSK 5 上", "lesson": 11,
+      "hanzi": "呼吸", "pinyin": "hūxī",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "hít thở", "structure": "深呼吸 / 呼吸新鲜空气", "explanation": "Hít không khí vào phổi và thở ra.", "examples": [{ "chinese": "从睡眠状态过渡到清醒状态时，人的呼吸会从16次/分钟提高到24次/分钟。", "pinyin": "Cóng shuìmián zhuàngtài guòdù dào qīngxǐng zhuàngtài shí, rén de hūxī huì cóng shíliù cì/fēnzhōng tígāo dào èrshísì cì/fēnzhōng.", "vietnamese": "Khi chuyển từ trạng thái ngủ sang tỉnh táo, nhịp thở của con người sẽ tăng từ 16 lần/phút lên 24 lần/phút.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["hơi thở, nhịp hô hấp"], "structure": "人的呼吸 / 呼吸困难", "difference_note": "Như trong bài khóa ('人的呼吸'), 呼吸 thường danh từ hóa làm chủ ngữ hoặc định ngữ.", "examples": [{ "chinese": "爬完山后，他的呼吸变得非常急促。", "pinyin": "Páwán shān hòu, tā de hūxī biànde fēicháng jícù.", "vietnamese": "Sau khi leo núi xong, hơi thở của anh ấy trở nên rất gấp gáp." }] }
+      ],
+      "chinese_explanation": "生物体与外界进行气体交换。", "collocations": ["深呼吸", "呼吸新鲜空气", "呼吸困难"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l11_w20", "order": 20, "textbook": "HSK 5 上", "lesson": 11,
+      "hanzi": "心理", "pinyin": "xīnlǐ",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "tâm lý", "structure": "在心理上 / 心理压力 / 心理健康", "explanation": "Hoạt động tinh thần, tư tưởng, tình cảm bên trong con người.", "examples": [{ "chinese": "如果突然被闹钟叫醒，将在心理上使人产生心慌、情绪低落、感觉没睡醒等不适。", "pinyin": "Rúguǒ tūrán bèi nàozhōng jiàoxǐng, jiāng zài xīnlǐ shang shǐ rén chǎnshēng xīnhuāng, qíngxù dīluò, gǎnjué méi shuìxǐng děng búshì.", "vietnamese": "Nếu đột ngột bị đồng hồ báo thức đánh thức, về mặt tâm lý sẽ khiến người ta nảy sinh cảm giác khó chịu như hoảng hốt, tâm trạng ủ rũ, cảm thấy chưa ngủ đủ.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "人的思想、感情等内心活动。", "collocations": ["心理上", "心理压力", "心理健康", "心理学"], "usage_note": "Phân biệt với 心里 (xīnli — trong lòng: 我心里很高兴).", "common_errors": "Không viết nhầm 心理 (tâm lý) thành 心里 (trong lòng).", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l11_w21", "order": 21, "textbook": "HSK 5 上", "lesson": 11,
+      "hanzi": "慌（张）", "pinyin": "huāng (zhāng)",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "luống cuống, bối rối, hoảng hốt", "structure": "心慌 / 别慌 / 慌张地……", "explanation": "Tâm trạng gấp gáp, lo sợ, mất bình tĩnh.", "examples": [{ "chinese": "将在心理上使人产生心慌、情绪低落、感觉没睡醒等不适。", "pinyin": "Jiāng zài xīnlǐ shang shǐ rén chǎnshēng xīnhuāng, qíngxù dīluò, gǎnjué méi shuìxǐng děng búshì.", "vietnamese": "Về mặt tâm lý sẽ khiến người ta nảy sinh hoảng hốt, tâm trạng ủ rũ, cảm thấy chưa ngủ đủ và các cảm giác khó chịu khác.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "急忙，不沉着，心里发乱。", "collocations": ["心慌", "别慌", "慌慌张张"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l11_w22", "order": 22, "textbook": "HSK 5 上", "lesson": 11,
+      "hanzi": "情绪", "pinyin": "qíngxù",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "tâm trạng, tinh thần, cảm xúc", "structure": "情绪低落 / 稳定的情绪 / 紧张的情绪", "explanation": "Trạng thái cảm xúc, tâm tình nảy sinh khi làm việc hoặc gặp sự việc.", "examples": [{ "chinese": "将在心理上使人产生心慌、情绪低落、感觉没睡醒等不适。", "pinyin": "Jiāng zài xīnlǐ shang shǐ rén chǎnshēng xīnhuāng, qíngxù dīluò, gǎnjué méi shuìxǐng děng búshì.", "vietnamese": "Về tâm lý sẽ khiến người ta thấy hoảng hốt, tâm trạng sa sút, cảm giác chưa tỉnh ngủ...", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "人从事某种活动时产生的兴奋心理状态或心情。", "collocations": ["情绪低落", "稳定情绪", "紧张的情绪", "不满的情绪"], "usage_note": "Phân biệt với 精神 (bài tập 2 câu 1 tr.107): '打起精神' (xốc lại tinh thần), '稳定情绪' (ổn định cảm xúc).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l11_w23", "order": 23, "textbook": "HSK 5 上", "lesson": 11,
+      "hanzi": "低落", "pinyin": "dīluò",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "suy nhược, ủ rũ, sa sút", "structure": "情绪低落 / 士气低落", "explanation": "Xuống thấp, không phấn chấn (thường đi với tâm trạng, tinh thần).", "examples": [{ "chinese": "将在心理上使人产生心慌、情绪低落、感觉没睡醒等不适。", "pinyin": "Jiāng zài xīnlǐ shang shǐ rén chǎnshēng xīnhuāng, qíngxù dīluò, gǎnjué méi shuìxǐng děng búshì.", "vietnamese": "Sẽ khiến con người nảy sinh hoảng hốt, tâm trạng ủ rũ, cảm giác chưa ngủ đủ...", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "（情绪、水平等）下降，不高涨。", "collocations": ["情绪低落", "心情低落"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l11_w24", "order": 24, "textbook": "HSK 5 上", "lesson": 11,
+      "hanzi": "记忆", "pinyin": "jìyì",
+      "lesson_usage": { "part_of_speech": "动词 / 名词 (Động từ / Danh từ)", "meanings": ["1. (Động từ) nhớ, ghi nhớ", "2. (Danh từ) ký ức, trí nhớ"], "meaning": "nhớ; ký ức", "structure": "短期记忆能力 / 童年的记忆 / 难忘的记忆", "explanation": "Khả năng ghi nhớ của não bộ hoặc những hình ảnh, trải nghiệm còn lưu giữ.", "examples": [{ "chinese": "如果是从深度睡眠中被突然叫醒，那么，人的短期记忆能力、计算技能都会受到影响。", "pinyin": "Rúguǒ shì cóng shēndù shuìmián zhōng bèi tūrán jiàoxǐng, nàme, rén de duǎnqī jìyì nénglì, jìsuàn jìnéng dōu huì shòudào yǐngxiǎng.", "vietnamese": "Nếu bị đánh thức đột ngột từ giấc ngủ sâu thì khả năng ghi nhớ ngắn hạn và kỹ năng tính toán của con người đều bị ảnh hưởng.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "记住；保持在脑子里的过去事物的印象。", "collocations": ["记忆力", "童年的记忆", "难忘的记忆", "记忆深刻"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l11_w25", "order": 25, "textbook": "HSK 5 上", "lesson": 11,
+      "hanzi": "计算", "pinyin": "jìsuàn",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "tính toán", "structure": "计算技能 / 计算出(来) / 电子计算机", "explanation": "Tính ra con số, kết quả dựa trên số liệu đã biết.", "examples": [{ "chinese": "人的短期记忆能力、计算技能都会受到影响。", "pinyin": "Rén de duǎnqī jìyì nénglì, jìsuàn jìnéng dōu huì shòudào yǐngxiǎng.", "vietnamese": "Khả năng ghi nhớ ngắn hạn và kỹ năng tính toán của con người đều sẽ bị ảnh hưởng.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "根据已知数通过数学方法求得未知数。", "collocations": ["计算出", "计算出来", "计算技能", "计算机"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l11_w26", "order": 26, "textbook": "HSK 5 上", "lesson": 11,
+      "hanzi": "相当", "pinyin": "xiāngdāng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "tương đương với, ngang nhau", "structure": "与/跟……相当 / 相当于……", "explanation": "Biểu thị hai phương diện (số lượng, điều kiện, trình độ...) gần bằng nhau.", "examples": [{ "chinese": "这些能力最多为正常状态的65%，与醉酒者相当。", "pinyin": "Zhèxiē nénglì zuìduō wéi zhèngcháng zhuàngtài de bǎifēnzhī liùshíwǔ, yǔ zuìjiǔzhě xiāngdāng.", "vietnamese": "Những năng lực này tối đa chỉ đạt 65% trạng thái bình thường, tương đương với người say rượu.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "副词 (Phó từ — Chú thích 3 tr.104)", "meanings": ["khá, tương đối (biểu thị mức độ khá cao)"], "structure": "相当 + 形容词/心理动词 (相当满意 / 相当不错)", "difference_note": "Đứng trước tính từ hoặc cụm danh từ (相当一部分人) để chỉ mức độ cao, khác với động từ 'tương đương'.", "examples": [{ "chinese": "菜的味道好极了，服务也挺周到，我相当满意。", "pinyin": "Cài de wèidào hǎo jíle, fúwù yě tǐng zhōudào, wǒ xiāngdāng mǎnyì.", "vietnamese": "Mùi vị món ăn ngon tuyệt, phục vụ cũng rất chu đáo, tôi khá hài lòng." }] }
+      ],
+      "chinese_explanation": "两方面差不多；副词，表示程度较高。", "collocations": ["与……相当", "相当于", "相当满意", "相当不错"], "usage_note": "Xem Chú thích 3 tr.104 để nắm chắc cả hai từ loại Động từ và Phó từ.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l11_w27", "order": 27, "textbook": "HSK 5 上", "lesson": 11,
+      "hanzi": "持续", "pinyin": "chíxù",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "kéo dài, duy trì lâu dài", "structure": "持续 + Thời lượng / 持续到…… / 持续的 + N", "explanation": "Diễn ra liên tục không gián đoạn trong một khoảng thời gian.", "examples": [{ "chinese": "这种状态如果持续数天、数周、数月，将导致高血压、失眠和一些精神问题等。", "pinyin": "Zhè zhǒng zhuàngtài rúguǒ chíxù shù tiān, shù zhōu, shù yuè, jiāng dǎozhì gāoxuèyā, shīmián hé yìxiē jīngshén wèntí děng.", "vietnamese": "Trạng thái này nếu kéo dài vài ngày, vài tuần, vài tháng sẽ dẫn đến cao huyết áp, mất ngủ và một số vấn đề tinh thần...", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "延续不断，中间没有停顿。", "collocations": ["持续数天", "持续下降", "持续到九月底", "持续的高温"], "usage_note": "Xem bảng 词语辨析: 持续—继续 (tr.105–106): 持续 không có quãng ngắt, làm được định ngữ và mang được bổ ngữ thời lượng.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l11_w28", "order": 28, "textbook": "HSK 5 上", "lesson": 11,
+      "hanzi": "数", "pinyin": "shù",
+      "lesson_usage": { "part_of_speech": "数词 (Số từ)", "meaning": "vài, mấy (văn viết)", "structure": "数 + 量词/时间名词 (数天 / 数周 / 数月 / 数年 / 数小时)", "explanation": "Nghĩa như 几、几个, chủ yếu dùng trong văn viết.", "examples": [{ "chinese": "这种状态如果持续数天、数周、数月，将导致高血压、失眠和一些精神问题等。", "pinyin": "Zhè zhǒng zhuàngtài rúguǒ chíxù shù tiān, shù zhōu, shù yuè, jiāng dǎozhì gāoxuèyā, shīmián hé yìxiē jīngshén wèntí děng.", "vietnamese": "Trạng thái này nếu kéo dài vài ngày, vài tuần, vài tháng sẽ dẫn tới cao huyết áp, mất ngủ và một số vấn đề tinh thần.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ: shǔ — Chú thích 4 tr.104)", "meanings": ["đếm, kiểm đếm", "kể đến, xếp hạng nhất (khi so sánh)"], "structure": "数一下 / 数数 / (最)……的(要/就)数……", "difference_note": "Chữ đa âm! Đọc thanh 3 (shǔ) khi là động từ 'đếm' hoặc 'xếp nhất'.", "examples": [{ "chinese": "我觉得北京最美、最有名气的公园要数颐和园了。", "pinyin": "Wǒ juéde Běijīng zuì měi, zuì yǒu míngqì de gōngyuán yào shǔ Yíhéyuán le.", "vietnamese": "Tôi thấy công viên đẹp nhất, nổi tiếng nhất Bắc Kinh phải kể đến Di Hòa Viên." }] },
+        { "part_of_speech": "名词 (Danh từ: shù)", "meanings": ["con số, số mục"], "structure": "人数 / 少数 / 大多数 / 数学", "difference_note": "Đọc thanh 4 (shù) chỉ con số.", "examples": [{ "chinese": "大多数人都同意这个方案。", "pinyin": "Dàduōshù rén dōu tóngyì zhège fāng'àn.", "vietnamese": "Đại đa số mọi người đều đồng ý phương án này." }] }
+      ],
+      "chinese_explanation": "（shù）数词，几、几个；名词，数目。（shǔ）动词，查点数目；比较起来最突出。", "collocations": ["数天", "数年", "数数", "要数……"], "usage_note": "Xem Chú thích 4 tr.104 để phân biệt shù (số từ 'vài') và shǔ (động từ 'đếm / kể đến nhất').", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l11_w29", "order": 29, "textbook": "HSK 5 上", "lesson": 11,
+      "hanzi": "导致", "pinyin": "dǎozhì",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "dẫn đến, gây ra", "structure": "导致 + 错误 / 失败 / 失眠 / 危险 / 灾害", "explanation": "Gây ra một kết quả hoặc hậu quả (thường mang nghĩa tiêu cực, không mong muốn).", "examples": [{ "chinese": "将导致高血压、失眠和一些精神问题等。", "pinyin": "Jiāng dǎozhì gāoxuèyā, shīmián hé yìxiē jīngshén wèntí děng.", "vietnamese": "Sẽ dẫn đến cao huyết áp, mất ngủ và một số vấn đề về tinh thần.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "引起，造成（常用于不好的结果）。", "collocations": ["导致失眠", "导致失败", "导致错误", "导致危险"], "usage_note": "Thường dùng với kết quả xấu/bất lợi (khác với 引起 có thể trung tính hoặc tích cực).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l11_w30", "order": 30, "textbook": "HSK 5 上", "lesson": 11,
+      "hanzi": "失眠", "pinyin": "shīmián",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "mất ngủ", "structure": "经常失眠 / 导致失眠", "explanation": "Không thể đi vào giấc ngủ hoặc ngủ không ngon giấc vào ban đêm.", "examples": [{ "chinese": "将导致高血压、失眠和一些精神问题等。", "pinyin": "Jiāng dǎozhì gāoxuèyā, shīmián hé yìxiē jīngshén wèntí děng.", "vietnamese": "Sẽ dẫn đến cao huyết áp, mất ngủ và một số vấn đề tinh thần.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "夜里睡不着觉。", "collocations": ["经常失眠", "导致失眠", "严重失眠"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l11_w31", "order": 31, "textbook": "HSK 5 上", "lesson": 11,
+      "hanzi": "精神", "pinyin": "jīngshén",
+      "lesson_usage": { "part_of_speech": "名词 / 形容词 (Danh từ / Tính từ)", "meanings": ["1. (Danh từ) tinh thần", "2. (Tính từ) sôi nổi, hoạt bát, tỉnh táo (đọc thanh nhẹ jīngshen)"], "meaning": "tinh thần; sôi nổi, hoạt bát", "structure": "(dt) 精神问题 / 打起精神 / 精神饱满; (tt) 看起来很精神", "explanation": "Đời sống ý thức/tâm trí con người; hoặc vẻ ngoài đầy sức sống, tỉnh táo.", "examples": [
+        { "chinese": "将导致高血压、失眠和一些精神问题等。", "pinyin": "Jiāng dǎozhì gāoxuèyā, shīmián hé yìxiē jīngshén wèntí děng.", "vietnamese": "Sẽ dẫn tới cao huyết áp, mất ngủ và một số vấn đề tinh thần.", "from_text": true },
+        { "chinese": "实验失败了没关系，打起精神从头再来。", "pinyin": "Shíyàn shībài le méi guānxi, dǎqǐ jīngshén cóngtóu zài lái.", "vietnamese": "Thí nghiệm thất bại không sao cả, xốc lại tinh thần làm lại từ đầu." }
+      ] },
+      "additional_usages": [], "chinese_explanation": "人的意识、思维活动和心理状态；活跃、有生气。", "collocations": ["精神问题", "精神饱满", "精神愉快", "打起精神", "集中精神"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l11_w32", "order": 32, "textbook": "HSK 5 上", "lesson": 11,
+      "hanzi": "专家", "pinyin": "zhuānjiā",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "chuyên gia", "structure": "医学专家 / 专家解释说", "explanation": "Người có kiến thức chuyên sâu và kinh nghiệm dày dặn trong một lĩnh vực.", "examples": [{ "chinese": "对此，专家解释说，人在睡眠时，身体会发生一些变化。", "pinyin": "Duìcǐ, zhuānjiā jiěshì shuō, rén zài shuìmián shí, shēntǐ huì fāshēng yìxiē biànhuà.", "vietnamese": "Về điều này, chuyên gia giải thích rằng khi con người ngủ, cơ thể sẽ xảy ra một số biến đổi.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "对某一门学问有专门研究、擅长某项技术的人。", "collocations": ["医学专家", "教育专家", "专家建议"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l11_w33", "order": 33, "textbook": "HSK 5 上", "lesson": 11,
+      "hanzi": "采用", "pinyin": "cǎiyòng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "chọn dùng, áp dụng", "structure": "采用 + 柔和的声音 / 新方法 / 新技术", "explanation": "Lựa chọn một phương pháp, kỹ thuật hay cách thức phù hợp để sử dụng.", "examples": [{ "chinese": "如果你必须定个闹钟，应采用柔和的声音或音乐。", "pinyin": "Rúguǒ nǐ bìxū dìng ge nàozhōng, yīng cǎiyòng róuhé de shēngyīn huò yīnyuè.", "vietnamese": "Nếu bạn bắt buộc phải đặt đồng hồ báo thức, nên chọn dùng âm thanh hoặc bản nhạc êm dịu.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "认为合适而加以使用。", "collocations": ["采用新方法", "采用新技术", "采用柔和的声音"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l11_w34", "order": 34, "textbook": "HSK 5 上", "lesson": 11, "is_out_of_syllabus": true,
+      "hanzi": "柔和", "pinyin": "róuhé",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "êm dịu, dịu nhẹ", "structure": "柔和的声音 / 柔和的光线 / 柔和的色彩", "explanation": "Nhẹ nhàng, dễ chịu, không gay gắt (âm thanh, ánh sáng, màu sắc, giọng điệu).", "examples": [{ "chinese": "如果你必须定个闹钟，应采用柔和的声音或音乐。", "pinyin": "Rúguǒ nǐ bìxū dìng ge nàozhōng, yīng cǎiyòng róuhé de shēngyīn huò yīnyuè.", "vietnamese": "Nếu bạn buộc phải đặt đồng hồ báo thức, nên chọn âm thanh hoặc âm nhạc êm dịu.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "温和而不强烈。", "collocations": ["柔和的声音", "柔和的光线", "柔和的音乐"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l11_w35", "order": 35, "textbook": "HSK 5 上", "lesson": 11,
+      "hanzi": "愿望", "pinyin": "yuànwàng",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "ước muốn, điều mong muốn", "structure": "符合愿望 / 满足愿望 / 实现愿望", "explanation": "Điều mong ước đạt được trong tương lai (chỉ là danh từ, KHÔNG làm động từ!).", "examples": [{ "chinese": "各种醒来方式中，当然是自然醒最符合我们的愿望。", "pinyin": "Gè zhǒng xǐnglai fāngshì zhōng, dāngrán shì zìrán xǐng zuì fúhé wǒmen de yuànwàng.", "vietnamese": "Trong các cách thức dậy, tất nhiên thức dậy tự nhiên phù hợp nhất với mong muốn của chúng ta.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "希望将来能达到某种目的的想法。", "collocations": ["实现愿望", "满足愿望", "美好的愿望"], "usage_note": "Phân biệt với 希望 (bài tập 2 câu 3 tr.107): 愿望 CHỈ là danh từ (không nói '我们愿望他……'), còn 希望 vừa là động từ vừa là danh từ.", "common_errors": "Sai: '我们当然愿望他能成功。' → Phải dùng '希望'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l11_w36", "order": 36, "textbook": "HSK 5 上", "lesson": 11,
+      "hanzi": "窗帘", "pinyin": "chuānglián",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "rèm cửa sổ", "structure": "拉开窗帘 / 拉上窗帘", "explanation": "Tấm vải/mành treo che cửa sổ để chắn nắng hoặc giữ riêng tư.", "examples": [{ "chinese": "可谁能替你拉开窗帘让阳光照进来呢？", "pinyin": "Kě shéi néng tì nǐ lākāi chuānglián ràng yángguāng zhào jìnlai ne?", "vietnamese": "Nhưng ai có thể kéo rèm cửa sổ thay bạn để ánh nắng chiếu vào chứ?", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "挂在窗户上用来遮光或装饰的帘子。", "collocations": ["拉开窗帘", "拉上窗帘", "换窗帘"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l11_w37", "order": 37, "textbook": "HSK 5 上", "lesson": 11,
+      "hanzi": "市场", "pinyin": "shìchǎng",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "thị trường, chợ", "structure": "市场上 / 国际市场 / 农贸市场", "explanation": "Nơi mua bán hàng hóa hoặc phạm vi tiêu thụ sản phẩm trên nền kinh tế.", "examples": [{ "chinese": "近年来，市场上出现了一种新的电子产品，名为“光闹钟”。", "pinyin": "Jìnnián lái, shìchǎng shang chūxiàn le yì zhǒng xīn de diànzǐ chǎnpǐn, míngwéi “guāng nàozhōng”.", "vietnamese": "Những năm gần đây, trên thị trường xuất hiện một loại sản phẩm điện tử mới tên là “đồng hồ báo thức ánh sáng”.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "商品交易的场所；商品行销的区域。", "collocations": ["市场上", "国际市场", "市场调查", "菜市场"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l11_w38", "order": 38, "textbook": "HSK 5 上", "lesson": 11,
+      "hanzi": "产品", "pinyin": "chǎnpǐn",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "sản phẩm", "structure": "电子产品 / 新产品 / 推广产品", "explanation": "Hàng hóa, vật phẩm được sản xuất chế tạo ra.", "examples": [{ "chinese": "近年来，市场上出现了一种新的电子产品，名为“光闹钟”。", "pinyin": "Jìnnián lái, shìchǎng shang chūxiàn le yì zhǒng xīn de diànzǐ chǎnpǐn, míngwéi “guāng nàozhōng”.", "vietnamese": "Những năm gần đây, trên thị trường xuất hiện một loại sản phẩm điện tử mới có tên “đồng hồ báo thức ánh sáng”.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "生产出来的物品。", "collocations": ["电子产品", "新产品", "产品质量"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l11_w39", "order": 39, "textbook": "HSK 5 上", "lesson": 11,
+      "hanzi": "模仿", "pinyin": "mófǎng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "mô phỏng, bắt chước", "structure": "准确地/成功地/故意 + 模仿 + 对象", "explanation": "Làm theo, tái hiện lại hình dáng, âm thanh, hành động hay hiện tượng có sẵn.", "examples": [{ "chinese": "它能在室内模仿早晨自然光线的变化。", "pinyin": "Tā néng zài shìnèi mófǎng zǎochén zìrán guāngxiàn de biànhuà.", "vietnamese": "Nó có thể mô phỏng sự thay đổi của ánh sáng tự nhiên buổi sáng ngay trong phòng.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "照某种现成的样子学着做。", "collocations": ["模仿声音", "模仿光线变化", "准确地模仿", "故意模仿"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l11_w40", "order": 40, "textbook": "HSK 5 上", "lesson": 11,
+      "hanzi": "避免", "pinyin": "bìmiǎn",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "tránh, ngăn ngừa", "structure": "尽量/努力/完全 + 避免 + 不好的情况", "explanation": "Chủ động phòng ngừa để sự việc không mong muốn không xảy ra.", "examples": [{ "chinese": "可避免传统闹钟突然惊醒对人体健康的伤害。", "pinyin": "Kě bìmiǎn chuántǒng nàozhōng tūrán jīngxǐng duì réntǐ jiànkāng de shānghài.", "vietnamese": "Có thể tránh được tổn hại cho sức khỏe cơ thể do đồng hồ báo thức truyền thống đột ngột đánh thức gây ra.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "设法不使某种情形发生；防止。", "collocations": ["避免伤害", "避免麻烦", "尽量避免", "避免出错"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l11_w41", "order": 41, "textbook": "HSK 5 上", "lesson": 11,
+      "hanzi": "传统", "pinyin": "chuántǒng",
+      "lesson_usage": { "part_of_speech": "名词 / 形容词 (Danh từ / Tính từ)", "meanings": ["1. (Danh từ) truyền thống", "2. (Tính từ) (thuộc) truyền thống"], "meaning": "truyền thống; (thuộc) truyền thống", "structure": "传统闹钟 / 传统文化 / 重视传统 / 思想很传统", "explanation": "Tập quán, tư tưởng, văn hóa lưu truyền qua nhiều thế hệ; hoặc mang tính cổ truyền.", "examples": [{ "chinese": "可避免传统闹钟突然惊醒对人体健康的伤害。", "pinyin": "Kě bìmiǎn chuántǒng nàozhōng tūrán jīngxǐng duì réntǐ jiànkāng de shānghài.", "vietnamese": "Có thể tránh tác hại đối với sức khỏe do đồng hồ báo thức truyền thống bất ngờ đánh thức.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "世代相传、从历史沿传下来的思想、文化、风俗等；具有传统特点的。", "collocations": ["传统闹钟", "传统文化", "重视传统", "优良传统"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    }
+  ],
+  "proper_nouns": [
+    { "hanzi": "生物钟", "pinyin": "shēngwùzhōng", "meaning": "đồng hồ sinh học (科学名词 — Thuật ngữ khoa học)" },
+    { "hanzi": "新陈代谢", "pinyin": "xīnchén dàixiè", "meaning": "sự trao đổi chất (科学名词 — Thuật ngữ khoa học)" },
+    { "hanzi": "肾上腺素", "pinyin": "shènshàngxiànsù", "meaning": "a-đrê-na-lin (科学名词 — Thuật ngữ khoa học)" },
+    { "hanzi": "血压", "pinyin": "xuèyā", "meaning": "huyết áp (科学名词 — Thuật ngữ khoa học)" }
+  ],
+  "collocations_table": [
+    { "relation": "Động từ + Tân ngữ", "head": "享受", "partners": "自由 / 艺术 / 人生 / 美酒 / 幸福 / 快乐" },
+    { "relation": "Động từ + Tân ngữ", "head": "导致", "partners": "错误 / 失败 / 失眠 / 危险" },
+    { "relation": "Định ngữ + Trung tâm ngữ", "head": "情绪", "partners": "稳定的 / 不满的 / 紧张的" },
+    { "relation": "Định ngữ + Trung tâm ngữ", "head": "记忆", "partners": "（关于）家的 / 童年的 / 难忘的" },
+    { "relation": "Trạng ngữ + Trung tâm ngữ", "head": "避免", "partners": "努力 / 尽量 / 主动 / 故意 / 完全 / 永远" },
+    { "relation": "Trạng ngữ + Trung tâm ngữ", "head": "模仿", "partners": "准确地 / 成功地 / 专门 / 故意" },
+    { "relation": "Trung tâm ngữ + Bổ ngữ", "head": "计算", "partners": "出 / 出来" },
+    { "relation": "Trung tâm ngữ + Bổ ngữ", "head": "过来", "partners": "改 / 救 / 清醒 / 明白 / 反应" },
+    { "relation": "Chủ ngữ + Vị ngữ", "head": "精神", "partners": "愉快 / 放松 / 饱满" },
+    { "relation": "Chủ ngữ + Vị ngữ", "head": "光线", "partners": "昏暗 / 明亮" }
+  ],
+  "grammar": [
+    {
+      "title": "来 / 过来",
+      "formula": "(1) 醒 + 来/过来 (tỉnh dậy)  |  (2) V + 过来 (trở lại trạng thái bình thường)  |  (3) V + 得/不 + 过来 (làm xuể / không xuể)",
+      "meaning": "Động từ xu hướng biểu thị sự chuyển từ ngủ/mê sang tỉnh táo, hồi phục về trạng thái bình thường, hoặc năng lực xử lý có kịp/xuể hay không.",
+      "usage": "1. Dùng sau 醒 biểu thị chuyển từ ngủ sang tỉnh (醒来 / 醒过来).\n2. Dùng 过来 sau động từ (清醒过来, 活过来, 改过来, 反应过来) biểu thị trở về trạng thái vốn có/bình thường.\n3. V + 得/不 + 过来 (thường dùng phủ định: 忙不过来, 数不过来, 管不过来) biểu thị khả năng không đủ để làm hết.",
+      "context": "Cực kỳ thông dụng cả trong khẩu ngữ lẫn đọc hiểu HSK 5.",
+      "examples": [
+        { "chinese": "……人逐渐从熟睡过渡到浅睡，直到醒来。", "pinyin": "……Rén zhújiàn cóng shúshuì guòdù dào qiǎnshuì, zhídào xǐnglai.", "vietnamese": "Con người dần chuyển tiếp từ ngủ say sang ngủ nông, cho đến khi tỉnh dậy." },
+        { "chinese": "我被一阵吵闹声突然惊醒，过了半天，脑子才清醒过来。", "pinyin": "Wǒ bèi yí zhèn chǎonàoshēng tūrán jīngxǐng, guò le bàntiān, nǎozi cái qīngxǐng guòlai.", "vietnamese": "Tôi bị một tràng tiếng ồn làm giật mình tỉnh giấc, mãi một hồi lâu đầu óc mới tỉnh táo lại." },
+        { "chinese": "最近手头的工作太多了，我都忙不过来了。", "pinyin": "Zuìjìn shǒutóu de gōngzuò tài duō le, wǒ dōu máng bu guòlai le.", "vietnamese": "Dạo này công việc trong tay nhiều quá, tôi bận không xuể nữa rồi." }
+      ],
+      "important_notes": "Mẫu V + 不 + 过来 rất hay gặp với: 忙不过来 (bận không xuể), 数不过来 (đếm không xuể), 抱不过来 (ôm không xuể), 改不过来 (sửa không kịp/không được).",
+      "common_errors": "",
+      "comparison": "",
+      "mini_practice": [{ "prompt": "这棵树有上百年的树龄了，树干很粗，______________________。（过来）", "sample_answer": "两个人手拉手都抱不过来", "explanation": "Dùng V + 不过来 biểu thị năng lực không đủ để ôm hết thân cây." }]
+    },
+    {
+      "title": "所",
+      "formula": "(1) S + 所 + V + 的 (+ N)  |  (2) 有/无 + 所 + V  |  (3) 一所 + trường học/bệnh viện/nhà ở",
+      "meaning": "1. Trợ từ văn viết đặt trước động từ ('mà...') · 2. Cụm 'có phần...' / 'không gì không...' · 3. Lượng từ cho cơ quan, trường học, nhà cửa.",
+      "usage": "1. Trợ từ đứng trước động từ trong kết cấu chủ-vị làm định ngữ hoặc chủ ngữ để chỉ sự vật chịu sự chi phối của hành động.\n2. 有/无 + 所 + V làm tân ngữ cho 有/无 (有所提高, 有所帮助, 无所不谈, 无所不知).\n3. Lượng từ: 一所大学, 一所幼儿园, 一所房子.",
+      "context": "Thường gặp trong văn viết trang trọng, bài báo khoa học và các câu thành ngữ 4 chữ.",
+      "examples": [
+        { "chinese": "山水画所表现的是人与自然的关系。", "pinyin": "Shānshuǐhuà suǒ biǎoxiàn de shì rén yǔ zìrán de guānxi.", "vietnamese": "Điều mà tranh sơn thủy thể hiện là mối quan hệ giữa con người và tự nhiên." },
+        { "chinese": "调查显示，随着年龄的增大，女性的职场幸福感有所提高。", "pinyin": "Diàochá xiǎnshì, suízhe niánlíng de zēngdà, nǚxìng de zhíchǎng xìngfúgǎn yǒusuǒ tígāo.", "vietnamese": "Điều tra cho thấy cùng với sự tăng lên của tuổi tác, cảm giác hạnh phúc nơi công sở của phụ nữ có phần nâng cao." },
+        { "chinese": "来自北京一所大学的学生做了关于这个问题的实验。", "pinyin": "Láizì Běijīng yì suǒ dàxué de xuésheng zuò le guānyú zhège wèntí de shíyàn.", "vietnamese": "Sinh viên đến từ một trường đại học ở Bắc Kinh đã làm thí nghiệm về vấn đề này." }
+      ],
+      "important_notes": "Trong cấu trúc 'S + 所 + V', động từ phía sau phải là ngoại động từ (có thể tác động lên đối tượng).",
+      "common_errors": "",
+      "comparison": "",
+      "mini_practice": [{ "prompt": "我有一个建议要送给你，希望它能帮助你。→ 我有一个建议要送给你，______________________。（所）", "sample_answer": "希望能对你有所帮助", "explanation": "Dùng mẫu 有 + 所 + 动词 (有所帮助)." }]
+    },
+    {
+      "title": "相当",
+      "formula": "(1) A 与/跟 B 相当 / A 相当于 B (đgt)  |  (2) 相当 + Adj / 心理V (phó từ)",
+      "meaning": "1. (Động từ) Tương đương, ngang bằng · 2. (Phó từ) Khá, tương đối (mức độ cao).",
+      "usage": "Khi làm động từ chỉ hai phía (số lượng, điều kiện, trình độ) ngang nhau (thường dùng 与……相当 hoặc 相当于). Khi làm phó từ đứng trước tính từ, động từ tâm lý hoặc cụm '一部分人' chỉ mức độ khá cao.",
+      "context": "Xuất hiện đều đặn ở cả văn viết báo chí lẫn giao tiếp hàng ngày.",
+      "examples": [
+        { "chinese": "……这些能力最多为正常状态的65%，与醉酒者相当。", "pinyin": "……Zhèxiē nénglì zuìduō wéi zhèngcháng zhuàngtài de bǎifēnzhī liùshíwǔ, yǔ zuìjiǔzhě xiāngdāng.", "vietnamese": "Những năng lực này tối đa chỉ đạt 65% trạng thái bình thường, tương đương với người say rượu." },
+        { "chinese": "这种鸟一天所食的害虫相当于自己的体重。", "pinyin": "Zhè zhǒng niǎo yì tiān suǒ shí de hàichóng xiāngdāng yú zìjǐ de tǐzhòng.", "vietnamese": "Lượng sâu hại loài chim này ăn trong một ngày tương đương trọng lượng cơ thể nó." },
+        { "chinese": "菜的味道好极了，服务也挺周到，我相当满意。", "pinyin": "Cài de wèidào hǎo jíle, fúwù yě tǐng zhōudào, wǒ xiāngdāng mǎnyì.", "vietnamese": "Mùi vị món ăn ngon tuyệt, phục vụ cũng chu đáo, tôi khá hài lòng." }
+      ],
+      "important_notes": "Khi làm động từ so sánh hai bên, nếu mang tân ngữ trực tiếp phải thêm 于 thành 相当于 (không nói '相当自己的体重').",
+      "common_errors": "",
+      "comparison": "",
+      "mini_practice": [{ "prompt": "A: 平常也不见你运动锻炼，可身体还这么好。  B: 我每天上下班都爬楼梯，______________________。（相当）", "sample_answer": "这也相当于锻炼身体了", "explanation": "Dùng 相当于 + V/N biểu thị 'cũng tương đương với việc...'." }]
+    },
+    {
+      "title": "数 (shǔ / shù)",
+      "formula": "(1) 数(shǔ) + N (đếm)  |  (2) (最)……的(要/就)数(shǔ)…… (xếp nhất)  |  (3) 数(shù) + 天/周/月/年/小时 (vài, mấy)",
+      "meaning": "1. (shǔ, đgt) Đếm; kể đến/xếp nhất · 2. (shù, số từ) Vài, mấy (văn viết).",
+      "usage": "Đọc shǔ khi kiểm đếm số lượng (数数) hoặc nhấn mạnh đối tượng nổi bật nhất khi so sánh (要数……/就数……). Đọc shù khi là số từ văn viết mang nghĩa 几、几个 đứng trước danh từ/lượng từ thời gian, khoảng cách (数天、数公里).",
+      "context": "Rất hay ra thi trong phần phân biệt từ loại và âm đọc đa âm của HSK 5.",
+      "examples": [
+        { "chinese": "我大概数了一下，车上有32个学生。", "pinyin": "Wǒ dàgài shǔ le yíxià, chēshang yǒu sānshí'èr ge xuésheng.", "vietnamese": "Tôi đếm qua khoảng một lượt, trên xe có 32 học sinh." },
+        { "chinese": "我觉得北京最美、最有名气的公园要数颐和园了。", "pinyin": "Wǒ juéde Běijīng zuì měi, zuì yǒu míngqì de gōngyuán yào shǔ Yíhéyuán le.", "vietnamese": "Tôi thấy công viên đẹp nhất, nổi tiếng nhất Bắc Kinh phải kể đến Di Hòa Viên." },
+        { "chinese": "这里夏季的雷阵雨一般可持续数小时或者更久的时间。", "pinyin": "Zhèlǐ xiàjì de léizhènyǔ yìbān kě chíxù shù xiǎoshí huòzhě gèng jiǔ de shíjiān.", "vietnamese": "Mưa rào kèm sấm chớp mùa hè ở đây thường có thể kéo dài vài giờ hoặc lâu hơn." }
+      ],
+      "important_notes": "Số từ 数 (shù) dùng thay cho 几 (vài) ở vị trí TRƯỚC danh từ/lượng từ (数年 = 几年), còn 几 có thể đứng sau 十 nhưng 数 không dùng như vậy; phân biệt với 来 (tr.107 Bài tập 2 câu 2: '坚持数年之后' chứ không phải '来' vì 来 đứng SAU số từ, VD: 十来年!).",
+      "common_errors": "Sai: '坚持来年之后' → Đúng: '坚持数年之后'.",
+      "comparison": "",
+      "mini_practice": [{ "prompt": "经过几年的努力，他终于拿到了博士学位。→ ______________________，他终于拿到了博士学位。（数）", "sample_answer": "经过数年的努力", "explanation": "Thay 几年 bằng 数年 trong văn viết." }]
+    }
+  ],
+  "comparison_section": {
+    "label": "词语辨析 Phân biệt từ ngữ",
+    "pair": "持续 — 继续",
+    "term_a": "持续 (chíxù)",
+    "term_b": "继续 (jìxù)",
+    "similarity": "Đều là động từ, đều mang ý nghĩa kéo dài liên tục, nhưng sắc thái ngữ nghĩa và cách dùng khác nhau khá nhiều, không thể thay thế cho nhau.",
+    "differences": [
+      { "criterion": "Tính liên tục / quãng ngắt", "a": "Biểu thị động tác/trạng thái liên tục không ngừng, ở giữa KHÔNG có sự tạm dừng (这场雨持续下了两个多小时。).", "b": "Ở giữa động tác CÓ THỂ có sự tạm dừng rồi lại làm tiếp (对不起！打扰了，你们继续学习吧。)." },
+      { "criterion": "Làm định ngữ", "a": "CÓ THỂ làm định ngữ (持续的高温让许多老人感到不适。).", "b": "KHÔNG thể làm định ngữ." },
+      { "criterion": "Mang bổ ngữ thời lượng", "a": "CÓ THỂ mang bổ ngữ thời lượng (小明发烧持续三天了，家里人都很着急。).", "b": "Thông thường KHÔNG mang bổ ngữ thời lượng." }
+    ]
+  },
+  "texts": [
+    {
+      "id": "t1", "title_zh": "闹钟的危害（673字）", "title_vi": "Tác hại của đồng hồ báo thức",
+      "lines": [
+        { "speaker": "", "chinese": "医学研究证明，人类睡眠有其特定的机制，自然醒是最符合人体生物钟规律的。光线是自然醒的必要条件，是人体内的生物闹钟。", "pinyin": "Yīxué yánjiū zhèngmíng, rénlèi shuìmián yǒu qí tèdìng de jīzhì, zìrán xǐng shì zuì fúhé réntǐ shēngwùzhōng guīlǜ de. Guāngxiàn shì zìrán xǐng de bìyào tiáojiàn, shì réntǐ nèi de shēngwù nàozhōng.", "vietnamese": "Nghiên cứu y học chứng minh giấc ngủ của loài người có cơ chế đặc thù, thức dậy tự nhiên là phù hợp nhất với quy luật đồng hồ sinh học của cơ thể. Ánh sáng là điều kiện cần thiết để thức dậy tự nhiên, là chiếc đồng hồ báo thức sinh học bên trong cơ thể người." },
+        { "speaker": "", "chinese": "早晨，人体感受到逐渐变强的太阳光线，新陈代谢随之加快，人逐渐从熟睡过渡到浅睡，直到醒来。这就是阴雨天人们往往喜欢睡懒觉的原因。", "pinyin": "Zǎochén, réntǐ gǎnshòudào zhújiàn biàn qiáng de tàiyáng guāngxiàn, xīnchén dàixiè suízhī jiākuài, rén zhújiàn cóng shúshuì guòdù dào qiǎnshuì, zhídào xǐnglai. Zhè jiùshì yīnyǔtiān rénmen wǎngwǎng xǐhuan shuì lǎnjiào de yuányīn.", "vietnamese": "Buổi sáng, cơ thể cảm nhận được ánh sáng mặt trời dần mạnh lên, quá trình trao đổi chất theo đó tăng nhanh, con người dần chuyển tiếp từ ngủ sâu sang ngủ nông cho đến khi tỉnh dậy. Đây chính là lý do vào những ngày âm u mưa gió mọi người thường thích ngủ nướng." },
+        { "speaker": "", "chinese": "紧张的现代生活，使很多上班的人无法享受轻松舒适的睡眠、自然地醒来，闹钟的用途就显得格外重要了。但实验研究证明，人们对自然醒与被闹钟铃声叫醒这两种方式所产生的反应是很不相同的。从睡眠状态过渡到清醒状态时，人的呼吸会从16次/分钟提高到24次/分钟，心跳每分钟加快10次。如果突然被闹钟叫醒，将在心理上使人产生心慌、情绪低落、感觉没睡醒等不适。如果是从深度睡眠中被突然叫醒，那么，人的短期记忆能力、计算技能都会受到影响，这些能力最多为正常状态的65%，与醉酒者相当。", "pinyin": "Jǐnzhāng de xiàndài shēnghuó, shǐ hěn duō shàngbān de rén wúfǎ xiǎngshòu qīngsōng shūshì de shuìmián, zìrán de xǐnglai, nàozhōng de yòngtú jiù xiǎnde géwài zhòngyào le. Dàn shíyàn yánjiū zhèngmíng, rénmen duì zìrán xǐng yǔ bèi nàozhōng língshēng jiàoxǐng zhè liǎng zhǒng fāngshì suǒ chǎnshēng de fǎnyìng shì hěn bù xiāngtóng de. Cóng shuìmián zhuàngtài guòdù dào qīngxǐng zhuàngtài shí, rén de hūxī huì cóng shíliù cì/fēnzhōng tígāo dào èrshísì cì/fēnzhōng, xīntiào měi fēnzhōng jiākuài shí cì. Rúguǒ tūrán bèi nàozhōng jiàoxǐng, jiāng zài xīnlǐ shang shǐ rén chǎnshēng xīnhuāng, qíngxù dīluò, gǎnjué méi shuìxǐng děng búshì. Rúguǒ shì cóng shēndù shuìmián zhōng bèi tūrán jiàoxǐng, nàme, rén de duǎnqī jìyì nénglì, jìsuàn jìnéng dōu huì shòudào yǐngxiǎng, zhèxiē nénglì zuìduō wéi zhèngcháng zhuàngtài de bǎifēnzhī liùshíwǔ, yǔ zuìjiǔzhě xiāngdāng.", "vietnamese": "Cuộc sống hiện đại căng thẳng khiến nhiều người đi làm không thể tận hưởng giấc ngủ nhẹ nhàng thoải mái và thức dậy tự nhiên, nên công dụng của đồng hồ báo thức trở nên đặc biệt quan trọng. Nhưng nghiên cứu thực nghiệm chứng minh phản ứng của con người với việc thức dậy tự nhiên và bị chuông báo thức đánh thức rất khác nhau. Khi chuyển từ trạng thái ngủ sang tỉnh táo, nhịp thở tăng từ 16 lên 24 lần/phút, nhịp tim tăng thêm 10 lần mỗi phút. Nếu đột ngột bị đồng hồ báo thức gọi dậy, về mặt tâm lý sẽ gây hoảng hốt, tâm trạng ủ rũ, cảm giác chưa ngủ đủ... Nếu bị gọi dậy đột ngột giữa giấc ngủ sâu thì trí nhớ ngắn hạn và kỹ năng tính toán đều bị ảnh hưởng, các năng lực này tối đa chỉ bằng 65% trạng thái bình thường, tương đương người say rượu." },
+        { "speaker": "", "chinese": "出于自我保护，被闹钟叫醒时我们的身体会提高体内的肾上腺素水平。这种状态如果持续数天、数周、数月，将导致高血压、失眠和一些精神问题等。研究发现，突然被闹铃惊醒的人比自然醒的人血压更高、心跳更快。对此，专家解释说，人在睡眠时，身体会发生一些变化，因此人们在早上醒来时更容易发病，而闹铃则会使发病的可能性变得更大。如果你必须定个闹钟，应采用柔和的声音或音乐。", "pinyin": "Chūyú zìwǒ bǎohù, bèi nàozhōng jiàoxǐng shí wǒmen de shēntǐ huì tígāo tǐnèi de shènshàngxiànsù shuǐpíng. Zhè zhǒng zhuàngtài rúguǒ chíxù shù tiān, shù zhōu, shù yuè, jiāng dǎozhì gāoxuèyā, shīmián hé yìxiē jīngshén wèntí děng. Yánjiū fāxiàn, tūrán bèi nàolíng jīngxǐng de rén bǐ zìrán xǐng de rén xuèyā gèng gāo, xīntiào gèng kuài. Duìcǐ, zhuānjiā jiěshì shuō, rén zài shuìmián shí, shēntǐ huì fāshēng yìxiē biànhuà, yīncǐ rénmen zài zǎoshang xǐnglai shí gèng róngyì fābìng, ér nàolíng zé huì shǐ fābìng de kěnéngxìng biànde gèng dà. Rúguǒ nǐ bìxū dìng ge nàozhōng, yīng cǎiyòng róuhé de shēngyīn huò yīnyuè.", "vietnamese": "Vì cơ chế tự bảo vệ, khi bị đồng hồ báo thức gọi dậy cơ thể sẽ tăng mức a-đrê-na-lin bên trong. Trạng thái này nếu kéo dài vài ngày, vài tuần, vài tháng sẽ dẫn tới cao huyết áp, mất ngủ và một số vấn đề tinh thần. Nghiên cứu phát hiện người bị chuông báo thức làm giật mình có huyết áp cao hơn, nhịp tim nhanh hơn người thức dậy tự nhiên. Chuyên gia giải thích rằng khi ngủ cơ thể xảy ra một số biến đổi, do đó buổi sáng lúc tỉnh dậy dễ phát bệnh hơn, còn chuông báo thức lại làm tăng khả năng phát bệnh. Nếu bắt buộc phải đặt báo thức, nên chọn âm thanh hoặc bản nhạc êm dịu." },
+        { "speaker": "", "chinese": "各种醒来方式中，当然是自然醒最符合我们的愿望。可谁能替你拉开窗帘让阳光照进来呢？近年来，市场上出现了一种新的电子产品，名为“光闹钟”。它能在室内模仿早晨自然光线的变化，通过光线的作用使人在设定的时间里自然地醒来，可避免传统闹钟突然惊醒对人体健康的伤害。希望这样能向真正的“自然醒”走近一点，再走近一点。", "pinyin": "Gè zhǒng xǐnglai fāngshì zhōng, dāngrán shì zìrán xǐng zuì fúhé wǒmen de yuànwàng. Kě shéi néng tì nǐ lākāi chuānglián ràng yángguāng zhào jìnlai ne? Jìnnián lái, shìchǎng shang chūxiàn le yì zhǒng xīn de diànzǐ chǎnpǐn, míngwéi “guāng nàozhōng”. Tā néng zài shìnèi mófǎng zǎochén zìrán guāngxiàn de biànhuà, tōngguò guāngxiàn de zuòyòng shǐ rén zài shèdìng de shíjiān li zìrán de xǐnglai, kě bìmiǎn chuántǒng nàozhōng tūrán jīngxǐng duì réntǐ jiànkāng de shānghài. Xīwàng zhèyàng néng xiàng zhēnzhèng de “zìrán xǐng” zǒujìn yìdiǎn, zài zǒujìn yìdiǎn.", "vietnamese": "Trong các cách thức dậy, dĩ nhiên thức dậy tự nhiên phù hợp nhất với mong muốn của chúng ta. Nhưng ai có thể kéo rèm cửa sổ thay bạn để nắng chiếu vào? Những năm gần đây, thị trường xuất hiện một sản phẩm điện tử mới tên là “đồng hồ báo thức ánh sáng”. Nó có thể mô phỏng sự thay đổi ánh sáng tự nhiên buổi sáng ngay trong phòng, nhờ tác dụng của ánh sáng giúp con người thức dậy tự nhiên trong khoảng thời gian cài đặt, tránh được tác hại cho sức khỏe do đồng hồ báo thức truyền thống đột ngột đánh thức. Hy vọng cách này giúp chúng ta tiến gần hơn, gần hơn nữa tới “thức dậy tự nhiên” đích thực." }
+      ]
+    }
+  ],
+  "reading_questions": [
+    { "question_zh": "突然被传统闹钟从深度睡眠中叫醒会对人造成哪些危害？", "question_vi": "Đột ngột bị đồng hồ báo thức truyền thống đánh thức từ giấc ngủ sâu gây ra những tác hại nào?", "answer_zh": "心理上会产生心慌、情绪低落、感觉没睡醒等不适；短期记忆能力和计算技能下降（最多只有正常状态的65%，与醉酒者相当）；体内肾上腺素水平提高，长期持续还会导致高血压、失眠、精神问题，并增加早晨发病的可能性。", "answer_vi": "Về tâm lý gây hoảng hốt, ủ rũ, cảm giác chưa tỉnh ngủ; trí nhớ ngắn hạn và khả năng tính toán giảm xuống tối đa 65% mức bình thường (như người say rượu); tăng a-đrê-na-lin, kéo dài dẫn đến cao huyết áp, mất ngủ, vấn đề tinh thần và tăng nguy cơ phát bệnh buổi sáng." },
+    { "question_zh": "“光闹钟”是如何帮助人们接近“自然醒”的？", "question_vi": "“Đồng hồ báo thức ánh sáng” giúp con người tiến gần hơn đến “thức dậy tự nhiên” bằng cách nào?", "answer_zh": "它能在室内模仿早晨自然光线的变化，通过光线的作用使人在设定的时间里逐渐自然地醒来，避免了传统闹钟突然惊醒的伤害。", "answer_vi": "Nó mô phỏng sự thay đổi của ánh sáng tự nhiên buổi sáng ngay trong phòng, dùng tác động ánh sáng giúp con người tỉnh dậy dần một cách tự nhiên trong khung giờ hẹn sẵn, tránh bị giật mình như đồng hồ truyền thống." }
+  ],
+  "exercises": [
+    {
+      "id": "h5s11_ex1", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.106 (练习1)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ điền vào chỗ trống: “擦擦办公桌，整理一下文件，这些都可以让你从放松的休息状态自然______到工作状态。”",
+      "options": ["过渡", "导致", "享受", "规律"],
+      "answer": "过渡",
+      "explanation": "Cấu trúc chuẩn '从 A 过渡到 B' (chuyển tiếp từ trạng thái A sang trạng thái B).",
+      "review_tip": "Ôn động từ 过渡 (chuyển tiếp) và tránh viết nhầm với 过度 (quá mức)."
+    },
+    {
+      "id": "h5s11_ex2", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.106 (词语辨析 做一做)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ thích hợp điền vào chỗ trống: “这次的宣传活动将______到9月底。”",
+      "options": ["持续", "继续", "过渡", "采用"],
+      "answer": "持续",
+      "explanation": "Hoạt động diễn ra liên tục không gián đoạn cho đến mốc thời gian cuối tháng 9 → dùng 持续 (持续到……).",
+      "review_tip": "Ôn bảng 词语辨析: 持续—继续 tr.105–106."
+    },
+    {
+      "id": "h5s11_ex3", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.106 (词语辨析 做一做)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ thích hợp điền vào chỗ trống: “朋友是在你失败时，鼓励你______前进的人。”",
+      "options": ["继续", "持续", "相当", "避免"],
+      "answer": "继续",
+      "explanation": "Sau khi thất bại (có sự gián đoạn/dừng lại) lại tiếp tục tiến lên phía trước → dùng 继续.",
+      "review_tip": "继续 cho phép có quãng dừng giữa chừng, còn 持续 diễn ra liền mạch không ngắt."
+    },
+    {
+      "id": "h5s11_ex4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.107 (练习2)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “实验失败了没关系，打起______从头再来。”",
+      "options": ["精神", "情绪", "心理", "愿望"],
+      "answer": "精神",
+      "explanation": "Cụm cố định '打起精神' (xốc lại tinh thần). Không nói '打起情绪'.",
+      "review_tip": "Ôn kết hợp của 精神 và 情绪."
+    },
+    {
+      "id": "h5s11_ex5", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.107 (练习2)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn đáp án đúng: “每晚抽出点儿时间来阅读、学习，坚持______年之后，成功就会向你招手。”",
+      "options": ["数", "来", "所", "浅"],
+      "answer": "数",
+      "explanation": "数 (shù) là số từ văn viết mang nghĩa 'vài, mấy', đứng TRƯỚC danh từ thời gian (数年 = vài năm). Còn 来 ước lượng phải đứng SAU số từ (如: 十来年).",
+      "review_tip": "Ôn Chú thích 4 tr.104: số từ 数 (shù)."
+    },
+    {
+      "id": "h5s11_ex6", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.107 (练习2)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “作为孩子的父母，我们当然______他能成为一个有用的人才。”",
+      "options": ["希望", "愿望", "享受", "采用"],
+      "answer": "希望",
+      "explanation": "Vị trí cần một ĐỘNG TỪ làm vị ngữ chính. 愿望 chỉ là danh từ, còn 希望 làm được động từ.",
+      "review_tip": "Phân biệt từ loại: 希望 (đgt/dt) vs 愿望 (chỉ là dt)."
+    },
+    {
+      "id": "h5s11_ex7", "type": "context_mc", "level": "Vận dụng", "origin_tag": "Sách gốc tr.106–107 (练习1 & 2)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “他的行为已经严重______到了社会安全。”",
+      "options": ["危害", "伤害", "导致", "模仿"],
+      "answer": "危害",
+      "explanation": "Đối tượng là 社会安全 (an ninh xã hội — phạm vi lớn, trừu tượng) đi với động từ 危害 (gây nguy hại).",
+      "review_tip": "Ôn cặp 危害 (xã hội/sức khỏe/môi trường) vs 伤害 (tình cảm/thân thể)."
+    },
+    {
+      "id": "h5s11_ex8", "type": "context_mc", "level": "Vận dụng", "origin_tag": "Ôn tập Bài 10 (HSK 5 上 tr.96–97)", "mistake_category": "Ngữ pháp",
+      "prompt": "Ôn tập Bài 10 — Chọn đáp án đúng: “这次调查的结果______，大多数上班族睡眠时间不足七小时。”",
+      "options": ["显示", "显得", "毕竟", "或许"],
+      "answer": "显示",
+      "explanation": "显示 (đgt, có thể mang tân ngữ mệnh đề/dữ liệu) biểu thị 'cho thấy rõ ràng' kết quả điều tra. 显得 phải đi với tính từ chỉ trạng thái cảm quan (显得格外重要).",
+      "review_tip": "Ôn bảng 词语辨析 Bài 10: 显示—显得."
+    },
+    {
+      "id": "h5s11_ex9", "type": "context_mc", "level": "Vận dụng", "origin_tag": "Ôn tập Bài 9 & Bài 10 (HSK 5 上)", "mistake_category": "Ngữ pháp",
+      "prompt": "Ôn tập Bài 10 — Chọn đáp án đúng: “已经是秋天了，______再热也不会像夏天那样。”",
+      "options": ["毕竟", "曾经", "居然", "从而"],
+      "answer": "毕竟",
+      "explanation": "毕竟 (rốt cuộc, dù sao đi nữa) dùng để nhấn mạnh sự thật/nguyên nhân cốt lõi đã rõ ràng ('dù sao cũng đã sang thu rồi').",
+      "review_tip": "Ôn ngữ pháp 毕竟 (Bài 10 tr.95)."
+    }
+  ]
+}

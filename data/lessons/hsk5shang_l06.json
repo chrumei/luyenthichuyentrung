@@ -1,0 +1,503 @@
+{
+  "id": "hsk5shang_l06",
+  "book_id": "hsk5shang",
+  "textbook": "HSK 5 上",
+  "lesson_number": 6,
+  "title_zh": "除夕的由来",
+  "title_vi": "Nguồn gốc đêm giao thừa",
+  "pdf_pages": "Trang sách 55–63 (Giáo Trình Chuẩn HSK5 Tập 1.pdf)",
+  "source_status": "verified_textbook",
+  "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"],
+  "vocabulary": [
+    {
+      "id": "hsk5s_l06_w01", "order": 1, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "除夕", "pinyin": "chúxī",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "đêm giao thừa, trừ tịch", "structure": "除夕夜 / 过除夕 / 除夕的由来", "explanation": "Ngày cuối cùng của năm âm lịch (thường là 30 tháng Chạp), đặc biệt chỉ đêm giao thừa.", "examples": [{ "chinese": "在中国，人们把农历十二月三十日这一年中的最后一天叫作除夕。", "pinyin": "Zài Zhōngguó, rénmen bǎ nónglì shí'èr yuè sānshí rì zhè yì nián zhōng de zuìhòu yì tiān jiàozuò Chúxī.", "vietnamese": "Ở Trung Quốc, người ta gọi ngày cuối cùng trong năm là 30 tháng 12 âm lịch là Trừ Tịch (giao thừa).", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "农历一年最后一天的夜晚，也指那一天。", "collocations": ["除夕夜", "过除夕", "除夕守岁"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l06_w02", "order": 2, "textbook": "HSK 5 上", "lesson": 6, "is_out_of_syllabus": true,
+      "hanzi": "由来", "pinyin": "yóulái",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "nguồn gốc", "structure": "……的由来 / 由来已久", "explanation": "Nguồn gốc, lai lịch phát sinh của phong tục, tên gọi hay sự việc.", "examples": [{ "chinese": "除夕的由来", "pinyin": "Chúxī de yóulái", "vietnamese": "Nguồn gốc đêm giao thừa", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "事物发生的原因或起源。", "collocations": ["节日的由来", "名字的由来", "由来已久"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l06_w03", "order": 3, "textbook": "HSK 5 上", "lesson": 6, "is_out_of_syllabus": true,
+      "hanzi": "农历", "pinyin": "nónglì",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "âm lịch, Nông lịch", "structure": "农历十二月三十日 / 农历新年", "explanation": "Lịch truyền thống của Trung Quốc (dựa theo chu kỳ Mặt Trăng và Mặt Trời, đối lập với 阳历/公历 dương lịch).", "examples": [{ "chinese": "人们把农历十二月三十日这一年中的最后一天叫作除夕。", "pinyin": "Rénmen bǎ nónglì shí'èr yuè sānshí rì zhè yì nián zhōng de zuìhòu yì tiān jiàozuò Chúxī.", "vietnamese": "Người ta gọi ngày 30 tháng 12 âm lịch — ngày cuối cùng trong năm — là Trừ Tịch.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "中国传统历法，又称阴历、旧历。", "collocations": ["农历新年", "农历八月十五"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l06_w04", "order": 4, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "守岁", "pinyin": "shǒusuì",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "đón giao thừa", "structure": "除夕夜守岁 / 一起守岁", "explanation": "Tục lệ thức thâu đêm vào đêm 30 Tết để tiễn năm cũ, đón năm mới.", "examples": [{ "chinese": "这一天，全家人会一起吃年夜饭，守岁。", "pinyin": "Zhè yì tiān, quánjiārén huì yìqǐ chī niányèfàn, shǒusuì.", "vietnamese": "Ngày này, cả gia đình sẽ cùng nhau ăn cơm tất niên, thức đón giao thừa.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "除夕晚上不睡觉，熬夜迎接新年的传统习俗。", "collocations": ["除夕守岁", "熬夜守岁"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l06_w05", "order": 5, "textbook": "HSK 5 上", "lesson": 6, "is_out_of_syllabus": true,
+      "hanzi": "怪物", "pinyin": "guàiwù",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "quái vật", "structure": "一个叫作“夕”的怪物", "explanation": "Sinh vật kỳ dị, hung ác trong truyền thuyết hoặc truyện cổ tích.", "examples": [{ "chinese": "传说在很久以前，有个叫作“夕”的怪物，经常出来伤害百姓。", "pinyin": "Chuánshuō zài hěn jiǔ yǐqián, yǒu ge jiàozuò “Xī” de guàiwù, jīngcháng chūlái shānghài bǎixìng.", "vietnamese": "Tương truyền rất lâu về trước, có một con quái vật tên là “Tịch”, thường xuyên ra làm hại dân lành.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "神话传说中形状奇怪可怕的生物。", "collocations": ["可怕的怪物"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l06_w06", "order": 6, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "伤害", "pinyin": "shānghài",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "làm hại", "structure": "伤害百姓 / 伤害感情 / 伤害身体", "explanation": "Gây tổn hại đến thân thể, tính mạng hoặc tình cảm của người khác.", "examples": [{ "chinese": "有个叫作“夕”的怪物，经常出来伤害百姓。", "pinyin": "Yǒu ge jiàozuò “Xī” de guàiwù, jīngcháng chūlái shānghài bǎixìng.", "vietnamese": "Có một con quái vật tên là “Tịch”, thường xuyên ra làm hại dân lành.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["sự tổn hại, tổn thương"], "structure": "对……的伤害 / 造成伤害", "difference_note": "Làm danh từ sau 的 hoặc tân ngữ của 造成 (như trong Bài tập 1 câu 6 tr.61).", "examples": [{ "chinese": "经常熬夜对身体的伤害极大。", "pinyin": "Jīngcháng áo yè duì shēntǐ de shānghài jídà.", "vietnamese": "Thường xuyên thức khuya gây hại cực lớn cho cơ thể." }] }
+      ],
+      "chinese_explanation": "使身体组织或思想感情等受到损害。", "collocations": ["伤害别人", "伤害感情", "对身体的伤害"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l06_w07", "order": 7, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "恨", "pinyin": "hèn",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "oán hận, căm ghét", "structure": "恨之入骨 / 恨透了 / 恨得什么似的", "explanation": "Căm ghét, oán hận sâu sắc ai đó hoặc điều gì.", "examples": [{ "chinese": "百姓对其恨之入骨，但是又十分无奈。", "pinyin": "Bǎixìng duì qí hènzhīrùgǔ, dànshì yòu shífēn wúnài.", "vietnamese": "Dân chúng căm hận nó thấu xương, nhưng lại vô cùng bất lực.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ)", "meanings": ["ân hận, tiếc nuối; mong ước tha thiết (trong 恨不得)"], "structure": "恨不得 + V / 悔恨", "difference_note": "Trong 恨不得 mang nghĩa 'chỉ hận không thể / ước gì lập tức có thể'.", "examples": [{ "chinese": "听到这个好消息，他高兴得恨不得立刻飞回家。", "pinyin": "Tīngdào zhège hǎo xiāoxi, tā gāoxìng de hènbudé lìkè fēi huíjiā.", "vietnamese": "Nghe tin tốt này, anh ấy vui đến mức ước gì bay ngay về nhà." }] }
+      ],
+      "chinese_explanation": "仇视、怨恨；懊悔。", "collocations": ["恨之入骨", "恨不得", "痛恨"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l06_w08", "order": 8, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "骨（头）", "pinyin": "gǔ (tou)",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "xương", "structure": "恨之入骨 / 一块骨头", "explanation": "Bộ phận cứng tạo nên bộ khung nâng đỡ cơ thể người và động vật.", "examples": [{ "chinese": "百姓对其恨之入骨，但是又十分无奈。", "pinyin": "Bǎixìng duì qí hènzhīrùgǔ, dànshì yòu shífēn wúnài.", "vietnamese": "Người dân căm hận nó thấu xương, nhưng lại vô cùng bất lực.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "人和脊椎动物体内支持身体、保护内脏的坚硬组织。", "collocations": ["骨头", "恨之入骨", "排骨"], "usage_note": "Trong 骨头, chữ 头 đọc thanh nhẹ: gǔtou.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l06_w09", "order": 9, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "无奈", "pinyin": "wúnài",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "không biết làm sao, không có cách nào", "structure": "十分无奈 / 感到无奈 / 无奈地说", "explanation": "Rơi vào cảnh bất lực, không còn cách nào khác (sách gốc ghi đgt., nhưng rất hay dùng như tính từ nhận phó từ mức độ 很/十分).", "examples": [{ "chinese": "百姓对其恨之入骨，但是又十分无奈。", "pinyin": "Bǎixìng duì qí hènzhīrùgǔ, dànshì yòu shífēn wúnài.", "vietnamese": "Người dân căm hận nó thấu xương, nhưng lại vô cùng bất lực.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "形容词 (Tính từ)", "meanings": ["bất lực, bất đắc dĩ"], "structure": "很无奈的样子 / 无奈的选择", "difference_note": "Làm định ngữ hoặc trạng ngữ (Bài tập 1 câu 3 tr.61: 姑娘脸上表现出很无奈的样子).", "examples": [{ "chinese": "姑娘脸上表现出很无奈的样子。", "pinyin": "Gūniang liǎnshang biǎoxiànchū hěn wúnài de yàngzi.", "vietnamese": "Trên mặt cô gái hiện lên vẻ rất bất đắc dĩ." }] }
+      ],
+      "chinese_explanation": "没有办法，无可奈何。", "collocations": ["十分无奈", "无奈地笑", "很无奈的样子"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l06_w10", "order": 10, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "英雄", "pinyin": "yīngxióng",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "anh hùng", "structure": "一位英雄 / 民族英雄", "explanation": "Người có tài năng, dũng cảm phi thường, lập công lớn vì nhân dân/đất nước.", "examples": [{ "chinese": "当时有个英雄叫作七郎，他英俊高大、力大无比。", "pinyin": "Dāngshí yǒu ge yīngxióng jiàozuò Qīláng, tā yīngjùn gāodà, lìdàwúbǐ.", "vietnamese": "Bấy giờ có một vị anh hùng tên là Thất Lang, chàng khôi ngô cao lớn, sức mạnh vô song.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "不怕困难，不顾自己，为人民利益而英勇斗争、令人敬佩的人。", "collocations": ["民族英雄", "大英雄", "英雄事迹"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l06_w11", "order": 11, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "英俊", "pinyin": "yīngjùn",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "anh tuấn, khôi ngô", "structure": "英俊高大 / 英俊的青年", "explanation": "Khen nam giới có dung mạo đẹp trai, tuấn tú, toát lên khí chất sáng sủa.", "examples": [{ "chinese": "他英俊高大、力大无比。", "pinyin": "Tā yīngjùn gāodà, lìdàwúbǐ.", "vietnamese": "Chàng khôi ngô cao lớn, sức mạnh vô song.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "容貌俊秀又有精神（多用于年轻男性）。", "collocations": ["英俊高大", "英俊潇洒", "英俊的青年"], "usage_note": "Chỉ dùng khen nam giới (thường là thanh niên).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l06_w12", "order": 12, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "咬", "pinyin": "yǎo",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "cắn", "structure": "咬住 / 咬一口 / 死死地咬住", "explanation": "Khép hàm răng kẹp chặt vào vật gì đó.", "examples": [{ "chinese": "这条狗非常勇敢，无论咬住什么都不会松口。", "pinyin": "Zhè tiáo gǒu fēicháng yǒnggǎn, wúlùn yǎozhù shénme dōu bú huì sōngkǒu.", "vietnamese": "Con chó này vô cùng dũng cảm, hễ cắn chặt thứ gì thì quyết không nhả miệng.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "上下牙齿用力合拢，夹住或弄碎东西。", "collocations": ["咬住", "咬一口", "被狗咬"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l06_w13", "order": 13, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "外公", "pinyin": "wàigōng",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "ông ngoại", "structure": "女孩的外公 / 外公外婆", "explanation": "Bố của mẹ (miền Bắc Trung Quốc hay gọi 姥爷 lǎoye, miền Nam và sách phổ thông gọi 外公).", "examples": [{ "chinese": "看到邻居家女孩的外公坐在路边哭。", "pinyin": "Kàndào línjū jiā nǚhái de wàigōng zuò zài lùbiān kū.", "vietnamese": "Thấy ông ngoại của cô bé nhà hàng xóm ngồi khóc bên đường.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "外祖父，母亲的父亲。", "collocations": ["外公外婆"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l06_w14", "order": 14, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "询问", "pinyin": "xúnwèn",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "hỏi thăm", "structure": "上前询问 / 仔细地询问 / 询问情况/意见", "explanation": "Hỏi han tìm hiểu tình hình hoặc trưng cầu ý kiến (thiên về văn viết, trang trọng hơn 打听).", "examples": [{ "chinese": "于是上前询问，一问才知道，原来天真可爱的女孩被“夕”吃掉了。", "pinyin": "Yúshì shàngqián xúnwèn, yí wèn cái zhīdào, yuánlái tiānzhēn kě'ài de nǚhái bèi “Xī” chīdiào le.", "vietnamese": "Bèn bước tới hỏi thăm, hỏi rồi mới biết hóa ra cô bé ngây thơ đáng yêu đã bị “Tịch” ăn thịt.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["lời hỏi, câu hỏi thăm"], "structure": "回答……的询问", "difference_note": "Có thể hoạt dụng làm danh từ (xem 词语辨析 tr.60: 他详细地回答了病人的询问).", "examples": [{ "chinese": "医生耐心地回答了病人的询问。", "pinyin": "Yīshēng nàixīn de huídá le bìngrén de xúnwèn.", "vietnamese": "Bác sĩ kiên nhẫn trả lời câu hỏi của bệnh nhân." }] }
+      ],
+      "chinese_explanation": "征求意见、打听了解（偏书面语）。", "collocations": ["仔细询问", "询问情况", "询问意见", "回答询问"], "usage_note": "Xem bảng 词语辨析: 打听—询问 tr.60! 询问 không đi với bổ ngữ 到 (không nói 询问到), nhưng có thể mang tân ngữ là người được hỏi (询问了邻居).", "common_errors": "Sai: '询问到一位好医生' → Đúng: '打听到'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l06_w15", "order": 15, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "天真", "pinyin": "tiānzhēn",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "ngây thơ, hồn nhiên", "structure": "天真可爱 / 天真的孩子 / 天真的性格", "explanation": "Trong sáng, hồn nhiên, chưa vướng bụi trần (thường khen trẻ nhỏ).", "examples": [{ "chinese": "原来天真可爱的女孩被“夕”吃掉了。", "pinyin": "Yuánlái tiānzhēn kě'ài de nǚhái bèi “Xī” chīdiào le.", "vietnamese": "Hóa ra cô bé ngây thơ đáng yêu đã bị “Tịch” ăn thịt rồi.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "形容词 (Tính từ)", "meanings": ["ngây thơ (đơn giản, thiếu kinh nghiệm thực tế)"], "structure": "想法太天真", "difference_note": "Khi nói về người lớn, đôi lúc mang sắc thái chê nhẹ vì nhìn đời quá đơn giản.", "examples": [{ "chinese": "你以为做生意这么容易吗？你的想法太天真了。", "pinyin": "Nǐ yǐwéi zuò shēngyi zhème róngyì ma? Nǐ de xiǎngfǎ tài tiānzhēn le.", "vietnamese": "Cậu tưởng kinh doanh dễ thế à? Suy nghĩ của cậu ngây thơ quá rồi." }] }
+      ],
+      "chinese_explanation": "心地单纯，性情直率；也指头脑简单，容易被假象迷惑。", "collocations": ["天真可爱", "天真的孩子", "天真的想法"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l06_w16", "order": 16, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "杀", "pinyin": "shā",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "giết", "structure": "杀死 / 杀掉 / 自杀", "explanation": "Làm cho người hoặc động vật mất mạng.", "examples": [{ "chinese": "七郎暗暗下定决心一定要杀死“夕”。", "pinyin": "Qīláng àn'àn xiàdìng juéxīn yídìng yào shāsǐ “Xī”.", "vietnamese": "Thất Lang thầm hạ quyết tâm nhất định phải giết chết “Tịch”.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "使人或动物失去生命。", "collocations": ["杀死", "杀掉", "杀手"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l06_w17", "order": 17, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "（代）替", "pinyin": "(dài) tì",
+      "lesson_usage": { "part_of_speech": "动词 / 介词 (Động từ / Giới từ)", "meaning": "thay thế; (giới từ) thay cho, vì, giùm", "structure": "(đgt) 替某人 + V / 代替某人; (giới) 替 + 某人 + V/Adj", "explanation": "Làm động từ nghĩa là 'thay thế' (代替); làm giới từ nghĩa là 'cho, vì, giùm' (给、为) như trong câu bài khóa.", "examples": [{ "chinese": "替百姓除掉这个制造灾害的东西。", "pinyin": "Tì bǎixìng chúdiào zhège zhìzào zāihài de dōngxi.", "vietnamese": "Thay dân chúng trừ khử thứ gây ra tai họa này.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ)", "meanings": ["thay thế (người khác đảm nhiệm việc gì)"], "structure": "替我向他问好 / 替替他", "difference_note": "Tương đương 代替, có thể lặp lại 替替 (xem Chú thích 1 tr.57).", "examples": [{ "chinese": "刘老师今天有点儿事来不了，你能替替他吗？", "pinyin": "Liú lǎoshī jīntiān yǒudiǎnr shì láibuliǎo, nǐ néng tìti tā ma?", "vietnamese": "Thầy Lưu hôm nay có chút việc không tới được, bạn có thể thay thầy ấy không?" }] }
+      ],
+      "chinese_explanation": "代替（动词）；给、为（介词）。", "collocations": ["替我问好", "替他高兴", "替他着急", "代替"], "usage_note": "Xem Chú thích 1 tr.57! Trong Bài tập 3 câu 3 tr.61: '路上的人替他着急'.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l06_w18", "order": 18, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "除", "pinyin": "chú",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "trừ khử", "structure": "除掉 / 除去 / 除夕", "explanation": "Loại bỏ, tiêu diệt cái xấu hoặc vật không cần thiết.", "examples": [{ "chinese": "替百姓除掉这个制造灾害的东西。", "pinyin": "Tì bǎixìng chúdiào zhège zhìzào zāihài de dōngxi.", "vietnamese": "Thay dân chúng trừ khử thứ gây tai họa này.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "介词 (Giới từ)", "meanings": ["ngoài ... ra"], "structure": "除了……以外", "difference_note": "Dùng để tách biệt phần ngoại lệ hoặc bổ sung.", "examples": [{ "chinese": "除了吃年夜饭，除夕夜还要放鞭炮。", "pinyin": "Chúle chī niányèfàn, Chúxī yè hái yào fàng biānpào.", "vietnamese": "Ngoài ăn cơm tất niên, đêm giao thừa còn phải đốt pháo." }] },
+        { "part_of_speech": "动词 (Động từ)", "meanings": ["chia (phép chia toán học)"], "structure": "10除以2等于5", "difference_note": "Thuật ngữ toán học (加、减、乘、除).", "examples": [{ "chinese": "十除以二等于五。", "pinyin": "Shí chúyǐ èr děngyú wǔ.", "vietnamese": "Mười chia cho hai bằng năm." }] }
+      ],
+      "chinese_explanation": "去掉、清除；数学运算中的除法；表示不计算在内。", "collocations": ["除掉", "除去", "除夕", "除了"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l06_w19", "order": 19, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "制造", "pinyin": "zhìzào",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "gây ra, sản xuất", "structure": "制造 + 灾害/麻烦/机会/战争/难题/飞机", "explanation": "Tạo ra, gây ra (tình huống, rắc rối, tai họa...) hoặc chế tạo, sản xuất (máy móc, hàng hóa).", "examples": [{ "chinese": "替百姓除掉这个制造灾害的东西。", "pinyin": "Tì bǎixìng chúdiào zhège zhìzào zāihài de dōngxi.", "vietnamese": "Thay người dân trừ khử thứ gây ra tai họa này.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "把原材料加工成器物；人为地造成某种气氛或局面。", "collocations": ["制造灾害", "制造麻烦", "制造飞机", "制造机会"], "usage_note": "Xem bảng 词语搭配 tr.59: dùng được cho cả vật phẩm công nghiệp (制造飞机) và tình huống trừu tượng (制造麻烦/机会/难题).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l06_w20", "order": 20, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "灾害", "pinyin": "zāihài",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "tai họa", "structure": "制造灾害 / 自然灾害", "explanation": "Thiên tai hoặc tai họa gây thiệt hại nghiêm trọng cho con người và tài sản.", "examples": [{ "chinese": "替百姓除掉这个制造灾害的东西。", "pinyin": "Tì bǎixìng chúdiào zhège zhìzào zāihài de dōngxi.", "vietnamese": "Thay dân chúng trừ khử thứ gây tai họa này.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "旱、涝、虫、雹、地震等或人为造成的祸害。", "collocations": ["自然灾害", "制造灾害", "减少灾害"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l06_w21", "order": 21, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "逃", "pinyin": "táo",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "chạy trốn", "structure": "往外逃 / 逃走 / 逃跑", "explanation": "Bỏ chạy thật nhanh để thoát khỏi nguy hiểm hoặc sự truy đuổi.", "examples": [{ "chinese": "到天亮前又会逃得连影子都找不着了。", "pinyin": "Dào tiānliàng qián yòu huì táo de lián yǐngzi dōu zhǎobuzháo le.", "vietnamese": "Trước khi trời sáng lại chạy biến đến nỗi ngay cả bóng dáng cũng không tìm thấy.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ)", "meanings": ["trốn tránh (trách nhiệm, học tập, nghĩa vụ)"], "structure": "逃避责任 / 逃课 / 逃票", "difference_note": "Chỉ hành vi né tránh nghĩa vụ hay quy định.", "examples": [{ "chinese": "遇到困难应该勇敢面对，不要逃避。", "pinyin": "Yùdào kùnnan yīnggāi yǒnggǎn miànduì, búyào táobì.", "vietnamese": "Gặp khó khăn nên dũng cảm đối mặt, đừng trốn tránh." }] }
+      ],
+      "chinese_explanation": "为躲避不利环境或事物而离开；躲避。", "collocations": ["往外逃", "逃跑", "逃避", "逃课"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l06_w22", "order": 22, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "影子", "pinyin": "yǐngzi",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "bóng dáng", "structure": "连影子都找不着 / 看见……的影子", "explanation": "Cái bóng do ánh sáng chiếu lên vật tạo ra; trong bài nghĩa là tung tích, bóng dáng.", "examples": [{ "chinese": "到天亮前又会逃得连影子都找不着了。", "pinyin": "Dào tiānliàng qián yòu huì táo de lián yǐngzi dōu zhǎobuzháo le.", "vietnamese": "Trước khi trời sáng lại chạy trốn đến mức bóng dáng cũng không tìm thấy.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["dấu ấn, hình bóng (của người/thứ gì hiện lên ở chỗ khác)"], "structure": "有……的影子", "difference_note": "Nghĩa bóng chỉ nét tương đồng hoặc ảnh hưởng để lại.", "examples": [{ "chinese": "在这部作品里，能看到作者童年的影子。", "pinyin": "Zài zhè bù zuòpǐn li, néng kàndào zuòzhě tóngnián de yǐngzi.", "vietnamese": "Trong tác phẩm này có thể thấy hình bóng tuổi thơ của tác giả." }] }
+      ],
+      "chinese_explanation": "物体挡住光线时在后面形成的暗影；模糊的印象或踪迹。", "collocations": ["连影子都找不着", "树影子", "童年的影子"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l06_w23", "order": 23, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "此外", "pinyin": "cǐwài",
+      "lesson_usage": { "part_of_speech": "连词 (Liên từ)", "meaning": "ngoài ra, hơn nữa", "structure": "……；此外，还……", "explanation": "Bổ sung thêm một nội dung hay tình huống khác ngoài điều vừa nói (thiên văn viết).", "examples": [{ "chinese": "此外，它还特别害怕声响。", "pinyin": "Cǐwài, tā hái tèbié hàipà shēngxiǎng.", "vietnamese": "Ngoài ra, nó còn đặc biệt sợ tiếng động lớn.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "除了上面所说的之外。", "collocations": ["此外，还……", "此外，也……"], "usage_note": "Phân biệt: 此外 chỉ là LIÊN TỪ đứng đầu vế câu bổ sung ý (không làm phó từ/định ngữ trong câu). Bài tập 2 câu 3 tr.61: '你另外安排一个时间见面吧' (dùng 另外, không dùng 此外).", "common_errors": "Sai: '你此外安排一个时间' → Đúng: '另外安排'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l06_w24", "order": 24, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "说不定", "pinyin": "shuōbudìng",
+      "lesson_usage": { "part_of_speech": "副词 (Phó từ)", "meaning": "có lẽ, có thể", "structure": "说不定 + Mệnh đề / V", "explanation": "Phó từ biểu thị sự phỏng đoán khả năng khá lớn sẽ xảy ra.", "examples": [{ "chinese": "“夕”说不定晚上要出来伤害大家。", "pinyin": "“Xī” shuōbudìng wǎnshang yào chūlái shānghài dàjiā.", "vietnamese": "“Tịch” có lẽ tối nay sẽ ra làm hại mọi người.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ — trong Chú thích 2 tr.58)", "meanings": ["chưa nói chắc được, khó khẳng định"], "structure": "S + 还说不定呢", "difference_note": "Làm vị ngữ cuối câu, biểu thị chưa thể kết luận chắc chắn.", "examples": [{ "chinese": "这事儿经理已经同意了，只是出发的时间还说不定。", "pinyin": "Zhè shìr jīnglǐ yǐjīng tóngyì le, zhǐshì chūfā de shíjiān hái shuōbudìng.", "vietnamese": "Việc này giám đốc đã đồng ý rồi, chỉ là thời gian xuất phát vẫn chưa nói chắc được." }] }
+      ],
+      "chinese_explanation": "表示估计、很可能（副词）；不能确定（动词）。", "collocations": ["说不定明天会下雨", "还说不定呢"], "usage_note": "Xem Chú thích 2 tr.58 để phân biệt 2 từ loại Động từ và Phó từ của 说不定!", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l06_w25", "order": 25, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "熬夜", "pinyin": "áo yè",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ ly hợp)", "meaning": "thức khuya", "structure": "经常熬夜 / 熬夜加班 / 熬了一个夜", "explanation": "Thức rất khuya hoặc thức trắng cả đêm không ngủ.", "examples": [{ "chinese": "让大家今晚熬夜等着。", "pinyin": "Ràng dàjiā jīnwǎn áo yè děngzhe.", "vietnamese": "Bảo mọi người tối nay thức khuya chờ sẵn.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "为了工作或某种事到深夜还不睡，或通宵不睡。", "collocations": ["经常熬夜", "熬夜学习", "熬了个通宵"], "usage_note": "Từ ly hợp: không mang tân ngữ trực tiếp phía sau; chữ 熬 đọc thanh 2 (áo).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l06_w26", "order": 26, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "赶紧", "pinyin": "gǎnjǐn",
+      "lesson_usage": { "part_of_speech": "副词 (Phó từ)", "meaning": "ngay lập tức", "structure": "赶紧 + V (赶紧回去 / 赶紧敲打)", "explanation": "Nhanh chóng nắm bắt thời gian làm ngay không chậm trễ (dùng được cả trong câu cầu khiến khuyên nhủ).", "examples": [{ "chinese": "一见到“夕”就赶紧敲打东西，大家一起把“夕”杀掉。", "pinyin": "Yí jiàndào “Xī” jiù gǎnjǐn qiāodǎ dōngxi, dàjiā yìqǐ bǎ “Xī” shādiào.", "vietnamese": "Hễ nhìn thấy “Tịch” thì lập tức gõ đồ vật, mọi người cùng nhau giết chết “Tịch”.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "抓紧时机，毫不拖延。", "collocations": ["赶紧回去", "赶紧给……打电话", "赶紧出发"], "usage_note": "Phân biệt với 急忙 (tr.61 Bài tập 2 câu 2): 赶紧 dùng được trong câu mệnh lệnh/khuyên nhủ ('你赶紧给他回个电话!'), còn 急忙 chủ yếu miêu tả động tác vội vàng đã/đang diễn ra.", "common_errors": "Sai: '你急忙给他回个电话' → Đúng: '你赶紧给他回个电话'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l06_w27", "order": 27, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "果然", "pinyin": "guǒrán",
+      "lesson_usage": { "part_of_speech": "副词 (Phó từ)", "meaning": "quả nhiên", "structure": "S + 果然 + V/Adj (đúng như dự đoán)", "explanation": "Biểu thị sự việc xảy ra hoàn toàn đúng như dự đoán hoặc lời đã nói trước đó.", "examples": [{ "chinese": "太阳很快落山了，到了晚上，“夕”果然出来了。", "pinyin": "Tàiyáng hěn kuài luòshān le, dàole wǎnshang, “Xī” guǒrán chūlái le.", "vietnamese": "Mặt trời nhanh chóng xuống núi, đến tối, “Tịch” quả nhiên xuất hiện.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "表示事实与所说或所料相符。", "collocations": ["果然如此", "果然不出所料", "果然不一般"], "usage_note": "Phân biệt: 果然 (ĐÚNG như dự đoán) vs 居然 (TRÁI với dự đoán, bất ngờ — Bài 1)! Bài tập 2 câu 4 tr.61: '明星的影响力果然不一般'.", "common_errors": "Nhầm lẫn giữa 果然 và 居然.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l06_w28", "order": 28, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "姑娘", "pinyin": "gūniang",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "cô gái, thiếu nữ", "structure": "一位姑娘 / 小姑娘", "explanation": "Thiếu nữ, cô gái chưa kết hôn.", "examples": [{ "chinese": "它想吃一户人家的姑娘，被这家人发现了。", "pinyin": "Tā xiǎng chī yí hù rénjiā de gūniang, bèi zhè jiā rén fāxiàn le.", "vietnamese": "Nó định ăn thịt cô con gái của một gia đình, nhưng bị nhà này phát hiện.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["con gái (khẩu ngữ miền Bắc gọi con gái ruột của mình)"], "structure": "我家大姑娘", "difference_note": "Đồng nghĩa với 女儿 trong khẩu ngữ nhiều vùng Trung Quốc.", "examples": [{ "chinese": "王阿姨的大姑娘今年考上大学了。", "pinyin": "Wáng āyí de dà gūniang jīnnián kǎoshàng dàxué le.", "vietnamese": "Con gái lớn của cô Vương năm nay thi đỗ đại học rồi." }] }
+      ],
+      "chinese_explanation": "未婚的年轻女子；口语中也指女儿。", "collocations": ["小姑娘", "好姑娘"], "usage_note": "Chữ 娘 đọc thanh nhẹ: gūniang.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l06_w29", "order": 29, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "锅", "pinyin": "guō",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "(cái) nồi", "structure": "一口锅 / 火锅 / 敲响了锅和盆子", "explanation": "Dụng cụ nhà bếp dùng để nấu ăn (lượng từ hay dùng là 口 hoặc 个).", "examples": [{ "chinese": "于是他们立刻敲响了家中的锅和盆子。", "pinyin": "Yúshì tāmen lìkè qiāoxiǎng le jiāzhōng de guō hé pénzi.", "vietnamese": "Thế là họ lập tức gõ vang nồi và chậu trong nhà.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "炊事用具，圆形中凹，多用铁或铝制成。", "collocations": ["一口锅", "火锅", "炒菜锅"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l06_w30", "order": 30, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "盆（子）", "pinyin": "pén (zi)",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "chậu, bồn", "structure": "脸盆 / 花盆 / 锅和盆子", "explanation": "Vật dụng miệng rộng đáy bằng dùng đựng nước, trồng cây hoặc đựng đồ.", "examples": [{ "chinese": "于是他们立刻敲响了家中的锅和盆子。", "pinyin": "Yúshì tāmen lìkè qiāoxiǎng le jiāzhōng de guō hé pénzi.", "vietnamese": "Thế là họ lập tức gõ vang nồi và chậu trong nhà.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "量词 (Lượng từ — 盆)", "meanings": ["chậu (đo hoa, nước, đồ đựng trong chậu)"], "structure": "一盆花 / 一盆水", "difference_note": "Làm lượng từ chỉ số lượng đựng trong chậu.", "examples": [{ "chinese": "阳台上摆着几盆漂亮的花。", "pinyin": "Yángtái shang bǎizhe jǐ pén piàoliang de huā.", "vietnamese": "Trên ban công bày mấy chậu hoa rất đẹp." }] }
+      ],
+      "chinese_explanation": "口大底平的盛器；也作量词。", "collocations": ["脸盆", "花盆", "一盆水"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l06_w31", "order": 31, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "整个", "pinyin": "zhěnggè",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "cả", "structure": "整个 + 镇子/房间/社会/计划/夏天/过程", "explanation": "Toàn bộ, trọn vẹn (tính từ phi vị ngữ, chỉ làm định ngữ trước danh từ đếm được hoặc chỉnh thể).", "examples": [{ "chinese": "跟着整个镇子都响了起来。", "pinyin": "Gēnzhe zhěnggè zhènzi dōu xiǎng le qilai.", "vietnamese": "Ngay sau đó cả thị trấn đều vang rền tiếng gõ.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "全部、完整的（只作定语）。", "collocations": ["整个镇子", "整个房间", "整个社会", "整个过程"], "usage_note": "Bài tập 3 câu 2 tr.61: '整个学院所有的老师同学都在议论这件事' (đứng ngay trước danh từ chỉnh thể 学院).", "common_errors": "Không đứng sau 很 hoặc làm vị ngữ độc lập.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l06_w32", "order": 32, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "吓", "pinyin": "xià",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "làm cho khiếp sợ", "structure": "吓得什么似的 / 吓了一跳 / 吓坏了", "explanation": "Làm hoảng sợ hoặc bị hoảng sợ (khi dùng với bổ ngữ trạng thái như 吓得……).", "examples": [{ "chinese": "“夕”吓得什么似的，急忙往外逃。", "pinyin": "“Xī” xià de shénme shìde, jímáng wǎngwài táo.", "vietnamese": "“Tịch” sợ hết hồn hết vía, vội vàng chạy trốn ra ngoài.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ — đọc hè)", "meanings": ["đe dọa, hăm dọa"], "structure": "恐吓 / 威胁恐吓", "difference_note": "Chữ đa âm! Trong từ ghép 恐吓 (hăm dọa) đọc thanh 4: hè.", "examples": [{ "chinese": "他绝不会被这种恐吓吓倒。", "pinyin": "Tā jué bú huì bèi zhè zhǒng kǒnghè xiàdǎo.", "vietnamese": "Anh ấy tuyệt đối sẽ không bị lời đe dọa kiểu này làm cho gục ngã." }] }
+      ],
+      "chinese_explanation": "使害怕、受惊（xià）；恐吓（hè）。", "collocations": ["吓了一跳", "吓坏了", "吓得什么似的"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l06_w33", "order": 33, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "似的", "pinyin": "shìde",
+      "lesson_usage": { "part_of_speech": "助词 (Trợ từ)", "meaning": "(chỉ sự giống nhau) dường như, tựa như", "structure": "像/跟/好像……似的  |  V/Adj + 得什么似的", "explanation": "Đặt cuối cụm ví von biểu thị giống như sự vật/tình huống nào đó; hoặc trong '……得什么似的' cường điệu mức độ cao.", "examples": [{ "chinese": "“夕”吓得什么似的，急忙往外逃。", "pinyin": "“Xī” xià de shénme shìde, jímáng wǎngwài táo.", "vietnamese": "“Tịch” sợ hãi vô cùng, vội vã bỏ chạy ra ngoài.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "助词，用在名词、代词或动词性词语后面，表示跟某种事物或情况相似。", "collocations": ["好像做梦似的", "雪片似的", "累得什么似的", "吓得什么似的"], "usage_note": "CHÚ Ý PHÁT ÂM: 似 trong 似的 phải đọc là shì (shìde), KHÔNG đọc sìde! (Chỉ trong 相似、似乎 mới đọc sì).", "common_errors": "Đọc nhầm thành sìde.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l06_w34", "order": 34, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "追", "pinyin": "zhuī",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "đuổi theo", "structure": "追上 / 追过去 / 追赶", "explanation": "Chạy nhanh theo sau để bắt kịp người hoặc vật phía trước.", "examples": [{ "chinese": "七郎的狗追上了“夕”，并死死地咬住了它。", "pinyin": "Qīláng de gǒu zhuīshàng le “Xī”, bìng sǐsǐ de yǎozhù le tā.", "vietnamese": "Con chó của Thất Lang đuổi kịp “Tịch” và cắn chặt lấy nó.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ)", "meanings": ["theo đuổi (tình cảm, mục tiêu, lý tưởng)"], "structure": "追求梦想 / 追女孩", "difference_note": "Nỗ lực giành được tình yêu hoặc mục tiêu mong muốn.", "examples": [{ "chinese": "年轻人应该勇敢地追求自己的梦想。", "pinyin": "Niánqīngrén yīnggāi yǒnggǎn de zhuīqiú zìjǐ de mèngxiǎng.", "vietnamese": "Người trẻ nên dũng cảm theo đuổi ước mơ của bản thân." }] }
+      ],
+      "chinese_explanation": "赶、紧跟着；求取、追求。", "collocations": ["追上", "追赶", "追求"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l06_w35", "order": 35, "textbook": "HSK 5 上", "lesson": 6, "is_out_of_syllabus": true,
+      "hanzi": "箭", "pinyin": "jiàn",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "mũi tên", "structure": "一支箭 / 射箭 / 一箭射死", "explanation": "Vũ khí cổ dùng cung để bắn đi (lượng từ là 支 hoặc 根).", "examples": [{ "chinese": "七郎跑上前去，一箭射死了“夕”。", "pinyin": "Qīláng pǎo shàngqián qù, yí jiàn shèsǐ le “Xī”.", "vietnamese": "Thất Lang chạy lên trước, một mũi tên bắn chết “Tịch”.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "用弓发射的尖头细长武器。", "collocations": ["一支箭", "射箭", "火箭"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l06_w36", "order": 36, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "射（击）", "pinyin": "shè (jī)",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "bắn", "structure": "射死 / 射中 / 射箭 / 射击比赛", "explanation": "Bắn tên, bắn đạn hoặc sút bóng vào mục tiêu.", "examples": [{ "chinese": "七郎跑上前去，一箭射死了“夕”。", "pinyin": "Qīláng pǎo shàngqián qù, yí jiàn shèsǐ le “Xī”.", "vietnamese": "Thất Lang chạy lên trước, một mũi tên bắn chết “Tịch”.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ — 射)", "meanings": ["phun ra, chiếu rọi (tia sáng, tia nước)"], "structure": "阳光射进屋里 / 发射火箭", "difference_note": "Dùng cho ánh sáng, tia nước hoặc phóng tên lửa.", "examples": [{ "chinese": "早晨的阳光透过窗户射进了房间。", "pinyin": "Zǎochen de yángguāng tòuguò chuānghu shèjìn le fángjiān.", "vietnamese": "Ánh nắng buổi sáng xuyên qua cửa sổ chiếu rọi vào căn phòng." }] }
+      ],
+      "chinese_explanation": "用弓弩或枪炮发射击中目标；光线等向前发出。", "collocations": ["射死", "射中", "射箭", "射击"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l06_w37", "order": 37, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "纷纷", "pinyin": "fēnfēn",
+      "lesson_usage": { "part_of_speech": "形容词 / 副词 (Tính từ / Phó từ)", "meanings": ["1. (Phó từ) tới tấp, dồn dập, lần lượt nối tiếp nhau (chủ ngữ số nhiều)", "2. (Tính từ) nhao nhao, sôi nổi, rơi lả tả (nhiều và rối)"], "meaning": "tới tấp, dồn dập; nhao nhao, sôi nổi", "structure": "(phó) S(số nhiều) + 纷纷 + V  |  (tt) 议论纷纷 / 落叶纷纷", "explanation": "Sách gốc ghi đủ 2 từ loại tt./phó.: trong bài khóa làm phó từ đứng trước động từ; làm tính từ đứng sau động từ/danh từ như 议论纷纷, 落叶纷纷.", "examples": [
+        { "chinese": "除掉“夕”以后，百姓纷纷对七郎表达谢意。", "pinyin": "Chúdiào “Xī” yǐhòu, bǎixìng fēnfēn duì Qīláng biǎodá xièyì.", "vietnamese": "Sau khi trừ khử “Tịch”, dân chúng nối tiếp nhau bày tỏ lòng cảm ơn đối với Thất Lang.", "from_text": true },
+        { "chinese": "秋风刮起，落叶纷纷。", "pinyin": "Qiūfēng guāqǐ, luòyè fēnfēn.", "vietnamese": "Gió thu nổi lên, lá rụng lả tả." }
+      ] },
+      "additional_usages": [], "chinese_explanation": "形容（言论、下落的东西等）多而杂乱（形容词）；表示接二连三地（副词）。", "collocations": ["纷纷表示", "纷纷询问", "议论纷纷", "落叶纷纷"], "usage_note": "Xem Chú thích 4 tr.59! Khi làm phó từ, chủ ngữ bắt buộc phải là SỐ NHIỀU (百姓、路人、游客...).", "common_errors": "Sai: '我纷纷问他问题' (chủ ngữ số ít không dùng 纷纷).", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l06_w38", "order": 38, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "表达", "pinyin": "biǎodá",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "bày tỏ, giãi bày", "structure": "表达 + 谢意/思想/决心/心情/感受/意见/看法", "explanation": "Diễn đạt, bộc lộ tư tưởng, tình cảm, ý kiến qua lời nói, chữ viết hoặc hành động.", "examples": [{ "chinese": "除掉“夕”以后，百姓纷纷对七郎表达谢意。", "pinyin": "Chúdiào “Xī” yǐhòu, bǎixìng fēnfēn duì Qīláng biǎodá xièyì.", "vietnamese": "Sau khi trừ khử “Tịch”, dân chúng nối tiếp nhau bày tỏ lòng cảm tạ đối với Thất Lang.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "把思想感情表示出来。", "collocations": ["表达谢意", "表达思想", "表达感情", "准确地表达"], "usage_note": "Phân biệt với 表示 (Bài tập 2 câu 1 tr.61): '用语言准确表达' (diễn đạt/giãi bày tâm tư tình cảm sâu sắc dùng 表达; còn 表示 dùng để thể hiện thái độ hoặc mang nghĩa 'biểu thị, có nghĩa là').", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l06_w39", "order": 39, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "意义", "pinyin": "yìyì",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "ý nghĩa, tầm quan trọng", "structure": "很有意义 / 重要意义 / 失去意义", "explanation": "Giá trị, tác dụng quan trọng hoặc hàm ý nội dung của ngôn từ/sự việc.", "examples": [{ "chinese": "由于这一天很有意义，于是人们就在每年的年三十这天晚上，仍然像那天一样整晚不睡觉。", "pinyin": "Yóuyú zhè yì tiān hěn yǒu yìyì, yúshì rénmen jiù zài měinián de niánsānshí zhè tiān wǎnshang, réngrán xiàng nà tiān yíyàng zhěngwǎn bú shuìjiào.", "vietnamese": "Bởi vì ngày này rất có ý nghĩa, thế nên vào tối 30 Tết hằng năm người ta vẫn thức trắng cả đêm giống như hôm đó.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "价值、作用；语言文字或其他信号所表示的内容。", "collocations": ["很有意义", "重要意义", "深远的意义"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l06_w40", "order": 40, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "鞭炮", "pinyin": "biānpào",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "pháo", "structure": "放鞭炮 / 一挂鞭炮", "explanation": "Pháo dây truyền thống đốt vào dịp lễ Tết, cưới hỏi để tạo không khí vui tươi.", "examples": [{ "chinese": "形成了除夕夜守岁、放鞭炮的风俗。", "pinyin": "Xíngchéng le Chúxī yè shǒusuì, fàng biānpào de fēngsú.", "vietnamese": "Hình thành nên phong tục thức đón giao thừa, đốt pháo vào đêm giao thừa.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "成串的小爆竹。", "collocations": ["放鞭炮", "鞭炮声"], "usage_note": "Động từ đi cùng là 放 (放鞭炮 — đốt pháo).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l06_w41", "order": 41, "textbook": "HSK 5 上", "lesson": 6,
+      "hanzi": "风俗", "pinyin": "fēngsú",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "phong tục, tục lệ", "structure": "传统风俗 / 风俗习惯 / 形成……的风俗", "explanation": "Tập quán, lề thói lưu truyền lâu đời trong đời sống xã hội của một dân tộc hay địa phương.", "examples": [{ "chinese": "形成了除夕夜守岁、放鞭炮的风俗。", "pinyin": "Xíngchéng le Chúxī yè shǒusuì, fàng biānpào de fēngsú.", "vietnamese": "Hình thành phong tục đón giao thừa, đốt pháo vào đêm giao thừa.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "社会上长期形成的风尚、礼节、习惯等的总和。", "collocations": ["风俗习惯", "传统风俗", "当地风俗"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    }
+  ],
+  "proper_nouns": [
+    { "hanzi": "夕", "pinyin": "Xī", "meaning": "Tịch (tên con quái vật)" },
+    { "hanzi": "七郎", "pinyin": "Qīláng", "meaning": "Thất Lang" }
+  ],
+  "collocations_table": [
+    { "relation": "Động từ + Tân ngữ", "head": "制造", "partners": "飞机 / 机会 / 战争 / 难题" },
+    { "relation": "Động từ + Tân ngữ", "head": "表达", "partners": "思想 / 决心 / 心情 / 感受 / 意见 / 看法" },
+    { "relation": "Định ngữ + Trung tâm ngữ", "head": "天真的", "partners": "孩子 / 性格 / 想法" },
+    { "relation": "Định ngữ + Trung tâm ngữ", "head": "整个", "partners": "房间 / 社会 / 计划 / 夏天 / 过程" },
+    { "relation": "Trạng ngữ + Trung tâm ngữ", "head": "询问", "partners": "仔细地 / 关心地 / 急忙 / 纷纷" },
+    { "relation": "Trạng ngữ + Trung tâm ngữ", "head": "表达", "partners": "准确地 / 生动地 / 形象地" },
+    { "relation": "Trung tâm ngữ + Bổ ngữ", "head": "除", "partners": "掉 / 去" },
+    { "relation": "Trung tâm ngữ + Bổ ngữ", "head": "吓 / 急 / 恨 / 羡慕 / 后悔 / 吵", "partners": "得 + 什么似的" }
+  ],
+  "grammar": [
+    {
+      "title": "替",
+      "formula": "(1) 替 + 某人 + V (động từ: thay thế 代替)  |  (2) 替 + 某人 + V / Adj (giới từ: cho, vì, giùm 给、为)",
+      "meaning": "1. Thay thế · 2. Cho, vì, giùm ai đó.",
+      "usage": "(1) Làm động từ có nghĩa là 'thay thế' (代替), có thể lặp lại là 替替; (2) Làm giới từ biểu thị 'cho, vì' (给、为), đứng trước động từ hoặc tính từ biểu thị cảm xúc (替他高兴, 替他着急).",
+      "context": "Rất hay dùng trong giao tiếp hằng ngày để bày tỏ sự giúp đỡ hoặc đồng cảm.",
+      "examples": [
+        { "chinese": "见了外公，你替我向他问好。", "pinyin": "Jiànle wàigōng, nǐ tì wǒ xiàng tā wènhǎo.", "vietnamese": "Gặp ông ngoại, cậu thay mình gửi lời hỏi thăm ông nhé." },
+        { "chinese": "刘老师今天有点儿事来不了，你能替替他吗？", "pinyin": "Liú lǎoshī jīntiān yǒudiǎnr shì láibuliǎo, nǐ néng tìti tā ma?", "vietnamese": "Thầy Lưu hôm nay có chút việc không tới được, bạn có thể thay thầy ấy không?" },
+        { "chinese": "七郎暗暗下定决心一定要杀死“夕”，替百姓除掉这个制造灾害的东西。", "pinyin": "Qīláng àn'àn xiàdìng juéxīn yídìng yào shāsǐ “Xī”, tì bǎixìng chúdiào zhège zhìzào zāihài de dōngxi.", "vietnamese": "Thất Lang thầm hạ quyết tâm nhất định giết chết “Tịch”, vì dân chúng trừ khử thứ gây tai họa này." },
+        { "chinese": "李阳要去留学了，我们都替他高兴。", "pinyin": "Lǐ Yáng yào qù liúxué le, wǒmen dōu tì tā gāoxìng.", "vietnamese": "Lý Dương sắp đi du học rồi, chúng tôi đều mừng cho cậu ấy." }
+      ],
+      "important_notes": "Khi đi với tính từ cảm xúc (高兴、着急、担心、难过), 替 + 某人 đặt ngay trước tính từ: 替他着急 (lo lắng thay cho anh ấy).",
+      "common_errors": "",
+      "comparison": "",
+      "mini_practice": [
+        { "prompt": "你放心吧，他借的钱______________________。（替）", "sample_answer": "我替他还", "explanation": "替 + 某人 + Động từ (trả thay cho anh ấy)." },
+        { "prompt": "后天就要考试了，小明的病还没好，______________________。（替）", "sample_answer": "我们都很替他着急", "explanation": "Giới từ 替 đi với tính từ cảm xúc 着急." }
+      ]
+    },
+    {
+      "title": "说不定",
+      "formula": "(1) S + 还说不定 (động từ: chưa nói chắc được)  |  (2) 说不定 + Mệnh đề / V (phó từ: có lẽ, rất có thể)",
+      "meaning": "1. Không nói chắc được, chưa khẳng định được · 2. Có lẽ, biết đâu, rất có thể.",
+      "usage": "(1) Làm động từ vị ngữ ở cuối câu biểu thị chưa thể khẳng định rõ ràng; (2) Làm phó từ đứng trước vị ngữ hoặc đầu phân câu biểu thị sự ước đoán khả năng cao.",
+      "context": "Rất phổ biến trong khẩu ngữ sinh hoạt.",
+      "examples": [
+        { "chinese": "这事儿经理已经同意了，只是出发的时间还说不定。", "pinyin": "Zhè shìr jīnglǐ yǐjīng tóngyì le, zhǐshì chūfā de shíjiān hái shuōbudìng.", "vietnamese": "Việc này giám đốc đã đồng ý rồi, chỉ có thời gian xuất phát vẫn chưa nói chắc được." },
+        { "chinese": "咱俩到底谁赢谁输还真说不定呢。", "pinyin": "Zánliǎ dàodǐ shéi yíng shéi shū hái zhēn shuōbudìng ne.", "vietnamese": "Hai đứa mình rốt cuộc ai thắng ai thua còn thật sự chưa nói trước được đâu." },
+        { "chinese": "周末他起得晚，这会儿说不定还在睡觉呢。", "pinyin": "Zhōumò tā qǐ de wǎn, zhèhuìr shuōbudìng hái zài shuìjiào ne.", "vietnamese": "Cuối tuần cậu ấy dậy muộn, giờ này có lẽ vẫn đang ngủ đấy." },
+        { "chinese": "别随随便便就说放弃，说不定下次就成功了。", "pinyin": "Bié suísuíbiànbiàn jiù shuō fàngqì, shuōbudìng xià cì jiù chénggōng le.", "vietnamese": "Đừng tùy tiện nói bỏ cuộc, biết đâu lần sau lại thành công rồi." }
+      ],
+      "important_notes": "Làm phó từ có thể đứng trước hoặc sau chủ ngữ (说不定他已经走了 / 他说不定已经走了).",
+      "common_errors": "",
+      "comparison": "Gần với 可能/也许 nhưng 说不定 mang sắc thái khẩu ngữ sinh động và hay đi với 呢 hoặc 就.",
+      "mini_practice": [
+        { "prompt": "你再去图书馆或书店转转，______________________。（说不定）", "sample_answer": "说不定能找到那本书", "explanation": "Phó từ 说不定 biểu thị khả năng phỏng đoán tích cực." }
+      ]
+    },
+    {
+      "title": "似的 (shìde)",
+      "formula": "(1) 像/跟/好像……似的 (giống như...)  |  (2) V/Adj + 得 + 什么似的 (cường điệu mức độ cao)",
+      "meaning": "1. Tựa như, giống như · 2. ... đến vô cùng / ... hết sức (ngữ khí khoa trương).",
+      "usage": "(1) Trợ từ kết cấu kết hợp với 像/跟/好像 (hoặc lược bỏ) đặt cuối cụm so sánh, dùng nhiều trong văn viết; (2) Khuôn '……得 + 什么似的' dùng '什么似的' thay thế cho trạng thái cực độ với ngữ khí cường điệu.",
+      "context": "Dùng trong cả văn miêu tả lẫn khẩu ngữ sinh động (累得什么似的, 吓得什么似的).",
+      "examples": [
+        { "chinese": "消息一出来，询问情况的电话雪片似的纷纷打来。", "pinyin": "Xiāoxi yì chūlái, xúnwèn qíngkuàng de diànhuà xuěpiàn shìde fēnfēn dǎlái.", "vietnamese": "Tin tức vừa tung ra, điện thoại hỏi thăm tình hình tới tấp gọi đến như hoa tuyết bay." },
+        { "chinese": "我不敢相信这是真的，好像做梦似的。", "pinyin": "Wǒ bù gǎn xiāngxìn zhè shì zhēnde, hǎoxiàng zuòmèng shìde.", "vietnamese": "Tôi không dám tin đây là sự thật, cứ như đang nằm mơ vậy." },
+        { "chinese": "刘方背着重重的电脑包挤地铁，下班回到家累得什么似的。", "pinyin": "Liú Fāng bēizhe zhòngzhòng de diànnǎobāo jǐ dìtiě, xiàbān huídào jiā lèi de shénme shìde.", "vietnamese": "Lưu Phương đeo túi máy tính nặng trịch chen tàu điện ngầm, tan làm về nhà mệt rã rời." },
+        { "chinese": "“夕”吓得什么似的，急忙往外逃。", "pinyin": "“Xī” xià de shénme shìde, jímáng wǎngwài táo.", "vietnamese": "“Tịch” sợ hết hồn hết vía, vội vã bỏ chạy ra ngoài." }
+      ],
+      "important_notes": "Nhớ đọc chuẩn shìde (không đọc sìde). Khuôn '……得什么似的' thường dùng sau động từ tâm lý/tính từ cảm giác như 吓、急、恨、羡慕、后悔、吵、累.",
+      "common_errors": "",
+      "comparison": "",
+      "mini_practice": [
+        { "prompt": "李阳考上了北大，______________________。（似的）", "sample_answer": "他高兴得什么似的 / 大家羡慕得什么似的", "explanation": "Dùng khuôn V/Adj + 得什么似的 để nhấn mạnh cảm xúc mãnh liệt." }
+      ]
+    },
+    {
+      "title": "纷纷",
+      "formula": "(1) Danh từ / Động từ + 纷纷 (tính từ: nhiều và rối)  |  (2) S(số nhiều) + 纷纷 + V (phó từ: tới tấp, nối tiếp nhau)",
+      "meaning": "1. Rơi lả tả, nhao nhao, sôi nổi (nhiều và lộn xộn) · 2. Lần lượt, nối tiếp nhau, tới tấp.",
+      "usage": "(1) Làm tính từ đứng sau danh từ/động từ (落叶纷纷, 议论纷纷); (2) Làm phó từ đứng trước động từ biểu thị nhiều người hoặc nhiều vật nối tiếp nhau cùng làm một hành động.",
+      "context": "Dùng nhiều trong tin tức, tường thuật cảnh đông người hoặc miêu tả thiên nhiên.",
+      "examples": [
+        { "chinese": "秋风刮起，落叶纷纷。", "pinyin": "Qiūfēng guāqǐ, luòyè fēnfēn.", "vietnamese": "Gió thu nổi lên, lá vàng rơi lả tả." },
+        { "chinese": "他救起了妻子，孩子却被大水冲走了。事后，人们议论纷纷。", "pinyin": "Tā jiùqǐ le qīzi, háizi què bèi dàshuǐ chōngzǒu le. Shìhòu, rénmen yìlùn fēnfēn.", "vietnamese": "Anh ấy cứu được vợ nhưng con lại bị nước lũ cuốn trôi. Sau đó, mọi người bàn tán xôn xao." },
+        { "chinese": "除掉“夕”以后，百姓纷纷对七郎表达谢意。", "pinyin": "Chúdiào “Xī” yǐhòu, bǎixìng fēnfēn duì Qīláng biǎodá xièyì.", "vietnamese": "Sau khi trừ khử “Tịch”, dân chúng nối tiếp nhau bày tỏ lòng biết ơn với Thất Lang." },
+        { "chinese": "要下雨了，路上的人纷纷往家里跑。", "pinyin": "Yào xiàyǔ le, lùshang de rén fēnfēn wǎng jiāli pǎo.", "vietnamese": "Trời sắp mưa rồi, người đi đường ai nấy vội vã chạy về nhà." }
+      ],
+      "important_notes": "Khi làm phó từ, chủ ngữ PHẢI biểu thị số nhiều (人们、百姓、各大商场、游客们...).",
+      "common_errors": "",
+      "comparison": "",
+      "mini_practice": [
+        { "prompt": "新年快到了，各大商场、购物中心______________________。（纷纷）", "sample_answer": "纷纷推出了打折活动", "explanation": "Chủ ngữ số nhiều + 纷纷 + Động từ." }
+      ]
+    }
+  ],
+  "comparison_section": {
+    "label": "词语辨析 Phân biệt từ ngữ",
+    "pair": "打听 — 询问",
+    "term_a": "打听 (dǎting)",
+    "term_b": "询问 (xúnwèn)",
+    "similarity": "Đều là động từ, đều mang nghĩa “hỏi” (问). VD: 他打听/询问了老人的身体和生活情况。",
+    "differences": [
+      { "criterion": "Phong cách", "a": "Thường dùng trong KHẨU NGỮ (我跟您打听一下，附近有邮局吗？).", "b": "Thường dùng trong VĂN VIẾT (他仔细地询问了公司近年来的发展情况)." },
+      { "criterion": "Bổ ngữ “到” & Sắc thái", "a": "Thường dùng tìm hiểu, dò hỏi thông tin; CÓ THỂ mang bổ ngữ kết quả “到” (我到处打听也没打听到这家公司).", "b": "Thường KHÔNG mang bổ ngữ kết quả “到”; ngoài ra còn mang nghĩa trưng cầu ý kiến (打电话询问刘教授对论文的意见)." },
+      { "criterion": "Tân ngữ người & Danh từ hóa", "a": "KHÔNG có hai cách dùng này.", "b": "Phía sau CÓ THỂ trực tiếp mang đối tượng người được hỏi (警察询问了当天见过他的邻居), và còn hoạt dụng làm DANH TỪ (他详细地回答了病人的询问)." }
+    ]
+  },
+  "texts": [
+    {
+      "id": "t1", "title_zh": "除夕的由来（671字）", "title_vi": "Nguồn gốc đêm giao thừa",
+      "lines": [
+        { "speaker": "", "chinese": "在中国，人们把农历十二月三十日这一年中的最后一天叫作除夕，这一天，全家人会一起吃年夜饭，守岁。但是，人们为什么要把年三十叫作除夕呢？", "pinyin": "Zài Zhōngguó, rénmen bǎ nónglì shí'èr yuè sānshí rì zhè yì nián zhōng de zuìhòu yì tiān jiàozuò Chúxī, zhè yì tiān, quánjiārén huì yìqǐ chī niányèfàn, shǒusuì. Dànshì, rénmen wèishénme yào bǎ niánsānshí jiàozuò Chúxī ne?", "vietnamese": "Ở Trung Quốc, người ta gọi ngày 30 tháng 12 âm lịch — ngày cuối cùng trong năm — là Trừ Tịch (giao thừa). Ngày này, cả nhà cùng ăn cơm tất niên và thức đón giao thừa. Nhưng tại sao người ta lại gọi ngày 30 Tết là Trừ Tịch?" },
+        { "speaker": "", "chinese": "传说在很久以前，有个叫作“夕”的怪物，经常出来伤害百姓，百姓对其恨之入骨，但是又十分无奈。当时有个英雄叫作七郎，他英俊高大、力大无比。七郎还有一条狗，这条狗非常勇敢，无论咬住什么都不会松口。", "pinyin": "Chuánshuō zài hěn jiǔ yǐqián, yǒu ge jiàozuò “Xī” de guàiwù, jīngcháng chūlái shānghài bǎixìng, bǎixìng duì qí hènzhīrùgǔ, dànshì yòu shífēn wúnài. Dāngshí yǒu ge yīngxióng jiàozuò Qīláng, tā yīngjùn gāodà, lìdàwúbǐ. Qīláng hái yǒu yì tiáo gǒu, zhè tiáo gǒu fēicháng yǒnggǎn, wúlùn yǎozhù shénme dōu bú huì sōngkǒu.", "vietnamese": "Tương truyền rất lâu về trước, có một con quái vật tên là “Tịch”, thường xuyên ra làm hại dân lành. Dân chúng căm hận nó thấu xương nhưng lại vô cùng bất lực. Lúc bấy giờ có chàng anh hùng tên là Thất Lang, khôi ngô cao lớn, sức mạnh vô song. Thất Lang còn nuôi một con chó vô cùng dũng cảm, hễ cắn chặt thứ gì thì quyết không nhả miệng." },
+        { "speaker": "", "chinese": "一天，七郎从外边回来，看到邻居家女孩的外公坐在路边哭，于是上前询问，一问才知道，原来天真可爱的女孩被“夕”吃掉了。七郎暗暗下定决心一定要杀死“夕”，替百姓除掉这个制造灾害的东西。于是七郎带着他的狗出发了，他到处打听“夕”的消息，但是一直找不到它。", "pinyin": "Yì tiān, Qīláng cóng wàibian huílai, kàndào línjū jiā nǚhái de wàigōng zuò zài lùbiān kū, yúshì shàngqián xúnwèn, yí wèn cái zhīdào, yuánlái tiānzhēn kě'ài de nǚhái bèi “Xī” chīdiào le. Qīláng àn'àn xiàdìng juéxīn yídìng yào shāsǐ “Xī”, tì bǎixìng chúdiào zhège zhìzào zāihài de dōngxi. Yúshì Qīláng dàizhe tā de gǒu chūfā le, tā dàochù dǎting “Xī” de xiāoxi, dànshì yìzhí zhǎobudào tā.", "vietnamese": "Một hôm, Thất Lang từ ngoài trở về, thấy ông ngoại của cô bé nhà hàng xóm ngồi khóc bên đường, bèn bước tới hỏi thăm. Hỏi rồi mới biết cô bé ngây thơ đáng yêu đã bị “Tịch” ăn thịt. Thất Lang thầm hạ quyết tâm nhất định phải giết chết “Tịch”, thay dân trừ khử thứ gây họa này. Thế là chàng dắt chó lên đường, khắp nơi dò hỏi tin tức về “Tịch” nhưng mãi vẫn không tìm thấy nó." },
+        { "speaker": "", "chinese": "这样过了差不多一年，这天正好是大年三十，七郎来到了一个热闹的城镇。这一年来，七郎虽然没有找到“夕”，但是了解到了很多关于“夕”的情况：它一般在太阳落山后出来害人，到天亮前又会逃得连影子都找不着了；此外，它还特别害怕声响。于是七郎告诉这里的百姓，“夕”说不定晚上要出来伤害大家，让大家今晚熬夜等着，一见到“夕”就赶紧敲打东西，大家一起把“夕”杀掉。", "pinyin": "Zhèyàng guò le chàbuduō yì nián, zhè tiān zhènghǎo shì dànián sānshí, Qīláng láidào le yí ge rènao de chéngzhèn. Zhè yì nián lái, Qīláng suīrán méiyǒu zhǎodào “Xī”, dànshì liǎojiě dào le hěn duō guānyú “Xī” de qíngkuàng: tā yìbān zài tàiyáng luòshān hòu chūlái hàirén, dào tiānliàng qián yòu huì táo de lián yǐngzi dōu zhǎobuzháo le; cǐwài, tā hái tèbié hàipà shēngxiǎng. Yúshì Qīláng gàosu zhèlǐ de bǎixìng, “Xī” shuōbudìng wǎnshang yào chūlái shānghài dàjiā, ràng dàjiā jīnwǎn áo yè děngzhe, yí jiàndào “Xī” jiù gǎnjǐn qiāodǎ dōngxi, dàjiā yìqǐ bǎ “Xī” shādiào.", "vietnamese": "Cứ thế trôi qua gần một năm, hôm đó đúng vào ngày 30 Tết, Thất Lang đến một thị trấn náo nhiệt. Suốt một năm qua tuy chưa tìm thấy “Tịch” nhưng chàng đã nắm được nhiều đặc điểm của nó: nó thường ra hại người sau khi mặt trời lặn, đến trước bình minh lại chạy biến không còn bóng dáng; ngoài ra nó còn đặc biệt sợ tiếng động. Thất Lang liền báo với dân chúng rằng tối nay có lẽ “Tịch” sẽ ra hại mọi người, bảo mọi người thức khuya chờ sẵn, hễ thấy “Tịch” thì lập tức gõ đồ vật, mọi người cùng hợp sức giết chết nó." },
+        { "speaker": "", "chinese": "太阳很快落山了，到了晚上，“夕”果然出来了。它想吃一户人家的姑娘，被这家人发现了，于是他们立刻敲响了家中的锅和盆子，跟着整个镇子都响了起来。“夕”吓得什么似的，急忙往外逃。七郎的狗追上了“夕”，并死死地咬住了它。七郎跑上前去，一箭射死了“夕”。", "pinyin": "Tàiyáng hěn kuài luòshān le, dàole wǎnshang, “Xī” guǒrán chūlái le. Tā xiǎng chī yí hù rénjiā de gūniang, bèi zhè jiā rén fāxiàn le, yúshì tāmen lìkè qiāoxiǎng le jiāzhōng de guō hé pénzi, gēnzhe zhěnggè zhènzi dōu xiǎng le qilai. “Xī” xià de shénme shìde, jímáng wǎngwài táo. Qīláng de gǒu zhuīshàng le “Xī”, bìng sǐsǐ de yǎozhù le tā. Qīláng pǎo shàngqián qù, yí jiàn shèsǐ le “Xī”.", "vietnamese": "Mặt trời nhanh chóng xuống núi, đến tối “Tịch” quả nhiên xuất hiện. Nó định ăn thịt cô gái của một hộ gia đình, bị nhà này phát hiện, họ liền lập tức gõ vang nồi chậu trong nhà, kéo theo cả thị trấn đều vang rền tiếng gõ. “Tịch” sợ hết hồn hết vía, vội vàng tháo chạy ra ngoài. Con chó của Thất Lang đuổi kịp “Tịch” và cắn chặt lấy nó. Thất Lang chạy tới, một mũi tên bắn chết “Tịch”." },
+        { "speaker": "", "chinese": "除掉“夕”以后，百姓纷纷对七郎表达谢意。由于这一天很有意义，于是人们就在每年的年三十这天晚上，仍然像那天一样整晚不睡觉，敲打出响声。就这样一代代传下来，形成了除夕夜守岁、放鞭炮的风俗。", "pinyin": "Chúdiào “Xī” yǐhòu, bǎixìng fēnfēn duì Qīláng biǎodá xièyì. Yóuyú zhè yì tiān hěn yǒu yìyì, yúshì rénmen jiù zài měinián de niánsānshí zhè tiān wǎnshang, réngrán xiàng nà tiān yíyàng zhěngwǎn bú shuìjiào, qiāodǎchū xiǎngshēng. Jiù zhèyàng yídàidài chuán xiàlái, xíngchéng le Chúxī yè shǒusuì, fàng biānpào de fēngsú.", "vietnamese": "Sau khi trừ khử “Tịch”, dân chúng nối tiếp nhau bày tỏ lòng biết ơn với Thất Lang. Vì ngày này rất có ý nghĩa, thế nên vào đêm 30 Tết hằng năm người ta vẫn thức trắng cả đêm giống như hôm đó, gõ tạo ra tiếng động vang rền. Cứ thế truyền từ đời này sang đời khác, hình thành phong tục thức đón giao thừa và đốt pháo đêm giao thừa." }
+      ]
+    }
+  ],
+  "reading_questions": [
+    { "question_zh": "七郎和百姓是怎么除掉怪物“夕”的？后来形成了什么风俗？", "question_vi": "Thất Lang và người dân đã trừ khử quái vật “Tịch” bằng cách nào? Sau này đã hình thành phong tục gì?", "answer_zh": "七郎了解到“夕”晚上出来、害怕声响，就让百姓大年三十熬夜等着，见到“夕”就敲响锅和盆子把它吓跑，再由他的狗咬住、自己一箭射死“夕”。后来就形成了除夕夜守岁、放鞭炮的风俗。", "answer_vi": "Thất Lang biết “Tịch” xuất hiện ban đêm và sợ tiếng động, bèn bảo người dân đêm 30 thức khuya chờ sẵn, thấy nó thì gõ vang nồi chậu dọa nó chạy trốn, rồi chó của chàng cắn giữ lại để chàng bắn chết. Từ đó hình thành phong tục đón giao thừa (守岁) và đốt pháo (放鞭炮)." }
+  ],
+  "exercises": [
+    {
+      "id": "h5s6_ex1", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.61 (Bài tập 1)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ điền vào chỗ trống: “还真让你说对了，他______还不知道这件事。”",
+      "options": ["果然", "赶紧", "此外", "无奈"],
+      "answer": "果然",
+      "explanation": "Cụm '还真让你说对了' (đúng như cậu nói thật) cho thấy thực tế khớp hoàn toàn với dự đoán → dùng 果然.",
+      "review_tip": "Phân biệt 果然 (quả nhiên) vs 居然 (không ngờ)."
+    },
+    {
+      "id": "h5s6_ex2", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.61 (Bài tập 1)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ điền vào chỗ trống: “经常熬夜对身体的______极大。”",
+      "options": ["伤害", "制造", "无奈", "灾害"],
+      "answer": "伤害",
+      "explanation": "Cấu trúc '对身体的伤害极大' (gây tổn hại cực lớn cho cơ thể) — 伤害 dùng làm danh từ.",
+      "review_tip": "Ôn 2 từ loại (đgt./dt.) của 伤害."
+    },
+    {
+      "id": "h5s6_ex3", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.60 (词语辨析)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “她______到北京有位医生能治这个病，就带着孩子来了。”",
+      "options": ["打听", "询问", "表达", "制造"],
+      "answer": "打听",
+      "explanation": "Chỉ có 打听 mới mang bổ ngữ kết quả 到 (打听到消息/打听到医生); 询问 KHÔNG dùng với 到.",
+      "review_tip": "Ôn mục 词语辨析: 打听—询问 tr.60."
+    },
+    {
+      "id": "h5s6_ex4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.60 (词语辨析)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “我______了几个修过机器的顾客，他们对小刘的服务都很满意。”",
+      "options": ["询问", "打听", "追", "替"],
+      "answer": "询问",
+      "explanation": "Phía sau trực tiếp mang tân ngữ chỉ NGƯỜI được hỏi (几个修过机器的顾客) → phải dùng 询问 (không nói 打听了顾客).",
+      "review_tip": "Ôn mục 词语辨析: 打听—询问 tr.60."
+    },
+    {
+      "id": "h5s6_ex5", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.61 (Bài tập 2)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “你______给他回个电话，他好像有什么急事找你。”",
+      "options": ["赶紧", "急忙", "果然", "此外"],
+      "answer": "赶紧",
+      "explanation": "Câu cầu khiến/khuyên nhủ đối phương làm ngay việc gì → dùng 赶紧 (không dùng 急忙 trong câu mệnh lệnh/nhắc nhở).",
+      "review_tip": "Phân biệt 赶紧 vs 急忙."
+    },
+    {
+      "id": "h5s6_ex6", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.61 (Bài tập 2)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “今天是不可能了，你______安排一个时间见面吧。”",
+      "options": ["另外", "此外", "纷纷", "整个"],
+      "answer": "另外",
+      "explanation": "Đứng trước động từ 安排 làm trạng ngữ chỉ 'một thời gian khác' → dùng 另外 (此外 là liên từ chỉ đứng đầu phân câu độc lập).",
+      "review_tip": "Phân biệt 此外 (liên từ) vs 另外."
+    },
+    {
+      "id": "h5s6_ex7", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.61 (Bài tập 3)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn vị trí thích hợp cho chữ “替” trong câu: “A 路上的人 B 他着急，拉住 C 他的马，阻止 D 他说：‘方向错了。’”",
+      "options": ["B (替他着急)", "A (替路上的人)", "C (拉住替)", "D (阻止替)"],
+      "answer": "B (替他着急)",
+      "explanation": "Giới từ 替 + 某人 + Động từ/Tính từ cảm xúc → 路上的人替他着急 (người đi đường lo lắng thay cho anh ta).",
+      "review_tip": "Ôn Chú thích 1 tr.57: giới từ 替."
+    },
+    {
+      "id": "h5s6_ex8", "type": "grammar_mc", "level": "Vận dụng", "origin_tag": "Sách gốc tr.61 (Bài tập 3)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn vị trí thích hợp cho chữ “整个” trong câu: “A 学院 B 所有的 C 老师同学都在议论 D 这件事。”",
+      "options": ["A (整个学院)", "B (整个所有的)", "C (整个老师同学)", "D (整个这件事)"],
+      "answer": "A (整个学院)",
+      "explanation": "整个 là định ngữ chỉ toàn bộ một chỉnh thể đơn vị → đặt trước 学院: 整个学院所有的老师同学.",
+      "review_tip": "Ôn bảng 词语搭配 của 整个 tr.59."
+    },
+    {
+      "id": "h5s6_ex9", "type": "context_mc", "level": "Vận dụng", "origin_tag": "Ôn tập Bài 1 & Bài 5", "mistake_category": "Từ vựng",
+      "prompt": "[Ôn tập] Chọn đáp án đúng: “明星的影响力______不一般，他唱的那首______的歌很快就流行起来了。”",
+      "options": ["果然 / 优美", "居然 / 美丽", "从而 / 优美", "果然 / 独特"],
+      "answer": "果然 / 优美",
+      "explanation": "Bài 6 tr.61: 明星的影响力果然不一般 (quả nhiên khác thường); Bài 5: 优美 dùng cho cảm nhận thính giác (优美的歌/歌声), không dùng 美丽.",
+      "review_tip": "Ôn kết hợp 果然 (Bài 6) và 美丽—优美 (Bài 5)."
+    }
+  ]
+}

@@ -1,0 +1,926 @@
+{
+  "id": "hsk4shang_l01",
+  "book_id": "hsk4shang",
+  "textbook": "HSK 4 上",
+  "lesson_number": 1,
+  "title_zh": "简单的爱情",
+  "title_vi": "Tình yêu đơn giản",
+  "pdf_pages": "Trang 10–20 (Chuẩn HSK 4上 .pdf)",
+  "source_status": "verified_textbook",
+  "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"],
+  "vocabulary": [
+    {
+      "id": "hsk4s_l01_w01", "order": 1, "textbook": "HSK 4 上", "lesson": 1,
+      "hanzi": "法律", "pinyin": "fǎlǜ",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "pháp luật, luật",
+        "structure": "学法律 / 法律系 / 遵守法律",
+        "explanation": "Trong bài khóa 1, dùng chỉ ngành học (ngành luật).",
+        "examples": [{ "chinese": "他学的是新闻，我学的是法律。", "pinyin": "Tā xué de shì xīnwén, wǒ xué de shì fǎlǜ.", "vietnamese": "Anh ấy học báo chí, còn mình học luật.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "国家制定或认可的、必须遵守的行为规则。",
+      "collocations": ["学法律", "法律专业", "遵守法律", "法律问题"],
+      "usage_note": "Thường đi kèm lượng từ 条 (một điều luật) hoặc 部 (một bộ luật).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l01_w02", "order": 2, "textbook": "HSK 4 上", "lesson": 1,
+      "hanzi": "俩", "pinyin": "liǎ",
+      "lesson_usage": {
+        "part_of_speech": "数量词 (Số lượng từ)", "meaning": "hai (người), cả hai",
+        "structure": "代词/名词 + 俩 (你们俩、他们俩、兄弟俩)",
+        "explanation": "Là hình thức hợp âm của '两个', hay dùng trong khẩu ngữ.",
+        "examples": [{ "chinese": "那你们俩是怎么认识的？", "pinyin": "Nà nǐmen liǎ shì zěnme rènshi de?", "vietnamese": "Thế hai người quen nhau như thế nào?", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "数量词 (Dùng trước danh từ đếm sự vật nhỏ trong khẩu ngữ)",
+          "meanings": ["hai cái, vài ba cái (khẩu ngữ miền Bắc Trung Quốc)"],
+          "structure": "俩 + 名词 (俩苹果、俩小时)",
+          "difference_note": "Khác với bài khóa dùng sau đại từ nhân xưng (你们俩), '俩' còn đứng trực tiếp trước danh từ mà không cần lượng từ '个'.",
+          "examples": [{ "chinese": "桌子上就剩俩苹果了。", "pinyin": "Zhuōzi shang jiù shèng liǎ píngguǒ le.", "vietnamese": "Trên bàn chỉ còn lại hai quả táo thôi." }]
+        }
+      ],
+      "chinese_explanation": "“两个”的合音词，后面不能再加量词“个”。",
+      "collocations": ["我们俩", "你们俩", "夫妻俩", "父子俩"],
+      "usage_note": "Tuyệt đối KHÔNG thêm lượng từ '个' sau '俩' (sai: 俩个人).",
+      "common_errors": "Sai phổ biến: '他们俩个是朋友' → Sửa: '他们俩是朋友' hoặc '他们两个是朋友'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l01_w03", "order": 3, "textbook": "HSK 4 上", "lesson": 1,
+      "hanzi": "印象", "pinyin": "yìnxiàng",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "ấn tượng",
+        "structure": "A 对 B (的)印象很深 / 给……留下……印象",
+        "explanation": "Chỉ cảm nhận, hình ảnh đọng lại trong tâm trí sau khi tiếp xúc.",
+        "examples": [{ "chinese": "我对他印象很深，后来就慢慢熟悉了。", "pinyin": "Wǒ duì tā yìnxiàng hěn shēn, hòulái jiù mànmàn shúxī le.", "vietnamese": "Mình có ấn tượng rất sâu sắc với anh ấy, sau đó dần dần trở nên thân quen.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "客观事物在人的头脑里留下的迹象或感觉。",
+      "collocations": ["第一印象", "印象深刻", "留下好印象", "在我的印象中"],
+      "usage_note": "Không dùng làm động từ (không nói '我印象他').",
+      "common_errors": "Sai: '我印象他很好' → Sửa: '我对他印象很好'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l01_w04", "order": 4, "textbook": "HSK 4 上", "lesson": 1,
+      "hanzi": "深", "pinyin": "shēn",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "sâu sắc (mức độ tình cảm, ấn tượng)",
+        "structure": "印象/感情 + 很深",
+        "explanation": "Trong bài khóa 1, dùng nghĩa chuyển chỉ mức độ sâu sắc của ấn tượng.",
+        "examples": [{ "chinese": "我对他印象很深。", "pinyin": "Wǒ duì tā yìnxiàng hěn shēn.", "vietnamese": "Mình có ấn tượng rất sâu sắc với anh ấy.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "形容词 (Nghĩa không gian – đối lập với 浅)",
+          "meanings": ["sâu (từ trên xuống dưới hoặc từ ngoài vào trong)"],
+          "structure": "水很深 / 院子很深",
+          "difference_note": "Khác với nghĩa trừu tượng trong bài (ấn tượng sâu), đây là nghĩa gốc đo khoảng cách vật lý.",
+          "examples": [{ "chinese": "这里的河水很深，别下去游泳。", "pinyin": "Zhèlǐ de héshuǐ hěn shēn, bié xiàqù yóuyǒng.", "vietnamese": "Nước sông chỗ này rất sâu, đừng xuống bơi." }]
+        },
+        {
+          "part_of_speech": "形容词 (Màu sắc & Thời gian)",
+          "meanings": ["1. đậm (màu sắc: 深蓝、深红)", "2. khuya, muộn (thời gian: 夜深了)"],
+          "structure": "深 + 颜色 / 夜深",
+          "difference_note": "Đứng trước màu sắc để chỉ sắc độ đậm, hoặc làm vị ngữ cho '夜' (đêm khuya).",
+          "examples": [{ "chinese": "夜已经深了，你早点儿休息吧。", "pinyin": "Yè yǐjīng shēn le, nǐ zǎodiǎnr xiūxi ba.", "vietnamese": "Đêm đã khuya rồi, bạn nghỉ sớm đi." }]
+        }
+      ],
+      "chinese_explanation": "感情厚、程度高；也指距离大、颜色浓、时间晚。",
+      "collocations": ["印象深", "感情深", "深蓝色", "夜深人静"],
+      "usage_note": "Một từ đa nghĩa tiêu biểu: 4 trục nghĩa (mức độ, khoảng cách, màu sắc, thời gian).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l01_w05", "order": 5, "textbook": "HSK 4 上", "lesson": 1,
+      "hanzi": "熟悉", "pinyin": "shúxī",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "hiểu rõ, làm quen, nắm rõ",
+        "structure": "熟悉 + 宾语 / 慢慢熟悉了",
+        "explanation": "Trong bài khóa 1, dùng chỉ quá trình từ lạ thành quen biết, hiểu rõ về nhau.",
+        "examples": [{ "chinese": "我对他印象很深，后来就慢慢熟悉了。", "pinyin": "Wǒ duì tā yìnxiàng hěn shēn, hòulái jiù mànmàn shúxī le.", "vietnamese": "Tôi ấn tượng rất sâu về anh ấy, sau đó dần dần thân quen.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "形容词 (Tính từ)",
+          "meanings": ["quen thuộc, thân thuộc (trạng thái đã biết rõ)"],
+          "structure": "对……很熟悉 / 熟悉的声音",
+          "difference_note": "Khi làm tính từ, '熟悉' có thể nhận phó từ chỉ mức độ (很熟悉) và làm định ngữ (熟悉的环境), KHÔNG mang tân ngữ trực tiếp phía sau '很熟悉'.",
+          "examples": [{ "chinese": "我刚搬来一个星期，对这儿的环境还不太熟悉。", "pinyin": "Wǒ gāng bān lái yí ge xīngqī, duì zhèr de huánjìng hái bú tài shúxī.", "vietnamese": "Tôi mới chuyển đến một tuần, vẫn chưa quen lắm với môi trường ở đây." }]
+        }
+      ],
+      "chinese_explanation": "知道得很清楚；也形容不陌生。",
+      "collocations": ["熟悉环境", "对……很熟悉", "熟悉的面孔", "熟悉情况"],
+      "usage_note": "Tránh nhầm '熟悉' (hiểu sâu, quen thuộc) với '认识' (biết mặt, quen biết sơ).",
+      "common_errors": "Sai: '我很熟悉他' (nếu muốn dùng với '很', ưu tiên: '我跟他很熟悉' hoặc '我对这里很熟悉').",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l01_w06", "order": 6, "textbook": "HSK 4 上", "lesson": 1,
+      "hanzi": "不仅", "pinyin": "bùjǐn",
+      "lesson_usage": {
+        "part_of_speech": "连词 (Liên từ)", "meaning": "không những, chẳng những",
+        "structure": "不仅……，也/还/而且……",
+        "explanation": "Dùng ở vế đầu của câu phức tăng tiến, kết hợp với 也/还/而且 ở vế sau.",
+        "examples": [{ "chinese": "他不仅足球踢得好，性格也不错。", "pinyin": "Tā bùjǐn zúqiú tī de hǎo, xìnggé yě búcuò.", "vietnamese": "Anh ấy không những đá bóng giỏi mà tính cách cũng rất tốt.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "表示递进关系的连词，相当于“不但”。",
+      "collocations": ["不仅……而且……", "不仅……还……", "不仅……也……"],
+      "usage_note": "Cùng chủ ngữ: Chủ ngữ + 不仅...; Khác chủ ngữ: 不仅 + Chủ ngữ 1..., Chủ ngữ 2 + 也/还/而且...",
+      "common_errors": "Lỗi vị trí chủ ngữ khi 2 vế khác chủ ngữ: Sai '我不仅会做，他也会做' → Đúng '不仅我会做，他也会做'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l01_w07", "order": 7, "textbook": "HSK 4 上", "lesson": 1,
+      "hanzi": "性格", "pinyin": "xìnggé",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "tính cách, tính nết",
+        "structure": "性格很好 / 性格开朗 / 性格上互相吸引",
+        "explanation": "Chỉ đặc điểm tâm lý ổn định trong thái độ và hành vi của một người.",
+        "examples": [{ "chinese": "他不仅足球踢得好，性格也不错。", "pinyin": "Tā bùjǐn zúqiú tī de hǎo, xìnggé yě búcuò.", "vietnamese": "Anh ấy không những đá bóng giỏi mà tính cách cũng rất tốt.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "在对人、对事的态度和行为方式上表现出来的心理特点。",
+      "collocations": ["性格开朗", "性格内向", "性格温和", "性格不合"],
+      "usage_note": "Phân biệt với 脾气 (tính khí, sự nóng nảy tức thời) học ở cuối bài này.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l01_w08", "order": 8, "textbook": "HSK 4 上", "lesson": 1,
+      "hanzi": "开玩笑", "pinyin": "kāi wánxiào",
+      "lesson_usage": {
+        "part_of_speech": "动宾短语/离合词 (Cụm động-tân / Từ ly hợp)", "meaning": "nói đùa, đùa",
+        "structure": "跟/和 + 某人 + 开玩笑 / 开 + 某人的 + 玩笑",
+        "explanation": "Là kết cấu động-tân (ly hợp), có thể chèn thành phần vào giữa 开 và 玩笑.",
+        "examples": [{ "chinese": "你是在开玩笑吧？你们不是才认识一个月？", "pinyin": "Nǐ shì zài kāi wánxiào ba? Nǐmen bú shì cái rènshi yí ge yuè?", "vietnamese": "Em đang nói đùa đấy chứ? Hai đứa chẳng phải mới quen nhau một tháng sao?", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "用有趣的、不严肃的话或行为逗乐。",
+      "collocations": ["别开玩笑了", "开个玩笑", "跟我开玩笑", "开不起玩笑"],
+      "usage_note": "Không mang tân ngữ trực tiếp phía sau (sai: 开玩笑他).",
+      "common_errors": "Sai: '你别开玩笑我' → Đúng: '你别跟我开玩笑' hoặc '你别开我的玩笑'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l01_w09", "order": 9, "textbook": "HSK 4 上", "lesson": 1,
+      "hanzi": "从来", "pinyin": "cónglái",
+      "lesson_usage": {
+        "part_of_speech": "副词 (Phó từ)", "meaning": "từ trước đến nay, từ trước đến giờ",
+        "structure": "从来 + 不/没(有) + 动词/形容词 (+ 过)",
+        "explanation": "Nhấn mạnh tính chất/trạng thái xuyên suốt từ quá khứ tới hiện tại; đa số dùng trong câu phủ định.",
+        "examples": [{ "chinese": "虽然我们认识的时间不长，但我从来没这么快乐过。", "pinyin": "Suīrán wǒmen rènshi de shíjiān bù cháng, dàn wǒ cónglái méi zhème kuàilè guo.", "vietnamese": "Tuy thời gian chúng em quen nhau chưa lâu, nhưng em chưa từng vui vẻ như thế này.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "副词 (Dùng trong câu khẳng định với 都 / 只)",
+          "meanings": ["từ trước đến nay lúc nào cũng / chỉ..."],
+          "structure": "从来 + 都/只 + 动词/形容词",
+          "difference_note": "Ít gặp hơn dạng phủ định nhưng rất tự nhiên khi đi kèm '都' hoặc '只' (như ví dụ 3 trong sách gốc tr.13).",
+          "examples": [{ "chinese": "这家面馆从来只卖一种东西：牛肉面。", "pinyin": "Zhè jiā miànguǎn cónglái zhǐ mài yì zhǒng dōngxi: niúròumiàn.", "vietnamese": "Quán mì này từ trước tới nay chỉ bán một món: mì thịt bò." }]
+        }
+      ],
+      "chinese_explanation": "表示从过去到现在一直如此，多用于否定句。",
+      "collocations": ["从来不", "从来没", "从来都", "从来只"],
+      "usage_note": "Khi dùng phủ định quá khứ/trải nghiệm (没), cuối câu hay đi kèm '过'.",
+      "common_errors": "Sai: '我从来去过北京' (thiếu phủ định hoặc 都/只) → Đúng: '我从来没去过北京'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l01_w10", "order": 10, "textbook": "HSK 4 上", "lesson": 1,
+      "hanzi": "最好", "pinyin": "zuìhǎo",
+      "lesson_usage": {
+        "part_of_speech": "副词 (Phó từ)", "meaning": "tốt nhất (nên làm gì)",
+        "structure": "主语 + 最好 + (能/不要) + 动词",
+        "explanation": "Trong bài khóa 2, dùng để đưa ra lời khuyên hoặc mong muốn tối ưu.",
+        "examples": [{ "chinese": "两个人在一起，最好能有共同的兴趣和爱好。", "pinyin": "Liǎng ge rén zài yìqǐ, zuìhǎo néng yǒu gòngtóng de xìngqù hé àihào.", "vietnamese": "Hai người ở bên nhau, tốt nhất là có chung sở thích và hứng thú.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "形容词短语 (Cụm tính từ so sánh nhất)",
+          "meanings": ["tốt nhất, hay nhất (đứng làm định ngữ hoặc vị ngữ)"],
+          "structure": "最好的 + 名词",
+          "difference_note": "Khi làm định ngữ ('最好的朋友'), '最好' đánh giá chất lượng cao nhất, khác với phó từ khuyên nhủ ('最好早点儿睡').",
+          "examples": [{ "chinese": "她是我最好的朋友。", "pinyin": "Tā shì wǒ zuìhǎo de péngyou.", "vietnamese": "Cô ấy là người bạn tốt nhất của tôi." }]
+        }
+      ],
+      "chinese_explanation": "表示最理想的选择，常用来提出建议。",
+      "collocations": ["最好别", "最好能", "最好的办法"],
+      "usage_note": "Phó từ 最好 có thể đặt trước hoặc sau chủ ngữ tùy sắc thái nhấn mạnh.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l01_w11", "order": 11, "textbook": "HSK 4 上", "lesson": 1,
+      "hanzi": "共同", "pinyin": "gòngtóng",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "chung, cùng (thuộc về từ hai bên trở lên)",
+        "structure": "共同的 + 名词 (共同的爱好 / 共同的理想)",
+        "explanation": "Trong bài khóa 2, làm định ngữ bổ nghĩa cho danh từ 兴趣和爱好.",
+        "examples": [{ "chinese": "我们有很多共同的爱好，经常一起打球、唱歌、做菜。", "pinyin": "Wǒmen yǒu hěn duō gòngtóng de àihào, jīngcháng yìqǐ dǎ qiú, chàng gē, zuò cài.", "vietnamese": "Chúng em có rất nhiều sở thích chung, thường cùng nhau đánh bóng, hát hò, nấu ăn.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "副词 (Phó từ)",
+          "meanings": ["cùng nhau (làm một hành động chung)"],
+          "structure": "共同 + 动词 (共同生活 / 共同努力 / 共同学习)",
+          "difference_note": "Ngay trong bài khóa 3 ('两个人共同生活') và bài tập tr.19 ('共同努力'), '共同' đứng trực tiếp trước động từ 2 âm tiết với chức năng trạng ngữ (phó từ).",
+          "examples": [{ "chinese": "他们两个人共同努力，终于完成了工作。", "pinyin": "Tāmen liǎng ge rén gòngtóng nǔlì, zhōngyú wánchéng le gōngzuò.", "vietnamese": "Hai người họ cùng nhau nỗ lực, cuối cùng đã hoàn thành công việc." }]
+        }
+      ],
+      "chinese_explanation": "属于大家的、彼此都有的；也表示大家一起做某事。",
+      "collocations": ["共同爱好", "共同语言", "共同努力", "共同生活"],
+      "usage_note": "Không làm vị ngữ độc lập (không nói '我们的爱好很共同').",
+      "common_errors": "Sai: '我和他的爱好很共同' → Sửa: '我和他有共同的爱好' hoặc '我们的爱好相同'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l01_w12", "order": 12, "textbook": "HSK 4 上", "lesson": 1,
+      "hanzi": "适合", "pinyin": "shìhé",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "phù hợp, thích hợp với",
+        "structure": "A 适合 B (mang tân ngữ trực tiếp)",
+        "explanation": "Trong bài khóa 2, mang tân ngữ '你' để chỉ người phù hợp với bạn.",
+        "examples": [{ "chinese": "看来你真的找到适合你的人了。", "pinyin": "Kànlái nǐ zhēn de zhǎodào shìhé nǐ de rén le.", "vietnamese": "Xem ra em thật sự đã tìm được người phù hợp với mình rồi.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "符合实际情况或客观要求。",
+      "collocations": ["适合自己", "适合穿", "不适合做", "很适合"],
+      "usage_note": "Có thể nhận phó từ mức độ (很适合) và bắt buộc mang tân ngữ (hoặc tân ngữ hiểu ngầm).",
+      "common_errors": "Cực hay nhầm với tính từ 合适: Sai '这件衣服很合适你' → Đúng '这件衣服很适合你' hoặc '这件衣服你穿着很合适'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l01_w13", "order": 13, "textbook": "HSK 4 上", "lesson": 1,
+      "hanzi": "幸福", "pinyin": "xìngfú",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "hạnh phúc",
+        "structure": "很幸福 / 挺幸福的 / 祝你们幸福",
+        "explanation": "Trong bài khóa 2 & 3, miêu tả trạng thái cảm thấy mỹ mãn, hạnh phúc.",
+        "examples": [{ "chinese": "祝你们幸福！", "pinyin": "Zhù nǐmen xìngfú!", "vietnamese": "Chúc hai em hạnh phúc!", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ)",
+          "meanings": ["niềm hạnh phúc, sự hạnh phúc"],
+          "structure": "最大的幸福 / 追求幸福 / 幸福的标准",
+          "difference_note": "Ngay ở bài khóa 4 ('简单就是最大的幸福'), '幸福' đóng vai trò danh từ làm trung tâm ngữ.",
+          "examples": [{ "chinese": "有时候，简单就是最大的幸福。", "pinyin": "Yǒu shíhou, jiǎndān jiù shì zuì dà de xìngfú.", "vietnamese": "Đôi khi, sự đơn giản chính là niềm hạnh phúc lớn nhất." }]
+        }
+      ],
+      "chinese_explanation": "生活、境遇称心如意；也指使人心情舒畅的境遇和生活。",
+      "collocations": ["幸福的生活", "感到幸福", "追求幸福", "最大的幸福"],
+      "usage_note": "Phân biệt với 高兴/快乐 (vui vẻ tức thời); 幸福 sâu sắc và bền lâu hơn.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l01_w14", "order": 14, "textbook": "HSK 4 上", "lesson": 1,
+      "hanzi": "生活", "pinyin": "shēnghuó",
+      "lesson_usage": {
+        "part_of_speech": "名词 / 动词 (Danh từ / Động từ)", "meanings": ["1. (Danh từ) cuộc sống, đời sống", "2. (Động từ) sống, sinh sống"],
+        "meaning": "cuộc sống; sống",
+        "structure": "(dt) 我们的生活 / 生活中; (đgt) 一起生活 / 在北京生活",
+        "explanation": "Sách gốc ghi rõ cả hai chức năng dt./đgt. vì bài khóa 3 dùng cả hai cách.",
+        "examples": [
+          { "chinese": "这么多年，我们的生活一直挺幸福的。", "pinyin": "Zhème duō nián, wǒmen de shēnghuó yìzhí tǐng xìngfú de.", "vietnamese": "Bao nhiêu năm qua, cuộc sống của chúng tôi luôn khá hạnh phúc.", "from_text": true },
+          { "chinese": "只有接受了他的缺点，你们才能更好地一起生活。", "pinyin": "Zhǐyǒu jiēshòu le tā de quēdiǎn, nǐmen cái néng gèng hǎo de yìqǐ shēnghuó.", "vietnamese": "Chỉ khi chấp nhận khuyết điểm của anh ấy, hai người mới có thể sống chung tốt hơn.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "人的生存和日常活动；也指生存、过日子。",
+      "collocations": ["生活习惯", "共同生活", "日常生活", "生活水平"],
+      "usage_note": "Khi nói 'sống ở đâu', dùng '在 + địa điểm + 生活'.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l01_w15", "order": 15, "textbook": "HSK 4 上", "lesson": 1,
+      "hanzi": "刚", "pinyin": "gāng",
+      "lesson_usage": {
+        "part_of_speech": "副词 (Phó từ)", "meaning": "vừa, vừa mới",
+        "structure": "主语 + (时间词) + 刚 + 动词 (+ 时量)",
+        "explanation": "Chỉ hành động/tình huống xảy ra cách đây không lâu (đứng sau chủ ngữ, trước động từ).",
+        "examples": [{ "chinese": "我和丈夫刚结婚的时候，每天都觉得很新鲜。", "pinyin": "Wǒ hé zhàngfu gāng jié hūn de shíhou, měi tiān dōu juéde hěn xīnxiān.", "vietnamese": "Hồi tôi và chồng vừa mới kết hôn, ngày nào cũng thấy rất mới mẻ.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "副词 (Nghĩa: vừa vặn, vừa đủ / chỉ mới đạt mức)",
+          "meanings": ["vừa khít, vừa đủ (không thừa không thiếu)"],
+          "structure": "刚 + 够 / 刚好 / 刚满",
+          "difference_note": "Không chỉ thời gian, mà chỉ sự vừa khớp về kích thước, số lượng.",
+          "examples": [{ "chinese": "这双鞋我穿着大小刚合适。", "pinyin": "Zhè shuāng xié wǒ chuānzhe dàxiǎo gāng héshì.", "vietnamese": "Đôi giày này tôi đi kích cỡ vừa khít." }]
+        }
+      ],
+      "chinese_explanation": "表示动作或情况发生在不久以前；也表示恰好。",
+      "collocations": ["刚才", "刚刚", "刚结婚", "刚毕业"],
+      "usage_note": "Xem mục So sánh '刚—刚才' ở tab Ngữ pháp (4 điểm khác biệt trọng tâm HSK 4).",
+      "common_errors": "Sai: '刚我去商店了' (刚 không đứng trước chủ ngữ) → Đúng: '刚才我去商店了' hoặc '我刚去商店了'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l01_w16", "order": 16, "textbook": "HSK 4 上", "lesson": 1,
+      "hanzi": "浪漫", "pinyin": "làngmàn",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "lãng mạn",
+        "structure": "很浪漫 / 浪漫的爱情 / 最浪漫的事",
+        "explanation": "Miêu tả tình cảm, khung cảnh giàu chất thơ, ngọt ngào.",
+        "examples": [{ "chinese": "很多女孩子羡慕浪漫的爱情。", "pinyin": "Hěn duō nǚháizi xiànmù làngmàn de àiqíng.", "vietnamese": "Nhiều cô gái ước ao một tình yêu lãng mạn.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "富有诗意，充满幻想，很有情调。",
+      "collocations": ["浪漫的爱情", "最浪漫的事", "浪漫的气氛"],
+      "usage_note": "Trong bài khóa 3 & 4, 浪漫 còn dùng như đối tượng bàn luận ('什么是浪漫呢？').",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l01_w17", "order": 17, "textbook": "HSK 4 上", "lesson": 1,
+      "hanzi": "够", "pinyin": "gòu",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "đủ (đạt tới mức cần thiết)",
+        "structure": "够了 / 不够 / 够 + 名词",
+        "explanation": "Trong bài khóa 3, dùng ở dạng phủ định '是不够的' (là không đủ).",
+        "examples": [{ "chinese": "两个人共同生活，只有浪漫和新鲜感是不够的。", "pinyin": "Liǎng ge rén gòngtóng shēnghuó, zhǐ yǒu làngmàn hé xīnxiāngǎn shì bú gòu de.", "vietnamese": "Hai người chung sống với nhau, chỉ có lãng mạn và cảm giác mới mẻ là không đủ.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "副词 (Phó từ chỉ mức độ cao – xuất hiện ở HSK 4 下 Bài 14)",
+          "meanings": ["đủ... rồi, thật là... (nhấn mạnh mức độ cao)"],
+          "structure": "够 + 形容词 + 的",
+          "difference_note": "Đứng trước tính từ để nhấn mạnh mức độ (tương đương 'rất / quá'), khác với động từ 'đủ số lượng' ở bài này.",
+          "examples": [{ "chinese": "今天天气够冷的，多穿点儿衣服吧。", "pinyin": "Jīntiān tiānqì gòu lěng de, duō chuān diǎnr yīfu ba.", "vietnamese": "Thời tiết hôm nay lạnh thật đấy, mặc thêm chút áo đi." }]
+        }
+      ],
+      "chinese_explanation": "数量上可以满足需要；作副词时表示达到某种程度。",
+      "collocations": ["不够", "足够", "够用", "够忙的"],
+      "usage_note": "Có thể dùng làm bổ ngữ kết quả: 吃够了 (ăn chán/đủ rồi), 睡够了 (ngủ đủ rồi).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l01_w18", "order": 18, "textbook": "HSK 4 上", "lesson": 1,
+      "hanzi": "缺点", "pinyin": "quēdiǎn",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "khuyết điểm, thiếu sót",
+        "structure": "看到缺点 / 接受缺点 / 改正缺点",
+        "explanation": "Trái nghĩa với 优点 (ưu điểm).",
+        "examples": [{ "chinese": "我现在每天看到的都是他的缺点。", "pinyin": "Wǒ xiànzài měi tiān kàndào de dōu shì tā de quēdiǎn.", "vietnamese": "Bây giờ ngày nào tôi nhìn thấy cũng toàn là khuyết điểm của anh ấy.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "欠缺或不完善的地方（跟“优点”相对）。",
+      "collocations": ["克服缺点", "改正缺点", "接受缺点", "优点和缺点"],
+      "usage_note": "Không dùng 缺点 để nói 'thiếu tiền/thiếu thời gian' (dùng 缺 tiền / 时间不够).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l01_w19", "order": 19, "textbook": "HSK 4 上", "lesson": 1,
+      "hanzi": "接受", "pinyin": "jiēshòu",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "chấp nhận, tiếp nhận",
+        "structure": "接受 + 缺点 / 意见 / 礼物 / 邀请 / 教育",
+        "explanation": "Chỉ thái độ đồng ý, tiếp nhận sự vật, lời khuyên, hay đặc điểm của người khác.",
+        "examples": [{ "chinese": "只有接受了他的缺点，你们才能更好地一起生活。", "pinyin": "Zhǐyǒu jiēshòu le tā de quēdiǎn, nǐmen cái néng gèng hǎo de yìqǐ shēnghuó.", "vietnamese": "Chỉ khi chấp nhận khuyết điểm của anh ấy, hai người mới có thể sống chung tốt hơn.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "对事物容纳而不拒绝。",
+      "collocations": ["接受缺点", "接受批评", "接受邀请", "很难接受"],
+      "usage_note": "Tránh nhầm với 接收 (tiếp thu/nhận chuyển giao, thu sóng tín hiệu).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l01_w20", "order": 20, "textbook": "HSK 4 上", "lesson": 1,
+      "hanzi": "羡慕", "pinyin": "xiànmù",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "ước ao, ngưỡng mộ",
+        "structure": "很/特别羡慕 + 人/事",
+        "explanation": "Thấy người khác có điều tốt đẹp mà mong mình cũng có (sắc thái tích cực, không đố kỵ).",
+        "examples": [{ "chinese": "很多女孩子羡慕浪漫的爱情。", "pinyin": "Hěn duō nǚháizi xiànmù làngmàn de àiqíng.", "vietnamese": "Nhiều cô gái ước ao tình yêu lãng mạn.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "看见别人有某种长处、好处或有利条件而希望自己也有。",
+      "collocations": ["真羡慕你", "令人羡慕", "特别羡慕"],
+      "usage_note": "Là động từ tâm lý nên nhận được phó từ mức độ (很羡慕、非常羡慕) và mang tân ngữ.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l01_w21", "order": 21, "textbook": "HSK 4 上", "lesson": 1,
+      "hanzi": "爱情", "pinyin": "àiqíng",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "tình yêu (giữa nam và nữ)",
+        "structure": "浪漫的爱情 / 简单的爱情 / 爱情故事",
+        "explanation": "Chỉ riêng tình yêu lứa đôi (không dùng cho tình thân hay tình bạn).",
+        "examples": [{ "chinese": "爱情是结婚的重要原因。", "pinyin": "Àiqíng shì jié hūn de zhòngyào yuányīn.", "vietnamese": "Tình yêu là nguyên nhân quan trọng của hôn nhân.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "男女相爱的感情。",
+      "collocations": ["爱情故事", "爱情电影", "简单的爱情"],
+      "usage_note": "Phân biệt: 亲情 (tình thân), 友情 (tình bạn), 爱情 (tình yêu đôi lứa).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l01_w22", "order": 22, "textbook": "HSK 4 上", "lesson": 1, "is_out_of_syllabus": true,
+      "hanzi": "星星", "pinyin": "xīngxing",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "ngôi sao",
+        "structure": "一颗星星 / 满天星星",
+        "explanation": "Từ đánh dấu * (ngoài khung HSK 4) trong bài khóa 4; âm tiết thứ hai đọc thanh nhẹ.",
+        "examples": [{ "chinese": "浪漫是她想要月亮时，你不会给她星星。", "pinyin": "Làngmàn shì tā xiǎng yào yuèliang shí, nǐ bú huì gěi tā xīngxing.", "vietnamese": "Lãng mạn là khi cô ấy muốn mặt trăng, bạn sẽ không đưa cô ấy ngôi sao.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "夜晚天空中发光的天体。",
+      "collocations": ["看星星", "一颗星星", "星星和月亮"],
+      "usage_note": "Chú ý thanh nhẹ ở chữ 星 thứ hai: xīngxing.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l01_w23", "order": 23, "textbook": "HSK 4 上", "lesson": 1,
+      "hanzi": "即使", "pinyin": "jíshǐ",
+      "lesson_usage": {
+        "part_of_speech": "连词 (Liên từ)", "meaning": "cho dù, dù cho",
+        "structure": "即使……，也……",
+        "explanation": "Biểu thị quan hệ nhượng bộ giả thuyết (hoặc sự việc đã xảy ra), vế sau luôn phối hợp với 也.",
+        "examples": [{ "chinese": "浪漫是即使晚上加班到零点，到家时，自己家里也还亮着灯。", "pinyin": "Làngmàn shì jíshǐ wǎnshang jiā bān dào língdiǎn, dào jiā shí, zìjǐ jiā li yě hái liàngzhe dēng.", "vietnamese": "Lãng mạn là cho dù tối tăng ca đến 12 giờ đêm, khi về nhà đèn trong nhà vẫn còn sáng.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "连词，表示假设的让步，常与“也”搭配。",
+      "collocations": ["即使……也……"],
+      "usage_note": "Phân biệt với 虽然……但是……: 即使 thường nói điều giả thiết và vế sau đi với 也 (không đi với 但是).",
+      "common_errors": "Sai: '即使下雨，但是我也去' → Đúng: '即使下雨，我也去'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l01_w24", "order": 24, "textbook": "HSK 4 上", "lesson": 1,
+      "hanzi": "加班", "pinyin": "jiā bān",
+      "lesson_usage": {
+        "part_of_speech": "动词/离合词 (Động từ ly hợp)", "meaning": "tăng ca, làm thêm giờ",
+        "structure": "加班 / 加了一会儿班 / 加班到零点",
+        "explanation": "Làm thêm ngoài giờ hành chính quy định; có thể tách thành 加 + bổ ngữ/số lượng + 班.",
+        "examples": [{ "chinese": "即使晚上加班到零点，到家时，自己家里也还亮着灯。", "pinyin": "Jíshǐ wǎnshang jiā bān dào língdiǎn, dào jiā shí, zìjǐ jiā li yě hái liàngzhe dēng.", "vietnamese": "Cho dù tối tăng ca đến 0 giờ, khi về nhà đèn trong nhà vẫn sáng.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "在规定的工作时间以外增加工作时间。",
+      "collocations": ["经常加班", "加个班", "加班费"],
+      "usage_note": "Từ ly hợp: nói '加了三个小时班', không nói '加班了三个小时' (dù khẩu ngữ đôi khi gặp nhưng trong bài thi chuẩn tách giữa 加 và 班).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l01_w25", "order": 25, "textbook": "HSK 4 上", "lesson": 1, "is_out_of_syllabus": true,
+      "hanzi": "亮", "pinyin": "liàng",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "chiếu sáng, tỏa sáng, đang bật sáng",
+        "structure": "亮着 + 灯 / 灯亮了",
+        "explanation": "Trong bài khóa 4, dùng với trợ từ động thái 着 (亮着灯) chỉ trạng thái đèn đang sáng.",
+        "examples": [{ "chinese": "到家时，自己家里也还亮着灯。", "pinyin": "Dào jiā shí, zìjǐ jiā li yě hái liàngzhe dēng.", "vietnamese": "Khi về đến nhà, đèn trong nhà mình vẫn còn bật sáng.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "形容词 (Tính từ)",
+          "meanings": ["1. sáng sủa (ánh sáng rõ)", "2. vang, trong trẻo (giọng nói)"],
+          "structure": "房间很亮 / 嗓子很亮 / 天亮了",
+          "difference_note": "Khác với bài khóa làm động từ mang tân ngữ '灯', khi làm tính từ '亮' miêu tả tính chất sáng của không gian hoặc độ vang của giọng.",
+          "examples": [{ "chinese": "这个教室窗户很大，白天特别亮。", "pinyin": "Zhège jiàoshì chuānghu hěn dà, báitiān tèbié liàng.", "vietnamese": "Cửa sổ phòng học này rất lớn, ban ngày cực kỳ sáng." }]
+        }
+      ],
+      "chinese_explanation": "发光；也形容光线强或声音响亮。",
+      "collocations": ["亮着灯", "天亮了", "漂亮", "明亮"],
+      "usage_note": "Chú ý câu tồn hiện: Địa điểm + 亮着 + 灯.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l01_w26", "order": 26, "textbook": "HSK 4 上", "lesson": 1,
+      "hanzi": "感动", "pinyin": "gǎndòng",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "cảm động, làm xúc động",
+        "structure": "让 + 某人 + 感动 / 被……感动 / 很感动",
+        "explanation": "Trong bài khóa 4, dùng với '让' (让我们感动的) chỉ sự việc khiến người ta xúc động.",
+        "examples": [{ "chinese": "其实，让我们感动的，就是生活中简单的爱情。", "pinyin": "Qíshí, ràng wǒmen gǎndòng de, jiù shì shēnghuó zhōng jiǎndān de àiqíng.", "vietnamese": "Thật ra, điều làm chúng ta cảm động chính là tình yêu đơn giản trong cuộc sống.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Ngoại động từ mang trực tiếp tân ngữ)",
+          "meanings": ["làm cảm động ai đó"],
+          "structure": "事/话 + 感动了 + 某人",
+          "difference_note": "Ngoài cấu trúc bị động/khiến động (让我感动, 被感动), 感动 có thể tác động thẳng lên người nghe.",
+          "examples": [{ "chinese": "这个故事感动了所有观众。", "pinyin": "Zhège gùshi gǎndòng le suǒyǒu guānzhòng.", "vietnamese": "Câu chuyện này đã làm cảm động tất cả khán giả." }]
+        }
+      ],
+      "chinese_explanation": "思想感情受外界事物的影响而激动，引起同情或向慕。",
+      "collocations": ["非常感动", "令人感动", "感动得哭了"],
+      "usage_note": "Phân biệt trong nhóm đồng tự 感 (tr.20): 感到 (cảm thấy) vs 感动 (cảm động).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l01_w27", "order": 27, "textbook": "HSK 4 上", "lesson": 1,
+      "hanzi": "自然", "pinyin": "zìrán",
+      "lesson_usage": {
+        "part_of_speech": "副词 (Phó từ)", "meaning": "đương nhiên, hiển nhiên, một cách tự nhiên",
+        "structure": "(很)自然地 + 动词 / 自然就会……",
+        "explanation": "Trong bài khóa 5, làm trạng ngữ bổ nghĩa cho động từ '想起' (rất tự nhiên nhớ tới).",
+        "examples": [{ "chinese": "说到结婚，人们就会很自然地想起爱情。", "pinyin": "Shuōdào jié hūn, rénmen jiù huì hěn zìrán de xiǎngqǐ àiqíng.", "vietnamese": "Nói đến kết hôn, người ta sẽ rất tự nhiên nghĩ tới tình yêu.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ)",
+          "meanings": ["thiên nhiên, giới tự nhiên (大自然)"],
+          "structure": "人与自然 / 保护自然",
+          "difference_note": "Làm danh từ chỉ thế giới tự nhiên (tên Bài 17 HSK 4 下: 人与自然).",
+          "examples": [{ "chinese": "我们要爱护大自然。", "pinyin": "Wǒmen yào àihù dàzìrán.", "vietnamese": "Chúng ta cần yêu quý và bảo vệ thiên nhiên." }]
+        },
+        {
+          "part_of_speech": "形容词 (Tính từ)",
+          "meanings": ["tự nhiên, thoải mái, không gượng gạo"],
+          "structure": "表现得很自然 / 自然的表情",
+          "difference_note": "Miêu tả cử chỉ, biểu cảm không giả tạo.",
+          "examples": [{ "chinese": "她第一次上台演讲，表现得非常自然。", "pinyin": "Tā dì-yī cì shàngtái yǎnjiǎng, biǎoxiàn de fēicháng zìrán.", "vietnamese": "Cô ấy lần đầu lên sân khấu diễn thuyết, thể hiện vô cùng tự nhiên." }]
+        }
+      ],
+      "chinese_explanation": "理所当然、不勉强；也指自然界或大方不拘束。",
+      "collocations": ["大自然", "自然环境", "自然而然", "很自然地"],
+      "usage_note": "Từ đa chức năng điển hình (Phó từ – Danh từ – Tính từ) rất hay ra trong bài chọn từ loại.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l01_w28", "order": 28, "textbook": "HSK 4 上", "lesson": 1,
+      "hanzi": "原因", "pinyin": "yuányīn",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "nguyên nhân",
+        "structure": "……的原因 / 重要原因 / 找到原因",
+        "explanation": "Chỉ lý do gây ra một sự việc, kết quả nào đó.",
+        "examples": [{ "chinese": "爱情是结婚的重要原因。", "pinyin": "Àiqíng shì jié hūn de zhòngyào yuányīn.", "vietnamese": "Tình yêu là nguyên nhân quan trọng của việc kết hôn.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "造成某种结果或引起另一件事情发生的条件。",
+      "collocations": ["主要原因", "因为这个原因", "找出原因"],
+      "usage_note": "Không dùng 原因 thay cho liên từ 因为.",
+      "common_errors": "Sai: '原因下雨，我没去' → Đúng: '因为下雨，我没去' hoặc '下雨是我没去的原因'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l01_w29", "order": 29, "textbook": "HSK 4 上", "lesson": 1,
+      "hanzi": "互相", "pinyin": "hùxiāng",
+      "lesson_usage": {
+        "part_of_speech": "副词 (Phó từ)", "meaning": "lẫn nhau, qua lại",
+        "structure": "互相 + 双音节动词 (互相吸引 / 互相帮助 / 互相理解)",
+        "explanation": "Chỉ hành động tác động qua lại giữa hai bên, đứng trước động từ (chủ yếu động từ 2 âm tiết).",
+        "examples": [{ "chinese": "不仅需要浪漫的爱情，更需要性格上互相吸引。", "pinyin": "Bùjǐn xūyào làngmàn de àiqíng, gèng xūyào xìnggé shang hùxiāng xīyǐn.", "vietnamese": "Không chỉ cần tình yêu lãng mạn, mà càng cần thu hút lẫn nhau về tính cách.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "表示彼此同样对待的关系。",
+      "collocations": ["互相帮助", "互相学习", "互相尊重", "互相吸引"],
+      "usage_note": "Chủ ngữ của câu dùng 互相 phải là số nhiều (我们、他们、两个人...).",
+      "common_errors": "Không thêm tân ngữ sau động từ đã có 互相 (Sai: '我们互相帮助彼此' → Đúng: '我们互相帮助').",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l01_w30", "order": 30, "textbook": "HSK 4 上", "lesson": 1,
+      "hanzi": "吸引", "pinyin": "xīyǐn",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "hấp dẫn, thu hút",
+        "structure": "吸引 + 人/游客/注意力 / 互相吸引",
+        "explanation": "Lôi cuốn sự chú ý, hứng thú hoặc tình cảm của đối phương.",
+        "examples": [{ "chinese": "更需要性格上互相吸引。", "pinyin": "Gèng xūyào xìnggé shang hùxiāng xīyǐn.", "vietnamese": "Càng cần sự thu hút lẫn nhau về tính cách.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "把别的物体、力量或别人的注意力引到自己这方面来。",
+      "collocations": ["吸引游客", "吸引注意力", "很有吸引力"],
+      "usage_note": "Không dùng 吸引 như tính từ (sai: '这部电影很吸引' → đúng: '这部电影很吸引人' hoặc '很有吸引力').",
+      "common_errors": "Lỗi người Việt dịch 'rất hấp dẫn' thành '很吸引' → Phải thêm '人' thành '很吸引人'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l01_w31", "order": 31, "textbook": "HSK 4 上", "lesson": 1,
+      "hanzi": "幽默", "pinyin": "yōumò",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "hóm hỉnh, khôi hài, hài hước",
+        "structure": "很幽默 / 幽默的人 / 幽默感",
+        "explanation": "Chỉ phong cách nói chuyện, tính cách thú vị, duyên dáng khiến người khác vui vẻ.",
+        "examples": [{ "chinese": "我丈夫是个很幽默的人。", "pinyin": "Wǒ zhàngfu shì ge hěn yōumò de rén.", "vietnamese": "Chồng tôi là một người rất hóm hỉnh.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ)",
+          "meanings": ["sự hài hước, óc khôi hài (thường dùng trong 幽默感 / 黑色幽默)"],
+          "structure": "富有幽默感 / 一种幽默",
+          "difference_note": "Làm danh từ chỉ khái niệm chất hài hước.",
+          "examples": [{ "chinese": "他非常有幽默感，大家都喜欢听他说话。", "pinyin": "Tā fēicháng yǒu yōumògǎn, dàjiā dōu xǐhuan tīng tā shuōhuà.", "vietnamese": "Anh ấy vô cùng có khiếu hài hước, ai cũng thích nghe anh ấy nói chuyện." }]
+        }
+      ],
+      "chinese_explanation": "有趣或可笑而意味深长。",
+      "collocations": ["幽默感", "语言幽默", "幽默风趣"],
+      "usage_note": "Từ vay mượn phiên âm từ tiếng Anh 'humor' do Lâm Ngữ Đường dịch.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l01_w32", "order": 32, "textbook": "HSK 4 上", "lesson": 1,
+      "hanzi": "脾气", "pinyin": "píqi",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "tính tình, tính khí",
+        "structure": "脾气不错 / 脾气很大 / 发脾气",
+        "explanation": "Chỉ xu hướng phản ứng cảm xúc, đặc biệt là mức độ dễ hay khó nổi nóng.",
+        "examples": [{ "chinese": "而且他的脾气也不错，结婚快十年了，我们俩几乎没因为什么事红过脸。", "pinyin": "Érqiě tā de píqi yě búcuò, jié hūn kuài shí nián le, wǒmen liǎ jīhū méi yīnwèi shénme shì hóngguo liǎn.", "vietnamese": "Hơn nữa tính tình anh ấy cũng rất tốt, kết hôn gần 10 năm rồi mà hai chúng tôi hầu như chưa từng cãi vã đỏ mặt vì chuyện gì.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "人的性情，常指容易发怒的倾向。",
+      "collocations": ["发脾气", "脾气大", "脾气好", "坏脾气"],
+      "usage_note": "'发脾气' = nổi nóng, cáu gắt; '脾气大' = nóng tính.",
+      "common_errors": "Không nói '他很脾气' → Phải nói '他脾气很大' hoặc '他爱发脾气'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    }
+  ],
+  "proper_nouns": [
+    { "hanzi": "孙月", "pinyin": "Sūn Yuè", "meaning": "Tôn Nguyệt (tên người)" },
+    { "hanzi": "王静", "pinyin": "Wáng Jìng", "meaning": "Vương Tịnh (tên người)" },
+    { "hanzi": "李进", "pinyin": "Lǐ Jìn", "meaning": "Lý Tiến (tên người)" },
+    { "hanzi": "李", "pinyin": "Lǐ", "meaning": "Lý (họ)" },
+    { "hanzi": "高", "pinyin": "Gāo", "meaning": "Cao (họ)" }
+  ],
+  "same_char_expansion": {
+    "char": "感",
+    "words": [
+      { "hanzi": "感到", "pinyin": "gǎndào", "meaning": "cảm thấy" },
+      { "hanzi": "感动", "pinyin": "gǎndòng", "meaning": "cảm động" },
+      { "hanzi": "感冒", "pinyin": "gǎnmào", "meaning": "cảm cúm" },
+      { "hanzi": "感兴趣", "pinyin": "gǎn xìngqù", "meaning": "có hứng thú" }
+    ],
+    "examples": [
+      { "chinese": "他的话让我感到事情有点儿不对。", "vietnamese": "Lời nói của anh ấy khiến tôi cảm thấy sự việc hơi có gì không ổn." },
+      { "chinese": "这部电影讲的是一个浪漫的爱情故事，很多人都被感动得哭了。", "vietnamese": "Bộ phim này kể một câu chuyện tình yêu lãng mạn, rất nhiều người đã xúc động đến bật khóc." },
+      { "chinese": "有点儿发烧，还有点儿头疼，可能是感冒了。", "vietnamese": "Hơi sốt, lại hơi đau đầu, có lẽ là bị cảm rồi." },
+      { "chinese": "很多留学生到中国学习汉语，是因为他们对中国文化感兴趣。", "vietnamese": "Nhiều du học sinh đến Trung Quốc học tiếng Hán là vì họ có hứng thú với văn hóa Trung Quốc." }
+    ]
+  },
+  "grammar": [
+    {
+      "title": "不仅……也/还/而且……",
+      "formula": "(1) Cùng chủ ngữ: S + 不仅 + Vế 1，也/还/而且 + Vế 2  |  (2) Khác chủ ngữ: 不仅 + S1 + Vế 1，S2 + 也/还/而且 + Vế 2",
+      "meaning": "Không những... mà còn... (biểu thị quan hệ tăng tiến).",
+      "usage": "Liên từ 不仅 đặt ở vế câu thứ nhất; 也 / 还 / 而且 đặt ở vế thứ hai để bổ sung thông tin ở mức độ sâu hơn hoặc phạm vi rộng hơn.",
+      "context": "Dùng trong cả văn nói trang trọng lẫn văn viết; đặc biệt chú ý vị trí của 不仅 so với chủ ngữ.",
+      "examples": [
+        { "chinese": "他不仅足球踢得好，性格也不错。", "pinyin": "Tā bùjǐn zúqiú tī de hǎo, xìnggé yě búcuò.", "vietnamese": "Anh ấy không những đá bóng giỏi, tính cách cũng rất tốt." },
+        { "chinese": "长大以后，他不仅身体健康，还成了一名长跑运动员。", "pinyin": "Zhǎngdà yǐhòu, tā bùjǐn shēntǐ jiànkāng, hái chéng le yì míng chángpǎo yùndòngyuán.", "vietnamese": "Sau khi lớn lên, anh ấy không những khỏe mạnh mà còn trở thành vận động viên chạy đường dài." },
+        { "chinese": "听说那边不仅很美，而且人也非常热情。", "pinyin": "Tīngshuō nàbiān bùjǐn hěn měi, érqiě rén yě fēicháng rèqíng.", "vietnamese": "Nghe nói bên đó không những rất đẹp mà con người cũng vô cùng nhiệt tình." }
+      ],
+      "important_notes": "Hai vế phải cùng chiều sắc thái (cùng khen hoặc cùng chê), và vế sau thường nặng hơn vế trước.",
+      "common_errors": "Đặt sai vị trí chủ ngữ khi 2 vế khác chủ ngữ (Sai: '我不仅会做中国菜，他也会' → Đúng: '不仅我会做中国菜，他也会').",
+      "comparison": "Tương đương 不但……而且……, nhưng 不仅 mang sắc thái hơi trang trọng/văn viết hơn một chút.",
+      "mini_practice": [
+        { "prompt": "李老师不仅喜欢看电影，______________________________。（也）", "sample_answer": "也喜欢听音乐 / 也喜欢去旅游", "explanation": "Hai vế cùng chủ ngữ '李老师', vế sau dùng '也' nối thêm một sở thích." },
+        { "prompt": "不仅我会做中国菜，______________________________。（而且）", "sample_answer": "而且我妹妹也会做中国菜", "explanation": "Vì '不仅' đặt trước chủ ngữ '我', vế sau nên đổi sang một chủ ngữ khác (như 我妹妹) đi kèm 而且." }
+      ]
+    },
+    {
+      "title": "从来",
+      "formula": "S + 从来 + 不 / 没(有) + V / Adj (+ 过)",
+      "meaning": "Từ trước đến nay (chưa từng / không bao giờ)...",
+      "usage": "Phó từ 从来 biểu thị sự việc, thói quen hay tính chất luôn giữ nguyên từ quá khứ cho đến hiện tại.",
+      "context": "Đa số dùng trong câu phủ định (从来不 cho thói quen/ý chí; 从来没...过 cho trải nghiệm). Có thể dùng câu khẳng định nếu kèm 都/只.",
+      "examples": [
+        { "chinese": "老张这个人开会从来不迟到。", "pinyin": "Lǎo Zhāng zhège rén kāi huì cónglái bù chídào.", "vietnamese": "Ông Trương họp hành từ trước đến nay không bao giờ đi trễ." },
+        { "chinese": "虽然我们认识的时间不长，但我从来没这么快乐过。", "pinyin": "Suīrán wǒmen rènshi de shíjiān bù cháng, dàn wǒ cónglái méi zhème kuàilè guo.", "vietnamese": "Tuy chúng em quen nhau chưa lâu nhưng em chưa từng vui như thế này." },
+        { "chinese": "这家面馆从来只卖一种东西：牛肉面。", "pinyin": "Zhè jiā miànguǎn cónglái zhǐ mài yì zhǒng dōngxi: niúròumiàn.", "vietnamese": "Quán mì này từ trước đến giờ chỉ bán duy nhất một món: mì thịt bò." }
+      ],
+      "important_notes": "Phân biệt: 从来不 + V (không bao giờ – chủ quan/thói quen) vs 从来没 + V + 过 (chưa từng – khách quan/trải nghiệm).",
+      "common_errors": "Bỏ quên từ phủ định trong câu trần thuật thường (Sai: '我从来喜欢看书' → Đúng: '我从来都喜欢看书' hoặc '我一直喜欢看书').",
+      "comparison": "一直 dùng tốt cho cả câu khẳng định lẫn phủ định; 从来 ưu tiên dùng với câu phủ định.",
+      "mini_practice": [
+        { "prompt": "很多人一回家就把门一关，____________________，住了几年还不知道邻居姓什么。（从来不）", "sample_answer": "从来不跟邻居聊天儿 / 从来不串门儿", "explanation": "Dùng '从来不' diễn tả thói quen hoàn toàn không làm gì từ trước đến nay." }
+      ]
+    },
+    {
+      "title": "刚",
+      "formula": "S + (Từ chỉ thời gian) + 刚 + V (+ Từ chỉ thời lượng)",
+      "meaning": "Vừa, vừa mới (xảy ra cách đây không lâu theo cảm nhận người nói).",
+      "usage": "Phó từ 刚 chỉ đứng sau chủ ngữ và trước động từ. Mốc 'không lâu' mang tính tương đối (có thể là 5 phút trước, cũng có thể là tháng trước nếu nói chuyện kết hôn).",
+      "context": "Dùng khi muốn nhấn mạnh sự việc vừa mới diễn ra gần đây.",
+      "examples": [
+        { "chinese": "我上午刚借的那本书，怎么找不到了？", "pinyin": "Wǒ shàngwǔ gāng jiè de nà běn shū, zěnme zhǎo bú dào le?", "vietnamese": "Quyển sách sáng nay tôi vừa mới mượn sao lại tìm không thấy rồi?" },
+        { "chinese": "我刚从会议室过来，怎么一个人也没有？", "pinyin": "Wǒ gāng cóng huìyìshì guòlái, zěnme yí ge rén yě méiyǒu?", "vietnamese": "Tôi vừa từ phòng họp sang đây, sao chẳng có ai cả?" }
+      ],
+      "important_notes": "Trước 刚 có thể đặt từ chỉ thời gian (昨天刚到, 上个月刚结婚), sau động từ có thể có thời lượng (刚来一会儿).",
+      "common_errors": "Đặt 刚 trước chủ ngữ hoặc đặt từ phủ định ngay sau 刚 (Sai: '你刚不说').",
+      "comparison": "Xem chi tiết bảng So sánh '刚—刚才' ngay bên dưới.",
+      "mini_practice": [
+        { "prompt": "A: 你们俩认识很久了吧？  B: ______________________________。（刚）", "sample_answer": "没有，我们刚认识一个月。", "explanation": "刚 đặt sau chủ ngữ 我们 và trước động từ 认识, phía sau có thể đi kèm thời lượng 一个月." }
+      ]
+    },
+    {
+      "title": "即使……也……",
+      "formula": "即使 + (S1) + Giả thiết/Nhượng bộ，(S2) + 也 + Kết quả không đổi",
+      "meaning": "Cho dù... cũng...",
+      "usage": "Liên từ 即使 đặt ở vế 1 (trước hoặc sau chủ ngữ đều được), vế 2 dùng 也 để nhấn mạnh kết quả không thay đổi dù điều kiện ở vế 1 xảy ra.",
+      "context": "Thường dùng cho giả thiết chưa xảy ra, đôi khi cũng dùng cho sự việc đã tồn tại để nhấn mạnh.",
+      "examples": [
+        { "chinese": "你应该多回家看看老人，即使只是跟他们吃吃饭、聊聊天，他们也会觉得很幸福。", "pinyin": "Nǐ yīnggāi duō huí jiā kànkan lǎorén, jíshǐ zhǐshì gēn tāmen chīchi fàn, liáoliao tiān, tāmen yě huì juéde hěn xìngfú.", "vietnamese": "Bạn nên về thăm người lớn tuổi nhiều hơn, cho dù chỉ ăn cơm trò chuyện với họ, họ cũng sẽ thấy rất hạnh phúc." },
+        { "chinese": "大部分人每天晚上最少应该睡7个小时，但有些人即使只睡5个小时也没问题。", "pinyin": "Dà bùfen rén měi tiān wǎnshang zuìshǎo yīnggāi shuì qī ge xiǎoshí, dàn yǒuxiē rén jíshǐ zhǐ shuì wǔ ge xiǎoshí yě méi wèntí.", "vietnamese": "Đa số mọi người mỗi tối ít nhất nên ngủ 7 tiếng, nhưng có người dù chỉ ngủ 5 tiếng cũng không sao." }
+      ],
+      "important_notes": "Vế sau bắt buộc dùng 也 (không dùng 但是/可是).",
+      "common_errors": "Trộn lẫn cặp liên từ: Sai '即使很忙，但是我也去' → Đúng '即使很忙，我也去'.",
+      "comparison": "虽然……但是…… diễn tả sự thật đã xảy ra; 即使……也…… thiên về giả thiết nhượng bộ.",
+      "mini_practice": [
+        { "prompt": "A: 你丈夫工作真忙！  B: 是啊！他即使星期天，______________________。（也）", "sample_answer": "也经常去公司加班", "explanation": "Vế sau dùng '也' phối ứng với '即使'." }
+      ]
+    },
+    {
+      "title": "(在)……上",
+      "formula": "(在) + Danh từ trừu tượng / Phạm vi + 上",
+      "meaning": "Về mặt..., xét trên phương diện..., trong phạm vi...",
+      "usage": "Phương vị từ 上 đặt sau danh từ không chỉ biểu thị 'trên bề mặt vật lý' (桌子上), mà còn chỉ một phạm vi hoặc khía cạnh trừu tượng.",
+      "context": "Rất phổ biến khi bàn về tính cách, học tập, cuộc sống, ẩm thực, công việc (学习上、生活上、性格上、饮食上).",
+      "examples": [
+        { "chinese": "今天的作业是复习生词，明天课上听写。", "pinyin": "Jīntiān de zuòyè shì fùxí shēngcí, míngtiān kè shang tīngxiě.", "vietnamese": "Bài tập hôm nay là ôn từ mới, ngày mai trên lớp sẽ viết chính tả." },
+        { "chinese": "你觉得北方和南方在饮食上有什么不同？", "pinyin": "Nǐ juéde běifāng hé nánfāng zài yǐnshí shang yǒu shénme bùtóng?", "vietnamese": "Bạn thấy miền Bắc và miền Nam về mặt ẩm thực có gì khác nhau?" },
+        { "chinese": "更需要性格上互相吸引。", "pinyin": "Gèng xūyào xìnggé shang hùxiāng xīyǐn.", "vietnamese": "Càng cần thu hút lẫn nhau về mặt tính cách." }
+      ],
+      "important_notes": "Chữ 上 khi dùng sau danh từ làm phương vị từ đọc thanh nhẹ (shang).",
+      "common_errors": "Dùng nhầm '里' thay vì '上' khi nói về khía cạnh trừu tượng (ưu tiên: 在工作上 / 在学习上 / 性格上).",
+      "comparison": "Trong sách còn gặp cặp '(在)……下' ở Bài 6 (trong điều kiện/hoàn cảnh nào đó, VD: 在老师的帮助下).",
+      "mini_practice": [
+        { "prompt": "A: 老张这个人怎么样？  B: ______________________________。（……上）", "sample_answer": "他在工作上非常认真。", "explanation": "Dùng '在工作上' để chỉ xét về mặt công việc." }
+      ]
+    }
+  ],
+  "comparison_section": {
+    "label": "比一比 So sánh",
+    "pair": "刚 — 刚才",
+    "term_a": "刚 (gāng)",
+    "term_b": "刚才 (gāngcái)",
+    "similarity": "Cả hai đều biểu thị hành động hoặc tình huống xảy ra cách đây không lâu và đều có thể làm trạng ngữ. VD: 你叔叔刚/刚才打电话来说给你发了个电子邮件。",
+    "differences": [
+      { "criterion": "Từ loại & Vị trí", "a": "Phó từ: CHỈ đứng sau chủ ngữ, trước động từ (我刚看了邮箱).", "b": "Danh từ thời gian: đứng TRƯỚC hoặc SAU chủ ngữ đều được (刚才我去洗手间了 / 我刚才去洗手间了)." },
+      { "criterion": "Từ chỉ thời gian đứng trước", "a": "CÓ THỂ đặt từ chỉ thời gian trước 刚 (我上个月刚结婚 / 我昨天刚到).", "b": "KHÔNG thể đặt từ chỉ thời gian trước 刚才 (chỉ nói khoảng vài phút vừa qua)." },
+      { "criterion": "Thời lượng sau động từ", "a": "Động từ phía sau CÓ THỂ mang từ chỉ thời lượng (他刚来一会儿 / 我刚搬来一个星期).", "b": "KHÔNG mang từ chỉ thời lượng sau động từ." },
+      { "criterion": "Từ phủ định đứng sau", "a": "KHÔNG đặt trực tiếp 不/没 ngay sau 刚 (không nói '刚不说').", "b": "CÓ THỂ đặt từ phủ định ngay sau 刚才 (你为什么刚才不说，现在才说？)." }
+    ]
+  },
+  "texts": [
+    {
+      "id": "t1", "title_zh": "孙月和王静聊王静的男朋友", "title_vi": "Tôn Nguyệt và Vương Tịnh nói chuyện về bạn trai của Vương Tịnh",
+      "lines": [
+        { "speaker": "孙月", "chinese": "听说你男朋友李进跟你是一个学校的，是你同学吗？", "pinyin": "Tīngshuō nǐ nánpéngyou Lǐ Jìn gēn nǐ shì yí ge xuéxiào de, shì nǐ tóngxué ma?", "vietnamese": "Nghe nói bạn trai Lý Tiến của cậu học cùng trường với cậu, là bạn cùng lớp à?" },
+        { "speaker": "王静", "chinese": "是的，他学的是新闻，我学的是法律，我和他不是一个班。", "pinyin": "Shì de, tā xué de shì xīnwén, wǒ xué de shì fǎlǜ, wǒ hé tā bú shì yí ge bān.", "vietnamese": "Đúng vậy, anh ấy học báo chí, mình học luật, mình và anh ấy không học cùng lớp." },
+        { "speaker": "孙月", "chinese": "那你们俩是怎么认识的？", "pinyin": "Nà nǐmen liǎ shì zěnme rènshi de?", "vietnamese": "Vậy hai người quen nhau như thế nào?" },
+        { "speaker": "王静", "chinese": "我们是在一次足球比赛中认识的。我们班跟他们班比赛，他一个人踢进两个球，我对他印象很深，后来就慢慢熟悉了。", "pinyin": "Wǒmen shì zài yí cì zúqiú bǐsài zhōng rènshi de. Wǒmen bān gēn tāmen bān bǐsài, tā yí ge rén tījìn liǎng ge qiú, wǒ duì tā yìnxiàng hěn shēn, hòulái jiù mànmàn shúxī le.", "vietnamese": "Bọn mình quen nhau trong một trận đấu bóng đá. Lớp mình đấu với lớp anh ấy, một mình anh ấy sút vào hai bàn, mình có ấn tượng rất sâu về anh ấy, sau đó dần dần thân quen." },
+        { "speaker": "孙月", "chinese": "你为什么喜欢他？", "pinyin": "Nǐ wèi shénme xǐhuan tā?", "vietnamese": "Tại sao cậu thích anh ấy?" },
+        { "speaker": "王静", "chinese": "他不仅足球踢得好，性格也不错。", "pinyin": "Tā bùjǐn zúqiú tī de hǎo, xìnggé yě búcuò.", "vietnamese": "Anh ấy không những đá bóng giỏi mà tính cách cũng rất tốt." }
+      ]
+    },
+    {
+      "id": "t2", "title_zh": "王静跟李老师聊她要结婚的事情", "title_vi": "Vương Tịnh nói chuyện với thầy Lý về việc cô sắp kết hôn",
+      "lines": [
+        { "speaker": "王静", "chinese": "李老师，我下个月5号就要结婚了。", "pinyin": "Lǐ lǎoshī, wǒ xià ge yuè wǔ hào jiù yào jié hūn le.", "vietnamese": "Thầy Lý ơi, mùng 5 tháng sau em sắp kết hôn rồi." },
+        { "speaker": "李老师", "chinese": "你是在开玩笑吧？你们不是才认识一个月？", "pinyin": "Nǐ shì zài kāi wánxiào ba? Nǐmen bú shì cái rènshi yí ge yuè?", "vietnamese": "Em đang đùa đấy chứ? Hai đứa chẳng phải mới quen nhau một tháng sao?" },
+        { "speaker": "王静", "chinese": "虽然我们认识的时间不长，但我从来没这么快乐过。", "pinyin": "Suīrán wǒmen rènshi de shíjiān bù cháng, dàn wǒ cónglái méi zhème kuàilè guo.", "vietnamese": "Tuy thời gian chúng em quen nhau chưa lâu, nhưng em chưa từng vui vẻ như thế này." },
+        { "speaker": "李老师", "chinese": "两个人在一起，最好能有共同的兴趣和爱好。", "pinyin": "Liǎng ge rén zài yìqǐ, zuìhǎo néng yǒu gòngtóng de xìngqù hé àihào.", "vietnamese": "Hai người ở bên nhau, tốt nhất là có chung sở thích và hứng thú." },
+        { "speaker": "王静", "chinese": "我们有很多共同的爱好，经常一起打球、唱歌、做菜。", "pinyin": "Wǒmen yǒu hěn duō gòngtóng de àihào, jīngcháng yìqǐ dǎ qiú, chàng gē, zuò cài.", "vietnamese": "Chúng em có rất nhiều sở thích chung, thường cùng nhau đánh bóng, hát hò, nấu ăn." },
+        { "speaker": "李老师", "chinese": "看来你真的找到适合你的人了。祝你们幸福！", "pinyin": "Kànlái nǐ zhēn de zhǎodào shìhé nǐ de rén le. Zhù nǐmen xìngfú!", "vietnamese": "Xem ra em thật sự đã tìm được người phù hợp với mình rồi. Chúc hai em hạnh phúc!" }
+      ]
+    },
+    {
+      "id": "t3", "title_zh": "高老师和李老师聊结婚后的生活", "title_vi": "Cô Cao và thầy Lý trò chuyện về cuộc sống sau khi kết hôn",
+      "lines": [
+        { "speaker": "高老师", "chinese": "听说您跟妻子结婚快二十年了？", "pinyin": "Tīngshuō nín gēn qīzi jié hūn kuài èrshí nián le?", "vietnamese": "Nghe nói thầy và vợ đã kết hôn gần hai mươi năm rồi ạ?" },
+        { "speaker": "李老师", "chinese": "到6月9号，我们就结婚二十年了。这么多年，我们的生活一直挺幸福的。", "pinyin": "Dào liùyuè jiǔ hào, wǒmen jiù jié hūn èrshí nián le. Zhème duō nián, wǒmen de shēnghuó yìzhí tǐng xìngfú de.", "vietnamese": "Đến ngày 9 tháng 6 là chúng tôi kết hôn tròn hai mươi năm. Bao nhiêu năm qua, cuộc sống của chúng tôi luôn khá hạnh phúc." },
+        { "speaker": "高老师", "chinese": "我和丈夫刚结婚的时候，每天都觉得很新鲜，在一起有说不完的话。但是现在……", "pinyin": "Wǒ hé zhàngfu gāng jié hūn de shíhou, měi tiān dōu juéde hěn xīnxiān, zài yìqǐ yǒu shuō bu wán de huà. Dànshì xiànzài……", "vietnamese": "Hồi tôi và chồng vừa mới kết hôn, ngày nào cũng thấy mới mẻ, ở bên nhau có chuyện nói mãi không hết. Nhưng bây giờ..." },
+        { "speaker": "李老师", "chinese": "两个人共同生活，只有浪漫和新鲜感是不够的。", "pinyin": "Liǎng ge rén gòngtóng shēnghuó, zhǐ yǒu làngmàn hé xīnxiāngǎn shì bú gòu de.", "vietnamese": "Hai người chung sống với nhau, chỉ có sự lãng mạn và cảm giác mới mẻ là không đủ." },
+        { "speaker": "高老师", "chinese": "您说得对！我现在每天看到的都是他的缺点。", "pinyin": "Nín shuō de duì! Wǒ xiànzài měi tiān kàndào de dōu shì tā de quēdiǎn.", "vietnamese": "Thầy nói đúng lắm! Bây giờ ngày nào tôi nhìn thấy cũng toàn khuyết điểm của anh ấy." },
+        { "speaker": "李老师", "chinese": "两个人在一起时间长了，就会有很多问题。只有接受了他的缺点，你们才能更好地一起生活。", "pinyin": "Liǎng ge rén zài yìqǐ shíjiān cháng le, jiù huì yǒu hěn duō wèntí. Zhǐyǒu jiēshòu le tā de quēdiǎn, nǐmen cái néng gèng hǎo de yìqǐ shēnghuó.", "vietnamese": "Hai người ở bên nhau lâu rồi sẽ nảy sinh nhiều vấn đề. Chỉ khi chấp nhận khuyết điểm của anh ấy, hai người mới có thể sống chung tốt hơn." }
+      ]
+    },
+    {
+      "id": "t4", "title_zh": "关于“浪漫”的理解", "title_vi": "Cách hiểu về sự “lãng mạn”",
+      "lines": [
+        { "speaker": "", "chinese": "很多女孩子羡慕浪漫的爱情。那什么是浪漫呢？", "pinyin": "Hěn duō nǚháizi xiànmù làngmàn de àiqíng. Nà shénme shì làngmàn ne?", "vietnamese": "Rất nhiều cô gái ước ao một tình yêu lãng mạn. Vậy thế nào là lãng mạn?" },
+        { "speaker": "", "chinese": "年轻人说：浪漫是她想要月亮时，你不会给她星星；中年人说：浪漫是即使晚上加班到零点，到家时，自己家里也还亮着灯；老年人说：浪漫其实就像歌中唱的那样，“我能想到最浪漫的事，就是和你一起慢慢变老。”", "pinyin": "Niánqīng rén shuō: Làngmàn shì tā xiǎng yào yuèliang shí, nǐ bú huì gěi tā xīngxing; zhōngnián rén shuō: Làngmàn shì jíshǐ wǎnshang jiā bān dào língdiǎn, dào jiā shí, zìjǐ jiā li yě hái liàngzhe dēng; lǎonián rén shuō: Làngmàn qíshí jiù xiàng gē zhōng chàng de nàyàng, “Wǒ néng xiǎngdào zuì làngmàn de shì, jiù shì hé nǐ yìqǐ mànmàn biàn lǎo.”", "vietnamese": "Người trẻ nói: Lãng mạn là khi cô ấy muốn mặt trăng, bạn sẽ không đưa cô ấy ngôi sao; người trung niên nói: Lãng mạn là dù tối tăng ca đến 12 giờ đêm, về nhà đèn vẫn còn sáng; người lớn tuổi nói: Lãng mạn thật ra giống như lời bài hát, “Điều lãng mạn nhất anh có thể nghĩ tới là cùng em chậm rãi già đi.”" },
+        { "speaker": "", "chinese": "其实，让我们感动的，就是生活中简单的爱情。有时候，简单就是最大的幸福。", "pinyin": "Qíshí, ràng wǒmen gǎndòng de, jiù shì shēnghuó zhōng jiǎndān de àiqíng. Yǒu shíhou, jiǎndān jiù shì zuì dà de xìngfú.", "vietnamese": "Thật ra, điều khiến chúng ta cảm động chính là tình yêu đơn giản trong đời thường. Đôi khi, giản đơn chính là hạnh phúc lớn nhất." }
+      ]
+    },
+    {
+      "id": "t5", "title_zh": "影响婚姻生活幸福的因素", "title_vi": "Những yếu tố ảnh hưởng đến hạnh phúc hôn nhân",
+      "lines": [
+        { "speaker": "", "chinese": "说到结婚，人们就会很自然地想起爱情。爱情是结婚的重要原因，但两个人共同生活，不仅需要浪漫的爱情，更需要性格上互相吸引。", "pinyin": "Shuōdào jié hūn, rénmen jiù huì hěn zìrán de xiǎngqǐ àiqíng. Àiqíng shì jié hūn de zhòngyào yuányīn, dàn liǎng ge rén gòngtóng shēnghuó, bùjǐn xūyào làngmàn de àiqíng, gèng xūyào xìnggé shang hùxiāng xīyǐn.", "vietnamese": "Nhắc đến kết hôn, người ta sẽ rất tự nhiên nhớ đến tình yêu. Tình yêu là nguyên nhân quan trọng của hôn nhân, nhưng hai người chung sống không chỉ cần tình yêu lãng mạn mà càng cần sự thu hút lẫn nhau về tính cách." },
+        { "speaker": "", "chinese": "我丈夫是个很幽默的人。即使是很普通的事情，从他嘴里说出来也会变得很有意思。在我难过的时候，他总是有办法让我高兴起来。", "pinyin": "Wǒ zhàngfu shì ge hěn yōumò de rén. Jíshǐ shì hěn pǔtōng de shìqing, cóng tā zuǐ li shuō chulai yě huì biàn de hěn yǒu yìsi. Zài wǒ nánguò de shíhou, tā zǒngshì yǒu bànfǎ ràng wǒ gāoxìng qilai.", "vietnamese": "Chồng tôi là một người rất hài hước. Cho dù là chuyện rất bình thường, qua miệng anh ấy kể ra cũng trở nên thú vị. Mỗi lúc tôi buồn, anh ấy luôn có cách làm tôi vui lên." },
+        { "speaker": "", "chinese": "而且他的脾气也不错，结婚快十年了，我们俩几乎没因为什么事红过脸，很多人都特别羡慕我们。", "pinyin": "Érqiě tā de píqi yě búcuò, jié hūn kuài shí nián le, wǒmen liǎ jīhū méi yīnwèi shénme shì hóngguo liǎn, hěn duō rén dōu tèbié xiànmù wǒmen.", "vietnamese": "Hơn nữa tính tình anh ấy cũng rất tốt, kết hôn gần mười năm rồi mà hai chúng tôi hầu như chưa từng đỏ mặt cãi nhau vì chuyện gì, nhiều người đều rất ngưỡng mộ chúng tôi." }
+      ]
+    }
+  ],
+  "reading_questions": [
+    { "question_zh": "王静跟李进是怎么认识的？她为什么喜欢李进？", "question_vi": "Vương Tịnh và Lý Tiến quen nhau thế nào? Vì sao cô thích Lý Tiến?", "answer_zh": "他们是在一次足球比赛中认识的。李进一个人进了两个球，王静对他印象很深，后来慢慢熟悉了。她喜欢李进是因为他不仅足球踢得好，性格也不错。", "answer_vi": "Họ quen nhau trong một trận bóng đá; Lý Tiến một mình ghi 2 bàn khiến Vương Tịnh rất ấn tượng. Cô thích anh ấy vì anh không chỉ đá bóng giỏi mà tính cách cũng tốt." },
+    { "question_zh": "丈夫和妻子两个人怎样才能很好地生活在一起？", "question_vi": "Hai vợ chồng làm thế nào mới có thể chung sống tốt với nhau?", "answer_zh": "只有浪漫和新鲜感是不够的，需要有共同的兴趣爱好，性格上互相吸引，并且接受对方的缺点。", "answer_vi": "Chỉ có lãng mạn và cảm giác mới mẻ là chưa đủ; cần có sở thích chung, thu hút nhau về tính cách và chấp nhận khuyết điểm của đối phương." }
+  ],
+  "exercises": [
+    {
+      "id": "h4s1_ex1", "type": "meaning_mc", "level": "Nhận biết", "origin_tag": "Bài 1 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Trong bài khóa 1, từ “脾气” (píqi) có nghĩa tiếng Việt chính xác nhất là gì?",
+      "options": ["tính tình, tính khí", "sở thích, hứng thú", "ấn tượng ban đầu", "khuyết điểm, thiếu sót"],
+      "answer": "tính tình, tính khí",
+      "explanation": "脾气 (píqi – danh từ) nghĩa là tính tình, tính khí (thường gắn với cách bộc lộ cảm xúc, VD: 脾气不错, 发脾气).",
+      "review_tip": "Ôn lại từ #32 脾气 và phân biệt với #7 性格."
+    },
+    {
+      "id": "h4s1_ex2", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.19", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ thích hợp điền vào chỗ trống: “那个地方特别漂亮，每年都会______很多国内外的游客。”",
+      "options": ["吸引", "接受", "熟悉", "印象"],
+      "answer": "吸引",
+      "explanation": "吸引 (thu hút, hấp dẫn) kết hợp tự nhiên với tân ngữ 游客 (du khách): 吸引很多国内外的游客.",
+      "review_tip": "Ôn cụm kết hợp của #30 吸引."
+    },
+    {
+      "id": "h4s1_ex3", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.19", "mistake_category": "Từ vựng",
+      "prompt": "Điền từ đúng: “这个事你最好先问一下李老师，这方面他比我______。”",
+      "options": ["熟悉", "共同", "接受", "印象"],
+      "answer": "熟悉",
+      "explanation": "Ở đây 熟悉 dùng với chức năng tính từ/vị ngữ (rành rõ, nắm rõ hơn tôi về phương diện này).",
+      "review_tip": "Ôn cả 2 chức năng (động từ & tính từ) của #5 熟悉."
+    },
+    {
+      "id": "h4s1_ex4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "比一比 tr.15", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ ĐÚNG cho câu: “你______不在办公室，我把东西给你同事了。”",
+      "options": ["刚才", "刚", "Cả 刚 và 刚才 đều đúng", "Không từ nào đúng"],
+      "answer": "刚才",
+      "explanation": "Phía sau chỗ trống có từ phủ định '不' (不在办公室). Quy tắc: 刚才 có thể đứng trước từ phủ định, còn 刚 thì KHÔNG thể!",
+      "review_tip": "Xem lại 4 điểm khác nhau giữa 刚 và 刚才 ở tab Ngữ pháp."
+    },
+    {
+      "id": "h4s1_ex5", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "比一比 tr.15", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ ĐÚNG cho câu: “我______搬来一个星期，对这儿的环境还不太熟悉。”",
+      "options": ["刚", "刚才", "Cả hai đều đúng", "从来"],
+      "answer": "刚",
+      "explanation": "Phía sau động từ 搬来 có từ chỉ thời lượng '一个星期'. Câu có thời lượng sau động từ chỉ dùng 刚, không dùng 刚才.",
+      "review_tip": "Quy tắc 3 của cặp 刚—刚才: 刚 + V + thời lượng."
+    },
+    {
+      "id": "h4s1_ex6", "type": "context_mc", "level": "Phân biệt", "origin_tag": "同字词 tr.20", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ nhóm đồng tự '感' phù hợp: “当你帮助别人时，不但会让别人______被关心，你自己也会更快乐。”",
+      "options": ["感到", "感动", "感冒", "感兴趣"],
+      "answer": "感到",
+      "explanation": "感到 = cảm thấy (đi với cảm nhận bên trong: 感到被关心). 感动 là cảm động, 感冒 là cảm cúm.",
+      "review_tip": "Ôn nhóm đồng tự 感 (感到 / 感动 / 感冒 / 感兴趣)."
+    },
+    {
+      "id": "h4s1_ex7", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Bài 1 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Câu nào sau đây dùng cấu trúc “不仅……” ĐÚNG ngữ pháp?",
+      "options": [
+        "不仅我会做中国菜，而且我妹妹也会做。",
+        "我不仅会做中国菜，而且我妹妹也会做。",
+        "我不仅会做中国菜，但是我妹妹也会做。",
+        "不仅他足球踢得好，他性格不错。"
+      ],
+      "answer": "不仅我会做中国菜，而且我妹妹也会做。",
+      "explanation": "Khi 2 vế khác chủ ngữ (我 và 我妹妹), 不仅 phải đứng TRƯỚC chủ ngữ 1; vế sau phối hợp với 而且/也/还.",
+      "review_tip": "Ôn vị trí của 不仅 khi cùng và khác chủ ngữ."
+    },
+    {
+      "id": "h4s1_ex8", "type": "reorder", "level": "Vận dụng", "origin_tag": "Bài 1 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Sắp xếp các từ sau thành câu hoàn chỉnh đúng ngữ pháp:",
+      "tokens": ["也", "即使", "加班到零点，", "家里", "亮着灯。", "晚上"],
+      "answer": "即使晚上加班到零点，家里也亮着灯。",
+      "explanation": "Cấu trúc 即使……也……: 即使 đứng đầu vế nhượng bộ (即使晚上加班到零点), 也 đứng sau chủ ngữ/địa điểm 家里 và trước vị ngữ 亮着灯.",
+      "review_tip": "Ôn cấu trúc 即使……也…… và câu tồn hiện 亮着灯."
+    },
+    {
+      "id": "h4s1_ex9", "type": "error_fix", "level": "Vận dụng", "origin_tag": "Ôn lỗi dễ mắc", "mistake_category": "Ngữ pháp",
+      "prompt": "Tìm lỗi sai và chọn cách sửa ĐÚNG cho câu: “他们俩个虽然认识不久，但是很适合。”",
+      "options": [
+        "Sửa '俩个' thành '俩' (hoặc '两个'): 他们俩虽然认识不久，但是很适合。",
+        "Sửa '虽然' thành '即使'",
+        "Sửa '不久' thành '刚才'",
+        "Câu trên hoàn toàn đúng"
+      ],
+      "answer": "Sửa '俩个' thành '俩' (hoặc '两个'): 他们俩虽然认识不久，但是很适合。",
+      "explanation": "俩 đã bằng '两个', tuyệt đối không thêm '个' ở sau.",
+      "review_tip": "Ôn cách dùng từ #2 俩."
+    },
+    {
+      "id": "h4s1_ex10", "type": "reading_mc", "level": "Phân biệt", "origin_tag": "Bài khóa 4", "mistake_category": "Đọc hiểu",
+      "passage": "年轻人说：浪漫是她想要月亮时，你不会给她星星；中年人说：浪漫是即使晚上加班到零点，到家时，自己家里也还亮着灯；老年人说：浪漫其实就像歌中唱的那样，“我能想到最浪漫的事，就是和你一起慢慢变老。”",
+      "prompt": "Theo đoạn văn trên, người trung niên coi điều gì là lãng mạn?",
+      "options": [
+        "Tăng ca khuya đến nửa đêm về nhà vẫn có người để đèn chờ",
+        "Đưa mặt trăng thay vì ngôi sao cho người yêu",
+        "Cùng nhau chậm rãi già đi như trong bài hát",
+        "Hàng ngày có rất nhiều chuyện mới mẻ để nói"
+      ],
+      "answer": "Tăng ca khuya đến nửa đêm về nhà vẫn có người để đèn chờ",
+      "explanation": "Đoạn văn viết rõ: '中年人说：浪漫是即使晚上加班到零点，到家时，自己家里也还亮着灯。'",
+      "review_tip": "Đọc lại bài khóa 4 để nắm rõ 3 góc nhìn về sự lãng mạn."
+    },
+    {
+      "id": "h4s1_ex11", "type": "translate_zh_vi", "level": "Vận dụng", "origin_tag": "Dịch Trung – Việt", "mistake_category": "Dịch thuật",
+      "prompt": "Dịch sang tiếng Việt: “在我的印象中，他一直是个很幽默的人。”",
+      "hint": "Chú ý cụm 在……中 và 幽默.",
+      "keywords": ["ấn tượng", "hài hước"],
+      "answer": "Trong ấn tượng của tôi, anh ấy luôn là một người rất hóm hỉnh/hài hước.",
+      "explanation": "在我的印象中 = Trong ấn tượng của tôi; 一直 = luôn luôn; 幽默 = hóm hỉnh/hài hước.",
+      "review_tip": "Ôn cấu trúc 在……中 và từ 印象, 幽默."
+    },
+    {
+      "id": "h4s1_ex12", "type": "make_sentence", "level": "Vận dụng", "origin_tag": "Đặt câu tự do", "mistake_category": "Ngữ pháp",
+      "prompt": "Đặt một câu tiếng Trung có sử dụng từ “从来” (nhớ dùng dạng phủ định 从来不 hoặc 从来没……过):",
+      "hint": "Ví dụ: 我从来没去过北京。 / 他开会从来不迟到。",
+      "keywords": ["从来"],
+      "answer": "他上课从来不迟到。（Hoặc: 我从来没看过这么感动的电影。）",
+      "explanation": "Câu đạt yêu cầu khi có 从来 kết hợp đúng với 不 / 没……过 (hoặc 都/只).",
+      "review_tip": "Ôn cấu trúc phó từ 从来."
+    }
+  ]
+}

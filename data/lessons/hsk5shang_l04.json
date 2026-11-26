@@ -1,0 +1,489 @@
+{
+  "id": "hsk5shang_l04",
+  "book_id": "hsk5shang",
+  "textbook": "HSK 5 上",
+  "lesson_number": 4,
+  "title_zh": "子路背米",
+  "title_vi": "Tử Lộ vác gạo",
+  "pdf_pages": "Trang sách 38–45 (Giáo Trình Chuẩn HSK5 Tập 1.pdf)",
+  "source_status": "verified_textbook",
+  "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"],
+  "vocabulary": [
+    {
+      "id": "hsk5s_l04_w01", "order": 1, "textbook": "HSK 5 上", "lesson": 4,
+      "hanzi": "背", "pinyin": "bēi",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "vác, cõng", "structure": "背米 / 背在后背上 / 背起来 / 背不动", "explanation": "Đặt vật nặng hoặc người lên lưng để mang đi (đọc thanh 1: bēi).", "examples": [{ "chinese": "流传至今的“百里背米”讲的就是他孝敬父母的故事。", "pinyin": "Liúchuán zhìjīn de “bǎilǐ bēimǐ” jiǎng de jiùshì tā xiàojìng fùmǔ de gùshi.", "vietnamese": "Câu chuyện “trăm dặm vác gạo” lưu truyền đến nay chính là kể chuyện ông hiếu kính cha mẹ.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 / 动词 (Âm đọc khác: bèi — cái lưng; học thuộc lòng)", "meanings": ["cái lưng, mặt sau (后背)", "học thuộc lòng, đọc thuộc (背课文)"], "structure": "后背 / 背诵 / 背单词 / 背对着", "difference_note": "Chữ đa âm cực quan trọng: thanh 1 bēi = vác, cõng; thanh 4 bèi = lưng (后背), học thuộc (背单词)!", "examples": [{ "chinese": "我每天早上都要背三十个汉语生词。", "pinyin": "Wǒ měitiān zǎoshang dōu yào bèi sānshí ge Hànyǔ shēngcí.", "vietnamese": "Mỗi sáng tôi đều phải học thuộc ba mươi từ mới tiếng Hán." }] }
+      ],
+      "chinese_explanation": "用脊背驮（bēi）；人体的背部，或凭记忆念出（bèi）。", "collocations": ["背米", "背起来", "背不动", "后背 (bèi)", "背课文 (bèi)"], "usage_note": "Chú ý Bài tập 2 câu 1 tr.44 phân biệt động từ 背 (bēi – cõng) với danh từ 后背 (hòubèi – cái lưng).", "common_errors": "Đọc nhầm '背米' thành bèimǐ (phải là bēimǐ).", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l04_w02", "order": 2, "textbook": "HSK 5 上", "lesson": 4,
+      "hanzi": "从前", "pinyin": "cóngqián",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "trước đây, ngày xưa", "structure": "从前，…… / 从前的故事", "explanation": "Chỉ thời gian đã qua khá lâu trong quá khứ (rất hay mở đầu truyện cổ tích/lịch sử).", "examples": [{ "chinese": "从前，大概在距今两千五百多年前的春秋时期，有一个人叫子路。", "pinyin": "Cóngqián, dàgài zài jùjīn liǎngqiān wǔbǎi duō nián qián de Chūnqiū shíqī, yǒu yí ge rén jiào Zǐlù.", "vietnamese": "Ngày xưa, vào khoảng thời Xuân Thu cách nay hơn hai nghìn năm trăm năm, có một người tên là Tử Lộ.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "过去的时候，往昔。", "collocations": ["从前有个人", "比从前更好"], "usage_note": "Phân biệt (Bài tập 2 câu 2 tr.44): 从前 KHÔNG đi sau mốc thời gian cụ thể; nói 'trước 10 giờ' phải dùng 以前 ('10点以前', KHÔNG nói '10点从前')!", "common_errors": "Sai: '会在10点从前回家' → Đúng: '会在10点以前回家'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l04_w03", "order": 3, "textbook": "HSK 5 上", "lesson": 4,
+      "hanzi": "时期", "pinyin": "shíqī",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "thời kỳ", "structure": "春秋时期 / 历史时期 / 关键时期", "explanation": "Một khoảng thời gian có đặc trưng riêng (thường dùng trong lịch sử, chính trị, phát triển).", "examples": [{ "chinese": "大概在距今两千五百多年前的春秋时期，有一个人叫子路。", "pinyin": "Dàgài zài jùjīn liǎngqiān wǔbǎi duō nián qián de Chūnqiū shíqī, yǒu yí ge rén jiào Zǐlù.", "vietnamese": "Vào khoảng thời kỳ Xuân Thu cách nay hơn hai nghìn năm trăm năm, có một người tên là Tử Lộ.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "具有某种特征的一段时间（多指历史阶段）。", "collocations": ["春秋时期", "特殊时期", "历史时期"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l04_w04", "order": 4, "textbook": "HSK 5 上", "lesson": 4,
+      "hanzi": "流传", "pinyin": "liúchuán",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "lưu truyền", "structure": "流传至今 / 流传到…… / 流传了一千年", "explanation": "Truyền miệng hoặc truyền lại qua nhiều thế hệ, nhiều vùng miền (chuyện kể, phong tục, tác phẩm).", "examples": [{ "chinese": "流传至今的“百里背米”讲的就是他孝敬父母的故事。", "pinyin": "Liúchuán zhìjīn de “bǎilǐ bēimǐ” jiǎng de jiùshì tā xiàojìng fùmǔ de gùshi.", "vietnamese": "Câu chuyện “trăm dặm vác gạo” lưu truyền đến nay chính là kể chuyện ông hiếu kính cha mẹ.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "（事迹、作品等）传下来或传播开。", "collocations": ["流传至今", "广泛流传", "流传了一千年"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l04_w05", "order": 5, "textbook": "HSK 5 上", "lesson": 4,
+      "hanzi": "至今", "pinyin": "zhìjīn",
+      "lesson_usage": { "part_of_speech": "副词 (Phó từ)", "meaning": "đến nay, đến bây giờ", "structure": "至今 + V / 从古至今 / 流传至今", "explanation": "Cho tới tận bây giờ; thường đặt đầu phân câu, trước động từ hoặc trong cụm cố định (从古至今, 流传至今).", "examples": [{ "chinese": "流传至今的“百里背米”讲的就是他孝敬父母的故事。", "pinyin": "Liúchuán zhìjīn de “bǎilǐ bēimǐ” jiǎng de jiùshì tā xiàojìng fùmǔ de gùshi.", "vietnamese": "Câu chuyện “trăm dặm vác gạo” lưu truyền đến nay chính là kể chuyện ông hiếu kính cha mẹ.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "直到现在（偏书面语）。", "collocations": ["流传至今", "从古至今", "至今还没……"], "usage_note": "Xem chi tiết trong Chú thích 1 tr.40!", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l04_w06", "order": 6, "textbook": "HSK 5 上", "lesson": 4, "is_out_of_syllabus": true,
+      "hanzi": "孝敬", "pinyin": "xiàojìng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "hiếu kính", "structure": "孝敬父母 / 孝敬双亲 / 孝敬老人", "explanation": "Hiếu thảo, kính trọng và phụng dưỡng cha mẹ, bậc trưởng bối.", "examples": [{ "chinese": "讲的就是他孝敬父母的故事。", "pinyin": "Jiǎng de jiùshì tā xiàojìng fùmǔ de gùshi.", "vietnamese": "Kể chính là câu chuyện ông hiếu kính cha mẹ.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "孝顺尊敬（长辈）；也指把礼品献给尊长。", "collocations": ["孝敬父母", "孝敬双亲", "孝敬长辈"], "usage_note": "So với #37 孝顺 (đgt./tt.): 孝敬 chỉ là động từ, thường mang tân ngữ 父母/老人/双亲.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l04_w07", "order": 7, "textbook": "HSK 5 上", "lesson": 4,
+      "hanzi": "农民", "pinyin": "nóngmín",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "nông dân", "structure": "普通农民 / 农民工", "explanation": "Người dân làm nghề nông ở nông thôn.", "examples": [{ "chinese": "子路的父母都是农民。", "pinyin": "Zǐlù de fùmǔ dōu shì nóngmín.", "vietnamese": "Cha mẹ của Tử Lộ đều là nông dân.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "长时期从事农业生产的劳动者。", "collocations": ["中国农民", "农民家庭"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l04_w08", "order": 8, "textbook": "HSK 5 上", "lesson": 4,
+      "hanzi": "战争", "pinyin": "zhànzhēng",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "chiến tranh", "structure": "一场战争 / 连年的战争 / 反对战争", "explanation": "Cuộc xung đột vũ trang giữa các nước, dân tộc hoặc phe phái.", "examples": [{ "chinese": "由于连年的战争，家里生活非常困难。", "pinyin": "Yóuyú liánnián de zhànzhēng, jiāli shēnghuó fēicháng kùnnan.", "vietnamese": "Do chiến tranh liên miên nhiều năm, cuộc sống trong nhà vô cùng khó khăn.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "民族、国家、阶级之间为达到一定目的而进行的武装斗争。", "collocations": ["一场战争", "连年的战争", "战争年代"], "usage_note": "Lượng từ cho chiến tranh là 场 (一场战争) hoặc 次.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l04_w09", "order": 9, "textbook": "HSK 5 上", "lesson": 4,
+      "hanzi": "满足", "pinyin": "mǎnzú",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "thỏa mãn, cảm thấy hài lòng (thấy đủ)", "structure": "(1) 感到满足 / 也就满足啦  |  (2) 满足 + 需要/要求/条件/愿望", "explanation": "Cảm thấy đã đủ, không còn đòi hỏi thêm; hoặc đáp ứng đầy đủ nhu cầu/yêu cầu nào đó.", "examples": [{ "chinese": "“活了大半辈子了，别说鱼肉，只要能饱饱地吃上一顿米饭，也就满足啦！”", "pinyin": "“Huó le dàbànbèizi le, bié shuō yúròu, zhǐyào néng bǎobǎo de chīshàng yí dùn mǐfàn, yě jiù mǎnzú la!”", "vietnamese": "“Sống hơn nửa đời người rồi, đừng nói cá thịt, chỉ cần được ăn no nê một bữa cơm trắng là cũng mãn nguyện rồi!”", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ ngoại động: đáp ứng)", "meanings": ["đáp ứng, làm thỏa mãn (nhu cầu, yêu cầu, điều kiện)"], "structure": "满足 + 需要 / 要求 / 条件 / 愿望", "difference_note": "Có thể mang trực tiếp tân ngữ trừu tượng (khác với 满意 không mang trực tiếp tân ngữ).", "examples": [{ "chinese": "父母总是会想办法满足孩子的要求。", "pinyin": "Fùmǔ zǒngshì huì xiǎng bànfǎ mǎnzú háizi de yāoqiú.", "vietnamese": "Cha mẹ luôn tìm cách đáp ứng yêu cầu của con cái." }] }
+      ],
+      "chinese_explanation": "感到已经足够；使满足，符合需要。", "collocations": ["感到满足", "满足需要", "满足要求", "满足条件"], "usage_note": "Xem bảng 词语辨析: 满足—满意 ở tab Ngữ pháp (满足 KHÔNG làm định ngữ/trạng ngữ kiểu '满足地笑了'!).", "common_errors": "Sai: '他满足地笑了' → Đúng: '他满意地笑了'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l04_w10", "order": 10, "textbook": "HSK 5 上", "lesson": 4,
+      "hanzi": "惭愧", "pinyin": "cánkuì",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "hổ thẹn, xấu hổ (trong lòng)", "structure": "觉得十分惭愧 / 感到惭愧", "explanation": "Cảm thấy áy náy, tự trách mình vì chưa làm tròn bổn phận hay có khuyết điểm.", "examples": [{ "chinese": "子路听了，心里觉得十分惭愧。", "pinyin": "Zǐlù tīng le, xīnli juéde shífēn cánkuì.", "vietnamese": "Tử Lộ nghe xong, trong lòng cảm thấy vô cùng hổ thẹn.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "因自己有缺点、错误或未能尽责而感到不安或羞愧。", "collocations": ["十分惭愧", "感到惭愧", "惭愧地说"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l04_w11", "order": 11, "textbook": "HSK 5 上", "lesson": 4,
+      "hanzi": "决心", "pinyin": "juéxīn",
+      "lesson_usage": { "part_of_speech": "动词 / 名词 (Động từ / Danh từ)", "meanings": ["1. (Danh từ) sự quyết tâm", "2. (Động từ) quyết tâm (làm gì)"], "meaning": "quyết tâm; sự quyết tâm", "structure": "(dt) 下/有/表(示) + 决心; (đgt) 决心 + V", "explanation": "Ý chí kiên định muốn thực hiện bằng được điều gì.", "examples": [
+        { "chinese": "他暗下决心：“一定要让父母吃上米饭，不能再委屈他们了！”", "pinyin": "Tā ànxià juéxīn: “Yídìng yào ràng fùmǔ chīshàng mǐfàn, bù néng zài wěiqu tāmen le!”", "vietnamese": "Ông thầm hạ quyết tâm: “Nhất định phải để cha mẹ được ăn cơm trắng, không thể để cha mẹ chịu thiệt thòi nữa!”", "from_text": true },
+        { "chinese": "她决心今年考上理想的大学。", "pinyin": "Tā juéxīn jīnnián kǎoshàng lǐxiǎng de dàxué.", "vietnamese": "Cô ấy quyết tâm năm nay thi đỗ trường đại học mơ ước." }
+      ] },
+      "additional_usages": [], "chinese_explanation": "坚定不移的意志；拿定主意。", "collocations": ["下决心", "暗下决心", "有决心", "表示决心"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l04_w12", "order": 12, "textbook": "HSK 5 上", "lesson": 4,
+      "hanzi": "委屈", "pinyin": "wěiqu",
+      "lesson_usage": { "part_of_speech": "动词 / 形容词 (Động từ / Tính từ)", "meanings": ["1. (Động từ) để ai chịu thiệt thòi, chịu tạm", "2. (Tính từ) tủi thân, oan ức"], "meaning": "để ai chịu thiệt thòi; tủi thân", "structure": "(đgt) 委屈 + 某人 / 委屈一晚; (tt) 委屈地说/哭 / 受委屈", "explanation": "Trong bài làm động từ ('không để họ chịu thiệt thòi nữa'); khi là tính từ chỉ tâm trạng tủi thân vì bị oan hoặc chịu thiệt.", "examples": [
+        { "chinese": "不能再委屈他们了！", "pinyin": "Bù néng zài wěiqu tāmen le!", "vietnamese": "Không thể để cha mẹ chịu thiệt thòi nữa!", "from_text": true },
+        { "chinese": "请您先在这儿委屈一晚，明天我们就给您换个好的房间。", "pinyin": "Qǐng nín xiān zài zhèr wěiqu yì wǎn, míngtiān wǒmen jiù gěi nín huàn ge hǎo de fángjiān.", "vietnamese": "Xin ngài tạm chịu thiệt ở đây một đêm, ngày mai chúng tôi sẽ đổi cho ngài căn phòng tốt hơn." }
+      ] },
+      "additional_usages": [], "chinese_explanation": "受到不应有的指责或待遇而心里难过；令人受到委屈。", "collocations": ["委屈地哭", "受委屈", "委屈一晚", "委屈他们"], "usage_note": "Âm tiết 屈 đọc thanh nhẹ: wěiqu.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l04_w13", "order": 13, "textbook": "HSK 5 上", "lesson": 4,
+      "hanzi": "打听", "pinyin": "dǎting",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "hỏi thăm, nghe ngóng", "structure": "打听到 + 消息 / 打听一下这件事 / 跟人打听", "explanation": "Hỏi han nhiều nơi để tìm hiểu tin tức, thông tin nào đó.", "examples": [{ "chinese": "子路打听到百里之外有个有钱人，家里缺干活儿的人，决定去试一试。", "pinyin": "Zǐlù dǎtingdào bǎilǐ zhīwài yǒu ge yǒuqiánrén, jiāli quē gànhuór de rén, juédìng qù shìyishì.", "vietnamese": "Tử Lộ nghe ngóng được ngoài trăm dặm có một nhà giàu đang thiếu người làm việc, liền quyết định đi thử xem sao.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "探问、询问消息。", "collocations": ["打听消息", "打听一下", "打听到"], "usage_note": "Âm tiết 听 đọc thanh nhẹ: dǎting.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l04_w14", "order": 14, "textbook": "HSK 5 上", "lesson": 4,
+      "hanzi": "主人", "pinyin": "zhǔrén",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "người chủ, chủ nhà", "structure": "那家主人 / 主人和客人 / 狗的主人", "explanation": "Người làm chủ ngôi nhà, tài sản, vật nuôi hoặc tiếp đón khách.", "examples": [{ "chinese": "那家主人见他身体结实，就留下了他。", "pinyin": "Nà jiā zhǔrén jiàn tā shēntǐ jiēshi, jiù liúxià le tā.", "vietnamese": "Chủ nhà ấy thấy ông thân thể cường tráng liền giữ ông ở lại.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "接待宾客的人；财物或奴仆、宠物的所有者。", "collocations": ["那家主人", "小狗的主人", "主人翁"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l04_w15", "order": 15, "textbook": "HSK 5 上", "lesson": 4,
+      "hanzi": "结实", "pinyin": "jiēshi",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "cường tráng, khỏe mạnh", "structure": "身体结实", "explanation": "Dùng cho cơ thể người: rắn rỏi, khỏe khoắn, có sức lực.", "examples": [{ "chinese": "那家主人见他身体结实，就留下了他。", "pinyin": "Nà jiā zhǔrén jiàn tā shēntǐ jiēshi, jiù liúxià le tā.", "vietnamese": "Chủ nhà ấy thấy ông thân thể cường tráng liền giữ ông ở lại.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "形容词 (Nghĩa cho đồ vật: chắc chắn, bền bỉ)", "meanings": ["chắc chắn, bền, khó hỏng"], "structure": "这双鞋很结实 / 桌子很结实", "difference_note": "Dùng rất phổ biến cho đồ vật (giày, bàn ghế, vali, cầu) để khen độ bền chắc.", "examples": [{ "chinese": "这个行李箱非常结实，用了五年还没坏。", "pinyin": "Zhège xínglixiāng fēicháng jiēshi, yòng le wǔ nián hái méi huài.", "vietnamese": "Chiếc vali này vô cùng bền chắc, dùng năm năm rồi vẫn chưa hỏng." }] }
+      ],
+      "chinese_explanation": "健壮；坚固耐用。", "collocations": ["身体结实", "非常结实", "结实耐用"], "usage_note": "Chú ý chữ 结 ở đây đọc thanh 1 (jiēshi), KHÔNG đọc jiéshí!", "common_errors": "Đọc nhầm thành jiéshí → đúng là jiēshi.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l04_w16", "order": 16, "textbook": "HSK 5 上", "lesson": 4,
+      "hanzi": "勤奋", "pinyin": "qínfèn",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "siêng năng, cần cù", "structure": "十分勤奋 / 勤奋(地) + 学习/工作/干活儿", "explanation": "Chăm chỉ, nỗ lực không ngừng trong học tập hoặc lao động.", "examples": [{ "chinese": "子路干起活来十分勤奋，主人很喜欢这个小伙子。", "pinyin": "Zǐlù gànqi huó lái shífēn qínfèn, zhǔrén hěn xǐhuan zhège xiǎohuǒzi.", "vietnamese": "Tử Lộ làm việc vô cùng cần cù, ông chủ rất quý chàng trai trẻ này.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "认认真真、努力干活或学习，毫不懈怠。", "collocations": ["勤奋学习", "勤奋工作", "十分勤奋"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l04_w17", "order": 17, "textbook": "HSK 5 上", "lesson": 4,
+      "hanzi": "银（子）", "pinyin": "yín (zi)",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "bạc (tiền bạc thời xưa / kim loại bạc)", "structure": "银子 / 银色 / 银牌 / 银行", "explanation": "Kim loại bạc; '银子' dùng chỉ tiền tệ đúc bằng bạc thời cổ đại.", "examples": [{ "chinese": "发现主人给的银子比他应该得到的多了许多。", "pinyin": "Fāxiàn zhǔrén gěi de yínzi bǐ tā yīnggāi dédào de duō le xǔduō.", "vietnamese": "Phát hiện số bạc ông chủ đưa nhiều hơn hẳn số tiền ông đáng được nhận.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "一种贵重金属；旧时用银铸成的货币。", "collocations": ["银子", "银色", "银牌"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l04_w18", "order": 18, "textbook": "HSK 5 上", "lesson": 4,
+      "hanzi": "老实", "pinyin": "lǎoshi",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "trung thực, thật thà", "structure": "老老实实地 + V / 老实人 / 说老实话", "explanation": "Chân thật, ngay thẳng, không gian dối (láy AABB: 老老实实).", "examples": [{ "chinese": "子路老老实实地告诉了主人。", "pinyin": "Zǐlù lǎolǎoshíshí de gàosu le zhǔrén.", "vietnamese": "Tử Lộ thật thà báo lại với ông chủ.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "形容词 (Nghĩa 2 trong Bài tập 2 câu 3 tr.44: ngoan ngoãn, biết điều, ngồi yên)", "meanings": ["ngoan ngoãn, yên ổn, không gây rối"], "structure": "老实点儿！ / 不老实", "difference_note": "Dùng nhắc nhở ai đó ngồi yên, giữ trật tự, không nghịch ngợm/làm càn (khác với 诚实 chỉ nói sự thật).", "examples": [{ "chinese": "这是在警察局，你给我老实点！别乱动！", "pinyin": "Zhè shì zài jǐngchájú, nǐ gěi wǒ lǎoshi diǎn! Bié luàndòng!", "vietnamese": "Đây là đồn cảnh sát, anh liệu mà ngồi yên đi! Đừng cựa quậy lung tung!" }] }
+      ],
+      "chinese_explanation": "诚实；规规矩矩，不惹事。", "collocations": ["老老实实", "老实人", "老实点儿", "说老实话"], "usage_note": "Phân biệt với 诚实 (Bài tập 2 câu 3 tr.44): chỉ có 老实 mới có nghĩa 'ngồi yên, ngoan ngoãn, đừng làm loạn'!", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l04_w19", "order": 19, "textbook": "HSK 5 上", "lesson": 4, "is_out_of_syllabus": true,
+      "hanzi": "镇", "pinyin": "zhèn",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "thị trấn", "structure": "镇上 / 小镇 / 古镇", "explanation": "Đơn vị hành chính cấp thị trấn (nhỏ hơn huyện 县, lớn hơn thôn làng 村).", "examples": [{ "chinese": "路过镇上，他买了一袋米、一块肉、两条鱼，背在后背上。", "pinyin": "Lùguò zhènshang, tā mǎi le yí dài mǐ, yí kuài ròu, liǎng tiáo yú, bēi zài hòubèi shang.", "vietnamese": "Đi ngang qua thị trấn, ông mua một bao gạo, một miếng thịt, hai con cá, vác lên trên lưng.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ)", "meanings": ["trấn áp, giữ bình tĩnh; ướp lạnh"], "structure": "镇静 / 冰镇饮料", "difference_note": "Dùng trong 镇静 (bình tĩnh) hoặc 冰镇 (ướp đá lạnh).", "examples": [{ "chinese": "大热天喝一杯冰镇西瓜汁真舒服。", "pinyin": "Dà rètiān hē yì bēi bīngzhèn xīguāzhī zhēn shūfu.", "vietnamese": "Trời nóng nực uống một ly nước ép dưa hấu ướp lạnh thật dễ chịu." }] }
+      ],
+      "chinese_explanation": "比县小的行政区划，集镇；压住、安定。", "collocations": ["镇上", "小镇", "古镇", "冰镇"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l04_w20", "order": 20, "textbook": "HSK 5 上", "lesson": 4,
+      "hanzi": "后背", "pinyin": "hòubèi",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "lưng (người)", "structure": "背在后背上 / 拍拍后背", "explanation": "Phần lưng phía sau cơ thể con người (chữ 背 đọc thanh 4: bèi).", "examples": [{ "chinese": "背在后背上。", "pinyin": "Bēi zài hòubèi shang.", "vietnamese": "Vác ở trên lưng.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "人体的背部。", "collocations": ["在后背上", "后背疼"], "usage_note": "Chú ý cặp đọc khác nhau ngay trong cùng một cụm từ: 背 (bēi) 在后背 (hòubèi) 上!", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l04_w21", "order": 21, "textbook": "HSK 5 上", "lesson": 4,
+      "hanzi": "滑", "pinyin": "huá",
+      "lesson_usage": { "part_of_speech": "形容词 / 动词 (Tính từ / Động từ)", "meanings": ["1. (Tính từ) trơn, trơn trượt", "2. (Động từ) trượt chân, trượt đi"], "meaning": "trơn; trượt", "structure": "(tt) 雪地很滑 / 路很滑; (đgt) 滑了一下 / 滑倒 / 滑雪", "explanation": "Cả 2 từ loại đều xuất hiện ngay trong cùng một câu bài khóa!", "examples": [{ "chinese": "天气非常寒冷，雪地很滑，子路不小心滑了一下，背上的米袋差点儿被甩出去。", "pinyin": "Tiānqì fēicháng hánlěng, xuědì hěn huá, Zǐlù bù xiǎoxīn huá le yíxià, bèishang de mǐdài chàdiǎnr bèi shuǎi chūqu.", "vietnamese": "Thời tiết vô cùng giá rét, mặt tuyết rất trơn, Tử Lộ không cẩn thận trượt chân một cái, bao gạo trên lưng suýt nữa bị văng ra ngoài.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "光溜、不涩；在光溜的物体表面上溜动。", "collocations": ["路很滑", "滑倒", "滑雪", "滑冰"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l04_w22", "order": 22, "textbook": "HSK 5 上", "lesson": 4,
+      "hanzi": "甩", "pinyin": "shuǎi",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "vung, quăng, ném, văng ra", "structure": "被甩出去 / 甩手 / 甩掉", "explanation": "Vung mạnh hoặc làm văng vật gì đi theo quán tính.", "examples": [{ "chinese": "背上的米袋差点儿被甩出去。", "pinyin": "Bèishang de mǐdài chàdiǎnr bèi shuǎi chūqu.", "vietnamese": "Bao gạo trên lưng suýt nữa bị văng ra ngoài.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "抡动、扔、抛开。", "collocations": ["甩出去", "甩掉", "甩手"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l04_w23", "order": 23, "textbook": "HSK 5 上", "lesson": 4,
+      "hanzi": "顶", "pinyin": "dǐng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "đi ngược, đương đầu, chống chọi", "structure": "顶着 + 大雪 / 大风 / 压力", "explanation": "Nghĩa trong bài khóa: chống chọi, bước thẳng ngược chiều gió tuyết hoặc gánh chịu áp lực.", "examples": [{ "chinese": "他顶着大雪往前走。", "pinyin": "Tā dǐngzhe dàxuě wǎng qián zǒu.", "vietnamese": "Ông đội tuyết lớn đi về phía trước.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Chú thích 2 tr.41: đỉnh, chóp)", "meanings": ["đỉnh, phần cao nhất của đầu/núi/nhà"], "structure": "头顶 / 山顶 / 屋顶", "difference_note": "Danh từ chỉ bộ phận cao nhất của cơ thể hoặc vật thể.", "examples": [{ "chinese": "请把手举过头顶。", "pinyin": "Qǐng bǎ shǒu jǔguò tóudǐng.", "vietnamese": "Xin hãy giơ tay qua đỉnh đầu." }] },
+        { "part_of_speech": "动词 (Chú thích 2 tr.41: đội, húc bằng đầu)", "meanings": ["đội trên đầu, đánh đầu (bóng), húc đầu"], "structure": "用头顶起 / 球被球员顶了回来", "difference_note": "Động tác dùng đầu đỡ/đẩy/đánh bóng (có ngay trong Bài tập 3 câu 3 tr.44!).", "examples": [{ "chinese": "他能用头顶起20斤重的东西。", "pinyin": "Tā néng yòng tóu dǐngqǐ èrshí jīn zhòng de dōngxi.", "vietnamese": "Anh ấy có thể dùng đầu đội vật nặng 20 cân." }] },
+        { "part_of_speech": "量词 (Chú thích 2 tr.41: chiếc, cái — mũ, ô, lều)", "meanings": ["chiếc, cái (dùng cho mũ, ô lớn, vật hình chóp)"], "structure": "一顶帽子 / 一顶保护伞 / 一顶帐篷", "difference_note": "Lượng từ chuyên dùng cho mũ và vật hình dù/chóp.", "examples": [{ "chinese": "我这顶新帽子怎么样？", "pinyin": "Wǒ zhè dǐng xīn màozi zěnmeyàng?", "vietnamese": "Chiếc mũ mới này của tôi thế nào?" }] }
+      ],
+      "chinese_explanation": "迎着、抵挡；最高部分；用头支撑或撞击；量词，用于帽子等。", "collocations": ["顶着大雪", "顶着压力", "山顶", "一顶帽子", "顶回来"], "usage_note": "Từ đa nghĩa siêu trọng tâm — học thuộc đủ cả 4 nghĩa trong Chú thích 2 tr.41!", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l04_w24", "order": 24, "textbook": "HSK 5 上", "lesson": 4,
+      "hanzi": "扶", "pinyin": "fú",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "đỡ, vịn, giữ", "structure": "扶着 + N / 扶一下 / 扶一把 / 扶过马路", "explanation": "Dùng tay đỡ, dìu người hoặc vịn giữ đồ vật khỏi ngã/rơi.", "examples": [{ "chinese": "扶着米袋的双手冻得不行，就停下来暖暖，再继续赶路。", "pinyin": "Fúzhe mǐdài de shuāngshǒu dòng de bùxíng, jiù tíng xialai nuǎnnuan, zài jìxù gǎnlù.", "vietnamese": "Đôi tay giữ bao gạo cóng buốt chịu không nổi, ông bèn dừng lại sưởi ấm một chút rồi tiếp tục lên đường.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "用手支持人、物或自己，使不倒下。", "collocations": ["扶着米袋", "扶一下", "扶一把", "扶老人过马路"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l04_w25", "order": 25, "textbook": "HSK 5 上", "lesson": 4,
+      "hanzi": "不行", "pinyin": "bùxíng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ / Bổ ngữ mức độ)", "meaning": "(chỉ mức độ, cường độ...) ghê gớm, kinh khủng, cực kỳ", "structure": "Adj/V + 得不行", "explanation": "Đứng sau 得 làm bổ ngữ trình độ, diễn tả mức độ rất cao (gần nghĩa với 得不得了 / 得很).", "examples": [{ "chinese": "扶着米袋的双手冻得不行，就停下来暖暖。", "pinyin": "Fúzhe mǐdài de shuāngshǒu dòng de bùxíng, jiù tíng xialai nuǎnnuan.", "vietnamese": "Đôi tay giữ bao gạo lạnh cóng cực kỳ, ông bèn dừng lại sưởi ấm.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Nghĩa gốc: không được, không ổn)", "meanings": ["không được phép, không đạt yêu cầu"], "structure": "这样不行 / 我汉语不行", "difference_note": "Làm vị ngữ độc lập biểu thị sự không đồng ý hoặc năng lực chưa đạt.", "examples": [{ "chinese": "这件事必须今天就办完，拖到明天不行。", "pinyin": "Zhè jiàn shì bìxū jīntiān jiù bànwán, tuōdào míngtiān bùxíng.", "vietnamese": "Việc này bắt buộc hôm nay phải làm xong, kéo sang ngày mai là không được." }] }
+      ],
+      "chinese_explanation": "用在“得”后表示程度极深；不可以、能力差。", "collocations": ["冻得不行", "累得不行", "高兴得不行", "脏得不行"], "usage_note": "Xem Chú thích 3 tr.41–42: so sánh '……得不行', '……得很', '……得不得了'.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l04_w26", "order": 26, "textbook": "HSK 5 上", "lesson": 4, "is_out_of_syllabus": true,
+      "hanzi": "团圆", "pinyin": "tuányuán",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "sum họp, đoàn tụ", "structure": "团圆饭 / 一家人团圆", "explanation": "Người thân xa cách gặp lại và quây quần đầy đủ bên nhau.", "examples": [{ "chinese": "一家人高高兴兴地生火做饭，饱饱地吃了顿团圆饭。", "pinyin": "Yìjiārén gāogāoxìngxìng de shēnghuǒ zuòfàn, bǎobǎo de chī le dùn tuányuánfàn.", "vietnamese": "Cả nhà vui vẻ nhóm lửa nấu cơm, ăn no nê một bữa cơm đoàn viên.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "亲人聚在一起，不再分离。", "collocations": ["团圆饭", "合家团圆", "中秋团圆"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l04_w27", "order": 27, "textbook": "HSK 5 上", "lesson": 4,
+      "hanzi": "去世", "pinyin": "qùshì",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "qua đời, từ trần", "structure": "父母去世了 / 突然去世", "explanation": "Cách nói uyển chuyển, kính trọng cho việc người lớn tuổi qua đời (không dùng cho động vật).", "examples": [{ "chinese": "后来子路的父母去世了，他也南下到了楚国。", "pinyin": "Hòulái Zǐlù de fùmǔ qùshì le, tā yě nánxià dàole Chǔguó.", "vietnamese": "Về sau cha mẹ Tử Lộ qua đời, ông cũng xuôi nam đến nước Sở.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "（成年人或长辈）死亡（敬称、委婉语）。", "collocations": ["父母去世", "突然去世", "因病去世"], "usage_note": "Chỉ dùng cho người (mang sắc thái tôn trọng), không dùng cho trẻ sơ sinh hoặc con vật.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l04_w28", "order": 28, "textbook": "HSK 5 上", "lesson": 4, "is_out_of_syllabus": true,
+      "hanzi": "国君", "pinyin": "guójūn",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "vua, quốc quân", "structure": "楚国国君 / 一国之君", "explanation": "Vị vua trị vì một nước chư hầu thời cổ đại Trung Quốc.", "examples": [{ "chinese": "楚国国君觉得他很有本领，是个人才，就留他做了官。", "pinyin": "Chǔguó guójūn juéde tā hěn yǒu běnlǐng, shì ge réncái, jiù liú tā zuò le guān.", "vietnamese": "Vua nước Sở thấy ông rất có bản lĩnh, là bậc nhân tài, bèn giữ ông lại làm quan.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "古代诸侯国或君主制国家的最高统治者。", "collocations": ["楚国国君"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l04_w29", "order": 29, "textbook": "HSK 5 上", "lesson": 4,
+      "hanzi": "本领", "pinyin": "běnlǐng",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "bản lĩnh, năng lực, tài năng", "structure": "很有本领 / 本领高强 / 学本领", "explanation": "Tài nghệ, kỹ năng hoặc năng lực xử lý công việc.", "examples": [{ "chinese": "楚国国君觉得他很有本领，是个人才。", "pinyin": "Chǔguó guójūn juéde tā hěn yǒu běnlǐng, shì ge réncái.", "vietnamese": "Vua nước Sở thấy ông rất có bản lĩnh, là người tài.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "技能、能力。", "collocations": ["很有本领", "本领高强", "学本领"], "usage_note": "Cũng dùng được cho động vật (Bài tập 1 câu 4 tr.44: '一条本领高强的小狗').", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l04_w30", "order": 30, "textbook": "HSK 5 上", "lesson": 4,
+      "hanzi": "人才", "pinyin": "réncái",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "người có tài, nhân tài", "structure": "是个人才 / 培养人才 / 优秀人才", "explanation": "Người có đức có tài, có năng lực chuyên môn nổi trội.", "examples": [{ "chinese": "楚国国君觉得他很有本领，是个人才。", "pinyin": "Chǔguó guójūn juéde tā hěn yǒu běnlǐng, shì ge réncái.", "vietnamese": "Vua nước Sở thấy ông rất có bản lĩnh, là một bậc nhân tài.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "德才兼备的人；有某种特长的人。", "collocations": ["培养人才", "优秀人才", "人才市场"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l04_w31", "order": 31, "textbook": "HSK 5 上", "lesson": 4,
+      "hanzi": "官", "pinyin": "guān",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "quan, quan chức", "structure": "做官 / 当官 / 官员 / 军官", "explanation": "Người giữ chức vụ trong bộ máy triều đình hoặc chính quyền.", "examples": [{ "chinese": "就留他做了官，并给他很优厚的待遇。", "pinyin": "Jiù liú tā zuò le guān, bìng gěi tā hěn yōuhòu de dàiyù.", "vietnamese": "Bèn giữ ông lại làm quan, đồng thời ban cho ông chế độ đãi ngộ rất hậu hĩnh.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Nghĩa mở rộng: cơ quan giác quan; chính thức)", "meanings": ["giác quan (五官, 器官)", "chính thức, thuộc nhà nước (官方)"], "structure": "五官 / 器官 / 官方网站", "difference_note": "Tạo từ ghép phổ biến trong HSK 5–6 như 官方 (chính thức), 器官 (cơ quan nội tạng).", "examples": [{ "chinese": "请到官方网站查询最新通知。", "pinyin": "Qǐng dào guānfāng wǎngzhàn cháxún zuìxīn tōngzhī.", "vietnamese": "Xin hãy lên trang web chính thức để tra cứu thông báo mới nhất." }] }
+      ],
+      "chinese_explanation": "在政府担任公职的人；属于公家的；生物体器官。", "collocations": ["做官", "当官", "官员", "官方"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l04_w32", "order": 32, "textbook": "HSK 5 上", "lesson": 4,
+      "hanzi": "物质", "pinyin": "wùzhì",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "vật chất", "structure": "物质条件 / 物质生活 / 精神和物质", "explanation": "Của cải, tiền bạc, tiện nghi sinh hoạt (đối lập với 精神 tinh thần); trong khoa học chỉ vật chất khách quan.", "examples": [{ "chinese": "但他并没有因为物质条件好而感到欢喜。", "pinyin": "Dàn tā bìng méiyǒu yīnwèi wùzhì tiáojiàn hǎo ér gǎndào huānxǐ.", "vietnamese": "Nhưng ông lại chẳng hề cảm thấy vui mừng vì điều kiện vật chất sung túc.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "金钱、生活资料等（与“精神”相对）；客观存在的实体。", "collocations": ["物质条件", "物质生活", "化学物质"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l04_w33", "order": 33, "textbook": "HSK 5 上", "lesson": 4,
+      "hanzi": "反而", "pinyin": "fǎn'ér",
+      "lesson_usage": { "part_of_speech": "副词 (Phó từ)", "meaning": "trái lại, ngược lại", "structure": "(不但不/虽然/没有)……，反而……", "explanation": "Đặt giữa hai phân câu, biểu thị kết quả diễn ra hoàn toàn trái ngược với dự đoán thông thường.", "examples": [{ "chinese": "但他并没有因为物质条件好而感到欢喜，反而常常诚恳地说：“多么希望父母能和我一起过好日子！……”", "pinyin": "Dàn tā bìng méiyǒu yīnwèi wùzhì tiáojiàn hǎo ér gǎndào huānxǐ, fǎn'ér chángcháng chéngkěn de shuō: “Duōme xīwàng fùmǔ néng hé wǒ yìqǐ guò hǎo rìzi! ……”", "vietnamese": "Nhưng ông chẳng hề vui mừng vì điều kiện vật chất tốt, trái lại thường thành khẩn nói: “Ước gì cha mẹ có thể cùng tôi sống những ngày tháng sung túc!……”", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "表示跟上文意思相反或出乎预料。", "collocations": ["不但不……反而……", "没有……反而……"], "usage_note": "Phân biệt với 而且 (Bài tập 2 câu 4 tr.44): 而且 là tăng tiến thuận chiều; 反而 là chuyển ngoặt ngược với dự kiến!", "common_errors": "Không đứng một mình ở đầu đoạn mà không có vế tiền đề đi trước.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l04_w34", "order": 34, "textbook": "HSK 5 上", "lesson": 4,
+      "hanzi": "诚恳", "pinyin": "chéngkěn",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "thành khẩn", "structure": "诚恳地说 / 诚恳的态度 / 非常诚恳", "explanation": "Chân thành, tha thiết từ đáy lòng (thường miêu tả thái độ, lời nói, lời xin lỗi/đề nghị).", "examples": [{ "chinese": "反而常常诚恳地说：“多么希望父母能和我一起过好日子！……”", "pinyin": "Fǎn'ér chángcháng chéngkěn de shuō: “Duōme xīwàng fùmǔ néng hé wǒ yìqǐ guò hǎo rìzi! ……”", "vietnamese": "Trái lại thường thành khẩn nói: “Ước gì cha mẹ có thể cùng tôi sống những ngày tháng sung túc!……”", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "真诚而恳切。", "collocations": ["诚恳的态度", "诚恳地道歉", "诚恳地说"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l04_w35", "order": 35, "textbook": "HSK 5 上", "lesson": 4,
+      "hanzi": "成就", "pinyin": "chéngjiù",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "thành tựu, thành quả", "structure": "有了一点儿成就 / 取得巨大成就 / 成就感", "explanation": "Thành tích to lớn đạt được trong sự nghiệp, học thuật hay đời sống.", "examples": [{ "chinese": "“我现在有了一点儿成就，可他们已经不在了……”", "pinyin": "“Wǒ xiànzài yǒu le yìdiǎnr chéngjiù, kě tāmen yǐjīng búzài le……”", "vietnamese": "“Nay tôi đã có chút thành tựu, nhưng cha mẹ đã không còn nữa rồi……”", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ)", "meanings": ["làm nên, tạo nên (sự nghiệp)"], "structure": "成就一番事业", "difference_note": "Trong văn viết có thể làm động từ mang tân ngữ trừu tượng.", "examples": [{ "chinese": "经过多年努力，他终于成就了一番大事业。", "pinyin": "Jīngguò duōnián nǔlì, tā zhōngyú chéngjiù le yì fān dà shìyè.", "vietnamese": "Trải qua nhiều năm nỗ lực, cuối cùng anh ấy đã làm nên một sự nghiệp lớn." }] }
+      ],
+      "chinese_explanation": "事业上的成绩；完成某项事业。", "collocations": ["取得成就", "巨大成就", "成就感"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l04_w36", "order": 36, "textbook": "HSK 5 上", "lesson": 4,
+      "hanzi": "古代", "pinyin": "gǔdài",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "ngày xưa, cổ đại", "structure": "中国古代 / 古代文化 / 古代历史", "explanation": "Thời đại xa xưa trong lịch sử (đối lập với 现代 hiện đại).", "examples": [{ "chinese": "中国古代有句话叫“百善孝为先”。", "pinyin": "Zhōngguó gǔdài yǒu jù huà jiào “bǎi shàn xiào wéi xiān”.", "vietnamese": "Trung Quốc thời xưa có câu gọi là “trăm việc thiện lấy chữ hiếu làm đầu”.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "过去距离现代较远的时代（与“现代”相对）。", "collocations": ["中国古代", "古代建筑", "古代诗"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l04_w37", "order": 37, "textbook": "HSK 5 上", "lesson": 4,
+      "hanzi": "孝顺", "pinyin": "xiàoshùn",
+      "lesson_usage": { "part_of_speech": "动词 / 形容词 (Động từ / Tính từ)", "meanings": ["1. (Động từ) thể hiện lòng hiếu thảo, phụng dưỡng cha mẹ", "2. (Tính từ) hiếu thảo"], "meaning": "thể hiện lòng hiếu thảo; hiếu thảo", "structure": "(đgt) 孝顺父母; (tt) 很孝顺 / 孝顺的孩子", "explanation": "Hết lòng yêu thương, vâng lời và chăm sóc cha mẹ.", "examples": [
+        { "chinese": "意思是说，孝顺父母是各种美德中占第一位的。", "pinyin": "Yìsi shì shuō, xiàoshùn fùmǔ shì gèzhǒng měidé zhōng zhàn dì-yī wèi de.", "vietnamese": "Ý nói rằng hiếu thảo với cha mẹ đứng vị trí hàng đầu trong các phẩm chất tốt đẹp.", "from_text": true },
+        { "chinese": "子路是个很孝顺的人。", "pinyin": "Zǐlù shì ge hěn xiàoshùn de rén.", "vietnamese": "Tử Lộ là một người rất hiếu thảo." }
+      ] },
+      "additional_usages": [], "chinese_explanation": "尽心奉养父母，顺从父母的意志；对父母尽孝心的。", "collocations": ["孝顺父母", "非常孝顺", "孝顺的孩子"], "usage_note": "Âm tiết 顺 hay đọc nhẹ hoặc thanh 4 (sách ghi xiàoshùn).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l04_w38", "order": 38, "textbook": "HSK 5 上", "lesson": 4, "is_out_of_syllabus": true,
+      "hanzi": "美德", "pinyin": "měidé",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "phẩm chất tốt, mỹ đức", "structure": "传统美德 / 各种美德", "explanation": "Đức tính cao đẹp, chuẩn mực đạo đức đáng quý.", "examples": [{ "chinese": "孝顺父母是各种美德中占第一位的。", "pinyin": "Xiàoshùn fùmǔ shì gèzhǒng měidé zhōng zhàn dì-yī wèi de.", "vietnamese": "Hiếu thảo với cha mẹ đứng vị trí thứ nhất trong các phẩm chất tốt đẹp.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "美好的品德。", "collocations": ["传统美德", "各种美德", "高尚的美德"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l04_w39", "order": 39, "textbook": "HSK 5 上", "lesson": 4,
+      "hanzi": "占", "pinyin": "zhàn",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "chiếm, giữ (tỷ lệ, vị trí, chỗ ngồi)", "structure": "占第一位 / 占一半 / 占多数 / 占总数的百分之八十 / 占座位 / 占地方 / 占便宜", "explanation": "Chiếm giữ một tỷ lệ, vị trí thứ hạng hoặc không gian nhất định.", "examples": [{ "chinese": "孝顺父母是各种美德中占第一位的。", "pinyin": "Xiàoshùn fùmǔ shì gèzhǒng měidé zhōng zhàn dì-yī wèi de.", "vietnamese": "Hiếu thảo với cha mẹ chiếm vị trí thứ nhất trong các phẩm chất tốt đẹp.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Nghĩa thực tế trong bảng 词语搭配 & Bài tập 1 câu 2 tr.44: giữ chỗ, chiếm lợi)", "meanings": ["giữ chỗ (占座位)", "chiếm diện tích (占地方)", "tranh lợi nhỏ (占便宜)"], "structure": "帮我占个座位 / 太占地方 / 爱占便宜", "difference_note": "Rất thông dụng trong khẩu ngữ hằng ngày ngoài nghĩa tỷ lệ phần trăm.", "examples": [{ "chinese": "你去教室自习的时候，帮我占个座位，好吗？", "pinyin": "Nǐ qù jiàoshì zìxí de shíhou, bāng wǒ zhàn ge zuòwèi, hǎo ma?", "vietnamese": "Lúc bạn đến lớp tự học, giữ hộ mình một chỗ ngồi được không?" }] }
+      ],
+      "chinese_explanation": "据有、处于（某种地位或比例）。", "collocations": ["占第一位", "占一半", "占多数", "占座位", "占地方", "占便宜"], "usage_note": "Nhớ đủ các kết hợp trong bảng 词语搭配 tr.42!", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l04_w40", "order": 40, "textbook": "HSK 5 上", "lesson": 4,
+      "hanzi": "食物", "pinyin": "shíwù",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "thức ăn, thực phẩm", "structure": "较好的食物 / 美味的食物 / 精美的食物", "explanation": "Những thứ dùng để ăn nuôi sống cơ thể (mang sắc thái chung, hơi trang trọng hơn 吃的东西).", "examples": [{ "chinese": "子路为了让父母吃到较好的食物，不怕辛苦，这种做法确实值得我们学习。", "pinyin": "Zǐlù wèile ràng fùmǔ chīdào jiàohǎo de shíwù, búpà xīnkǔ, zhè zhǒng zuòfǎ quèshí zhídé wǒmen xuéxí.", "vietnamese": "Tử Lộ vì muốn cha mẹ được ăn thức ăn ngon hơn mà không ngại gian khổ, cách làm này quả thực đáng để chúng ta học tập.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "可以充饥、供人或动物吃的东西。", "collocations": ["美味的食物", "精美的食物", "健康食物"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    }
+  ],
+  "proper_nouns": [
+    { "hanzi": "子路", "pinyin": "Zǐlù", "meaning": "Tử Lộ (một học trò của Khổng Tử)" },
+    { "hanzi": "春秋", "pinyin": "Chūnqiū", "meaning": "thời Xuân Thu (770 TCN–476 TCN)" },
+    { "hanzi": "孔子", "pinyin": "Kǒngzǐ", "meaning": "Khổng Tử" },
+    { "hanzi": "楚国", "pinyin": "Chǔguó", "meaning": "nước Sở" }
+  ],
+  "collocations_table": [
+    { "relation": "Động từ + Tân ngữ", "head": "决心 (Tân ngữ)", "partners": "下 / 有 / 表(示) + 决心" },
+    { "relation": "Động từ + Tân ngữ", "head": "占", "partners": "一半 / 多数 / 总数的百分之八十 / 座位 / 地方 / 便宜" },
+    { "relation": "Định ngữ + Trung tâm ngữ", "head": "诚恳的", "partners": "态度" },
+    { "relation": "Định ngữ + Trung tâm ngữ", "head": "食物", "partners": "美味的 / 精美的" },
+    { "relation": "Trạng ngữ + Trung tâm ngữ", "head": "委屈地", "partners": "说 / 哭" },
+    { "relation": "Trạng ngữ + Trung tâm ngữ", "head": "勤奋(地)", "partners": "学习 / 工作 / 干活儿" },
+    { "relation": "Trung tâm ngữ + Bổ ngữ", "head": "背", "partners": "起来 / 在…… / 不动" },
+    { "relation": "Trung tâm ngữ + Bổ ngữ", "head": "流传", "partners": "至今 / 到…… / 了一千年" },
+    { "relation": "Động từ + Số lượng từ", "head": "扶", "partners": "一下 / 一把" }
+  ],
+  "grammar": [
+    {
+      "title": "至今",
+      "formula": "(1) 至今 + (S) + V  |  (2) 从古至今 / 流传至今",
+      "meaning": "Đến nay, cho tới tận bây giờ.",
+      "usage": "Phó từ văn viết nghĩa là '直到现在', thường đứng đầu phân câu, trước động từ, hoặc kết hợp thành cụm cố định (从古至今, 流传至今).",
+      "context": "Rất thường gặp trong bài kể chuyện lịch sử, báo chí, nêu trạng thái kéo dài chưa thay đổi tới hiện tại.",
+      "examples": [
+        { "chinese": "我在北京出生、长大，至今还没离开过呢。", "pinyin": "Wǒ zài Běijīng chūshēng, zhǎngdà, zhìjīn hái méi líkāiguo ne.", "vietnamese": "Tôi sinh ra và lớn lên ở Bắc Kinh, đến nay vẫn chưa từng rời khỏi đây." },
+        { "chinese": "至今，很多国家并没有规定什么才是健康食品。", "pinyin": "Zhìjīn, hěn duō guójiā bìng méiyǒu guīdìng shénme cái shì jiànkāng shípǐn.", "vietnamese": "Cho đến nay, nhiều quốc gia vẫn chưa quy định thế nào mới là thực phẩm lành mạnh." },
+        { "chinese": "流传至今的“百里背米”讲的就是他孝敬父母的故事。", "pinyin": "Liúchuán zhìjīn de “bǎilǐ bēimǐ” jiǎng de jiùshì tā xiàojìng fùmǔ de gùshi.", "vietnamese": "Câu chuyện “trăm dặm vác gạo” lưu truyền đến nay chính là kể chuyện ông hiếu kính cha mẹ." }
+      ],
+      "important_notes": "Thường đi cùng dạng phủ định (至今还没…… / 至今并没……) hoặc đi sau động từ như bổ ngữ (流传至今).",
+      "common_errors": "",
+      "comparison": "So với 以来 (Bài 2): 以来 đứng SAU mốc thời gian quá khứ (改革开放以来); 至今 tự đứng làm phó từ độc lập (至今还没去过).",
+      "mini_practice": [{ "prompt": "虽然我们已经认识多年，______________________。（至今）", "sample_answer": "但我至今还不知道他的老家在哪儿", "explanation": "至今 đứng trước động từ phủ định 还没/还不知道." }]
+    },
+    {
+      "title": "顶 (4 cách dùng trọng tâm)",
+      "formula": "(1) Dt: 头顶/山顶  |  (2) Đgt (đầu): 用头顶起/顶回来  |  (3) Đgt (chống chọi): 顶着大雪/压力  |  (4) Lượng từ: 一顶帽子/保护伞",
+      "meaning": "1. Đỉnh, chóp · 2. Đội/đánh bằng đầu · 3. Đi ngược, đương đầu · 4. Chiếc/cái (mũ, ô).",
+      "usage": "Từ đa chức năng gồm 3 từ loại: danh từ (phần cao nhất), động từ (động tác đầu; hoặc đón ngược/chống chọi gió tuyết/áp lực), và lượng từ (mũ, ô lớn, vật hình dù).",
+      "context": "Đề thi HSK 5 rất thích ra câu điền vị trí hoặc chọn lượng từ/động từ của 顶.",
+      "examples": [
+        { "chinese": "请把手举过头顶。", "pinyin": "Qǐng bǎ shǒu jǔguò tóudǐng.", "vietnamese": "Xin hãy giơ tay qua đỉnh đầu." },
+        { "chinese": "他能用头顶起20斤重的东西。", "pinyin": "Tā néng yòng tóu dǐngqǐ èrshí jīn zhòng de dōngxi.", "vietnamese": "Anh ấy có thể dùng đầu đội vật nặng 20 cân." },
+        { "chinese": "天气非常寒冷，子路顶着大雪往前走。", "pinyin": "Tiānqì fēicháng hánlěng, Zǐlù dǐngzhe dàxuě wǎng qián zǒu.", "vietnamese": "Thời tiết vô cùng giá lạnh, Tử Lộ đội tuyết lớn đi về phía trước." },
+        { "chinese": "您为什么要顶着压力来做这件事呢？", "pinyin": "Nín wèishénme yào dǐngzhe yālì lái zuò zhè jiàn shì ne?", "vietnamese": "Vì sao ngài lại phải gánh chịu áp lực để làm việc này?" },
+        { "chinese": "我这顶新帽子怎么样？", "pinyin": "Wǒ zhè dǐng xīn màozi zěnmeyàng?", "vietnamese": "Chiếc mũ mới này của tôi thế nào?" }
+      ],
+      "important_notes": "Xem Bài tập 3 câu 3 tr.44: '球被那个球员顶了回来' (dùng nghĩa 2 — đánh đầu trả bóng lại!).",
+      "common_errors": "",
+      "comparison": "",
+      "mini_practice": [{ "prompt": "虽然昨天刮大风，______________________。（顶—动词）", "sample_answer": "但他还是顶着大风去上班了", "explanation": "Dùng động từ 顶着 + 大风 (đi ngược gió lớn)." }]
+    },
+    {
+      "title": "……得 + 不行 / 很 / 不得了",
+      "formula": "Adj / V tâm lý + 得不行 / 得很 / 得不得了",
+      "meaning": "Cực kỳ, vô cùng, chịu không nổi (bổ ngữ trình độ cao).",
+      "usage": "Nhóm bổ ngữ trình độ đặt sau trợ từ kết cấu '得' để nhấn mạnh mức độ cao đến cực điểm.",
+      "context": "Khẩu ngữ rất tự nhiên và giàu biểu cảm.",
+      "examples": [
+        { "chinese": "他顶着大雪往前走，扶着米袋的双手冻得不行，就停下来暖暖，再继续赶路。", "pinyin": "Tā dǐngzhe dàxuě wǎng qián zǒu, fúzhe mǐdài de shuāngshǒu dòng de bùxíng, jiù tíng xialai nuǎnnuan, zài jìxù gǎnlù.", "vietnamese": "Ông đội tuyết lớn bước đi, đôi tay giữ bao gạo lạnh cóng cực kỳ, liền dừng lại sưởi ấm rồi tiếp tục đi." },
+        { "chinese": "这个地方这么热闹，孩子们高兴得不得了！", "pinyin": "Zhège dìfang zhème rènao, háizimen gāoxìng de bùdéliǎo!", "vietnamese": "Nơi này náo nhiệt thế này, bọn trẻ vui sướng vô cùng!" },
+        { "chinese": "他心里烦得很，自言自语地抱怨：“怎么还有那么远啊！”", "pinyin": "Tā xīnli fán de hěn, zìyán zìyǔ de bàoyuàn: “Zěnme hái yǒu nàme yuǎn a!”", "vietnamese": "Trong lòng anh bực bội hết sức, lẩm bẩm phàn nàn: “Sao còn xa đến thế chứ!”" }
+      ],
+      "important_notes": "Bắt buộc phải có chữ '得' đứng giữa tính từ/động từ và 不行/很/不得了 (Bài tập 3 câu 4 tr.44: '我累得不得了').",
+      "common_errors": "Quên chữ 得: sai '我累不得了' → đúng '我累得不得了'.",
+      "comparison": "",
+      "mini_practice": [{ "prompt": "学了一年多的汉语了，______________________。（……得很）", "sample_answer": "他的汉语说得流利得很", "explanation": "Tính từ + 得很 nhấn mạnh trình độ cao." }]
+    },
+    {
+      "title": "反而",
+      "formula": "(不但不 / 虽然 / 没有)……，反而……",
+      "meaning": "Trái lại, ngược lại.",
+      "usage": "Phó từ đặt giữa hai phân câu, biểu thị kết quả hoặc tình huống xảy ra ngược hẳn với dự đoán ban đầu.",
+      "context": "Thường đi cặp với '不但不/没……，反而……' hoặc '虽然……，但……反而……'.",
+      "examples": [
+        { "chinese": "这样不但不能提高他们的阅读能力，反而有可能降低他们的阅读兴趣和热情。", "pinyin": "Zhèyàng búdàn bù néng tígāo tāmen de yuèdú nénglì, fǎn'ér yǒu kěnéng jiàngdī tāmen de yuèdú xìngqù hé rèqíng.", "vietnamese": "Làm thế không những không thể nâng cao năng lực đọc hiểu của họ, trái lại còn có khả năng làm giảm hứng thú và nhiệt huyết đọc sách." },
+        { "chinese": "大城市的生活虽然很精彩，但一辈子生活在农村的父母反而会不适应。", "pinyin": "Dà chéngshì de shēnghuó suīrán hěn jīngcǎi, dàn yíbèizi shēnghuó zài nóngcūn de fùmǔ fǎn'ér huì bú shìyìng.", "vietnamese": "Cuộc sống thành phố lớn tuy rất đặc sắc, nhưng cha mẹ cả đời sống ở nông thôn trái lại sẽ không thích nghi được." },
+        { "chinese": "但他并没有因为物质条件好而感到欢喜，反而常常诚恳地说：“多么希望父母能和我一起过好日子！……”", "pinyin": "Dàn tā bìng méiyǒu yīnwèi wùzhì tiáojiàn hǎo ér gǎndào huānxǐ, fǎn'ér chángcháng chéngkěn de shuō: “Duōme xīwàng fùmǔ néng hé wǒ yìqǐ guò hǎo rìzi! ……”", "vietnamese": "Nhưng ông chẳng hề vui mừng vì điều kiện vật chất tốt, trái lại thường thành khẩn nói: “Ước gì cha mẹ có thể cùng tôi sống những ngày tháng tốt đẹp!……”" }
+      ],
+      "important_notes": "Phó từ 反而 đứng SAU chủ ngữ của vế 2 (nếu có chủ ngữ): '但父母反而会不适应'.",
+      "common_errors": "Nhầm 反而 (chuyển ngoặt trái dự đoán) với 而且 (tăng tiến thuận chiều) trong Bài tập 2 câu 4 tr.44.",
+      "comparison": "反而 (trái dự kiến) vs 而且 (hơn nữa, cùng chiều).",
+      "mini_practice": [{ "prompt": "他不但不孝顺父母，______________________。（反而）", "sample_answer": "反而经常向父母抱怨", "explanation": "Cấu trúc '不但不……，反而……' nhấn mạnh mức độ ngược lại ngoài dự đoán." }]
+    }
+  ],
+  "comparison_section": {
+    "label": "词语辨析 Phân biệt từ ngữ",
+    "pair": "满足 — 满意",
+    "term_a": "满足 (mǎnzú)",
+    "term_b": "满意 (mǎnyì)",
+    "similarity": "Đều là động từ, đều có nghĩa cảm thấy đã đủ, nguyện vọng đã đạt được. VD: 我对现在的生活感到非常满足/满意。",
+    "differences": [
+      { "criterion": "Sắc thái ý nghĩa", "a": "Nhấn mạnh CẢM THẤY ĐỦ RỒI, không có đòi hỏi thêm nữa (只要能饱饱地吃上一顿米饭，也就满足啦！).", "b": "Nhấn mạnh PHÙ HỢP Ý MUỐN, vừa lòng với chất lượng/kết quả (老师说她对我这次的作业非常满意)." },
+      { "criterion": "Chức năng định ngữ / trạng ngữ", "a": "Thường KHÔNG làm định ngữ hoặc trạng ngữ (KHÔNG nói '满足的工作', '满足地笑了').", "b": "CÓ THỂ làm định ngữ hoặc trạng ngữ (他找到了一份满意的工作 / 他满意地笑了)." },
+      { "criterion": "Mang tân ngữ trực tiếp", "a": "CÓ THỂ kết hợp trực tiếp với '需要、要求、条件、愿望' (它不能满足我们的需要 / 满足孩子的要求).", "b": "KHÔNG thường mang tân ngữ trực tiếp (dùng cấu trúc '对……满意')." }
+    ]
+  },
+  "texts": [
+    {
+      "id": "t1", "title_zh": "子路背米（711字）", "title_vi": "Tử Lộ vác gạo",
+      "lines": [
+        { "speaker": "", "chinese": "从前，大概在距今两千五百多年前的春秋时期，有一个人叫子路，他是孔子最年长的学生。流传至今的“百里背米”讲的就是他孝敬父母的故事。", "pinyin": "Cóngqián, dàgài zài jùjīn liǎngqiān wǔbǎi duō nián qián de Chūnqiū shíqī, yǒu yí ge rén jiào Zǐlù, tā shì Kǒngzǐ zuì niánzhǎng de xuésheng. Liúchuán zhìjīn de “bǎilǐ bēimǐ” jiǎng de jiùshì tā xiàojìng fùmǔ de gùshi.", "vietnamese": "Ngày xưa, khoảng thời Xuân Thu cách nay hơn hai nghìn năm trăm năm, có một người tên là Tử Lộ, ông là học trò lớn tuổi nhất của Khổng Tử. Câu chuyện “trăm dặm vác gạo” lưu truyền đến nay chính là kể chuyện ông hiếu kính cha mẹ." },
+        { "speaker": "", "chinese": "子路的父母都是农民。由于连年的战争，家里生活非常困难。一天，子路从外面回来，听到父母在屋里说话：“活了大半辈子了，别说鱼肉，只要能饱饱地吃上一顿米饭，也就满足啦！”子路听了，心里觉得十分惭愧。他暗下决心：“一定要让父母吃上米饭，不能再委屈他们了！”", "pinyin": "Zǐlù de fùmǔ dōu shì nóngmín. Yóuyú liánnián de zhànzhēng, jiāli shēnghuó fēicháng kùnnan. Yì tiān, Zǐlù cóng wàimian huílai, tīngdào fùmǔ zài wūli shuōhuà: “Huó le dàbànbèizi le, bié shuō yúròu, zhǐyào néng bǎobǎo de chīshàng yí dùn mǐfàn, yě jiù mǎnzú la!” Zǐlù tīng le, xīnli juéde shífēn cánkuì. Tā ànxià juéxīn: “Yídìng yào ràng fùmǔ chīshàng mǐfàn, bù néng zài wěiqu tāmen le!”", "vietnamese": "Cha mẹ Tử Lộ đều là nông dân. Do chiến tranh liên miên nhiều năm, đời sống trong nhà vô cùng khó khăn. Một hôm, Tử Lộ từ ngoài trở về, nghe thấy cha mẹ nói chuyện trong nhà: “Sống hơn nửa đời người rồi, đừng nói cá thịt, chỉ cần được ăn no một bữa cơm gạo thôi cũng mãn nguyện lắm rồi!” Tử Lộ nghe xong, trong lòng cảm thấy vô cùng hổ thẹn. Ông thầm hạ quyết tâm: “Nhất định phải để cha mẹ được ăn cơm gạo, không thể để cha mẹ chịu thiệt thòi nữa!”" },
+        { "speaker": "", "chinese": "子路打听到百里之外有个有钱人，家里缺干活儿的人，决定去试一试。那家主人见他身体结实，就留下了他。子路干起活来十分勤奋，主人很喜欢这个小伙子。半年后，当子路要回家时，发现主人给的银子比他应该得到的多了许多，子路老老实实地告诉了主人。主人笑着说：“孩子，工钱没算错，你做事勤快，这是我给你加的奖金。”", "pinyin": "Zǐlù dǎtingdào bǎilǐ zhīwài yǒu ge yǒuqiánrén, jiāli quē gànhuór de rén, juédìng qù shìyishì. Nà jiā zhǔrén jiàn tā shēntǐ jiēshi, jiù liúxià le tā. Zǐlù gànqi huó lái shífēn qínfèn, zhǔrén hěn xǐhuan zhège xiǎohuǒzi. Bàn nián hòu, dāng Zǐlù yào huíjiā shí, fāxiàn zhǔrén gěi de yínzi bǐ tā yīnggāi dédào de duō le xǔduō, Zǐlù lǎolǎoshíshí de gàosu le zhǔrén. Zhǔrén xiàozhe shuō: “Háizi, gōngqián méi suàncuò, nǐ zuòshì qínkuai, zhè shì wǒ gěi nǐ jiā de jiǎngjīn.”", "vietnamese": "Tử Lộ nghe ngóng được ngoài trăm dặm có một nhà giàu đang thiếu người làm việc, liền quyết định đi thử. Chủ nhà thấy ông thân thể cường tráng liền giữ lại. Tử Lộ làm việc vô cùng cần cù, ông chủ rất quý chàng trai này. Nửa năm sau, khi Tử Lộ chuẩn bị về nhà, phát hiện số bạc ông chủ đưa nhiều hơn hẳn khoản đáng được nhận, Tử Lộ thật thà báo lại với chủ nhà. Ông chủ mỉm cười nói: “Con à, tiền công không tính nhầm đâu, con làm việc chăm chỉ, đây là tiền thưởng ta thêm cho con.”" },
+        { "speaker": "", "chinese": "谢过主人，子路高兴地上路了。路过镇上，他买了一袋米、一块肉、两条鱼，背在后背上。天气非常寒冷，雪地很滑，子路不小心滑了一下，背上的米袋差点儿被甩出去。他顶着大雪往前走，扶着米袋的双手冻得不行，就停下来暖暖，再继续赶路。终于到家了，见到父母，子路把给他们买的东西及剩下的工钱都交给了他们。一家人高高兴兴地生火做饭，饱饱地吃了顿团圆饭。", "pinyin": "Xièguo zhǔrén, Zǐlù gāoxìng de shànglù le. Lùguò zhènshang, tā mǎi le yí dài mǐ, yí kuài ròu, liǎng tiáo yú, bēi zài hòubèi shang. Tiānqì fēicháng hánlěng, xuědì hěn huá, Zǐlù bù xiǎoxīn huá le yíxià, bèishang de mǐdài chàdiǎnr bèi shuǎi chūqu. Tā dǐngzhe dàxuě wǎng qián zǒu, fúzhe mǐdài de shuāngshǒu dòng de bùxíng, jiù tíng xialai nuǎnnuan, zài jìxù gǎnlù. Zhōngyú dàojiā le, jiàndào fùmǔ, Zǐlù bǎ gěi tāmen mǎi de dōngxi jí shèngxià de gōngqián dōu jiāogěi le tāmen. Yìjiārén gāogāoxìngxìng de shēnghuǒ zuòfàn, bǎobǎo de chī le dùn tuányuánfàn.", "vietnamese": "Cảm ơn ông chủ xong, Tử Lộ vui vẻ lên đường. Qua thị trấn, ông mua một bao gạo, một miếng thịt, hai con cá rồi vác lên lưng. Trời vô cùng lạnh giá, đường tuyết rất trơn, Tử Lộ sơ ý trượt chân một cái, bao gạo trên lưng suýt bị văng ra. Ông đội tuyết lớn bước đi, đôi tay giữ bao gạo lạnh cóng chịu không nổi thì dừng lại sưởi ấm rồi tiếp tục lên đường. Cuối cùng cũng về đến nhà, gặp cha mẹ, Tử Lộ trao hết đồ mua cùng tiền công còn lại cho cha mẹ. Cả nhà vui vẻ nhóm lửa nấu cơm, ăn no nê một bữa cơm đoàn viên." },
+        { "speaker": "", "chinese": "后来子路的父母去世了，他也南下到了楚国。楚国国君觉得他很有本领，是个人才，就留他做了官，并给他很优厚的待遇。但他并没有因为物质条件好而感到欢喜，反而常常诚恳地说：“多么希望父母能和我一起过好日子！我现在有了一点儿成就，可他们已经不在了，即使再想背米百里去孝敬双亲，也不可能了。”", "pinyin": "Hòulái Zǐlù de fùmǔ qùshì le, tā yě nánxià dàole Chǔguó. Chǔguó guójūn juéde tā hěn yǒu běnlǐng, shì ge réncái, jiù liú tā zuò le guān, bìng gěi tā hěn yōuhòu de dàiyù. Dàn tā bìng méiyǒu yīnwèi wùzhì tiáojiàn hǎo ér gǎndào huānxǐ, fǎn'ér chángcháng chéngkěn de shuō: “Duōme xīwàng fùmǔ néng hé wǒ yìqǐ guò hǎo rìzi! Wǒ xiànzài yǒu le yìdiǎnr chéngjiù, kě tāmen yǐjīng búzài le, jíshǐ zài xiǎng bēimǐ bǎilǐ qù xiàojìng shuāngqīn, yě bù kěnéng le.”", "vietnamese": "Sau này cha mẹ Tử Lộ qua đời, ông cũng xuôi nam sang nước Sở. Vua nước Sở thấy ông rất có bản lĩnh, là bậc nhân tài, bèn giữ lại làm quan và ban cho đãi ngộ rất hậu hĩnh. Nhưng ông chẳng hề vui mừng vì điều kiện vật chất tốt, trái lại thường thành khẩn nói: “Ước gì cha mẹ có thể cùng tôi hưởng những ngày tháng sung túc! Nay tôi đã có chút thành tựu nhưng cha mẹ không còn nữa rồi, dù có muốn lại vác gạo trăm dặm về hiếu kính song thân cũng không thể nào nữa.”" },
+        { "speaker": "", "chinese": "中国古代有句话叫“百善孝为先”，意思是说，孝顺父母是各种美德中占第一位的。子路为了让父母吃到较好的食物，不怕辛苦，这种做法确实值得我们学习。", "pinyin": "Zhōngguó gǔdài yǒu jù huà jiào “bǎi shàn xiào wéi xiān”, yìsi shì shuō, xiàoshùn fùmǔ shì gèzhǒng měidé zhōng zhàn dì-yī wèi de. Zǐlù wèile ràng fùmǔ chīdào jiàohǎo de shíwù, búpà xīnkǔ, zhè zhǒng zuòfǎ quèshí zhídé wǒmen xuéxí.", "vietnamese": "Trung Quốc cổ đại có câu “trăm việc thiện lấy chữ hiếu làm đầu”, ý nói hiếu thảo với cha mẹ đứng hàng đầu trong mọi mỹ đức. Tử Lộ vì muốn cha mẹ được ăn thức ăn ngon hơn mà không ngại gian khổ, cách làm ấy quả thực xứng đáng để chúng ta noi theo." }
+      ]
+    }
+  ],
+  "reading_questions": [
+    { "question_zh": "子路在楚国做了官、待遇优厚，为什么却不感到欢喜？", "question_vi": "Vì sao Tử Lộ làm quan ở nước Sở, được đãi ngộ hậu hĩnh nhưng lại không cảm thấy vui mừng?", "answer_zh": "因为他的父母已经去世了，虽然他现在有了一点儿成就、物质条件很好，却不能和父母一起过好日子，再也没机会背米百里去孝敬双亲了。", "answer_vi": "Vì cha mẹ ông đã qua đời; dù hiện tại ông có chút thành tựu và điều kiện vật chất sung túc nhưng không thể cùng cha mẹ hưởng ngày tháng tốt đẹp, cũng không còn cơ hội vác gạo trăm dặm hiếu kính song thân nữa." }
+  ],
+  "exercises": [
+    {
+      "id": "h5s4_ex1", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.44 (练习 1)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ điền vào chỗ trống: “你去教室自习的时候，帮我______个座位，好吗？”",
+      "options": ["占", "扶", "背", "顶"],
+      "answer": "占",
+      "explanation": "占座位 = giữ chỗ ngồi (câu 2 nguyên văn trong 练习 1 tr.44).",
+      "review_tip": "Ôn bảng 词语搭配 của #39 占 (占一半/多数/座位/地方/便宜)."
+    },
+    {
+      "id": "h5s4_ex2", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.43 (词语辨析)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ đúng: “父母总是会想办法______孩子的要求。”",
+      "options": ["满足", "满意", "孝顺", "委屈"],
+      "answer": "满足",
+      "explanation": "Chỉ có 满足 mới mang trực tiếp tân ngữ '需要 / 要求 / 条件 / 愿望' (满足孩子的要求); 满意 không mang tân ngữ trực tiếp.",
+      "review_tip": "Ôn bảng 词语辨析: 满足—满意 tr.43."
+    },
+    {
+      "id": "h5s4_ex3", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.43 (词语辨析)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ đúng: “听到这个消息，他______地笑了。”",
+      "options": ["满意", "满足", "惭愧", "诚恳"],
+      "answer": "满意",
+      "explanation": "满意 có thể làm trạng ngữ ('满意地笑了') và định ngữ ('满意的工作'); 满足 thường KHÔNG làm trạng ngữ hay định ngữ.",
+      "review_tip": "Ôn sự khác biệt về chức năng ngữ pháp của 满足 và 满意."
+    },
+    {
+      "id": "h5s4_ex4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.44 (练习 2)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “我跟爸爸妈妈说好了，会在10点______回家。”",
+      "options": ["以前", "从前", "至今", "以来"],
+      "answer": "以前",
+      "explanation": "Đứng sau mốc thời gian cụ thể ('trước 10 giờ') phải dùng 以前 ('10点以前'), KHÔNG được dùng 从前.",
+      "review_tip": "Phân biệt #2 从前 (ngày xưa, đứng độc lập) vs 以前 (trước mốc thời gian)."
+    },
+    {
+      "id": "h5s4_ex5", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.44 (练习 2)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “这是在警察局，你给我______点！别乱动！”",
+      "options": ["老实", "诚实", "诚恳", "结实"],
+      "answer": "老实",
+      "explanation": "Ngoài nghĩa 'thật thà', 老实 còn có nghĩa 'ngoan ngoãn, ngồi yên, không làm loạn' ('老实点！'). 诚实 không có nghĩa này.",
+      "review_tip": "Ôn 2 lớp nghĩa của #18 老实."
+    },
+    {
+      "id": "h5s4_ex6", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.44 (练习 2)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn đáp án đúng: “他没有接受那份优厚的待遇，______辞职了。”",
+      "options": ["反而", "而且", "随时", "至今"],
+      "answer": "反而",
+      "explanation": "Không nhận đãi ngộ hậu hĩnh mà lại đi xin nghỉ việc — trái ngược hoàn toàn với dự đoán → dùng 反而 (chuyển ngoặt ngược), không dùng 而且 (tăng tiến thuận chiều).",
+      "review_tip": "Ôn Chú thích 4 反而."
+    },
+    {
+      "id": "h5s4_ex7", "type": "grammar_mc", "level": "Vận dụng", "origin_tag": "Sách gốc tr.44 (练习 3)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn vị trí thích hợp cho chữ “顶” trong câu: “球 A 被 B 那个球员 C 了 D 回来。”",
+      "options": ["C (被那个球员顶了回来)", "A (球顶被)", "B (被顶那个球员)", "D (了顶回来)"],
+      "answer": "C (被那个球员顶了回来)",
+      "explanation": "Cấu trúc câu bị động chữ 被: S (球) + 被 + Tác nhân (那个球员) + Động từ (顶) + 了 + Bổ ngữ xu hướng (回来). (Nghĩa 2 của 顶: đánh đầu trả bóng lại).",
+      "review_tip": "Ôn 4 cách dùng của #23 顶 và cấu trúc câu chữ 被."
+    },
+    {
+      "id": "h5s4_ex8", "type": "grammar_mc", "level": "Nhận biết", "origin_tag": "Sách gốc tr.44 (练习 3)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn vị trí thích hợp cho chữ “得” trong câu: “这几天 A 作业 B 太多了，我累 C 不得了 D。”",
+      "options": ["C (我累得不得了)", "A (这几天得作业)", "B (作业得太多了)", "D (不得了得)"],
+      "answer": "C (我累得不得了)",
+      "explanation": "Cấu trúc bổ ngữ trình độ: Tính từ (累) + 得 + 不得了 → 累得不得了 (mệt cực kỳ).",
+      "review_tip": "Ôn Chú thích 3 '……得+不行/很/不得了'."
+    },
+    {
+      "id": "h5s4_ex9", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Ôn tập Bài 3", "mistake_category": "Từ vựng",
+      "prompt": "[Ôn Bài 3] Chọn từ đúng: “这家餐厅装修精美、环境______。”",
+      "options": ["舒适", "舒服", "稳定", "结实"],
+      "answer": "舒适",
+      "explanation": "Miêu tả môi trường/không gian mang phong cách văn viết trang trọng ('装修精美、环境舒适') → dùng 舒适 (Bài 3 做一做 câu 2 tr.33).",
+      "review_tip": "Ôn 词语辨析 Bài 3: 舒适—舒服."
+    },
+    {
+      "id": "h5s4_ex10", "type": "context_mc", "level": "Vận dụng", "origin_tag": "Ôn tập Bài 2–3", "mistake_category": "Ngữ pháp",
+      "prompt": "[Ôn Bài 2 & 3] Chọn từ đúng để hoàn thành câu: “改革开放______，中国人的生活水平发生了巨大的变化。”",
+      "options": ["以来", "至今", "立刻", "随时"],
+      "answer": "以来",
+      "explanation": "Đứng ngay sau sự kiện mốc quá khứ '改革开放' để tạo cụm danh từ thời gian 'từ khi cải cách mở cửa đến nay' → dùng 以来 (Bài 2 Chú thích 1).",
+      "review_tip": "Phân biệt 以来 (đứng sau mốc quá khứ) với 至今 (phó từ độc lập)."
+    }
+  ]
+}

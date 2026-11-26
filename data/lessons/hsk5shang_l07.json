@@ -1,0 +1,538 @@
+{
+  "id": "hsk5shang_l07",
+  "book_id": "hsk5shang",
+  "textbook": "HSK 5 上",
+  "lesson_number": 7,
+  "title_zh": "成语故事两则",
+  "title_vi": "Hai câu chuyện thành ngữ",
+  "pdf_pages": "Trang sách 66–74 (Giáo Trình Chuẩn HSK5 Tập 1.pdf)",
+  "source_status": "verified_textbook",
+  "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"],
+  "vocabulary": [
+    {
+      "id": "hsk5s_l07_w01", "order": 1, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "成语", "pinyin": "chéngyǔ",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "thành ngữ", "structure": "成语故事 / 一条成语 / 这一成语", "explanation": "Cụm từ cố định ngắn gọn (thường gồm 4 chữ) đúc kết điển tích hoặc triết lý sâu sắc.", "examples": [{ "chinese": "“精诚所至，金石为开”这一成语也便由此流传下来。", "pinyin": "“Jīngchéng suǒzhì, jīnshí wéi kāi” zhè yì chéngyǔ yě biàn yóucǐ liúchuán xiàlái.", "vietnamese": "Thành ngữ “Tinh thành sở chí, kim thạch vi khai” cũng liền lưu truyền từ đó.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "人们长期习用的、简洁精辟的定型词组或短句（多为四字）。", "collocations": ["成语故事", "成语词典", "学成语"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l07_w02", "order": 2, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "则", "pinyin": "zé",
+      "lesson_usage": { "part_of_speech": "量词 (Lượng từ)", "meaning": "(được dùng cho bài văn chia mục hoặc tự thành đoạn) mẩu, bản", "structure": "成语故事两则 / 一则新闻 / 一则广告 / 一则笑话", "explanation": "Lượng từ cho các bài viết ngắn, mẩu tin, truyện ngắn, thông báo, thành ngữ chia mục.", "examples": [{ "chinese": "成语故事两则", "pinyin": "Chéngyǔ gùshi liǎng zé", "vietnamese": "Hai câu chuyện thành ngữ", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "连词 (Liên từ)", "meanings": ["thì, còn (văn viết, biểu thị đối chiếu hoặc quan hệ điều kiện)"], "structure": "A……，B则…… / 否则", "difference_note": "Dùng trong văn viết để đối lập hai vế (gần với 而/却).", "examples": [{ "chinese": "哥哥喜欢音乐，弟弟则更喜欢运动。", "pinyin": "Gēge xǐhuan yīnyuè, dìdi zé gèng xǐhuan yùndòng.", "vietnamese": "Anh trai thích âm nhạc, còn em trai thì thích thể thao hơn." }] }
+      ],
+      "chinese_explanation": "量词，用于分项或自成段落的文字；连词，表对比或承接。", "collocations": ["两则故事", "一则新闻", "一则通知", "原则"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l07_w03", "order": 3, "textbook": "HSK 5 上", "lesson": 7, "is_out_of_syllabus": true,
+      "hanzi": "盲人", "pinyin": "mángrén",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "người mù", "structure": "盲人摸象 / 一位盲人", "explanation": "Người mất thị lực, không nhìn thấy được.", "examples": [{ "chinese": "国王叫盲人们去摸一摸大象。", "pinyin": "Guówáng jiào mángrén men qù mōyimō dàxiàng.", "vietnamese": "Nhà vua bảo những người mù đi sờ thử con voi.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "双目失明的人。", "collocations": ["盲人摸象", "盲人学校"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l07_w04", "order": 4, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "摸", "pinyin": "mō",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "mò, sờ", "structure": "摸一摸 / 摸到…… / 摸出(来)……", "explanation": "Dùng tay chạm vào, sờ nắn để cảm nhận hoặc tìm kiếm.", "examples": [{ "chinese": "摸到牙齿的盲人说：“我觉得像一个角。”", "pinyin": "Mōdào yáchǐ de mángrén shuō: “Wǒ juéde xiàng yí ge jiǎo.”", "vietnamese": "Người mù sờ trúng ngà voi nói: “Tôi thấy giống một cái sừng.”", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ)", "meanings": ["dò tìm, tìm hiểu quy luật"], "structure": "摸清楚 / 摸索", "difference_note": "Dùng nghĩa bóng: lần mò tìm hiểu cho rõ ngọn ngành.", "examples": [{ "chinese": "他刚来不久，还没摸清这里的规矩。", "pinyin": "Tā gāng lái bùjiǔ, hái méi mōqīng zhèlǐ de guīju.", "vietnamese": "Cậu ấy mới tới chưa lâu, vẫn chưa nắm rõ quy củ ở đây." }] }
+      ],
+      "chinese_explanation": "用手接触或轻轻抚摩；探求、试着了解。", "collocations": ["摸到", "摸出来", "盲人摸象", "摸清楚"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l07_w05", "order": 5, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "（大）象", "pinyin": "(dà) xiàng",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "con voi", "structure": "一头大象 / 盲人摸象", "explanation": "Loài động vật có vú lớn trên cạn có vòi dài và ngà trắng (lượng từ là 头).", "examples": [{ "chinese": "一天，他让士兵们去找一头大象和一些出生时眼睛就瞎了的人回来。", "pinyin": "Yì tiān, tā ràng shìbīng men qù zhǎo yì tóu dàxiàng hé yìxiē chūshēng shí yǎnjing jiù xiā le de rén huílai.", "vietnamese": "Một hôm, ông sai binh lính đi tìm một con voi và vài người bị mù bẩm sinh đem về.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ — 象)", "meanings": ["hình dáng, hiện tượng (trong từ ghép)"], "structure": "现象 / 印象 / 形象 / 想象", "difference_note": "Thành tố tạo nên rất nhiều từ vựng cốt lõi HSK 4–5.", "examples": [{ "chinese": "这种自然现象非常有趣。", "pinyin": "Zhè zhǒng zìrán xiànxiàng fēicháng yǒuqù.", "vietnamese": "Hiện tượng tự nhiên này vô cùng thú vị." }] }
+      ],
+      "chinese_explanation": "哺乳动物，陆地上现存最大的动物；也指形状、样子。", "collocations": ["一头大象", "盲人摸象", "现象", "印象"], "usage_note": "Lượng từ chuẩn của voi là 头 (一头大象).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l07_w06", "order": 6, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "智慧", "pinyin": "zhìhuì",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "trí tuệ, sự sáng suốt", "structure": "很有智慧 / 充满智慧 / 人民的智慧", "explanation": "Khả năng nhận thức, phán đoán, sáng tạo sâu sắc và thông minh.", "examples": [{ "chinese": "很久以前，有一个很有智慧的国王。", "pinyin": "Hěn jiǔ yǐqián, yǒu yí ge hěn yǒu zhìhuì de guówáng.", "vietnamese": "Rất lâu về trước, có một vị quốc vương vô cùng sáng suốt.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "辨析判断、发明创造的能力。", "collocations": ["很有智慧", "智慧的结晶", "充满智慧"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l07_w07", "order": 7, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "士兵", "pinyin": "shìbīng",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "binh lính", "structure": "士兵们 / 一名士兵", "explanation": "Chiến sĩ, người lính trong quân đội.", "examples": [{ "chinese": "士兵们分别去不同地方寻找。", "pinyin": "Shìbīng men fēnbié qù bùtóng dìfang xúnzhǎo.", "vietnamese": "Các binh lính chia nhau đi tìm ở những nơi khác nhau.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "军队中级别最低的军人，战士。", "collocations": ["勇敢的士兵", "带领士兵"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l07_w08", "order": 8, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "瞎", "pinyin": "xiā",
+      "lesson_usage": { "part_of_speech": "动词 / 副词 (Động từ / Phó từ)", "meanings": ["1. (Động từ) bị mù (mắt không nhìn thấy)", "2. (Phó từ) mù quáng, vớ vẩn, bừa (không căn cứ hoặc vô ích)"], "meaning": "bị mù; mù quáng, vớ vẩn", "structure": "(đgt) 眼睛瞎了  |  (phó) 瞎说 / 瞎担心 / 瞎着急 / 瞎猜", "explanation": "Sách gốc ghi đủ 2 từ loại đgt./phó. và phân tích rất kỹ ở Chú thích 1 tr.68–69.", "examples": [
+        { "chinese": "一天，他让士兵们去找一头大象和一些出生时眼睛就瞎了的人回来。", "pinyin": "Yì tiān, tā ràng shìbīng men qù zhǎo yì tóu dàxiàng hé yìxiē chūshēng shí yǎnjing jiù xiā le de rén huílai.", "vietnamese": "Một hôm, ông sai binh lính đi tìm một con voi và vài người sinh ra mắt đã mù mang về.", "from_text": true },
+        { "chinese": "他自己的问题，他会想办法的，你就别替他瞎担心了。", "pinyin": "Tā zìjǐ de wèntí, tā huì xiǎng bànfǎ de, nǐ jiù bié tì tā xiā dānxīn le.", "vietnamese": "Vấn đề của cậu ấy tự cậu ấy sẽ nghĩ cách, cậu đừng lo lắng vô ích thay cậu ấy nữa." }
+      ] },
+      "additional_usages": [], "chinese_explanation": "眼睛失明（动词）；没有根据或没有效果地做某事（副词）。", "collocations": ["眼睛瞎了", "瞎说", "瞎担心", "瞎着急"], "usage_note": "Xem Chú thích 1 tr.68–69! Trong Bài tập 3 câu 1 tr.73: '你瞎着什么急！' (瞎 đứng trước động từ 着急).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l07_w09", "order": 9, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "分别", "pinyin": "fēnbié",
+      "lesson_usage": { "part_of_speech": "副词 (Phó từ)", "meaning": "riêng rẽ, từng người", "structure": "分别 + V (分头、各自) / 分别是…… (lần lượt là)", "explanation": "Chia nhau, mỗi người/mỗi bên tự làm việc riêng; hoặc liệt kê cụ thể từng mục một.", "examples": [{ "chinese": "士兵们分别去不同地方寻找，把找到的大象和盲人带到他面前。", "pinyin": "Shìbīng men fēnbié qù bùtóng dìfang xúnzhǎo, bǎ zhǎodào de dàxiàng hé mángrén dàidào tā miànqián.", "vietnamese": "Các binh lính chia nhau đi tìm ở nhiều nơi khác nhau, rồi đưa voi và người mù tìm được tới trước mặt nhà vua.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ — trong Chú thích 2 tr.69)", "meanings": ["chia tay, ly biệt"], "structure": "分别 + Thời gian / 暂时分别", "difference_note": "Tương đương 离别 (rời xa nhau).", "examples": [{ "chinese": "从毕业到现在，我们已经分别20年了，一直都没有联系。", "pinyin": "Cóng bìyè dào xiànzài, wǒmen yǐjīng fēnbié èrshí nián le, yìzhí dōu méiyǒu liánxì.", "vietnamese": "Từ lúc tốt nghiệp tới nay, chúng tôi đã xa cách 20 năm rồi, vẫn chưa hề liên lạc." }] },
+        { "part_of_speech": "名词 (Danh từ — trong Chú thích 2 tr.69)", "meanings": ["sự khác biệt, điểm khác nhau"], "structure": "有什么分别 / 两张照片的分别", "difference_note": "Tương đương 区别 (khác biệt).", "examples": [{ "chinese": "我不知道这两种做法有什么分别。", "pinyin": "Wǒ bù zhīdào zhè liǎng zhǒng zuòfǎ yǒu shénme fēnbié.", "vietnamese": "Tôi không biết hai cách làm này có gì khác biệt." }] }
+      ],
+      "chinese_explanation": "分头、各自（副词）；离别（动词）；区别（名词）。", "collocations": ["分别去", "分别是", "分别多年", "有什么分别"], "usage_note": "Xem Chú thích 2 tr.69 để nắm đủ cả 3 từ loại (Động từ, Phó từ, Danh từ) của 分别!", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l07_w10", "order": 10, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "寻找", "pinyin": "xúnzhǎo",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "tìm", "structure": "寻找 + 机会/信息/亲人/人才 / 四处寻找", "explanation": "Tìm kiếm (thiên văn viết, thường dùng cho mục tiêu lớn, quan trọng hoặc trừu tượng hơn 找).", "examples": [{ "chinese": "士兵们分别去不同地方寻找。", "pinyin": "Shìbīng men fēnbié qù bùtóng dìfang xúnzhǎo.", "vietnamese": "Các binh lính chia nhau đi đến nhiều nơi khác nhau để tìm kiếm.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "找、探寻（多用于书面语或重要对象）。", "collocations": ["寻找机会", "寻找信息", "寻找亲人", "寻找人才"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l07_w11", "order": 11, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "牙齿", "pinyin": "yáchǐ",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "răng", "structure": "保护牙齿 / 摸到牙齿", "explanation": "Răng của người và động vật (trong bài là ngà voi).", "examples": [{ "chinese": "摸到牙齿的盲人说：“我觉得像一个角。”", "pinyin": "Mōdào yáchǐ de mángrén shuō: “Wǒ juéde xiàng yí ge jiǎo.”", "vietnamese": "Người mù sờ trúng răng (ngà) voi nói: “Tôi thấy giống một cái sừng.”", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "人或高等动物咀嚼食物的器官。", "collocations": ["保护牙齿", "牙齿健康"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l07_w12", "order": 12, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "胡说", "pinyin": "húshuō",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "nói bậy, nói bừa", "structure": "胡说！ / 别胡说 / 胡说八道", "explanation": "Nói năng lung tung, vô căn cứ, không đúng sự thật.", "examples": [{ "chinese": "“胡说！”摸到尾巴的盲人说，“它像一条绳子。”", "pinyin": "“Húshuō!” Mōdào wěiba de mángrén shuō, “Tā xiàng yì tiáo shéngzi.”", "vietnamese": "“Nói bừa!” Người mù sờ trúng đuôi nói, “Nó giống một sợi dây thừng.”", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "没有根据或没有道理地乱说。", "collocations": ["别胡说", "胡说八道"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l07_w13", "order": 13, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "尾巴", "pinyin": "wěiba",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "cái đuôi", "structure": "一条尾巴 / 一根尾巴 / 摇着尾巴", "explanation": "Bộ phận phía sau cùng thân động vật.", "examples": [{ "chinese": "摸到尾巴的盲人说，“它像一条绳子。”", "pinyin": "Mōdào wěiba de mángrén shuō, “Tā xiàng yì tiáo shéngzi.”", "vietnamese": "Người mù sờ trúng cái đuôi nói: “Nó giống một sợi dây thừng.”", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "动物身体末端的突出部分。", "collocations": ["一条尾巴", "摇尾巴"], "usage_note": "Chữ 巴 đọc thanh nhẹ: wěiba.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l07_w14", "order": 14, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "绳子", "pinyin": "shéngzi",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "dây thừng", "structure": "一条绳子 / 一根绳子", "explanation": "Dây bện bằng sợi gai, bông hoặc nhựa dùng để buộc đồ.", "examples": [{ "chinese": "它像一条绳子。", "pinyin": "Tā xiàng yì tiáo shéngzi.", "vietnamese": "Nó giống một sợi dây thừng.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "用麻、棉、棕等搓成的条状物。", "collocations": ["一条绳子", "一根绳子", "跳绳"], "usage_note": "Lượng từ dùng cho 绳子 là 条 hoặc 根 (xem bảng 词语搭配 tr.71).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l07_w15", "order": 15, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "平", "pinyin": "píng",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "bằng phẳng", "structure": "又高又平 / 路很平 / 平面", "explanation": "Bề mặt phẳng phiu, không lồi lõm gồ ghề.", "examples": [{ "chinese": "摸到大象身子的盲人说：“我觉得像一面又高又平的墙。”", "pinyin": "Mōdào dàxiàng shēnzi de mángrén shuō: “Wǒ juéde xiàng yí miàn yòu gāo yòu píng de qiáng.”", "vietnamese": "Người mù sờ trúng thân voi nói: “Tôi thấy giống một bức tường vừa cao vừa phẳng.”", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "形容词 (Tính từ)", "meanings": ["bằng nhau, ngang bằng (tỷ số hòa); yên ổn, bình thường"], "structure": "打平 / 平静 / 平时", "difference_note": "Dùng trong thể thao (tỷ số hòa) hoặc trạng thái bình yên.", "examples": [{ "chinese": "两队最后打成二比二平。", "pinyin": "Liǎng duì zuìhòu dǎchéng èr bǐ èr píng.", "vietnamese": "Hai đội cuối cùng đấu hòa hai đều." }] }
+      ],
+      "chinese_explanation": "表面没有高低凹凸；均等、不相上下；安定。", "collocations": ["又高又平", "公平", "平静", "平时"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l07_w16", "order": 16, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "墙", "pinyin": "qiáng",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "(bức) tường", "structure": "一面墙 / 墙上 / 墙壁", "explanation": "Vách ngăn xây bằng gạch, đá hoặc bê tông (lượng từ là 面 hoặc 堵).", "examples": [{ "chinese": "我觉得像一面又高又平的墙。", "pinyin": "Wǒ juéde xiàng yí miàn yòu gāo yòu píng de qiáng.", "vietnamese": "Tôi thấy giống một bức tường vừa cao vừa phẳng.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "用砖石、土等砌成的围障或建筑物立面。", "collocations": ["一面墙", "墙上挂着画"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l07_w17", "order": 17, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "扇子", "pinyin": "shànzi",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "(cái) quạt", "structure": "一把扇子", "explanation": "Chiếc quạt cầm tay phe phẩy làm mát (lượng từ là 把).", "examples": [{ "chinese": "“不，你们都错了，应该是像一把扇子。”这个盲人摸到了大象的耳朵。", "pinyin": "“Bù, nǐmen dōu cuò le, yīnggāi shì xiàng yì bǎ shànzi.” Zhège mángrén mōdào le dàxiàng de ěrduo.", "vietnamese": "“Không, các anh sai cả rồi, phải là giống một chiếc quạt mới đúng.” Người mù này sờ trúng tai con voi.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "摇动生风的用具。", "collocations": ["一把扇子", "折扇"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l07_w18", "order": 18, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "片面", "pinyin": "piànmiàn",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "phiến diện", "structure": "片面的认识 / 片面(地)看问题", "explanation": "Chỉ nhìn thấy một mặt, không toàn diện (trái nghĩa với 全面).", "examples": [{ "chinese": "只有片面的认识是不能下结论的。", "pinyin": "Zhǐyǒu piànmiàn de rènshi shì bù néng xià jiélùn de.", "vietnamese": "Chỉ có nhận thức phiến diện thì không thể đưa ra kết luận được.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "单方面的，不全面。", "collocations": ["片面的认识", "片面地看问题"], "usage_note": "Trái nghĩa: 全面 (toàn diện).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l07_w19", "order": 19, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "结论", "pinyin": "jiélùn",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "kết luận", "structure": "下结论 / 得出结论", "explanation": "Phán đoán cuối cùng rút ra sau khi phân tích, nghiên cứu sự việc.", "examples": [{ "chinese": "只有片面的认识是不能下结论的。", "pinyin": "Zhǐyǒu piànmiàn de rènshi shì bù néng xià jiélùn de.", "vietnamese": "Chỉ có nhận thức phiến diện thì không thể hạ kết luận được.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "从前提推论出来的最终判断。", "collocations": ["下结论", "得出结论"], "usage_note": "Động từ chuẩn đi cùng 结论 là 下 (下结论) hoặc 得出 (得出结论).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l07_w20", "order": 20, "textbook": "HSK 5 上", "lesson": 7, "is_out_of_syllabus": true,
+      "hanzi": "精诚所至，金石为开", "pinyin": "jīngchéng suǒzhì, jīnshí wéi kāi",
+      "lesson_usage": { "part_of_speech": "成语 (Thành ngữ)", "meaning": "lòng thành cảm động đất trời, đá vàng cũng phải vỡ (chỉ cần thành tâm làm hết sức mình thì có thể giải quyết được mọi vấn đề nan giải)", "structure": "“精诚所至，金石为开”这一成语", "explanation": "Lòng chân thành tột bậc đạt đến đâu thì dù cứng rắn như vàng đá cũng bị lay động, mở ra.", "examples": [{ "chinese": "“精诚所至，金石为开”这一成语也便由此流传下来。", "pinyin": "“Jīngchéng suǒzhì, jīnshí wéi kāi” zhè yì chéngyǔ yě biàn yóucǐ liúchuán xiàlái.", "vietnamese": "Thành ngữ “Tinh thành sở chí, kim thạch vi khai” cũng liền lưu truyền từ đó.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "人的诚心所到，能感动天地，使金石为之开裂。比喻只要专心诚意去做，什么疑难问题都能解决。", "collocations": ["精诚所至，金石为开"], "usage_note": "Lưu ý: chữ 为 trong 金石为开 trong sách đọc wéi (thanh 2).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l07_w21", "order": 21, "textbook": "HSK 5 上", "lesson": 7, "is_out_of_syllabus": true,
+      "hanzi": "将军", "pinyin": "jiāngjūn",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "tướng quân", "structure": "一位著名的将军 / 飞将军", "explanation": "Sĩ quan cấp tướng chỉ huy quân đội.", "examples": [{ "chinese": "西汉时期有一位著名的将军叫李广。", "pinyin": "Xīhàn shíqī yǒu yí wèi zhùmíng de jiāngjūn jiào Lǐ Guǎng.", "vietnamese": "Thời Tây Hán có một vị tướng quân nổi tiếng tên là Lý Quảng.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ)", "meanings": ["chiếu tướng (trong cờ tướng); dồn ai vào thế bí"], "structure": "将他一军", "difference_note": "Thuật ngữ chơi cờ tướng và nghĩa bóng đặt câu hỏi/thử thách làm đối phương lúng túng.", "examples": [{ "chinese": "你这个问题可真是将了我一军！", "pinyin": "Nǐ zhège wèntí kě zhēnshì jiāng le wǒ yì jūn!", "vietnamese": "Câu hỏi này của cậu đúng là dồn tôi vào thế bí rồi đấy!" }] }
+      ],
+      "chinese_explanation": "高级军官；下象棋时攻击对方将或帅。", "collocations": ["飞将军", "大将军"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l07_w22", "order": 22, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "善于", "pinyin": "shànyú",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "giỏi về, có sở trường", "structure": "善于 + V (骑马射箭 / 教育学生 / 思考 / 观察)", "explanation": "Có năng lực nổi trội, khéo léo về một kỹ năng hay phương diện nào đó.", "examples": [{ "chinese": "他善于骑马射箭，作战勇敢，被称为“飞将军”。", "pinyin": "Tā shànyú qímǎ shèjiàn, zuòzhàn yǒnggǎn, bèi chēngwéi “Fēijiāngjūn”.", "vietnamese": "Ông giỏi cưỡi ngựa bắn cung, tác chiến dũng mãnh, được gọi là “Phi tướng quân”.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "在某方面有特长、擅长。", "collocations": ["善于思考", "善于观察", "善于表达", "善于教育"], "usage_note": "Thường đi với động từ hoặc cụm động từ phía sau (không dùng đơn độc 很善于 ở cuối câu mà không có tân ngữ động từ).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l07_w23", "order": 23, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "称", "pinyin": "chēng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "gọi là, tán dương", "structure": "被称为…… / 称……为…… / 称赞", "explanation": "Gọi tên, xưng danh hiệu; hoặc khen ngợi.", "examples": [{ "chinese": "作战勇敢，被称为“飞将军”。", "pinyin": "Zuòzhàn yǒnggǎn, bèi chēngwéi “Fēijiāngjūn”.", "vietnamese": "Tác chiến dũng cảm, được gọi là “Phi tướng quân”.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ — đọc chēng)", "meanings": ["cân (đo trọng lượng)"], "structure": "称体重 / 称一下水果", "difference_note": "Dùng cân để đo nặng nhẹ.", "examples": [{ "chinese": "请帮我称一下这些苹果有多重。", "pinyin": "Qǐng bāng wǒ chēng yíxià zhèxiē píngguǒ yǒu duō zhòng.", "vietnamese": "Xin giúp tôi cân thử chỗ táo này nặng bao nhiêu." }] },
+        { "part_of_speech": "动词 (Động từ — đọc chèn)", "meanings": ["xứng, vừa ý, cân xứng"], "structure": "称心 / 对称", "difference_note": "Chữ đa âm! Trong 称心 (vừa lòng) và 对称 (đối xứng) đọc thanh 4: chèn.", "examples": [{ "chinese": "这座古代建筑的结构非常对称。", "pinyin": "Zhè zuò gǔdài jiànzhù de jiégòu fēicháng duìchèn.", "vietnamese": "Kết cấu của công trình kiến trúc cổ này vô cùng đối xứng." }] }
+      ],
+      "chinese_explanation": "叫做、称呼；赞扬；测定重量（chēng）；适合、相当（chèn）。", "collocations": ["被称为", "称赞", "称体重", "称心"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l07_w24", "order": 24, "textbook": "HSK 5 上", "lesson": 7, "is_out_of_syllabus": true,
+      "hanzi": "打猎", "pinyin": "dǎ liè",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ ly hợp)", "meaning": "đi săn", "structure": "在山中打猎 / 去打猎", "explanation": "Săn bắt chim thú hoang dã trong rừng núi.", "examples": [{ "chinese": "一天傍晚，他正带着士兵们在山中打猎。", "pinyin": "Yì tiān bàngwǎn, tā zhèng dàizhe shìbīng men zài shānzhōng dǎ liè.", "vietnamese": "Một buổi chiều tối nọ, ông đang dẫn binh lính đi săn trong núi.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "捕杀野生鸟兽。", "collocations": ["上山打猎"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l07_w25", "order": 25, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "忽然", "pinyin": "hūrán",
+      "lesson_usage": { "part_of_speech": "副词 (Phó từ)", "meaning": "thình lình, bỗng nhiên", "structure": "忽然 + V / 忽然，Mệnh đề", "explanation": "Biểu thị sự việc xảy ra đột ngột, nhanh chóng ngoài dự liệu.", "examples": [{ "chinese": "忽然发现远处蹲着一只大老虎。", "pinyin": "Hūrán fāxiàn yuǎnchù dūnzhe yì zhī dà lǎohǔ.", "vietnamese": "Bỗng nhiên phát hiện đằng xa có một con hổ lớn đang ngồi xổm.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "副词，表示情况发生得迅速而又出乎意料。", "collocations": ["忽然发现", "忽然想起", "忽然下起雨来"], "usage_note": "Xem bảng 词语辨析: 忽然—突然 tr.71–72! 忽然 CHỈ LÀ PHÓ TỪ, không làm định ngữ/vị ngữ/bổ ngữ (không nói '太忽然了' hay '忽然的变化', phải dùng 突然)!", "common_errors": "Sai: '消息来得太忽然了' → Đúng: '太突然了'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l07_w26", "order": 26, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "蹲", "pinyin": "dūn",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "ngồi xổm", "structure": "蹲着 / 蹲下来", "explanation": "Gập hai đầu gối sát xuống đất nhưng mông không chạm đất (hoặc tư thế thú rình mồi).", "examples": [{ "chinese": "忽然发现远处蹲着一只大老虎。", "pinyin": "Hūrán fāxiàn yuǎnchù dūnzhe yì zhī dà lǎohǔ.", "vietnamese": "Bỗng nhiên phát hiện đằng xa có một con hổ lớn đang ngồi phục.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "两腿弯曲，像坐的样子，但臀部不着地。", "collocations": ["蹲着", "蹲下来"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l07_w27", "order": 27, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "摇", "pinyin": "yáo",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "lắc, vẫy", "structure": "摇头 / 摇摇头 / 摇尾巴 / 摇手", "explanation": "Đung đưa, lắc qua lắc lại (đầu, đuôi, tay, vật thể).", "examples": [{ "chinese": "李广摇摇头，表示不要紧。", "pinyin": "Lǐ Guǎng yáoyao tóu, biǎoshì bú yàojǐn.", "vietnamese": "Lý Quảng lắc đầu, ra hiệu không sao cả.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "摆动、晃动。", "collocations": ["摇头", "摇尾巴", "摇动"], "usage_note": "Bài tập 2 câu 1 tr.72: '可爱的小狗就摇着尾巴冲我跑过来' (vẫy đuôi).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l07_w28", "order": 28, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "不要紧", "pinyin": "bú yàojǐn",
+      "lesson_usage": { "part_of_speech": "固定短语 (Cụm từ cố định)", "meaning": "không hề gì, không sao cả", "structure": "S + 不要紧 (这件事情不要紧 / 伤得不重，不要紧)", "explanation": "Không nghiêm trọng, không đáng ngại, không thành vấn đề (tương đương 没关系).", "examples": [{ "chinese": "李广摇摇头，表示不要紧。", "pinyin": "Lǐ Guǎng yáoyao tóu, biǎoshì bú yàojǐn.", "vietnamese": "Lý Quảng lắc đầu, tỏ ý không sao cả.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "不严重，没关系。", "collocations": ["不要紧的", "伤得不重，不要紧"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l07_w29", "order": 29, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "支", "pinyin": "zhī",
+      "lesson_usage": { "part_of_speech": "量词 (Lượng từ)", "meaning": "(dùng cho vật dài, mảnh, không uốn được) cây", "structure": "一支 + 箭 / 笔 / 花 / 烟", "explanation": "Lượng từ cho các vật hình trụ dài, mảnh và cứng.", "examples": [{ "chinese": "只见他从箭袋里取出一支箭，摆好姿势。", "pinyin": "Zhǐjiàn tā cóng jiàndài li qǔchū yì zhī jiàn, bǎihǎo zīshì.", "vietnamese": "Chỉ thấy ông rút một mũi tên từ ống tên ra, vào thế chuẩn bị.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "量词 (Lượng từ)", "meanings": ["bản (nhạc/bài hát), đội/nhánh (đội ngũ, quân đội)"], "structure": "一支歌 / 一支乐曲 / 一支队伍", "difference_note": "Cũng rất thường gặp cho âm nhạc và tổ chức đội ngũ.", "examples": [{ "chinese": "他们是一支非常有经验的足球队伍。", "pinyin": "Tāmen shì yì zhī fēicháng yǒu jīngyàn de zúqiú duìwu.", "vietnamese": "Họ là một đội bóng đá vô cùng dày dạn kinh nghiệm." }] }
+      ],
+      "chinese_explanation": "量词，用于杆状物（箭、笔等），也用于队伍、歌曲等。", "collocations": ["一支箭", "一支笔", "一支花", "一支队伍"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l07_w30", "order": 30, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "摆", "pinyin": "bǎi",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "bày biện, sắp đặt (tư thế)", "structure": "摆好姿势 / 摆放 / 摆着", "explanation": "Đặt, bày biện đồ vật ngăn nắp hoặc tạo tư thế, dáng đứng.", "examples": [{ "chinese": "只见他从箭袋里取出一支箭，摆好姿势，全神贯注，用尽全力向老虎射去。", "pinyin": "Zhǐjiàn tā cóng jiàndài li qǔchū yì zhī jiàn, bǎihǎo zīshì, quánshén guànzhù, yòngjìn quánlì xiàng lǎohǔ shèqù.", "vietnamese": "Chỉ thấy ông rút từ ống tên ra một mũi tên, vào tư thế sẵn sàng, tập trung toàn bộ tinh thần, dồn hết sức lực bắn về phía con hổ.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ)", "meanings": ["vẫy, lắc qua lắc lại"], "structure": "摆手 / 摇摆", "difference_note": "Chỉ động tác vung vẫy tay hoặc đung đưa.", "examples": [{ "chinese": "他笑着摆了摆手，表示不用客气。", "pinyin": "Tā xiàozhe bǎi le bǎi shǒu, biǎoshì búyòng kèqi.", "vietnamese": "Anh ấy cười xua tay, ra hiệu không cần khách sáo." }] }
+      ],
+      "chinese_explanation": "安放、排列；做出某种姿势；来回摇动。", "collocations": ["摆好姿势", "摆放整齐", "摆手"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l07_w31", "order": 31, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "姿势", "pinyin": "zīshì",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "tư thế", "structure": "摆好姿势 / 坐姿 / 正确的姿势", "explanation": "Dáng điệu, thế đứng, ngồi hoặc động tác cơ thể khi làm việc gì.", "examples": [{ "chinese": "摆好姿势，全神贯注，用尽全力向老虎射去。", "pinyin": "Bǎihǎo zīshì, quánshén guànzhù, yòngjìn quánlì xiàng lǎohǔ shèqù.", "vietnamese": "Vào tư thế chuẩn bị, tập trung cao độ, dồn hết sức lực bắn về phía con hổ.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "身体呈现的样子。", "collocations": ["摆好姿势", "正确的姿势", "走路的姿势"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l07_w32", "order": 32, "textbook": "HSK 5 上", "lesson": 7, "is_out_of_syllabus": true,
+      "hanzi": "全神贯注", "pinyin": "quánshén guànzhù",
+      "lesson_usage": { "part_of_speech": "成语 (Thành ngữ)", "meaning": "tập trung tinh thần", "structure": "全神贯注地 + V", "explanation": "Dồn toàn bộ tâm trí, tinh thần vào một việc duy nhất.", "examples": [{ "chinese": "摆好姿势，全神贯注，用尽全力向老虎射去。", "pinyin": "Bǎihǎo zīshì, quánshén guànzhù, yòngjìn quánlì xiàng lǎohǔ shèqù.", "vietnamese": "Vào tư thế sẵn sàng, dồn hết tâm trí, dốc toàn lực bắn về phía con hổ.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "全部精神集中在一点，形容注意力高度集中。", "collocations": ["全神贯注地听讲", "全神贯注地工作"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l07_w33", "order": 33, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "尽（力）", "pinyin": "jìn (lì)",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "gắng hết sức", "structure": "用尽全力 / 尽力而为 / 你已经尽力了", "explanation": "Dốc hết, dùng cạn toàn bộ sức lực hoặc tâm huyết.", "examples": [{ "chinese": "用尽全力向老虎射去。", "pinyin": "Yòngjìn quánlì xiàng lǎohǔ shèqù.", "vietnamese": "Dồn hết toàn lực bắn về phía con hổ.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 / 副词 (Đọc jǐn — thanh 3)", "meanings": ["cố gắng hết mức đạt tới giới hạn (trong 尽量、尽管)"], "structure": "尽量 / 尽管", "difference_note": "Chữ đa âm! 尽力/用尽 đọc thanh 4 (jìn), còn 尽量/尽管 đọc thanh 3 (jǐn).", "examples": [{ "chinese": "请大家尽量提前十分钟到达会场。", "pinyin": "Qǐng dàjiā jǐnliàng tíqián shí fēnzhōng dàodá huìchǎng.", "vietnamese": "Xin mọi người cố gắng đến hội trường sớm mười phút." }] }
+      ],
+      "chinese_explanation": "竭力做到、达到极端（jìn）；力求达到最大限度（jǐn）。", "collocations": ["尽力", "用尽全力", "尽责任", "尽量"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l07_w34", "order": 34, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "反应", "pinyin": "fǎnyìng",
+      "lesson_usage": { "part_of_speech": "动词 / 名词 (Động từ / Danh từ)", "meaning": "phản ứng; sự phản ứng", "structure": "没什么反应 / 做出反应 / 反应很快", "explanation": "Sự đáp lại về tâm lý, sinh lý, hóa học hoặc hành động trước tác động bên ngoài.", "examples": [{ "chinese": "过了一会儿，老虎没什么反应。", "pinyin": "Guò le yíhuìr, lǎohǔ méi shénme fǎnyìng.", "vietnamese": "Qua một lúc, con hổ chẳng có phản ứng gì.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "受外界刺激所引起的相应活动或变化；也作名词。", "collocations": ["做出反应", "反应很快", "没什么反应", "化学反应"], "usage_note": "PHÂN BIỆT CỰC QUAN TRỌNG (Bài tập 2 câu 2 tr.72): 反应 (phản ứng, đáp lại trước kích thích/ý kiến: 老板还没有做出反应) vs 反映 (Bài 5 — phản ánh sự thật hoặc báo cáo ý kiến lên trên)!", "common_errors": "Nhầm 做出反应 thành 做出反映.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l07_w35", "order": 35, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "确定", "pinyin": "quèdìng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "xác định, khẳng định", "structure": "确定 + 时间/地点/人选 / 确定是不是……", "explanation": "Quyết định rõ ràng hoặc xác minh chắc chắn sự thật.", "examples": [{ "chinese": "士兵们小心地走上前去，想确定它是不是死了。", "pinyin": "Shìbīng men xiǎoxīn de zǒu shàngqián qù, xiǎng quèdìng tā shì bu shì sǐ le.", "vietnamese": "Binh lính cẩn thận bước lên trước, muốn xác định xem nó đã chết chưa.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "形容词 (Tính từ)", "meanings": ["chắc chắn, cố định"], "structure": "确定的答案 / 确定无疑", "difference_note": "Làm định ngữ chỉ tính chất rõ ràng, không thay đổi.", "examples": [{ "chinese": "关于出发日期，目前还没有一个确定的答案。", "pinyin": "Guānyú chūfā rìqī, mùqián hái méiyǒu yí ge quèdìng de dá'àn.", "vietnamese": "Về ngày khởi hành, hiện vẫn chưa có câu trả lời chắc chắn." }] }
+      ],
+      "chinese_explanation": "明确而肯定；使明确固定。", "collocations": ["确定时间", "确定地点", "确定目标"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l07_w36", "order": 36, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "石头", "pinyin": "shítou",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "đá", "structure": "一块大石头", "explanation": "Khối đá trong tự nhiên (lượng từ là 块).", "examples": [{ "chinese": "被射中的竟不是老虎，而是一块形状很像老虎的大石头。", "pinyin": "Bèi shèzhòng de jìng búshì lǎohǔ, érshì yí kuài xíngzhuàng hěn xiàng lǎohǔ de dà shítou.", "vietnamese": "Thứ bị bắn trúng không ngờ chẳng phải hổ, mà là một tảng đá lớn có hình dáng rất giống con hổ.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "构成地壳的坚硬矿物块体，石块。", "collocations": ["一块石头", "大石头"], "usage_note": "Chữ 头 đọc thanh nhẹ: shítou.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l07_w37", "order": 37, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "连续", "pinyin": "liánxù",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "liên tục, liên tiếp", "structure": "连续 + 工作/驾驶/发生/演出 / 连续换了几根箭", "explanation": "Tiếp nối nhau không ngắt quãng (thường làm trạng ngữ đứng trước động từ đi kèm khoảng thời gian hoặc số lần).", "examples": [{ "chinese": "可是，这次他连续换了几根箭，都没能再射进去。", "pinyin": "Kěshì, zhè cì tā liánxù huàn le jǐ gēn jiàn, dōu méi néng zài shè jìnqù.", "vietnamese": "Nhưng lần này ông đổi liên tiếp mấy mũi tên mà đều không sao bắn ngập vào được nữa.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "一个接一个、不间断。", "collocations": ["连续工作", "连续驾驶", "连续三天", "连续剧"], "usage_note": "Phân biệt với 继续 (Bài tập 2 câu 3 tr.72): '已经连续工作20个小时了' (liên tục không nghỉ suốt 20 tiếng → 连续; còn 继续 nhấn mạnh làm tiếp sau khi đã bắt đầu hoặc tạm dừng).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l07_w38", "order": 38, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "根", "pinyin": "gēn",
+      "lesson_usage": { "part_of_speech": "名词 / 量词 (Danh từ / Lượng từ)", "meanings": ["1. (Lượng từ) chiếc, cái, sợi (dùng cho vật dài và mảnh: 箭, 绳子, 筷子, 头发, 香蕉...)", "2. (Danh từ) rễ cây; phần gốc/chân (牙根); nền tảng căn nguyên"], "meaning": "rễ cây, chân; (lượng từ được dùng cho vật dài và mảnh) chiếc, cái", "structure": "(lượng) 几根箭 / 一根绳子  |  (dt) 树根 / 牙根 / 从根上解决", "explanation": "Trong bài khóa dùng làm lượng từ cho mũi tên (几根箭); Chú thích 3 tr.70 mở rộng đầy đủ cả nghĩa danh từ rễ cây và căn nguyên.", "examples": [
+        { "chinese": "可是，这次他连续换了几根箭，都没能再射进去。", "pinyin": "Kěshì, zhè cì tā liánxù huàn le jǐ gēn jiàn, dōu méi néng zài shè jìnqù.", "vietnamese": "Thế nhưng lần này ông thay liên tiếp mấy mũi tên mà đều không bắn vào được nữa.", "from_text": true },
+        { "chinese": "这件事还是得从根上解决，只解决表面问题是不行的。", "pinyin": "Zhè jiàn shì háishi děi cóng gēn shang jiějué, zhǐ jiějué biǎomiàn wèntí shì bùxíng de.", "vietnamese": "Chuyện này vẫn phải giải quyết từ gốc, chỉ giải quyết vấn đề bề nổi là không được đâu." }
+      ] },
+      "additional_usages": [], "chinese_explanation": "植物茎干下端深入土里的部分；事物的基础（名词）；量词，用于细长东西。", "collocations": ["树根", "牙根", "从根上解决", "一根绳子", "一根筷子"], "usage_note": "Xem Chú thích 3 tr.70! Trong Bài tập 3 câu 3 tr.73: '用一根绳子做的' hoặc '用绳子做的' — lưu ý '用根绳子' (số 1 lược bỏ).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l07_w39", "order": 39, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "碎", "pinyin": "suì",
+      "lesson_usage": { "part_of_speech": "动词 / 形容词 (Động từ / Tính từ)", "meaning": "vỡ; vụn vặt", "structure": "箭头碎了 / 打碎 / 撞碎 / 撕碎 / 碎片", "explanation": "Vỡ tan thành nhiều mảnh nhỏ; cũng làm tính từ chỉ đồ vật nhỏ vụn.", "examples": [{ "chinese": "有的箭头碎了，有的箭杆断了，而大石头一点儿变化也没有。", "pinyin": "Yǒude jiàntóu suì le, yǒude jiàngǎn duàn le, ér dà shítou yìdiǎnr biànhuà yě méiyǒu.", "vietnamese": "Có mũi tên vỡ đầu, có mũi tên gãy cán, còn tảng đá lớn thì chẳng hề suy chuyển chút nào.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "完整的东西破成零片零块；零星、不完整。", "collocations": ["打碎", "摔碎", "撕碎", "碎片"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l07_w40", "order": 40, "textbook": "HSK 5 上", "lesson": 7, "is_out_of_syllabus": true,
+      "hanzi": "杆", "pinyin": "gǎn",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "cán, báng", "structure": "箭杆 / 笔杆 / 枪杆", "explanation": "Phần thân nhỏ dài bằng gỗ/tre/kim loại của mũi tên, bút, súng...", "examples": [{ "chinese": "有的箭头碎了，有的箭杆断了。", "pinyin": "Yǒude jiàntóu suì le, yǒude jiàngǎn duàn le.", "vietnamese": "Có mũi thì vỡ đầu tên, có mũi thì gãy cán tên.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ — đọc gān)", "meanings": ["cột, sào, cây gậy dài lớn"], "structure": "旗杆 / 电线杆 / 栏杆", "difference_note": "Chữ đa âm! Thân nhỏ cầm tay đọc thanh 3 (gǎn); cột trụ to cao đọc thanh 1 (gān).", "examples": [{ "chinese": "学校操场前面立着一根高高的旗杆。", "pinyin": "Xuéxiào cāochǎng qiánmiàn lìzhe yì gēn gāogāo de qígān.", "vietnamese": "Phía trước sân thể dục trường dựng một cột cờ rất cao." }] }
+      ],
+      "chinese_explanation": "器物上细长的部分（gǎn）；较长的棍状物（gān）。", "collocations": ["箭杆", "笔杆", "旗杆", "栏杆"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l07_w41", "order": 41, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "哎", "pinyin": "āi",
+      "lesson_usage": { "part_of_speech": "叹词 (Thán từ)", "meaning": "(được dùng để diễn tả sự ngạc nhiên hoặc sự không hài lòng) ái chà, trời ơi", "structure": "哎，怎么会这样？ / 哎，我想到了一个办法！", "explanation": "Thán từ biểu thị sự ngạc nhiên, bất mãn, hoặc chợt nảy ra ý tưởng/nhắc nhở chú ý.", "examples": [{ "chinese": "“哎，怎么会这样？”士兵奇怪地你看我，我看你。", "pinyin": "“Āi, zěnme huì zhèyàng?” Shìbīng qíguài de nǐ kàn wǒ, wǒ kàn nǐ.", "vietnamese": "“Ái chà, sao lại thế này?” Binh lính kỳ lạ nhìn nhau.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "叹词，表示惊讶、提醒或不满意。", "collocations": ["哎，怎么会这样", "哎，我想到了"], "usage_note": "Phân biệt với #42 唉 (ài — thở dài, hối tiếc, thương cảm). Bài tập 2 câu 4 tr.72: '哎，我想到了一个办法，你们看看行不行' (gợi chú ý/ngạc nhiên hào hứng → 哎).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l07_w42", "order": 42, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "唉", "pinyin": "ài",
+      "lesson_usage": { "part_of_speech": "叹词 (Thán từ)", "meaning": "(được dùng để diễn tả sự thương cảm hoặc hối tiếc) ôi, than ôi, chao ơi", "structure": "唉！…… / 唉，真可惜！", "explanation": "Tiếng thở dài biểu thị sự tiếc nuối, bất đắc dĩ, buồn bã hoặc cảm thán.", "examples": [{ "chinese": "“唉！大概是我不够用心了吧！”李广也无奈地说。", "pinyin": "“Ài! Dàgài shì wǒ búgòu yòngxīn le ba!” Lǐ Guǎng yě wúnài de shuō.", "vietnamese": "“Ôi! Chắc là do ta chưa đủ dốc lòng rồi!” Lý Quảng cũng bất đắc dĩ nói.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "叹词 (Thán từ — đọc āi)", "meanings": ["dạ, vâng, ừ (đáp lời khi có người gọi)"], "structure": "唉，我来了！", "difference_note": "Khi đọc thanh 1 (āi) dùng để đáp lại tiếng gọi (khác với thanh 4 ài là tiếng thở dài).", "examples": [{ "chinese": "“小明，快过来！”“唉，我就来！”", "pinyin": "“Xiǎomíng, kuài guòlái!” “Āi, wǒ jiù lái!”", "vietnamese": "“Tiểu Minh, mau lại đây!” “Dạ, con ra ngay!”" }] }
+      ],
+      "chinese_explanation": "叹词，表示伤感、惋惜或无奈（ài）；答应声（āi）。", "collocations": ["唉，真可惜", "唉声叹气"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l07_w43", "order": 43, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "金属", "pinyin": "jīnshǔ",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "kim loại", "structure": "金属材料 / 金属和石头", "explanation": "Các nguyên tố/vật liệu có ánh kim, dẫn nhiệt, dẫn điện tốt như vàng, bạc, đồng, sắt...", "examples": [{ "chinese": "如果诚心实意，即使像金属和石头那样硬的东西也会被打动。", "pinyin": "Rúguǒ chéngxīn shíyì, jíshǐ xiàng jīnshǔ hé shítou nàyàng yìng de dōngxi yě huì bèi dǎdòng.", "vietnamese": "Nếu thực lòng thành tâm, cho dù thứ cứng rắn như kim loại và đá cũng sẽ bị lay động.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "具有光泽、延展性及导电导热性的元素总称（如金、银、铜、铁等）。", "collocations": ["金属制品", "贵金属"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l07_w44", "order": 44, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "硬", "pinyin": "yìng",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "cứng, rắn", "structure": "很硬 / 硬东西 / 硬石头", "explanation": "Kết cấu đặc chắc, khó bị biến dạng khi tác động lực (trái nghĩa với 软 mềm).", "examples": [{ "chinese": "即使像金属和石头那样硬的东西也会被打动。", "pinyin": "Jíshǐ xiàng jīnshǔ hé shítou nàyàng yìng de dōngxi yě huì bèi dǎdòng.", "vietnamese": "Ngay cả thứ cứng rắn như kim loại và đá cũng sẽ bị lay động.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "副词 (Phó từ)", "meanings": ["cứ khăng khăng, cố chấp, miễn cưỡng"], "structure": "硬要 + V / 硬是 + V", "difference_note": "Biểu thị làm bằng được dù khó khăn hoặc bị ngăn cản.", "examples": [{ "chinese": "外边雨这么大，他硬要一个人走回去。", "pinyin": "Wàibian yǔ zhème dà, tā yìng yào yí ge rén zǒu huíqù.", "vietnamese": "Ngoài trời mưa to thế này mà anh ấy cứ khăng khăng đi bộ về một mình." }] }
+      ],
+      "chinese_explanation": "物体组织紧密，受外力作用后不易改变形状（跟“软”相对）；副词，勉强、坚决。", "collocations": ["又硬又重", "心肠硬", "硬件", "硬要"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l07_w45", "order": 45, "textbook": "HSK 5 上", "lesson": 7,
+      "hanzi": "便", "pinyin": "biàn",
+      "lesson_usage": { "part_of_speech": "副词 (Phó từ)", "meaning": "(được dùng để chỉ việc gì xảy ra một cách tự nhiên trong điều kiện hoặc tình huống nào đó) thì, liền, bèn, là", "structure": "S + 便 + V / 不是……便是……", "explanation": "Tương đương phó từ 就, nhưng mang sắc thái văn viết trang trọng, thanh nhã hơn.", "examples": [{ "chinese": "“精诚所至，金石为开”这一成语也便由此流传下来。", "pinyin": "“Jīngchéng suǒzhì, jīnshí wéi kāi” zhè yì chéngyǔ yě biàn yóucǐ liúchuán xiàlái.", "vietnamese": "Thành ngữ “Tinh thành sở chí, kim thạch vi khai” cũng liền lưu truyền từ đó.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "形容词 (Tính từ — đọc biàn)", "meanings": ["thuận tiện, tiện lợi"], "structure": "方便 / 便利 / 便民", "difference_note": "Gặp trong 方便 (thuận tiện), 便利店 (cửa hàng tiện lợi).", "examples": [{ "chinese": "小区门口新开了一家便利店。", "pinyin": "Xiǎoqū ménkǒu xīn kāi le yì jiā biànlìdiàn.", "vietnamese": "Cổng khu chung cư mới mở một cửa hàng tiện lợi." }] },
+        { "part_of_speech": "形容词 (Tính từ — đọc pián)", "meanings": ["rẻ (trong 便宜)"], "structure": "便宜", "difference_note": "Chữ đa âm! Trong 便宜 (rẻ) đọc piányi.", "examples": [{ "chinese": "这家超市的水果又新鲜又便宜。", "pinyin": "Zhè jiā chāoshì de shuǐguǒ yòu xīnxiān yòu piányi.", "vietnamese": "Hoa quả ở siêu thị này vừa tươi vừa rẻ." }] }
+      ],
+      "chinese_explanation": "副词，相当于“就”（多用于书面语）；顺利、没有困难（biàn）；价钱低（pián，用于“便宜”）。", "collocations": ["便可以", "不是……便是……", "方便", "便宜"], "usage_note": "Xem Chú thích 4 tr.70!", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    }
+  ],
+  "proper_nouns": [
+    { "hanzi": "西汉", "pinyin": "Xīhàn", "meaning": "Triều đại Tây Hán (206 TCN – 25 CN)" },
+    { "hanzi": "李广", "pinyin": "Lǐ Guǎng", "meaning": "Lý Quảng (? – 119 TCN)" },
+    { "hanzi": "扬雄", "pinyin": "Yáng Xióng", "meaning": "Dương Hùng (53 TCN – 18 CN)" }
+  ],
+  "collocations_table": [
+    { "relation": "Động từ + Tân ngữ", "head": "寻找", "partners": "机会 / 信息 / 亲人 / 人才" },
+    { "relation": "Động từ + Tân ngữ", "head": "确定", "partners": "时间 / 地点 / 人选" },
+    { "relation": "Trạng ngữ + Trung tâm ngữ", "head": "片面（地）", "partners": "看 / 认为" },
+    { "relation": "Trạng ngữ + Trung tâm ngữ", "head": "连续", "partners": "工作 / 驾驶 / 发生 / 演出" },
+    { "relation": "Trung tâm ngữ + Bổ ngữ", "head": "摸", "partners": "到…… / 出（来）……" },
+    { "relation": "Trung tâm ngữ + Bổ ngữ", "head": "打 / 撞 / 撕", "partners": "碎" },
+    { "relation": "Số lượng từ + Danh từ", "head": "一支", "partners": "笔 / 花 / 烟" },
+    { "relation": "Số lượng từ + Danh từ", "head": "一根 / 一条", "partners": "尾巴 / 绳子 / 皮带" },
+    { "relation": "Chủ ngữ + Vị ngữ", "head": "这件事情 / 他的伤", "partners": "不要紧" },
+    { "relation": "Chủ ngữ + Vị ngữ", "head": "反应", "partners": "很快" }
+  ],
+  "grammar": [
+    {
+      "title": "瞎",
+      "formula": "(1) 眼睛 + 瞎(了) (động từ: bị mù)  |  (2) 瞎 + V (phó từ: làm bừa, vô căn cứ, vô ích)",
+      "meaning": "1. Bị mù (mắt không thấy) · 2. Bừa bãi, vớ vẩn, vô ích (không có căn cứ hoặc không có hiệu quả).",
+      "usage": "(1) Làm động từ nghĩa là 'mắt không nhìn thấy'; (2) Làm phó từ đứng trước động từ biểu thị hành động thiếu lý do, thiếu căn cứ hoặc uổng công (瞎说, 瞎担心, 瞎着急, 瞎忙).",
+      "context": "Nghĩa phó từ cực kỳ phổ biến trong khẩu ngữ sinh hoạt.",
+      "examples": [
+        { "chinese": "聪明人用双手挡住了马的双眼，对那个人说：“要是这马真是你的，你一定知道马的哪只眼睛是瞎的。”", "pinyin": "Cōngmingrén yòng shuāngshǒu dǎngzhù le mǎ de shuāngyǎn, duì nàge rén shuō: “Yàoshi zhè mǎ zhēn shì nǐ de, nǐ yídìng zhīdào mǎ de nǎ zhī yǎnjing shì xiā de.”", "vietnamese": "Người thông minh dùng hai tay che mắt con ngựa lại, nói với người kia: “Nếu con ngựa này thật sự của anh, anh nhất định biết mắt nào của nó bị mù.”" },
+        { "chinese": "一天，他让士兵们去找一头大象和一些出生时眼睛就瞎了的人回来。", "pinyin": "Yì tiān, tā ràng shìbīng men qù zhǎo yì tóu dàxiàng hé yìxiē chūshēng shí yǎnjing jiù xiā le de rén huílai.", "vietnamese": "Một hôm, nhà vua sai binh lính đi tìm một con voi và vài người bị mù từ lúc mới sinh đưa về." },
+        { "chinese": "别听他瞎说，不用害怕。我们不会这么倒霉的。", "pinyin": "Bié tīng tā xiāshuō, búyòng hàipà. Wǒmen bú huì zhème dǎoméi de.", "vietnamese": "Đừng nghe anh ta nói bừa, không cần sợ. Chúng ta không xui xẻo thế đâu." },
+        { "chinese": "他自己的问题，他会想办法的，你就别替他瞎担心了。", "pinyin": "Tā zìjǐ de wèntí, tā huì xiǎng bànfǎ de, nǐ jiù bié tì tā xiā dānxīn le.", "vietnamese": "Chuyện của cậu ấy tự cậu ấy sẽ nghĩ cách, cậu đừng lo hão thay cậu ấy nữa." }
+      ],
+      "important_notes": "Bài tập 3 câu 1 tr.73: '你瞎着什么急！' (瞎 đứng trước cụm động từ ly hợp 着什么急).",
+      "common_errors": "",
+      "comparison": "",
+      "mini_practice": [
+        { "prompt": "A: 刚才的考试你考得怎么样？我有好几个题不会做。  B: ______________________。（瞎）", "sample_answer": "我也好几个不会，全是瞎猜的 / 瞎写的", "explanation": "Phó từ 瞎 + Động từ (đoán bừa/viết bừa)." }
+      ]
+    },
+    {
+      "title": "分别 (3 từ loại)",
+      "formula": "(1) 分别 (động từ: chia tay)  |  (2) 分别 + V (phó từ: chia nhau / lần lượt)  |  (3) 有什么分别 (danh từ: sự khác biệt)",
+      "meaning": "1. Ly biệt, chia tay · 2. Riêng rẽ, chia nhau; liệt kê từng mục · 3. Sự khác biệt, chỗ khác nhau.",
+      "usage": "(1) Động từ = 离别 (xa cách); (2) Phó từ chỉ các bên chia nhau tự làm (分头、各自) HOẶC liệt kê chi tiết từng đối tượng (分别是…… / 分别占……); (3) Danh từ = 区别 (sự khác nhau).",
+      "context": "Từ đa từ loại trọng điểm cực hay ra trong đề thi đọc hiểu & sắp xếp câu HSK 5.",
+      "examples": [
+        { "chinese": "分别是暂时的，我们以后一定会再见。（动词）", "pinyin": "Fēnbié shì zànshí de, wǒmen yǐhòu yídìng huì zàijiàn.", "vietnamese": "Chia xa chỉ là tạm thời, sau này chúng ta nhất định sẽ gặp lại." },
+        { "chinese": "从毕业到现在，我们已经分别20年了，一直都没有联系。（动词）", "pinyin": "Cóng bìyè dào xiànzài, wǒmen yǐjīng fēnbié èrshí nián le, yìzhí dōu méiyǒu liánxì.", "vietnamese": "Từ khi tốt nghiệp đến nay, chúng tôi đã xa cách 20 năm rồi, vẫn chưa từng liên lạc." },
+        { "chinese": "士兵们分别去不同地方寻找，把找到的大象和盲人带到他面前。（副词—分头）", "pinyin": "Shìbīng men fēnbié qù bùtóng dìfang xúnzhǎo, bǎ zhǎodào de dàxiàng hé mángrén dàidào tā miànqián.", "vietnamese": "Binh lính chia nhau đi tìm ở các nơi khác nhau, đưa voi và người mù tìm được tới trước mặt nhà vua." },
+        { "chinese": "一张桌子上放着三瓶饮料，分别是茶、可乐和咖啡。（副词—细数）", "pinyin": "Yì zhāng zhuōzi shang fàngzhe sān píng yǐnliào, fēnbié shì chá, kělè hé kāfēi.", "vietnamese": "Trên bàn đặt ba chai đồ uống, lần lượt là trà, coca và cà phê." },
+        { "chinese": "我不知道这两种做法有什么分别。（名词）", "pinyin": "Wǒ bù zhīdào zhè liǎng zhǒng zuòfǎ yǒu shénme fēnbié.", "vietnamese": "Tôi không biết hai cách làm này có gì khác biệt." }
+      ],
+      "important_notes": "Bài tập 3 câu 4 tr.73: '他们分别去两个不同的城市做社会调查' (分别 đứng ngay sau chủ ngữ số nhiều và trước động từ 去).",
+      "common_errors": "",
+      "comparison": "",
+      "mini_practice": [
+        { "prompt": "A: 快放寒假了，你们假期有什么打算？  B: ______________________。（分别—副词）", "sample_answer": "我们打算分别去北京和上海旅游", "explanation": "Phó từ 分别 đặt trước động từ chỉ mỗi người đi một nơi." }
+      ]
+    },
+    {
+      "title": "根",
+      "formula": "(1) 根 (danh từ: rễ cây / căn nguyên)  |  (2) 数词 + 根 + Danh từ dài mảnh (lượng từ)",
+      "meaning": "1. Rễ cây; nền tảng, gốc rễ sự việc · 2. Chiếc, sợi, cái (lượng từ cho vật thon dài).",
+      "usage": "(1) Danh từ chỉ phần rễ thực vật mọc dưới đất (树根), chân vật bám sâu (牙根) hoặc gốc rễ vấn đề (从根上解决); (2) Lượng từ dùng cho vật dài và mảnh (一根绳子, 几根箭, 一根筷子, 一根头发).",
+      "context": "Rất hay dùng trong cả đời sống hằng ngày lẫn bài luận bàn về giải quyết vấn đề tận gốc.",
+      "examples": [
+        { "chinese": "这棵树的根又粗又长。", "pinyin": "Zhè kē shù de gēn yòu cū yòu cháng.", "vietnamese": "Rễ của cái cây này vừa to vừa dài." },
+        { "chinese": "这件事还是得从根上解决，只解决表面问题是不行的。", "pinyin": "Zhè jiàn shì háishi děi cóng gēn shang jiějué, zhǐ jiějué biǎomiàn wèntí shì bùxíng de.", "vietnamese": "Chuyện này vẫn phải giải quyết từ gốc rễ, chỉ giải quyết bề nổi là không được." },
+        { "chinese": "摸到尾巴的盲人说大象像一根绳子。", "pinyin": "Mōdào wěiba de mángrén shuō dàxiàng xiàng yì gēn shéngzi.", "vietnamese": "Người mù sờ trúng đuôi nói con voi giống một sợi dây thừng." },
+        { "chinese": "可是，这次他连续换了几根箭，都没能再射进去。", "pinyin": "Kěshì, zhè cì tā liánxù huàn le jǐ gēn jiàn, dōu méi néng zài shè jìnqù.", "vietnamese": "Nhưng lần này ông đổi liên tiếp mấy mũi tên mà đều không bắn ngập vào được nữa." }
+      ],
+      "important_notes": "Khi đứng sau động từ như 用 (用根绳子), số từ 一 có thể lược bỏ.",
+      "common_errors": "",
+      "comparison": "",
+      "mini_practice": [
+        { "prompt": "植物靠______________________。（根—名词）", "sample_answer": "根吸收水分和营养", "explanation": "Danh từ 根 nghĩa là rễ cây." }
+      ]
+    },
+    {
+      "title": "便 (biàn)",
+      "formula": "Vế 1，(S +) 便 + V / 不是……便是……",
+      "meaning": "Thì, liền, bèn (tương đương 就, dùng nhiều trong văn viết).",
+      "usage": "Phó từ văn viết thay cho 就 trong các câu chỉ sự tiếp nối nhanh chóng, kết quả tự nhiên theo điều kiện, hoặc cấu trúc lựa chọn '不是……便是……' (không phải... thì là...).",
+      "context": "Dùng trong bài viết, truyện kể, thành ngữ và viết lại câu nâng cao phong cách văn viết.",
+      "examples": [
+        { "chinese": "楼上新买了一架钢琴，我们家便多了一些不安静。", "pinyin": "Lóushàng xīn mǎi le yí jià gāngqín, wǒmen jiā biàn duō le yìxiē bù ānjìng.", "vietnamese": "Tầng trên mới mua một cây đàn piano, nhà chúng tôi liền thêm phần không yên tĩnh." },
+        { "chinese": "很多时候，仅仅是换一种心情，换一个角度，便可以从困境中走出来。", "pinyin": "Hěn duō shíhou, jǐnjǐn shì huàn yì zhǒng xīnqíng, huàn yí ge jiǎodù, biàn kěyǐ cóng kùnjìng zhōng zǒu chūlái.", "vietnamese": "Rất nhiều lúc, chỉ cần đổi một tâm trạng, đổi một góc nhìn, liền có thể bước ra khỏi nghịch cảnh." },
+        { "chinese": "“精诚所至，金石为开”这一成语也便由此流传下来。", "pinyin": "“Jīngchéng suǒzhì, jīnshí wéi kāi” zhè yì chéngyǔ yě biàn yóucǐ liúchuán xiàlái.", "vietnamese": "Thành ngữ “Tinh thành sở chí, kim thạch vi khai” cũng liền lưu truyền từ đó." }
+      ],
+      "important_notes": "Thay trực tiếp cho 就 ở các ngữ cảnh tiếp nối/điều kiện/lựa chọn (VD: 不是A就是B → 不是A便是B). Không thay cho 就 khi 就 mang nghĩa nhấn mạnh 'chính là / chỉ'.",
+      "common_errors": "",
+      "comparison": "",
+      "mini_practice": [
+        { "prompt": "改写：他刚出门，发现没带钥匙，就转身回去拿。→ 他刚出门，发现没带钥匙，______________________。（便）", "sample_answer": "便转身回去拿", "explanation": "Thay 就 bằng 便 để câu mang sắc thái văn viết gọn gàng." },
+        { "prompt": "改写：朋友不停地给她介绍男朋友，但是每次不是她不喜欢别人，就是别人不喜欢她。→ 朋友不停地给她介绍男朋友，但是每次______________________。（便）", "sample_answer": "不是她不喜欢别人，便是别人不喜欢她", "explanation": "Thay khuôn 不是……就是…… thành 不是……便是……." }
+      ]
+    }
+  ],
+  "comparison_section": {
+    "label": "词语辨析 Phân biệt từ ngữ",
+    "pair": "忽然 — 突然",
+    "term_a": "忽然 (hūrán)",
+    "term_b": "突然 (tūrán)",
+    "similarity": "Đều có thể dùng trước động từ, biểu thị sự việc xảy ra rất nhanh, ngoài dự đoán. VD: 我们正在上课，他忽然/突然站了起来。",
+    "differences": [
+      { "criterion": "Từ loại & Chức năng ngữ pháp", "a": "CHỈ là PHÓ TỪ, chỉ dùng trước động từ hoặc tiểu câu (làm trạng ngữ, và có thể thay bằng “突然”). VD: 一天傍晚，他正带着士兵们在山中打猎，忽然发现远处的草丛中蹲着一只大老虎。", "b": "Vừa là PHÓ TỪ, vừa là TÍNH TỪ → có thể làm VỊ NGỮ (这件事太突然了!), BỔ NGỮ (这件事发生得太突然了!), ĐỊNH NGỮ (这突然的一声喊叫吓了我一跳 / 一个突然的变化)." }
+    ]
+  },
+  "texts": [
+    {
+      "id": "t1", "title_zh": "盲人摸象（255字）", "title_vi": "Thầy bói xem voi (Người mù sờ voi)",
+      "lines": [
+        { "speaker": "", "chinese": "很久以前，有一个很有智慧的国王。一天，他让士兵们去找一头大象和一些出生时眼睛就瞎了的人回来。士兵们分别去不同地方寻找，把找到的大象和盲人带到他面前。", "pinyin": "Hěn jiǔ yǐqián, yǒu yí ge hěn yǒu zhìhuì de guówáng. Yì tiān, tā ràng shìbīng men qù zhǎo yì tóu dàxiàng hé yìxiē chūshēng shí yǎnjing jiù xiā le de rén huílai. Shìbīng men fēnbié qù bùtóng dìfang xúnzhǎo, bǎ zhǎodào de dàxiàng hé mángrén dàidào tā miànqián.", "vietnamese": "Rất lâu về trước, có một vị quốc vương vô cùng sáng suốt. Một hôm, ông sai binh lính đi tìm một con voi và vài người bị mù từ lúc mới sinh đem về. Binh lính chia nhau đi tìm ở nhiều nơi khác nhau rồi dẫn con voi và những người mù tìm được tới trước mặt nhà vua." },
+        { "speaker": "", "chinese": "国王叫盲人们去摸一摸大象，问他们：“你们觉得大象是什么样的呢？”摸到牙齿的盲人说：“我觉得像一个角。”“胡说！”摸到尾巴的盲人说，“它像一条绳子。”摸到大象身子的盲人说：“我觉得像一面又高又平的墙。”“不，你们都错了，应该是像一把扇子。”这个盲人摸到了大象的耳朵。", "pinyin": "Guówáng jiào mángrén men qù mōyimō dàxiàng, wèn tāmen: “Nǐmen juéde dàxiàng shì shénmeyàng de ne?” Mōdào yáchǐ de mángrén shuō: “Wǒ juéde xiàng yí ge jiǎo.” “Húshuō!” Mōdào wěiba de mángrén shuō, “Tā xiàng yì tiáo shéngzi.” Mōdào dàxiàng shēnzi de mángrén shuō: “Wǒ juéde xiàng yí miàn yòu gāo yòu píng de qiáng.” “Bù, nǐmen dōu cuò le, yīnggāi shì xiàng yì bǎ shànzi.” Zhège mángrén mōdào le dàxiàng de ěrduo.", "vietnamese": "Nhà vua bảo những người mù sờ thử con voi rồi hỏi họ: “Các anh thấy con voi trông thế nào?” Người sờ trúng ngà nói: “Tôi thấy giống một cái sừng.” “Nói bậy!” Người sờ trúng đuôi nói: “Nó giống một sợi dây thừng.” Người sờ trúng thân voi bảo: “Tôi thấy giống một bức tường vừa cao vừa phẳng.” “Không, các anh sai hết rồi, phải giống một chiếc quạt mới đúng.” Người mù này đã sờ trúng tai con voi." },
+        { "speaker": "", "chinese": "国王笑了起来：“你们每个人都只摸到了一点，就认为自己了解全部了吗？只有片面的认识是不能下结论的。”", "pinyin": "Guówáng xiào le qilai: “Nǐmen měi ge rén dōu zhǐ mōdào le yìdiǎn, jiù rènwéi zìjǐ liǎojiě quánbù le ma? Zhǐyǒu piànmiàn de rènshi shì bù néng xià jiélùn de.”", "vietnamese": "Nhà vua bật cười nói: “Mỗi người các anh mới chỉ sờ thấy một chút mà đã cho rằng mình hiểu được toàn bộ rồi sao? Chỉ có nhận thức phiến diện thì không thể hạ kết luận được.”" }
+      ]
+    },
+    {
+      "id": "t2", "title_zh": "精诚所至，金石为开（436字）", "title_vi": "Lòng thành cảm động đất trời, đá vàng cũng phải vỡ",
+      "lines": [
+        { "speaker": "", "chinese": "西汉时期有一位著名的将军叫李广，他善于骑马射箭，作战勇敢，被称为“飞将军”。一天傍晚，他正带着士兵们在山中打猎，忽然发现远处蹲着一只大老虎。士兵们都紧张地围了上来，想要保护他。李广摇摇头，表示不要紧。只见他从箭袋里取出一支箭，摆好姿势，全神贯注，用尽全力向老虎射去。", "pinyin": "Xīhàn shíqī yǒu yí wèi zhùmíng de jiāngjūn jiào Lǐ Guǎng, tā shànyú qímǎ shèjiàn, zuòzhàn yǒnggǎn, bèi chēngwéi “Fēijiāngjūn”. Yì tiān bàngwǎn, tā zhèng dàizhe shìbīng men zài shānzhōng dǎ liè, hūrán fāxiàn yuǎnchù dūnzhe yì zhī dà lǎohǔ. Shìbīng men dōu jǐnzhāng de wéi le shànglái, xiǎngyào bǎohù tā. Lǐ Guǎng yáoyao tóu, biǎoshì bú yàojǐn. Zhǐjiàn tā cóng jiàndài li qǔchū yì zhī jiàn, bǎihǎo zīshì, quánshén guànzhù, yòngjìn quánlì xiàng lǎohǔ shèqù.", "vietnamese": "Thời Tây Hán có vị tướng quân nổi tiếng tên là Lý Quảng, ông giỏi cưỡi ngựa bắn cung, tác chiến dũng mãnh, được xưng danh “Phi tướng quân”. Một chiều tối nọ, ông đang dẫn binh lính đi săn trong núi thì bỗng phát hiện đằng xa có một con hổ lớn đang ngồi phục. Binh lính đều căng thẳng vây lại muốn bảo vệ ông. Lý Quảng lắc đầu ra hiệu không sao. Chỉ thấy ông rút từ ống tên một mũi tên, vào thế sẵn sàng, tập trung toàn bộ tinh thần, dốc hết sức lực bắn về phía con hổ." },
+        { "speaker": "", "chinese": "过了一会儿，老虎没什么反应，士兵们小心地走上前去，想确定它是不是死了。没想到仔细一看，被射中的竟不是老虎，而是一块形状很像老虎的大石头，而且一整支箭几乎全都射到石头中去了！大家都很吃惊，连李广自己都不相信他能有这么大的力气，于是他想再试试。可是，这次他连续换了几根箭，都没能再射进去，有的箭头碎了，有的箭杆断了，而大石头一点儿变化也没有。“哎，怎么会这样？”士兵奇怪地你看我，我看你。“唉！大概是我不够用心了吧！”李广也无奈地说。", "pinyin": "Guò le yíhuìr, lǎohǔ méi shénme fǎnyìng, shìbīng men xiǎoxīn de zǒu shàngqián qù, xiǎng quèdìng tā shì bu shì sǐ le. Méi xiǎngdào zǐxì yí kàn, bèi shèzhòng de jìng búshì lǎohǔ, érshì yí kuài xíngzhuàng hěn xiàng lǎohǔ de dà shítou, érqiě yì zhěng zhī jiàn jīhū quándōu shèdào shítou zhōng qù le! Dàjiā dōu hěn chījīng, lián Lǐ Guǎng zìjǐ dōu bù xiāngxìn tā néng yǒu zhème dà de lìqi, yúshì tā xiǎng zài shìshi. Kěshì, zhè cì tā liánxù huàn le jǐ gēn jiàn, dōu méi néng zài shè jìnqù, yǒude jiàntóu suì le, yǒude jiàngǎn duàn le, ér dà shítou yìdiǎnr biànhuà yě méiyǒu. “Āi, zěnme huì zhèyàng?” Shìbīng qíguài de nǐ kàn wǒ, wǒ kàn nǐ. “Ài! Dàgài shì wǒ búgòu yòngxīn le ba!” Lǐ Guǎng yě wúnài de shuō.", "vietnamese": "Một lúc sau, con hổ chẳng có phản ứng gì, binh lính cẩn thận tiến lại gần muốn xác định nó chết chưa. Không ngờ nhìn kỹ lại, thứ bị bắn trúng lại không phải hổ, mà là tảng đá lớn có hình dáng rất giống con hổ, hơn nữa cả mũi tên gần như cắm ngập hết vào trong đá! Ai nấy đều kinh ngạc, đến cả Lý Quảng cũng không tin mình có sức mạnh lớn đến thế, bèn muốn thử lại lần nữa. Nhưng lần này ông thay liên tiếp mấy mũi tên mà chẳng mũi nào bắn vào được nữa, cái thì vỡ đầu tên, cái thì gãy cán tên, còn tảng đá chẳng hề sứt mẻ. “Ái chà, sao lại thế này?” Binh lính ngạc nhiên nhìn nhau. “Ôi! Chắc là ta chưa đủ dốc lòng rồi!” Lý Quảng cũng bất đắc dĩ nói." },
+        { "speaker": "", "chinese": "人们对这件事情感到很不解，就去问当时最有影响力的学者扬雄。扬雄回答说：“如果诚心实意，即使像金属和石头那样硬的东西也会被打动。”“精诚所至，金石为开”这一成语也便由此流传下来。", "pinyin": "Rénmen duì zhè jiàn shìqing gǎndào hěn bùjiě, jiù qù wèn dāngshí zuì yǒu yǐngxiǎnglì de xuézhě Yáng Xióng. Yáng Xióng huídá shuō: “Rúguǒ chéngxīn shíyì, jíshǐ xiàng jīnshǔ hé shítou nàyàng yìng de dōngxi yě huì bèi dǎdòng.” “Jīngchéng suǒzhì, jīnshí wéi kāi” zhè yì chéngyǔ yě biàn yóucǐ liúchuán xiàlái.", "vietnamese": "Mọi người cảm thấy rất khó hiểu trước chuyện này, liền đi hỏi học giả có tầm ảnh hưởng nhất bấy giờ là Dương Hùng. Dương Hùng trả lời: “Nếu thật lòng thành tâm, cho dù là thứ cứng rắn như kim loại và đá cũng sẽ bị lay động.” Thành ngữ “Tinh thành sở chí, kim thạch vi khai” cũng liền lưu truyền từ đó." }
+      ]
+    }
+  ],
+  "reading_questions": [
+    { "question_zh": "“盲人摸象”和“精诚所至，金石为开”这两个成语分别告诉我们什么道理？", "question_vi": "Hai thành ngữ “Thầy bói xem voi” và “Tinh thành sở chí, kim thạch vi khai” lần lượt dạy chúng ta đạo lý gì?", "answer_zh": "“盲人摸象”告诉我们看问题要全面，只有片面的认识是不能下结论的；“精诚所至，金石为开”告诉我们做事情要诚心实意、全神贯注、尽心尽力，这样再难的问题也能解决。", "answer_vi": "“Thầy bói xem voi” nhắc ta nhìn nhận vấn đề phải toàn diện, không thể kết luận từ hiểu biết phiến diện; “Tinh thành sở chí, kim thạch vi khai” dạy rằng làm việc gì cũng cần thật lòng chuyên tâm, dốc hết sức mình thì khó khăn mấy cũng có thể vượt qua." }
+  ],
+  "exercises": [
+    {
+      "id": "h5s7_ex1", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.72 (Bài tập 1)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ điền vào chỗ trống: “不能这样______地看问题，而要多方面地考虑。”",
+      "options": ["片面", "确定", "善于", "尽力"],
+      "answer": "片面",
+      "explanation": "Đối lập với '多方面地考虑' (xem xét nhiều mặt) là '片面地看问题' (nhìn nhận vấn đề phiến diện).",
+      "review_tip": "Ôn bảng 词语搭配 của 片面(地) tr.71."
+    },
+    {
+      "id": "h5s7_ex2", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.72 (Bài tập 1)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ điền vào chỗ trống: “她很爱护学生，也很______教育他们。”",
+      "options": ["善于", "寻找", "确定", "不要紧"],
+      "answer": "善于",
+      "explanation": "善于 + Động từ (giỏi về, có sở trường làm việc gì) → 善于教育他们 (rất khéo/giỏi dạy dỗ học sinh).",
+      "review_tip": "Ôn từ #22 善于."
+    },
+    {
+      "id": "h5s7_ex3", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.72 (词语辨析)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn đáp án đúng: “消息来得太______了，我完全没有准备。”",
+      "options": ["突然", "忽然", "连续", "片面"],
+      "answer": "突然",
+      "explanation": "Làm BỔ NGỮ sau 得 (来得太……了) chỉ có tính từ 突然 dùng được; 忽然 chỉ là phó từ, không làm vị ngữ, bổ ngữ hay định ngữ.",
+      "review_tip": "Ôn mục 词语辨析: 忽然—突然 tr.71–72."
+    },
+    {
+      "id": "h5s7_ex4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.72 (Bài tập 2)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “对我们提出的意见，老板还没有做出______。”",
+      "options": ["反应", "反映", "结论", "姿势"],
+      "answer": "反应",
+      "explanation": "Cụm chuẩn: 做出反应 (đưa ra phản ứng/đáp lại trước ý kiến hay tình huống). Không dùng 反映 (Bài 5: phản ánh/báo cáo).",
+      "review_tip": "Phân biệt cực kỹ cặp đồng âm 反应 (Bài 7) vs 反映 (Bài 5)!"
+    },
+    {
+      "id": "h5s7_ex5", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.72 (Bài tập 2)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “我真的需要休息了，我已经______工作20个小时了。”",
+      "options": ["连续", "继续", "分别", "忽然"],
+      "answer": "连续",
+      "explanation": "连续 nhấn mạnh sự nối tiếp KHÔNG NGẮT QUÃNG suốt một khoảng thời gian (连续工作20个小时).",
+      "review_tip": "Phân biệt 连续 vs 继续."
+    },
+    {
+      "id": "h5s7_ex6", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.72 (Bài tập 2)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “______，我想到了一个办法，你们看看行不行。”",
+      "options": ["哎", "唉", "便", "瞎"],
+      "answer": "哎",
+      "explanation": "哎 (āi) dùng để biểu thị sự ngạc nhiên hào hứng hoặc gọi chú ý khi chợt nảy ra ý tưởng; 唉 (ài) là tiếng thở dài tiếc nuối, buồn bã.",
+      "review_tip": "Phân biệt 2 thán từ 哎 (āi) vs 唉 (ài)."
+    },
+    {
+      "id": "h5s7_ex7", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.73 (Bài tập 3)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn vị trí thích hợp cho chữ “瞎” trong câu: “他 A 没回家，肯定是 B 公司有事，你 C 着什么 D 急！”",
+      "options": ["C (你瞎着什么急！)", "A (瞎没回家)", "B (瞎公司有事)", "D (着什么瞎急)"],
+      "answer": "C (你瞎着什么急！)",
+      "explanation": "Phó từ 瞎 đứng ngay trước động từ/cụm vị ngữ 着什么急 để biểu thị lo lắng vô ích không căn cứ.",
+      "review_tip": "Ôn Chú thích 1 tr.68–69: phó từ 瞎."
+    },
+    {
+      "id": "h5s7_ex8", "type": "grammar_mc", "level": "Vận dụng", "origin_tag": "Sách gốc tr.73 (Bài tập 3)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn vị trí thích hợp cho từ “分别” trong câu: “他们 A 去两个 B 不同的城市做社会调查，想了解 C 南方和北方 D 不同的风俗！”",
+      "options": ["A (他们分别去……)", "B (两个分别不同的)", "C (想了解分别)", "D (北方分别不同)"],
+      "answer": "A (他们分别去……)",
+      "explanation": "Phó từ 分别 đặt sau chủ ngữ số nhiều (他们) và trước động từ (去) biểu thị chia nhau đi đến hai thành phố khác nhau.",
+      "review_tip": "Ôn Chú thích 2 tr.69: 3 từ loại của 分别."
+    },
+    {
+      "id": "h5s7_ex9", "type": "context_mc", "level": "Vận dụng", "origin_tag": "Ôn tập Bài 5–6", "mistake_category": "Từ vựng",
+      "prompt": "[Ôn tập] Chọn đáp án đúng: “小李到处______那家公司的消息，______真让他找到了，朋友们都______他高兴。”",
+      "options": ["打听 / 果然 / 替", "询问 / 居然 / 于", "打听 / 从而 / 替", "询问 / 果然 / 为"],
+      "answer": "打听 / 果然 / 替",
+      "explanation": "Ôn Bài 6: 到处打听消息 (dò hỏi tin tức khắp nơi); 果然 (quả nhiên đúng như mong đợi); 替他高兴 (mừng cho anh ấy — Chú thích 1 tr.57).",
+      "review_tip": "Ôn lại 词语辨析 打听—询问, 果然 và 替 ở Bài 6."
+    }
+  ]
+}

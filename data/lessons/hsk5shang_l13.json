@@ -1,0 +1,428 @@
+{
+  "id": "hsk5shang_l13",
+  "book_id": "hsk5shang",
+  "textbook": "HSK 5 上",
+  "lesson_number": 13,
+  "title_zh": "锯掉生活的“筐底”",
+  "title_vi": "Cưa bỏ \"Đáy giỏ\" cuộc sống",
+  "pdf_pages": "Trang sách 118–125 (Giáo Trình Chuẩn HSK5 Tập 1.pdf)",
+  "source_status": "verified_textbook",
+  "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"],
+  "vocabulary": [
+    {
+      "id": "hsk5s_l13_w01", "order": 1, "textbook": "HSK 5 上", "lesson": 13, "is_out_of_syllabus": true,
+      "hanzi": "锯（子）", "pinyin": "jù (zi)",
+      "lesson_usage": { "part_of_speech": "动词 / 名词 (Động từ / Danh từ)", "meanings": ["1. (Động từ) cưa", "2. (Danh từ) cái cưa (锯子)"], "meaning": "cưa; cái cưa", "structure": "(đgt) 锯掉 / 锯断; (dt) 一把锯子", "explanation": "Dụng cụ lưỡi răng cưa dùng để cắt gỗ/kim loại, hoặc động tác cắt bằng cưa.", "examples": [
+        { "chinese": "一位球员连忙找来一把锯子把篮筐的底锯掉。", "pinyin": "Yí wèi qiúyuán liánmáng zhǎolai yì bǎ jùzi bǎ lánkuāng de dǐ jùdiào.", "vietnamese": "Một cầu thủ lập tức tìm ngay một cái cưa để cưa bỏ đáy chiếc giỏ rổ.", "from_text": true }
+      ] },
+      "additional_usages": [], "chinese_explanation": "拉动带锯齿的工具来割断木头等；这种工具叫锯子。", "collocations": ["一把锯子", "锯掉", "锯断"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l13_w02", "order": 2, "textbook": "HSK 5 上", "lesson": 13, "is_out_of_syllabus": true,
+      "hanzi": "筐", "pinyin": "kuāng",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "giỏ, sọt", "structure": "篮筐 / 桃子筐 / 筐底 / 两只篮筐", "explanation": "Đồ đan bằng tre, mây hoặc gỗ dùng để đựng trái cây, đồ vật.", "examples": [{ "chinese": "他从当地人把球扔进桃子筐的游戏中得到了启发。", "pinyin": "Tā cóng dāngdìrén bǎ qiú rēngjìn táozi kuāng de yóuxì zhōng dédào le qǐfā.", "vietnamese": "Ông lấy được gợi ý từ trò chơi ném bóng vào sọt đào của người dân địa phương.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "用竹子、柳条或木片等编成的盛东西的器具。", "collocations": ["篮筐", "筐底", "一筐桃子"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l13_w03", "order": 3, "textbook": "HSK 5 上", "lesson": 13,
+      "hanzi": "训练", "pinyin": "xùnliàn",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "huấn luyện, tập luyện", "structure": "认真地/紧张地/艰苦地/严格地 + 训练 / 训练学校", "explanation": "Rèn luyện có kế hoạch, có mục đích để nâng cao kỹ năng, thể lực.", "examples": [{ "chinese": "奈史密斯所在的训练学校缺乏在室内进行的球类比赛项目。", "pinyin": "Nàishǐmìsī suǒzài de xùnliàn xuéxiào quēfá zài shìnèi jìnxíng de qiúlèi bǐsài xiàngmù.", "vietnamese": "Trường huấn luyện nơi Naismith công tác thiếu các hạng mục thi đấu bóng trong nhà.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["quá trình huấn luyện, khóa rèn luyện"], "structure": "接受训练 / 严格训练", "difference_note": "Làm tân ngữ cho 接受 hoặc mang định ngữ chỉ bản thân quá trình tập luyện.", "examples": [{ "chinese": "运动员们每天都要接受严格的体能训练。", "pinyin": "Yùndòngyuán men měitiān dōu yào jiēshòu yángé de tǐnéng xùnliàn.", "vietnamese": "Các vận động viên mỗi ngày đều phải trải qua quá trình huấn luyện thể lực nghiêm ngặt." }] }
+      ],
+      "chinese_explanation": "有计划、有步骤地使具有某种特长或技能。", "collocations": ["严格训练", "艰苦地训练", "训练学校", "篮球训练"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l13_w04", "order": 4, "textbook": "HSK 5 上", "lesson": 13,
+      "hanzi": "缺乏", "pinyin": "quēfá",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "thiếu, không đủ", "structure": "缺乏 + 人才 / 知识 / 工具 / 勇气 / 信心 / 经验", "explanation": "Không có hoặc có rất ít thứ cần thiết (thường đi với danh từ trừu tượng hoặc vật tư nói chung).", "examples": [{ "chinese": "奈史密斯所在的训练学校缺乏在室内进行的球类比赛项目。", "pinyin": "Nàishǐmìsī suǒzài de xùnliàn xuéxiào quēfá zài shìnèi jìnxíng de qiúlèi bǐsài xiàngmù.", "vietnamese": "Trường huấn luyện nơi Naismith dạy học thiếu các môn thi đấu bóng tổ chức trong nhà.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "（所需要的、想要的或一般应有的事物）没有或不够。", "collocations": ["缺乏信心", "缺乏经验", "缺乏人才", "缺乏工具"], "usage_note": "Phân biệt với 缺少 (tr.123 Bài tập 2 câu 3): '不可或缺的一部分' là cụm cố định (không nói '不可缺乏'); còn 缺乏 thường đi với các danh từ trừu tượng như 信心、勇气、知识.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l13_w05", "order": 5, "textbook": "HSK 5 上", "lesson": 13,
+      "hanzi": "项目", "pinyin": "xiàngmù",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "hạng mục, bộ môn, dự án", "structure": "比赛项目 / 体育项目 / 合作项目", "explanation": "Từng mục, môn thi đấu hoặc công trình/dự án phân loại riêng biệt.", "examples": [{ "chinese": "缺乏在室内进行的球类比赛项目。", "pinyin": "Quēfá zài shìnèi jìnxíng de qiúlèi bǐsài xiàngmù.", "vietnamese": "Thiếu các hạng mục thi đấu bóng trong nhà.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "事物分成的门类；计划或工程的单元。", "collocations": ["比赛项目", "体育项目", "重点项目", "项目经理"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l13_w06", "order": 6, "textbook": "HSK 5 上", "lesson": 13,
+      "hanzi": "桃", "pinyin": "táo",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "(trái) đào", "structure": "桃子 / 桃树 / 桃花", "explanation": "Loại quả đào vỏ có lông mịn, vị ngọt giòn hoặc mềm.", "examples": [{ "chinese": "当地产桃子，各家各户都备有装桃子的专用篮筐。", "pinyin": "Dāngdì chǎn táozi, gèjiā gèhù dōu bèiyǒu zhuāng táozi de zhuānyòng lánkuāng.", "vietnamese": "Địa phương trồng đào, nhà nhà đều có sẵn sọt chuyên dùng để đựng đào.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "落叶小乔木，果实叫桃子，可以吃。", "collocations": ["桃子", "桃花", "水蜜桃"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l13_w07", "order": 7, "textbook": "HSK 5 上", "lesson": 13,
+      "hanzi": "装", "pinyin": "zhuāng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "đựng, bỏ vào, xếp vào", "structure": "装桃子 / 装不下 / 装满", "explanation": "Đặt đồ vật vào bên trong thùng, túi, sọt hoặc hộp.", "examples": [{ "chinese": "各家各户都备有装桃子的专用篮筐。", "pinyin": "Gèjiā gèhù dōu bèiyǒu zhuāng táozi de zhuānyòng lánkuāng.", "vietnamese": "Nhà nhà đều có sẵn sọt chuyên dụng để đựng đào.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Nghĩa khác: lắp đặt / giả vờ)", "meanings": ["lắp đặt (= 安装)", "giả vờ, giả bộ"], "structure": "装空调 / 装病 / 装作不知道", "difference_note": "Trong Bài tập 2 câu 1 tr.123: '箱子根本装不下' dùng nghĩa 'đựng/chứa' (KHÔNG dùng 安装!).", "examples": [{ "chinese": "他明明醒了，却闭着眼睛装睡。", "pinyin": "Tā míngmíng xǐng le, què bìzhe yǎnjing zhuāngshuì.", "vietnamese": "Rõ ràng cậu ấy tỉnh rồi, thế mà vẫn nhắm mắt giả vờ ngủ." }] }
+      ],
+      "chinese_explanation": "把东西放进器物内；安置；假作。", "collocations": ["装满", "装不下", "装病", "服装"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l13_w08", "order": 8, "textbook": "HSK 5 上", "lesson": 13,
+      "hanzi": "启发", "pinyin": "qǐfā",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "gợi ý, khơi gợi", "structure": "得到启发 / 启发学生 / 很有启发", "explanation": "Khơi mở suy nghĩ giúp người khác nảy ra sáng kiến hoặc hiểu ra chân lý.", "examples": [{ "chinese": "他从当地人把球扔进桃子筐的游戏中得到了启发。", "pinyin": "Tā cóng dāngdìrén bǎ qiú rēngjìn táozi kuāng de yóuxì zhōng dédào le qǐfā.", "vietnamese": "Ông nhận được gợi ý từ trò chơi ném bóng vào sọt đào của người dân địa phương.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["sự gợi mở, bài học gợi ý"], "structure": "得到很大的启发 / 给我很大启发", "difference_note": "Như trong bài khóa ('得到了启发'), 启发 rất thường dùng làm tân ngữ danh từ hóa.", "examples": [{ "chinese": "这篇文章给了我很大的启发。", "pinyin": "Zhè piān wénzhāng gěi le wǒ hěn dà de qǐfā.", "vietnamese": "Bài viết này mang lại cho tôi rất nhiều gợi mở." }] }
+      ],
+      "chinese_explanation": "阐明事例，引起对方联想而有所领悟。", "collocations": ["得到启发", "启发思维", "很有启发"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l13_w09", "order": 9, "textbook": "HSK 5 上", "lesson": 13,
+      "hanzi": "安装", "pinyin": "ānzhuāng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "lắp đặt, gắn", "structure": "安装在……上 / 安装机器 / 安装软件", "explanation": "Cố định thiết bị, máy móc vào vị trí quy định hoặc cài đặt phần mềm.", "examples": [{ "chinese": "将两只篮筐分别安装在体育馆两边看台的栏杆上。", "pinyin": "Jiāng liǎng zhī lánkuāng fēnbié ānzhuāng zài tǐyùguǎn liǎngbiān kàntái de lángān shang.", "vietnamese": "Gắn hai chiếc giỏ lần lượt lên lan can khán đài hai bên nhà thi đấu.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "按照一定的方法、规格把机械或器材等固定在一定的地方；把软件装入设备。", "collocations": ["安装机器", "安装软件", "安装空调"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l13_w10", "order": 10, "textbook": "HSK 5 上", "lesson": 13, "is_out_of_syllabus": true,
+      "hanzi": "栏杆", "pinyin": "lángān",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "hàng lan can", "structure": "看台的栏杆 / 桥上的栏杆", "explanation": "Thanh chắn bảo vệ bằng gỗ, sắt hoặc đá ở cầu thang, ban công, khán đài.", "examples": [{ "chinese": "将两只篮筐分别安装在体育馆两边看台的栏杆上。", "pinyin": "Jiāng liǎng zhī lánkuāng fēnbié ānzhuāng zài tǐyùguǎn liǎngbiān kàntái de lángān shang.", "vietnamese": "Lắp hai chiếc sọt lần lượt lên lan can khán đài hai phía nhà thi đấu.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "用竹、木、石、金属等制成的拦挡物。", "collocations": ["看台栏杆", "铁栏杆", "扶着栏杆"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l13_w11", "order": 11, "textbook": "HSK 5 上", "lesson": 13,
+      "hanzi": "甲", "pinyin": "jiǎ",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "người (đội, bên) thứ nhất, Giáp", "structure": "甲乙两队 / 甲方 / 甲班", "explanation": "Thiên can đứng thứ nhất, dùng đánh dấu thứ tự A / thứ nhất trong phân đội, hợp đồng, xếp hạng.", "examples": [{ "chinese": "学生分为甲乙两队，以足球为比赛工具向篮内投。", "pinyin": "Xuésheng fēnwéi jiǎ yǐ liǎng duì, yǐ zúqiú wéi bǐsài gōngjù xiàng lán nèi tóu.", "vietnamese": "Học sinh chia thành hai đội Giáp – Ất, lấy bóng đá làm dụng cụ thi đấu ném vào rổ.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Nghĩa khác: vỏ cứng, móng)", "meanings": ["móng tay/chân", "áo giáp, mai cứng"], "structure": "指甲 / 盔甲", "difference_note": "Chỉ lớp sừng/vỏ bảo vệ bên ngoài.", "examples": [{ "chinese": "小朋友要经常剪指甲，保持卫生。", "pinyin": "Xiǎopéngyou yào jīngcháng jiǎn zhǐjia, bǎochí wèishēng.", "vietnamese": "Các bạn nhỏ phải thường xuyên cắt móng tay để giữ vệ sinh." }] }
+      ],
+      "chinese_explanation": "天干的第一位，用作顺序第一的代称；动物身上的硬壳或指（趾）甲。", "collocations": ["甲乙两队", "甲方", "甲等", "指甲"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l13_w12", "order": 12, "textbook": "HSK 5 上", "lesson": 13,
+      "hanzi": "乙", "pinyin": "yǐ",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "người (đội, bên) thứ hai, Ất", "structure": "甲乙两队 / 乙方 / 乙等", "explanation": "Thiên can đứng thứ hai, dùng đánh dấu thứ tự B / thứ hai.", "examples": [{ "chinese": "学生分为甲乙两队，以足球为比赛工具向篮内投，按得分多少决定输赢。", "pinyin": "Xuésheng fēnwéi jiǎ yǐ liǎng duì, yǐ zúqiú wéi bǐsài gōngjù xiàng lán nèi tóu, àn défēn duōshao juédìng shūyíng.", "vietnamese": "Học sinh chia làm hai đội Giáp và Ất, dùng bóng đá làm dụng cụ ném vào rổ, dựa vào số điểm ghi được quyết định thắng thua.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "天干的第二位，用作顺序第二的代称。", "collocations": ["甲乙两队", "乙方", "乙班"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l13_w13", "order": 13, "textbook": "HSK 5 上", "lesson": 13,
+      "hanzi": "工具", "pinyin": "gōngjù",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "công cụ", "structure": "比赛工具 / 交通工具 / 缺乏工具", "explanation": "Đồ dùng sử dụng khi tiến hành công việc, sản xuất hay thi đấu.", "examples": [{ "chinese": "以足球为比赛工具向篮内投。", "pinyin": "Yǐ zúqiú wéi bǐsài gōngjù xiàng lán nèi tóu.", "vietnamese": "Lấy quả bóng đá làm dụng cụ thi đấu ném vào trong rổ.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "进行生产劳动或完成某事时所使用的器具；比喻用以达到目的的事物。", "collocations": ["交通工具", "学习工具", "比赛工具", "工具箱"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l13_w14", "order": 14, "textbook": "HSK 5 上", "lesson": 13,
+      "hanzi": "投篮", "pinyin": "tóu lán",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ ly hợp)", "meaning": "ném bóng vào rổ", "structure": "练习投篮 / 投进了篮", "explanation": "Động tác ném quả bóng vào rổ trong môn bóng rổ.", "examples": [{ "chinese": "以足球为比赛工具向篮内投，按得分多少决定输赢。", "pinyin": "Yǐ zúqiú wéi bǐsài gōngjù xiàng lán nèi tóu, àn défēn duōshao juédìng shūyíng.", "vietnamese": "Lấy quả bóng đá làm dụng cụ ném vào rổ, căn cứ số điểm phân định thắng thua.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "打篮球时把球向篮筐里投掷。", "collocations": ["练习投篮", "投篮得分", "三分投篮"], "usage_note": "Động từ ly hợp (có thể tách ra như bài khóa: 向篮内投, 投了一个篮).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l13_w15", "order": 15, "textbook": "HSK 5 上", "lesson": 13,
+      "hanzi": "踩", "pinyin": "cǎi",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "giẫm, đạp", "structure": "踩着梯子 / 踩破 / 踩伤 / 踩断 / 踩碎", "explanation": "Đặt chân dẫm lên trên bề mặt vật gì.", "examples": [{ "chinese": "每当球投进时，就得有一个人踩着梯子上去把球取出来。", "pinyin": "Měidāng qiú tóujìn shí, jiù děi yǒu yí ge rén cǎizhe tīzi shàngqu bǎ qiú qǔ chulai.", "vietnamese": "Mỗi khi bóng được ném vào, lại phải có một người trèo lên thang lấy bóng ra.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "脚底接触地面或物体并往下用力。", "collocations": ["踩着梯子", "踩破", "踩碎", "别踩草坪"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l13_w16", "order": 16, "textbook": "HSK 5 上", "lesson": 13,
+      "hanzi": "一再", "pinyin": "yízài",
+      "lesson_usage": { "part_of_speech": "副词 (Phó từ)", "meaning": "nhiều lần, hết lần này đến lần khác", "structure": "一再(地) + 重复 / 强调 / 提醒 / 要求", "explanation": "Lặp đi lặp lại nhiều lần (nhấn mạnh sự lặp lại liên tiếp).", "examples": [{ "chinese": "这样的行为必须一再地重复。", "pinyin": "Zhèyàng de xíngwéi bìxū yízài de chóngfù.", "vietnamese": "Hành động như vậy bắt buộc phải lặp đi lặp lại hết lần này đến lần khác.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "一次又一次。", "collocations": ["一再强调", "一再重复", "一再提醒", "一再要求"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l13_w17", "order": 17, "textbook": "HSK 5 上", "lesson": 13,
+      "hanzi": "重复", "pinyin": "chóngfù",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "lặp lại, trùng lặp", "structure": "简单地/完全/准确地 + 重复 / 一再重复", "explanation": "Làm lại hoặc nói lại điều giống hệt như trước đó.", "examples": [{ "chinese": "这样的行为必须一再地重复。", "pinyin": "Zhèyàng de xíngwéi bìxū yízài de chóngfù.", "vietnamese": "Hành động như thế buộc phải lặp lại hết lần này đến lần khác.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "同样的事物再次出现；按原来的样子再做一次。", "collocations": ["重复一遍", "简单地重复", "完全重复", "重复二十一天"], "usage_note": "Chữ 重 đọc là chóng (lặp lại), KHÔNG đọc là zhòng (nặng)!", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l13_w18", "order": 18, "textbook": "HSK 5 上", "lesson": 13,
+      "hanzi": "断断续续", "pinyin": "duànduàn xùxù",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ láy AABB)", "meaning": "không liên tục, gián đoạn, đứt quãng", "structure": "断断续续地 + 进行 / 说话 / 下雨", "explanation": "Lúc ngắt lúc tiếp, không liền mạch suôn sẻ.", "examples": [{ "chinese": "为此，比赛不得不断断续续地进行。", "pinyin": "Wèicǐ, bǐsài bùdébù duànduàn xùxù de jìnxíng.", "vietnamese": "Vì thế, trận đấu đành phải diễn ra một cách gián đoạn đứt quãng.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "时而中断，时而继续。", "collocations": ["断断续续地进行", "断断续续地说"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l13_w19", "order": 19, "textbook": "HSK 5 上", "lesson": 13,
+      "hanzi": "激烈", "pinyin": "jīliè",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "kịch liệt, sôi nổi, gay gắt", "structure": "激烈的 + 比赛 / 争吵 / 战争 / 运动 / 竞争", "explanation": "Có thế mạnh, căng thẳng và sắc bén (thường miêu tả thi đấu, tranh luận, vận động, đấu tranh).", "examples": [{ "chinese": "缺少了激烈紧张的气氛，连运动员都不满意，更何况看比赛的球迷呢？", "pinyin": "Quēshǎo le jīliè jǐnzhāng de qìfēn, lián yùndòngyuán dōu bù mǎnyì, gèng hékuàng kàn bǐsài de qiúmí ne?", "vietnamese": "Thiếu đi bầu không khí căng thẳng kịch liệt, ngay cả vận động viên còn không hài lòng, huống chi người hâm mộ xem thi đấu?", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "（动作、言论等）剧烈、尖锐紧张。", "collocations": ["激烈的比赛", "激烈争论", "激烈运动", "竞争激烈"], "usage_note": "Xem bảng 词语辨析: 激烈—强烈 (tr.122–123): 激烈 nghiêng về căng thẳng/sắc bén (比赛、争论、运动、竞争), 强烈 nghiêng về mạnh mẽ/mãnh liệt (阳光、香味、反响、要求).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l13_w20", "order": 20, "textbook": "HSK 5 上", "lesson": 13,
+      "hanzi": "气氛", "pinyin": "qìfēn",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "bầu không khí", "structure": "家庭的/政治/节日/学习的/谈话的 + 气氛 / 激烈紧张的气氛", "explanation": "Sắc thái tinh thần, cảm giác bao trùm trong một hoàn cảnh hay tập thể.", "examples": [{ "chinese": "缺少了激烈紧张的气氛。", "pinyin": "Quēshǎo le jīliè jǐnzhāng de qìfēn.", "vietnamese": "Thiếu đi bầu không khí kịch liệt căng thẳng.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "一定环境中给人某种强烈感觉的精神表现或景象。", "collocations": ["气氛轻松愉快", "节日气氛", "学习气氛", "紧张的气氛"], "usage_note": "Chú ý thanh điệu chữ 氛 là thanh 1 (fēn), KHÔNG đọc thanh 4!", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l13_w21", "order": 21, "textbook": "HSK 5 上", "lesson": 13,
+      "hanzi": "何况", "pinyin": "hékuàng",
+      "lesson_usage": { "part_of_speech": "连词 (Liên từ)", "meaning": "huống hồ, huống chi", "structure": "连……都……，(更)何况……呢？ / ……，何况……", "explanation": "Liên từ dùng ngữ khí phản vấn biểu thị tầng nghĩa tăng tiến ('càng không cần nói'), hoặc bổ sung thêm một lý do nữa.", "examples": [{ "chinese": "连运动员都不满意，更何况看比赛的球迷呢？", "pinyin": "Lián yùndòngyuán dōu bù mǎnyì, gèng hékuàng kàn bǐsài de qiúmí ne?", "vietnamese": "Ngay cả vận động viên còn không hài lòng, huống chi là người hâm mộ xem trận đấu?", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "连词，用反问语气表示更进一层，或补充另一种理由。", "collocations": ["更何况", "又何况"], "usage_note": "Xem Chú thích 1 tr.120.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l13_w22", "order": 22, "textbook": "HSK 5 上", "lesson": 13,
+      "hanzi": "球迷", "pinyin": "qiúmí",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "người mê bóng, cổ động viên", "structure": "篮球球迷 / 足球球迷", "explanation": "Người say mê theo dõi các môn thể thao dùng bóng (bóng đá, bóng rổ...).", "examples": [{ "chinese": "连运动员都不满意，更何况看比赛的球迷呢？", "pinyin": "Lián yùndòngyuán dōu bù mǎnyì, gèng hékuàng kàn bǐsài de qiúmí ne?", "vietnamese": "Ngay cả vận động viên cũng không hài lòng, huống chi các cổ động viên xem thi đấu?", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "酷爱球类运动或观看球赛的人。", "collocations": ["足球迷", "篮球迷", "铁杆球迷"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l13_w23", "order": 23, "textbook": "HSK 5 上", "lesson": 13,
+      "hanzi": "工程师", "pinyin": "gōngchéngshī",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "kỹ sư", "structure": "一位工程师 / 软件工程师", "explanation": "Chuyên gia kỹ thuật phụ trách thiết kế, chế tạo hoặc thi công công trình, máy móc.", "examples": [{ "chinese": "有一位工程师甚至专门制造出一种机器，在下面一拉篮筐就能把球弹出来。", "pinyin": "Yǒu yí wèi gōngchéngshī shènzhì zhuānmén zhìzào chū yì zhǒng jīqì, zài xiàmian yì lā lánkuāng jiù néng bǎ qiú tán chulai.", "vietnamese": "Có một kỹ sư thậm chí còn chuyên chế tạo ra một loại máy, ở bên dưới giật giỏ một cái là bóng bật ra được.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "能够独立完成某一专门技术任务的设计、施工工作的专业人员。", "collocations": ["一位工程师", "软件工程师", "高级工程师"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l13_w24", "order": 24, "textbook": "HSK 5 上", "lesson": 13,
+      "hanzi": "机器", "pinyin": "jīqì",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "máy móc, cỗ máy", "structure": "制造机器 / 一台机器 / 安装机器", "explanation": "Thiết bị cơ khí do nhiều bộ phận lắp ghép lại để thực hiện công việc thay sức người.", "examples": [{ "chinese": "有一位工程师甚至专门制造出一种机器。", "pinyin": "Yǒu yí wèi gōngchéngshī shènzhì zhuānmén zhìzào chū yì zhǒng jīqì.", "vietnamese": "Có một vị kỹ sư thậm chí chuyên chế tạo ra một loại máy móc.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "由零部件组装成的能够运转的装置。", "collocations": ["一台机器", "制造机器", "安装机器", "机器人"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l13_w25", "order": 25, "textbook": "HSK 5 上", "lesson": 13, "is_out_of_syllabus": true,
+      "hanzi": "顺畅", "pinyin": "shùnchàng",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "trôi chảy, thông suốt", "structure": "让比赛顺畅起来 / 呼吸顺畅", "explanation": "Diễn ra thuận lợi, liền mạch, không vấp váp trở ngại.", "examples": [{ "chinese": "可是，这些办法都没能让比赛顺畅起来。", "pinyin": "Kěshì, zhèxiē bànfǎ dōu méi néng ràng bǐsài shùnchàng qilai.", "vietnamese": "Thế nhưng, tất cả những cách này đều không thể làm cho trận đấu diễn ra trôi chảy được.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "顺利通畅，没有阻碍。", "collocations": ["比赛顺畅", "交通顺畅", "沟通顺畅"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l13_w26", "order": 26, "textbook": "HSK 5 上", "lesson": 13,
+      "hanzi": "幼儿园", "pinyin": "yòu'éryuán",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "nhà trẻ, trường mẫu giáo", "structure": "上幼儿园 / 一所幼儿园", "explanation": "Cơ sở giáo dục dành cho trẻ em trước tuổi vào tiểu học.", "examples": [{ "chinese": "几年后的一天，一个上幼儿园的小男孩跟着父亲从一群正在进行篮球比赛的人旁边经过。", "pinyin": "Jǐ nián hòu de yì tiān, yí ge shàng yòu'éryuán de xiǎo nánhái gēnzhe fùqīn cóng yì qún zhèngzài jìnxíng lánqiú bǐsài de rén pángbiān jīngguò.", "vietnamese": "Một ngày nọ vài năm sau, một cậu bé học mẫu giáo đi cùng cha ngang qua một nhóm người đang chơi bóng rổ.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "对学龄前儿童进行保育和教育的机构。", "collocations": ["上幼儿园", "一所幼儿园", "幼儿园老师"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l13_w27", "order": 27, "textbook": "HSK 5 上", "lesson": 13,
+      "hanzi": "好奇", "pinyin": "hàoqí",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "hiếu kỳ, tò mò", "structure": "好奇地问 / 对……很好奇 / 好奇心", "explanation": "Thấy lạ và rất muốn tìm hiểu về điều mình chưa biết.", "examples": [{ "chinese": "小男孩好奇地问父亲：“何必这么麻烦呢？把篮筐的底去掉不就行了吗？”", "pinyin": "Xiǎo nánhái hàoqí de wèn fùqīn: “Hébì zhème máfan ne? Bǎ lánkuāng de dǐ qùdiào bú jiù xíng le ma?”", "vietnamese": "Cậu bé tò mò hỏi cha: “Hà tất phải phiền phức thế ạ? Bỏ đáy chiếc giỏ đi chẳng phải là xong rồi sao?”", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "对自己所不了解的事物觉得新奇而感兴趣。", "collocations": ["好奇地问", "好奇心", "充满好奇"], "usage_note": "Chú ý chữ 好 đọc thanh 4 (hào — thích, ham), KHÔNG đọc hǎo!", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l13_w28", "order": 28, "textbook": "HSK 5 上", "lesson": 13,
+      "hanzi": "何必", "pinyin": "hébì",
+      "lesson_usage": { "part_of_speech": "副词 (Phó từ)", "meaning": "hà tất, cần gì (chỉ sự không cần)", "structure": "(S +) 何必 + V/Adj (+ 呢)？", "explanation": "Phó từ dùng trong câu hỏi phản vấn biểu thị hoàn toàn không cần thiết phải làm vậy.", "examples": [{ "chinese": "“何必这么麻烦呢？把篮筐的底去掉不就行了吗？”", "pinyin": "“Hébì zhème máfan ne? Bǎ lánkuāng de dǐ qùdiào bú jiù xíng le ma?”", "vietnamese": "“Hà tất phải rắc rối thế chứ? Bỏ đáy giỏ đi chẳng phải là được rồi sao?”", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "副词，用反问的语气表示不需要、不必。", "collocations": ["何必呢", "何必这么麻烦", "又何必"], "usage_note": "Xem Chú thích 2 tr.121.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l13_w29", "order": 29, "textbook": "HSK 5 上", "lesson": 13,
+      "hanzi": "多亏", "pinyin": "duōkuī",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "may mà (có), nhờ có", "structure": "多亏(了) + 人/事/小句", "explanation": "Biểu thị nhờ sự giúp đỡ của người khác hoặc nhân tố thuận lợi mà tránh được điều xấu hoặc thu được kết quả tốt.", "examples": [{ "chinese": "多亏了他这句话，人们如梦初醒。", "pinyin": "Duōkuī le tā zhè jù huà, rénmen rúmèng-chūxǐng.", "vietnamese": "Nhờ có câu nói này của cậu bé, mọi người như bừng tỉnh cơn mơ.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "副词 (Phó từ)", "meanings": ["may mà, may sao (đứng đầu vế câu hoặc trước vị ngữ)"], "structure": "多亏 + 小句，要不……", "difference_note": "Có thể bỏ 了 và đứng trước cả một mệnh đề (xem Bài tập 3 câu 3 tr.124: 多亏你提醒).", "examples": [{ "chinese": "多亏你提醒，要不我肯定忘了下午还要开会。", "pinyin": "Duōkuī nǐ tíxǐng, yàobù wǒ kěndìng wàng le xiàwǔ hái yào kāihuì.", "vietnamese": "May mà có cậu nhắc nhở, nếu không tôi chắc chắn quên mất chiều nay còn phải họp." }] }
+      ],
+      "chinese_explanation": "幸亏，由于别人的帮助或某种有利因素避免了不幸或得到好处。", "collocations": ["多亏了你", "多亏你提醒", "多亏有你在"], "usage_note": "Xem Chú thích 3 tr.121.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l13_w30", "order": 30, "textbook": "HSK 5 上", "lesson": 13,
+      "hanzi": "连忙", "pinyin": "liánmáng",
+      "lesson_usage": { "part_of_speech": "副词 (Phó từ)", "meaning": "ngay lập tức, vội vàng", "structure": "连忙 + V (连忙找来 / 连忙道歉 / 连忙穿好衣服)", "explanation": "Hành động phản ứng ngay tức khắc, không chậm trễ (thường chỉ hành vi của con người, đã xảy ra).", "examples": [{ "chinese": "一位球员连忙找来一把锯子把篮筐的底锯掉。", "pinyin": "Yí wèi qiúyuán liánmáng zhǎolai yì bǎ jùzi bǎ lánkuāng de dǐ jùdiào.", "vietnamese": "Một cầu thủ vội vàng đi tìm ngay một cái cưa để cưa bỏ đáy chiếc giỏ.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "赶紧，急忙（只用于已发生的动作）。", "collocations": ["连忙找来", "连忙道歉", "连忙起身"], "usage_note": "Chỉ dùng cho động tác có chủ ý đã xảy ra; không dùng cho câu cầu khiến ('请你连忙去' là sai → phải dùng 赶紧/立刻).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l13_w31", "order": 31, "textbook": "HSK 5 上", "lesson": 13,
+      "hanzi": "瞧", "pinyin": "qiáo",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "nhìn, xem (khẩu ngữ)", "structure": "你瞧 / 瞧见 / 瞧得起 / 瞧不起 / 瞧得上 / 瞧不上", "explanation": "Từ khẩu ngữ tương đương với 看 ('nhìn xem'), rất hay đi với bổ ngữ kết quả/khả năng.", "examples": [{ "chinese": "你瞧，困扰人们很长时间的取球问题就这样被一个小孩子解决了。", "pinyin": "Nǐ qiáo, kùnrǎo rénmen hěn cháng shíjiān de qǔqiú wèntí jiù zhèyàng bèi yí ge xiǎo háizi jiějué le.", "vietnamese": "Bạn xem đấy, vấn đề lấy bóng làm phiền mọi người suốt thời gian dài cứ thế được một đứa trẻ giải quyết gọn gàng.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "看（口语，多见于北方话）。", "collocations": ["你瞧", "瞧见", "瞧得起", "瞧不起"], "usage_note": "Phân biệt với 看 (tr.123 Bài tập 2 câu 2): đọc sách phải dùng 看书 (không dùng 瞧书!). 瞧 chỉ dùng cho hành động nhìn ngắm trực quan hoặc cụm 瞧不起/瞧见.", "common_errors": "Sai: '躺着瞧书' → Đúng: '躺着看书'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l13_w32", "order": 32, "textbook": "HSK 5 上", "lesson": 13, "is_out_of_syllabus": true,
+      "hanzi": "困扰", "pinyin": "kùnrǎo",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "làm phiền, gây rối, khiến đau đầu", "structure": "困扰人们 / 受到困扰 / 摆脱困扰", "explanation": "Gây rắc rối, vướng mắc kéo dài làm người ta lo nghĩ khó xử lý.", "examples": [{ "chinese": "困扰人们很长时间的取球问题就这样被一个小孩子解决了。", "pinyin": "Kùnrǎo rénmen hěn cháng shíjiān de qǔqiú wèntí jiù zhèyàng bèi yí ge xiǎo háizi jiějué le.", "vietnamese": "Vấn đề lấy bóng gây đau đầu cho mọi người suốt thời gian dài cứ thế được một đứa bé giải quyết.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["nỗi phiền muộn, sự rắc rối"], "structure": "带来困扰 / 心理困扰", "difference_note": "Làm tân ngữ chỉ bản thân điều gây phiền nhiễu.", "examples": [{ "chinese": "失眠给他的生活带来了很大的困扰。", "pinyin": "Shīmián gěi tā de shēnghuó dàilái le hěn dà de kùnrǎo.", "vietnamese": "Chứng mất ngủ đã mang lại nỗi phiền muộn rất lớn cho cuộc sống của anh ấy." }] }
+      ],
+      "chinese_explanation": "围困搅扰；使处于困境而难以摆脱。", "collocations": ["困扰人们", "带来困扰", "摆脱困扰"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l13_w33", "order": 33, "textbook": "HSK 5 上", "lesson": 13, "is_out_of_syllabus": true,
+      "hanzi": "思维", "pinyin": "sīwéi",
+      "lesson_usage": { "part_of_speech": "名词 / 动词 (Danh từ / Động từ)", "meanings": ["1. (Danh từ) tư duy", "2. (Động từ) suy nghĩ, tư duy"], "meaning": "tư duy; suy nghĩ", "structure": "思维方式 / 打破思维 / 逻辑思维", "explanation": "Quá trình nhận thức, phân tích tổng hợp và suy luận của bộ não.", "examples": [{ "chinese": "说白了，因为我们的思维像篮球一样被篮筐的底挡在了半空中。", "pinyin": "Shuōbái le, yīnwèi wǒmen de sīwéi xiàng lánqiú yíyàng bèi lánkuāng de dǐ dǎng zài le bànkōng zhōng.", "vietnamese": "Nói thẳng ra, là vì tư duy của chúng ta cũng giống như quả bóng rổ, bị đáy giỏ chặn đứng lại giữa lưng chừng.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "在表象、概念的基础上进行分析、综合、判断、推理等认识活动的过程；进行思维活动。", "collocations": ["思维方式", "创新思维", "启发思维"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l13_w34", "order": 34, "textbook": "HSK 5 上", "lesson": 13,
+      "hanzi": "呆", "pinyin": "dāi",
+      "lesson_usage": { "part_of_speech": "形容词 / 动词 (Tính từ / Động từ)", "meanings": ["1. (Tính từ) đần độn, ngây ngốc, cứng nhắc", "2. (Động từ) nán lại, ở lại (cũng viết 待 dāi)"], "meaning": "đần độn, ngu ngốc; nán lại, ở lại", "structure": "(tt) 呆呆地 / 发呆; (đgt) 在家呆一天", "explanation": "Trong bài khóa dùng nghĩa tính từ láy '呆呆地' (một cách cứng nhắc, ngây ngô không linh hoạt); còn có nghĩa động từ 'ở lại' rất hay dùng trong khẩu ngữ.", "examples": [
+        { "chinese": "于是，我们呆呆地去搬梯子、造机器……", "pinyin": "Yúshì, wǒmen dāidāi de qù bān tīzi, zào jīqì……", "vietnamese": "Thế là chúng ta cứ ngây ngô đi khuân thang, chế tạo máy móc...", "from_text": true },
+        { "chinese": "外面下大雨，今天我就在家呆一天吧。", "pinyin": "Wàimian xià dàyǔ, jīntiān wǒ jiù zài jiā dāi yì tiān ba.", "vietnamese": "Ngoài trời mưa to, hôm nay tôi cứ ở lì trong nhà một ngày thôi." }
+      ] },
+      "additional_usages": [], "chinese_explanation": "傻、不灵活；停留、逗留。", "collocations": ["呆呆地", "发呆", "呆一会儿"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l13_w35", "order": 35, "textbook": "HSK 5 上", "lesson": 13,
+      "hanzi": "造成", "pinyin": "zàochéng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "tạo thành, gây ra", "structure": "造成 + 困难 / 影响 / 浪费 / 危害 / 失眠 / 伤害", "explanation": "Gây ra kết quả hoặc hậu quả (đại đa số là hậu quả bất lợi, tiêu cực).", "examples": [{ "chinese": "其实，世界上本来就没有太复杂的事，复杂都是我们自己造成的。", "pinyin": "Qíshí, shìjiè shang běnlái jiù méiyǒu tài fùzá de shì, fùzá dōu shì wǒmen zìjǐ zàochéng de.", "vietnamese": "Thực ra trên đời vốn dĩ không có chuyện gì quá phức tạp, mọi sự phức tạp đều do chính chúng ta tự tạo ra.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "招致或引起（多指不好的结果）。", "collocations": ["造成困难", "造成影响", "造成浪费", "造成伤害"], "usage_note": "Phân biệt với 形成 (tr.123 Bài tập 2 câu 4): 形成 dùng cho tập tục, thói quen, tình thế tự nhiên hình thành (形成风俗/形成习惯); 造成 chủ yếu đi với hậu quả xấu (造成伤害/造成损失).", "common_errors": "Sai: '风俗是怎么造成的？' → Đúng: '风俗是怎么形成的？'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l13_w36", "order": 36, "textbook": "HSK 5 上", "lesson": 13,
+      "hanzi": "仿佛", "pinyin": "fǎngfú",
+      "lesson_usage": { "part_of_speech": "副词 / 动词 (Phó từ / Động từ)", "meanings": ["1. (Phó từ) dường như, tựa hồ", "2. (Động từ) giống như (có thể mang tân ngữ danh từ)"], "meaning": "dường như; giống như", "structure": "(đgt) 生活仿佛篮筐; (phó) 仿佛……(似的)", "explanation": "So sánh ví von hoặc miêu tả cảm giác dường như, tựa hồ giống với điều gì.", "examples": [
+        { "chinese": "生活仿佛篮筐，许多时候，我们需要的只不过是一把锯子，来锯掉那些阻碍我们的“筐底”。", "pinyin": "Shēnghuó fǎngfú lánkuāng, xǔduō shíhou, wǒmen xūyào de zhǐ búguò shì yì bǎ jùzi, lái jùdiào nàxiē zǔ'ài wǒmen de “kuāngdǐ”.", "vietnamese": "Cuộc sống giống như chiếc giỏ rổ, nhiều khi thứ chúng ta cần chẳng qua chỉ là một cái cưa để cưa bỏ những “đáy giỏ” cản trở mình.", "from_text": true },
+        { "chinese": "他一边听，一边在本子上记着什么，仿佛对我的发言挺感兴趣似的。", "pinyin": "Tā yìbiān tīng, yìbiān zài běnzi shang jìzhe shénme, fǎngfú duì wǒ de fāyán tǐng gǎn xìngqù shìde.", "vietnamese": "Anh ấy vừa nghe vừa ghi gì đó vào sổ, dường như rất hứng thú với bài phát biểu của tôi." }
+      ] },
+      "additional_usages": [], "chinese_explanation": "似乎、好像；像、类似。", "collocations": ["仿佛……似的", "仿佛回到童年"], "usage_note": "Chú ý thanh điệu chữ 佛 là thanh 2: fǎngfú!", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l13_w37", "order": 37, "textbook": "HSK 5 上", "lesson": 13, "is_out_of_syllabus": true,
+      "hanzi": "阻碍", "pinyin": "zǔ'ài",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "ngăn cản, cản trở", "structure": "阻碍 + 发展 / 进步 / 我们", "explanation": "Ngăn chặn khiến sự vật không thể tiến lên hoặc phát triển thuận lợi.", "examples": [{ "chinese": "我们需要的只不过是一把锯子，来锯掉那些阻碍我们的“筐底”。", "pinyin": "Wǒmen xūyào de zhǐ búguò shì yì bǎ jùzi, lái jùdiào nàxiē zǔ'ài wǒmen de “kuāngdǐ”.", "vietnamese": "Thứ chúng ta cần chẳng qua chỉ là một cái cưa để cưa bỏ những “đáy giỏ” đang cản trở chúng ta.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["vật cản, trở ngại"], "structure": "遇到阻碍 / 克服阻碍", "difference_note": "Làm tân ngữ chỉ nhân tố gây cản trở.", "examples": [{ "chinese": "这项改革计划遇到了不小的阻碍。", "pinyin": "Zhè xiàng gǎigé jìhuà yùdào le bù xiǎo de zǔ'ài.", "vietnamese": "Kế hoạch cải cách này gặp phải trở ngại không nhỏ." }] }
+      ],
+      "chinese_explanation": "使不能顺利通过或发展；起阻碍作用的事物。", "collocations": ["阻碍发展", "阻碍进步", "遇到阻碍"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    }
+  ],
+  "proper_nouns": [
+    { "hanzi": "马萨诸塞州", "pinyin": "Mǎsàzhūsài Zhōu", "meaning": "Massachusetts (một tiểu bang của Hoa Kỳ)" },
+    { "hanzi": "詹姆斯·奈史密斯", "pinyin": "Zhānmǔshì · Nàishǐmìsī", "meaning": "James Naismith" }
+  ],
+  "collocations_table": [
+    { "relation": "Động từ + Tân ngữ", "head": "缺乏", "partners": "人才 / 教师 / 材料 / 知识 / 工具 / 勇气 / 信心" },
+    { "relation": "Động từ + Tân ngữ", "head": "造成", "partners": "困难 / 印象 / 影响 / 浪费 / 危害 / 失眠 / 紧张" },
+    { "relation": "Định ngữ + Trung tâm ngữ", "head": "激烈的", "partners": "比赛 / 争吵 / 战争 / 运动" },
+    { "relation": "Định ngữ + Trung tâm ngữ", "head": "气氛", "partners": "家庭的 / 政治 / 节日 / 学习的 / 谈话的" },
+    { "relation": "Trạng ngữ + Trung tâm ngữ", "head": "训练", "partners": "认真地 / 紧张地 / 艰苦地 / 严格地" },
+    { "relation": "Trạng ngữ + Trung tâm ngữ", "head": "重复", "partners": "简单地 / 完全 / 准确地" },
+    { "relation": "Trung tâm ngữ + Bổ ngữ", "head": "踩", "partners": "破 / 伤 / 断 / 碎" },
+    { "relation": "Trung tâm ngữ + Bổ ngữ", "head": "瞧", "partners": "见 / 得起 / 不起 / 得上 / 不上" }
+  ],
+  "grammar": [
+    {
+      "title": "何况",
+      "formula": "(1) (连)A 都……，(更)何况 B (呢)？  |  (2) Vế 1，(又)何况 Vế 2 (bổ sung thêm lý do)",
+      "meaning": "Huống hồ, huống chi.",
+      "usage": "1. Liên từ dùng ngữ khí phản vấn biểu thị tầng nghĩa tăng tiến: dựa vào điều đã nêu ở vế trước, kết luận ở vế sau là hiển nhiên 'khỏi cần nói' (thường phối hợp với 更何况 và cuối câu có 呢).\n2. Còn dùng để bổ sung thêm một lý do thuyết phục nữa cho kết luận (thường đi với 又何况 hoặc vế sau không cần dấu hỏi).",
+      "context": "Điểm ngữ pháp trọng tâm rất hay xuất hiện trong cả điền từ và chọn vị trí HSK 5.",
+      "examples": [
+        { "chinese": "……缺少了激烈紧张的气氛，连运动员都不满意，更何况看比赛的球迷呢？", "pinyin": "……Quēshǎo le jīliè jǐnzhāng de qìfēn, lián yùndòngyuán dōu bù mǎnyì, gèng hékuàng kàn bǐsài de qiúmí ne?", "vietnamese": "Thiếu đi bầu không khí kịch liệt căng thẳng, ngay cả vận động viên còn chẳng hài lòng, huống chi là người hâm mộ xem đấu?" },
+        { "chinese": "北京的发展变化太快，我这个土生土长的老北京还常迷路呢，何况你一个外地人。", "pinyin": "Běijīng de fāzhǎn biànhuà tài kuài, wǒ zhège tǔshēng-tǔzhǎng de lǎo Běijīng hái cháng mílù ne, hékuàng nǐ yí ge wàidìrén.", "vietnamese": "Bắc Kinh phát triển thay đổi quá nhanh, người Bắc Kinh gốc như tôi còn hay lạc đường nữa là, huống chi người ngoại tỉnh như cậu." },
+        { "chinese": "上海冬天没有暖气，屋子里冷得让人伸不出手，何况李阳还是病人，自然是受不了的。", "pinyin": "Shànghǎi dōngtiān méiyǒu nuǎnqì, wūzi li lěng de ràng rén shēn bu chū shǒu, hékuàng Lǐ Yáng háishi bìngrén, zìrán shì shòubuliǎo de.", "vietnamese": "Mùa đông Thượng Hải không có lò sưởi, trong phòng lạnh đến mức chẳng thò tay ra nổi, huống hồ Lý Dương lại đang là người bệnh, tất nhiên không chịu nổi." }
+      ],
+      "important_notes": "Phân biệt vị trí đặt 何况: đứng ĐẦU VẾ CÂU THỨ HAI để nối tiếp lập luận (xem Bài tập 3 câu 2 tr.124: 年轻人恐怕都受不了，何况一个有病的老人呢？).",
+      "common_errors": "",
+      "comparison": "Khác với 何必: 何况 là LIÊN TỪ nối 2 vế câu ('huống hồ'), còn 何必 là PHÓ TỪ phản vấn đứng trước động từ/tính từ ('hà tất, cần gì').",
+      "mini_practice": [{ "prompt": "这段山路比较危险，______________________，还是让我来开吧。（何况）", "sample_answer": "你刚学会开车，何况天还下着雨呢", "explanation": "Dùng 何况 bổ sung thêm một lý do nữa khiến người kia không nên lái." }]
+    },
+    {
+      "title": "何必",
+      "formula": "(S +) 何必 + V / Adj (+ 呢)？",
+      "meaning": "Hà tất, cần gì phải... (ngữ khí phản vấn phủ định sự cần thiết).",
+      "usage": "Phó từ đặt trước động từ hoặc tính từ trong câu hỏi phản vấn, mang nghĩa 'không cần thiết phải làm vậy' (= 不必).",
+      "context": "Dùng để khuyên ngăn, bày tỏ thái độ nhẹ nhàng hoặc hơi trách móc trước việc làm rườm rà không đáng.",
+      "examples": [
+        { "chinese": "何必这么麻烦呢？把篮筐的底去掉不就行了吗？", "pinyin": "Hébì zhème máfan ne? Bǎ lánkuāng de dǐ qùdiào bú jiù xíng le ma?", "vietnamese": "Hà tất phải phiền phức thế? Bỏ đáy giỏ đi chẳng phải xong rồi sao?" },
+        { "chinese": "食堂楼下就有个小超市，何必去学校外边呢？", "pinyin": "Shítáng lóuxià jiù yǒu ge xiǎo chāoshì, hébì qù xuéxiào wàibian ne?", "vietnamese": "Dưới tầng nhà ăn có sẵn siêu thị nhỏ rồi, cần gì phải ra tận ngoài trường?" },
+        { "chinese": "你何必亲自送一趟呢？叫个快递不就行了？", "pinyin": "Nǐ hébì qīnzì sòng yí tàng ne? Jiào ge kuàidì bú jiù xíng le?", "vietnamese": "Bạn hà tất phải tự mình mang sang một chuyến? Gọi giao hàng nhanh chẳng phải xong rồi sao?" }
+      ],
+      "important_notes": "Trong câu chữ 把, phó từ 何必 đứng TRƯỚC 把 (xem Bài tập 3 câu 1 tr.124: 何必把时间浪费在这些人的身上？).",
+      "common_errors": "Sai: '把时间何必浪费……' → Đúng: '何必把时间浪费……'.",
+      "comparison": "",
+      "mini_practice": [{ "prompt": "早知道你就有这本书，______________________？（何必）", "sample_answer": "我何必花钱去买呢", "explanation": "Dùng 何必 phản vấn biểu thị không cần thiết phải tốn tiền mua." }]
+    },
+    {
+      "title": "多亏",
+      "formula": "多亏(了) + Người / Sự việc / Mệnh đề，(才…… / 要不……)",
+      "meaning": "Nhờ có, may mà có.",
+      "usage": "Động từ (hoặc phó từ) biểu thị nhờ sự giúp đỡ của người khác hoặc một yếu tố thuận lợi nào đó mà tránh được điều không may hoặc đạt được kết quả tốt đẹp.",
+      "context": "Rất hay phối hợp với vế sau dùng 才 (mới...) hoặc 要不 / 不然 (nếu không thì...).",
+      "examples": [
+        { "chinese": "多亏了他这句话，人们如梦初醒。", "pinyin": "Duōkuī le tā zhè jù huà, rénmen rúmèng-chūxǐng.", "vietnamese": "Nhờ có câu nói này của cậu bé, mọi người như bừng tỉnh cơn mơ." },
+        { "chinese": "赵老师，谢谢您，多亏您给我那瓶药，很管用。", "pinyin": "Zhào lǎoshī, xièxie nín, duōkuī nín gěi wǒ nà píng yào, hěn guǎnyòng.", "vietnamese": "Thầy Triệu, cảm ơn thầy, may nhờ thầy cho em lọ thuốc đó, rất hiệu nghiệm." },
+        { "chinese": "今天搬家多亏有你在，你可帮我大忙了。", "pinyin": "Jīntiān bānjiā duōkuī yǒu nǐ zài, nǐ kě bāng wǒ dàmáng le.", "vietnamese": "Hôm nay chuyển nhà may mà có cậu ở đây, cậu thực sự đã giúp tớ một việc lớn." }
+      ],
+      "important_notes": "Chỉ dùng cho sự việc đã xảy ra với kết quả may mắn/tích cực (đồng nghĩa với 幸亏).",
+      "common_errors": "",
+      "comparison": "",
+      "mini_practice": [{ "prompt": "______________________，要不今天的飞机我准赶不上了。（多亏）", "sample_answer": "多亏你开车送我去机场", "explanation": "多亏 + nguyên nhân may mắn, kết hợp với 要不 nêu hậu quả đã tránh được." }]
+    }
+  ],
+  "comparison_section": {
+    "label": "词语辨析 Phân biệt từ ngữ",
+    "pair": "激烈 — 强烈",
+    "term_a": "激烈 (jīliè)",
+    "term_b": "强烈 (qiángliè)",
+    "similarity": "Đều là tính từ, đều có nghĩa là dữ dội, mạnh mẽ, quyết liệt. VD: 我不顾父母的激烈/强烈反对，偷偷地报考了表演专业。",
+    "differences": [
+      { "criterion": "Sắc thái ngữ nghĩa", "a": "Nghiêng về sự gay gắt, căng thẳng, sắc bén (人类最早什么时候开始用火，一直是学者激烈争论的问题。).", "b": "Nghiêng về sức mạnh mãnh liệt, có lực tác động mạnh (文章发表以后立刻引起了读者的强烈反响。)." },
+      { "criterion": "Đối tượng miêu tả", "a": "Thường dùng miêu tả ngôn luận, cảm xúc xung đột, thi đấu, cạnh tranh, vận động, đấu tranh (人在激烈运动时，会出很多汗。).", "b": "Thường dùng miêu tả ánh sáng, dòng điện, màu sắc, mùi vị, tình cảm, tư tưởng, yêu cầu (这里夏天尽管阳光的照射很强烈，但白天气温很少超过35℃。)." }
+    ]
+  },
+  "texts": [
+    {
+      "id": "t1", "title_zh": "锯掉生活的“筐底”（656字）", "title_vi": "Cưa bỏ \"Đáy giỏ\" cuộc sống",
+      "lines": [
+        { "speaker": "", "chinese": "篮球运动是1891年由美国马萨诸塞州的体育教师詹姆斯·奈史密斯博士发明的。那年的冬天特别冷，奈史密斯所在的训练学校缺乏在室内进行的球类比赛项目，他从当地人把球扔进桃子筐（当地产桃子，各家各户都备有装桃子的专用篮筐）的游戏中得到了启发，将两只篮筐分别安装在体育馆两边看台的栏杆上，学生分为甲乙两队，以足球为比赛工具向篮内投，按得分多少决定输赢。", "pinyin": "Lánqiú yùndòng shì yībājiǔyī nián yóu Měiguó Mǎsàzhūsài Zhōu de tǐyù jiàoshī Zhānmǔshì · Nàishǐmìsī bóshì fāmíng de. Nà nián de dōngtiān tèbié lěng, Nàishǐmìsī suǒzài de xùnliàn xuéxiào quēfá zài shìnèi jìnxíng de qiúlèi bǐsài xiàngmù, tā cóng dāngdìrén bǎ qiú rēngjìn táozi kuāng (dāngdì chǎn táozi, gèjiā gèhù dōu bèiyǒu zhuāng táozi de zhuānyòng lánkuāng) de yóuxì zhōng dédào le qǐfā, jiāng liǎng zhī lánkuāng fēnbié ānzhuāng zài tǐyùguǎn liǎngbiān kàntái de lángān shang, xuésheng fēnwéi jiǎ yǐ liǎng duì, yǐ zúqiú wéi bǐsài gōngjù xiàng lán nèi tóu, àn défēn duōshao juédìng shūyíng.", "vietnamese": "Môn bóng rổ được tiến sĩ James Naismith, giáo viên thể dục ở bang Massachusetts (Mỹ), phát minh vào năm 1891. Mùa đông năm ấy đặc biệt lạnh, trường huấn luyện nơi Naismith dạy thiếu môn thi đấu bóng trong nhà. Ông lấy gợi ý từ trò chơi ném bóng vào sọt đào của người dân địa phương (vùng đó trồng đào, nhà nào cũng có sọt chuyên đựng đào), bèn lắp hai chiếc sọt lên lan can khán đài hai bên nhà thi đấu, chia học sinh thành hai đội Giáp – Ất, lấy bóng đá làm dụng cụ ném vào rổ, dựa vào số điểm ghi được quyết định thắng thua." },
+        { "speaker": "", "chinese": "这项运动很快流行起来。不过，由于栏杆上固定的是真正的筐，每当球投进时，就得有一个人踩着梯子上去把球取出来。这样的行为必须一再地重复，为此，比赛不得不断断续续地进行，缺少了激烈紧张的气氛，连运动员都不满意，更何况看比赛的球迷呢？为了解决这个问题，大家纷纷出主意，想出了很多取球的办法。有一位工程师甚至专门制造出一种机器，在下面一拉篮筐就能把球弹出来。可是，这些办法都没能让比赛顺畅起来。", "pinyin": "Zhè xiàng yùndòng hěn kuài liúxíng qilai. Búguò, yóuyú lángān shang gùdìng de shì zhēnzhèng de kuāng, měidāng qiú tóujìn shí, jiù děi yǒu yí ge rén cǎizhe tīzi shàngqu bǎ qiú qǔ chulai. Zhèyàng de xíngwéi bìxū yízài de chóngfù, wèicǐ, bǐsài bùdébù duànduàn xùxù de jìnxíng, quēshǎo le jīliè jǐnzhāng de qìfēn, lián yùndòngyuán dōu bù mǎnyì, gèng hékuàng kàn bǐsài de qiúmí ne? Wèile jiějué zhège wèntí, dàjiā fēnfēn chū zhǔyi, xiǎngchū le hěn duō qǔqiú de bànfǎ. Yǒu yí wèi gōngchéngshī shènzhì zhuānmén zhìzào chū yì zhǒng jīqì, zài xiàmian yì lā lánkuāng jiù néng bǎ qiú tán chulai. Kěshì, zhèxiē bànfǎ dōu méi néng ràng bǐsài shùnchàng qilai.", "vietnamese": "Môn thể thao này nhanh chóng trở nên thịnh hành. Tuy nhiên, vì thứ gắn trên lan can là chiếc sọt thật nên mỗi khi bóng vào rổ lại phải có một người trèo thang lên lấy bóng ra. Hành động này cứ phải lặp đi lặp lại, khiến trận đấu đành diễn ra đứt quãng, thiếu bầu không khí kịch liệt căng thẳng, đến vận động viên còn bất mãn huống chi cổ động viên xem đấu? Để giải quyết vấn đề này, mọi người thi nhau góp ý, nghĩ ra đủ cách lấy bóng. Có một kỹ sư thậm chí còn chế tạo riêng một cỗ máy, giật giỏ từ dưới là bóng bật ra. Thế nhưng những cách ấy đều không làm trận đấu trôi chảy được." },
+        { "speaker": "", "chinese": "几年后的一天，一个上幼儿园的小男孩跟着父亲从一群正在进行篮球比赛的人旁边经过。看到大人们一次次辛苦地取球，小男孩好奇地问父亲：“何必这么麻烦呢？把篮筐的底去掉不就行了吗？”多亏了他这句话，人们如梦初醒，一位球员连忙找来一把锯子把篮筐的底锯掉。你瞧，困扰人们很长时间的取球问题就这样被一个小孩子解决了。", "pinyin": "Jǐ nián hòu de yì tiān, yí ge shàng yòu'éryuán de xiǎo nánhái gēnzhe fùqīn cóng yì qún zhèngzài jìnxíng lánqiú bǐsài de rén pángbiān jīngguò. Kàndào dàren men yícìcì xīnkǔ de qǔqiú, xiǎo nánhái hàoqí de wèn fùqīn: “Hébì zhème máfan ne? Bǎ lánkuāng de dǐ qùdiào bú jiù xíng le ma?” Duōkuī le tā zhè jù huà, rénmen rúmèng-chūxǐng, yí wèi qiúyuán liánmáng zhǎolai yì bǎ jùzi bǎ lánkuāng de dǐ jùdiào. Nǐ qiáo, kùnrǎo rénmen hěn cháng shíjiān de qǔqiú wèntí jiù zhèyàng bèi yí ge xiǎo háizi jiějué le.", "vietnamese": "Một ngày nọ vài năm sau, một cậu bé học mẫu giáo đi theo bố ngang qua một nhóm người đang đấu bóng rổ. Thấy người lớn hết lần này đến lần khác vất vả lấy bóng, cậu bé tò mò hỏi bố: “Hà tất phải phiền phức thế ạ? Bỏ đáy giỏ đi chẳng phải xong rồi sao?” Nhờ câu nói này của cậu, mọi người như bừng tỉnh cơn mơ; một cầu thủ lập tức tìm ngay một cái cưa để cưa bỏ đáy giỏ. Bạn xem, vấn đề lấy bóng làm đau đầu mọi người suốt thời gian dài cứ thế được một đứa trẻ giải quyết." },
+        { "speaker": "", "chinese": "去掉篮筐的底，本是一件简单的事，可为什么那么多人都没有想到呢？说白了，因为我们的思维像篮球一样被篮筐的底挡在了半空中。于是，我们呆呆地去搬梯子、造机器……其实，世界上本来就没有太复杂的事，复杂都是我们自己造成的。生活仿佛篮筐，许多时候，我们需要的只不过是一把锯子，来锯掉那些阻碍我们的“筐底”。", "pinyin": "Qùdiào lánkuāng de dǐ, běn shì yí jiàn jiǎndān de shì, kě wèishénme nàme duō rén dōu méiyǒu xiǎngdào ne? Shuōbái le, yīnwèi wǒmen de sīwéi xiàng lánqiú yíyàng bèi lánkuāng de dǐ dǎng zài le bànkōng zhōng. Yúshì, wǒmen dāidāi de qù bān tīzi, zào jīqì…… Qíshí, shìjiè shang běnlái jiù méiyǒu tài fùzá de shì, fùzá dōu shì wǒmen zìjǐ zàochéng de. Shēnghuó fǎngfú lánkuāng, xǔduō shíhou, wǒmen xūyào de zhǐ búguò shì yì bǎ jùzi, lái jùdiào nàxiē zǔ'ài wǒmen de “kuāngdǐ”.", "vietnamese": "Bỏ đáy chiếc giỏ vốn là việc vô cùng đơn giản, nhưng vì sao biết bao nhiêu người lại chẳng nghĩ ra? Nói thẳng ra, vì tư duy của chúng ta cũng giống như quả bóng rổ, bị đáy giỏ chặn đứng lại giữa lưng chừng. Thế là chúng ta cứ ngây ngô đi khuân thang, chế máy móc... Thực ra trên đời vốn không có chuyện gì quá phức tạp, mọi sự phức tạp đều do chính chúng ta tự tạo nên. Cuộc sống tựa như chiếc giỏ rổ, nhiều lúc thứ ta cần chẳng qua chỉ là một cái cưa, để cưa bỏ những “đáy giỏ” đang cản trở mình." }
+      ]
+    }
+  ],
+  "reading_questions": [
+    { "question_zh": "最初的篮球比赛为什么不够顺畅、缺少激烈紧张的气氛？", "question_vi": "Vì sao các trận bóng rổ thuở sơ khai chưa đủ trôi chảy và thiếu bầu không khí kịch liệt căng thẳng?", "answer_zh": "因为栏杆上固定的是有底的真正桃子筐，每当球投进时，就得有人踩着梯子上去取球，导致比赛不得不一再重复取球、断断续续地进行。", "answer_vi": "Vì thứ gắn trên lan can là sọt đào thật có đáy, hễ bóng lọt rổ lại phải có người trèo thang lấy bóng ra, khiến trận đấu lặp đi lặp lại việc lấy bóng và bị gián đoạn liên tục." },
+    { "question_zh": "作者用“锯掉生活的‘筐底’”想告诉我们什么道理？", "question_vi": "Qua hình ảnh “cưa bỏ ‘đáy giỏ’ cuộc sống”, tác giả muốn nhắn gửi đạo lý gì?", "answer_zh": "生活中很多复杂的问题其实本来很简单，只是我们的思维被固有观念挡住了；只要敢于打破思维定式，锯掉阻碍我们的“筐底”，难题往往就能迎刃而解。", "answer_vi": "Nhiều rắc rối trong cuộc sống thực ra vốn rất đơn giản, chỉ tại tư duy ta bị lối mòn cũ chặn lại; chỉ cần mạnh dạn phá bỏ định kiến, cưa bỏ “đáy giỏ” cản trở mình, vấn đề khó sẽ dễ dàng được giải quyết." }
+  ],
+  "exercises": [
+    {
+      "id": "h5s13_ex1", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.123 (练习1)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ điền vào chỗ trống: “一觉醒来发现已经8点多了，李阳______穿好衣服往公司赶。”",
+      "options": ["连忙", "仿佛", "一再", "何必"],
+      "answer": "连忙",
+      "explanation": "连忙 (vội vàng, lập tức) miêu tả phản ứng hành động ngay tức thì khi phát hiện trễ giờ.",
+      "review_tip": "Ôn phó từ 连忙 (chỉ dùng cho động tác có chủ ý đã xảy ra)."
+    },
+    {
+      "id": "h5s13_ex2", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.123 (词语辨析 做一做)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “这种蔬菜有______的香味，它既可以生吃，又可熟食。”",
+      "options": ["强烈", "激烈", "顺畅", "好奇"],
+      "answer": "强烈",
+      "explanation": "Miêu tả mùi hương nồng đậm (香味), ánh sáng, màu sắc, tình cảm hay yêu cầu → dùng 强烈 (không dùng 激烈).",
+      "review_tip": "Ôn bảng 词语辨析: 激烈—强烈 tr.122–123."
+    },
+    {
+      "id": "h5s13_ex3", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.123 (词语辨析 做一做)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “明天我去一家公司面试，听说竞争很______。”",
+      "options": ["激烈", "强烈", "断断续续", "呆"],
+      "answer": "激烈",
+      "explanation": "竞争 (cạnh tranh), 比赛 (thi đấu), 争论 (tranh luận) mang sắc thái căng thẳng, gay gắt → dùng 激烈.",
+      "review_tip": "Cụm cố định: 竞争激烈 / 比赛激烈 / 激烈争论."
+    },
+    {
+      "id": "h5s13_ex4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.123 (练习2)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “要整理的东西太多了，你看，这个箱子根本______不下。”",
+      "options": ["装", "安装", "踩", "瞧"],
+      "answer": "装",
+      "explanation": "装 (đựng, chứa đồ vào trong hộp/thùng): 装不下 (đựng không hết). 安装 nghĩa là 'lắp đặt máy móc/phần mềm', không dùng để đựng đồ vào thùng.",
+      "review_tip": "Phân biệt 装 (đựng) vs 安装 (lắp đặt)."
+    },
+    {
+      "id": "h5s13_ex5", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.123 (练习2)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “你们知道中国人除夕夜守岁、放鞭炮的风俗是怎么______的吗？”",
+      "options": ["形成", "造成", "启发", "重复"],
+      "answer": "形成",
+      "explanation": "形成 (hình thành) dùng cho phong tục, thói quen, hoàn cảnh phát triển tự nhiên. 造成 thường dẫn đến hậu quả xấu (造成伤害/造成困难).",
+      "review_tip": "Phân biệt 形成 (hình thành phong tục/thói quen) vs 造成 (gây ra hậu quả xấu)."
+    },
+    {
+      "id": "h5s13_ex6", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.124 (练习3 Chọn vị trí)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn vị trí thích hợp cho “何必” trong câu: “您 A 多画点儿画儿多好，B 把时间 C 浪费在这些人的身上 D？”",
+      "options": ["B (何必把时间浪费在……)", "A (您何必多画点儿画儿……)", "C (把时间何必浪费……)", "D (身上何必？)"],
+      "answer": "B (何必把时间浪费在……)",
+      "explanation": "Phó từ phản vấn 何必 đặt ở đầu vế câu thứ hai, TRƯỚC giới từ 把 → '何必把时间浪费在这些人的身上？'.",
+      "review_tip": "Ôn Chú thích 2 tr.121: 何必."
+    },
+    {
+      "id": "h5s13_ex7", "type": "grammar_mc", "level": "Vận dụng", "origin_tag": "Sách gốc tr.124 (练习3 Chọn vị trí)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn vị trí thích hợp cho “何况” trong câu: “A 年轻人 B 恐怕都受不了，C 一个 D 有病的老人呢？”",
+      "options": ["C (，何况一个有病的老人呢？)", "A (何况年轻人……)", "B (年轻人何况恐怕……)", "D (一个何况有病的老人呢？)"],
+      "answer": "C (，何况一个有病的老人呢？)",
+      "explanation": "Liên từ tăng tiến 何况 đứng ở đầu vế thứ hai sau dấu phẩy để nhấn mạnh kết luận hiển nhiên hơn ('người trẻ còn e không chịu nổi, huống chi cụ già đang ốm?').",
+      "review_tip": "Ôn Chú thích 1 tr.120: 何况."
+    },
+    {
+      "id": "h5s13_ex8", "type": "context_mc", "level": "Vận dụng", "origin_tag": "Ôn tập Bài 12 (HSK 5 上 tr.112–113)", "mistake_category": "Ngữ pháp",
+      "prompt": "Ôn tập Bài 12 — Chọn đáp án đúng: “在很大______上，一个人的成功取决于他能否打破固有思维。”",
+      "options": ["程度", "背景", "地位", "用途"],
+      "answer": "程度",
+      "explanation": "Cụm cố định Bài 12: '在很大程度上' (ở một mức độ rất lớn).",
+      "review_tip": "Ôn Chú thích 2 Bài 12: 程度."
+    },
+    {
+      "id": "h5s13_ex9", "type": "context_mc", "level": "Vận dụng", "origin_tag": "Ôn tập Bài 11 & Bài 12 (HSK 5 上)", "mistake_category": "Từ vựng",
+      "prompt": "Ôn tập Bài 12 — Chọn đáp án đúng: “这个城市的交通非常______，市民出行十分方便。”",
+      "options": ["发达", "发展", "持续", "相当"],
+      "answer": "发达",
+      "explanation": "Đứng sau phó từ mức độ 非常 miêu tả hệ thống giao thông phát triển ở trình độ cao → dùng tính từ 发达.",
+      "review_tip": "Ôn bảng 词语辨析 Bài 12: 发达—发展."
+    }
+  ]
+}

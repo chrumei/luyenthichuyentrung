@@ -1,0 +1,1086 @@
+{
+  "id": "hsk4xia_l19",
+  "book_id": "hsk4xia",
+  "textbook": "HSK 4 下",
+  "lesson_number": 19,
+  "title_zh": "生活的味道",
+  "title_vi": "Hương vị của cuộc sống",
+  "pdf_pages": "Trang 123–133 (Chuẩn HSK4 下.pdf)",
+  "source_status": "verified_textbook",
+  "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"],
+  "vocabulary": [
+    {
+      "id": "hsk4x_l19_w01", "order": 1, "textbook": "HSK 4 下", "lesson": 19,
+      "hanzi": "学期", "pinyin": "xuéqī",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "học kỳ",
+        "structure": "下个学期 / 这个学期 / 新学期",
+        "explanation": "Khoảng thời gian học tập theo quy định trong một năm học ở nhà trường.",
+        "examples": [
+          { "chinese": "我希望下个学期在这里继续学习，请问还需要重新申请吗？", "pinyin": "Wǒ xīwàng xià ge xuéqī zài zhèlǐ jìxù xuéxí, qǐngwèn hái xūyào chóngxīn shēnqǐng ma?", "vietnamese": "Em hy vọng học kỳ sau tiếp tục học ở đây, xin hỏi có cần đăng ký lại không ạ?", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "学校教学年度中划分的阶段，通常一学年分为两个学期。",
+      "collocations": ["下个学期", "新学期", "开学", "学期结束"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l19_w02", "order": 2, "textbook": "HSK 4 下", "lesson": 19,
+      "hanzi": "出生", "pinyin": "chūshēng",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "ra đời, sinh ra",
+        "structure": "出生年月 / 出生于 + Năm/Nơi chốn",
+        "explanation": "Chỉ thời điểm hoặc địa điểm một người được sinh ra đời.",
+        "examples": [
+          { "chinese": "给你表格，出生年月、性别、护照号码都要填，还有联系地址、联系电话。", "pinyin": "Gěi nǐ biǎogé, chūshēng nián yuè, xìngbié, hùzhào hàomǎ dōu yào tián, hái yǒu liánxì dìzhǐ, liánxì diànhuà.", "vietnamese": "Đưa em tờ đơn đây, ngày tháng năm sinh, giới tính, số hộ chiếu đều phải điền, còn cả địa chỉ liên hệ và số điện thoại liên hệ nữa.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "胎儿从母体中分离出来，开始生命。",
+      "collocations": ["出生年月", "出生日期", "出生地点", "在中国出生"],
+      "usage_note": "Phân biệt: 出生 (chūshēng - sinh ra đời) vs 出身 (chūshēn - xuất thân gia đình/tầng lớp).",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l19_w03", "order": 3, "textbook": "HSK 4 下", "lesson": 19,
+      "hanzi": "性别", "pinyin": "xìngbié",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "giới tính",
+        "structure": "填写性别 / 性别：男/女",
+        "explanation": "Sự phân biệt nam hay nữ của con người (hoặc đực/cái).",
+        "examples": [
+          { "chinese": "给你表格，出生年月、性别、护照号码都要填。", "pinyin": "Gěi nǐ biǎogé, chūshēng nián yuè, xìngbié, hùzhào hàomǎ dōu yào tián.", "vietnamese": "Đưa em mẫu đơn, năm tháng sinh, giới tính, số hộ chiếu đều phải điền.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "雌雄或男女的分别。",
+      "collocations": ["填写性别", "性别不限", "姓名和性别"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l19_w04", "order": 4, "textbook": "HSK 4 下", "lesson": 19,
+      "hanzi": "道歉", "pinyin": "dào qiàn",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ ly hợp)",
+        "meaning": "xin lỗi",
+        "structure": "向/跟 + Ai + 道歉 / 不用道歉 / 道个歉",
+        "explanation": "Bày tỏ lời xin lỗi, nhận sai với ai đó.",
+        "examples": [
+          { "chinese": "没关系，不用道歉，谁都有粗心填错的时候。", "pinyin": "Méi guānxi, búyòng dào qiàn, shéi dōu yǒu cūxīn tiáncuò de shíhou.", "vietnamese": "Không sao đâu, không cần xin lỗi, ai cũng có lúc bất cẩn điền nhầm mà.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "表示歉意，特指认错。",
+      "collocations": ["向……道歉", "跟……道歉", "不用道歉", "道个歉"],
+      "usage_note": "Là động từ ly hợp, KHÔNG mang tân ngữ trực tiếp phía sau! Muốn nói xin lỗi ai phải dùng giới từ 向 hoặc 跟: 向您道歉.",
+      "common_errors": "Sai: '我道歉你' → Đúng: '我向你道歉 / 我跟你道歉'.",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l19_w05", "order": 5, "textbook": "HSK 4 下", "lesson": 19,
+      "hanzi": "打印", "pinyin": "dǎyìn",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "in",
+        "structure": "打印 + 材料/文件/申请表 / 打印机",
+        "explanation": "In tài liệu, văn bản từ máy tính ra giấy bằng máy in.",
+        "examples": [
+          { "chinese": "申请表都被别人拿走了，我给你重新打印一份，你等一下。", "pinyin": "Shēnqǐngbiǎo dōu bèi biérén názǒu le, wǒ gěi nǐ chóngxīn dǎyìn yí fèn, nǐ děng yíxià.", "vietnamese": "Đơn đăng ký bị người khác lấy hết rồi, cô in lại cho em một bản, em chờ chút nhé.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "把电脑中的文字、图像等通过打印机印在纸上。",
+      "collocations": ["打印材料", "打印一份", "打印机", "黑白打印"],
+      "usage_note": "Phân biệt với 复印: 打印 là in từ file điện tử (máy tính); 复印 là photo/sao chụp từ bản giấy có sẵn.",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l19_w06", "order": 6, "textbook": "HSK 4 下", "lesson": 19,
+      "hanzi": "复印", "pinyin": "fùyìn",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "photocopy, sao chụp",
+        "structure": "复印 + 护照/身份证/资料 / 复印件",
+        "explanation": "Sao chụp văn bản, giấy tờ từ bản gốc sang bản sao bằng máy photocopy.",
+        "examples": [
+          { "chinese": "请把你的护照给我，我们要把护照复印一下。", "pinyin": "Qǐng bǎ nǐ de hùzhào gěi wǒ, wǒmen yào bǎ hùzhào fùyìn yíxià.", "vietnamese": "Vui lòng đưa hộ chiếu của em cho cô, chúng tôi cần photo hộ chiếu một chút.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "利用复印机把文字、图画等按原样复制出来。",
+      "collocations": ["复印护照", "复印件", "复印机", "复印两份"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l19_w07", "order": 7, "textbook": "HSK 4 下", "lesson": 19,
+      "hanzi": "饺子", "pinyin": "jiǎozi",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "bánh chẻo, sủi cảo",
+        "structure": "包饺子 / 吃饺子 / 羊肉饺子",
+        "explanation": "Món ăn truyền thống Trung Quốc vỏ bột mì nhân thịt rau, thường luộc hoặc hấp.",
+        "examples": [
+          { "chinese": "没关系，我想给你做点儿羊肉饺子，刚才用刀切肉的时候把手弄破了。", "pinyin": "Méi guānxi, wǒ xiǎng gěi nǐ zuò diǎnr yángròu jiǎozi, gāngcái yòng dāo qiē ròu de shíhou bǎ shǒu nòngpò le.", "vietnamese": "Không sao, em muốn làm chút sủi cảo thịt cừu cho anh, vừa nãy dùng dao thái thịt làm đứt tay.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "中国传统面食，用薄面皮包馅煮熟而成。",
+      "collocations": ["包饺子", "吃饺子", "羊肉饺子", "煮饺子"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l19_w08", "order": 8, "textbook": "HSK 4 下", "lesson": 19,
+      "hanzi": "刀", "pinyin": "dāo",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "con dao",
+        "structure": "一把刀 / 用刀切肉 / 水果刀",
+        "explanation": "Dụng cụ dùng để cắt, thái, gọt.",
+        "examples": [
+          { "chinese": "刚才用刀切肉的时候把手弄破了。", "pinyin": "Gāngcái yòng dāo qiē ròu de shíhou bǎ shǒu nòngpò le.", "vietnamese": "Vừa nãy lúc dùng dao thái thịt đã làm đứt tay.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "用来切、割、削、砍、刺的器具。",
+      "collocations": ["一把刀", "菜刀", "水果刀", "刀叉"],
+      "usage_note": "Lượng từ chuẩn cho dao là 把 (一把刀).",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l19_w09", "order": 9, "textbook": "HSK 4 下", "lesson": 19,
+      "hanzi": "破", "pinyin": "pò",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)",
+        "meaning": "bị đứt, bị thủng, rách, vỡ",
+        "structure": "把手弄破了 / 衣服破了 / 碗打破了",
+        "explanation": "Trong bài khóa 2, làm bổ ngữ kết quả chỉ da bị rách/đứt chảy máu hoặc đồ vật không còn nguyên vẹn.",
+        "examples": [
+          { "chinese": "刚才用刀切肉的时候把手弄破了。", "pinyin": "Gāngcái yòng dāo qiē ròu de shíhou bǎ shǒu nòngpò le.", "vietnamese": "Vừa nãy lúc dùng dao thái thịt làm rách tay mất rồi.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Động từ)",
+          "meanings": ["phá vỡ (kỷ lục), đánh bại", "tiêu xài (phá tiền lẻ)"],
+          "structure": "破纪录 / 打破安静 / 破案",
+          "difference_note": "Khi làm động từ có thể mang tân ngữ như 破纪录 (phá kỷ lục), 破案 (phá án).",
+          "examples": [
+            { "chinese": "这位年轻的运动员打破了世界纪录。", "pinyin": "Zhè wèi niánqīng de yùndòngyuán dǎpòle shìjiè jìlù.", "vietnamese": "Vận động viên trẻ tuổi này đã phá vỡ kỷ lục thế giới." }
+          ]
+        }
+      ],
+      "chinese_explanation": "完整的事物受到损伤变得不完整；作动词指突破、打破。",
+      "collocations": ["弄破", "打破", "破衣服", "破纪录"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l19_w10", "order": 10, "textbook": "HSK 4 下", "lesson": 19,
+      "hanzi": "脱", "pinyin": "tuō",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "cởi ra",
+        "structure": "脱衣服 / 脱鞋 / 把衣服脱下来",
+        "explanation": "Cởi bỏ quần áo, giày dép, tất, mũ... khỏi cơ thể (trái nghĩa: 穿).",
+        "examples": [
+          { "chinese": "衣服上也有一点儿血，你把衣服脱下来，我给你洗洗。", "pinyin": "Yīfu shang yě yǒu yìdiǎnr xiě, nǐ bǎ yīfu tuō xialai, wǒ gěi nǐ xǐxi.", "vietnamese": "Trên áo cũng dính một chút máu, em cởi áo ra để anh giặt cho.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Nghĩa mở rộng: rụng, thoát ly)",
+          "meanings": ["rụng (tóc), bong (da)", "thoát khỏi (nguy hiểm)"],
+          "structure": "脱发 / 脱离危险",
+          "difference_note": "Chỉ sự tách rời, rơi rụng hoặc thoát khỏi tình huống nào đó.",
+          "examples": [
+            { "chinese": "经过医生抢救，病人已经脱离了危险。", "pinyin": "Jīngguò yīshēng qiǎngjiù, bìngrén yǐjīng tuōlíle wēixiǎn.", "vietnamese": "Sau khi được bác sĩ cấp cứu, bệnh nhân đã qua cơn nguy kịch." }
+          ]
+        }
+      ],
+      "chinese_explanation": "取下、除去穿在身上的衣物；也指脱落、脱离。",
+      "collocations": ["脱衣服", "脱鞋", "脱下来", "脱离"],
+      "usage_note": "Động từ đối lập với 穿 (mặc quần áo, đi giày) là 脱; còn tháo kính/đồng hồ (đối lập với 戴) thường dùng 摘 (zhāi).",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l19_w11", "order": 11, "textbook": "HSK 4 下", "lesson": 19,
+      "hanzi": "理发", "pinyin": "lǐfà",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ ly hợp)",
+        "meaning": "cắt tóc",
+        "structure": "去理发 / 理发店 / 理发师 / 理了个发",
+        "explanation": "Cắt, tỉa, gội và tạo kiểu tóc.",
+        "examples": [
+          { "chinese": "我常去的那家理发店附近有个餐厅，那里的包子很好吃，我一会儿去买一点儿。", "pinyin": "Wǒ cháng qù de nà jiā lǐfàdiàn fùjìn yǒu ge cāntīng, nàli de bāozi hěn hǎochī, wǒ yíhuìr qù mǎi yìdiǎnr.", "vietnamese": "Gần tiệm cắt tóc anh hay đi có một nhà hàng, bánh bao ở đó rất ngon, lát anh đi mua một ít.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "修剪、梳理头发。",
+      "collocations": ["理发店", "理发师", "去理发", "理了个发"],
+      "usage_note": "Chữ 发 là chữ đa âm: trong 理发 / 头发 đọc thanh 4 (fà - tóc); trong 发生 / 发展 / 沙发 đọc thanh 1 (fā)!",
+      "common_errors": "Đọc nhầm 理发 thành lǐfā (đúng là lǐfà).",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l19_w12", "order": 12, "textbook": "HSK 4 下", "lesson": 19,
+      "hanzi": "包子", "pinyin": "bāozi",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "bánh bao",
+        "structure": "买包子 / 吃包子 / 肉包子",
+        "explanation": "Món bánh bột mì lên men bọc nhân thịt hoặc rau rồi hấp chín.",
+        "examples": [
+          { "chinese": "那里的包子很好吃，我一会儿去买一点儿。", "pinyin": "Nàli de bāozi hěn hǎochī, wǒ yíhuìr qù mǎi yìdiǎnr.", "vietnamese": "Bánh bao ở đó rất ngon, lát nữa anh đi mua một chút.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "用发酵面团包馅蒸熟的食品。",
+      "collocations": ["吃包子", "买包子", "小笼包", "肉包子"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l19_w13", "order": 13, "textbook": "HSK 4 下", "lesson": 19,
+      "hanzi": "零钱", "pinyin": "língqián",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "tiền lẻ",
+        "structure": "十几块零钱 / 换零钱 / 带零钱",
+        "explanation": "Tiền mặt có mệnh giá nhỏ, tiện chi tiêu lặt vặt.",
+        "examples": [
+          { "chinese": "好吧，我衣服口袋里有十几块零钱，买包子应该够。", "pinyin": "Hǎo ba, wǒ yīfu kǒudai li yǒu shíjǐ kuài língqián, mǎi bāozi yīnggāi gòu.", "vietnamese": "Được thôi, trong túi áo em có mười mấy tệ tiền lẻ, mua bánh bao chắc đủ.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "面额较小的货币；零星的钱。",
+      "collocations": ["换零钱", "找零钱", "十几块零钱", "带零钱"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l19_w14", "order": 14, "textbook": "HSK 4 下", "lesson": 19,
+      "hanzi": "打招呼", "pinyin": "dǎ zhāohu",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ ly hợp)",
+        "meaning": "chào hỏi, chào",
+        "structure": "跟/向/和 + Ai + 打招呼 / 打个招呼",
+        "explanation": "Dùng lời nói hoặc cử chỉ (vẫy tay, gật đầu) chào hỏi khi gặp hoặc chia tay ai đó.",
+        "examples": [
+          { "chinese": "我早上跟你打招呼，你没看见。想不到又在这儿碰见你了。", "pinyin": "Wǒ zǎoshang gēn nǐ dǎ zhāohu, nǐ méi kànjiàn. Xiǎng bu dào yòu zài zhèr pèngjiàn nǐ le.", "vietnamese": "Sáng nay mình chào cậu mà cậu không thấy. Không ngờ lại gặp cậu ở đây.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Nghĩa mở rộng: báo trước, nhắn trước)",
+          "meanings": ["báo trước một tiếng, thông báo trước"],
+          "structure": "提前打声招呼 / 没打招呼就走了",
+          "difference_note": "Trong giao tiếp/công việc, 打招呼 còn có nghĩa là nói trước/báo trước cho người khác biết để họ chuẩn bị.",
+          "examples": [
+            { "chinese": "你要是明天不能来上班，记得提前跟经理打个招呼。", "pinyin": "Nǐ yàoshi míngtiān bù néng lái shàngbān, jìde tíqián gēn jīnglǐ dǎ ge zhāohu.", "vietnamese": "Nếu ngày mai cậu không đi làm được, nhớ báo trước với giám đốc một tiếng." }
+          ]
+        }
+      ],
+      "chinese_explanation": "用语言或动作表示问候；也指事先通知、嘱咐。",
+      "collocations": ["跟……打招呼", "打个招呼", "提前打招呼"],
+      "usage_note": "Động từ ly hợp: KHÔNG nói '打招呼他' → phải dùng '跟他打招呼' hoặc '向他打招呼'.",
+      "common_errors": "Sai: '早上我打招呼你了' → Đúng: '早上我跟你打招呼了'.",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l19_w15", "order": 15, "textbook": "HSK 4 下", "lesson": 19,
+      "hanzi": "戴", "pinyin": "dài",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "đeo, mang, đội",
+        "structure": "戴眼镜 / 戴帽子 / 戴手表 / 戴手套",
+        "explanation": "Đặt phụ kiện, đồ trang sức lên đầu, mặt, cổ, tay (kính, mũ, khẩu trang, đồng hồ, nhẫn, găng tay, khăn quàng).",
+        "examples": [
+          { "chinese": "真是对不起，我不是故意的，今天早上我忘戴眼镜了，看不清楚。", "pinyin": "Zhēn shì duìbuqǐ, wǒ bú shì gùyì de, jīntiān zǎoshang wǒ wàng dài yǎnjìng le, kàn bu qīngchu.", "vietnamese": "Thật sự xin lỗi, mình không cố ý đâu, sáng nay mình quên đeo kính nên nhìn không rõ.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "把东西加在头、面、颈、手等处。",
+      "collocations": ["戴眼镜", "戴帽子", "戴手表", "戴口罩"],
+      "usage_note": "Phân biệt: 穿 (mặc quần áo, đi giày, đi tất) vs 戴 (đeo kính, đội mũ, đeo đồng hồ/nhẫn) vs 带 (mang theo bên người).",
+      "common_errors": "Nhầm lẫn đồng âm giữa 戴 (đeo lên người: 戴眼镜) và 带 (mang theo: 带雨伞, 带零钱).",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l19_w16", "order": 16, "textbook": "HSK 4 下", "lesson": 19,
+      "hanzi": "眼镜", "pinyin": "yǎnjìng",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "mắt kính, kính mắt",
+        "structure": "一副眼镜 / 戴眼镜 / 太阳眼镜",
+        "explanation": "Dụng cụ đeo trước mắt để điều chỉnh thị lực hoặc chắn nắng.",
+        "examples": [
+          { "chinese": "今天早上我忘戴眼镜了，看不清楚。", "pinyin": "Jīntiān zǎoshang wǒ wàng dài yǎnjìng le, kàn bu qīngchu.", "vietnamese": "Sáng nay mình quên đeo kính nên nhìn không rõ.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "戴在眼睛前面用来矫正视力或保护眼睛的镜片器具。",
+      "collocations": ["一副眼镜", "戴眼镜", "近视眼镜", "太阳眼镜"],
+      "usage_note": "Phân biệt chặt chẽ với 眼睛 (yǎnjing - đôi mắt, thanh nhẹ ở âm 2); 眼镜 đọc thanh 4 (yǎnjìng)!",
+      "common_errors": "Rất hay viết nhầm chữ 镜 (bộ kim 金 - kính) thành 睛 (bộ mục 目 - mắt).",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l19_w17", "order": 17, "textbook": "HSK 4 下", "lesson": 19,
+      "hanzi": "舞蹈", "pinyin": "wǔdǎo",
+      "is_out_of_syllabus": true,
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "điệu múa, nghệ thuật múa",
+        "structure": "中国舞蹈 / 舞蹈动作 / 学舞蹈",
+        "explanation": "Nghệ thuật biểu diễn bằng động tác cơ thể theo nhịp điệu âm nhạc (từ ngoài đề cương HSK 4 có dấu *).",
+        "examples": [
+          { "chinese": "难道你以前在你们国家就学过中国舞蹈吗？", "pinyin": "Nándào nǐ yǐqián zài nǐmen guójiā jiù xuéguo Zhōngguó wǔdǎo ma?", "vietnamese": "Chẳng lẽ trước đây ở nước cậu, cậu đã từng học múa Trung Quốc rồi à?", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "以有节奏的动作为主要表现手段的艺术形式。",
+      "collocations": ["中国舞蹈", "舞蹈动作", "舞蹈演员", "民族舞蹈"],
+      "usage_note": "Lưu ý: 舞蹈 là danh từ (không nói 舞蹈一下; muốn nói nhảy múa dùng 跳舞 hoặc 跳中国舞).",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l19_w18", "order": 18, "textbook": "HSK 4 下", "lesson": 19,
+      "hanzi": "国籍", "pinyin": "guójí",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "quốc tịch",
+        "structure": "与国籍无关 / 中国国籍 / 填写国籍",
+        "explanation": "Tư cách công dân thuộc về một quốc gia nào đó.",
+        "examples": [
+          { "chinese": "再说，舞蹈不仅是一门艺术，也是一种“语言”，这种语言与国籍无关，无论哪个国家的人都能看懂。", "pinyin": "Zàishuō, wǔdǎo bùjǐn shì yì mén yìshù, yě shì yì zhǒng “yǔyán”, zhè zhǒng yǔyán yǔ guójí wúguān, wúlùn nǎ ge guójiā de rén dōu néng kàndǒng.", "vietnamese": "Hơn nữa, múa không chỉ là một môn nghệ thuật mà còn là một loại “ngôn ngữ”, ngôn ngữ này không liên quan đến quốc tịch, người nước nào cũng có thể xem hiểu.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "一个人属于某一个国家的国民资格。",
+      "collocations": ["与国籍无关", "中国国籍", "改变国籍", "不同国籍"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l19_w19", "order": 19, "textbook": "HSK 4 下", "lesson": 19,
+      "hanzi": "抬", "pinyin": "tái",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "giơ lên, đưa lên, ngẩng lên",
+        "structure": "抬胳膊 / 抬腿 / 抬头",
+        "explanation": "Trong bài khóa 3, chỉ động tác nâng một bộ phận cơ thể (cánh tay, chân, đầu) hướng lên trên.",
+        "examples": [
+          { "chinese": "你仔细看着，应该像我这样：先抬胳膊，然后抬腿，最后头再向右转一下。", "pinyin": "Nǐ zǐxì kànzhe, yīnggāi xiàng wǒ zhèyàng: xiān tái gēbo, ránhòu tái tuǐ, zuìhòu tóu zài xiàng yòu zhuǎn yíxià.", "vietnamese": "Cậu nhìn kỹ nhé, phải giống mình thế này: trước tiên giơ cánh tay lên, sau đó nâng chân, cuối cùng đầu quay sang phải một cái.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Nghĩa: khiêng — từ 2 người trở lên cùng nâng vật nặng)",
+          "meanings": ["khiêng, nhấc (đồ vật nặng như ghế sofa, bàn tủ)"],
+          "structure": "抬沙发 / 抬桌子 / 两个人一起抬",
+          "difference_note": "Như câu ví dụ trong 比一比 tr.127 ('你来帮我抬一下沙发吧'), 抬 dùng khi 2 người trở lên cùng hợp sức nâng/khiêng đồ nặng.",
+          "examples": [
+            { "chinese": "我的日记本掉到沙发后面了，拿不出来了，你来帮我抬一下沙发吧。", "pinyin": "Wǒ de rìjìběn diàodào shāfā hòumiàn le, ná bu chūlái le, nǐ lái bāng wǒ tái yíxià shāfā ba.", "vietnamese": "Cuốn nhật ký của mình rơi ra sau ghế sofa, không lấy ra được, cậu lại giúp mình nhấc ghế sofa lên một chút đi." }
+          ]
+        }
+      ],
+      "chinese_explanation": "向上举起（头、手、腿）；也指共同用力搬举重物。",
+      "collocations": ["抬头", "抬胳膊", "抬腿", "抬沙发"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l19_w20", "order": 20, "textbook": "HSK 4 下", "lesson": 19,
+      "hanzi": "胳膊", "pinyin": "gēbo",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "cánh tay",
+        "structure": "抬胳膊 / 胳膊疼 / 一只胳膊",
+        "explanation": "Bộ phận cơ thể từ vai đến cổ tay.",
+        "examples": [
+          { "chinese": "先抬胳膊，然后抬腿，最后头再向右转一下。", "pinyin": "Xiān tái gēbo, ránhòu tái tuǐ, zuìhòu tóu zài xiàng yòu zhuǎn yíxià.", "vietnamese": "Trước tiên giơ cánh tay, sau đó nâng chân, cuối cùng đầu quay sang phải một chút.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "手臂，肩以下手腕以上的部分。",
+      "collocations": ["抬胳膊", "胳膊疼", "粗胳膊"],
+      "usage_note": "Âm tiết thứ hai đọc thanh nhẹ: gēbo.",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l19_w21", "order": 21, "textbook": "HSK 4 下", "lesson": 19,
+      "hanzi": "转", "pinyin": "zhuǎn",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "quay, xoay, rẽ (đổi hướng)",
+        "structure": "向右转 / 向左转 / 转身",
+        "explanation": "Thay đổi phương hướng hoặc vị trí sang phía khác (đọc thanh 3: zhuǎn).",
+        "examples": [
+          { "chinese": "最后头再向右转一下。", "pinyin": "Zuìhòu tóu zài xiàng yòu zhuǎn yíxià.", "vietnamese": "Cuối cùng đầu quay sang bên phải một chút.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Đa âm zhuàn: xoay tròn, đi dạo)",
+          "meanings": ["xoay vòng quanh trục (地球绕太阳转)", "đi dạo quanh, lượn quanh (转一转)"],
+          "structure": "绕着……转 / 去街上转转",
+          "difference_note": "Là chữ đa âm quan trọng! Đọc zhuǎn (thanh 3) khi chuyển hướng/chuyển đổi (向左转, 转车, 转账); đọc zhuàn (thanh 4) khi quay tròn hoặc đi dạo loanh quanh.",
+          "examples": [
+            { "chinese": "周末没事，我们去公园里转转吧。", "pinyin": "Zhōumò méishì, wǒmen qù gōngyuán li zhuànzhuan ba.", "vietnamese": "Cuối tuần rảnh rỗi, chúng ta ra công viên đi dạo chút đi." }
+          ]
+        }
+      ],
+      "chinese_explanation": "读zhuǎn时表示改换方向、位置或情况；读zhuàn时表示旋转、绕着移动或闲逛。",
+      "collocations": ["向左转", "向右转", "转身", "转车", "转一转(zhuàn)"],
+      "usage_note": "Chú ý phân biệt hai âm đọc zhuǎn (đổi hướng) và zhuàn (quay tròn/đi dạo).",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l19_w22", "order": 22, "textbook": "HSK 4 下", "lesson": 19,
+      "hanzi": "租", "pinyin": "zū",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "thuê, cho thuê",
+        "structure": "租房子 / 租车 / 出租",
+        "explanation": "Trả tiền để sử dụng nhà, xe, đồ vật của người khác trong thời hạn nhất định (hoặc cho người khác thuê).",
+        "examples": [
+          { "chinese": "马克去年租的房子离马路很近，对面有大大小小的商店，周围环境非常吵。", "pinyin": "Mǎkè qùnián zū de fángzi lí mǎlù hěn jìn, duìmiàn yǒu dàdà-xiǎoxiǎo de shāngdiàn, zhōuwéi huánjìng fēicháng chǎo.", "vietnamese": "Căn nhà Mark thuê năm ngoái rất gần đường lớn, đối diện có đủ loại cửa hàng lớn nhỏ, môi trường xung quanh vô cùng ồn ào.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ)",
+          "meanings": ["tiền thuê (nhà, đất)"],
+          "structure": "房租 / 交房租",
+          "difference_note": "Xuất hiện trong từ ghép 房租 (tiền thuê nhà), 租金 (tiền thuê).",
+          "examples": [
+            { "chinese": "这套房子交通方便，但房租有点儿贵。", "pinyin": "Zhè tào fángzi jiāotōng fāngbiàn, dàn fángzū yǒudiǎnr guì.", "vietnamese": "Căn nhà này giao thông thuận tiện, nhưng tiền thuê hơi đắt." }
+          ]
+        }
+      ],
+      "chinese_explanation": "花钱借用或把财物借给别人收取报酬；也指租金。",
+      "collocations": ["租房子", "租车", "出租车", "房租"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l19_w23", "order": 23, "textbook": "HSK 4 下", "lesson": 19,
+      "hanzi": "吵", "pinyin": "chǎo",
+      "is_out_of_syllabus": true,
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)",
+        "meaning": "ồn ào",
+        "structure": "非常吵 / 太吵了 / 很吵",
+        "explanation": "Âm thanh hỗn tạp, inh ỏi gây khó chịu (trái nghĩa: 安静; từ ngoài đề cương HSK 4 có dấu *).",
+        "examples": [
+          { "chinese": "对面有大大小小的商店，周围环境非常吵。", "pinyin": "Duìmiàn yǒu dàdà-xiǎoxiǎo de shāngdiàn, zhōuwéi huánjìng fēicháng chǎo.", "vietnamese": "Đối diện có đủ cửa hàng lớn nhỏ, môi trường xung quanh cực kỳ ồn ào.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Động từ)",
+          "meanings": ["cãi nhau, to tiếng", "làm ồn (đánh thức ai)"],
+          "structure": "吵架 / 别吵了 / 把孩子吵醒了",
+          "difference_note": "Làm động từ chỉ hành động cãi vã (吵架) hoặc gây tiếng ồn làm phiền (吵醒).",
+          "examples": [
+            { "chinese": "小声点儿，别把正在睡觉的宝宝吵醒了。", "pinyin": "Xiǎoshēng diǎnr, bié bǎ zhèngzài shuìjiào de bǎobao chǎoxǐng le.", "vietnamese": "Nói nhỏ thôi, đừng làm ồn đánh thức em bé đang ngủ." }
+          ]
+        }
+      ],
+      "chinese_explanation": "声音杂乱扰人；作动词指争吵、大声叫嚷。",
+      "collocations": ["非常吵", "太吵了", "吵架", "吵醒"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l19_w24", "order": 24, "textbook": "HSK 4 下", "lesson": 19,
+      "hanzi": "厨房", "pinyin": "chúfáng",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "nhà bếp",
+        "structure": "厨房很大 / 在厨房做饭",
+        "explanation": "Gian phòng dùng để nấu nướng thức ăn trong nhà.",
+        "examples": [
+          { "chinese": "广告上说房子交通方便，周围很安静，厨房很大。", "pinyin": "Guǎnggào shang shuō fángzi jiāotōng fāngbiàn, zhōuwéi hěn ānjìng, chúfáng hěn dà.", "vietnamese": "Trên quảng cáo nói căn nhà giao thông thuận tiện, xung quanh rất yên tĩnh, nhà bếp rất rộng.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "做饭菜的房间。",
+      "collocations": ["在厨房", "厨房很大", "进厨房"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l19_w25", "order": 25, "textbook": "HSK 4 下", "lesson": 19,
+      "hanzi": "房东", "pinyin": "fángdōng",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "chủ nhà (nhà cho thuê)",
+        "structure": "房东的手机号码 / 联系房东",
+        "explanation": "Người sở hữu căn nhà đem cho thuê.",
+        "examples": [
+          { "chinese": "总的来说，这套房子他很满意，于是他就记下了房东的手机号码。", "pinyin": "Zǒng de lái shuō, zhè tào fángzi tā hěn mǎnyì, yúshì tā jiù jìxiàle fángdōng de shǒujī hàomǎ.", "vietnamese": "Nói chung anh ấy rất hài lòng với căn nhà này, thế là liền ghi lại số điện thoại di động của chủ nhà.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "出租房屋的主人。",
+      "collocations": ["联系房东", "好房东", "给房东交房租"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l19_w26", "order": 26, "textbook": "HSK 4 下", "lesson": 19,
+      "hanzi": "占线", "pinyin": "zhànxiàn",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "(đường dây điện thoại) bận",
+        "structure": "电话总是占线 / 一直占线",
+        "explanation": "Đường dây điện thoại đang có cuộc gọi khác hoặc không kết nối được do bận máy.",
+        "examples": [
+          { "chinese": "可回家后打电话，电话总是占线。", "pinyin": "Kě huí jiā hòu dǎ diànhuà, diànhuà zǒngshì zhànxiàn.", "vietnamese": "Nhưng về nhà gọi điện thì điện thoại lúc nào cũng báo máy bận.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "电话线路正在被别人使用，暂时打不通。",
+      "collocations": ["电话占线", "一直占线", "总是占线"],
+      "usage_note": "Động từ không mang tân ngữ, thường đi với chủ ngữ 电话.",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l19_w27", "order": 27, "textbook": "HSK 4 下", "lesson": 19,
+      "hanzi": "功夫", "pinyin": "gōngfu",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "võ thuật, môn võ kung fu",
+        "structure": "中国功夫 / 练功夫 / 功夫片",
+        "explanation": "Môn võ thuật truyền thống Trung Hoa (kung fu).",
+        "examples": [
+          { "chinese": "很多外国人认为所有中国人都会功夫和乒乓球，其实只是喜爱这两种运动的中国人比较多。", "pinyin": "Hěn duō wàiguó rén rènwéi suǒyǒu Zhōngguórén dōu huì gōngfu hé pīngpāngqiú, qíshí zhǐshì xǐ'ài zhè liǎng zhǒng yùndòng de Zhōngguórén bǐjiào duō.", "vietnamese": "Nhiều người nước ngoài cho rằng tất cả người Trung Quốc đều biết võ công và bóng bàn, thật ra chỉ là người Trung Quốc yêu thích hai môn thể thao này khá đông thôi.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Nghĩa: công phu, trình độ dày công rèn luyện; thời gian)",
+          "meanings": ["công sức, tâm huyết (下功夫)", "thời gian rảnh (cũng viết 工夫)"],
+          "structure": "下功夫 / 花了不少功夫",
+          "difference_note": "Chỉ công sức bỏ ra rèn luyện kỹ năng (下功夫) hoặc trình độ cao siêu trong nghề nghiệp.",
+          "examples": [
+            { "chinese": "要想学好一门外语，必须下功夫才行。", "pinyin": "Yào xiǎng xuéhǎo yì mén wàiyǔ, bìxū xià gōngfu cái xíng.", "vietnamese": "Muốn học giỏi một ngoại ngữ thì nhất thiết phải bỏ công sức mới được." }
+          ]
+        }
+      ],
+      "chinese_explanation": "中国武术；也指本领、造诣或花费的时间精力。",
+      "collocations": ["中国功夫", "练功夫", "下功夫", "真功夫"],
+      "usage_note": "Âm tiết thứ hai đọc thanh nhẹ: gōngfu.",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l19_w28", "order": 28, "textbook": "HSK 4 下", "lesson": 19,
+      "hanzi": "乒乓球", "pinyin": "pīngpāngqiú",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "bóng bàn",
+        "structure": "打乒乓球 / 乒乓球桌 / 乒乓球比赛",
+        "explanation": "Môn thể thao bóng bàn — quốc cầu của Trung Quốc; tên gọi mô phỏng âm thanh “pīng” và “pāng” khi đánh bóng.",
+        "examples": [
+          { "chinese": "中国人特别喜欢打乒乓球，在中国你会发现到处都有乒乓球桌。", "pinyin": "Zhōngguó rén tèbié xǐhuan dǎ pīngpāngqiú, zài Zhōngguó nǐ huì fāxiàn dàochù dōu yǒu pīngpāngqiú zhuō.", "vietnamese": "Người Trung Quốc đặc biệt thích đánh bóng bàn, ở Trung Quốc bạn sẽ thấy khắp nơi đều có bàn bóng bàn.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "一种球类运动及所用的空心小球。",
+      "collocations": ["打乒乓球", "乒乓球桌", "乒乓球比赛", "乒乓球拍"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l19_w29", "order": 29, "textbook": "HSK 4 下", "lesson": 19,
+      "hanzi": "羽毛球", "pinyin": "yǔmáoqiú",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "cầu lông",
+        "structure": "打羽毛球 / 羽毛球拍",
+        "explanation": "Môn thể thao dùng vợt đánh quả cầu có lông vũ qua lưới.",
+        "examples": [
+          { "chinese": "像乒乓球、羽毛球、跑步等运动对条件要求不高，所以它们都成为人们运动不错的选择。", "pinyin": "Xiàng pīngpāngqiú, yǔmáoqiú, pǎo bù děng yùndòng duì tiáojiàn yāoqiú bù gāo, suǒyǐ tāmen dōu chéngwéi rénmen yùndòng búcuò de xuǎnzé.", "vietnamese": "Những môn như bóng bàn, cầu lông, chạy bộ không đòi hỏi cao về điều kiện, nên đều trở thành lựa chọn vận động khá tốt của mọi người.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "一种用球拍隔网击打带羽毛球体的体育运动。",
+      "collocations": ["打羽毛球", "羽毛球馆", "羽毛球比赛"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l19_w30", "order": 30, "textbook": "HSK 4 下", "lesson": 19,
+      "hanzi": "场", "pinyin": "chǎng",
+      "lesson_usage": {
+        "part_of_speech": "量词 (Lượng từ)",
+        "meaning": "(dùng cho thể thao, biểu diễn, phim ảnh...) trận, buổi, suất",
+        "structure": "打几场球 / 一场演出 / 一场电影 / 一场比赛",
+        "explanation": "Lượng từ dùng cho các hoạt động văn hóa, giải trí, thể thao, biểu diễn (đọc thanh 3: chǎng).",
+        "examples": [
+          { "chinese": "人们常说“生命在于运动”，所以很多人一到周末就会到体育馆打几场球。", "pinyin": "Rénmen cháng shuō “shēngmìng zàiyú yùndòng”, suǒyǐ hěn duō rén yí dào zhōumò jiù huì dào tǐyùguǎn dǎ jǐ chǎng qiú.", "vietnamese": "Người ta thường nói “sự sống nằm ở vận động”, nên rất nhiều người hễ đến cuối tuần là tới nhà thi đấu đánh vài trận bóng.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "量词 (Đa âm cháng: cơn, trận — thời tiết, bệnh tật) & 名词 (chǎng: sân bãi)",
+          "meanings": ["trận, cơn (mưa, tuyết, gió, bệnh nặng — đọc cháng)", "sân bãi, nơi tụ họp (机场, 商场, 现场 — đọc chǎng)"],
+          "structure": "下了一场大雨 (cháng) / 生了一场大病 (cháng) / 体育场 (chǎng)",
+          "difference_note": "Là chữ đa âm: dùng cho phim/trận đấu/biểu diễn đọc chǎng (一场比赛, 一场演出); dùng cho hiện tượng thiên nhiên hoặc sự việc trọn vẹn kéo dài đọc cháng (一场雨, 一场梦).",
+          "examples": [
+            { "chinese": "昨天晚上下了一场大雨，今天空气特别新鲜。", "pinyin": "Zuótiān wǎnshang xiàle yì cháng dàyǔ, jīntiān kōngqì tèbié xīnxiān.", "vietnamese": "Tối qua mưa một trận lớn, hôm nay không khí đặc biệt trong lành." }
+          ]
+        }
+      ],
+      "chinese_explanation": "读chǎng作量词用于文体活动、演出，作名词指场地；读cháng作量词用于风雨、疾病等事情的经过。",
+      "collocations": ["打几场球", "一场演出", "一场电影", "一场大雨(cháng)"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l19_w31", "order": 31, "textbook": "HSK 4 下", "lesson": 19,
+      "hanzi": "禁止", "pinyin": "jìnzhǐ",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "cấm, nghiêm cấm",
+        "structure": "禁止 + Hành động (禁止吸烟 / 禁止拍照 / 禁止大声讲话)",
+        "explanation": "Không cho phép làm điều gì theo quy định, luật lệ hoặc nội quy nơi công cộng.",
+        "examples": [
+          { "chinese": "在看乒乓球比赛时，尤其是在运动员发球的时候，观众要安静，禁止大声讲话或者离开座位随便走动。", "pinyin": "Zài kàn pīngpāngqiú bǐsài shí, yóuqí shì zài yùndòngyuán fā qiú de shíhou, guānzhòng yào ānjìng, jìnzhǐ dàshēng jiǎng huà huòzhě líkāi zuòwèi suíbiàn zǒudòng.", "vietnamese": "Khi xem thi đấu bóng bàn, đặc biệt lúc vận động viên giao bóng, khán giả phải giữ yên lặng, cấm nói chuyện to hoặc rời chỗ ngồi đi lại tùy tiện.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "不许可，严禁。",
+      "collocations": ["禁止吸烟", "禁止停车", "禁止拍照", "禁止大声讲话"],
+      "usage_note": "Mức độ nghiêm khắc và trang trọng cao hơn 不允许, thường xuất hiện trên biển báo công cộng.",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l19_w32", "order": 32, "textbook": "HSK 4 下", "lesson": 19,
+      "hanzi": "座位", "pinyin": "zuòwèi",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "chỗ ngồi",
+        "structure": "离开座位 / 找座位 / 空座位",
+        "explanation": "Ghế hoặc vị trí dành cho người ngồi trong nhà hàng, rạp hát, sân vận động, tàu xe.",
+        "examples": [
+          { "chinese": "禁止大声讲话或者离开座位随便走动。", "pinyin": "Jìnzhǐ dàshēng jiǎng huà huòzhě líkāi zuòwèi suíbiàn zǒudòng.", "vietnamese": "Cấm nói chuyện lớn tiếng hoặc rời khỏi chỗ ngồi đi lại lung tung.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "供人坐的地方。",
+      "collocations": ["离开座位", "找座位", "安静点儿的座位", "预订座位"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    }
+  ],
+  "proper_nouns": [
+    { "hanzi": "马克", "pinyin": "Mǎkè", "meaning": "Mark (tên người)" },
+    { "hanzi": "安娜", "pinyin": "Ānnà", "meaning": "Anna (tên người)" },
+    { "hanzi": "李进", "pinyin": "Lǐ Jìn", "meaning": "Lý Tiến (tên người)" },
+    { "hanzi": "王静", "pinyin": "Wáng Jìng", "meaning": "Vương Tĩnh (tên người)" }
+  ],
+  "same_char_expansion": {
+    "char": "发",
+    "words": [
+      { "hanzi": "沙发", "pinyin": "shāfā", "meaning": "ghế sô-pha" },
+      { "hanzi": "发生", "pinyin": "fāshēng", "meaning": "xảy ra, phát sinh" },
+      { "hanzi": "发展", "pinyin": "fāzhǎn", "meaning": "phát triển" },
+      { "hanzi": "理发", "pinyin": "lǐfà", "meaning": "cắt tóc (chú ý thanh 4: fà)" }
+    ],
+    "examples": [
+      { "chinese": "你回到家就把衣服、书包什么的扔在沙发上，房间太乱了，你抽时间收拾一下吧。", "vietnamese": "Bạn về đến nhà là ném quần áo, cặp sách linh tinh lên ghế sofa, phòng bừa bộn quá rồi, tranh thủ thu dọn đi nhé." },
+      { "chinese": "随着年龄的增长，人们对很多事情的看法是会发生变化的，有可能和以前的看法完全不同。", "vietnamese": "Theo sự tăng lên của tuổi tác, cách nhìn của con người với nhiều việc sẽ xảy ra thay đổi, có thể hoàn toàn khác trước đây." },
+      { "chinese": "我本以为任务能顺利完成，没想到事情的发展情况跟我想的正好相反。", "vietnamese": "Tôi vốn tưởng nhiệm vụ sẽ hoàn thành suôn sẻ, không ngờ tình hình phát triển của sự việc lại hoàn toàn trái ngược với điều tôi nghĩ." },
+      { "chinese": "对面那条街上新开了一家理发店，听说那个店的理发师技术不错。", "vietnamese": "Phố đối diện mới mở một tiệm cắt tóc, nghe nói tay nghề thợ cắt tóc ở tiệm đó rất khá." }
+    ]
+  },
+  "grammar": [
+    {
+      "title": "疑问代词活用表示任指 (Đại từ nghi vấn phiếm chỉ)",
+      "formula": "什么 / 谁 / 哪 / 哪儿 / 哪里 / 怎么 + …… + 都 / 也 + Vị ngữ",
+      "meaning": "Bất cứ cái gì / ai / nào / ở đâu / thế nào... cũng đều...",
+      "usage": "Các đại từ nghi vấn không dùng để hỏi mà dùng để phiếm chỉ bất kỳ người, vật, nơi chốn hay cách thức nào trong phạm vi được nói đến; trong câu thường đi kèm với phó từ 都 hoặc 也.",
+      "context": "Cực kỳ phổ biến trong cả khẩu ngữ lẫn văn viết tiếng Trung hiện đại.",
+      "examples": [
+        { "chinese": "没关系，不用道歉，谁都有粗心填错的时候。", "pinyin": "Méi guānxi, búyòng dào qiàn, shéi dōu yǒu cūxīn tiáncuò de shíhou.", "vietnamese": "Không sao đâu, không cần xin lỗi, ai cũng có lúc bất cẩn điền nhầm." },
+        { "chinese": "昨天我做了一个奇怪的梦，但是早上起来怎么想都想不起来。", "pinyin": "Zuótiān wǒ zuòle yí ge qíguài de mèng, dànshì zǎoshang qǐlái zěnme xiǎng dōu xiǎng bu qǐlái.", "vietnamese": "Hôm qua mình mơ một giấc mơ kỳ lạ, nhưng sáng dậy nghĩ thế nào cũng không nhớ ra." },
+        { "chinese": "“世界上没有免费的午餐”这句话是说，什么东西都要通过努力才能得到。", "pinyin": "“Shìjiè shang méiyǒu miǎnfèi de wǔcān” zhè jù huà shì shuō, shénme dōngxi dōu yào tōngguò nǔlì cái néng dédào.", "vietnamese": "Câu “Trên đời không có bữa trưa miễn phí” có nghĩa là thứ gì cũng đều phải qua nỗ lực mới đạt được." }
+      ],
+      "important_notes": "Thường phối hợp với 都 (khẳng định hoặc phủ định) hoặc 也 (phủ định: 谁也不知道, 哪儿也没去).",
+      "common_errors": "Quên 都/也 khiến câu mất ý phiếm chỉ hoặc trở thành câu hỏi nghi vấn.",
+      "comparison": "Có thể kết hợp thêm 无论/不管 ở đầu câu để tăng sắc thái nhấn mạnh (无论谁都喜欢他).",
+      "mini_practice": [
+        { "prompt": "每个人都有自己的生活，______________________。（谁）", "sample_answer": "谁也离不开朋友的帮助", "explanation": "Dùng 谁 + 也 biểu thị bất cứ ai cũng..." },
+        { "prompt": "我已经练习了好几遍了，______________________？（怎么）", "sample_answer": "怎么还是跳不好呢", "explanation": "Lưu ý: trong câu hỏi tu từ có dấu ?, 怎么 dùng để bày tỏ sự khó hiểu/bất lực." }
+      ]
+    },
+    {
+      "title": "上 (Làm bổ ngữ xu hướng / bổ ngữ khả năng)",
+      "formula": "V + 上 (đạt mục đích)  |  V + 得上 / 不上 (có thể / không thể đạt mục đích)",
+      "meaning": "Đạt được mục đích (ăn được, thi đỗ, lên được chuyến xe, đóng lại...).",
+      "usage": "Động từ 上 đặt sau động từ khác làm bổ ngữ xu hướng (nghĩa mở rộng chỉ hành động đã đạt được mục đích) hoặc làm bổ ngữ khả năng (V得上 / V不上) chỉ hành động có đạt được mục đích hay không.",
+      "context": "Thường gặp trong các cụm cố định cực hay thi HSK: 考上 (thi đỗ), 吃不上 (không được ăn), 坐不上 (không kịp lên xe/máy bay), 联系上 (liên lạc được), 买不上 (không mua được).",
+      "examples": [
+        { "chinese": "看来今天吃不上羊肉饺子了。", "pinyin": "Kànlái jīntiān chī bu shàng yángròu jiǎozi le.", "vietnamese": "Xem ra hôm nay không được ăn sủi cảo thịt cừu rồi." },
+        { "chinese": "现在堵车这么厉害，看来今天坐不上8点那趟去上海的飞机了。", "pinyin": "Xiànzài dǔchē zhème lìhai, kànlái jīntiān zuò bu shàng bā diǎn nà tàng qù Shànghǎi de fēijī le.", "vietnamese": "Bây giờ tắc đường dữ dội thế này, xem ra hôm nay không kịp lên chuyến bay lúc 8 giờ đi Thượng Hải rồi." },
+        { "chinese": "一听到哥哥考上了经济专业的博士，我们全家都特别高兴。", "pinyin": "Yì tīngdào gēge kǎoshàngle jīngjì zhuānyè de bóshì, wǒmen quánjiā dōu tèbié gāoxìng.", "vietnamese": "Vừa nghe tin anh trai thi đỗ tiến sĩ chuyên ngành kinh tế, cả nhà chúng tôi đều đặc biệt vui mừng." }
+      ],
+      "important_notes": "Phủ định của hành động đã xảy ra dùng 没 + V + 上 (如: 没联系上房东); phủ định khả năng dùng V + 不上 (如: 吃不上, 坐不上).",
+      "common_errors": "Không nhầm với 没吃 (chưa ăn/không ăn) — 吃不上 nhấn mạnh 'muốn ăn nhưng hoàn cảnh khiến không đạt được'.",
+      "comparison": "Khác với 上 chỉ phương hướng vật lý 'đi lên trên' (走上楼).",
+      "mini_practice": [
+        { "prompt": "要是你想去云南旅游应该早点儿买火车票，______________________。（上）", "sample_answer": "否则可能买不上票了", "explanation": "买不上 = không mua được (không đạt mục đích)." },
+        { "prompt": "早就听说这个饭馆儿的菜特别好吃，______________________。（上）", "sample_answer": "今天终于吃上了", "explanation": "吃上了 = cuối cùng đã được thưởng thức." }
+      ]
+    },
+    {
+      "title": "出来 (Làm bổ ngữ xu hướng / bổ ngữ khả năng)",
+      "formula": "V + 出来 / V + 得出来 / V + 不出来",
+      "meaning": "Từ không thành có, từ ẩn giấu sang lộ rõ (nhận ra, nghĩ ra, dịch ra, viết ra...).",
+      "usage": "Động từ 出来 đặt sau động từ khác làm bổ ngữ xu hướng, nghĩa mở rộng biểu thị hành động làm cho sự vật chuyển trạng thái từ không tồn tại sang hiện hữu (想出来, 写出来, 翻译出来) hoặc từ bị che khuất sang lộ rõ (看出来, 听出来, 说出来).",
+      "context": "Dùng rộng rãi với động từ tư duy, giác quan và sáng tạo (看, 听, 想, 说, 写, 算, 翻译).",
+      "examples": [
+        { "chinese": "有的人心里有什么看法或意见，嘴上就会直接说出来。", "pinyin": "Yǒude rén xīnli yǒu shénme kànfǎ huò yìjiàn, zuǐ shang jiù huì zhíjiē shuō chūlái.", "vietnamese": "Có người trong lòng có quan điểm hay ý kiến gì là miệng sẽ nói thẳng ra ngay." },
+        { "chinese": "你要的那篇文章我已经翻译出来了，你方便的时候就来取吧。", "pinyin": "Nǐ yào de nà piān wénzhāng wǒ yǐjīng fānyì chūlái le, nǐ fāngbiàn de shíhou jiù lái qǔ ba.", "vietnamese": "Bài văn bạn cần tôi đã dịch xong ra rồi, lúc nào tiện thì bạn đến lấy nhé." },
+        { "chinese": "刚才我在旁边看到你跳中国舞了，没看出来你跳得这么好！", "pinyin": "Gāngcái wǒ zài pángbiān kàndào nǐ tiào Zhōngguó wǔ le, méi kàn chūlái nǐ tiào de zhème hǎo!", "vietnamese": "Vừa nãy mình đứng bên cạnh thấy cậu múa Trung Quốc rồi, chẳng ngờ (không nhìn ra) cậu múa giỏi thế này!" }
+      ],
+      "important_notes": "Cụm '没看出来' (không ngờ/không nhìn ra) là cách khen rất tự nhiên trong tiếng Trung!",
+      "common_errors": "Nhầm lẫn giữa 想出来 (nghĩ sáng tạo ra thứ mới) và 想起来 (nhớ lại thứ đã quên) — xem bảng 比一比!",
+      "comparison": "Xem chi tiết bảng 比一比 '出来 — 起来' bên dưới.",
+      "mini_practice": [
+        { "prompt": "今天老师问了个问题，______________________。（出来）", "sample_answer": "大家都没回答出来", "explanation": "回答不出来 / 没回答出来 = không trả lời được." }
+      ]
+    },
+    {
+      "title": "总的来说",
+      "formula": "Vế chi tiết。总的来说，+ Nhận xét tổng quát",
+      "meaning": "Nói chung, nhìn chung, xét về tổng thể.",
+      "usage": "Thường dùng làm thành phần xen kẽ (插入语) ở đầu câu hoặc đầu vế sau, biểu thị đưa ra kết luận/nhận xét dựa trên tổng thể hoặc mặt chủ yếu.",
+      "context": "Rất hay dùng khi tóm lược ưu nhược điểm hoặc đánh giá một sự vật, trải nghiệm.",
+      "examples": [
+        { "chinese": "广告上说房子交通方便，周围很安静，厨房很大。总的来说，这套房子他很满意，于是他就记下了房东的手机号码。", "pinyin": "Guǎnggào shang shuō fángzi jiāotōng fāngbiàn, zhōuwéi hěn ānjìng, chúfáng hěn dà. Zǒng de lái shuō, zhè tào fángzi tā hěn mǎnyì, yúshì tā jiù jìxiàle fángdōng de shǒujī hàomǎ.", "vietnamese": "Quảng cáo nói nhà giao thông tiện, xung quanh yên tĩnh, bếp rộng. Nói chung căn nhà này anh ấy rất hài lòng nên đã ghi lại số chủ nhà." },
+        { "chinese": "这个公司的工资虽然不算很高，但是奖金很多，所以总的来说收入还不错。", "pinyin": "Zhège gōngsī de gōngzī suīrán bú suàn hěn gāo, dànshì jiǎngjīn hěn duō, suǒyǐ zǒng de lái shuō shōurù hái búcuò.", "vietnamese": "Lương công ty này tuy không tính là cao nhưng tiền thưởng nhiều, nên nhìn chung thu nhập khá ổn." },
+        { "chinese": "很多人问去丽江旅游怎么样，总的来说，丽江景色不错，那里的人也很热情，去那里旅游是个不错的选择。", "pinyin": "Hěn duō rén wèn qù Lìjiāng lǚyóu zěnmeyàng, zǒng de lái shuō, Lìjiāng jǐngsè búcuò, nàli de rén yě hěn rèqíng, qù nàli lǚyóu shì ge búcuò de xuǎnzé.", "vietnamese": "Nhiều người hỏi đi du lịch Lệ Giang thế nào, nói chung phong cảnh Lệ Giang đẹp, người dân nhiệt tình, là lựa chọn tuyệt vời." }
+      ],
+      "important_notes": "Thường đứng độc lập ngăn cách bởi dấu phẩy ở đầu vế kết luận; cũng có dạng ngắn hơn là 总的说来.",
+      "common_errors": "",
+      "comparison": "Gần với 总之 (tóm lại — thiên về chốt ý cuối đoạn), còn 总的来说 nhấn mạnh đánh giá cân bằng trên tổng thể.",
+      "mini_practice": [
+        { "prompt": "去国外留学有好处也有坏处，______________________。（总的来说）", "sample_answer": "总的来说，好处比坏处多", "explanation": "Đưa ra đánh giá tổng thể sau khi nêu hai mặt." }
+      ]
+    },
+    {
+      "title": "在于",
+      "formula": "Cụm danh từ (Chủ ngữ) + 在于 + Danh từ / Động từ / Mệnh đề ngắn",
+      "meaning": "Ở chỗ, nằm ở, chính là.",
+      "usage": "Động từ văn viết dùng để chỉ ra bản chất, cốt lõi hoặc nguyên nhân then chốt của sự vật (tương đương “正是、就是”). Chủ ngữ thường là cụm danh từ (生命, 关键, 区别, 原因), phía sau BẮT BUỘC có tân ngữ (danh từ, động từ hoặc tiểu câu).",
+      "context": "Chủ yếu dùng trong văn viết, danh ngôn, bài nghị luận HSK 4–5.",
+      "examples": [
+        { "chinese": "人们常说“生命在于运动”，所以很多人一到周末就会到体育馆打几场球。", "pinyin": "Rénmen cháng shuō “shēngmìng zàiyú yùndòng”, suǒyǐ hěn duō rén yí dào zhōumò jiù huì dào tǐyùguǎn dǎ jǐ chǎng qiú.", "vietnamese": "Người ta thường nói “sự sống nằm ở vận động”, vì vậy nhiều người hễ đến cuối tuần là ra nhà thi đấu đánh vài trận bóng." },
+        { "chinese": "选择职业的关键在于兴趣，当你喜欢做一件事情的时候，你会带着热情去工作。", "pinyin": "Xuǎnzé zhíyè de guānjiàn zàiyú xìngqù, dāng nǐ xǐhuan zuò yí jiàn shìqing de shíhou, nǐ huì dàizhe rèqíng qù gōngzuò.", "vietnamese": "Then chốt của việc chọn nghề nằm ở niềm đam mê, khi bạn thích làm một việc, bạn sẽ làm với đầy nhiệt huyết." },
+        { "chinese": "没有人能一生都顺顺利利、没有失败。区别在于有的人能接受失败，找到失败的原因并继续努力；而有的人却在失败面前停下了脚步。", "pinyin": "Méiyǒu rén néng yìshēng dōu shùnshùnlìlì, méiyǒu shībài. Qūbié zàiyú yǒude rén néng jiēshòu shībài, zhǎodào shībài de yuányīn bìng jìxù nǔlì; ér yǒude rén què zài shībài miànqián tíngxiàle jiǎobù.", "vietnamese": "Không ai cả đời thuận buồm xuôi gió không thất bại. Khác biệt nằm ở chỗ có người chấp nhận thất bại, tìm nguyên nhân rồi tiếp tục nỗ lực; còn có người lại dừng bước trước thất bại." }
+      ],
+      "important_notes": "Phía sau 在于 bắt buộc phải có tân ngữ; dạng phủ định là 不在于 (如: 幸福不在于钱多钱少，而在于心态).",
+      "common_errors": "Không dùng 在于 để chỉ vị trí địa lý cụ thể (Sai: '北京在于中国北方' → Đúng: '北京位于中国北方' hoặc '在中国北方').",
+      "comparison": "在于 chỉ bản chất/cốt lõi trừu tượng; 位于 chỉ vị trí địa lý.",
+      "mini_practice": [
+        { "prompt": "他做事情常常能达到事半功倍的效果，______________________。（在于）", "sample_answer": "原因在于他掌握了正确的方法", "explanation": "Cụm danh từ 原因 + 在于 + mệnh đề giải thích bản chất." }
+      ]
+    }
+  ],
+  "comparison_section": {
+    "label": "比一比 So sánh",
+    "pair": "出来 — 起来",
+    "term_a": "出来 (chūlái)",
+    "term_b": "起来 (qǐlái)",
+    "similarity": "Cả hai đều là động từ xu hướng kép đặt sau động từ làm bổ ngữ xu hướng hoặc bổ ngữ khả năng.",
+    "differences": [
+      {
+        "criterion": "Phương hướng gốc (vật lý)",
+        "a": "Diễn tả hướng hành động đi TỪ TRONG RA NGOÀI (我的日记本掉到沙发后面了，拿不出来了).",
+        "b": "Diễn tả hướng hành động đi TỪ DƯỚI LÊN TRÊN (电话突然响了，他连忙坐起来接电话 / 站起来活动活动)."
+      },
+      {
+        "criterion": "Nghĩa mở rộng",
+        "a": "Làm trạng thái sự vật biến đổi từ KHÔNG THÀNH CÓ, từ ẨN GIẤU SANG LỘ RÕ (你能算出来这两个地方之间的距离是多少公里吗？).",
+        "b": "Diễn tả hành động/trạng thái BẮT ĐẦU VÀ TIẾP DIỄN (天气已经开始慢慢热起来), hoặc gom/tập trung lại (整理起来)."
+      },
+      {
+        "criterion": "Cặp cực hay thi: 想出来 vs 想起来",
+        "a": "想出来 = vốn KHÔNG CÓ trong đầu, qua suy nghĩ mà SÁNG TẠO / NGHĨ RA (这个主意好像是三班的一个学生想出来的).",
+        "b": "想起来 = vốn ĐÃ CÓ trong đầu nhưng quên mất, qua hồi tưởng mà NHỚ LẠI ĐƯỢC (我想起来了，那个唱歌的男孩子是高老师的孙子)."
+      }
+    ]
+  },
+  "texts": [
+    {
+      "id": "t1",
+      "title_zh": "马克申请下个学期继续在学校学习",
+      "title_vi": "Mark đăng ký học kỳ sau tiếp tục học tại trường",
+      "lines": [
+        { "speaker": "马克", "chinese": "老师，您好！我希望下个学期在这里继续学习，请问还需要重新申请吗？", "pinyin": "Lǎoshī, nín hǎo! Wǒ xīwàng xià ge xuéqī zài zhèlǐ jìxù xuéxí, qǐngwèn hái xūyào chóngxīn shēnqǐng ma?", "vietnamese": "Chào cô ạ! Em hy vọng học kỳ sau tiếp tục học ở đây, xin hỏi có cần đăng ký lại không ạ?" },
+        { "speaker": "高老师", "chinese": "是的。给你表格，出生年月、性别、护照号码都要填，还有联系地址、联系电话。", "pinyin": "Shì de. Gěi nǐ biǎogé, chūshēng nián yuè, xìngbié, hùzhào hàomǎ dōu yào tián, hái yǒu liánxì dìzhǐ, liánxì diànhuà.", "vietnamese": "Có chứ. Đưa em mẫu đơn đây, ngày tháng năm sinh, giới tính, số hộ chiếu đều phải điền, còn có địa chỉ liên hệ và số điện thoại liên hệ." },
+        { "speaker": "马克", "chinese": "真抱歉，我不小心把护照号码填错了，您能再给我一份新的申请表吗？", "pinyin": "Zhēn bàoqiàn, wǒ bù xiǎoxīn bǎ hùzhào hàomǎ tiáncuò le, nín néng zài gěi wǒ yí fèn xīn de shēnqǐngbiǎo ma?", "vietnamese": "Thật xin lỗi ạ, em lỡ điền nhầm số hộ chiếu rồi, cô có thể cho em thêm một tờ đơn đăng ký mới không ạ?" },
+        { "speaker": "高老师", "chinese": "没关系，不用道歉，谁都有粗心填错的时候。申请表都被别人拿走了，我给你重新打印一份，你等一下。", "pinyin": "Méi guānxi, búyòng dào qiàn, shéi dōu yǒu cūxīn tiáncuò de shíhou. Shēnqǐngbiǎo dōu bèi biérén názǒu le, wǒ gěi nǐ chóngxīn dǎyìn yí fèn, nǐ děng yíxià.", "vietnamese": "Không sao đâu, không cần xin lỗi, ai cũng có lúc bất cẩn điền nhầm. Đơn đăng ký bị người khác lấy hết rồi, cô in lại cho em một bản, em chờ một chút." },
+        { "speaker": "", "chinese": "（高老师打印，马克填表。）", "pinyin": "(Gāo lǎoshī dǎyìn, Mǎkè tián biǎo.)", "vietnamese": "(Cô Cao in đơn, Mark điền đơn.)" },
+        { "speaker": "马克", "chinese": "这次我按照要求都填写完了，请问还需要做别的事情吗？", "pinyin": "Zhè cì wǒ ànzhào yāoqiú dōu tiánxiě wán le, qǐngwèn hái xūyào zuò biéde shìqing ma?", "vietnamese": "Lần này em đã điền xong hết theo yêu cầu rồi ạ, xin hỏi còn cần làm việc gì khác không ạ?" },
+        { "speaker": "高老师", "chinese": "请把你的护照给我，我们要把护照复印一下。", "pinyin": "Qǐng bǎ nǐ de hùzhào gěi wǒ, wǒmen yào bǎ hùzhào fùyìn yíxià.", "vietnamese": "Em đưa hộ chiếu của em cho cô nhé, chúng tôi cần photo hộ chiếu một chút." }
+      ]
+    },
+    {
+      "id": "t2",
+      "title_zh": "王静做饺子时手受伤了",
+      "title_vi": "Vương Tĩnh bị thương ở tay khi làm bánh chẻo",
+      "lines": [
+        { "speaker": "李进", "chinese": "呀，你的手怎么流血了？等一下，我给你包起来。", "pinyin": "Ya, nǐ de shǒu zěnme liú xiě le? Děng yíxià, wǒ gěi nǐ bāo qilai.", "vietnamese": "Ôi, sao tay em lại chảy máu thế? Chờ chút để anh băng lại cho." },
+        { "speaker": "王静", "chinese": "没关系，我想给你做点儿羊肉饺子，刚才用刀切肉的时候把手弄破了。", "pinyin": "Méi guānxi, wǒ xiǎng gěi nǐ zuò diǎnr yángròu jiǎozi, gāngcái yòng dāo qiē ròu de shíhou bǎ shǒu nòngpò le.", "vietnamese": "Không sao đâu, em muốn làm chút sủi cảo thịt cừu cho anh, vừa nãy dùng dao thái thịt lỡ làm đứt tay." },
+        { "speaker": "李进", "chinese": "你也太不小心了，不过好像不太严重，过几天就好了。衣服上也有一点儿血，你把衣服脱下来，我给你洗洗。", "pinyin": "Nǐ yě tài bù xiǎoxīn le, búguò hǎoxiàng bú tài yánzhòng, guò jǐ tiān jiù hǎo le. Yīfu shang yě yǒu yìdiǎnr xiě, nǐ bǎ yīfu tuō xialai, wǒ gěi nǐ xǐxi.", "vietnamese": "Em bất cẩn quá đi, nhưng có vẻ không nghiêm trọng lắm, qua vài ngày sẽ khỏi thôi. Trên áo cũng dính ít máu, em cởi áo ra để anh giặt cho." },
+        { "speaker": "王静", "chinese": "看来今天吃不上羊肉饺子了。", "pinyin": "Kànlái jīntiān chī bu shàng yángròu jiǎozi le.", "vietnamese": "Xem ra hôm nay không được ăn sủi cảo thịt cừu rồi." },
+        { "speaker": "李进", "chinese": "那我们就吃点儿别的。我常去的那家理发店附近有个餐厅，那里的包子很好吃，我一会儿去买一点儿。", "pinyin": "Nà wǒmen jiù chī diǎnr biéde. Wǒ cháng qù de nà jiā lǐfàdiàn fùjìn yǒu ge cāntīng, nàli de bāozi hěn hǎochī, wǒ yíhuìr qù mǎi yìdiǎnr.", "vietnamese": "Vậy tụi mình ăn món khác đi. Gần tiệm cắt tóc anh hay đi có một quán ăn, bánh bao ở đó ngon lắm, lát anh đi mua một ít." },
+        { "speaker": "王静", "chinese": "好吧，我衣服口袋里有十几块零钱，买包子应该够。", "pinyin": "Hǎo ba, wǒ yīfu kǒudai li yǒu shíjǐ kuài língqián, mǎi bāozi yīnggāi gòu.", "vietnamese": "Được thôi, trong túi áo em có mười mấy tệ tiền lẻ, mua bánh bao chắc đủ đấy." }
+      ]
+    },
+    {
+      "id": "t3",
+      "title_zh": "安娜帮助马克练习舞蹈动作",
+      "title_vi": "Anna giúp Mark tập động tác múa",
+      "lines": [
+        { "speaker": "马克", "chinese": "我早上跟你打招呼，你没看见。想不到又在这儿碰见你了。", "pinyin": "Wǒ zǎoshang gēn nǐ dǎ zhāohu, nǐ méi kànjiàn. Xiǎng bu dào yòu zài zhèr pèngjiàn nǐ le.", "vietnamese": "Sáng nay mình chào cậu mà cậu không thấy. Không ngờ lại gặp cậu ở đây." },
+        { "speaker": "安娜", "chinese": "真是对不起，我不是故意的，今天早上我忘戴眼镜了，看不清楚。", "pinyin": "Zhēn shì duìbuqǐ, wǒ bú shì gùyì de, jīntiān zǎoshang wǒ wàng dài yǎnjìng le, kàn bu qīngchu.", "vietnamese": "Thật sự xin lỗi nhé, mình không cố ý đâu, sáng nay quên đeo kính nên nhìn chẳng rõ." },
+        { "speaker": "马克", "chinese": "刚才我在旁边看到你跳中国舞了，没看出来你跳得这么好！难道你以前在你们国家就学过中国舞蹈吗？", "pinyin": "Gāngcái wǒ zài pángbiān kàndào nǐ tiào Zhōngguó wǔ le, méi kàn chūlái nǐ tiào de zhème hǎo! Nándào nǐ yǐqián zài nǐmen guójiā jiù xuéguo Zhōngguó wǔdǎo ma?", "vietnamese": "Vừa nãy đứng bên cạnh mình thấy cậu múa Trung Quốc rồi, không ngờ cậu múa đẹp thế! Chẳng lẽ trước kia ở nước cậu đã học múa Trung Quốc rồi à?" },
+        { "speaker": "安娜", "chinese": "我小时候妈妈教我跳过两年的舞，所以稍微有点儿基础。再说，舞蹈不仅是一门艺术，也是一种“语言”，这种语言与国籍无关，无论哪个国家的人都能看懂。", "pinyin": "Wǒ xiǎoshíhou māma jiāo wǒ tiàoguo liǎng nián de wǔ, suǒyǐ shāowēi yǒu diǎnr jīchǔ. Zàishuō, wǔdǎo bùjǐn shì yì mén yìshù, yě shì yì zhǒng “yǔyán”, zhè zhǒng yǔyán yǔ guójí wúguān, wúlùn nǎ ge guójiā de rén dōu néng kàndǒng.", "vietnamese": "Hồi nhỏ mẹ dạy mình múa hai năm nên cũng có chút nền tảng. Hơn nữa, múa không chỉ là nghệ thuật mà còn là một loại “ngôn ngữ”, ngôn ngữ này không liên quan quốc tịch, người nước nào cũng hiểu." },
+        { "speaker": "马克", "chinese": "太好了！我刚学习跳这种舞没多久，你帮我看看，我的这个动作对不对。", "pinyin": "Tài hǎo le! Wǒ gāng xuéxí tiào zhè zhǒng wǔ méi duō jiǔ, nǐ bāng wǒ kànkan, wǒ de zhège dòngzuò duì bu duì.", "vietnamese": "Tuyệt quá! Mình mới học điệu múa này chưa lâu, cậu xem giúp mình động tác này có đúng không." },
+        { "speaker": "安娜", "chinese": "你这个动作做得还是不太标准，我给你跳一遍。你仔细看着，应该像我这样：先抬胳膊，然后抬腿，最后头再向右转一下。", "pinyin": "Nǐ zhège dòngzuò zuò de háishi bú tài biāozhǔn, wǒ gěi nǐ tiào yí biàn. Nǐ zǐxì kànzhe, yīnggāi xiàng wǒ zhèyàng: xiān tái gēbo, ránhòu tái tuǐ, zuìhòu tóu zài xiàng yòu zhuǎn yíxià.", "vietnamese": "Động tác này cậu làm vẫn chưa chuẩn lắm, mình múa mẫu một lượt nhé. Cậu nhìn kỹ này, phải giống mình: trước tiên giơ cánh tay, sau đó nâng chân, cuối cùng đầu xoay sang phải một cái." }
+      ]
+    },
+    {
+      "id": "t4",
+      "title_zh": "马克找房子的经历",
+      "title_vi": "Trải nghiệm tìm thuê nhà của Mark",
+      "lines": [
+        { "speaker": "", "chinese": "马克去年租的房子离马路很近，对面有大大小小的商店，周围环境非常吵。所以，房子还没到期，马克就开始着急换房子了。有一天，他在小区门口看到一个租房子的广告。广告上说房子交通方便，周围很安静，厨房很大。总的来说，这套房子他很满意，于是他就记下了房东的手机号码。可回家后打电话，电话总是占线。第二天，他路过小区门口时，又仔细看了一下广告，原来在记号码的时候写错了一个数字。", "pinyin": "Mǎkè qùnián zū de fángzi lí mǎlù hěn jìn, duìmiàn yǒu dàdà-xiǎoxiǎo de shāngdiàn, zhōuwéi huánjìng fēicháng chǎo. Suǒyǐ, fángzi hái méi dàoqī, Mǎkè jiù kāishǐ zháojí huàn fángzi le. Yǒu yì tiān, tā zài xiǎoqū ménkǒu kàndào yí ge zū fángzi de guǎnggào. Guǎnggào shang shuō fángzi jiāotōng fāngbiàn, zhōuwéi hěn ānjìng, chúfáng hěn dà. Zǒng de lái shuō, zhè tào fángzi tā hěn mǎnyì, yúshì tā jiù jìxiàle fángdōng de shǒujī hàomǎ. Kě huí jiā hòu dǎ diànhuà, diànhuà zǒngshì zhànxiàn. Dì-èr tiān, tā lùguò xiǎoqū ménkǒu shí, yòu zǐxì kànle yíxià guǎnggào, yuánlái zài jì hàomǎ de shíhou xiěcuòle yí ge shùzì.", "vietnamese": "Căn nhà Mark thuê năm ngoái rất gần mặt đường lớn, đối diện có đủ cửa hàng lớn nhỏ, xung quanh vô cùng ồn ào. Nên nhà chưa hết hạn thuê anh đã sốt ruột đổi nhà. Một hôm ở cổng khu dân cư, anh thấy mẩu quảng cáo cho thuê nhà nói nhà giao thông thuận tiện, xung quanh rất yên tĩnh, bếp rộng. Nói chung anh rất ưng ý nên ghi lại số điện thoại chủ nhà. Nhưng về nhà gọi thì máy lúc nào cũng bận. Hôm sau đi qua cổng khu dân cư xem kỹ lại quảng cáo mới hay hóa ra lúc chép số mình đã ghi nhầm một chữ số." }
+      ]
+    },
+    {
+      "id": "t5",
+      "title_zh": "功夫与乒乓球",
+      "title_vi": "Võ thuật và bóng bàn",
+      "lines": [
+        { "speaker": "", "chinese": "很多外国人认为所有中国人都会功夫和乒乓球，其实只是喜爱这两种运动的中国人比较多。中国人特别喜欢打乒乓球，在中国你会发现到处都有乒乓球桌。像乒乓球、羽毛球、跑步等运动对条件要求不高，所以它们都成为人们运动不错的选择。人们常说“生命在于运动”，所以很多人一到周末就会到体育馆打几场球。“乒乓球”这个名字也很有意思，“乒”和“乓”就是打球时发出的声音。在看乒乓球比赛时，尤其是在运动员发球的时候，观众要安静，禁止大声讲话或者离开座位随便走动。", "pinyin": "Hěn duō wàiguó rén rènwéi suǒyǒu Zhōngguórén dōu huì gōngfu hé pīngpāngqiú, qíshí zhǐshì xǐ'ài zhè liǎng zhǒng yùndòng de Zhōngguórén bǐjiào duō. Zhōngguó rén tèbié xǐhuan dǎ pīngpāngqiú, zài Zhōngguó nǐ huì fāxiàn dàochù dōu yǒu pīngpāngqiú zhuō. Xiàng pīngpāngqiú, yǔmáoqiú, pǎo bù děng yùndòng duì tiáojiàn yāoqiú bù gāo, suǒyǐ tāmen dōu chéngwéi rénmen yùndòng búcuò de xuǎnzé. Rénmen cháng shuō “shēngmìng zàiyú yùndòng”, suǒyǐ hěn duō rén yí dào zhōumò jiù huì dào tǐyùguǎn dǎ jǐ chǎng qiú. “Pīngpāngqiú” zhège míngzi yě hěn yǒu yìsi, “pīng” hé “pāng” jiù shì dǎ qiú shí fāchū de shēngyīn. Zài kàn pīngpāngqiú bǐsài shí, yóuqí shì zài yùndòngyuán fā qiú de shíhou, guānzhòng yào ānjìng, jìnzhǐ dàshēng jiǎng huà huòzhě líkāi zuòwèi suíbiàn zǒudòng.", "vietnamese": "Nhiều người nước ngoài nghĩ rằng người Trung Quốc nào cũng biết võ thuật và bóng bàn, kỳ thực chỉ là số người yêu thích hai môn này khá đông. Người Trung Quốc đặc biệt thích đánh bóng bàn, đến Trung Quốc bạn sẽ thấy khắp nơi đều có bàn bóng bàn. Những môn như bóng bàn, cầu lông, chạy bộ không yêu cầu cao về điều kiện nên trở thành lựa chọn vận động lý tưởng. Người ta hay nói “sự sống nằm ở vận động”, nên cuối tuần nhiều người đến nhà thi đấu đánh vài trận. Tên gọi “bóng bàn (pīngpāngqiú)” cũng rất thú vị: “pīng” và “pāng” chính là âm thanh phát ra khi đánh bóng. Khi xem thi đấu bóng bàn, nhất là lúc vận động viên giao bóng, khán giả cần giữ yên lặng, cấm nói to hoặc rời chỗ đi lại tùy tiện." }
+      ]
+    }
+  ],
+  "reading_questions": [
+    { "question_zh": "填写申请表格时，应该提供哪些方面的信息？", "question_vi": "Khi điền mẫu đơn đăng ký, cần cung cấp những thông tin gì?", "answer_zh": "出生年月、性别、护照号码、联系地址、联系电话，另外还需要把护照复印一下。", "answer_vi": "Ngày tháng năm sinh, giới tính, số hộ chiếu, địa chỉ liên hệ, số điện thoại liên hệ, ngoài ra còn phải photo hộ chiếu." },
+    { "question_zh": "马克把申请表填错后，高老师批评他了吗？为什么？", "question_vi": "Sau khi Mark điền nhầm đơn đăng ký, cô Cao có phê bình cậu ấy không? Vì sao?", "answer_zh": "没有。高老师说没关系，不用道歉，谁都有粗心填错的时候，并且帮他重新打印了一份。", "answer_vi": "Không. Cô Cao bảo không sao, không cần xin lỗi, ai cũng có lúc bất cẩn điền nhầm và in lại cho cậu một bản mới." },
+    { "question_zh": "王静的手是怎么弄破的？严重吗？", "question_vi": "Tay Vương Tĩnh bị đứt như thế nào? Có nghiêm trọng không?", "answer_zh": "她想做羊肉饺子，用刀切肉的时候不小心把手弄破了。不太严重，过几天就好了。", "answer_vi": "Cô muốn làm sủi cảo thịt cừu, lúc dùng dao thái thịt bất cẩn làm đứt tay. Không nghiêm trọng lắm, vài ngày sẽ khỏi." },
+    { "question_zh": "今天他们能吃到羊肉饺子吗？如果吃不到，他们会怎么办？", "question_vi": "Hôm nay họ có ăn được sủi cảo thịt cừu không? Nếu không ăn được, họ sẽ làm gì?", "answer_zh": "吃不上羊肉饺子了。李进一会儿会去常去的理发店附近的那家餐厅买点儿包子。", "answer_vi": "Không ăn được sủi cảo thịt cừu. Lát nữa Lý Tiến sẽ ra quán ăn gần tiệm cắt tóc anh hay đi để mua ít bánh bao." },
+    { "question_zh": "马克认为安娜中国舞跳得好的原因可能是什么？", "question_vi": "Mark cho rằng nguyên nhân Anna múa Trung Quốc đẹp có thể là gì?", "answer_zh": "马克以为安娜以前在她的国家就学过中国舞蹈（其实是因为小时候妈妈教她跳过两年的舞，有点儿基础）。", "answer_vi": "Mark tưởng trước kia ở nước mình Anna đã học múa Trung Quốc (thật ra vì hồi nhỏ mẹ dạy cô múa hai năm nên có chút nền tảng)." },
+    { "question_zh": "马克的那个动作做得正确吗？那个动作应该怎么做？", "question_vi": "Động tác đó của Mark làm có đúng không? Phải làm thế nào mới chuẩn?", "answer_zh": "不太标准。应该先抬胳膊，然后抬腿，最后头再向右转一下。", "answer_vi": "Chưa chuẩn lắm. Nên giơ cánh tay trước, sau đó nâng chân, cuối cùng đầu quay sang phải một cái." },
+    { "question_zh": "马克现在租的房子和广告上的房子各有哪些特点？", "question_vi": "Căn nhà Mark đang thuê và căn nhà trên quảng cáo mỗi căn có đặc điểm gì?", "answer_zh": "现在租的房子离马路很近，对面有很多商店，周围非常吵；广告上的房子交通方便，周围很安静，厨房很大。", "answer_vi": "Nhà đang thuê gần đường lớn, đối diện nhiều cửa hàng, rất ồn ào; nhà trên quảng cáo giao thông thuận tiện, xung quanh yên tĩnh, nhà bếp rộng." },
+    { "question_zh": "马克为什么一直没联系上房东？", "question_vi": "Tại sao Mark mãi không liên lạc được với chủ nhà?", "answer_zh": "因为他在记房东手机号码的时候写错了一个数字，所以打过去总是占线。", "answer_vi": "Vì lúc chép số điện thoại di động của chủ nhà, anh viết nhầm một chữ số nên gọi sang lúc nào cũng báo máy bận." },
+    { "question_zh": "很多外国人对中国人有什么印象？这种印象对吗？为什么？", "question_vi": "Nhiều người nước ngoài có ấn tượng gì về người Trung Quốc? Ấn tượng đó có đúng không? Tại sao?", "answer_zh": "他们认为所有中国人都会功夫和乒乓球。不完全对，其实只是喜爱这两种运动的中国人比较多而已。", "answer_vi": "Họ tưởng người Trung Quốc nào cũng biết võ thuật và bóng bàn. Không hẳn đúng, thật ra chỉ là người yêu thích hai môn này khá đông." },
+    { "question_zh": "“乒乓球”这个名字是怎么来的？看乒乓球比赛时要注意哪些问题？", "question_vi": "Tên gọi “乒乓球” từ đâu mà có? Khi xem thi đấu bóng bàn cần chú ý những điều gì?", "answer_zh": "“乒”和“乓”是打球时发出的声音。看比赛时尤其是在运动员发球时，观众要安静，禁止大声讲话或者离开座位随便走动。", "answer_vi": "“Pīng” và “pāng” là tiếng phát ra lúc đánh bóng. Khi xem đấu, nhất là lúc vận động viên giao bóng, khán giả cần giữ yên lặng, cấm nói to hoặc rời chỗ đi lại tùy tiện." }
+  ],
+  "exercises": [
+    {
+      "id": "h4x19_ex1", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.131 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ thích hợp điền vào chỗ trống: “抽烟不但污染空气，影响身体健康，而且在加油站这样的地方抽烟非常危险，因此，很多地方都______抽烟。”",
+      "options": ["禁止", "打招呼", "吵", "道歉"],
+      "answer": "禁止",
+      "explanation": "禁止抽烟 = cấm hút thuốc.",
+      "review_tip": "Ôn cụm cố định 禁止吸烟/抽烟, 禁止大声讲话."
+    },
+    {
+      "id": "h4x19_ex2", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.131 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Điền lượng từ đúng: “这个京剧我一直想看，下星期六是他们在这儿的最后一______演出。中午你记得提醒我去买票，否则我就没有机会看了。”",
+      "options": ["场", "座", "秒", "页"],
+      "answer": "场",
+      "explanation": "场 (chǎng) là lượng từ chuyên dùng cho các buổi biểu diễn, trận đấu thể thao, suất chiếu phim.",
+      "review_tip": "Ôn lượng từ 场 (chǎng) cho 演出, 比赛, 球, 电影."
+    },
+    {
+      "id": "h4x19_ex3", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.132 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Điền từ thích hợp: “A：李经理的电话一直______，去办公室找他，敲了半天门，也没人开。 B：他刚出去开会了，可能下午才能回来。”",
+      "options": ["占线", "打印", "零钱", "座位"],
+      "answer": "占线",
+      "explanation": "电话一直占线 = điện thoại liên tục báo máy bận.",
+      "review_tip": "Ôn động từ 占线 (bận máy)."
+    },
+    {
+      "id": "h4x19_ex4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "比一比 tr.127 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn bổ ngữ ĐÚNG cho câu: “声音听着挺熟悉的，不过我一下子想不______了。”",
+      "options": ["起来", "出来", "上去", "下来"],
+      "answer": "起来",
+      "explanation": "Giọng nghe quen (thông tin vốn có sẵn trong trí nhớ nhưng tạm quên không nhớ lại được) → dùng 想不起来!",
+      "review_tip": "Ôn mục 比一比: 想起来 (nhớ lại thứ đã biết) vs 想出来 (nghĩ sáng tạo ra thứ mới)."
+    },
+    {
+      "id": "h4x19_ex5", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "比一比 tr.128 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn bổ ngữ ĐÚNG cho hai câu sau:\n(1) 遇到烦恼事时，你应该想一些办法让自己从不高兴的心情中走______。\n(2) 你回去后把今天大家在会上提的意见都整理______。",
+      "options": ["(1) 出来 / (2) 起来", "(1) 起来 / (2) 出来", "(1) 出来 / (2) 出来", "(1) 起来 / (2) 起来"],
+      "answer": "(1) 出来 / (2) 起来",
+      "explanation": "(1) 走出来 = bước thoát ra ngoài khỏi tâm trạng buồn bã (từ trong ra ngoài); (2) 整理起来 = gom, tập hợp, sắp xếp lại.",
+      "review_tip": "Ôn kỹ 5 câu thực hành bảng 比一比: 出来 — 起来 (tr.127–128)."
+    },
+    {
+      "id": "h4x19_ex6", "type": "fill_blank", "level": "Phân biệt", "origin_tag": "同字词 tr.132–133 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ cùng chữ 发 điền vào hai chỗ trống:\n(1) 注意速度，我们又不赶时间，太快了容易______危险。\n(2) 帮助别人可以积累人际关系，为自己的职业______打下基础。",
+      "options": ["(1) 发生 / (2) 发展", "(1) 发展 / (2) 发生", "(1) 沙发 / (2) 理发", "(1) 理发 / (2) 发展"],
+      "answer": "(1) 发生 / (2) 发展",
+      "explanation": "发生危险 = xảy ra nguy hiểm; 职业发展 = sự phát triển nghề nghiệp.",
+      "review_tip": "Ôn nhóm 同字词 chữ 发: 沙发, 发生, 发展, 理发(fà)."
+    },
+    {
+      "id": "h4x19_ex7", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Bài 19 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ đúng điền vào câu: “选择职业的关键______兴趣，当你喜欢做一件事情的时候，你会带着热情去工作。”",
+      "options": ["在于", "总的来说", "受不了", "除此以外"],
+      "answer": "在于",
+      "explanation": "Cụm danh từ 关键 + 在于 + 兴趣 = then chốt nằm ở niềm đam mê.",
+      "review_tip": "Ôn động từ văn viết 在于 (tr.130)."
+    },
+    {
+      "id": "h4x19_ex8", "type": "error_fix", "level": "Vận dụng", "origin_tag": "Bài 19 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Câu sau mắc lỗi ngữ pháp gì: “我刚才不小心碰了你一下，我专门来道歉你。”",
+      "options": [
+        "道歉 là động từ ly hợp không mang tân ngữ trực tiếp → sửa thành “我专门来向你道歉。”",
+        "Đổi 道歉 thành 打招呼",
+        "Đổi 专门 thành 总的来说",
+        "Thêm 了 sau 专门"
+      ],
+      "answer": "道歉 là động từ ly hợp không mang tân ngữ trực tiếp → sửa thành “我专门来向你道歉。”",
+      "explanation": "Cả 道歉 và 打招呼 đều là động từ ly hợp, muốn chỉ đối tượng phải dùng giới từ 向/跟 đặt trước động từ (向你道歉, 跟你打招呼).",
+      "review_tip": "Nhớ cấu trúc 向/跟 + Ai + 道歉 / 打招呼."
+    },
+    {
+      "id": "h4x19_ex9", "type": "reorder", "level": "Vận dụng", "origin_tag": "Bài 19 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Sắp xếp thành câu hoàn chỉnh:",
+      "tokens": ["吃不上", "看来", "羊肉饺子了。", "今天"],
+      "answer": "看来今天吃不上羊肉饺子了。",
+      "explanation": "Bổ ngữ khả năng V + 不上 diễn tả không thể đạt được mục đích (hôm nay không được ăn sủi cảo thịt cừu).",
+      "review_tip": "Ôn bổ ngữ 上 trong 吃不上, 坐不上, 考上."
+    },
+    {
+      "id": "h4x19_ex10", "type": "context_mc", "level": "Phân biệt", "origin_tag": "Ôn kiến thức cũ (30%)", "mistake_category": "Từ vựng",
+      "prompt": "[Ôn tập Bài 18] Chọn từ đúng cho câu: “这个小区环境太吵了，我天天睡不好觉，实在______了。”",
+      "options": ["受不了", "来得及", "是否", "占线"],
+      "answer": "受不了",
+      "explanation": "受不了 diễn tả không chịu đựng nổi môi trường quá ồn ào.",
+      "review_tip": "Ôn lại 受不了 từ Bài 18."
+    },
+    {
+      "id": "h4x19_ex11", "type": "reading_mc", "level": "Vận dụng", "origin_tag": "Ôn kiến thức cũ + Bài 19 (30%)", "mistake_category": "Đọc hiểu",
+      "prompt": "[Đọc hiểu tổng hợp] Đọc câu sau trong Bài khóa 3: “舞蹈不仅是一门艺术，也是一种‘语言’，这种语言与国籍无关，无论哪个国家的人都能看懂。” Ý nào đúng nhất?",
+      "options": [
+        "Múa vượt qua rào cản quốc gia, người nước nào cũng có thể cảm nhận và hiểu được.",
+        "Chỉ những người từng học ngoại ngữ mới xem hiểu được múa Trung Quốc.",
+        "Múa chỉ dành cho người có cùng quốc tịch biểu diễn cùng nhau.",
+        "Học múa cần phải có nhiều năm kinh nghiệm ở nước ngoài."
+      ],
+      "answer": "Múa vượt qua rào cản quốc gia, người nước nào cũng có thể cảm nhận và hiểu được.",
+      "explanation": "Kết hợp cấu trúc 无论……都…… (Bài 11) và từ mới 国籍, 舞蹈 (Bài 19): bất kể người nước nào cũng đều xem hiểu.",
+      "review_tip": "Ôn lại cấu trúc 不仅……也…… và 无论……都……."
+    }
+  ]
+}

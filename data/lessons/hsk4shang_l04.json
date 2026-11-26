@@ -1,0 +1,975 @@
+{
+  "id": "hsk4shang_l04",
+  "book_id": "hsk4shang",
+  "textbook": "HSK 4 上",
+  "lesson_number": 4,
+  "title_zh": "不要太着急赚钱",
+  "title_vi": "Đừng quá vội vàng kiếm tiền",
+  "pdf_pages": "Trang 49–58 (Chuẩn HSK 4上 .pdf)",
+  "source_status": "verified_textbook",
+  "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"],
+  "vocabulary": [
+    {
+      "id": "hsk4s_l04_w01", "order": 1, "textbook": "HSK 4 上", "lesson": 4,
+      "hanzi": "提", "pinyin": "tí",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "nhắc đến, đề cập",
+        "structure": "别提了 / 提到 + 某事 / 提起",
+        "explanation": "Trong bài khóa 1, dùng trong cụm khẩu ngữ '别提了！' (Đừng nhắc nữa!) biểu thị sự chán nản, không muốn nói tới chuyện không vui.",
+        "examples": [
+          { "chinese": "别提了！我以为新工作比以前的好，没想到还没有以前好呢。", "pinyin": "Biétí le! Wǒ yǐwéi xīn gōngzuò bǐ yǐqián de hǎo, méi xiǎngdào hái méiyǒu yǐqián hǎo ne.", "vietnamese": "Đừng nhắc nữa! Mình tưởng công việc mới tốt hơn trước, không ngờ còn chẳng bằng trước đây.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Nghĩa: xách, nhấc lên / đề xuất, nêu ra)",
+          "meanings": ["1. xách, cầm nắm nhấc lên (提包, 提水)", "2. nêu ra, đề xuất (提问题, 提意见, 提要求)"],
+          "structure": "提 + 东西 / 提 + 问题/意见/要求",
+          "difference_note": "Ngoài nghĩa 'nhắc đến' (别提了, 提到), 提 còn có nghĩa gốc là 'xách bằng tay' và nghĩa chuyển 'đưa ra (ý kiến, câu hỏi, yêu cầu)'.",
+          "examples": [
+            { "chinese": "关于这个计划，大家如果有什么意见可以提出来。", "pinyin": "Guānyú zhège jìhuà, dàjiā rúguǒ yǒu shénme yìjiàn kěyǐ tí chūlái.", "vietnamese": "Về kế hoạch này, mọi người nếu có ý kiến gì đều có thể nêu ra." }
+          ]
+        }
+      ],
+      "chinese_explanation": "谈起、说到；也指垂手拿着（提东西）或指出、提出（提意见）。",
+      "collocations": ["别提了", "提到", "提意见", "提问题"],
+      "usage_note": "Cụm '别提了' mang ngữ khí than thở thân mật trong giao tiếp hàng ngày.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l04_w02", "order": 2, "textbook": "HSK 4 上", "lesson": 4,
+      "hanzi": "以为", "pinyin": "yǐwéi",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "cho rằng, tưởng là",
+        "structure": "主语 + (还/原来/本来)以为……，(其实/没想到/才发现)……",
+        "explanation": "Thường biểu thị suy nghĩ, nhận định của người nói KHÔNG đúng với sự thật thực tế.",
+        "examples": [
+          { "chinese": "我以为新工作比以前的好，没想到还没有以前好呢。", "pinyin": "Wǒ yǐwéi xīn gōngzuò bǐ yǐqián de hǎo, méi xiǎngdào hái méiyǒu yǐqián hǎo ne.", "vietnamese": "Mình tưởng công việc mới tốt hơn trước, không ngờ còn chẳng bằng trước kia.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "动词，常用来表示说话人认为的事情跟事实不符。",
+      "collocations": ["我以为", "还以为", "原来以为", "自以为"],
+      "usage_note": "Trọng tâm Chú thích 1 (tr.51): phân biệt với 认为 (cho rằng, nêu quan điểm bình thường không hàm ý sai sự thật).",
+      "common_errors": "Không dùng 以为 để nêu quan điểm cá nhân hiện tại của mình (VD: muốn nói 'Tôi cho rằng học tiếng Hán rất quan trọng' → dùng 我认为, không dùng 我以为).",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l04_w03", "order": 3, "textbook": "HSK 4 上", "lesson": 4,
+      "hanzi": "份", "pinyin": "fèn",
+      "lesson_usage": {
+        "part_of_speech": "量词 (Lượng từ)", "meaning": "(dùng cho công việc, báo chí, tài liệu, quà tặng, tình cảm...) tờ, bản, phần",
+        "structure": "一份/那份 + 工作/调查/材料/报纸/礼物/感情",
+        "explanation": "Lượng từ phổ biến dùng cho công việc, văn bản khảo sát, báo chí, suất ăn, quà tặng, tình cảm.",
+        "examples": [
+          { "chinese": "上次那份工作你只做了两个月就离开了。", "pinyin": "Shàng cì nà fèn gōngzuò nǐ zhǐ zuòle liǎng ge yuè jiù líkāi le.", "vietnamese": "Công việc lần trước cậu mới làm có hai tháng đã nghỉ rồi.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "量词，用于划分成整体的事物（工作、文件、报纸、礼物、饭菜等）。",
+      "collocations": ["一份工作", "那份调查", "一份材料", "一份礼物"],
+      "usage_note": "Kết hợp rất hay gặp trong HSK 4: 一份工作, 一份调查, 一份材料, 一份礼物, 一份报纸.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l04_w04", "order": 4, "textbook": "HSK 4 上", "lesson": 4,
+      "hanzi": "完全", "pinyin": "wánquán",
+      "lesson_usage": {
+        "part_of_speech": "副词 (Phó từ)", "meaning": "hoàn toàn",
+        "structure": "完全 + 动词/形容词 (完全适应 / 完全不一样 / 完全同意)",
+        "explanation": "Biểu thị mức độ 100%, toàn bộ không thiếu sót chút nào.",
+        "examples": [
+          { "chinese": "其实，完全适应一个新的工作需要一年时间，所以，经常换工作不一定好。", "pinyin": "Qíshí, wánquán shìyìng yí ge xīn de gōngzuò xūyào yì nián shíjiān, suǒyǐ, jīngcháng huàn gōngzuò bùyídìng hǎo.", "vietnamese": "Thật ra để hoàn toàn thích nghi với một công việc mới cần một năm, nên thường xuyên đổi việc chưa chắc đã tốt.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "形容词 (Tính từ)",
+          "meanings": ["đầy đủ, trọn vẹn, hoàn chỉnh"],
+          "structure": "很完全 / 不完全 / 完全的 + 准备",
+          "difference_note": "Ít gặp hơn vai trò phó từ, dùng để miêu tả sự vật đầy đủ các bộ phận hoặc điều kiện.",
+          "examples": [
+            { "chinese": "关于这件事的记录还不完全，需要再调查一下。", "pinyin": "Guānyú zhè jiàn shì de jìlù hái bù wánquán, xūyào zài diàochá yíxià.", "vietnamese": "Ghi chép về sự việc này vẫn chưa đầy đủ, cần điều tra thêm." }
+          ]
+        }
+      ],
+      "chinese_explanation": "副词，表示全部、彻底；作形容词表示齐全、不缺少什么。",
+      "collocations": ["完全适应", "完全不同", "完全同意", "不完全"],
+      "usage_note": "Phân biệt vị trí phủ định: 不完全 (chưa hoàn toàn — phủ định bộ phận) vs 完全不 (hoàn toàn không — phủ định tuyệt đối).",
+      "common_errors": "Nhầm '不完全一样' (không hoàn toàn giống) với '完全不一样' (hoàn toàn khác nhau).",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l04_w05", "order": 5, "textbook": "HSK 4 上", "lesson": 4,
+      "hanzi": "赚", "pinyin": "zhuàn",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "kiếm (tiền)",
+        "structure": "赚钱 / 赚了不少钱 / 急着赚钱",
+        "explanation": "Kiếm được tiền công hoặc thu lợi nhuận từ lao động, kinh doanh.",
+        "examples": [
+          { "chinese": "你才到新公司，不要太急着赚钱，多学习才是最重要的。", "pinyin": "Nǐ cái dào xīn gōngsī, búyào tài jízhe zhuàn qián, duō xuéxí cái shì zuì zhòngyào de.", "vietnamese": "Cậu mới vào công ty mới, đừng quá vội kiếm tiền, học hỏi nhiều mới là quan trọng nhất.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Nghĩa: thu lãi, lời / được hời)",
+          "meanings": ["lãi, lời (khi kinh doanh); được lợi, hời"],
+          "structure": "赚了 + 钱数 / 没赚到",
+          "difference_note": "Không cần tân ngữ 钱 cố định; chỉ khoản chênh lệch có lãi sau khi trừ chi phí.",
+          "examples": [
+            { "chinese": "这笔生意我们公司赚了不少。", "pinyin": "Zhè bǐ shēngyi wǒmen gōngsī zhuànle bù shǎo.", "vietnamese": "Thương vụ này công ty chúng tôi lãi được không ít." }
+          ]
+        }
+      ],
+      "chinese_explanation": "做买卖得利；挣得（钱财）。",
+      "collocations": ["赚钱", "赚大钱", "赚了不少"],
+      "usage_note": "Phân biệt thanh điệu: zhuàn (kiếm tiền/lãi) vs zhuǎn (chuyển).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l04_w06", "order": 6, "textbook": "HSK 4 上", "lesson": 4,
+      "hanzi": "调查", "pinyin": "diàochá",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "điều tra, khảo sát",
+        "structure": "调查 + 情况/问题 / 做调查 / 调查一下",
+        "explanation": "Thu thập thông tin, tìm hiểu kỹ tình hình thực tế để làm rõ vấn đề.",
+        "examples": [
+          { "chinese": "那份调查还要多长时间才能做完？", "pinyin": "Nà fèn diàochá hái yào duō cháng shíjiān cái néng zuòwán?", "vietnamese": "Bản khảo sát đó còn cần bao lâu nữa mới làm xong?", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ)",
+          "meanings": ["cuộc điều tra, bản khảo sát"],
+          "structure": "那份调查 / 根据调查 / 市场调查 / 调查表",
+          "difference_note": "Chính trong bài khóa 2 ('那份调查') và Chú thích 3 ('根据调查'), 调查 được dùng như danh từ đi kèm lượng từ 份 hoặc giới từ 根据.",
+          "examples": [
+            { "chinese": "根据调查，人每天晚上最少应该睡7个小时。", "pinyin": "Gēnjù diàochá, rén měi tiān wǎnshang zuìshǎo yīnggāi shuì qī ge xiǎoshí.", "vietnamese": "Theo khảo sát, mỗi tối con người ít nhất nên ngủ 7 tiếng." }
+          ]
+        }
+      ],
+      "chinese_explanation": "为了解情况进行考察（动词）；也指考察研究的工作或报告（名词）。",
+      "collocations": ["那份调查", "根据调查", "调查表", "市场调查"],
+      "usage_note": "Chú ý chữ 调 trong 调查 đọc là diào (thanh 4), không đọc tiáo.",
+      "common_errors": "Đọc nhầm thành tiáochá → Đúng là diàochá.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l04_w07", "order": 7, "textbook": "HSK 4 上", "lesson": 4,
+      "hanzi": "原来", "pinyin": "yuánlái",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "ban đầu, đầu tiên (không thay đổi)",
+        "structure": "原来的 + 名词 (原来的计划 / 原来的颜色)",
+        "explanation": "Trong bài khóa 2, làm tính từ phi vị ngữ bổ nghĩa cho danh từ 计划 (bắt buộc có 的).",
+        "examples": [
+          { "chinese": "按原来的计划应该是两周，但是我们可以提前完成，周末保证做完。", "pinyin": "Àn yuánlái de jìhuà yīnggāi shì liǎng zhōu, dànshì wǒmen kěyǐ tíqián wánchéng, zhōumò bǎozhèng zuòwán.", "vietnamese": "Theo kế hoạch ban đầu đáng lẽ là hai tuần, nhưng chúng tôi có thể hoàn thành trước hạn, cuối tuần đảm bảo làm xong.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ – Chú thích 2 tr.51)",
+          "meanings": ["ban đầu, trước đây (chỉ thời gian quá khứ đối lập hiện tại)"],
+          "structure": "原来 + Vế câu cũ，现在 + Vế câu mới",
+          "difference_note": "Tương đương '开始的时候、从前', đứng làm trạng ngữ thời gian.",
+          "examples": [
+            { "chinese": "坐火车从北京到上海，原来最快差不多需要12个小时，现在有了高铁，5个小时就能到。", "pinyin": "Zuò huǒchē cóng Běijīng dào Shànghǎi, yuánlái zuì kuài chàbuduō xūyào shí'èr ge xiǎoshí, xiànzài yǒule gāotiě, wǔ ge xiǎoshí jiù néng dào.", "vietnamese": "Đi tàu hỏa từ Bắc Kinh đến Thượng Hải, trước đây nhanh nhất cũng mất gần 12 tiếng, giờ có tàu cao tốc chỉ 5 tiếng là tới." }
+          ]
+        },
+        {
+          "part_of_speech": "副词 (Phó từ – 2 nghĩa trong Chú thích 2 tr.52)",
+          "meanings": ["1. trước đây vốn là (nay đã đổi)", "2. hóa ra là (phát hiện ra sự thật trước kia chưa biết)"],
+          "structure": "(1) S + 原来 + V，现在……; (2) 原来 + S + V / S + 原来 + V",
+          "difference_note": "Nghĩa (2) 'hóa ra là...' là điểm khác biệt lớn nhất giúp phân biệt 原来 với 本来 (本来 KHÔNG có nghĩa phát hiện bất ngờ).",
+          "examples": [
+            { "chinese": "我还以为是谁帮我打扫房间呢，原来是你啊！", "pinyin": "Wǒ hái yǐwéi shì shéi bāng wǒ dǎsǎo fángjiān ne, yuánlái shì nǐ a!", "vietnamese": "Mình còn tưởng là ai dọn phòng giúp mình, hóa ra là cậu à!" }
+          ]
+        }
+      ],
+      "chinese_explanation": "作形容词表示起初的；作名词/副词表示从前、先前；作副词还可表示发现了以前不知道的情况。",
+      "collocations": ["原来的计划", "原来如此", "原来是你", "我原来以为"],
+      "usage_note": "Từ trọng tâm Chú thích 2 (tr.51–52) và bảng So sánh '原来 — 本来' (tr.52–53).",
+      "common_errors": "Dùng 原来 thay 本来 trong câu mang nghĩa 'đáng lẽ ra theo lý phải vậy' (Sai: '这本书原来应该昨天还给你' → Đúng: '本来应该昨天还给你').",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l04_w08", "order": 8, "textbook": "HSK 4 上", "lesson": 4,
+      "hanzi": "计划", "pinyin": "jìhuà",
+      "lesson_usage": {
+        "part_of_speech": "名词 / 动词 (Danh từ / Động từ)", "meanings": ["1. (Danh từ) kế hoạch", "2. (Động từ) vạch kế hoạch, dự định"],
+        "meaning": "kế hoạch; vạch kế hoạch",
+        "structure": "(dt) 按照计划 / 原来的计划; (đgt) 计划 + 做某事",
+        "explanation": "Sách gốc ghi cả hai từ loại dt./đgt., và bài khóa 2 dùng cả hai cách ('按原来的计划' và '当天计划要做的事情').",
+        "examples": [
+          { "chinese": "按原来的计划应该是两周，但是我们可以提前完成。", "pinyin": "Àn yuánlái de jìhuà yīnggāi shì liǎng zhōu, dànshì wǒmen kěyǐ tíqián wánchéng.", "vietnamese": "Theo kế hoạch ban đầu đáng lẽ là hai tuần, nhưng chúng tôi có thể hoàn thành trước hạn.", "from_text": true },
+          { "chinese": "每天早上我都把当天计划要做的事情写在笔记本上。", "pinyin": "Měi tiān zǎoshang wǒ dōu bǎ dàngtiān jìhuà yào zuò de shìqing xiě zài bǐjìběn shang.", "vietnamese": "Mỗi sáng tôi đều viết những việc dự định làm trong ngày vào sổ tay.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "工作或行动以前预先拟定的具体内容和步骤（名词）；也指做计划、打算（动词）。",
+      "collocations": ["按照计划", "改变计划", "学习计划", "计划去旅游"],
+      "usage_note": "Phân biệt nhẹ với 打算: 计划 thiên về kế hoạch chi tiết, trang trọng (có thể làm danh từ '一份计划'); 打算 thiên về dự định cá nhân trong khẩu ngữ.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l04_w09", "order": 9, "textbook": "HSK 4 上", "lesson": 4,
+      "hanzi": "提前", "pinyin": "tíqián",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "làm việc gì đó sớm hơn quy định / trước thời hạn",
+        "structure": "提前 + 动词 / 提前 + 时量 (提前完成 / 提前一个小时)",
+        "explanation": "Đẩy thời gian thực hiện lên sớm hơn so với dự kiến hay lịch ban đầu.",
+        "examples": [
+          { "chinese": "按原来的计划应该是两周，但是我们可以提前完成，周末保证做完。", "pinyin": "Àn yuánlái de jìhuà yīnggāi shì liǎng zhōu, dànshì wǒmen kěyǐ tíqián wánchéng, zhōumò bǎozhèng zuòwán.", "vietnamese": "Theo kế hoạch ban đầu đáng lẽ là hai tuần, nhưng chúng tôi có thể hoàn thành trước thời hạn, cuối tuần đảm bảo làm xong.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "把原定的时间往前移；在预定时间之前（完成）。",
+      "collocations": ["提前完成", "提前一个小时", "提前通知", "提前准备"],
+      "usage_note": "Trái nghĩa là 推迟 (hoãn lại, lùi thời gian).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l04_w10", "order": 10, "textbook": "HSK 4 上", "lesson": 4,
+      "hanzi": "保证", "pinyin": "bǎozhèng",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "cam đoan, bảo đảm",
+        "structure": "保证 + 动词/小句 / 保证 + 质量/安全",
+        "explanation": "Cam kết chắc chắn sẽ thực hiện hoặc duy trì đạt kết quả nhất định.",
+        "examples": [
+          { "chinese": "但是我们可以提前完成，周末保证做完。", "pinyin": "Dànshì wǒmen kěyǐ tíqián wánchéng, zhōumò bǎozhèng zuòwán.", "vietnamese": "Nhưng chúng tôi có thể hoàn thành trước hạn, cuối tuần cam đoan làm xong.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ)",
+          "meanings": ["sự đảm bảo, điều kiện đảm bảo"],
+          "structure": "……的保证 / 安全保证",
+          "difference_note": "Làm danh từ chỉ yếu tố nền tảng giúp đảm bảo kết quả tốt.",
+          "examples": [
+            { "chinese": "良好的习惯是成功的保证。", "pinyin": "Liánghǎo de xíguàn shì chénggōng de bǎozhèng.", "vietnamese": "Thói quen tốt đẹp là sự đảm bảo của thành công." }
+          ]
+        }
+      ],
+      "chinese_explanation": "担保、确保做到（动词）；也指作为担保的事物（名词）。",
+      "collocations": ["保证完成", "保证质量", "我保证", "安全的保证"],
+      "usage_note": "Hay dùng với bổ ngữ kết quả phía sau: 保证做完, 保证按时到.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l04_w11", "order": 11, "textbook": "HSK 4 上", "lesson": 4,
+      "hanzi": "提醒", "pinyin": "tí xǐng",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "nhắc nhở",
+        "structure": "提醒 + 某人 + 做某事 / 提醒自己",
+        "explanation": "Gợi nhớ hoặc lưu ý người khác (hoặc chính mình) để không quên hay tránh sai sót.",
+        "examples": [
+          { "chinese": "每天早上我都把当天计划要做的事情写在笔记本上，提醒自己安排好时间。", "pinyin": "Měi tiān zǎoshang wǒ dōu bǎ dàngtiān jìhuà yào zuò de shìqing xiě zài bǐjìběn shang, tíxǐng zìjǐ ānpái hǎo shíjiān.", "vietnamese": "Mỗi sáng tôi đều ghi những việc dự định làm trong ngày vào sổ tay, nhắc nhở bản thân sắp xếp thời gian hợp lý.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ)",
+          "meanings": ["lời nhắc nhở"],
+          "structure": "谢谢你的提醒",
+          "difference_note": "Xuất hiện ngay trong bài tập 2 câu 10 (tr.58: '谢谢你的提醒，我差点儿忘记了').",
+          "examples": [
+            { "chinese": "谢谢你的提醒，我差点儿忘记了。", "pinyin": "Xièxie nǐ de tíxǐng, wǒ chàdiǎnr wàngjì le.", "vietnamese": "Cảm ơn lời nhắc của bạn, mình suýt nữa thì quên mất." }
+          ]
+        }
+      ],
+      "chinese_explanation": "从旁指点，促使注意或记起。",
+      "collocations": ["提醒自己", "提醒他", "谢谢你的提醒"],
+      "usage_note": "Thường dùng trong câu kiêm ngữ: 提醒 + ai + làm gì (提醒他带伞).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l04_w12", "order": 12, "textbook": "HSK 4 上", "lesson": 4,
+      "hanzi": "乱", "pinyin": "luàn",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "lộn xộn, rối loạn, lúng túng",
+        "structure": "很乱 / 手忙脚乱 / 房间太乱了",
+        "explanation": "Không có trật tự, rối tung; trong bài khóa 2 xuất hiện trong thành ngữ '手忙脚乱' (tay chân cuống quýt, lúng túng).",
+        "examples": [
+          { "chinese": "这个办法真不错！这样我就不会手忙脚乱了。", "pinyin": "Zhège bànfǎ zhēn búcuò! Zhèyàng wǒ jiù bú huì shǒumáng-jiǎoluàn le.", "vietnamese": "Cách này hay thật đấy! Như vậy tôi sẽ không bị cuống quýt rối tung lên nữa.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "副词 (Phó từ)",
+          "meanings": ["bừa bãi, lung tung, tùy tiện"],
+          "structure": "别乱 + 动词 (别乱说 / 别乱花钱 / 别乱放)",
+          "difference_note": "Đứng trước động từ làm trạng ngữ để chỉ hành động thiếu suy nghĩ, không có quy tắc.",
+          "examples": [
+            { "chinese": "没搞清楚情况以前，不要乱说话。", "pinyin": "Méi gǎo qīngchu qíngkuàng yǐqián, búyào luàn shuōhuà.", "vietnamese": "Trước khi tìm hiểu rõ tình hình thì đừng nói bừa." }
+          ]
+        }
+      ],
+      "chinese_explanation": "没有秩序、杂乱；作副词表示任意、随便。",
+      "collocations": ["手忙脚乱", "房间很乱", "乱说", "乱花钱"],
+      "usage_note": "Thành ngữ rất hay gặp: 手忙脚乱 (shǒumáng-jiǎoluàn) = cuống quýt, rối rắm tay chân.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l04_w13", "order": 13, "textbook": "HSK 4 上", "lesson": 4,
+      "hanzi": "生意", "pinyin": "shēngyi",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "việc kinh doanh, buôn bán",
+        "structure": "做生意 / 谈生意 / 生意越做越大 / 生意很好",
+        "explanation": "Hoạt động thương mại, buôn bán, giao dịch kinh doanh.",
+        "examples": [
+          { "chinese": "我们和上次那个公司的生意终于谈成了。", "pinyin": "Wǒmen hé shàng cì nàge gōngsī de shēngyi zhōngyú tánchéng le.", "vietnamese": "Thương vụ kinh doanh giữa chúng ta và công ty lần trước cuối cùng cũng đàm phán thành công rồi.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "买卖，商业经营。",
+      "collocations": ["做生意", "谈生意", "生意兴隆", "生意不错"],
+      "usage_note": "Chữ 意 đọc thanh nhẹ (shēngyi). Lượng từ cho một thương vụ là 笔 (一笔生意).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l04_w14", "order": 14, "textbook": "HSK 4 上", "lesson": 4,
+      "hanzi": "谈", "pinyin": "tán",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "nói chuyện, thảo luận, đàm phán",
+        "structure": "谈生意 / 谈成 / 谈一谈 / 谈工作 / 谈恋爱",
+        "explanation": "Trao đổi, bàn bạc, thương lượng về một vấn đề hoặc công việc.",
+        "examples": [
+          { "chinese": "我们和上次那个公司的生意终于谈成了。", "pinyin": "Wǒmen hé shàng cì nàge gōngsī de shēngyi zhōngyú tánchéng le.", "vietnamese": "Thương vụ với công ty lần trước cuối cùng đã bàn xong thành công rồi.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "说、讨论、商量。",
+      "collocations": ["谈成", "谈生意", "谈谈", "谈恋爱"],
+      "usage_note": "谈成 = đàm phán thành công (bổ ngữ kết quả 成).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l04_w15", "order": 15, "textbook": "HSK 4 上", "lesson": 4, "is_out_of_syllabus": true,
+      "hanzi": "并", "pinyin": "bìng",
+      "lesson_usage": {
+        "part_of_speech": "副词 (Phó từ)", "meaning": "(dùng trước từ phủ định để nhấn mạnh) hoàn toàn không, thật ra không",
+        "structure": "并 + 不 / 没(有) + 动词/形容词",
+        "explanation": "Từ đánh dấu * (ngoài khung HSK 4) nhưng là trọng điểm Chú thích 3 (tr.53): đứng trước 不/没(有) để tăng cường ngữ khí phủ định, bác bỏ quan điểm trước đó.",
+        "examples": [
+          { "chinese": "我原来以为做生意很简单，后来才发现其实并不容易，现在赚钱越来越难了。", "pinyin": "Wǒ yuánlái yǐwéi zuò shēngyi hěn jiǎndān, hòulái cái fāxiàn qíshí bìng bù róngyì, xiànzài zhuàn qián yuè lái yuè nán le.", "vietnamese": "Trước đây tôi tưởng làm ăn rất đơn giản, sau mới phát hiện thật ra hoàn toàn không dễ, giờ kiếm tiền càng ngày càng khó.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "连词 (Liên từ – viết gọn của 并且)",
+          "meanings": ["và, đồng thời, hơn nữa (nối hai động từ trong văn viết)"],
+          "structure": "动词1 + 并 + 动词2 (讨论并通过 / 发现并解决)",
+          "difference_note": "Khác với phó từ phủ định (并不/并没有), liên từ 并 nối hai động từ xảy ra đồng thời hoặc kế tiếp trong câu khẳng định văn viết.",
+          "examples": [
+            { "chinese": "我们很快发现了问题并及时解决了它。", "pinyin": "Wǒmen hěn kuài fāxiànle wèntí bìng jíshí jiějuéle tā.", "vietnamese": "Chúng tôi rất nhanh đã phát hiện ra vấn đề và kịp thời giải quyết nó." }
+          ]
+        }
+      ],
+      "chinese_explanation": "作副词用在“不、没（有）”前加强否定语气；作连词表示并列或递进（同“并且”）。",
+      "collocations": ["并不容易", "并没有", "并不适合", "并且"],
+      "usage_note": "Trọng tâm Chú thích 3 (tr.53): khi nhấn mạnh phủ định, BẮT BUỘC phía sau phải có 不 hoặc 没(有).",
+      "common_errors": "Sai: '我并喜欢喝咖啡' (không dùng phó từ 并 trong câu khẳng định) → Đúng: '我并不喜欢喝咖啡'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l04_w16", "order": 16, "textbook": "HSK 4 上", "lesson": 4,
+      "hanzi": "积累", "pinyin": "jīlěi",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "tích lũy",
+        "structure": "积累 + 经验/知识/财富",
+        "explanation": "Tích góp, gom góp dần dần qua thời gian (kinh nghiệm, kiến thức, vốn liếng).",
+        "examples": [
+          { "chinese": "慢慢来，万事开头难，重要的是要多积累经验。", "pinyin": "Mànmàn lái, wànshì kāitóu nán, zhòngyào de shì yào duō jīlěi jīngyàn.", "vietnamese": "Cứ từ từ thôi, vạn sự khởi đầu nan, quan trọng là phải tích lũy nhiều kinh nghiệm.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ)",
+          "meanings": ["sự tích lũy, vốn tích góp"],
+          "structure": "长期的积累 / 知识的积累",
+          "difference_note": "Làm danh từ chỉ kết quả của quá trình tích góp lâu dài.",
+          "examples": [
+            { "chinese": "学好一门语言需要长期的积累。", "pinyin": "Xuéhǎo yì mén yǔyán xūyào chángqī de jīlěi.", "vietnamese": "Học tốt một ngôn ngữ cần sự tích lũy lâu dài." }
+          ]
+        }
+      ],
+      "chinese_explanation": "逐渐聚集；也指积聚起来的事物。",
+      "collocations": ["积累经验", "积累知识", "多积累", "长期积累"],
+      "usage_note": "Chú ý thanh 3 ở chữ 累: jīlěi (không đọc lèi là mệt!).",
+      "common_errors": "Đọc nhầm 累 thành thanh 4 (lèi).",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l04_w17", "order": 17, "textbook": "HSK 4 上", "lesson": 4,
+      "hanzi": "经验", "pinyin": "jīngyàn",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "kinh nghiệm",
+        "structure": "积累经验 / 丰富经验 / 工作经验 / 按照经验",
+        "explanation": "Kiến thức và kỹ năng thu nhận được qua quá trình thực tế trải nghiệm.",
+        "examples": [
+          { "chinese": "慢慢来，万事开头难，重要的是要多积累经验。", "pinyin": "Mànmàn lái, wànshì kāitóu nán, zhòngyào de shì yào duō jīlěi jīngyàn.", "vietnamese": "Cứ từ từ, vạn sự khởi đầu nan, điều quan trọng là cần tích lũy nhiều kinh nghiệm.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "由实践得来的知识或技能。",
+      "collocations": ["工作经验", "积累经验", "经验丰富", "交流经验"],
+      "usage_note": "Thường đi với các động từ/tính từ: 积累, 丰富, 交流, 有/没有, 缺乏.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l04_w18", "order": 18, "textbook": "HSK 4 上", "lesson": 4,
+      "hanzi": "一切", "pinyin": "yíqiè",
+      "lesson_usage": {
+        "part_of_speech": "代词 (Đại từ)", "meaning": "tất cả, mọi thứ",
+        "structure": "一切 + 都…… / 一切 + 名词 (一切问题 / 一切困难)",
+        "explanation": "Đại từ chỉ toàn bộ sự vật, sự việc không trừ sót thứ gì.",
+        "examples": [
+          { "chinese": "我相信经过我们大家的努力，公司的生意会越做越大，一切都会好的。", "pinyin": "Wǒ xiāngxìn jīngguò wǒmen dàjiā de nǔlì, gōngsī de shēngyi huì yuè zuò yuè dà, yíqiè dōu huì hǎo de.", "vietnamese": "Tôi tin rằng qua sự nỗ lực của mọi người, việc kinh doanh của công ty sẽ ngày càng phát triển, mọi thứ đều sẽ tốt đẹp.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "代词，全部，所有。",
+      "collocations": ["一切都会好的", "一切顺利", "一切都安排得很好"],
+      "usage_note": "Chú ý biến điệu của 一: yíqiè (vì 切 thanh 4). Thường chỉ sự vật trừu tượng/tổng thể, ít dùng trực tiếp chỉ người cụ thể (dùng 大家/所有人).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l04_w19", "order": 19, "textbook": "HSK 4 上", "lesson": 4,
+      "hanzi": "按照", "pinyin": "ànzhào",
+      "lesson_usage": {
+        "part_of_speech": "介词 (Giới từ)", "meaning": "theo, dựa theo, căn cứ vào",
+        "structure": "按照 + 计划/要求/规定/经验 + 动词",
+        "explanation": "Biểu thị làm việc tuân theo một tiêu chuẩn, kế hoạch, yêu cầu hoặc quy định nào đó (gần nghĩa 根据).",
+        "examples": [
+          { "chinese": "我们今年的工作都已经按照计划完成了。", "pinyin": "Wǒmen jīnnián de gōngzuò dōu yǐjīng ànzhào jìhuà wánchéng le.", "vietnamese": "Công việc năm nay của chúng ta đều đã hoàn thành theo đúng kế hoạch rồi.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "介词，表示“根据、依照”的意思。",
+      "collocations": ["按照计划", "按照要求", "按照经验", "按照规定"],
+      "usage_note": "Trọng tâm Chú thích 4 (tr.56): dạng rút gọn là 按 (như '按原来的计划' ở Bài khóa 2).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l04_w20", "order": 20, "textbook": "HSK 4 上", "lesson": 4,
+      "hanzi": "成功", "pinyin": "chénggōng",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "thành công",
+        "structure": "成功地 + 动词 / 很成功 / 成功的 + 人",
+        "explanation": "Trong bài khóa 4, làm trạng ngữ '成功地解决了问题' (giải quyết vấn đề một cách thành công).",
+        "examples": [
+          { "chinese": "我们成功地解决了问题，顺利地完成了工作，非常感谢大家对我的帮助！", "pinyin": "Wǒmen chénggōng de jiějuéle wèntí, shùnlì de wánchéngle gōngzuò, fēicháng gǎnxiè dàjiā duì wǒ de bāngzhù!", "vietnamese": "Chúng ta đã giải quyết vấn đề thành công, hoàn thành công việc thuận lợi, vô cùng cảm ơn sự giúp đỡ của mọi người dành cho tôi!", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 / 名词 (Động từ / Danh từ)",
+          "meanings": ["1. (Động từ) thành công, đạt kết quả mong muốn (他成功了)", "2. (Danh từ) sự thành công (取得成功)"],
+          "structure": "(đgt) 终于成功了; (dt) 取得成功 / 成功的保证",
+          "difference_note": "Ngoài vai trò tính từ/trạng ngữ trong bài khóa 4, 成功 còn rất thường làm động từ hoặc danh từ.",
+          "examples": [
+            { "chinese": "经过多次努力，他们终于取得了很大的成功。", "pinyin": "Jīngguò duō cì nǔlì, tāmen zhōngyú qǔdéle hěn dà de chénggōng.", "vietnamese": "Trải qua nhiều lần nỗ lực, họ cuối cùng đã gặt hái được thành công lớn." }
+          ]
+        }
+      ],
+      "chinese_explanation": "获得预期的结果（跟“失败”相对）。",
+      "collocations": ["成功地解决", "取得成功", "非常成功", "成功人士"],
+      "usage_note": "Trái nghĩa là 失败 (thất bại).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l04_w21", "order": 21, "textbook": "HSK 4 上", "lesson": 4,
+      "hanzi": "顺利", "pinyin": "shùnlì",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "thuận lợi, suôn sẻ",
+        "structure": "很顺利 / 顺利地 + 动词 / 一切顺利",
+        "explanation": "Tiến triển trôi chảy, ít gặp trở ngại hay rắc rối.",
+        "examples": [
+          { "chinese": "我们成功地解决了问题，顺利地完成了工作。", "pinyin": "Wǒmen chénggōng de jiějuéle wèntí, shùnlì de wánchéngle gōngzuò.", "vietnamese": "Chúng ta đã giải quyết vấn đề thành công và hoàn thành công việc một cách thuận lợi.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "做事没有阻碍或很少遇到困难。",
+      "collocations": ["顺利完成", "一切顺利", "工作顺利", "非常顺利"],
+      "usage_note": "Rất hay dùng trong câu chúc: 祝你工作顺利！ / 祝你一切顺利！",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l04_w22", "order": 22, "textbook": "HSK 4 上", "lesson": 4,
+      "hanzi": "感谢", "pinyin": "gǎnxiè",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "cảm ơn, biết ơn",
+        "structure": "非常感谢 + 某人 (+ 的帮助) / 表示感谢",
+        "explanation": "Bày tỏ lòng biết ơn bằng lời nói hoặc hành động (trang trọng hơn 谢谢, có thể nhận phó từ mức độ 非常).",
+        "examples": [
+          { "chinese": "非常感谢大家对我的帮助！", "pinyin": "Fēicháng gǎnxiè dàjiā duì wǒ de bāngzhù!", "vietnamese": "Vô cùng cảm ơn sự giúp đỡ của mọi người dành cho tôi!", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "用言语行动表示感激。",
+      "collocations": ["非常感谢", "感谢大家", "表示感谢", "感谢信"],
+      "usage_note": "Phân biệt với 谢谢: 感谢 có thể kết hợp với 非常/十分/很 (非常感谢), còn 谢谢 thường dùng độc lập '谢谢你', không nói '很谢谢你'.",
+      "common_errors": "Sai: '我很谢谢你' → Đúng: '非常感谢你' hoặc '太谢谢你了'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l04_w23", "order": 23, "textbook": "HSK 4 上", "lesson": 4,
+      "hanzi": "消息", "pinyin": "xiāoxi",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "tin tức",
+        "structure": "一个好消息 / 坏消息 / 得到消息 / 听说这个消息",
+        "explanation": "Thông tin về người hay sự việc mới xảy ra.",
+        "examples": [
+          { "chinese": "另外，马经理让我告诉大家一个好消息。", "pinyin": "Lìngwài, Mǎ jīnglǐ ràng wǒ gàosu dàjiā yí ge hǎo xiāoxi.", "vietnamese": "Ngoài ra, giám đốc Mã bảo tôi thông báo cho mọi người một tin vui.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "关于人或事物情况的报道、音信。",
+      "collocations": ["好消息", "坏消息", "发消息", "得到消息"],
+      "usage_note": "Chữ 息 đọc thanh nhẹ (xiāoxi). Lượng từ là 个 hoặc 条 (一个好消息, 一条消息).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l04_w24", "order": 24, "textbook": "HSK 4 上", "lesson": 4,
+      "hanzi": "按时", "pinyin": "ànshí",
+      "lesson_usage": {
+        "part_of_speech": "副词 (Phó từ)", "meaning": "đúng hạn, đúng giờ quy định",
+        "structure": "按时 + 动词 (按时完成 / 按时上班 / 按时吃药 / 按时起飞)",
+        "explanation": "Làm việc theo đúng thời hạn hoặc thời điểm đã định sẵn.",
+        "examples": [
+          { "chinese": "因为大家按时完成了工作，公司决定这个月给每人多发三千元奖金。", "pinyin": "Yīnwèi dàjiā ànshí wánchéngle gōngzuò, gōngsī juédìng zhège yuè gěi měi rén duō fā sānqiān yuán jiǎngjīn.", "vietnamese": "Vì mọi người đã hoàn thành công việc đúng hạn, công ty quyết định tháng này thưởng thêm cho mỗi người ba nghìn tệ.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "副词，依照规定的时间，不延误。",
+      "collocations": ["按时完成", "按时上班", "按时吃药", "按时起飞"],
+      "usage_note": "Phân biệt với 准时 (Bài 3): 按时 là phó từ (KHÔNG làm vị ngữ/định ngữ, không nói '他很按时'), nhấn mạnh làm kịp trong thời hạn; 准时 vừa làm tính từ (他很准时) vừa làm trạng ngữ, nhấn mạnh chuẩn xác từng phút.",
+      "common_errors": "Sai: '王老师是一个很按时的人' → Đúng: '王老师是一个很准时的人'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l04_w25", "order": 25, "textbook": "HSK 4 上", "lesson": 4,
+      "hanzi": "奖金", "pinyin": "jiǎngjīn",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "tiền thưởng",
+        "structure": "发奖金 / 三千元奖金 / 工资和奖金",
+        "explanation": "Khoản tiền thưởng thêm cho nhân viên có thành tích tốt hoặc hoàn thành xuất sắc công việc.",
+        "examples": [
+          { "chinese": "公司决定这个月给每人多发三千元奖金。", "pinyin": "Gōngsī juédìng zhège yuè gěi měi rén duō fā sānqiān yuán jiǎngjīn.", "vietnamese": "Công ty quyết định tháng này phát thêm cho mỗi người ba nghìn tệ tiền thưởng.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "作为奖励而发给的钱。",
+      "collocations": ["发奖金", "年终奖金", "拿到奖金"],
+      "usage_note": "Động từ 'phát thưởng' là 发奖金 (fā jiǎngjīn); 'nhận thưởng' là 拿奖金 / 领奖金.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l04_w26", "order": 26, "textbook": "HSK 4 上", "lesson": 4,
+      "hanzi": "工资", "pinyin": "gōngzī",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "tiền lương",
+        "structure": "发工资 / 工资高/低 / 工资和奖金",
+        "explanation": "Khoản thù lao cố định được trả định kỳ cho người lao động.",
+        "examples": [
+          { "chinese": "年轻人刚开始工作的时候，不要太急着赚钱，不要眼睛里只有工资和奖金。", "pinyin": "Niánqīng rén gāng kāishǐ gōngzuò de shíhou, búyào tài jízhe zhuàn qián, búyào yǎnjing li zhǐyǒu gōngzī hé jiǎngjīn.", "vietnamese": "Người trẻ khi mới bắt đầu đi làm đừng quá vội vàng kiếm tiền, đừng để trong mắt chỉ có tiền lương và tiền thưởng.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "作为劳动报酬按期付给劳动者的货币。",
+      "collocations": ["发工资", "涨工资", "工资高", "工资低"],
+      "usage_note": "Dùng 高/低 để miêu tả mức lương (工资比较高/低); 'tăng lương' là 涨工资 (zhǎng gōngzī).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l04_w27", "order": 27, "textbook": "HSK 4 上", "lesson": 4,
+      "hanzi": "方法", "pinyin": "fāngfǎ",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "phương pháp, cách thức",
+        "structure": "学习方法 / 交流的方法 / 选择合适的方法",
+        "explanation": "Cách thức, quy trình có hệ thống để giải quyết vấn đề hay thực hiện công việc.",
+        "examples": [
+          { "chinese": "在工作的前几年，重要的是丰富自己的工作经验，学习与同事交流的方法，积累专业知识。", "pinyin": "Zài gōngzuò de qián jǐ nián, zhòngyào de shì fēngfù zìjǐ de gōngzuò jīngyàn, xuéxí yǔ tóngshì jiāoliú de fāngfǎ, jīlěi zhuānyè zhīshi.", "vietnamese": "Trong mấy năm đầu đi làm, điều quan trọng là làm phong phú kinh nghiệm làm việc của mình, học phương pháp giao lưu với đồng nghiệp và tích lũy kiến thức chuyên môn.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "关于解决思想、说话、行动等问题的门路、程序等。",
+      "collocations": ["学习方法", "好方法", "工作方法", "交流的方法"],
+      "usage_note": "Thuộc nhóm đồng tự 法 (tr.58): phân biệt 方法 (phương pháp học tập/làm việc mang tính hệ thống) với 办法 (biện pháp giải quyết tình huống cụ thể) và 法律 (pháp luật).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l04_w28", "order": 28, "textbook": "HSK 4 上", "lesson": 4,
+      "hanzi": "知识", "pinyin": "zhīshi",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "kiến thức, tri thức",
+        "structure": "专业知识 / 积累知识 / 丰富知识 / 学知识",
+        "explanation": "Hiểu biết, học thức con người tích lũy được qua học tập và thực tiễn.",
+        "examples": [
+          { "chinese": "积累专业知识，这些比收入重要多了。", "pinyin": "Jīlěi zhuānyè zhīshi, zhèxiē bǐ shōurù zhòngyào duō le.", "vietnamese": "Tích lũy kiến thức chuyên môn, những thứ này quan trọng hơn thu nhập nhiều.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "人们在社会实践中积累起来的经验、认识和学问。",
+      "collocations": ["专业知识", "文化知识", "积累知识", "知识丰富"],
+      "usage_note": "Chữ 识 đọc thanh nhẹ (zhīshi).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l04_w29", "order": 29, "textbook": "HSK 4 上", "lesson": 4,
+      "hanzi": "不得不", "pinyin": "bù dé bù",
+      "lesson_usage": {
+        "part_of_speech": "固定短语/副词 (Cụm cố định / Phó từ)", "meaning": "phải, không thể không, đành phải",
+        "structure": "主语 + 不得不 + 动词短语",
+        "explanation": "Kết cấu phủ định hai lần, biểu thị bị hoàn cảnh bắt buộc phải làm điều gì đó dù bản thân không thật sự muốn.",
+        "examples": [
+          { "chinese": "但是很多时候，我们不得不去做一些自己不愿意做甚至是非常不喜欢的工作。", "pinyin": "Dànshì hěn duō shíhou, wǒmen bù dé bù qù zuò yìxiē zìjǐ bú yuànyì zuò shènzhì shì fēicháng bù xǐhuan de gōngzuò.", "vietnamese": "Nhưng rất nhiều lúc, chúng ta không thể không làm một số công việc mà bản thân không muốn làm, thậm chí là vô cùng không thích.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "双重否定结构，表示客观条件限制，必须如此（无可奈何）。",
+      "collocations": ["不得不去", "不得不承认", "不得不放弃"],
+      "usage_note": "Phân biệt với 必须 (bắt buộc theo lý lẽ/quy định chung); 不得不 mang sắc thái 'bất đắc dĩ, không còn cách nào khác'.",
+      "common_errors": "Không đọc 得 thành de; trong 不得不 đọc là dé (bù dé bù).",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l04_w30", "order": 30, "textbook": "HSK 4 上", "lesson": 4,
+      "hanzi": "甚至", "pinyin": "shènzhì",
+      "lesson_usage": {
+        "part_of_speech": "连词 (Liên từ)", "meaning": "thậm chí",
+        "structure": "A，甚至 + B (đặt trước hạng mục cuối cùng/mức độ cao nhất để nhấn mạnh)",
+        "explanation": "Nối các danh từ, động từ hay vế câu đồng đẳng theo hướng tăng tiến mạnh, nhấn mạnh ví dụ nổi bật ở cuối.",
+        "examples": [
+          { "chinese": "我们不得不去做一些自己不愿意做甚至是非常不喜欢的工作。", "pinyin": "Wǒmen bù dé bù qù zuò yìxiē zìjǐ bú yuànyì zuò shènzhì shì fēicháng bù xǐhuan de gōngzuò.", "vietnamese": "Chúng ta buộc phải làm một số công việc mình không muốn làm, thậm chí là vô cùng không thích.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "副词 (Phó từ – Chú thích 5 tr.56)",
+          "meanings": ["thậm chí (nhấn mạnh một ví dụ cực đoan/nổi bật, thường đi kèm 都 hoặc 也)"],
+          "structure": "甚至 + (连) + 名词/小句 + 都/也……",
+          "difference_note": "Trong Chú thích 5 (tr.56), sách giải thích 甚至 với vai trò phó từ đặt trước mục nổi bật nhất để nhấn mạnh mức độ cao nhất.",
+          "examples": [
+            { "chinese": "这个房子离您公司也不远，您可以坐公共汽车甚至可以骑自行车上班。", "pinyin": "Zhège fángzi lí nín gōngsī yě bù yuǎn, nín kěyǐ zuò gōnggòng qìchē shènzhì kěyǐ qí zìxíngchē shàngbān.", "vietnamese": "Căn nhà này cũng không xa công ty anh, anh có thể đi xe buýt, thậm chí có thể đạp xe đi làm." }
+          ]
+        }
+      ],
+      "chinese_explanation": "连词/副词，强调突出的事例，放在并列项最后一项前突出这一项。",
+      "collocations": ["甚至连……都……", "甚至可以", "甚至是"],
+      "usage_note": "Trọng tâm Chú thích 5 (tr.56): vế sau 甚至 phải có mức độ mạnh/nổi bật hơn vế trước.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l04_w31", "order": 31, "textbook": "HSK 4 上", "lesson": 4,
+      "hanzi": "责任", "pinyin": "zérèn",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "trách nhiệm",
+        "structure": "责任心 / 责任感 / 有责任 / 承担责任",
+        "explanation": "Bổn phận, nghĩa vụ phải làm tốt phần việc được giao hoặc chịu hậu quả từ việc làm của mình.",
+        "examples": [
+          { "chinese": "这时，我们最需要的就是对工作的责任心。", "pinyin": "Zhè shí, wǒmen zuì xūyào de jiù shì duì gōngzuò de zérènxīn.", "vietnamese": "Lúc này, điều chúng ta cần nhất chính là tinh thần trách nhiệm đối với công việc.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "分内应做的事；没有做好分内事而应承担的过失。",
+      "collocations": ["责任心", "责任感", "有责任", "负责任"],
+      "usage_note": "Phân biệt với 负责 (Bài 3): 负责 là động từ/tính từ (负责工作, 很负责); 责任 là danh từ (有责任心, 对家有责任感).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    }
+  ],
+  "proper_nouns": [
+    { "hanzi": "王", "pinyin": "Wáng", "meaning": "Vương (họ)" }
+  ],
+  "same_char_expansion": {
+    "char": "法",
+    "words": [
+      { "hanzi": "办法", "pinyin": "bànfǎ", "meaning": "biện pháp, cách giải quyết" },
+      { "hanzi": "法律", "pinyin": "fǎlǜ", "meaning": "pháp luật" },
+      { "hanzi": "方法", "pinyin": "fāngfǎ", "meaning": "phương pháp, cách thức" }
+    ],
+    "examples": [
+      { "chinese": "要想完全解决这个难题，还需要找更好的办法。", "vietnamese": "Muốn giải quyết triệt để vấn đề nan giải này thì vẫn cần tìm biện pháp tốt hơn." },
+      { "chinese": "我希望能够用法律来帮助别人，所以上大学的时候，我选择了法律专业。", "vietnamese": "Tôi hy vọng có thể dùng pháp luật để giúp đỡ người khác, nên hồi đại học tôi đã chọn chuyên ngành luật." },
+      { "chinese": "在工作中，应该根据不同的人、不同的事选择不同的方法。", "vietnamese": "Trong công việc, nên căn cứ vào những người khác nhau, sự việc khác nhau mà lựa chọn phương pháp khác nhau." }
+    ]
+  },
+  "grammar": [
+    {
+      "title": "以为",
+      "formula": "S + (还/原来/本来)以为 + Nhận định sai，(其实/没想到/才发现) + Sự thật",
+      "meaning": "Tưởng là, cứ cho rằng (nhưng thực tế không phải vậy).",
+      "usage": "Động từ 以为 thường dùng để biểu thị điều người nói suy nghĩ hoặc dự đoán trước đó KHÔNG khớp với sự thật thực tế.",
+      "context": "Hay kết hợp với 没想到, 其实, 原来, 才发现 ở vế sau để nêu bật sự tương phản giữa suy đoán và thực tế.",
+      "examples": [
+        { "chinese": "她汉语说得那么好，我还以为她是中国人。", "pinyin": "Tā Hànyǔ shuō de nàme hǎo, wǒ hái yǐwéi tā shì Zhōngguó rén.", "vietnamese": "Cô ấy nói tiếng Hán giỏi thế, tôi còn tưởng cô ấy là người Trung Quốc." },
+        { "chinese": "马克以为今天是星期一，到了学校一看，没人来上课，才发现今天是星期天。", "pinyin": "Mǎkè yǐwéi jīntiān shì xīngqīyī, dàole xuéxiào yí kàn, méi rén lái shàngkè, cái fāxiàn jīntiān shì xīngqītiān.", "vietnamese": "Mark tưởng hôm nay là thứ Hai, đến trường nhìn thấy không ai đi học mới phát hiện ra hôm nay là Chủ nhật." },
+        { "chinese": "我以为新工作比以前的好，没想到还没有以前好呢。", "pinyin": "Wǒ yǐwéi xīn gōngzuò bǐ yǐqián de hǎo, méi xiǎngdào hái méiyǒu yǐqián hǎo ne.", "vietnamese": "Tôi tưởng công việc mới tốt hơn trước, không ngờ còn chẳng bằng trước kia." }
+      ],
+      "important_notes": "Luôn mang hàm ý 'nhận định đó đã sai / khác sự thật'.",
+      "common_errors": "Dùng nhầm 以为 thay cho 认为 khi bày tỏ quan điểm đúng đắn của bản thân (Sai: '我以为学汉语很重要' → Đúng: '我认为学汉语很重要').",
+      "comparison": "以为 (tưởng lầm, trái sự thật) vs 认为 (cho rằng, nêu ý kiến chủ quan trung tính).",
+      "mini_practice": [
+        { "prompt": "还有半小时就到了，______________________________。（以为）", "sample_answer": "我还以为要两个小时才能到呢", "explanation": "Dùng 还以为 nêu dự đoán sai trước đó." },
+        { "prompt": "______________________________，其实很容易。（以为）", "sample_answer": "我原来以为这道题很难", "explanation": "Đối chiếu sự 'tưởng khó' với sự thật '其实很容易'." },
+        { "prompt": "______________________________，没想到他们一直留在北京。（以为）", "sample_answer": "我以为他们已经回国了 / 我以为他们去上海工作了", "explanation": "Kết hợp 以为……没想到……" }
+      ]
+    },
+    {
+      "title": "原来",
+      "formula": "(1) Danh từ: 原来……，现在……  |  (2) Tính từ: 原来的 + N  |  (3) Phó từ: S + 原来 + V (trước đây) / 原来 + S + V (hóa ra là)",
+      "meaning": "(1) Ban đầu, trước đây  |  (2) Đầu tiên, không thay đổi  |  (3) Trước kia (nay đã đổi) / Hóa ra là (mới phát hiện).",
+      "usage": "原来 có 3 từ loại: danh từ (chỉ quá khứ đối lập hiện tại), tính từ phi vị ngữ (bắt buộc thêm 的 trước danh từ), và phó từ (chỉ trạng thái quá khứ đã đổi hoặc chỉ sự ngộ ra/phát hiện tình huống trước kia không biết).",
+      "context": "Đặc biệt chú ý nghĩa 'hóa ra là...' — đứng trước hay sau chủ ngữ đều được (原来是你啊! / 原来李明记错了).",
+      "examples": [
+        { "chinese": "坐火车从北京到上海，原来最快差不多需要12个小时，现在有了高铁，5个小时就能到。", "pinyin": "Zuò huǒchē cóng Běijīng dào Shànghǎi, yuánlái zuì kuài chàbuduō xūyào shí'èr ge xiǎoshí, xiànzài yǒule gāotiě, wǔ ge xiǎoshí jiù néng dào.", "vietnamese": "Đi tàu hỏa từ Bắc Kinh đến Thượng Hải, trước đây nhanh nhất gần 12 tiếng, nay có tàu cao tốc chỉ 5 tiếng là đến." },
+        { "chinese": "按原来的计划应该是两周，但是我们可以提前完成。", "pinyin": "Àn yuánlái de jìhuà yīnggāi shì liǎng zhōu, dànshì wǒmen kěyǐ tíqián wánchéng.", "vietnamese": "Theo kế hoạch ban đầu đáng lẽ là hai tuần, nhưng chúng tôi có thể hoàn thành trước hạn." },
+        { "chinese": "她原来是汉语老师，现在已经成为了一名律师。", "pinyin": "Tā yuánlái shì Hànyǔ lǎoshī, xiànzài yǐjīng chéngwéile yì míng lǜshī.", "vietnamese": "Trước đây cô ấy là giáo viên tiếng Hán, giờ đã trở thành một luật sư." },
+        { "chinese": "马克一直等李明回电话，可是电话一晚上都没来，原来李明把马克的电话号码记错了。", "pinyin": "Mǎkè yìzhí děng Lǐ Míng huí diànhuà, kěshì diànhuà yì wǎnshang dōu méi lái, yuánlái Lǐ Míng bǎ Mǎkè de diànhuà hàomǎ jìcuò le.", "vietnamese": "Mark cứ đợi Lý Minh gọi lại nhưng cả tối không thấy gọi, hóa ra Lý Minh đã ghi nhầm số điện thoại của Mark." }
+      ],
+      "important_notes": "Khi làm tính từ, 原来 không đứng độc lập làm vị ngữ và khi bổ nghĩa cho danh từ PHẢI có 的 (原来的计划).",
+      "common_errors": "Nhầm với 本来 ở nghĩa 'đáng lẽ ra theo lý phải vậy' (xem bảng 比一比 bên dưới).",
+      "comparison": "Xem chi tiết bảng So sánh '原来 — 本来' ngay bên dưới.",
+      "mini_practice": [
+        { "prompt": "______________________________，我几乎没认出来。（原来）", "sample_answer": "原来是你啊 / 他跟原来变化太大了", "explanation": "Dùng 原来 mang nghĩa 'hóa ra là' hoặc so sánh với lúc trước." },
+        { "prompt": "______________________________，不过后来发现新闻专业更适合他。（原来）", "sample_answer": "他原来学的是法律专业", "explanation": "Dùng phó từ 原来 chỉ trạng thái trước đây nay đã thay đổi." },
+        { "prompt": "今天晚上怎么这么冷？______________________________。（原来）", "sample_answer": "原来外面下雪了 / 原来窗户没关", "explanation": "Dùng 原来 giải thích nguyên nhân vừa mới phát hiện ra." }
+      ]
+    },
+    {
+      "title": "并",
+      "formula": "S + 并 + 不 / 没(有) + 动词 / 形容词",
+      "meaning": "Hoàn toàn không..., thật ra không... (nhấn mạnh ngữ khí phủ định).",
+      "usage": "Phó từ 并 đặt ngay trước các từ phủ định 不 hoặc 没(有) để tăng cường ngữ khí phủ định; thường xuất hiện trong câu chuyển ý nhằm bác bỏ một suy nghĩ/quan điểm trước đó và nêu sự thật.",
+      "context": "Hay kết hợp cùng 其实 (其实并不容易, 其实并没有太大关系) hoặc sau 但是/可是.",
+      "examples": [
+        { "chinese": "其实，人们将来做什么工作可能和上学学的专业并没有太大关系。", "pinyin": "Qíshí, rénmen jiānglái zuò shénme gōngzuò kěnéng hé shàngxué xué de zhuānyè bìng méiyǒu tài dà guānxi.", "vietnamese": "Thật ra, tương lai mọi người làm công việc gì có thể chẳng liên quan nhiều đến chuyên ngành học ở trường." },
+        { "chinese": "我原来以为做生意很简单，后来才发现其实并不容易。", "pinyin": "Wǒ yuánlái yǐwéi zuò shēngyi hěn jiǎndān, hòulái cái fāxiàn qíshí bìng bù róngyì.", "vietnamese": "Trước kia tôi tưởng làm kinh doanh rất đơn giản, sau mới phát hiện thật ra hoàn toàn không dễ." },
+        { "chinese": "根据调查，人每天晚上最少应该睡7个小时，但是这并不适合每一个人。", "pinyin": "Gēnjù diàochá, rén měi tiān wǎnshang zuìshǎo yīnggāi shuì qī ge xiǎoshí, dànshì zhè bìng bú shìhé měi yí ge rén.", "vietnamese": "Theo khảo sát, mỗi tối con người ít nhất nên ngủ 7 tiếng, nhưng điều này hoàn toàn không phù hợp với tất cả mọi người." }
+      ],
+      "important_notes": "CHỈ đứng trước 不 hoặc 没(有); không dùng phó từ 并 trong câu khẳng định.",
+      "common_errors": "Sai: '我觉得这件事并容易' → Đúng: '我觉得这件事并不容易'.",
+      "comparison": "So với chỉ dùng 不/没, thêm 并 tạo sắc thái phản bác rõ rệt và tự nhiên hơn trong câu chuyển ý.",
+      "mini_practice": [
+        { "prompt": "A：咱们明天下午两点去看电影，马克没告诉你吗？  B：______________________。（并）", "sample_answer": "他并没有告诉我", "explanation": "Dùng 并没有 nhấn mạnh phủ định đính chính lại câu hỏi." },
+        { "prompt": "A：不管是冬天还是夏天，我都习惯在早上锻炼身体。 B：______________________。（并）", "sample_answer": "其实冬天早上锻炼并不一定对身体好", "explanation": "Dùng 并不 phản biện lại một quan điểm thường thấy." }
+      ]
+    },
+    {
+      "title": "按照",
+      "formula": "按照 + 计划 / 要求 / 规定 / 经验 / 标准 + 动词短语",
+      "meaning": "Theo, dựa vào, căn cứ vào, chiếu theo...",
+      "usage": "Giới từ 按照 có nghĩa tương đương 根据, dẫn ra căn cứ, kế hoạch, quy định hay kinh nghiệm mà hành động phía sau tuân thủ theo.",
+      "context": "Dùng trong cả văn nói lẫn văn viết, đặc biệt trong bối cảnh công việc và học tập.",
+      "examples": [
+        { "chinese": "我们今年的工作都已经按照计划完成了。", "pinyin": "Wǒmen jīnnián de gōngzuò dōu yǐjīng ànzhào jìhuà wánchéng le.", "vietnamese": "Công việc năm nay của chúng ta đều đã hoàn thành theo kế hoạch." },
+        { "chinese": "这回材料都按照银行的要求准备好了吧？", "pinyin": "Zhè huí cáiliào dōu ànzhào yínháng de yāoqiú zhǔnbèi hǎo le ba?", "vietnamese": "Đợt này tài liệu đều đã chuẩn bị xong theo yêu cầu của ngân hàng rồi chứ?" },
+        { "chinese": "按照经验，这个问题应该可以很快解决，请大家放心。", "pinyin": "Ànzhào jīngyàn, zhège wèntí yīnggāi kěyǐ hěn kuài jiějué, qǐng dàjiā fàngxīn.", "vietnamese": "Theo kinh nghiệm thì vấn đề này chắc sẽ giải quyết rất nhanh thôi, xin mọi người yên tâm." }
+      ],
+      "important_notes": "Cụm giới từ '按照 + N' có thể đặt trước hoặc sau chủ ngữ; dạng rút gọn 1 chữ là 按 (按原来的计划).",
+      "common_errors": "Không dùng 按照 thay cho 根据 khi phía sau là câu tường thuật dẫn nguồn tin tức/khảo sát (ưu tiên 根据调查/根据报道; dùng 按照 với 计划/要求/规定/经验/顺序).",
+      "comparison": "按照 thiên về tuân thủ quy trình/yêu cầu/kế hoạch; 根据 rộng hơn, dùng được cả cho kết luận dựa trên bằng chứng, khảo sát.",
+      "mini_practice": [
+        { "prompt": "______________________________，别再写错了。（按照）", "sample_answer": "请按照要求填写材料 / 按照这个方法写", "explanation": "Dùng 按照 dẫn ra yêu cầu/cách thức cần làm theo." },
+        { "prompt": "______________________________，我们可能完不成今年的工作了。（按照）", "sample_answer": "按照现在的进度 / 按照原来的计划", "explanation": "Dùng 按照 nêu cơ sở suy đoán kết quả." }
+      ]
+    },
+    {
+      "title": "甚至",
+      "formula": "(Mục 1，Mục 2)，甚至 + Mục nổi bật nhất (thường kèm 都 / 也 / 连)",
+      "meaning": "Thậm chí...",
+      "usage": "Phó từ/liên từ 甚至 dùng để nhấn mạnh một ví dụ nổi bật hoặc mức độ cực đoan; đặt trước mục cuối cùng của chuỗi danh từ, động từ hoặc vế câu đồng đẳng để làm nổi bật mục đó.",
+      "context": "Diễn tả mức độ tăng tiến mạnh mẽ (tích cực hoặc tiêu cực), rất hay xuất hiện trong câu bình luận và kể chuyện.",
+      "examples": [
+        { "chinese": "这个房子离您公司也不远，您可以坐公共汽车甚至可以骑自行车上班。", "pinyin": "Zhège fángzi lí nín gōngsī yě bù yuǎn, nín kěyǐ zuò gōnggòng qìchē shènzhì kěyǐ qí zìxíngchē shàngbān.", "vietnamese": "Căn nhà này cũng không xa công ty anh, anh có thể đi xe buýt, thậm chí có thể đạp xe đi làm." },
+        { "chinese": "很多时候，我们不得不去做一些自己不愿意做甚至是非常不喜欢的工作。", "pinyin": "Hěn duō shíhou, wǒmen bù dé bù qù zuò yìxiē zìjǐ bú yuànyì zuò shènzhì shì fēicháng bù xǐhuan de gōngzuò.", "vietnamese": "Nhiều lúc chúng ta buộc phải làm những công việc mình không muốn làm, thậm chí là vô cùng không thích." },
+        { "chinese": "迟到会让别人觉得你没有责任心，使你错过重要的机会，甚至会让别人不再相信你。", "pinyin": "Chídào huì ràng biérén juéde nǐ méiyǒu zérènxīn, shǐ nǐ cuòguò zhòngyào de jīhuì, shènzhì huì ràng biérén bú zài xiāngxìn nǐ.", "vietnamese": "Đi muộn sẽ khiến người khác thấy bạn thiếu tinh thần trách nhiệm, làm bạn bỏ lỡ cơ hội quan trọng, thậm chí khiến người khác không còn tin tưởng bạn nữa." }
+      ],
+      "important_notes": "Trình tự phải tăng dần về mức độ: ý đứng sau 甚至 phải nặng/đặc biệt hơn ý đứng trước.",
+      "common_errors": "Sắp xếp ngược mức độ (VD: nói '他非常不喜欢，甚至不愿意做' là ngược logic; phải là '不愿意做，甚至是非常不喜欢').",
+      "comparison": "Mạnh hơn và cụ thể hóa ví dụ cực đoan hơn so với 而且.",
+      "mini_practice": [
+        { "prompt": "她们俩长得太像了，______________________________。（甚至）", "sample_answer": "有时候甚至连她们的父母都会认错", "explanation": "Đẩy mức độ giống nhau lên ví dụ cực đoan nhất với 甚至连……都……" },
+        { "prompt": "A：马克怎么这么早就睡觉了？ B：______________________________。（甚至）", "sample_answer": "他今天太累了，回家以后甚至连晚饭都没吃就睡了", "explanation": "Nhấn mạnh mức độ mệt bằng ví dụ đến cơm tối cũng chưa ăn." }
+      ]
+    }
+  ],
+  "comparison_section": {
+    "label": "比一比 So sánh",
+    "pair": "原来 — 本来",
+    "term_a": "原来 (yuánlái)",
+    "term_b": "本来 (běnlái)",
+    "similarity": "1. Đều có thể làm tính từ nghĩa là 'đầu tiên, không thay đổi' (这是它原来/本来的颜色). 2. Đều có thể làm phó từ chỉ 'tình huống trước đây khác với hiện nay' (我家原来/本来住这儿附近).",
+    "differences": [
+      { "criterion": "Phát hiện tình huống trước kia chưa biết ('Hóa ra là...')", "a": "CÓ THỂ dùng khi bất ngờ nhận ra sự thật (我还以为是谁帮我打扫房间呢，原来是你啊！ / 才发现原来我认错人了).", "b": "KHÔNG có cách dùng này." },
+      { "criterion": "Biểu thị 'theo lý đáng lẽ phải vậy'", "a": "KHÔNG có cách dùng này.", "b": "CÓ THỂ dùng để nhấn mạnh điều đáng lẽ nên xảy ra theo lẽ thường (这本书本来应该昨天还给你，真不好意思 / 这件事本来应该听他的)." }
+    ]
+  },
+  "texts": [
+    {
+      "id": "t1", "title_zh": "小林和小李聊小李的工作", "title_vi": "Tiểu Lâm và Tiểu Lý nói chuyện về công việc của Tiểu Lý",
+      "lines": [
+        { "speaker": "小林", "chinese": "听说你又换工作了？今年已经换了三次工作了吧？", "pinyin": "Tīngshuō nǐ yòu huàn gōngzuò le? Jīnnián yǐjīng huànle sān cì gōngzuò le ba?", "vietnamese": "Nghe nói cậu lại đổi việc rồi à? Năm nay đã đổi việc ba lần rồi đấy nhỉ?" },
+        { "speaker": "小李", "chinese": "别提了！我以为新工作比以前的好，没想到还没有以前好呢。", "pinyin": "Biétí le! Wǒ yǐwéi xīn gōngzuò bǐ yǐqián de hǎo, méi xiǎngdào hái méiyǒu yǐqián hǎo ne.", "vietnamese": "Đừng nhắc nữa! Mình tưởng công việc mới tốt hơn trước, không ngờ còn chẳng bằng trước đây." },
+        { "speaker": "小林", "chinese": "上次那份工作你只做了两个月就离开了，其实，完全适应一个新的工作需要一年时间，所以，经常换工作不一定好。", "pinyin": "Shàng cì nà fèn gōngzuò nǐ zhǐ zuòle liǎng ge yuè jiù líkāi le, qíshí, wánquán shìyìng yí ge xīn de gōngzuò xūyào yì nián shíjiān, suǒyǐ, jīngcháng huàn gōngzuò bùyídìng hǎo.", "vietnamese": "Công việc lần trước cậu mới làm có hai tháng đã nghỉ rồi, thật ra hoàn toàn thích nghi với một công việc mới cần thời gian một năm, cho nên thường xuyên đổi việc chưa chắc đã tốt." },
+        { "speaker": "小李", "chinese": "我也明白。但是那份工作的收入太少了！", "pinyin": "Wǒ yě míngbai. Dànshì nà fèn gōngzuò de shōurù tài shǎo le!", "vietnamese": "Mình cũng hiểu. Nhưng thu nhập của công việc đó ít quá!" },
+        { "speaker": "小林", "chinese": "你才到新公司，不要太急着赚钱，多学习才是最重要的。", "pinyin": "Nǐ cái dào xīn gōngsī, búyào tài jízhe zhuàn qián, duō xuéxí cái shì zuì zhòngyào de.", "vietnamese": "Cậu mới vào công ty mới, đừng quá vội vàng kiếm tiền, học hỏi nhiều mới là điều quan trọng nhất." },
+        { "speaker": "小李", "chinese": "好。我一定会努力把现在这份工作做好。", "pinyin": "Hǎo. Wǒ yídìng huì nǔlì bǎ xiànzài zhè fèn gōngzuò zuòhǎo.", "vietnamese": "Được rồi. Mình nhất định sẽ cố gắng làm tốt công việc hiện tại này." }
+      ]
+    },
+    {
+      "id": "t2", "title_zh": "王经理和小李在说工作", "title_vi": "Giám đốc Vương và Tiểu Lý đang nói về công việc",
+      "lines": [
+        { "speaker": "王经理", "chinese": "那份调查还要多长时间才能做完？", "pinyin": "Nà fèn diàochá hái yào duō cháng shíjiān cái néng zuòwán?", "vietnamese": "Bản khảo sát đó còn cần bao lâu nữa mới có thể làm xong?" },
+        { "speaker": "小李", "chinese": "按原来的计划应该是两周，但是我们可以提前完成，周末保证做完。", "pinyin": "Àn yuánlái de jìhuà yīnggāi shì liǎng zhōu, dànshì wǒmen kěyǐ tíqián wánchéng, zhōumò bǎozhèng zuòwán.", "vietnamese": "Theo kế hoạch ban đầu đáng lẽ là hai tuần, nhưng chúng tôi có thể hoàn thành trước hạn, cuối tuần đảm bảo làm xong." },
+        { "speaker": "王经理", "chinese": "虽然最近工作很忙，但你们也要注意身体啊。", "pinyin": "Suīrán zuìjìn gōngzuò hěn máng, dàn nǐmen yě yào zhùyì shēntǐ a.", "vietnamese": "Tuy gần đây công việc rất bận, nhưng các cậu cũng phải chú ý giữ gìn sức khỏe nhé." },
+        { "speaker": "小李", "chinese": "谢谢您！现在有很多事情等着我做，真不知道该先做哪个好。", "pinyin": "Xièxie nín! Xiànzài yǒu hěn duō shìqing děngzhe wǒ zuò, zhēn bù zhīdào gāi xiān zuò nǎge hǎo.", "vietnamese": "Cảm ơn anh! Hiện giờ có rất nhiều việc đang chờ tôi làm, thật không biết nên làm việc nào trước thì tốt." },
+        { "speaker": "王经理", "chinese": "每天早上我都把当天计划要做的事情写在笔记本上，提醒自己安排好时间。你也可以试试这样做。", "pinyin": "Měi tiān zǎoshang wǒ dōu bǎ dàngtiān jìhuà yào zuò de shìqing xiě zài bǐjìběn shang, tíxǐng zìjǐ ānpái hǎo shíjiān. Nǐ yě kěyǐ shìshi zhèyàng zuò.", "vietnamese": "Mỗi sáng tôi đều viết những việc dự định làm trong ngày vào sổ tay, nhắc nhở bản thân sắp xếp tốt thời gian. Cậu cũng có thể thử làm như vậy." },
+        { "speaker": "小李", "chinese": "这个办法真不错！这样我就不会手忙脚乱了。", "pinyin": "Zhège bànfǎ zhēn búcuò! Zhèyàng wǒ jiù bú huì shǒumáng-jiǎoluàn le.", "vietnamese": "Cách này hay thật đấy! Như vậy tôi sẽ không bị cuống quýt rối tung lên nữa." }
+      ]
+    },
+    {
+      "id": "t3", "title_zh": "王经理和马经理在说工作", "title_vi": "Giám đốc Vương và giám đốc Mã đang nói về công việc",
+      "lines": [
+        { "speaker": "王经理", "chinese": "什么事让你这么高兴啊？", "pinyin": "Shénme shì ràng nǐ zhème gāoxìng a?", "vietnamese": "Có chuyện gì mà khiến anh vui thế?" },
+        { "speaker": "马经理", "chinese": "我们和上次那个公司的生意终于谈成了。", "pinyin": "Wǒmen hé shàng cì nàge gōngsī de shēngyi zhōngyú tánchéng le.", "vietnamese": "Thương vụ kinh doanh giữa chúng ta và công ty lần trước cuối cùng cũng đàm phán thành công rồi." },
+        { "speaker": "王经理", "chinese": "太好了！你工作那么努力，公司会越来越好的。", "pinyin": "Tài hǎo le! Nǐ gōngzuò nàme nǔlì, gōngsī huì yuè lái yuè hǎo de.", "vietnamese": "Tuyệt quá! Anh làm việc nỗ lực như vậy, công ty sẽ ngày càng tốt lên." },
+        { "speaker": "马经理", "chinese": "我原来以为做生意很简单，后来才发现其实并不容易，现在赚钱越来越难了。", "pinyin": "Wǒ yuánlái yǐwéi zuò shēngyi hěn jiǎndān, hòulái cái fāxiàn qíshí bìng bù róngyì, xiànzài zhuàn qián yuè lái yuè nán le.", "vietnamese": "Trước kia tôi tưởng làm kinh doanh rất đơn giản, sau mới phát hiện thật ra chẳng hề dễ dàng, giờ kiếm tiền càng ngày càng khó." },
+        { "speaker": "王经理", "chinese": "慢慢来，万事开头难，重要的是要多积累经验。", "pinyin": "Mànmàn lái, wànshì kāitóu nán, zhòngyào de shì yào duō jīlěi jīngyàn.", "vietnamese": "Cứ từ từ, vạn sự khởi đầu nan, điều quan trọng là cần tích lũy nhiều kinh nghiệm." },
+        { "speaker": "马经理", "chinese": "我相信经过我们大家的努力，公司的生意会越做越大，一切都会好的。", "pinyin": "Wǒ xiāngxìn jīngguò wǒmen dàjiā de nǔlì, gōngsī de shēngyi huì yuè zuò yuè dà, yíqiè dōu huì hǎo de.", "vietnamese": "Tôi tin rằng qua sự nỗ lực của tất cả chúng ta, việc kinh doanh của công ty sẽ ngày càng mở rộng, mọi thứ đều sẽ tốt đẹp." }
+      ]
+    },
+    {
+      "id": "t4", "title_zh": "总结工作与发放奖金", "title_vi": "Tổng kết công việc và phát tiền thưởng",
+      "lines": [
+        { "speaker": "", "chinese": "我们今年的工作都已经按照计划完成了。这一段时间，尽管工作很紧张，中间也遇到了很多困难，但是因为有大家的努力，我们成功地解决了问题，顺利地完成了工作，非常感谢大家对我的帮助！", "pinyin": "Wǒmen jīnnián de gōngzuò dōu yǐjīng ànzhào jìhuà wánchéng le. Zhè yí duàn shíjiān, jǐnguǎn gōngzuò hěn jǐnzhāng, zhōngjiān yě yùdàole hěn duō kùnnan, dànshì yīnwèi yǒu dàjiā de nǔlì, wǒmen chénggōng de jiějuéle wèntí, shùnlì de wánchéngle gōngzuò, fēicháng gǎnxiè dàjiā duì wǒ de bāngzhù!", "vietnamese": "Công việc năm nay của chúng ta đều đã hoàn thành theo đúng kế hoạch. Thời gian qua, mặc dù công việc rất căng thẳng, giữa chừng cũng gặp nhiều khó khăn, nhưng nhờ sự nỗ lực của mọi người, chúng ta đã giải quyết vấn đề thành công, hoàn thành công việc thuận lợi, vô cùng cảm ơn sự giúp đỡ của mọi người dành cho tôi!" },
+        { "speaker": "", "chinese": "另外，马经理让我告诉大家一个好消息，因为大家按时完成了工作，公司决定这个月给每人多发三千元奖金。感谢大家这三个多月的努力工作，希望明年能有更大的成绩！", "pinyin": "Lìngwài, Mǎ jīnglǐ ràng wǒ gàosu dàjiā yí ge hǎo xiāoxi, yīnwèi dàjiā ànshí wánchéngle gōngzuò, gōngsī juédìng zhège yuè gěi měi rén duō fā sānqiān yuán jiǎngjīn. Gǎnxiè dàjiā zhè sān ge duō yuè de nǔlì gōngzuò, xīwàng míngnián néng yǒu gèng dà de chéngjì!", "vietnamese": "Ngoài ra, giám đốc Mã nhờ tôi báo cho mọi người một tin vui, vì mọi người đã hoàn thành công việc đúng hạn, công ty quyết định tháng này phát thêm cho mỗi người ba nghìn tệ tiền thưởng. Cảm ơn sự nỗ lực làm việc của mọi người trong hơn ba tháng qua, hy vọng năm sau sẽ đạt được thành tích lớn hơn nữa!" }
+      ]
+    },
+    {
+      "id": "t5", "title_zh": "年轻人刚开始工作应注意什么", "title_vi": "Người trẻ khi mới bắt đầu đi làm nên chú ý điều gì",
+      "lines": [
+        { "speaker": "", "chinese": "年轻人刚开始工作的时候，不要太急着赚钱，不要眼睛里只有工资和奖金。在工作的前几年，重要的是丰富自己的工作经验，学习与同事交流的方法，积累专业知识，这些比收入重要多了。", "pinyin": "Niánqīng rén gāng kāishǐ gōngzuò de shíhou, búyào tài jízhe zhuàn qián, búyào yǎnjing li zhǐyǒu gōngzī hé jiǎngjīn. Zài gōngzuò de qián jǐ nián, zhòngyào de shì fēngfù zìjǐ de gōngzuò jīngyàn, xuéxí yǔ tóngshì jiāoliú de fāngfǎ, jīlěi zhuānyè zhīshi, zhèxiē bǐ shōurù zhòngyào duō le.", "vietnamese": "Người trẻ khi mới bắt đầu đi làm đừng quá vội vàng kiếm tiền, đừng để trong mắt chỉ có lương và thưởng. Trong vài năm đầu đi làm, điều quan trọng là làm phong phú kinh nghiệm làm việc, học phương pháp giao lưu với đồng nghiệp và tích lũy kiến thức chuyên môn, những điều này quan trọng hơn thu nhập nhiều." },
+        { "speaker": "", "chinese": "但是很多时候，我们不得不去做一些自己不愿意做甚至是非常不喜欢的工作。这时，我们最需要的就是对工作的责任心。一个人即使能力再高，经验再丰富，如果对工作没有责任心，也很难把工作做好。", "pinyin": "Dànshì hěn duō shíhou, wǒmen bù dé bù qù zuò yìxiē zìjǐ bú yuànyì zuò shènzhì shì fēicháng bù xǐhuan de gōngzuò. Zhè shí, wǒmen zuì xūyào de jiù shì duì gōngzuò de zérènxīn. Yí ge rén jíshǐ nénglì zài gāo, jīngyàn zài fēngfù, rúguǒ duì gōngzuò méiyǒu zérènxīn, yě hěn nán bǎ gōngzuò zuòhǎo.", "vietnamese": "Nhưng nhiều khi chúng ta buộc phải làm một số công việc mà bản thân không muốn làm, thậm chí là vô cùng không thích. Lúc này, điều chúng ta cần nhất chính là tinh thần trách nhiệm với công việc. Một người cho dù năng lực có cao đến mấy, kinh nghiệm có phong phú đến mấy, nếu không có tinh thần trách nhiệm với công việc thì cũng rất khó làm tốt việc đó." }
+      ]
+    }
+  ],
+  "reading_questions": [
+    { "question_zh": "你觉得小李为什么总是换工作？“如果认为新工作不适合你，就应该马上换。”这句话对吗？为什么？", "question_vi": "Bạn thấy tại sao Tiểu Lý luôn đổi việc? Câu “Nếu thấy việc mới không hợp thì nên đổi ngay” có đúng không? Vì sao?", "answer_zh": "小李总换工作是因为他觉得收入少、不满意，而且没耐心适应。这句话不一定对，因为完全适应一个新工作需要一年时间，刚到新公司应该多学习，经常换工作不一定好。", "answer_vi": "Tiểu Lý hay đổi việc vì thấy thu nhập ít và chưa kịp thích nghi. Câu nói đó chưa chắc đúng vì cần khoảng một năm mới hoàn toàn thích nghi công việc mới; mới vào nên chú trọng học hỏi." },
+    { "question_zh": "那份调查的完成时间有什么变化？每天把计划要做的事情记下来有什么好处？", "question_vi": "Thời gian hoàn thành bản khảo sát đó có thay đổi gì? Ghi lại các việc dự định làm mỗi ngày có lợi ích gì?", "answer_zh": "按原来的计划应该是两周，但现在可以提前完成，周末保证做完。每天把计划记下来可以提醒自己安排好时间，不会手忙脚乱。", "answer_vi": "Theo kế hoạch ban đầu là 2 tuần nhưng giờ có thể làm xong trước hạn vào cuối tuần. Ghi lại kế hoạch giúp nhắc nhở sắp xếp thời gian hợp lý và không bị cuống quýt." },
+    { "question_zh": "马经理觉得做生意容易吗？为什么？", "question_vi": "Giám đốc Mã có thấy làm kinh doanh dễ không? Tại sao?", "answer_zh": "不容易。他原来以为做生意很简单，后来才发现其实并不容易，现在赚钱越来越难了。", "answer_vi": "Không dễ. Ban đầu anh tưởng rất đơn giản, sau mới phát hiện ra hoàn toàn không dễ vì hiện nay kiếm tiền càng ngày càng khó." },
+    { "question_zh": "他们今年工作的完成情况怎么样？公司用什么方法来感谢大家的努力工作？", "question_vi": "Tình hình hoàn thành công việc năm nay của họ thế nào? Công ty dùng cách gì để cảm ơn sự nỗ lực của mọi người?", "answer_zh": "今年的工作都已经按照计划按时、顺利地完成了。公司决定这个月给每人多发三千元奖金来感谢大家。", "answer_vi": "Công việc năm nay đều hoàn thành đúng hạn và thuận lợi theo kế hoạch. Công ty quyết định thưởng thêm mỗi người 3.000 tệ trong tháng này." },
+    { "question_zh": "刚开始工作的时候，什么最重要？我们遇到不愿意做的工作时应该怎么办？", "question_vi": "Khi mới bắt đầu đi làm, điều gì quan trọng nhất? Khi gặp công việc mình không muốn làm ta nên làm sao?", "answer_zh": "刚开始工作时，重要的是丰富自己的工作经验，学习与同事交流的方法，积累专业知识。遇到不愿意做甚至不喜欢的工作时，最需要的就是对工作的责任心。", "answer_vi": "Mới đi làm quan trọng nhất là làm phong phú kinh nghiệm, học cách giao lưu với đồng nghiệp và tích lũy kiến thức chuyên môn. Gặp việc không thích thì cần nhất là tinh thần trách nhiệm." }
+  ],
+  "exercises": [
+    {
+      "id": "h4s4_ex1", "type": "meaning_mc", "level": "Nhận biết", "origin_tag": "Bài 4 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Cụm từ cố định “不得不” (bù dé bù) trong Bài khóa 5 mang ý nghĩa và sắc thái nào sau đây?",
+      "options": [
+        "không thể không, đành phải (bị hoàn cảnh bắt buộc dù không muốn)",
+        "tuyệt đối không được phép làm",
+        "rất sẵn lòng và vui vẻ làm",
+        "đáng lẽ ra theo lý phải như vậy"
+      ],
+      "answer": "không thể không, đành phải (bị hoàn cảnh bắt buộc dù không muốn)",
+      "explanation": "不得不 là dạng phủ định hai lần biểu thị sự bất đắc dĩ phải làm một việc gì đó (VD: 不得不去做一些自己不愿意做的工作).",
+      "review_tip": "Ôn #29 不得不 và cách đọc đúng bù dé bù."
+    },
+    {
+      "id": "h4s4_ex2", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.57", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ thích hợp điền vào chỗ trống: “今天下午的会议______一个小时，改在两点开。”",
+      "options": ["提前", "积累", "保证", "提醒"],
+      "answer": "提前",
+      "explanation": "提前一个小时 = đẩy lên sớm hơn một tiếng (đổi sang 2 giờ họp).",
+      "review_tip": "Ôn cách dùng động từ #9 提前 + thời lượng."
+    },
+    {
+      "id": "h4s4_ex3", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.57", "mistake_category": "Từ vựng",
+      "prompt": "Điền từ thích hợp: “没想到那天突然下起了大雨，所以他______又在这里住了一晚上。”",
+      "options": ["不得不", "完全", "按时", "顺利"],
+      "answer": "不得不",
+      "explanation": "Vì trời đột nhiên mưa to nên anh ấy bất đắc dĩ đành phải ở lại thêm một đêm → dùng 不得不.",
+      "review_tip": "Ôn bài tập điền từ tr.57 và ngữ cảnh của 不得不."
+    },
+    {
+      "id": "h4s4_ex4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "比一比 tr.53", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ ĐÚNG cho câu: “我在后面叫她，可她一直没回头。等到了她身边，才发现______我认错人了。”",
+      "options": ["原来", "本来", "Cả 原来 và 本来 đều đúng", "以为"],
+      "answer": "原来",
+      "explanation": "Diễn tả sự bất ngờ phát hiện ra tình huống trước đó chưa biết ('hóa ra là tôi nhận nhầm người') → CHỈ dùng 原来, không dùng 本来.",
+      "review_tip": "Ôn điểm khác nhau của cặp 比一比 '原来 — 本来'."
+    },
+    {
+      "id": "h4s4_ex5", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "比一比 tr.52–53", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ ĐÚNG cho câu: “这本书______应该昨天还给你，真不好意思。”",
+      "options": ["本来", "原来", "Cả hai đều đúng", "甚至"],
+      "answer": "本来",
+      "explanation": "Diễn tả việc theo lẽ thường đáng lẽ phải làm như vậy ('đáng lẽ hôm qua phải trả bạn') → CHỈ dùng 本来 (ôn lại từ Bài 3).",
+      "review_tip": "Ôn lại Chú thích 2 Bài 3 (本来) và bảng 比一比 Bài 4 (原来 — 本来)."
+    },
+    {
+      "id": "h4s4_ex6", "type": "context_mc", "level": "Phân biệt", "origin_tag": "同字词 tr.58", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ nhóm đồng tự '法' phù hợp (ôn Bài 1 & Bài 4): “如果你在______上有什么问题，我可以给你介绍一位律师。”",
+      "options": ["法律", "方法", "办法", "调查"],
+      "answer": "法律",
+      "explanation": "Vế sau nhắc tới '介绍一位律师' (giới thiệu một luật sư) → vấn đề thuộc về phương diện pháp luật (在法律上 — kết hợp ôn Bài 1 '(在)……上' và Bài 3 '律师').",
+      "review_tip": "Ôn nhóm đồng tự 法: 办法 / 法律 / 方法."
+    },
+    {
+      "id": "h4s4_ex7", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Bài 4 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Câu nào sau đây sử dụng phó từ “并” ĐÚNG ngữ pháp?",
+      "options": [
+        "我原来以为做生意很简单，后来才发现其实并不容易。",
+        "我觉得这份工作并很有意思。",
+        "只要努力，生意并会越做越大。",
+        "今天天气并暖和，我们出去逛街吧。"
+      ],
+      "answer": "我原来以为做生意很简单，后来才发现其实并不容易。",
+      "explanation": "Phó từ 并 chỉ đứng trước từ phủ định 不 hoặc 没(有) để nhấn mạnh ngữ khí phủ định, không dùng trước khẳng định.",
+      "review_tip": "Ôn Chú thích 3 tr.53 về phó từ *并."
+    },
+    {
+      "id": "h4s4_ex8", "type": "reorder", "level": "Vận dụng", "origin_tag": "Bài 4 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Sắp xếp các từ sau thành câu hoàn chỉnh đúng ngữ pháp:",
+      "tokens": ["我们今年的", "按照计划", "都已经", "完成了。", "工作"],
+      "answer": "我们今年的工作都已经按照计划完成了。",
+      "explanation": "Chủ ngữ 我们今年的工作 + phó từ 都已经 + cụm giới từ 按照计划 + vị ngữ 完成了.",
+      "review_tip": "Ôn Chú thích 4 về giới từ 按照."
+    },
+    {
+      "id": "h4s4_ex9", "type": "error_fix", "level": "Vận dụng", "origin_tag": "Ôn Bài 3–4 (30%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Tìm lỗi sai và chọn cách sửa ĐÚNG cho câu: “王经理是一个非常按时的人，开会从来不迟到。”",
+      "options": [
+        "Sửa '按时' thành '准时': 王经理是一个非常准时的人，开会从来不迟到。",
+        "Sửa '从来不' thành '从来没'",
+        "Sửa '非常' thành '并'",
+        "Câu trên hoàn toàn đúng"
+      ],
+      "answer": "Sửa '按时' thành '准时': 王经理是一个非常准时的人，开会从来不迟到。",
+      "explanation": "按时 là phó từ (chỉ đứng trước động từ như 按时完成), không thể nhận phó từ mức độ 非常 và làm định ngữ cho 人; phải dùng tính từ 准时 (Bài 3). Câu đồng thời ôn phó từ 从来不 (Bài 1).",
+      "review_tip": "Phân biệt 按时 (phó từ, Bài 4) vs 准时 (tính từ/trạng ngữ, Bài 3)."
+    },
+    {
+      "id": "h4s4_ex10", "type": "reading_mc", "level": "Phân biệt", "origin_tag": "Bài khóa 5", "mistake_category": "Đọc hiểu",
+      "passage": "在工作的前几年，重要的是丰富自己的工作经验，学习与同事交流的方法，积累专业知识，这些比收入重要多了。但是很多时候，我们不得不去做一些自己不愿意做甚至是非常不喜欢的工作。这时，我们最需要的就是对工作的责任心。一个人即使能力再高，经验再丰富，如果对工作没有责任心，也很难把工作做好。",
+      "prompt": "Theo đoạn văn trên, nếu một người năng lực rất cao và kinh nghiệm rất phong phú nhưng thiếu tinh thần trách nhiệm thì sẽ ra sao?",
+      "options": [
+        "Vẫn rất khó làm tốt công việc",
+        "Vẫn có thể nhận được rất nhiều tiền thưởng",
+        "Rất dễ hòa đồng và giao lưu với đồng nghiệp",
+        "Nên lập tức đổi sang công việc mới"
+      ],
+      "answer": "Vẫn rất khó làm tốt công việc",
+      "explanation": "Câu cuối bài khóa 5 viết rõ: '一个人即使能力再高，经验再丰富，如果对工作没有责任心，也很难把工作做好。'",
+      "review_tip": "Đọc kỹ lại bài khóa 5 và ôn cấu trúc 即使……也…… (Bài 1)."
+    },
+    {
+      "id": "h4s4_ex11", "type": "translate_zh_vi", "level": "Vận dụng", "origin_tag": "Dịch Trung – Việt", "mistake_category": "Dịch thuật",
+      "prompt": "Dịch sang tiếng Việt: “我原来以为做生意很简单，后来才发现其实并不容易。”",
+      "hint": "Chú ý các từ 原来, 以为, 做生意, 其实, 并.",
+      "keywords": ["tưởng", "kinh doanh", "không dễ"],
+      "answer": "Trước đây tôi tưởng làm kinh doanh rất đơn giản, sau đó mới phát hiện thật ra hoàn toàn không dễ.",
+      "explanation": "原来以为 = trước đây tưởng là; 做生意 = làm kinh doanh/buôn bán; 后来才发现 = sau mới phát hiện; 其实并不容易 = thật ra hoàn toàn không dễ.",
+      "review_tip": "Ôn #2 以为, #7 原来, #13 生意, #15 *并."
+    }
+  ]
+}

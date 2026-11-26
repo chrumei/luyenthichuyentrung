@@ -1,0 +1,1011 @@
+{
+  "id": "hsk5shang_l16",
+  "book_id": "hsk5shang",
+  "textbook": "HSK 5 上",
+  "lesson_number": 16,
+  "title_zh": "体重与节食",
+  "title_vi": "Cân nặng và ăn kiêng",
+  "pdf_pages": "Trang sách 146–153 (Giáo Trình Chuẩn HSK5 Tập 1.pdf)",
+  "source_status": "verified_textbook",
+  "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"],
+  "vocabulary": [
+    {
+      "id": "hsk5s_l16_w01", "order": 1, "textbook": "HSK 5 上", "lesson": 16,
+      "hanzi": "节食", "pinyin": "jiéshí",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "ăn kiêng",
+        "structure": "节食减肥 / 节食者 / 通过节食",
+        "explanation": "Kiểm soát, tiết chế lượng ăn uống nhằm giảm cân hoặc giữ gìn sức khỏe.",
+        "examples": [{ "chinese": "因此节食者的体重会在一周内上下波动。", "pinyin": "Yīncǐ jiéshízhě de tǐzhòng huì zài yì zhōu nèi shàngxià bōdòng.", "vietnamese": "Do đó cân nặng của người ăn kiêng sẽ dao động lên xuống trong vòng một tuần.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "为减肥或健康而节制饮食。",
+      "collocations": ["节食减肥", "节食者", "过度节食"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w02", "order": 2, "textbook": "HSK 5 上", "lesson": 16,
+      "hanzi": "报道", "pinyin": "bàodào",
+      "lesson_usage": {
+        "part_of_speech": "名词 / 动词 (Danh từ / Động từ)",
+        "meanings": ["1. (Danh từ) bài báo, bản tin", "2. (Động từ) đưa tin, tường thuật"],
+        "meaning": "bài báo; đưa tin",
+        "structure": "(đgt) 据报道 / 报道新闻; (dt) 相关的报道 / 可靠的报道",
+        "explanation": "Sách gốc ghi đủ dt./đgt.: truyền thông đưa tin về sự kiện hoặc bản thân bài viết/bản tin đó.",
+        "examples": [
+          { "chinese": "据报道，医学专家进行了一项新研究。", "pinyin": "Jù bàodào, yīxué zhuānjiā jìnxíng le yí xiàng xīn yánjiū.", "vietnamese": "Theo đưa tin, các chuyên gia y học đã tiến hành một nghiên cứu mới.", "from_text": true },
+          { "chinese": "关于空气质量问题，现在报纸、网络上相关的报道特别多。", "pinyin": "Guānyú kōngqì zhìliàng wèntí, xiànzài bàozhǐ, wǎngluò shang xiāngguān de bàodào tèbié duō.", "vietnamese": "Về vấn đề chất lượng không khí, hiện nay các bài báo liên quan trên báo giấy và mạng rất nhiều." }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "通过报纸、广播、电视、网络等公布新闻；刊登或播出的新闻稿件。",
+      "collocations": ["据报道", "报道新闻", "相关报道", "可靠的报道"],
+      "usage_note": "Phân biệt đồng âm cực dễ nhầm: 报道 (đưa tin, bài báo) vs 报到 (đến trình diện, điểm danh nhập học/nhận việc) và 报名 (đăng ký dự thi/tham gia — Bài tập 2 câu 4 tr.152).",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w03", "order": 3, "textbook": "HSK 5 上", "lesson": 16,
+      "hanzi": "营养", "pinyin": "yíngyǎng",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "chất dinh dưỡng",
+        "structure": "营养摄入 / 营养丰富 / 营养均衡 / 补充营养",
+        "explanation": "Các dưỡng chất cần thiết mà cơ thể hấp thu từ thức ăn để duy trì sự sống và phát triển.",
+        "examples": [{ "chinese": "由于人们在一周内的营养摄入和饮食模式会影响到他们的体重变化。", "pinyin": "Yóuyú rénmen zài yì zhōu nèi de yíngyǎng shèrù hé yǐnshí móshì huì yǐngxiǎng dào tāmen de tǐzhòng biànhuà.", "vietnamese": "Do lượng dinh dưỡng hấp thu và chế độ ăn uống trong một tuần sẽ ảnh hưởng tới biến đổi cân nặng của họ.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "生物从外界摄取养料以维持生长发育；食物所含的养分。",
+      "collocations": ["营养丰富", "营养不良", "补充营养", "有营养"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w04", "order": 4, "textbook": "HSK 5 上", "lesson": 16, "is_out_of_syllabus": true,
+      "hanzi": "摄入", "pinyin": "shèrù",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "hấp thu, nạp vào (dinh dưỡng, calo...)",
+        "structure": "营养摄入 / 摄入热量 / 减少糖分摄入",
+        "explanation": "Tiếp nhận, đưa dưỡng chất hoặc năng lượng vào cơ thể qua ăn uống.",
+        "examples": [{ "chinese": "由于人们在一周内的营养摄入和饮食模式会影响到他们的体重变化。", "pinyin": "Yóuyú rénmen zài yì zhōu nèi de yíngyǎng shèrù hé yǐnshí móshì huì yǐngxiǎng dào tāmen de tǐzhòng biànhuà.", "vietnamese": "Vì việc hấp thu dinh dưỡng và mô hình ăn uống trong tuần sẽ ảnh hưởng đến thay đổi cân nặng của mọi người.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "吸收进来（多指食物中的营养或能量）。",
+      "collocations": ["营养摄入", "摄入热量", "每日摄入量"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w05", "order": 5, "textbook": "HSK 5 上", "lesson": 16, "is_out_of_syllabus": true,
+      "hanzi": "模式", "pinyin": "móshì",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "kiểu, mô hình",
+        "structure": "饮食模式 / 清晰的模式 / 补偿模式 / 商业模式",
+        "explanation": "Khuôn mẫu, quy luật vận hành hoặc phương thức tiêu chuẩn của một sự vật/hành vi.",
+        "examples": [{ "chinese": "这些人的体重变化表现出清晰的模式。", "pinyin": "Zhèxiē rén de tǐzhòng biànhuà biǎoxiàn chū qīngxī de móshì.", "vietnamese": "Sự thay đổi cân nặng của những người này thể hiện một mô hình rõ rệt.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "某种事物的标准形式或使人可以照着做的标准样式。",
+      "collocations": ["饮食模式", "发展模式", "管理模式", "飞行模式"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w06", "order": 6, "textbook": "HSK 5 上", "lesson": 16, "is_out_of_syllabus": true,
+      "hanzi": "波动", "pinyin": "bōdòng",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "dao động, nhấp nhô",
+        "structure": "上下波动 / 体重波动 / 价格波动 / 情绪波动",
+        "explanation": "Lên xuống thất thường không cố định (như sóng nước; dùng cho cân nặng, giá cả, tâm trạng).",
+        "examples": [{ "chinese": "因此节食者的体重会在一周内上下波动。", "pinyin": "Yīncǐ jiéshízhě de tǐzhòng huì zài yì zhōu nèi shàngxià bōdòng.", "vietnamese": "Do đó cân nặng của người ăn kiêng sẽ dao động lên xuống trong vòng một tuần.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "像波浪一样起伏不定；比喻价格、情绪、数据等不稳定。",
+      "collocations": ["上下波动", "价格波动", "情绪波动", "体重波动"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w07", "order": 7, "textbook": "HSK 5 上", "lesson": 16,
+      "hanzi": "总共", "pinyin": "zǒnggòng",
+      "lesson_usage": {
+        "part_of_speech": "副词 (Phó từ)",
+        "meaning": "cả thảy, tất cả, tổng cộng",
+        "structure": "总共有 + Số lượng / 总共花了……",
+        "explanation": "Tính gộp toàn bộ số lượng lại (gần nghĩa với 一共).",
+        "examples": [{ "chinese": "总共有80名年龄在25-62岁之间的成年人参与了这项研究。", "pinyin": "Zǒnggòng yǒu bāshí míng niánlíng zài èrshíwǔ dào liùshí'èr suì zhījiān de chéngniánrén cānyù le zhè xiàng yánjiū.", "vietnamese": "Tổng cộng có 80 người trưởng thành trong độ tuổi từ 25 đến 62 tham gia nghiên cứu này.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "合在一起计算；一共。",
+      "collocations": ["总共有", "总共消费了", "总共需要"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w08", "order": 8, "textbook": "HSK 5 上", "lesson": 16,
+      "hanzi": "参与", "pinyin": "cānyù",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "tham dự, tham gia",
+        "structure": "部分/共同/正式/积极 + 参与 / 参与研究 / 参与管理 / 参与程度",
+        "explanation": "Tham gia vào và đóng góp ý kiến, vai trò trong việc lập kế hoạch, quản lý, nghiên cứu hoặc thảo luận.",
+        "examples": [{ "chinese": "总共有80名年龄在25-62岁之间的成年人参与了这项研究。", "pinyin": "Zǒnggòng yǒu bāshí míng niánlíng zài èrshíwǔ dào liùshí'èr suì zhījiān de chéngniánrén cānyù le zhè xiàng yánjiū.", "vietnamese": "Tổng cộng có 80 người trưởng thành tuổi từ 25–62 đã tham gia nghiên cứu này.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "参加进去（多指介入计划、讨论、管理或研究）。",
+      "collocations": ["积极参与", "共同参与", "参与管理", "参与程度"],
+      "usage_note": "Phân biệt với 参加 (Bài tập 2 câu 1 tr.152): 参与 thiên về tham gia vào quá trình (quản lý, giáo dục, nghiên cứu) và kết hợp được với 程度 (参与程度), còn 参加 thường đi với sự kiện/tổ chức (参加会议/比赛/婚礼).",
+      "common_errors": "Sai: '父亲对教育子女的参加程度' → Đúng: '参与程度'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w09", "order": 9, "textbook": "HSK 5 上", "lesson": 16,
+      "hanzi": "人员", "pinyin": "rényuán",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "nhân viên, người làm công tác...",
+        "structure": "研究人员 / 工作人员 / 专业人员 / 服务人员",
+        "explanation": "Danh từ tập hợp chỉ những người phụ trách công việc trong một cơ quan, ngành nghề hoặc hoạt động nào đó.",
+        "examples": [{ "chinese": "研究人员根据他们的相对体重变化将其分为三种类型。", "pinyin": "Yánjiū rényuán gēnjù tāmen de xiāngduì tǐzhòng biànhuà jiāng qí fēnwéi sān zhǒng lèixíng.", "vietnamese": "Các nhân viên nghiên cứu căn cứ vào sự thay đổi cân nặng tương đối để chia họ thành ba nhóm.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "在机构或集体中担任某种工作或参加某种活动的人（集合名词）。",
+      "collocations": ["工作人员", "研究人员", "专业人员", "医务人员"],
+      "usage_note": "Là danh từ tập hợp nên KHÔNG đi với số từ đơn lẻ (không nói '一个人员', phải nói '一名工作人员').",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w10", "order": 10, "textbook": "HSK 5 上", "lesson": 16,
+      "hanzi": "相对", "pinyin": "xiāngduì",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)",
+        "meaning": "tương đối",
+        "structure": "相对体重变化 / 相对来说 / 相对简单 / 相对稳定",
+        "explanation": "Dựa vào sự so sánh với điều kiện hay đối tượng khác mà tồn tại (trái nghĩa với 绝对 – tuyệt đối).",
+        "examples": [{ "chinese": "研究人员根据他们的相对体重变化将其分为三种类型。", "pinyin": "Yánjiū rényuán gēnjù tāmen de xiāngduì tǐzhòng biànhuà jiāng qí fēnwéi sān zhǒng lèixíng.", "vietnamese": "Các nhà nghiên cứu dựa vào mức thay đổi cân nặng tương đối của họ để chia thành ba loại.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Động từ)",
+          "meanings": ["đối diện nhau, hướng mặt vào nhau"],
+          "structure": "两山相对 / 面对面相对而坐",
+          "difference_note": "Nghĩa gốc văn viết chỉ hai vật hoặc người đứng đối diện nhau trong không gian.",
+          "examples": [{ "chinese": "两位老朋友隔着茶桌相对而坐，聊得十分开心。", "pinyin": "Liǎng wèi lǎo péngyou gézhe cházhuō xiāngduì ér zuò, liáo de shífēn kāixīn.", "vietnamese": "Hai người bạn cũ ngồi đối diện nhau qua bàn trà, trò chuyện vô cùng vui vẻ." }]
+        }
+      ],
+      "chinese_explanation": "依靠一定条件、通过比较而存在（跟“绝对”相对）；面对面。",
+      "collocations": ["相对来说", "相对稳定", "相对简单", "相对而言"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l16_w11", "order": 11, "textbook": "HSK 5 上", "lesson": 16,
+      "hanzi": "类型", "pinyin": "lèixíng",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "loại, loại hình",
+        "structure": "三种类型 / 不同类型 / 电影类型",
+        "explanation": "Nhóm các sự vật, hiện tượng có chung đặc điểm nhất định.",
+        "examples": [{ "chinese": "研究人员根据他们的相对体重变化将其分为三种类型。", "pinyin": "Yánjiū rényuán gēnjù tāmen de xiāngduì tǐzhòng biànhuà jiāng qí fēnwéi sān zhǒng lèixíng.", "vietnamese": "Các nhà nghiên cứu dựa vào biến đổi cân nặng tương đối của họ để phân thành ba loại.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "具有共同特征的事物所形成的种类。",
+      "collocations": ["不同类型", "三种类型", "音乐类型", "属于同一类型"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w12", "order": 12, "textbook": "HSK 5 上", "lesson": 16,
+      "hanzi": "称", "pinyin": "chēng",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "cân (trọng lượng)",
+        "structure": "称体重 / 称一下 / 称水果",
+        "explanation": "Dùng cân để đo khối lượng nặng nhẹ của người hoặc vật.",
+        "examples": [{ "chinese": "这些成年人在每天起床之后、早餐之前称一下自己的体重。", "pinyin": "Zhèxiē chéngniánrén zài měitiān qǐchuáng zhīhòu, zǎocān zhīqián chēng yíxià zìjǐ de tǐzhòng.", "vietnamese": "Những người trưởng thành này hằng ngày sau khi thức dậy và trước bữa sáng đều cân trọng lượng cơ thể mình một lần.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Đọc chēng — Gọi là, xưng hô, khen ngợi)",
+          "meanings": ["gọi là, mệnh danh là; khen ngợi"],
+          "structure": "被称为…… / 称赞 / 称呼",
+          "difference_note": "Rất phổ biến trong văn viết: A 被称为 B (A được gọi là B), khác nghĩa đo trọng lượng.",
+          "examples": [{ "chinese": "北京四合院里多户合住的情况被称为“大杂院”。", "pinyin": "Běijīng sìhéyuàn li duō hù hézhù de qíngkuàng bèi chēngwéi “dàzáyuàn”.", "vietnamese": "Trường hợp nhiều hộ ở chung một tứ hợp viện Bắc Kinh được gọi là “đại tạp viện”." }]
+        },
+        {
+          "part_of_speech": "形容词 (Đọc chèn — Vừa vặn, cân xứng)",
+          "meanings": ["phù hợp, vừa ý, cân đối"],
+          "structure": "称心如意 / 对称 / 称职",
+          "difference_note": "Chữ đa âm quan trọng: khi đọc thanh 4 (chèn) mang nghĩa vừa khớp, cân xứng.",
+          "examples": [{ "chinese": "祝你新年万事称心如意！", "pinyin": "Zhù nǐ xīnnián wànshì chènxīn rúyì!", "vietnamese": "Chúc bạn năm mới vạn sự như ý!" }]
+        }
+      ],
+      "chinese_explanation": "用秤测量轻重（chēng）；叫做、赞扬（chēng）；适合、相当（chèn）。",
+      "collocations": ["称体重", "被称为", "称赞", "称心如意"],
+      "usage_note": "Chữ đa âm: chēng (cân; gọi là) vs chèn (cân xứng, vừa ý).",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l16_w13", "order": 13, "textbook": "HSK 5 上", "lesson": 16,
+      "hanzi": "可靠", "pinyin": "kěkào",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)",
+        "meaning": "đáng tin cậy",
+        "structure": "可靠的 + 朋友 / 质量 / 材料 / 报道 / 消息 / 结论 / 保证可靠性",
+        "explanation": "Có thể tin tưởng, dựa vào được; chân thực, chính xác.",
+        "examples": [{ "chinese": "为了保证可靠性，只有那些至少连续7天以上称过体重的人才会被纳入分析。", "pinyin": "Wèile bǎozhèng kěkàoxìng, zhǐyǒu nàxiē zhìshǎo liánxù qī tiān yǐshàng chēngguo tǐzhòng de rén cái huì bèi nàrù fēnxī.", "vietnamese": "Để đảm bảo độ tin cậy, chỉ những ai đã cân liên tục ít nhất từ 7 ngày trở lên mới được đưa vào phân tích.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "可以信赖依靠；真实可信。",
+      "collocations": ["可靠的消息", "可靠的朋友", "质量可靠", "可靠性"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w14", "order": 14, "textbook": "HSK 5 上", "lesson": 16, "is_out_of_syllabus": true,
+      "hanzi": "纳入", "pinyin": "nàrù",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "đưa vào, thu nạp vào (phạm vi, kế hoạch, hệ thống)",
+        "structure": "纳入 + 分析 / 计划 / 范围 / 轨道",
+        "explanation": "Đặt vào trong một phạm vi, kế hoạch hay quy trình xử lý (thường dùng cho đối tượng trừu tượng, văn viết).",
+        "examples": [{ "chinese": "只有那些至少连续7天以上称过体重的人才会被纳入分析。", "pinyin": "Zhǐyǒu nàxiē zhìshǎo liánxù qī tiān yǐshàng chēngguo tǐzhòng de rén cái huì bèi nàrù fēnxī.", "vietnamese": "Chỉ những người đã cân liên tục từ 7 ngày trở lên mới được đưa vào phân tích.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "放进、归入（多用于抽象事物，如计划、范围、统计）。",
+      "collocations": ["纳入分析", "纳入计划", "纳入范围"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w15", "order": 15, "textbook": "HSK 5 上", "lesson": 16,
+      "hanzi": "分析", "pinyin": "fēnxī",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "phân tích",
+        "structure": "分析 + 情况 / 问题 / 心理 / 原因 / 语法 / 病句",
+        "explanation": "Tách sự vật, hiện tượng hay số liệu thành các phần để nghiên cứu bản chất và mối liên hệ.",
+        "examples": [{ "chinese": "只有那些至少连续7天以上称过体重的人才会被纳入分析。", "pinyin": "Zhǐyǒu nàxiē zhìshǎo liánxù qī tiān yǐshàng chēngguo tǐzhòng de rén cái huì bèi nàrù fēnxī.", "vietnamese": "Chỉ những người đã cân liên tục ít nhất 7 ngày trở lên mới được đưa vào phân tích.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "把一件事物、一种现象或一个概念分成较简单的组成部分，找出本质和联系。",
+      "collocations": ["分析原因", "分析问题", "分析情况", "详细分析"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w16", "order": 16, "textbook": "HSK 5 上", "lesson": 16,
+      "hanzi": "志愿者", "pinyin": "zhìyuànzhě",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "người tình nguyện, tình nguyện viên",
+        "structure": "一名志愿者 / 社区志愿者 / 奥运志愿者",
+        "explanation": "Người tự nguyện tham gia hoạt động công ích, sự kiện hoặc thử nghiệm mà không nhận thù lao.",
+        "examples": [{ "chinese": "对这些志愿者的跟踪调查时间最短为15天，最长为330天。", "pinyin": "Duì zhèxiē zhìyuànzhě de gēnzōng diàochá shíjiān zuìduǎn wéi shíwǔ tiān, zuìcháng wéi sānbǎi sānshí tiān.", "vietnamese": "Thời gian điều tra theo dõi đối với các tình nguyện viên này ngắn nhất là 15 ngày, dài nhất là 330 ngày.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "自愿贡献时间和精力、不计报酬地参加公益或研究活动的人。",
+      "collocations": ["做志愿者", "奥运志愿者", "志愿者服务"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w17", "order": 17, "textbook": "HSK 5 上", "lesson": 16, "is_out_of_syllabus": true,
+      "hanzi": "跟踪", "pinyin": "gēnzōng",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "theo dõi, theo sát",
+        "structure": "跟踪调查 / 跟踪报道 / 跟踪服务",
+        "explanation": "Bám sát quan sát, ghi nhận liên tục diễn biến của đối tượng trong thời gian dài (cũng dùng nghĩa bám đuôi người).",
+        "examples": [{ "chinese": "对这些志愿者的跟踪调查时间最短为15天，最长为330天。", "pinyin": "Duì zhèxiē zhìyuànzhě de gēnzōng diàochá shíjiān zuìduǎn wéi shíwǔ tiān, zuìcháng wéi sānbǎi sānshí tiān.", "vietnamese": "Thời gian điều tra theo dõi đối với những tình nguyện viên này ngắn nhất 15 ngày, dài nhất 330 ngày.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "紧紧跟在后面进行监视或持续观察记录。",
+      "collocations": ["跟踪调查", "跟踪报道", "跟踪服务"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w18", "order": 18, "textbook": "HSK 5 上", "lesson": 16,
+      "hanzi": "成果", "pinyin": "chéngguǒ",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "thành quả, kết quả (tích cực)",
+        "structure": "研究成果 / 重大成果 / 取得成果 / 劳动成果",
+        "explanation": "Kết quả tốt đẹp, đáng ghi nhận thu được trong học tập, công tác, nghiên cứu hoặc lao động (luôn mang nghĩa tích cực).",
+        "examples": [{ "chinese": "研究成果显示：这些人的体重变化表现出清晰的模式。", "pinyin": "Yánjiū chéngguǒ xiǎnshì: zhèxiē rén de tǐzhòng biànhuà biǎoxiàn chū qīngxī de móshì.", "vietnamese": "Thành quả nghiên cứu cho thấy: sự thay đổi cân nặng của những người này bộc lộ một mô hình rõ ràng.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "工作、研究、学习或斗争中取得的收获、成绩。",
+      "collocations": ["研究成果", "重大成果", "劳动成果", "科研成果"],
+      "usage_note": "Phân biệt với 结果 (Bài tập 2 câu 3 tr.152): 结果 là danh từ trung tính hoặc liên từ ('kết quả là...'), còn 成果 CHỈ làm danh từ mang nghĩa thành quả tích cực, KHÔNG làm liên từ!",
+      "common_errors": "Sai: '我本来想……，成果现在有更重要的事' → Phải dùng '结果'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w19", "order": 19, "textbook": "HSK 5 上", "lesson": 16, "is_out_of_syllabus": true,
+      "hanzi": "清晰", "pinyin": "qīngxī",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)",
+        "meaning": "rõ ràng, rõ rệt, sắc nét",
+        "structure": "清晰的模式 / 画面清晰 / 思路清晰 / 发音清晰",
+        "explanation": "Rõ nét, rành mạch về hình ảnh, âm thanh, quy luật hoặc tư duy (trang trọng hơn 清楚).",
+        "examples": [{ "chinese": "这些人的体重变化表现出清晰的模式。", "pinyin": "Zhèxiē rén de tǐzhòng biànhuà biǎoxiàn chū qīngxī de móshì.", "vietnamese": "Sự biến đổi cân nặng của những người này thể hiện một mô hình rõ rệt.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "清楚、明晰（画面、声音、条理等）。",
+      "collocations": ["清晰可见", "画面清晰", "思路清晰", "清晰的模式"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w20", "order": 20, "textbook": "HSK 5 上", "lesson": 16,
+      "hanzi": "即", "pinyin": "jí",
+      "lesson_usage": {
+        "part_of_speech": "动词 / 副词 (Động từ / Phó từ)",
+        "meanings": ["1. (Động từ, văn viết) tức là, nghĩa là (= 就是)", "2. (Phó từ, văn viết) liền, ngay (= 就、便)"],
+        "meaning": "nghĩa là; ngay",
+        "structure": "(đgt) ……，即……; (phó) 一学即会 / 不懂即问 / 一拍即合",
+        "explanation": "Sách gốc ghi đủ 2 từ loại đgt./phó. và giải thích chi tiết tại Chú thích 1 tr.148.",
+        "examples": [
+          { "chinese": "这些人的体重变化表现出清晰的模式，即周末之后体重升高，在工作日体重减轻。", "pinyin": "Zhèxiē rén de tǐzhòng biànhuà biǎoxiàn chū qīngxī de móshì, jí zhōumò zhīhòu tǐzhòng shēnggāo, zài gōngzuòrì tǐzhòng jiǎnqīng.", "vietnamese": "Sự biến đổi cân nặng của những người này thể hiện mô hình rõ ràng, tức là sau cuối tuần cân nặng tăng lên, còn vào ngày làm việc thì giảm xuống.", "from_text": true },
+          { "chinese": "不懂即问是他最大的优点。", "pinyin": "Bù dǒng jí wèn shì tā zuìdà de yōudiǎn.", "vietnamese": "Không hiểu là hỏi ngay chính là ưu điểm lớn nhất của anh ấy." }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "动词，就是（书面语）；副词，就、便。",
+      "collocations": ["即……", "一学即会", "不懂即问", "一拍即合"],
+      "usage_note": "Xem Chú thích 1 trang 148.",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w21", "order": 21, "textbook": "HSK 5 上", "lesson": 16,
+      "hanzi": "升", "pinyin": "shēng",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "lên cao, tăng lên",
+        "structure": "体重升高 / 上升 / 升起 / 升职",
+        "explanation": "Chuyển động từ thấp lên cao hoặc tăng chỉ số, cấp bậc (trái nghĩa với 降).",
+        "examples": [{ "chinese": "即周末之后体重升高，在工作日体重减轻。", "pinyin": "Jí zhōumò zhīhòu tǐzhòng shēnggāo, zài gōngzuòrì tǐzhòng jiǎnqīng.", "vietnamese": "Tức là sau cuối tuần cân nặng tăng cao, còn vào ngày làm việc cân nặng giảm xuống.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "量词 (Lượng từ)",
+          "meanings": ["lít (đơn vị đo thể tích chất lỏng)"],
+          "structure": "一升牛奶 / 两升水 / 十升汽油",
+          "difference_note": "Đơn vị đo dung tích chất lỏng (L), khác hoàn toàn động từ 'lên cao'.",
+          "examples": [{ "chinese": "每天最好喝一到两升白开水。", "pinyin": "Měitiān zuìhǎo hē yī dào liǎng shēng báikāishuǐ.", "vietnamese": "Mỗi ngày tốt nhất nên uống một đến hai lít nước đun sôi để nguội." }]
+        }
+      ],
+      "chinese_explanation": "由低往高移动，提高（跟“降”相对）；容量单位。",
+      "collocations": ["升高", "上升", "升起", "一升水"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l16_w22", "order": 22, "textbook": "HSK 5 上", "lesson": 16,
+      "hanzi": "达到", "pinyin": "dá dào",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "đạt đến, đạt được",
+        "structure": "达到 + 水平 / 程度 / 规模 / 目的 / 要求 / 最低点",
+        "explanation": "Chạm tới một mức độ, tiêu chuẩn, mục tiêu hoặc con số cao/thấp nhất định (thường đi với danh từ trừu tượng).",
+        "examples": [{ "chinese": "在工作日体重减轻（周五达到最低点）。", "pinyin": "Zài gōngzuòrì tǐzhòng jiǎnqīng (Zhōuwǔ dádào zuìdīdiǎn).", "vietnamese": "Vào ngày làm việc cân nặng giảm đi (thứ Sáu chạm mức thấp nhất).", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "到达（多指抽象事物、程度或目标）。",
+      "collocations": ["达到目的", "达到要求", "达到水平", "达到程度"],
+      "usage_note": "Không dùng 达到 cho địa điểm địa lý (tới Bắc Kinh dùng 到达北京, không dùng 达到北京!).",
+      "common_errors": "Sai: '火车达到北京了' → Đúng: '到达北京'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w23", "order": 23, "textbook": "HSK 5 上", "lesson": 16,
+      "hanzi": "意外", "pinyin": "yìwài",
+      "lesson_usage": {
+        "part_of_speech": "形容词 / 名词 (Tính từ / Danh từ)",
+        "meanings": ["1. (Tính từ) bất ngờ, ngoài dự liệu", "2. (Danh từ) điều bất trắc, tai nạn ngoài ý muốn"],
+        "meaning": "bất ngờ; điều bất trắc",
+        "structure": "(tt) 意外地发现 / 意外的礼物/消息/机会/结果/发现; (dt) 发生意外 / 遇到意外",
+        "explanation": "Sách gốc ghi đủ tt./dt.: vượt ngoài dự đoán (tích cực hoặc trung tính) hoặc sự cố bất ngờ không mong muốn.",
+        "examples": [
+          { "chinese": "研究人员还意外地发现，体重减轻者和体重增加者在体重波动模式上存在着明显不同。", "pinyin": "Yánjiū rényuán hái yìwài de fāxiàn, tǐzhòng jiǎnqīngzhě hé tǐzhòng zēngjiāzhě zài tǐzhòng bōdòng móshì shang cúnzàizhe míngxiǎn bùtóng.", "vietnamese": "Các nhà nghiên cứu còn bất ngờ phát hiện rằng người giảm cân và người tăng cân có sự khác biệt rõ rệt về mô hình dao động cân nặng.", "from_text": true },
+          { "chinese": "出门在外要注意安全，防止发生意外。", "pinyin": "Chūmén zàiwài yào zhùyì ānquán, fángzhǐ fāshēng yìwài.", "vietnamese": "Đi ra ngoài phải chú ý an toàn, đề phòng xảy ra sự cố bất trắc." }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "料想不到的；意料之外的不幸事件。",
+      "collocations": ["意外发现", "意外的礼物", "感到意外", "发生意外"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w24", "order": 24, "textbook": "HSK 5 上", "lesson": 16,
+      "hanzi": "存在", "pinyin": "cúnzài",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "tồn tại",
+        "structure": "存在(着) + 问题 / 差异 / 明显不同 / 客观存在",
+        "explanation": "Hiện hữu thực tế, không phụ thuộc ý muốn chủ quan (dùng nhiều cho vấn đề, khác biệt, hiện tượng).",
+        "examples": [{ "chinese": "体重减轻者和体重增加者在体重波动模式上存在着明显不同。", "pinyin": "Tǐzhòng jiǎnqīngzhě hé tǐzhòng zēngjiāzhě zài tǐzhòng bōdòng móshì shang cúnzàizhe míngxiǎn bùtóng.", "vietnamese": "Giữa người giảm cân và người tăng cân tồn tại sự khác biệt rõ rệt trong mô hình dao động cân nặng.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "事物持续占据时间空间；实际有。",
+      "collocations": ["存在问题", "存在差异", "客观存在", "存在着不同"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w25", "order": 25, "textbook": "HSK 5 上", "lesson": 16,
+      "hanzi": "明显", "pinyin": "míngxiǎn",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)",
+        "meaning": "rõ ràng, nổi bật, rõ rệt",
+        "structure": "明显不同 / 明显提高 / 明显减轻 / 明显的规律",
+        "explanation": "Dễ dàng nhận thấy sự thay đổi, khác biệt hoặc đặc điểm nổi trội.",
+        "examples": [{ "chinese": "体重减轻者和体重增加者在体重波动模式上存在着明显不同。", "pinyin": "Tǐzhòng jiǎnqīngzhě hé tǐzhòng zēngjiāzhě zài tǐzhòng bōdòng móshì shang cúnzàizhe míngxiǎn bùtóng.", "vietnamese": "Giữa người giảm cân và người tăng cân tồn tại sự khác biệt rõ rệt trong mô hình dao động cân nặng.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "清楚地显露出来，容易让人看出或感觉到。",
+      "collocations": ["明显提高", "明显不同", "明显变化", "效果明显"],
+      "usage_note": "Phân biệt với 清楚 (Bài tập 2 câu 2 tr.152): '兴趣明显提高了' (mức độ thay đổi rõ rệt → dùng 明显, không dùng 清楚).",
+      "common_errors": "Sai: '兴趣清楚提高了' → Đúng: '明显提高了'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w26", "order": 26, "textbook": "HSK 5 上", "lesson": 16, "is_out_of_syllabus": true,
+      "hanzi": "补偿", "pinyin": "bǔcháng",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "đền bù, bổ khuyết, bù đắp",
+        "structure": "补偿模式 / 经济补偿 / 补偿损失",
+        "explanation": "Bù đắp lại phần thiếu hụt, tổn thất hoặc cân bằng lại sự chênh lệch trước đó.",
+        "examples": [{ "chinese": "体重减轻者会表现出较强的补偿模式，即在周末之后体重立即下降。", "pinyin": "Tǐzhòng jiǎnqīngzhě huì biǎoxiàn chū jiào qiáng de bǔcháng móshì, jí zài zhōumò zhīhòu tǐzhòng lìjí xiàjiàng.", "vietnamese": "Người giảm cân thể hiện cơ chế bù đắp khá mạnh, tức là ngay sau cuối tuần cân nặng lập tức giảm xuống.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "抵消损失、消耗或补足欠缺。",
+      "collocations": ["补偿损失", "经济补偿", "补偿模式"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w27", "order": 27, "textbook": "HSK 5 上", "lesson": 16,
+      "hanzi": "立即", "pinyin": "lìjí",
+      "lesson_usage": {
+        "part_of_speech": "副词 (Phó từ)",
+        "meaning": "lập tức, ngay",
+        "structure": "立即 + V (下降/出发/采取措施/停止)",
+        "explanation": "Diễn ra ngay lập tức không chút chậm trễ (văn viết/trang trọng hơn 马上).",
+        "examples": [{ "chinese": "即在周末之后体重立即下降，这一下降趋势直至周五结束。", "pinyin": "Jí zài zhōumò zhīhòu tǐzhòng lìjí xiàjiàng, zhè yí xiàjiàng qūshì zhízhì Zhōuwǔ jiéshù.", "vietnamese": "Tức là ngay sau cuối tuần cân nặng lập tức giảm xuống, xu hướng giảm này kéo dài cho tới hết thứ Sáu.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "立刻、马上（偏书面语）。",
+      "collocations": ["立即下降", "立即出发", "立即行动", "立即停止"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w28", "order": 28, "textbook": "HSK 5 上", "lesson": 16,
+      "hanzi": "趋势", "pinyin": "qūshì",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "xu hướng, chiều hướng",
+        "structure": "下降趋势 / 上升趋势 / 战争的/上升的/好的/健康的 + 趋势 / 发展趋势",
+        "explanation": "Chiều hướng biến động và phát triển của sự vật, hiện tượng theo thời gian.",
+        "examples": [{ "chinese": "这一下降趋势直至周五结束。", "pinyin": "Zhè yí xiàjiàng qūshì zhízhì Zhōuwǔ jiéshù.", "vietnamese": "Xu hướng giảm này kéo dài đến tận thứ Sáu mới kết thúc.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "事物发展的动向和潮流。",
+      "collocations": ["上升趋势", "下降趋势", "发展趋势", "流行趋势"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w29", "order": 29, "textbook": "HSK 5 上", "lesson": 16,
+      "hanzi": "差异", "pinyin": "chāyì",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "sự khác biệt",
+        "structure": "存在差异 / 文化差异 / 缩小差异 / 性别差异",
+        "explanation": "Điểm khác nhau, sự chênh lệch giữa hai hay nhiều đối tượng (văn viết hơn 差别).",
+        "examples": [{ "chinese": "而体重增加者每天的体重都会存在差异，他们在工作日的体重并无明显减轻。", "pinyin": "Ér tǐzhòng zēngjiāzhě měitiān de tǐzhòng dōu huì cúnzài chāyì, tāmen zài gōngzuòrì de tǐzhòng bìng wú míngxiǎn jiǎnqīng.", "vietnamese": "Còn cân nặng hằng ngày của người tăng cân đều có sự khác biệt, cân nặng vào ngày làm việc của họ không hề giảm rõ rệt.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "差别、不同之处。",
+      "collocations": ["存在差异", "文化差异", "地区差异", "缩小差异"],
+      "usage_note": "Chú ý chữ 差 đọc thanh 1: chāyì (không đọc chàyì).",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w30", "order": 30, "textbook": "HSK 5 上", "lesson": 16,
+      "hanzi": "联合", "pinyin": "liánhé",
+      "lesson_usage": {
+        "part_of_speech": "动词 / 形容词 (Động từ / Tính từ)",
+        "meanings": ["1. (Động từ) kết hợp, hợp nhất, liên kết", "2. (Tính từ) chung, liên hợp"],
+        "meaning": "kết hợp, hợp nhất; chung",
+        "structure": "(đgt) 联合多所院校 / 联合起来; (tt) 联合国 / 联合声明 / 联合举办",
+        "explanation": "Sách gốc ghi đủ đgt./tt.: nhiều đơn vị/lực lượng hợp sức cùng thực hiện việc gì đó hoặc mang tính chung của nhiều bên.",
+        "examples": [
+          { "chinese": "这项联合多所医学院校所做的研究发现……", "pinyin": "Zhè xiàng liánhé duō suǒ yīxué yuànxiào suǒ zuò de yánjiū fāxiàn......", "vietnamese": "Nghiên cứu được thực hiện với sự liên kết của nhiều trường đại học y khoa này phát hiện rằng...", "from_text": true },
+          { "chinese": "这两家公司决定联合开发一款新产品。", "pinyin": "Zhè liǎng jiā gōngsī juédìng liánhé kāifā yì kuǎn xīn chǎnpǐn.", "vietnamese": "Hai công ty này quyết định hợp tác cùng phát triển một sản phẩm mới." }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "联系结合在一起；共同的。",
+      "collocations": ["联合起来", "联合国", "联合举办", "联合研究"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w31", "order": 31, "textbook": "HSK 5 上", "lesson": 16,
+      "hanzi": "个别", "pinyin": "gèbié",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)",
+        "meanings": ["1. cá biệt, cực ít, thiểu số (极少数、少有)", "2. riêng lẻ, từng cá nhân một (单个、各个)"],
+        "meaning": "riêng lẻ, cá biệt",
+        "structure": "个别人 / 个别地区 / 个别现象 / 个别谈话 / 个别训练",
+        "explanation": "Chú thích 2 tr.149 nêu rõ 2 lớp nghĩa: vừa chỉ 'số cực ít, hiếm gặp' (như trong bài khóa), vừa chỉ 'từng cá thể riêng lẻ'.",
+        "examples": [
+          { "chinese": "除了个别人以外，多数人体重的增加会从周六开始。", "pinyin": "Chúle gèbié rén yǐwài, duōshù rén tǐzhòng de zēngjiā huì cóng Zhōuliù kāishǐ.", "vietnamese": "Ngoại trừ một vài cá nhân cá biệt, đa số mọi người bắt đầu tăng cân từ thứ Bảy.", "from_text": true },
+          { "chinese": "他经常采取个别谈话的方式了解情况和解决问题。", "pinyin": "Tā jīngcháng cǎiqǔ gèbié tánhuà de fāngshì liǎojiě qíngkuàng hé jiějué wèntí.", "vietnamese": "Anh ấy thường áp dụng hình thức trao đổi riêng lẻ để nắm bắt tình hình và giải quyết vấn đề." }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "单个、各个；极少数、少有的。",
+      "collocations": ["个别人", "个别现象", "个别地区", "个别谈话"],
+      "usage_note": "Xem Chú thích 2 trang 149.",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w32", "order": 32, "textbook": "HSK 5 上", "lesson": 16,
+      "hanzi": "表明", "pinyin": "biǎomíng",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "thể hiện, chứng tỏ, bày tỏ rõ",
+        "structure": "主动/充分/直接/清楚地 + 表明 / 表明态度 / 研究表明……",
+        "explanation": "Cho thấy rõ ràng (sự thật, quy luật) hoặc nêu rõ thái độ, lập trường.",
+        "examples": [{ "chinese": "它表明人们的体重变化在一周内会显示出一种明显的规律。", "pinyin": "Tā biǎomíng rénmen de tǐzhòng biànhuà zài yì zhōu nèi huì xiǎnshì chū yì zhǒng míngxiǎn de guīlǜ.", "vietnamese": "Điều đó chứng tỏ sự thay đổi cân nặng của con người trong một tuần sẽ thể hiện một quy luật rõ rệt.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "表示清楚；证明、显示出某种情况。",
+      "collocations": ["研究表明", "表明态度", "表明立场", "充分表明"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w33", "order": 33, "textbook": "HSK 5 上", "lesson": 16,
+      "hanzi": "临时", "pinyin": "línshí",
+      "lesson_usage": {
+        "part_of_speech": "副词 / 形容词 (Phó từ / Tính từ)",
+        "meanings": ["1. (Phó từ) đến sát lúc sự việc xảy ra, đột xuất", "2. (Tính từ/Thuộc tính từ) tạm thời, ngắn hạn, không chính thức"],
+        "meaning": "đến lúc; tạm thời",
+        "structure": "(tt) 临时变化 / 临时工作 / 临时的家; (phó) 临时决定 / 临时通知",
+        "explanation": "Sách gốc ghi đủ phó./tt. và đối chiếu trực tiếp với 暂时 tại mục 词语辨析 tr.150–151.",
+        "examples": [
+          { "chinese": "工作日和周末体重的临时变化应该被视为正常现象。", "pinyin": "Gōngzuòrì hé zhōumò tǐzhòng de línshí biànhuà yīnggāi bèi shìwéi zhèngcháng xiànxiàng.", "vietnamese": "Sự thay đổi tạm thời của cân nặng giữa ngày làm việc và cuối tuần nên được xem là hiện tượng bình thường.", "from_text": true },
+          { "chinese": "早到了30分钟，所以我临时决定去旁边的书店看看。", "pinyin": "Zǎo dào le sānshí fēnzhōng, suǒyǐ wǒ línshí juédìng qù pángbiān de shūdiàn kànkan.", "vietnamese": "Đến sớm 30 phút nên tôi đột xuất quyết định sang hiệu sách bên cạnh xem thử." }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "临到事情发生的时候；短期的、非正式的。",
+      "collocations": ["临时变化", "临时工作", "临时决定", "临时通知"],
+      "usage_note": "Xem bảng phân biệt '临时—暂时' ở tab Ngữ pháp.",
+      "common_errors": "Không dùng 暂时 làm định ngữ trước danh từ kiểu '暂时工作' (phải dùng 临时工作).",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w34", "order": 34, "textbook": "HSK 5 上", "lesson": 16,
+      "hanzi": "现象", "pinyin": "xiànxiàng",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "hiện tượng",
+        "structure": "自然/表面/怪/不良/个别(的) + 现象 / 正常现象 / 社会现象",
+        "explanation": "Sự việc, biểu hiện có thể quan sát thấy bên ngoài trong tự nhiên hoặc đời sống xã hội.",
+        "examples": [{ "chinese": "工作日和周末体重的临时变化应该被视为正常现象。", "pinyin": "Gōngzuòrì hé zhōumò tǐzhòng de línshí biànhuà yīnggāi bèi shìwéi zhèngcháng xiànxiàng.", "vietnamese": "Sự biến đổi tạm thời của cân nặng vào ngày thường và cuối tuần nên được coi là hiện tượng bình thường.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "事物在发展变化中所表现的外部形态和联系。",
+      "collocations": ["正常现象", "自然现象", "表面现象", "不良现象"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w35", "order": 35, "textbook": "HSK 5 上", "lesson": 16,
+      "hanzi": "非", "pinyin": "fēi",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "không phải, không (= 不是)",
+        "structure": "而非…… / 并非……",
+        "explanation": "Động từ văn viết mang nghĩa phủ định 'không phải là', thường ghép thành 而非 (chứ không phải) hoặc 并非 (hoàn toàn không phải).",
+        "examples": [{ "chinese": "工作日和周末体重的临时变化应该被视为正常现象，而非真正的体重增加。", "pinyin": "Gōngzuòrì hé zhōumò tǐzhòng de línshí biànhuà yīnggāi bèi shìwéi zhèngcháng xiànxiàng, ér fēi zhēnzhèng de tǐzhòng zēngjiā.", "vietnamese": "Sự thay đổi tạm thời của cân nặng giữa ngày thường và cuối tuần nên được xem là hiện tượng bình thường chứ không phải tăng cân thực sự.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "前缀 (Tiền tố — Chú thích 3 tr.149)",
+          "meanings": ["phi..., không thuộc phạm vi..."],
+          "structure": "非 + Danh từ (非专业人员 / 非语言交流 / 非工作人员)",
+          "difference_note": "Đứng ngay trước thành phần danh từ để loại trừ khỏi phạm vi đó.",
+          "examples": [{ "chinese": "在非语言的交流中，眼睛起着重要的作用。", "pinyin": "Zài fēiyǔyán de jiāoliú zhōng, yǎnjing qǐzhe zhòngyào de zuòyòng.", "vietnamese": "Trong giao tiếp phi ngôn ngữ, đôi mắt đóng vai trò quan trọng." }]
+        },
+        {
+          "part_of_speech": "副词 (Phó từ — Chú thích 3 tr.149)",
+          "meanings": ["khăng khăng, nhất định; nhất thiết phải (非……不可)"],
+          "structure": "非(要) + V / 何必非要…… / 非 + V + 不可",
+          "difference_note": "Biểu thị cố chấp khăng khăng làm gì, hoặc cấu trúc nhấn mạnh 'bắt buộc phải' (非……不可).",
+          "examples": [{ "chinese": "补办学生证的事非你本人去不可。", "pinyin": "Bǔbàn xuéshengzhèng de shì fēi nǐ běnrén qù bù kě.", "vietnamese": "Việc làm lại thẻ sinh viên nhất định phải đích thân bạn đi mới được." }]
+        }
+      ],
+      "chinese_explanation": "动词，不是；前缀，不属于某范围；副词，偏要、必须（非……不可）。",
+      "collocations": ["而非", "并非", "非专业人员", "非……不可"],
+      "usage_note": "3 cách dùng trọng tâm trình bày đầy đủ tại Chú thích 3 trang 149–150!",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w36", "order": 36, "textbook": "HSK 5 上", "lesson": 16, "is_out_of_syllabus": true,
+      "hanzi": "就餐", "pinyin": "jiùcān",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "đi ăn, dùng bữa",
+        "structure": "外出就餐 / 在餐厅就餐 / 就餐环境",
+        "explanation": "Dùng bữa, ăn cơm (từ văn viết, trang trọng hơn 吃饭).",
+        "examples": [{ "chinese": "这是由于人们在周末会有更多的时间外出就餐。", "pinyin": "Zhè shì yóuyú rénmen zài zhōumò huì yǒu gèng duō de shíjiān wàichū jiùcān.", "vietnamese": "Điều này là do mọi người có nhiều thời gian ra ngoài ăn uống hơn vào dịp cuối tuần.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "吃饭、用餐（书面语）。",
+      "collocations": ["外出就餐", "就餐环境", "文明就餐"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w37", "order": 37, "textbook": "HSK 5 上", "lesson": 16, "is_out_of_syllabus": true,
+      "hanzi": "放纵", "pinyin": "fàngzòng",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "buông thả, không kiểm soát",
+        "structure": "放纵自己 / 对饮食有些放纵 / 放纵孩子",
+        "explanation": "Không tự kiềm chế bản thân hoặc buông lỏng không quản lý ai đó, để mặc làm theo ý thích.",
+        "examples": [{ "chinese": "周末对饮食稍微有些放纵影响不大。", "pinyin": "Zhōumò duì yǐnshí shāowēi yǒuxiē fàngzòng yǐngxiǎng bú dà.", "vietnamese": "Cuối tuần hơi buông lỏng ăn uống một chút cũng không ảnh hưởng lớn.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "纵容、不加约束；不守规矩、任性。",
+      "collocations": ["放纵自己", "稍微放纵", "过度放纵"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w38", "order": 38, "textbook": "HSK 5 上", "lesson": 16,
+      "hanzi": "苗条", "pinyin": "miáotiáo",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)",
+        "meaning": "thon thả, mảnh khảnh",
+        "structure": "苗条的身材 / 变苗条 / 身材很苗条",
+        "explanation": "Miêu tả vóc dáng mảnh mai, thon gọn cân đối (chủ yếu dùng khen phụ nữ, nghĩa tích cực; khác với 瘦 nghĩa trung tính/gầy).",
+        "examples": [{ "chinese": "想要变苗条的节食者应注意到这种变化规律。", "pinyin": "Xiǎngyào biàn miáotiáo de jiéshízhě yīng zhùyì dào zhè zhǒng biànhuà guīlǜ.", "vietnamese": "Những người ăn kiêng muốn trở nên thon thả nên lưu ý tới quy luật thay đổi này.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "形容女子身材细长匀称（褒义）。",
+      "collocations": ["苗条的身材", "变得苗条", "身材苗条"],
+      "usage_note": "Chỉ dùng khen vóc dáng thon gọn đẹp (thường cho nữ), không dùng cho vật thể hay đàn ông vạm vỡ.",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w39", "order": 39, "textbook": "HSK 5 上", "lesson": 16,
+      "hanzi": "借口", "pinyin": "jièkǒu",
+      "lesson_usage": {
+        "part_of_speech": "名词 / 动词 (Danh từ / Động từ)",
+        "meanings": ["1. (Danh từ) cái cớ, lý do thoái thác", "2. (Động từ) lấy cớ, viện cớ"],
+        "meaning": "cớ; lấy cớ",
+        "structure": "(dt) 找借口 / 以……为借口; (đgt) 借口 + [Sự việc] + [Hành động]",
+        "explanation": "Sách gốc ghi đủ dt./đgt.: đưa ra lý do giả tạo bề ngoài để che đậy mục đích thực hoặc né tránh trách nhiệm.",
+        "examples": [
+          { "chinese": "周末之后不要再找任何吃美食的借口。", "pinyin": "Zhōumò zhīhòu búyào zài zhǎo rènhé chī měishí de jièkǒu.", "vietnamese": "Sau cuối tuần đừng tìm bất cứ cái cớ nào để ăn món ngon nữa.", "from_text": true },
+          { "chinese": "他借口家里有事，提前离开了会场。", "pinyin": "Tā jièkǒu jiālǐ yǒushì, tíqián líkāi le huìchǎng.", "vietnamese": "Anh ta lấy cớ nhà có việc, rời khỏi hội trường sớm." }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "假托的理由；以某事为理由（多指推托）。",
+      "collocations": ["找借口", "别找借口", "借口有事", "以……为借口"],
+      "usage_note": "Mang sắc thái tiêu cực (lý do giả/thoái thác), khác với 理由 (lý do chính đáng/trung tính).",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w40", "order": 40, "textbook": "HSK 5 上", "lesson": 16,
+      "hanzi": "采取", "pinyin": "cǎiqǔ",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "áp dụng, dùng, tiến hành",
+        "structure": "采取 + 措施 / 行动 / 办法 / 方式 / 政策 / 态度",
+        "explanation": "Lựa chọn và sử dụng một biện pháp, phương thức, hành động hay thái độ cụ thể (thường đi với danh từ 2 âm tiết trừu tượng).",
+        "examples": [{ "chinese": "应及时采取措施阻止这一上升趋势。", "pinyin": "Yīng jíshí cǎiqǔ cuòshī zǔzhǐ zhè yí shàngshēng qūshì.", "vietnamese": "Nên kịp thời áp dụng biện pháp để ngăn chặn xu hướng tăng cân này.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "选择施行（某种方针、政策、措施、手段等）。",
+      "collocations": ["采取措施", "采取行动", "采取方式", "采取办法"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l16_w41", "order": 41, "textbook": "HSK 5 上", "lesson": 16,
+      "hanzi": "措施", "pinyin": "cuòshī",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "biện pháp",
+        "structure": "采取措施 / 有效措施 / 安全措施 / 保护措施",
+        "explanation": "Cách thức xử lý cụ thể, có hệ thống được đề ra nhằm giải quyết hoặc phòng ngừa vấn đề (trang trọng hơn 办法).",
+        "examples": [{ "chinese": "应及时采取措施阻止这一上升趋势。", "pinyin": "Yīng jíshí cǎiqǔ cuòshī zǔzhǐ zhè yí shàngshēng qūshì.", "vietnamese": "Nên kịp thời áp dụng biện pháp để chặn xu hướng tăng lên này.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "针对某种情况而采取的处理办法。",
+      "collocations": ["采取措施", "有效措施", "防范措施", "保护措施"],
+      "usage_note": "Cặp kết hợp vàng cực hay thi HSK 5: 采取 + (有效)措施!",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    }
+  ],
+  "proper_nouns": [],
+  "collocations_table": [
+    { "relation": "Động từ + Tân ngữ", "head": "达到", "partners": "水平 / 程度 / 规模 / 目的 / 要求" },
+    { "relation": "Động từ + Tân ngữ", "head": "分析", "partners": "情况 / 问题 / 心理 / 原因 / 语法 / 病句" },
+    { "relation": "Định ngữ + Trung tâm ngữ", "head": "意外的", "partners": "礼物 / 消息 / 机会 / 结果 / 发现" },
+    { "relation": "Định ngữ + Trung tâm ngữ", "head": "可靠的", "partners": "朋友 / 质量 / 材料 / 报道 / 消息 / 结论" },
+    { "relation": "Định ngữ + Trung tâm ngữ", "head": "战争的/上升的/好的/健康的", "partners": "趋势" },
+    { "relation": "Định ngữ + Trung tâm ngữ", "head": "自然/表面/怪/不良/个别（的）", "partners": "现象" },
+    { "relation": "Trạng ngữ + Trung tâm ngữ", "head": "主动/充分/直接/清楚地", "partners": "表明" },
+    { "relation": "Trạng ngữ + Trung tâm ngữ", "head": "部分/共同/正式/积极", "partners": "参与" }
+  ],
+  "grammar": [
+    {
+      "title": "即 (Động từ 'tức là' · Phó từ 'liền, ngay')",
+      "formula": "(1) A，即 B (tức là)  |  (2) [Điều kiện/Hành động] + 即 + V (liền, ngay)",
+      "meaning": "1. Tức là, nghĩa là (= 就是) · 2. Liền, ngay (= 就、便).",
+      "usage": "Từ văn viết trang trọng. Khi làm động từ nghĩa là “就是” để giải thích rõ nội dung trước đó; khi làm phó từ nghĩa là “就、便”, thường xuất hiện trong cụm 4 chữ gọn súc tích.",
+      "context": "Báo chí, văn khoa học, định nghĩa từ điển, thành ngữ 4 chữ.",
+      "examples": [
+        { "chinese": "“旦”是象形字，即太阳从地平线上升起。", "pinyin": "“Dàn” shì xiàngxíngzì, jí tàiyáng cóng dìpíngxiàn shang shēngqǐ.", "vietnamese": "“Đán” là chữ tượng hình, tức là mặt trời mọc lên từ đường chân trời." },
+        { "chinese": "这些人的体重变化表现出清晰的模式，即周末之后体重升高，在工作日体重减轻（周五达到最低点）。", "pinyin": "Zhèxiē rén de tǐzhòng biànhuà biǎoxiàn chū qīngxī de móshì, jí zhōumò zhīhòu tǐzhòng shēnggāo, zài gōngzuòrì tǐzhòng jiǎnqīng (Zhōuwǔ dádào zuìdīdiǎn).", "vietnamese": "Sự biến đổi cân nặng của những người này thể hiện mô hình rõ ràng, tức là sau cuối tuần cân nặng tăng cao, còn vào ngày làm việc giảm nhẹ (thứ Sáu chạm đáy)." },
+        { "chinese": "不懂即问是他最大的优点，也是他成功的主要原因。", "pinyin": "Bù dǒng jí wèn shì tā zuìdà de yōudiǎn, yě shì tā chénggōng de zhǔyào yuányīn.", "vietnamese": "Không hiểu liền hỏi là ưu điểm lớn nhất của anh ấy, cũng là nguyên nhân chính dẫn đến thành công." },
+        { "chinese": "在办公司这件事上，两人早都有打算，这次的机会让他俩一拍即合。", "pinyin": "Zài bàn gōngsī zhè jiàn shì shang, liǎng rén zǎo dōu yǒu dǎsuàn, zhè cì de jīhuì ràng tāliǎ yìpāi jíhé.", "vietnamese": "Trong chuyện mở công ty, hai người đều đã dự tính từ sớm, cơ hội lần này khiến hai người ăn ý ngay lập tức." }
+      ],
+      "important_notes": "Thiên về văn viết, thường dùng để thay thế 就是 hoặc 就/便 cho câu văn cô đọng, học thuật.",
+      "common_errors": "",
+      "comparison": "",
+      "mini_practice": [
+        { "prompt": "Viết lại câu dùng 即: “他可聪明了，什么东西一学就会。” → 他可聪明了，______________________。（即）", "sample_answer": "什么东西一学即会", "explanation": "Thay phó từ 就 bằng 即 → 一学即会." }
+      ]
+    },
+    {
+      "title": "个别",
+      "formula": "(1) 个别 + V/N (riêng lẻ từng cá nhân)  |  (2) 个别 + N (cực ít, cá biệt)",
+      "meaning": "1. Từng cái riêng lẻ · 2. Cực ít, thiểu số cá biệt.",
+      "usage": "Tính từ. Nghĩa 1 là “单个、各个” (thực hiện riêng cho từng cá nhân); nghĩa 2 là “极少数、少有” (chỉ tỷ lệ rất nhỏ so với số đông).",
+      "context": "Quản lý, giáo dục, dự báo thời tiết, báo cáo nghiên cứu.",
+      "examples": [
+        { "chinese": "他经常采取个别谈话的方式了解情况和解决问题。", "pinyin": "Tā jīngcháng cǎiqǔ gèbié tánhuà de fāngshì liǎojiě qíngkuàng hé jiějué wèntí.", "vietnamese": "Anh ấy thường áp dụng cách nói chuyện riêng từng người để hiểu tình hình và giải quyết vấn đề." },
+        { "chinese": "教练针对他的技术特点进行了个别训练，达到了比较好的效果。", "pinyin": "Jiàoliàn zhēnduì tā de jìshù tèdiǎn jìnxíng le gèbié xùnliàn, dádào le bǐjiào hǎo de xiàoguǒ.", "vietnamese": "Huấn luyện viên tiến hành huấn luyện riêng căn cứ vào đặc điểm kỹ thuật của cậu ấy, đạt hiệu quả khá tốt." },
+        { "chinese": "……除了个别人以外，多数人体重的增加会从周六开始，……", "pinyin": "......chúle gèbié rén yǐwài, duōshù rén tǐzhòng de zēngjiā huì cóng Zhōuliù kāishǐ, ......", "vietnamese": "...ngoại trừ một vài cá nhân cá biệt, đa số mọi người bắt đầu tăng cân từ thứ Bảy..." },
+        { "chinese": "天气预报说今晚有小到中雨，个别地区可能有大雨。", "pinyin": "Tiānqì yùbào shuō jīnwǎn yǒu xiǎo dào zhōngyǔ, gèbié dìqū kěnéng yǒu dàyǔ.", "vietnamese": "Dự báo thời tiết nói tối nay có mưa nhỏ đến mưa vừa, một vài khu vực cá biệt có thể có mưa to." }
+      ],
+      "important_notes": "Thường làm định ngữ đứng trực tiếp trước danh từ (个别人, 个别现象, 个别谈话); có thể nhấn mạnh bằng 极个别 (vô cùng hãn hữu).",
+      "common_errors": "",
+      "comparison": "",
+      "mini_practice": [
+        { "prompt": "A: 看课文时你有没有遇到不懂的地方或不认识的汉字？  B: ______________________。（个别）", "sample_answer": "大部分都看懂了，只有个别生词不认识", "explanation": "Dùng nghĩa 'cực ít, cá biệt': 个别生词." }
+      ]
+    },
+    {
+      "title": "非 (Tiền tố · Động từ 'không phải' · Phó từ 'khăng khăng / 非……不可')",
+      "formula": "(1) 非 + Danh từ  |  (2) 而非 / 并非  |  (3) 非(要) + V  |  (4) 非 + V + 不可",
+      "meaning": "1. Phi / không thuộc · 2. Không phải · 3. Cố chấp, khăng khăng · 4. Nhất định phải.",
+      "usage": "(1) Tiền tố trước danh từ biểu thị không thuộc phạm vi đó; (2) Động từ nghĩa “不是”; (3) Phó từ biểu thị chủ quan cố chấp khăng khăng làm gì, hoặc dùng trong câu phản vấn phủ định sự cần thiết (何必非要……); (4) Cấu trúc “非 + 动词 + 不可” mang nghĩa “必须” (nhất thiết phải).",
+      "context": "Cả văn viết trang trọng (非专业, 而非, 并非) lẫn khẩu ngữ sinh động (非要, 非……不可).",
+      "examples": [
+        { "chinese": "在非语言的交流中，眼睛起着重要的作用。", "pinyin": "Zài fēiyǔyán de jiāoliú zhōng, yǎnjing qǐzhe zhòngyào de zuòyòng.", "vietnamese": "Trong giao tiếp phi ngôn ngữ, đôi mắt đóng vai trò quan trọng." },
+        { "chinese": "我们公司的技术部门都是专业人员，工资高；非专业人员做服务工作，工资不高。", "pinyin": "Wǒmen gōngsī de jìshù bùmén dōu shì zhuānyè rényuán, gōngzī gāo; fēizhuānyè rényuán zuò fúwù gōngzuò, gōngzī bù gāo.", "vietnamese": "Bộ phận kỹ thuật công ty chúng tôi toàn là nhân viên chuyên môn nên lương cao; nhân viên không chuyên làm việc dịch vụ nên lương không cao." },
+        { "chinese": "……工作日和周末体重的临时变化应该被视为正常现象，而非真正的体重增加，……", "pinyin": "......gōngzuòrì hé zhōumò tǐzhòng de línshí biànhuà yīnggāi bèi shìwéi zhèngcháng xiànxiàng, ér fēi zhēnzhèng de tǐzhòng zēngjiā, ......", "vietnamese": "...sự thay đổi cân nặng tạm thời giữa ngày thường và cuối tuần nên được xem là hiện tượng bình thường chứ không phải tăng cân thật sự..." },
+        { "chinese": "成功有时候并非想象中那么难。", "pinyin": "Chénggōng yǒushíhou bìngfēi xiǎngxiàng zhōng nàme nán.", "vietnamese": "Thành công đôi khi không hề khó như trong tưởng tượng." },
+        { "chinese": "他非要离婚，我们谁拦也拦不住。", "pinyin": "Tā fēiyào lí hūn, wǒmen shéi lán yě lán bu zhù.", "vietnamese": "Anh ấy cứ khăng khăng đòi ly hôn, chúng tôi ai cản cũng không cản nổi." },
+        { "chinese": "我本不想提这件事，你又何必非要我说出来呢？", "pinyin": "Wǒ běn bù xiǎng tí zhè jiàn shì, nǐ yòu hébì fēiyào wǒ shuō chulai ne?", "vietnamese": "Vốn tôi không định nhắc chuyện này, cậu việc gì cứ bắt tôi phải nói ra chứ?" },
+        { "chinese": "有些家长已经习惯了这种竞争，非让自家的孩子考第一名不可。", "pinyin": "Yǒuxiē jiāzhǎng yǐjīng xíguàn le zhè zhǒng jìngzhēng, fēi ràng zìjiā de háizi kǎo dì-yī míng bù kě.", "vietnamese": "Một số phụ huynh đã quen với sự cạnh tranh này, nhất định bắt con nhà mình phải thi đứng nhất mới chịu." },
+        { "chinese": "补办学生证的事非你本人去不可。", "pinyin": "Bǔbàn xuéshengzhèng de shì fēi nǐ běnrén qù bù kě.", "vietnamese": "Việc cấp lại thẻ sinh viên nhất thiết phải đích thân cậu đi mới được." }
+      ],
+      "important_notes": "Cấu trúc phủ định kép 非……不可 mang nghĩa khẳng định cực mạnh (= 必须/一定要).",
+      "common_errors": "",
+      "comparison": "",
+      "mini_practice": [
+        { "prompt": "Viết lại câu dùng 非……不可: “听说你住院了，他一定要来看看你。” → ______________________。", "sample_answer": "听说你住院了，他非来看看你不可", "explanation": "Thay 一定要 bằng cấu trúc 非 + V + 不可." }
+      ]
+    }
+  ],
+  "comparison_section": {
+    "label": "词语辨析 Phân biệt từ ngữ",
+    "pair": "临时 — 暂时",
+    "term_a": "临时 (línshí)",
+    "term_b": "暂时 (zànshí)",
+    "similarity": "Đều mang nghĩa “trong thời gian ngắn” (短时间内). VD: 没找到满意的房子前，我临时/暂时借住在朋友家里。",
+    "differences": [
+      {
+        "criterion": "Nghĩa “đến sát lúc mới xảy ra”",
+        "a": "CÓ nghĩa “đến sát lúc sự việc xảy ra, đột xuất” (如：早到了30分钟，所以我临时决定去旁边的书店看看。).",
+        "b": "KHÔNG có nghĩa này."
+      },
+      {
+        "criterion": "Nghĩa “khoảng thời gian ngắn không xác định trước mắt”",
+        "a": "KHÔNG có nghĩa này.",
+        "b": "CÓ nghĩa chỉ một khoảng thời gian ngắn gần đây không xác định rõ mốc kết thúc (如：这套房子我很喜欢，暂时还不打算卖掉。)."
+      },
+      {
+        "criterion": "Làm thuộc tính từ (định ngữ danh từ)",
+        "a": "CÓ THỂ làm thuộc tính từ (định ngữ) biểu thị tính ngắn hạn, không chính thức (如：麻烦你春节后帮刘方的女儿找份临时工作。 / 临时的家).",
+        "b": "KHÔNG có cách dùng thuộc tính từ này (nhưng chú ý: 暂时的困难 vẫn dùng được khi 暂时 là tính từ chỉ tình trạng nhất thời)."
+      }
+    ]
+  },
+  "texts": [
+    {
+      "id": "t1",
+      "title_zh": "体重与节食（627字）",
+      "title_vi": "Cân nặng và ăn kiêng",
+      "lines": [
+        {
+          "speaker": "",
+          "chinese": "据报道，医学专家进行了一项新研究，研究发现：由于人们在一周内的营养摄入和饮食模式会影响到他们的体重变化，因此节食者的体重会在一周内上下波动。",
+          "pinyin": "Jù bàodào, yīxué zhuānjiā jìnxíng le yí xiàng xīn yánjiū, yánjiū fāxiàn: yóuyú rénmen zài yì zhōu nèi de yíngyǎng shèrù hé yǐnshí móshì huì yǐngxiǎng dào tāmen de tǐzhòng biànhuà, yīncǐ jiéshízhě de tǐzhòng huì zài yì zhōu nèi shàngxià bōdòng.",
+          "vietnamese": "Theo đưa tin, các chuyên gia y học đã tiến hành một nghiên cứu mới và phát hiện: do lượng dinh dưỡng hấp thu và mô hình ăn uống trong một tuần của con người sẽ ảnh hưởng đến sự thay đổi cân nặng của họ, vì vậy cân nặng của người ăn kiêng sẽ dao động lên xuống trong vòng một tuần."
+        },
+        {
+          "speaker": "",
+          "chinese": "总共有80名年龄在25-62岁之间的成年人参与了这项研究。研究人员根据他们的相对体重变化将其分为三种类型：体重减轻者、体重增加者和体重保持者。这些成年人在每天起床之后、早餐之前称一下自己的体重，为了保证可靠性，只有那些至少连续7天以上称过体重的人才会被纳入分析。对这些志愿者的跟踪调查时间最短为15天，最长为330天。",
+          "pinyin": "Zǒnggòng yǒu bāshí míng niánlíng zài èrshíwǔ dào liùshí'èr suì zhījiān de chéngniánrén cānyù le zhè xiàng yánjiū. Yánjiū rényuán gēnjù tāmen de xiāngduì tǐzhòng biànhuà jiāng qí fēnwéi sān zhǒng lèixíng: tǐzhòng jiǎnqīngzhě, tǐzhòng zēngjiāzhě hé tǐzhòng bǎochízhě. Zhèxiē chéngniánrén zài měitiān qǐchuáng zhīhòu, zǎocān zhīqián chēng yíxià zìjǐ de tǐzhòng, wèile bǎozhèng kěkàoxìng, zhǐyǒu nàxiē zhìshǎo liánxù qī tiān yǐshàng chēngguo tǐzhòng de rén cái huì bèi nàrù fēnxī. Duì zhèxiē zhìyuànzhě de gēnzōng diàochá shíjiān zuìduǎn wéi shíwǔ tiān, zuìcháng wéi sānbǎi sānshí tiān.",
+          "vietnamese": "Tổng cộng có 80 người trưởng thành trong độ tuổi từ 25–62 tham gia nghiên cứu này. Các nhà nghiên cứu dựa vào biến đổi cân nặng tương đối của họ để phân thành ba nhóm: người giảm cân, người tăng cân và người giữ cân. Những người trưởng thành này cân trọng lượng cơ thể mình mỗi ngày sau khi thức dậy và trước bữa sáng; để đảm bảo độ tin cậy, chỉ những ai đã cân liên tục ít nhất từ 7 ngày trở lên mới được đưa vào phân tích. Thời gian điều tra theo dõi đối với các tình nguyện viên này ngắn nhất là 15 ngày và dài nhất là 330 ngày."
+        },
+        {
+          "speaker": "",
+          "chinese": "研究成果显示：这些人的体重变化表现出清晰的模式，即周末之后体重升高，在工作日体重减轻（周五达到最低点）。研究人员还意外地发现，体重减轻者和体重增加者在体重波动模式上存在着明显不同。体重减轻者会表现出较强的补偿模式，即在周末之后体重立即下降，这一下降趋势直至周五结束；而体重增加者每天的体重都会存在差异，他们在工作日的体重并无明显减轻。",
+          "pinyin": "Yánjiū chéngguǒ xiǎnshì: zhèxiē rén de tǐzhòng biànhuà biǎoxiàn chū qīngxī de móshì, jí zhōumò zhīhòu tǐzhòng shēnggāo, zài gōngzuòrì tǐzhòng jiǎnqīng (Zhōuwǔ dádào zuìdīdiǎn). Yánjiū rényuán hái yìwài de fāxiàn, tǐzhòng jiǎnqīngzhě hé tǐzhòng zēngjiāzhě zài tǐzhòng bōdòng móshì shang cúnzàizhe míngxiǎn bùtóng. Tǐzhòng jiǎnqīngzhě huì biǎoxiàn chū jiào qiáng de bǔcháng móshì, jí zài zhōumò zhīhòu tǐzhòng lìjí xiàjiàng, zhè yí xiàjiàng qūshì zhízhì Zhōuwǔ jiéshù; ér tǐzhòng zēngjiāzhě měitiān de tǐzhòng dōu huì cúnzài chāyì, tāmen zài gōngzuòrì de tǐzhòng bìng wú míngxiǎn jiǎnqīng.",
+          "vietnamese": "Thành quả nghiên cứu cho thấy: sự biến đổi cân nặng của những người này bộc lộ một mô hình rõ rệt, tức là sau cuối tuần cân nặng tăng lên, còn vào ngày làm việc cân nặng giảm đi (thứ Sáu chạm mức thấp nhất). Các nhà nghiên cứu còn bất ngờ phát hiện người giảm cân và người tăng cân có sự khác biệt rõ rệt về mô hình dao động cân nặng. Người giảm cân thể hiện mô hình bù đắp khá mạnh, tức ngay sau cuối tuần cân nặng lập tức giảm xuống, xu hướng giảm này kéo dài đến hết thứ Sáu; còn cân nặng hằng ngày của người tăng cân đều có sự chênh lệch, vào những ngày làm việc cân nặng của họ không hề giảm rõ rệt."
+        },
+        {
+          "speaker": "",
+          "chinese": "这项联合多所医学院校所做的研究发现，除了个别人以外，多数人体重的增加会从周六开始，而体重减轻则会从周二开始，特别是对于那些体重减轻者和体重保持者来说更是如此。它表明人们的体重变化在一周内会显示出一种明显的规律，工作日和周末体重的临时变化应该被视为正常现象，而非真正的体重增加，这是由于人们在周末会有更多的时间外出就餐。周末对饮食稍微有些放纵影响不大，但为了能成功减轻体重，想要变苗条的节食者应注意到这种变化规律，周末之后不要再找任何吃美食的借口，应及时采取措施阻止这一上升趋势。",
+          "pinyin": "Zhè xiàng liánhé duō suǒ yīxué yuànxiào suǒ zuò de yánjiū fāxiàn, chúle gèbié rén yǐwài, duōshù rén tǐzhòng de zēngjiā huì cóng Zhōuliù kāishǐ, ér tǐzhòng jiǎnqīng zé huì cóng Zhōu'èr kāishǐ, tèbié shì duìyú nàxiē tǐzhòng jiǎnqīngzhě hé tǐzhòng bǎochízhě láishuō gèng shì rúcǐ. Tā biǎomíng rénmen de tǐzhòng biànhuà zài yì zhōu nèi huì xiǎnshì chū yì zhǒng míngxiǎn de guīlǜ, gōngzuòrì hé zhōumò tǐzhòng de línshí biànhuà yīnggāi bèi shìwéi zhèngcháng xiànxiàng, ér fēi zhēnzhèng de tǐzhòng zēngjiā, zhè shì yóuyú rénmen zài zhōumò huì yǒu gèng duō de shíjiān wàichū jiùcān. Zhōumò duì yǐnshí shāowēi yǒuxiē fàngzòng yǐngxiǎng bú dà, dàn wèile néng chénggōng jiǎnqīng tǐzhòng, xiǎngyào biàn miáotiáo de jiéshízhě yīng zhùyì dào zhè zhǒng biànhuà guīlǜ, zhōumò zhīhòu búyào zài zhǎo rènhé chī měishí de jièkǒu, yīng jíshí cǎiqǔ cuòshī zǔzhǐ zhè yí shàngshēng qūshì.",
+          "vietnamese": "Nghiên cứu phối hợp giữa nhiều trường đại học y khoa này phát hiện: ngoại trừ một số rất ít cá nhân, đa số mọi người bắt đầu tăng cân từ thứ Bảy và giảm cân từ thứ Ba, đặc biệt càng đúng với nhóm người giảm cân và giữ cân. Điều này chứng tỏ sự thay đổi cân nặng trong tuần tuân theo một quy luật rõ rệt; biến đổi cân nặng tạm thời giữa ngày thường và cuối tuần nên được xem là hiện tượng bình thường chứ không phải tăng cân thực sự, bởi cuối tuần mọi người có nhiều thời gian ra ngoài dùng bữa hơn. Cuối tuần hơi buông lỏng ăn uống một chút không ảnh hưởng lớn, nhưng để giảm cân thành công, những người ăn kiêng muốn có vóc dáng thon thả cần lưu ý quy luật này, sau cuối tuần không nên viện bất cứ cớ nào để ăn món ngon nữa mà cần kịp thời áp dụng biện pháp ngăn chặn xu hướng tăng lên này."
+        }
+      ]
+    }
+  ],
+  "reading_questions": [
+    {
+      "question_zh": "体重减轻者和体重增加者在体重波动模式上有什么明显不同？",
+      "question_vi": "Người giảm cân và người tăng cân có điểm khác biệt rõ rệt nào về mô hình dao động cân nặng?",
+      "answer_zh": "体重减轻者有较强的补偿模式，周末之后体重立即下降，一直持续到周五；而体重增加者每天体重都有差异，工作日的体重并无明显减轻。",
+      "answer_vi": "Người giảm cân có cơ chế bù đắp mạnh, ngay sau cuối tuần cân nặng lập tức giảm kéo dài tới thứ Sáu; còn người tăng cân thì mỗi ngày cân nặng một khác, ngày làm việc không hề giảm rõ rệt."
+    },
+    {
+      "question_zh": "为了成功减轻体重，节食者在周末之后应该怎么做？",
+      "question_vi": "Để giảm cân thành công, người ăn kiêng cần làm gì sau dịp cuối tuần?",
+      "answer_zh": "应该注意到体重在一周内的变化规律，周末之后不要再找任何吃美食的借口，及时采取措施阻止体重上升的趋势。",
+      "answer_vi": "Cần lưu ý quy luật biến đổi cân nặng trong tuần, sau cuối tuần không tìm cớ ăn ngon nữa mà phải kịp thời áp dụng biện pháp chặn xu hướng tăng cân."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "h5s16_ex1", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.151 (Bài tập 1)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ thích hợp điền vào chỗ trống: “许多人喜爱喝茶，几乎______不可一日无茶的程度。”",
+      "options": ["达到", "采取", "参与", "借口"],
+      "answer": "达到",
+      "explanation": "Cụm kết hợp chuẩn trong bảng 词语搭配 tr.150: 达到……的程度 (đạt đến mức độ...).",
+      "review_tip": "Ôn bảng 词语搭配 của động từ #22 达到."
+    },
+    {
+      "id": "h5s16_ex2", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.151 (Bài tập 1)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ thích hợp điền vào chỗ trống: “我们虽然还不能准确预报地震，但可以______有效措施，最大限度地保护我们的财产。”",
+      "options": ["采取", "达到", "参与", "分析"],
+      "answer": "采取",
+      "explanation": "Cụm kết hợp cố định cực quan trọng ở HSK 5: 采取有效措施 (áp dụng biện pháp hữu hiệu).",
+      "review_tip": "Ôn cặp kết hợp #40 采取 + #41 措施."
+    },
+    {
+      "id": "h5s16_ex3", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.151 (Bài tập 1)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ thích hợp điền vào chỗ trống: “他______家里有事，提前离开了会场。”",
+      "options": ["借口", "可靠", "总共", "立即"],
+      "answer": "借口",
+      "explanation": "借口 dùng làm động từ nghĩa là 'lấy cớ, viện cớ' (借口家里有事).",
+      "review_tip": "Ôn 2 từ loại dt./đgt. của từ #39 借口."
+    },
+    {
+      "id": "h5s16_ex4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.151 (词语辨析)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ thích hợp điền vào chỗ trống: “我们租下了一所房子作为______的家。”",
+      "options": ["临时", "暂时", "个别", "相对"],
+      "answer": "临时",
+      "explanation": "临时 có thể làm thuộc tính từ (định ngữ) chỉ tính ngắn hạn, không chính thức: 临时的家 / 临时工作 (词语辨析 做一做 câu 1 tr.151).",
+      "review_tip": "Ôn mục 词语辨析: 临时—暂时 tr.150–151."
+    },
+    {
+      "id": "h5s16_ex5", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.152 (Bài tập 2)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “研究发现，父亲对教育子女的______程度越高，孩子就越聪明。”",
+      "options": ["参与", "参加", "联合", "存在"],
+      "answer": "参与",
+      "explanation": "参与 biểu thị tham gia sâu vào quá trình (giáo dục, quản lý, nghiên cứu) và kết hợp được với 程度 (参与程度).",
+      "review_tip": "Phân biệt 参与 vs 参加."
+    },
+    {
+      "id": "h5s16_ex6", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.152 (Bài tập 2)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “我本来想完成这个计划以后再去美国，______现在那边有更重要的事，不得不提前去。”",
+      "options": ["结果", "成果", "差异", "趋势"],
+      "answer": "结果",
+      "explanation": "结果 có thể làm liên từ chuyển ý 'kết quả là...'; 成果 chỉ là danh từ mang nghĩa thành quả tích cực.",
+      "review_tip": "Phân biệt 成果 (thành quả) vs 结果 (kết quả/liên từ)."
+    },
+    {
+      "id": "h5s16_ex7", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.152 (Bài tập 2)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “调查结果显示，市民对电子阅读的兴趣______提高了。”",
+      "options": ["明显", "清楚", "清晰", "可靠"],
+      "answer": "明显",
+      "explanation": "明显 bổ nghĩa cho động từ chỉ sự thay đổi/tăng giảm rõ rệt (明显提高 / 明显减轻); 清楚 chỉ nhìn/nghe/hiểu rõ.",
+      "review_tip": "Phân biệt 明显 vs 清楚."
+    },
+    {
+      "id": "h5s16_ex8", "type": "grammar_mc", "level": "Vận dụng", "origin_tag": "Ôn tập Bài 15", "mistake_category": "Ngữ pháp",
+      "prompt": "Ôn tập HSK 5 上 (Bài 15): “如果不重视产品质量，这家公司______会被市场淘汰。”",
+      "options": ["迟早", "再三", "临时", "总共"],
+      "answer": "迟早",
+      "explanation": "Phó từ 迟早 (sớm muộn gì cũng) dùng dự báo hệ quả tất yếu trong tương lai (Bài 15 Chú thích 2).",
+      "review_tip": "Ôn lại phó từ 迟早 (Bài 15)."
+    },
+    {
+      "id": "h5s16_ex9", "type": "grammar_mc", "level": "Vận dụng", "origin_tag": "Ôn tập Bài 14", "mistake_category": "Ngữ pháp",
+      "prompt": "Ôn tập HSK 5 上 (Bài 14): “多数人体重的增加会从周六开始，而体重减轻______会从周二开始。”",
+      "options": ["则", "即", "非", "为"],
+      "answer": "则",
+      "explanation": "Cấu trúc đối chiếu tương phản của Bài 14: A……，而 B 则…… (câu trích trực tiếp từ đoạn 4 Bài 16!).",
+      "review_tip": "Ôn lại liên từ tương phản 则 (Bài 14 Chú thích 2)."
+    },
+    {
+      "id": "h5s16_ex10", "type": "context_mc", "level": "Vận dụng", "origin_tag": "Ôn tập Bài 16 (Mở rộng tr.153)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ mở rộng chủ đề Y tế (tr.153) điền vào chỗ trống: “当初人们发明乒乓球是为了饭后做些运动帮助______食物的。”",
+      "options": ["消化", "过敏", "打喷嚏", "着凉"],
+      "answer": "消化",
+      "explanation": "帮助消化食物 (giúp tiêu hóa thức ăn — 扩展 做一做 câu 4 tr.153).",
+      "review_tip": "Ôn bảng từ mở rộng chủ đề 医务1 tr.153: 挂号、急诊、过敏、打喷嚏、着凉、吐、痒、消化."
+    }
+  ]
+}

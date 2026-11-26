@@ -1,0 +1,989 @@
+{
+  "id": "hsk5shang_l15",
+  "book_id": "hsk5shang",
+  "textbook": "HSK 5 上",
+  "lesson_number": 15,
+  "title_zh": "纸上谈兵",
+  "title_vi": "Đánh trận trên giấy",
+  "pdf_pages": "Trang sách 135–143 (Giáo Trình Chuẩn HSK5 Tập 1.pdf)",
+  "source_status": "verified_textbook",
+  "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"],
+  "vocabulary": [
+    {
+      "id": "hsk5s_l15_w01", "order": 1, "textbook": "HSK 5 上", "lesson": 15, "is_out_of_syllabus": true,
+      "hanzi": "纸上谈兵", "pinyin": "zhǐshàng tánbīng",
+      "lesson_usage": {
+        "part_of_speech": "成语 (Thành ngữ)",
+        "meaning": "bàn chuyện đánh giặc trên giấy (lý luận suông)",
+        "structure": "只会纸上谈兵 / “纸上谈兵”的故事",
+        "explanation": "Châm biếm những người chỉ giỏi nói lý thuyết suông, không biết vận dụng linh hoạt vào thực tế.",
+        "examples": [{ "chinese": "这就是成语“纸上谈兵”的故事。", "pinyin": "Zhè jiùshì chéngyǔ “zhǐshàng tánbīng” de gùshi.", "vietnamese": "Đây chính là câu chuyện về thành ngữ “đánh trận trên giấy”.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "比喻空谈理论，不能解决实际问题。",
+      "collocations": ["只会纸上谈兵", "光靠纸上谈兵不行"],
+      "usage_note": "Thành ngữ mang nghĩa phê phán (贬义词).",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l15_w02", "order": 2, "textbook": "HSK 5 上", "lesson": 15,
+      "hanzi": "军事", "pinyin": "jūnshì",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "việc quân, quân sự",
+        "structure": "谈论军事 / 军事理论 / 军事家",
+        "explanation": "Các vấn đề liên quan đến quân đội, chiến tranh và quốc phòng.",
+        "examples": [{ "chinese": "跟别人谈论起军事来，没有人说得过他。", "pinyin": "Gēn biérén tánlùn qǐ jūnshì lái, méiyǒu rén shuō de guò tā.", "vietnamese": "Hễ bàn luận chuyện quân sự với người khác, không ai nói lại được anh ta.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "与军队、战争直接有关的事情。",
+      "collocations": ["军事理论", "军事基地", "军事训练", "军事家"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l15_w03", "order": 3, "textbook": "HSK 5 上", "lesson": 15,
+      "hanzi": "敌（人）", "pinyin": "dí (rén)",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "quân địch, kẻ thù",
+        "structure": "敌强我弱 / 天下无敌 / 打败敌人",
+        "explanation": "Đối phương trong chiến tranh hoặc kẻ đối lập có thù oán.",
+        "examples": [{ "chinese": "廉颇根据敌强我弱的形势，命令士兵们坚守阵地。", "pinyin": "Lián Pō gēnjù dí qiáng wǒ ruò de xíngshì, mìnglìng shìbīng men jiānshǒu zhèndì.", "vietnamese": "Liêm Pha căn cứ vào tình thế địch mạnh ta yếu, ra lệnh cho binh sĩ kiên thủ trận địa.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "相互对抗、仇视的一方，尤指战争中的对方。",
+      "collocations": ["敌强我弱", "打败敌人", "天下无敌", "敌军"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l15_w04", "order": 4, "textbook": "HSK 5 上", "lesson": 15,
+      "hanzi": "理论", "pinyin": "lǐlùn",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "lý luận, lý thuyết",
+        "structure": "军事理论 / 空谈理论 / 理论联系实际",
+        "explanation": "Hệ thống tri thức, nguyên lý được đúc kết về tự nhiên hoặc xã hội (đối lập với 实践/实际 – thực tiễn).",
+        "examples": [{ "chinese": "自己的儿子虽然对军事理论都很了解，但是没有实际作战的经验。", "pinyin": "Zìjǐ de érzi suīrán duì jūnshì lǐlùn dōu hěn liǎojiě, dànshì méiyǒu shíjì zuòzhàn de jīngyàn.", "vietnamese": "Con trai mình tuy rất am hiểu lý luận quân sự nhưng lại không có kinh nghiệm tác chiến thực tế.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "人们从实践中概括出来的关于自然界和社会的系统性知识。",
+      "collocations": ["理论知识", "军事理论", "理论联系实际", "空谈理论"],
+      "usage_note": "Phân biệt với 道理 (Bài tập 2 câu 3 tr.141): 做人的道理 (đạo lý làm người → dùng 道理), còn 理论 dùng cho học thuật, khoa học, chuyên môn.",
+      "common_errors": "Sai: '做人的理论' → Đúng: '做人的道理'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l15_w05", "order": 5, "textbook": "HSK 5 上", "lesson": 15,
+      "hanzi": "作战", "pinyin": "zuòzhàn",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "đánh trận, chiến đấu",
+        "structure": "实际作战 / 带兵作战 / 作战方案",
+        "explanation": "Tiến hành chiến đấu giữa hai lực lượng quân sự.",
+        "examples": [{ "chinese": "但是没有实际作战的经验，想法很不符合实际。", "pinyin": "Dànshì méiyǒu shíjì zuòzhàn de jīngyàn, xiǎngfǎ hěn bù fúhé shíjì.", "vietnamese": "Nhưng không có kinh nghiệm chiến đấu thực tế, suy nghĩ rất không phù hợp với thực tiễn.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "军队之间进行战斗。",
+      "collocations": ["带兵作战", "作战方案", "并肩作战", "实际作战"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l15_w06", "order": 6, "textbook": "HSK 5 上", "lesson": 15,
+      "hanzi": "毛病", "pinyin": "máobing",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "khuyết điểm, tật xấu",
+        "structure": "改掉毛病 / 克服毛病 / 毛病多",
+        "explanation": "Thói quen xấu hoặc thiếu sót trong tính cách, cách làm việc của con người.",
+        "examples": [{ "chinese": "儿子的毛病是只会讲大道理，缺乏实际锻炼，不能当大将。", "pinyin": "Érzi de máobing shì zhǐ huì jiǎng dà dàolǐ, quēfá shíjì duànliàn, bù néng dāng dàjiàng.", "vietnamese": "Khuyết điểm của con trai là chỉ biết nói đạo lý suông, thiếu rèn luyện thực tế, không thể làm đại tướng.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ — Nghĩa hỏng hóc thiết bị / bệnh nhẹ)",
+          "meanings": ["lỗi, trục trặc (xe cộ, máy móc); chứng bệnh (khẩu ngữ)"],
+          "structure": "出毛病 / 车出了点儿毛病 / 老毛病又犯了",
+          "difference_note": "Khác với 缺点 (chỉ dùng cho người/sự vật trừu tượng), 毛病 dùng được cho máy móc bị trục trặc (Bài tập 2 câu 2 tr.141) và bệnh tật!",
+          "examples": [{ "chinese": "师傅，最近我这车出了点儿毛病，空调总是不太凉。", "pinyin": "Shīfu, zuìjìn wǒ zhè chē chū le diǎnr máobing, kōngtiáo zǒngshì bú tài liáng.", "vietnamese": "Bác thợ ơi, dạo này xe tôi bị trục trặc chút xíu, điều hòa cứ không mát lắm." }]
+        }
+      ],
+      "chinese_explanation": "缺点、坏习惯；器物发生的故障；疾病。",
+      "collocations": ["克服毛病", "改掉毛病", "出毛病", "老毛病"],
+      "usage_note": "Âm 病 đọc thanh nhẹ: máobing. Phân biệt 缺点 vs 毛病: xe hỏng dùng 出毛病, không dùng 出缺点!",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l15_w07", "order": 7, "textbook": "HSK 5 上", "lesson": 15,
+      "hanzi": "道理", "pinyin": "dàolǐ",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "lý lẽ, lý thuyết, đạo lý",
+        "structure": "讲道理 / 做人的道理 / 有道理 / 抽象的道理",
+        "explanation": "Lẽ phải, quy luật sự vật hoặc nguyên tắc đối nhân xử thế.",
+        "examples": [{ "chinese": "儿子的毛病是只会讲大道理，缺乏实际锻炼。", "pinyin": "Érzi de máobing shì zhǐ huì jiǎng dà dàolǐ, quēfá shíjì duànliàn.", "vietnamese": "Khuyết điểm của con trai là chỉ biết nói những đạo lý lớn lao, thiếu rèn luyện thực tế.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "事物的规律；是非的标准、理由。",
+      "collocations": ["讲道理", "有道理", "做人的道理", "大道理"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l15_w08", "order": 8, "textbook": "HSK 5 上", "lesson": 15,
+      "hanzi": "迟早", "pinyin": "chízǎo",
+      "lesson_usage": {
+        "part_of_speech": "副词 (Phó từ)",
+        "meaning": "sớm muộn",
+        "structure": "迟早(都) + 会 / 要 / 得 + V",
+        "explanation": "Biểu thị một việc hay kết quả nào đó không sớm thì muộn chắc chắn sẽ xảy ra.",
+        "examples": [{ "chinese": "如果让他当了大将，迟早会害了赵国。", "pinyin": "Rúguǒ ràng tā dāng le dàjiàng, chízǎo huì hài le Zhàoguó.", "vietnamese": "Nếu để nó làm đại tướng, sớm muộn gì cũng sẽ hại nước Triệu.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "早晚，表示某事终究会发生。",
+      "collocations": ["迟早会……", "迟早都会解决", "迟早的事"],
+      "usage_note": "Xem Chú thích 2 trang 138.",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l15_w09", "order": 9, "textbook": "HSK 5 上", "lesson": 15, "is_out_of_syllabus": true,
+      "hanzi": "军队", "pinyin": "jūnduì",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "quân đội",
+        "structure": "秦国军队 / 一支军队",
+        "explanation": "Lực lượng vũ trang có tổ chức của một quốc gia hoặc chính quyền.",
+        "examples": [{ "chinese": "这一年正好秦国军队来打赵国。", "pinyin": "Zhè yì nián zhènghǎo Qínguó jūnduì lái dǎ Zhàoguó.", "vietnamese": "Năm ấy đúng lúc quân đội nước Tần kéo sang đánh nước Triệu.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "正规的武装组织。",
+      "collocations": ["一支军队", "派遣军队", "国家军队"],
+      "usage_note": "Lượng từ cho 军队 là 支 (一支军队).",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l15_w10", "order": 10, "textbook": "HSK 5 上", "lesson": 15,
+      "hanzi": "派", "pinyin": "pài",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "phái đi, cử đi",
+        "structure": "派 + 某人 + (去)做某事",
+        "explanation": "Phân công, cử người đại diện hoặc thực hiện một nhiệm vụ cụ thể.",
+        "examples": [{ "chinese": "赵国派老将廉颇带20万大军迎战。", "pinyin": "Zhàoguó pài lǎojiàng Lián Pō dài èrshí wàn dàjūn yíngzhàn.", "vietnamese": "Nước Triệu phái lão tướng Liêm Pha dẫn 20 vạn đại quân nghênh chiến.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 / 量词 (Danh từ / Lượng từ)",
+          "meanings": ["trường phái, phe phái; cảnh tượng, khí thế (一派)"],
+          "structure": "学派 / 流派 / 一派繁荣景象",
+          "difference_note": "Chỉ dòng tư tưởng/nghệ thuật hoặc dùng trong cụm 一派 + cảnh tượng.",
+          "examples": [{ "chinese": "春天来了，田野里呈现出一派勃勃生机。", "pinyin": "Chūntiān lái le, tiányě li chéngxiàn chū yí pài bóbó shēngjī.", "vietnamese": "Mùa xuân đến rồi, ngoài đồng ruộng hiện lên một khung cảnh tràn đầy sức sống." }]
+        }
+      ],
+      "chinese_explanation": "分配、委派人去执行任务；流派、政派；量词。",
+      "collocations": ["派代表", "派兵", "派去出差", "派遣"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l15_w11", "order": 11, "textbook": "HSK 5 上", "lesson": 15,
+      "hanzi": "弱", "pinyin": "ruò",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)",
+        "meaning": "yếu, kém",
+        "structure": "敌强我弱 / 身体很弱 / 实力较弱",
+        "explanation": "Lực lượng, thể chất, năng lực hoặc mức độ kém, yếu (trái nghĩa với 强).",
+        "examples": [{ "chinese": "廉颇根据敌强我弱的形势，命令士兵们坚守阵地。", "pinyin": "Lián Pō gēnjù dí qiáng wǒ ruò de xíngshì, mìnglìng shìbīng men jiānshǒu zhèndì.", "vietnamese": "Liêm Pha căn cứ vào tình thế địch mạnh ta yếu, lệnh cho binh sĩ giữ vững trận địa.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "力量小、程度低（跟“强”相对）。",
+      "collocations": ["敌强我弱", "弱点", "虚弱", "薄弱"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l15_w12", "order": 12, "textbook": "HSK 5 上", "lesson": 15,
+      "hanzi": "形势", "pinyin": "xíngshì",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "tình hình, thế cục",
+        "structure": "形势 + 好转/乐观/危险/严重/紧张 / 危急的形势",
+        "explanation": "Tình thế và xu hướng phát triển của sự vật, cục diện (quân sự, kinh tế, chính trị, việc làm...).",
+        "examples": [{ "chinese": "廉颇根据敌强我弱的形势，命令士兵们坚守阵地。", "pinyin": "Lián Pō gēnjù dí qiáng wǒ ruò de xíngshì, mìnglìng shìbīng men jiānshǒu zhèndì.", "vietnamese": "Liêm Pha căn cứ vào tình hình địch mạnh ta yếu, lệnh cho binh sĩ giữ vững trận địa.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "事物发展的状况和趋势。",
+      "collocations": ["形势严峻", "形势好转", "经济形势", "国际形势"],
+      "usage_note": "Phân biệt đồng âm với 形式 (Bài 14 – hình thức).",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l15_w13", "order": 13, "textbook": "HSK 5 上", "lesson": 15,
+      "hanzi": "命令", "pinyin": "mìnglìng",
+      "lesson_usage": {
+        "part_of_speech": "动词 / 名词 (Động từ / Danh từ)",
+        "meanings": ["1. (Động từ) ra lệnh", "2. (Danh từ) mệnh lệnh"],
+        "meaning": "ra lệnh; mệnh lệnh",
+        "structure": "(đgt) 命令 + 某人 + 做某事; (dt) 下命令 / 执行命令 / 服从命令",
+        "explanation": "Sách gốc ghi đủ đgt./dt.: cấp trên đưa ra chỉ thị bắt buộc cấp dưới thi hành hoặc bản thân chỉ thị đó.",
+        "examples": [
+          { "chinese": "命令士兵们坚守阵地，绝对不可主动出战。", "pinyin": "Mìnglìng shìbīng men jiānshǒu zhèndì, juéduì bù kě zhǔdòng chūzhàn.", "vietnamese": "Ra lệnh cho binh sĩ kiên thủ trận địa, tuyệt đối không được chủ động xuất chiến.", "from_text": true },
+          { "chinese": "士兵必须坚决执行将军下的命令。", "pinyin": "Shìbīng bìxū jiānjué zhíxíng jiāngjūn xià de mìnglìng.", "vietnamese": "Binh sĩ nhất định phải kiên quyết thi hành mệnh lệnh tướng quân ban ra." }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "上级对下级发指示；上级给下级的指令。",
+      "collocations": ["下命令", "执行命令", "服从命令", "命令士兵"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l15_w14", "order": 14, "textbook": "HSK 5 上", "lesson": 15, "is_out_of_syllabus": true,
+      "hanzi": "守", "pinyin": "shǒu",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "phòng thủ, trấn giữ",
+        "structure": "坚守阵地 / 守城 / 守门",
+        "explanation": "Canh giữ, bảo vệ trận địa, thành trì không để bị địch chiếm.",
+        "examples": [{ "chinese": "命令士兵们坚守阵地，绝对不可主动出战。", "pinyin": "Mìnglìng shìbīng men jiānshǒu zhèndì, juéduì bù kě zhǔdòng chūzhàn.", "vietnamese": "Ra lệnh cho binh sĩ kiên thủ trận địa, tuyệt đối không được chủ động xuất chiến.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Động từ — Tuân thủ / Túc trực)",
+          "meanings": ["tuân thủ, giữ gìn (giờ giấc, lời hứa, quy tắc); túc trực bên cạnh"],
+          "structure": "守时 / 守信用 / 遵守规则 / 守在旁边",
+          "difference_note": "Dùng rộng rãi trong đời sống hằng ngày ngoài phạm vi quân sự.",
+          "examples": [{ "chinese": "他是一个非常守信用的人，答应的事一定会做到。", "pinyin": "Tā shì yí ge fēicháng shǒu xìnyòng de rén, dāying de shì yídìng huì zuòdào.", "vietnamese": "Anh ấy là người rất giữ chữ tín, việc đã hứa chắc chắn sẽ làm được." }]
+        }
+      ],
+      "chinese_explanation": "防守、把守；遵守、保持；看护。",
+      "collocations": ["坚守阵地", "守时", "守信用", "保守"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l15_w15", "order": 15, "textbook": "HSK 5 上", "lesson": 15, "is_out_of_syllabus": true,
+      "hanzi": "阵地", "pinyin": "zhèndì",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "trận địa, mặt trận",
+        "structure": "坚守阵地 / 占领阵地",
+        "explanation": "Khu vực quân đội chiếm giữ và bố trí phòng thủ hoặc tiến công khi tác chiến.",
+        "examples": [{ "chinese": "命令士兵们坚守阵地，绝对不可主动出战。", "pinyin": "Mìnglìng shìbīng men jiānshǒu zhèndì, juéduì bù kě zhǔdòng chūzhàn.", "vietnamese": "Ra lệnh cho binh sĩ giữ chặt trận địa, tuyệt đối không được chủ động xuất chiến.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "军队战斗时占据的地方；比喻思想、文化等领域。",
+      "collocations": ["坚守阵地", "占领阵地", "前沿阵地"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l15_w16", "order": 16, "textbook": "HSK 5 上", "lesson": 15,
+      "hanzi": "绝对", "pinyin": "juéduì",
+      "lesson_usage": {
+        "part_of_speech": "形容词 / 副词 (Tính từ / Phó từ)",
+        "meanings": ["1. (Tính từ) tuyệt đối (không có điều kiện, đối lập với 相对)", "2. (Phó từ) tuyệt đối, nhất định, chắc chắn (thường đi với phủ định)"],
+        "meaning": "tuyệt đối; nhất định",
+        "structure": "(phó) 绝对不/不可/没有…… / 绝对同意; (tt) 绝对的自信 / 绝对优势",
+        "explanation": "Sách gốc ghi đủ tt./phó.: trong bài khóa dùng làm phó từ nhấn mạnh sự kiên quyết tuyệt đối không được làm điều gì.",
+        "examples": [
+          { "chinese": "命令士兵们坚守阵地，绝对不可主动出战。", "pinyin": "Mìnglìng shìbīng men jiānshǒu zhèndì, juéduì bù kě zhǔdòng chūzhàn.", "vietnamese": "Ra lệnh cho binh sĩ kiên thủ trận địa, tuyệt đối không được chủ động xuất chiến.", "from_text": true },
+          { "chinese": "我相信这样的安排他是绝对不会同意的。", "pinyin": "Wǒ xiāngxìn zhèyàng de ānpái tā shì juéduì bú huì tóngyì de.", "vietnamese": "Tôi tin rằng cách sắp xếp thế này anh ấy tuyệt đối sẽ không đồng ý đâu." }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "没有任何条件的、不受限制的；完全、一定。",
+      "collocations": ["绝对不可", "绝对不会", "绝对优势", "绝对信任"],
+      "usage_note": "Phân biệt với 完全 (Bài tập 2 câu 4 tr.141): đứng trước 不会/不能 biểu thị khẳng định chủ quan dứt khoát dùng 绝对 (绝对不会同意), không dùng 完全.",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l15_w17", "order": 17, "textbook": "HSK 5 上", "lesson": 15,
+      "hanzi": "主动", "pinyin": "zhǔdòng",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)",
+        "meaning": "chủ động",
+        "structure": "主动(地) + 表示/提出/建议/反映/帮助/解决/联系/学习/宣传/提供",
+        "explanation": "Tự giác hành động mà không cần người khác thúc ép (trái nghĩa với 被动 – bị động).",
+        "examples": [{ "chinese": "命令士兵们坚守阵地，绝对不可主动出战。", "pinyin": "Mìnglìng shìbīng men jiānshǒu zhèndì, juéduì bù kě zhǔdòng chūzhàn.", "vietnamese": "Ra lệnh cho binh sĩ kiên thủ trận địa, tuyệt đối không được chủ động xuất chiến.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "不待外力推动而行动；能够造成有利局面（跟“被动”相对）。",
+      "collocations": ["主动出战", "主动帮忙", "主动学习", "主动联系"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l15_w18", "order": 18, "textbook": "HSK 5 上", "lesson": 15,
+      "hanzi": "挑战", "pinyin": "tiǎozhàn",
+      "lesson_usage": {
+        "part_of_speech": "动词 / 名词 (Động từ / Danh từ)",
+        "meanings": ["1. (Động từ) khiêu chiến, thách thức", "2. (Danh từ) sự thách thức, thử thách"],
+        "meaning": "khiêu chiến, thách thức; sự thách thức",
+        "structure": "(đgt) 多次挑战 / 向……挑战 / 挑战极限; (dt) 接受挑战 / 面临挑战 / 挑战性",
+        "explanation": "Sách gốc ghi đủ đgt./dt.: khích địch ra đánh, hoặc đương đầu với khó khăn, thử thách lớn.",
+        "examples": [
+          { "chinese": "秦军多次挑战，骂他是胆小鬼，他还是不出兵。", "pinyin": "Qínjūn duō cì tiǎozhàn, mà tā shì dǎnxiǎoguǐ, tā háishi bù chūbīng.", "vietnamese": "Quân Tần nhiều lần khiêu chiến, mắng ông là kẻ hèn nhát, nhưng ông vẫn không xuất binh.", "from_text": true },
+          { "chinese": "跳伞运动以自身的惊险和挑战性，被世人称为“勇敢者的运动”。", "pinyin": "Tiàosǎn yùndòng yǐ zìshēn de jīngxiǎn hé tiǎozhànxìng, bèi shìrén chēngwéi “yǒnggǎnzhě de yùndòng”.", "vietnamese": "Môn nhảy dù nhờ tính mạo hiểm và đầy thách thức của mình mà được người đời gọi là “môn thể thao của người dũng cảm”." }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "激使敌方出战；鼓动对方竞赛；考验能力的难题。",
+      "collocations": ["迎接挑战", "面对挑战", "挑战性", "挑战自我"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l15_w19", "order": 19, "textbook": "HSK 5 上", "lesson": 15,
+      "hanzi": "骂", "pinyin": "mà",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "chửi, mắng",
+        "structure": "骂 + 某人 / 骂人 / 挨骂",
+        "explanation": "Dùng lời lẽ thô tục hoặc gay gắt để mắng nhiếc, khiển trách người khác.",
+        "examples": [{ "chinese": "秦军多次挑战，骂他是胆小鬼，他还是不出兵。", "pinyin": "Qínjūn duō cì tiǎozhàn, mà tā shì dǎnxiǎoguǐ, tā háishi bù chūbīng.", "vietnamese": "Quân Tần nhiều lần khiêu chiến, chửi ông là kẻ hèn nhát, ông vẫn không xuất binh.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "用粗野或带恶意的话侮辱人；斥责。",
+      "collocations": ["骂人", "被骂", "打骂", "骂了一顿"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l15_w20", "order": 20, "textbook": "HSK 5 上", "lesson": 15,
+      "hanzi": "胆小鬼", "pinyin": "dǎnxiǎoguǐ",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "kẻ hèn nhát, đồ nhát gan",
+        "structure": "骂他是胆小鬼 / 真是个胆小鬼",
+        "explanation": "Cách gọi chê bai hoặc trêu chọc người nhút nhát, hay sợ sệt.",
+        "examples": [{ "chinese": "秦军多次挑战，骂他是胆小鬼，他还是不出兵。", "pinyin": "Qínjūn duō cì tiǎozhàn, mà tā shì dǎnxiǎoguǐ, tā háishi bù chūbīng.", "vietnamese": "Quân Tần nhiều lần khiêu chiến, mắng ông là đồ hèn nhát, ông vẫn không xuất binh.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "称呼非常胆小怕事的人。",
+      "collocations": ["是个胆小鬼", "骂他是胆小鬼"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l15_w21", "order": 21, "textbook": "HSK 5 上", "lesson": 15,
+      "hanzi": "胜利", "pinyin": "shènglì",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "thắng lợi",
+        "structure": "取得胜利 / 胜利地完成 / 赢得胜利",
+        "explanation": "Đánh bại đối phương trong chiến tranh/thi đấu hoặc hoàn thành tốt đẹp mục tiêu dự định (xem bảng 词语辨析: 胜利—成功 tr.140).",
+        "examples": [{ "chinese": "渐渐地，秦军无法快速取得胜利，粮食也快没了。", "pinyin": "Jiànjiàn de, Qínjūn wúfǎ kuàisù qǔdé shènglì, liángshi yě kuài méi le.", "vietnamese": "Dần dần, quân Tần không thể nhanh chóng giành được thắng lợi, lương thực cũng sắp cạn.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ)",
+          "meanings": ["chiến thắng, thắng lợi (kết quả đánh bại đối phương)"],
+          "structure": "战争的胜利 / 胜利者 / 坚持就是胜利",
+          "difference_note": "Làm tân ngữ hoặc định ngữ chỉ kết quả thắng lợi, đặc biệt trong chiến tranh và thi đấu.",
+          "examples": [{ "chinese": "得民心者才会赢得这场战争的胜利。", "pinyin": "Dé mínxīn zhě cái huì yíngdé zhè chǎng zhànzhēng de shènglì.", "vietnamese": "Người được lòng dân mới giành được thắng lợi của cuộc chiến tranh này." }]
+        }
+      ],
+      "chinese_explanation": "在斗争或竞赛中打败对方；工作、事业达到预定目的。",
+      "collocations": ["取得胜利", "赢得胜利", "胜利者", "坚持就是胜利"],
+      "usage_note": "Xem bảng phân biệt '胜利—成功' ở tab Ngữ pháp (胜利 KHÔNG làm bổ ngữ mức độ như 成功 được!).",
+      "common_errors": "Sai: '座谈会开得很胜利' → Đúng: '开得很成功'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l15_w22", "order": 22, "textbook": "HSK 5 上", "lesson": 15, "is_out_of_syllabus": true,
+      "hanzi": "调（动）", "pinyin": "diào (dòng)",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "điều động, thuyên chuyển",
+        "structure": "把……调回去 / 调动工作 / 调动积极性",
+        "explanation": "Chuyển đổi vị trí công tác, điều quân hoặc khơi dậy tinh thần/lực lượng (đọc thanh 4: diào).",
+        "examples": [{ "chinese": "必须想办法叫赵国把廉颇调回去。", "pinyin": "Bìxū xiǎng bànfǎ jiào Zhàoguó bǎ Lián Pō diào huíqu.", "vietnamese": "Phải nghĩ cách khiến nước Triệu điều Liêm Pha về.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Đọc tiáo — Điều chỉnh / Pha trộn)",
+          "meanings": ["điều chỉnh cho cân đối; pha chế, điều hòa"],
+          "structure": "调整 / 调高温度 / 调解 / 调味",
+          "difference_note": "Chữ đa âm kinh điển: 'điều động, chuyển công tác' đọc diào; 'điều chỉnh, điều hòa' đọc tiáo!",
+          "examples": [{ "chinese": "房间有点儿冷，把空调温度调高两度吧。", "pinyin": "Fángjiān yǒudiǎnr lěng, bǎ kōngtiáo wēndù tiáogāo liǎng dù ba.", "vietnamese": "Trong phòng hơi lạnh, chỉnh nhiệt độ điều hòa tăng lên hai độ đi." }]
+        }
+      ],
+      "chinese_explanation": "调遣、变动位置（diào）；配合均匀、使合适（tiáo）。",
+      "collocations": ["调回去", "调动工作", "调动积极性", "调兵"],
+      "usage_note": "Chú ý đa âm: diào (điều động) vs tiáo (điều chỉnh).",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l15_w23", "order": 23, "textbook": "HSK 5 上", "lesson": 15, "is_out_of_syllabus": true,
+      "hanzi": "散布", "pinyin": "sànbù",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "gieo rắc, truyền, tung ra (thường dùng nghĩa xấu)",
+        "structure": "散布谣言 / 四处散布 / 散布假消息",
+        "explanation": "Lan truyền tin đồn, thông tin sai lệch ra khắp nơi (thường mang sắc thái tiêu cực).",
+        "examples": [{ "chinese": "于是，他们在赵国四处散布谣言，说秦军最怕赵括。", "pinyin": "Yúshì, tāmen zài Zhàoguó sìchù sànbù yáoyán, shuō Qínjūn zuì pà Zhào Kuò.", "vietnamese": "Thế là họ tung tin đồn khắp nước Triệu, nói rằng quân Tần sợ nhất Triệu Quát.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "分散到各处；广泛传播（多指谣言、不良言论）。",
+      "collocations": ["散布谣言", "四处散布", "散布假消息"],
+      "usage_note": "Phân biệt đồng âm gần nhau: 散布 (sànbù – gieo rắc, tung tin) vs 散步 (sànbù – đi dạo)!",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l15_w24", "order": 24, "textbook": "HSK 5 上", "lesson": 15, "is_out_of_syllabus": true,
+      "hanzi": "谣言", "pinyin": "yáoyán",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "tin đồn (thất thiệt)",
+        "structure": "散布谣言 / 相信谣言 / 听信谣言",
+        "explanation": "Lời đồn đại bịa đặt không có căn cứ sự thật.",
+        "examples": [{ "chinese": "听到外面的那些谣言，果然上当了。", "pinyin": "Tīngdào wàimiàn de nàxiē yáoyán, guǒrán shàng dàng le.", "vietnamese": "Nghe thấy những lời đồn bên ngoài đó, quả nhiên đã mắc lừa.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "没有事实根据的传闻。",
+      "collocations": ["散布谣言", "相信谣言", "网络谣言"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l15_w25", "order": 25, "textbook": "HSK 5 上", "lesson": 15,
+      "hanzi": "上当", "pinyin": "shàng dàng",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ ly hợp)",
+        "meaning": "bị lừa, mắc lừa",
+        "structure": "上当了 / 上了……的当 / 上过当",
+        "explanation": "Mắc bẫy, tin vào lời lừa gạt mà chịu thiệt hại.",
+        "examples": [{ "chinese": "听到外面的那些谣言，果然上当了。", "pinyin": "Tīngdào wàimiàn de nàxiē yáoyán, guǒrán shàng dàng le.", "vietnamese": "Nghe thấy những tin đồn bên ngoài kia, quả nhiên mắc bẫy.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "受骗、吃亏。",
+      "collocations": ["上当受骗", "上了大当", "别上当"],
+      "usage_note": "Là từ ly hợp: chèn định ngữ/trợ từ vào giữa 上 và 当 (如：上了他的当、上过一次当).",
+      "common_errors": "Sai: '上当他' → Đúng: '上了他的当'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l15_w26", "order": 26, "textbook": "HSK 5 上", "lesson": 15,
+      "hanzi": "再三", "pinyin": "zàisān",
+      "lesson_usage": {
+        "part_of_speech": "副词 (Phó từ)",
+        "meaning": "nhiều lần, hết lần này đến lần khác",
+        "structure": "再三 + V (阻止/邀请/提醒/强调)  |  V + 再三 (考虑再三/犹豫再三)",
+        "explanation": "Biểu thị lặp đi lặp lại nhiều lần với thái độ tha thiết hoặc thận trọng.",
+        "examples": [{ "chinese": "赵括的母亲再三阻止赵王任命儿子为大将。", "pinyin": "Zhào Kuò de mǔqīn zàisān zǔzhǐ Zhàowáng rènmìng érzi wéi dàjiàng.", "vietnamese": "Mẹ của Triệu Quát năm lần bảy lượt ngăn cản Triệu Vương bổ nhiệm con trai làm đại tướng.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "一次又一次，反复多次。",
+      "collocations": ["再三阻止", "再三邀请", "考虑再三", "再三提醒"],
+      "usage_note": "Xem Chú thích 3 trang 138–139: đôi khi đặt SAU động từ không mang tân ngữ (考虑再三).",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l15_w27", "order": 27, "textbook": "HSK 5 上", "lesson": 15,
+      "hanzi": "阻止", "pinyin": "zǔzhǐ",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "ngăn cản, cản trở",
+        "structure": "阻止 + 某人/某事 / 被……阻止",
+        "explanation": "Can thiệp khiến người hoặc sự việc dừng lại, không thể tiếp tục tiến hành.",
+        "examples": [{ "chinese": "赵括的母亲再三阻止赵王任命儿子为大将。", "pinyin": "Zhào Kuò de mǔqīn zàisān zǔzhǐ Zhàowáng rènmìng érzi wéi dàjiàng.", "vietnamese": "Mẹ Triệu Quát hết lần này đến lần khác ngăn cản Triệu Vương bổ nhiệm con trai làm đại tướng.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "使不能前进、使停止行动。",
+      "collocations": ["阻止战争", "再三阻止", "无法阻止"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l15_w28", "order": 28, "textbook": "HSK 5 上", "lesson": 15, "is_out_of_syllabus": true,
+      "hanzi": "任命", "pinyin": "rènmìng",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "bổ nhiệm",
+        "structure": "任命 + 某人 + 为 + [Chức vụ]",
+        "explanation": "Cấp trên chính thức giao phó một chức vụ quan trọng cho ai đó.",
+        "examples": [{ "chinese": "赵括的母亲再三阻止赵王任命儿子为大将。", "pinyin": "Zhào Kuò de mǔqīn zàisān zǔzhǐ Zhàowáng rènmìng érzi wéi dàjiàng.", "vietnamese": "Mẹ Triệu Quát nhiều lần ngăn cản Triệu Vương bổ nhiệm con trai làm đại tướng.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "下命令任用（某人担任某项职务）。",
+      "collocations": ["任命为大将", "正式任命", "任命经理"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l15_w29", "order": 29, "textbook": "HSK 5 上", "lesson": 15,
+      "hanzi": "独立", "pinyin": "dúlì",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "độc lập, tự mình, không lệ thuộc",
+        "structure": "独立(地) + 生活/分析/工作/完成/发展/开发/领导",
+        "explanation": "Tự mình gánh vác, đứng vững mà không dựa dẫm vào người khác.",
+        "examples": [{ "chinese": "说他还没有独立带兵作战的资格。", "pinyin": "Shuō tā hái méiyǒu dúlì dàibīng zuòzhàn de zīgé.", "vietnamese": "Nói rằng anh ta vẫn chưa có tư cách độc lập cầm quân đánh trận.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "形容词 (Tính từ)",
+          "meanings": ["độc lập, tự chủ, tách biệt riêng"],
+          "structure": "独立的性格 / 独立空间 / 独立思考",
+          "difference_note": "Làm định ngữ hoặc vị ngữ miêu tả tính cách tự lập hoặc không gian tách biệt.",
+          "examples": [{ "chinese": "家长应尽量创造一个能让孩子独立生活和学习的环境。", "pinyin": "Jiāzhǎng yīng jǐnliàng chuàngzào yí ge néng ràng háizi dúlì shēnghuó hé xuéxí de huánjìng.", "vietnamese": "Phụ huynh nên cố gắng tạo ra một môi trường có thể giúp con cái sống và học tập độc lập." }]
+        }
+      ],
+      "chinese_explanation": "不依靠他人；单独站立、自主存在。",
+      "collocations": ["独立生活", "独立完成", "独立思考", "国家独立"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l15_w30", "order": 30, "textbook": "HSK 5 上", "lesson": 15,
+      "hanzi": "资格", "pinyin": "zīgé",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "tư cách",
+        "structure": "有/没有/具备/获得/失去 + ……的资格",
+        "explanation": "Điều kiện, tiêu chuẩn cần thiết để tham gia hoạt động hoặc đảm nhiệm một vai trò nào đó.",
+        "examples": [{ "chinese": "说他还没有独立带兵作战的资格。", "pinyin": "Shuō tā hái méiyǒu dúlì dàibīng zuòzhàn de zīgé.", "vietnamese": "Nói rằng anh ta vẫn chưa đủ tư cách độc lập cầm quân tác chiến.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "从事某种活动所应具备的条件、身份。",
+      "collocations": ["具备资格", "获得资格", "参赛资格", "没有资格"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l15_w31", "order": 31, "textbook": "HSK 5 上", "lesson": 15,
+      "hanzi": "糊涂", "pinyin": "hútu",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)",
+        "meaning": "đần độn, hồ đồ, mơ hồ",
+        "structure": "糊涂的 + 孩子/领导/话/看法/脑子 / 真糊涂",
+        "explanation": "Đầu óc không tỉnh táo, thiếu sáng suốt, dễ nhầm lẫn hoặc bị lừa.",
+        "examples": [{ "chinese": "可是，糊涂的赵王哪里听得进去！", "pinyin": "Kěshì, hútu de Zhàowáng nǎlǐ tīng de jìnqù!", "vietnamese": "Thế nhưng, Triệu Vương hồ đồ nào có nghe lọt tai!", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "形容词 (Tính từ — Mơ hồ, rối rắm)",
+          "meanings": ["lẫn lộn, không rõ ràng, mơ hồ"],
+          "structure": "越听越糊涂 / 一笔糊涂账",
+          "difference_note": "Dùng miêu tả sự việc rối rắm hoặc trạng thái chưa hiểu ra vấn đề (không mang nghĩa chê ngu ngốc).",
+          "examples": [{ "chinese": "他解释了半天，我反而越听越糊涂了。", "pinyin": "Tā jiěshì le bàntiān, wǒ fǎn'ér yuè tīng yuè hútu le.", "vietnamese": "Anh ấy giải thích mãi mà tôi ngược lại càng nghe càng rối." }]
+        }
+      ],
+      "chinese_explanation": "不明事理、头脑不清楚；混乱不清。",
+      "collocations": ["糊涂的脑子", "越听越糊涂", "真糊涂", "糊涂账"],
+      "usage_note": "Chú ý âm 涂 đọc thanh nhẹ: hútu.",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l15_w32", "order": 32, "textbook": "HSK 5 上", "lesson": 15,
+      "hanzi": "公元", "pinyin": "gōngyuán",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "công nguyên",
+        "structure": "公元前260年 / 公元2026年",
+        "explanation": "Kỷ nguyên tính năm phổ biến toàn cầu (公元前 = trước Công nguyên / TCN).",
+        "examples": [{ "chinese": "公元前260年，赵括带兵出战。", "pinyin": "Gōngyuán qián èrbǎi liùshí nián, Zhào Kuò dàibīng chūzhàn.", "vietnamese": "Năm 260 trước Công nguyên, Triệu Quát dẫn quân xuất chiến.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "国际通用的纪年法（以耶稣诞生年为公元元年）。",
+      "collocations": ["公元前", "公元后"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l15_w33", "order": 33, "textbook": "HSK 5 上", "lesson": 15, "is_out_of_syllabus": true,
+      "hanzi": "盲目", "pinyin": "mángmù",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)",
+        "meaning": "mù quáng",
+        "structure": "盲目自信 / 盲目乐观 / 盲目跟风 / 盲目投资",
+        "explanation": "Hành động hoặc tin tưởng thiếu mục đích rõ ràng, không suy xét căn cứ thực tế.",
+        "examples": [{ "chinese": "一直盲目自信、轻视秦军的他完全改变了廉颇的作战方案。", "pinyin": "Yìzhí mángmù zìxìn, qīngshì Qínjūn de tā wánquán gǎibiàn le Lián Pō de zuòzhàn fāng'àn.", "vietnamese": "Vốn luôn tự tin mù quáng, coi thường quân Tần, anh ta đã thay đổi hoàn toàn phương án tác chiến của Liêm Pha.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "眼睛看不见东西；比喻认识不清、缺乏主见和依据。",
+      "collocations": ["盲目自信", "盲目乐观", "盲目消费", "盲目行动"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l15_w34", "order": 34, "textbook": "HSK 5 上", "lesson": 15,
+      "hanzi": "轻视", "pinyin": "qīngshì",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "khinh thường, xem thường",
+        "structure": "轻视 + 对方 / 科学 / 成果 / 工作 / 知识",
+        "explanation": "Đánh giá thấp, coi thường giá trị hoặc năng lực của ai đó/việc gì đó (trái nghĩa với 重视).",
+        "examples": [{ "chinese": "一直盲目自信、轻视秦军的他完全改变了廉颇的作战方案。", "pinyin": "Yìzhí mángmù zìxìn, qīngshì Qínjūn de tā wánquán gǎibiàn le Lián Pō de zuòzhàn fāng'àn.", "vietnamese": "Vốn luôn tự tin mù quáng và khinh thường quân Tần, hắn đã thay đổi hoàn toàn phương án tác chiến của Liêm Pha.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "看轻、看不起、不重视（跟“重视”相对）。",
+      "collocations": ["轻视对方", "轻视对手", "轻视工作", "不可轻视"],
+      "usage_note": "Lưu ý: ở Bài 17 sẽ phân biệt kỹ cặp 忽视 (xem nhẹ, vô tình bỏ sót) vs 轻视 (cố ý coi thường).",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l15_w35", "order": 35, "textbook": "HSK 5 上", "lesson": 15,
+      "hanzi": "方案", "pinyin": "fāng'àn",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "kế hoạch, phương án",
+        "structure": "作战方案 / 制定方案 / 修改方案 / 解决方案",
+        "explanation": "Bản kế hoạch, biện pháp chi tiết để giải quyết công việc hay vấn đề cụ thể.",
+        "examples": [{ "chinese": "完全改变了廉颇的作战方案。", "pinyin": "Wánquán gǎibiàn le Lián Pō de zuòzhàn fāng'àn.", "vietnamese": "Đã thay đổi hoàn toàn phương án tác chiến của Liêm Pha.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "进行工作的具体计划或对某一问题制定的规划。",
+      "collocations": ["作战方案", "设计方案", "解决方案", "制定方案"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l15_w36", "order": 36, "textbook": "HSK 5 上", "lesson": 15, "is_out_of_syllabus": true,
+      "hanzi": "进攻", "pinyin": "jìngōng",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "tấn công, công kích",
+        "structure": "主动进攻 / 进攻敌军 / 发起进攻",
+        "explanation": "Tiến đánh đối phương trong chiến tranh hoặc thi đấu thể thao (trái nghĩa với 防守 – phòng thủ).",
+        "examples": [{ "chinese": "死搬兵书上的理论，主动进攻秦军。", "pinyin": "Sǐbān bīngshū shang de lǐlùn, zhǔdòng jìngōng Qínjūn.", "vietnamese": "Áp dụng máy móc lý thuyết trong binh thư, chủ động tấn công quân Tần.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "接近敌人并主动打击；体育比赛中向对方展开攻势。",
+      "collocations": ["主动进攻", "发起进攻", "进攻和防守"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l15_w37", "order": 37, "textbook": "HSK 5 上", "lesson": 15,
+      "hanzi": "宝贵", "pinyin": "bǎoguì",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)",
+        "meaning": "quý báu, quý giá",
+        "structure": "宝贵的 + 机会 / 生命 / 经验 / 意见 / 时间",
+        "explanation": "Cực kỳ có giá trị, đáng trân trọng (thường dùng cho những thứ trừu tượng hoặc vô giá như sinh mệnh, thời gian, kinh nghiệm).",
+        "examples": [{ "chinese": "结果数十万赵军全部被杀，丢掉了宝贵的生命。", "pinyin": "Jiéguǒ shùshí wàn Zhàojūn quánbù bèi shā, diūdiào le bǎoguì de shēngmìng.", "vietnamese": "Kết quả mấy chục vạn quân Triệu bị giết sạch, đánh mất sinh mệnh quý giá.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "极有价值、非常难得、值得珍惜。",
+      "collocations": ["宝贵的生命", "宝贵的经验", "宝贵的时间", "宝贵的意见"],
+      "usage_note": "Không dùng 宝贵 để nói hàng hóa đắt tiền (đắt dùng 贵/昂贵).",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l15_w38", "order": 38, "textbook": "HSK 5 上", "lesson": 15,
+      "hanzi": "讽刺", "pinyin": "fěngcì",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "châm biếm, mỉa mai",
+        "structure": "讽刺 + 某人/某种现象 / 充满讽刺",
+        "explanation": "Dùng lời lẽ ví von, hài hước hoặc sắc bén để vạch trần, chế giễu thói xấu hay sự vô lý.",
+        "examples": [{ "chinese": "现在常用这个成语讽刺那些只会空谈理论的人。", "pinyin": "Xiànzài cháng yòng zhège chéngyǔ fěngcì nàxiē zhǐ huì kōngtán lǐlùn de rén.", "vietnamese": "Ngày nay người ta thường dùng thành ngữ này để châm biếm những kẻ chỉ biết nói suông lý thuyết.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "用比喻、夸张等手法对不良或可笑的人和事进行揭露、批评或嘲笑。",
+      "collocations": ["讽刺别人", "讽刺现象", "讽刺小说", "具有讽刺意味"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l15_w39", "order": 39, "textbook": "HSK 5 上", "lesson": 15,
+      "hanzi": "灵活", "pinyin": "línghuó",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)",
+        "meaning": "linh hoạt, nhạy bén",
+        "structure": "灵活运用 / 头脑灵活 / 做事灵活 / 时间灵活",
+        "explanation": "Nhanh nhạy, ứng biến tốt theo tình hình thực tế, không cứng nhắc máy móc.",
+        "examples": [{ "chinese": "提醒大家做事一定要灵活，要注意理论联系实际。", "pinyin": "Tíxǐng dàjiā zuòshì yídìng yào línghuó, yào zhùyì lǐlùn liánxì shíjì.", "vietnamese": "Nhắc nhở mọi người làm việc nhất định phải linh hoạt, chú ý gắn lý luận với thực tiễn.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "敏捷、不呆板；善于随机应变。",
+      "collocations": ["灵活运用", "头脑灵活", "方法灵活", "动作灵活"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    }
+  ],
+  "proper_nouns": [
+    { "hanzi": "战国", "pinyin": "Zhànguó", "meaning": "thời Chiến quốc (475 TCN–221 TCN)" },
+    { "hanzi": "赵国", "pinyin": "Zhàoguó", "meaning": "nước Triệu" },
+    { "hanzi": "赵奢", "pinyin": "Zhào Shē", "meaning": "Triệu Xa (danh tướng nước Triệu, cha của Triệu Quát)" },
+    { "hanzi": "赵括", "pinyin": "Zhào Kuò", "meaning": "Triệu Quát (con trai Triệu Xa)" },
+    { "hanzi": "秦国", "pinyin": "Qínguó", "meaning": "nước Tần" },
+    { "hanzi": "廉颇", "pinyin": "Lián Pō", "meaning": "Liêm Pha (lão tướng nổi tiếng nước Triệu)" }
+  ],
+  "collocations_table": [
+    { "relation": "Động từ + Tân ngữ", "head": "轻视", "partners": "对方 / 科学 / 成果 / 工作 / 知识" },
+    { "relation": "Động từ + Tân ngữ", "head": "善于", "partners": "学习 / 发现 / 总结 / 表达 / 分析" },
+    { "relation": "Định ngữ + Trung tâm ngữ", "head": "糊涂的", "partners": "孩子 / 领导 / 话 / 看法 / 脑子" },
+    { "relation": "Định ngữ + Trung tâm ngữ", "head": "宝贵的", "partners": "机会 / 生命 / 经验 / 意见 / 时间" },
+    { "relation": "Trạng ngữ + Trung tâm ngữ", "head": "独立（地）", "partners": "生活 / 分析 / 工作 / 完成 / 发展 / 开发 / 领导" },
+    { "relation": "Trạng ngữ + Trung tâm ngữ", "head": "主动（地）", "partners": "表示 / 提出 / 建议 / 反映 / 帮助 / 解决 / 联系 / 学习 / 宣传 / 提供" },
+    { "relation": "Chủ ngữ + Vị ngữ", "head": "形势", "partners": "好转 / 乐观 / 危险 / 严重 / 紧张" },
+    { "relation": "Chủ ngữ + Vị ngữ", "head": "毛病", "partners": "多 / （被）克服" }
+  ],
+  "grammar": [
+    {
+      "title": "过 (Bổ ngữ khả năng: 动词 + 得/不 + 过)",
+      "formula": "V + 得/不 + 过 + Đối tượng",
+      "meaning": "Thắng, vượt qua / không thắng nổi, không bằng.",
+      "usage": "Động từ xu hướng 过 (đọc guò) làm bổ ngữ khả năng trong cấu trúc “动词 + 得/不 + 过”, biểu thị có vượt qua/thắng được đối phương ở phương diện hành động đó hay không.",
+      "context": "Cực kỳ thông dụng trong khẩu ngữ và văn viết: 说得过/说不过 (cãi lại/không cãi lại), 比得过/比不过 (so bằng/không bằng), 竞争不过 (cạnh tranh không lại), 干得过/干不过 (làm lại/không lại).",
+      "examples": [
+        { "chinese": "……跟别人谈论起军事来，没有人说得过他，……", "pinyin": "......gēn biérén tánlùn qǐ jūnshì lái, méiyǒu rén shuō de guò tā, ......", "vietnamese": "...hễ bàn luận chuyện quân sự với người khác, không ai nói lại được anh ta..." },
+        { "chinese": "年轻人记忆力好，这一点我比不过你们。", "pinyin": "Niánqīngrén jìyìlì hǎo, zhè yì diǎn wǒ bǐ bu guò nǐmen.", "vietnamese": "Người trẻ trí nhớ tốt, điểm này tôi không bì kịp các bạn." },
+        { "chinese": "我们的原材料贵，人工费用高，产品在价格上肯定竞争不过他们。", "pinyin": "Wǒmen de yuáncáiliào guì, réngōng fèiyòng gāo, chǎnpǐn zài jiàgé shang kěndìng jìngzhēng bu guò tāmen.", "vietnamese": "Nguyên vật liệu của chúng ta đắt, chi phí nhân công cao, sản phẩm xét về giá chắc chắn cạnh tranh không lại họ." }
+      ],
+      "important_notes": "Ở cấu trúc này 过 đọc thanh 4 đầy đủ (guò), khác với trợ từ động thái 过 (guo – đã từng) đọc thanh nhẹ.",
+      "common_errors": "",
+      "comparison": "",
+      "mini_practice": [
+        { "prompt": "老张尽管是五十多岁的人了，可干起活儿来，______________________。（过）", "sample_answer": "连很多年轻人都干不过他", "explanation": "Dùng 干不过他 (làm không lại ông ấy) để nhấn mạnh sức làm việc của Lão Trương." }
+      ]
+    },
+    {
+      "title": "迟早",
+      "formula": "S + 迟早 + (都/会/要) + V",
+      "meaning": "Sớm muộn gì (cũng)...",
+      "usage": "Phó từ, phía sau thường đi với động từ (hay kết hợp với 会, 都会), biểu thị một hành động hoặc sự việc nào đó trước sau gì rồi cũng sẽ xảy ra.",
+      "context": "Dùng để dự đoán, cảnh báo hoặc an ủi về một kết cục tất yếu trong tương lai.",
+      "examples": [
+        { "chinese": "如果让他当了大将，迟早会害了赵国。", "pinyin": "Rúguǒ ràng tā dāng le dàjiàng, chízǎo huì hài le Zhàoguó.", "vietnamese": "Nếu để nó làm đại tướng, sớm muộn gì cũng sẽ hại nước Triệu." },
+        { "chinese": "随着网络技术的发展，这些问题迟早都会得到解决。", "pinyin": "Suízhe wǎngluò jìshù de fāzhǎn, zhèxiē wèntí chízǎo dōu huì dédào jiějué.", "vietnamese": "Cùng với sự phát triển của công nghệ mạng, những vấn đề này sớm muộn đều sẽ được giải quyết." },
+        { "chinese": "如果不重视技术研究和产品开发，我们迟早会被别人挤出市场。", "pinyin": "Rúguǒ bú zhòngshì jìshù yánjiū hé chǎnpǐn kāifā, wǒmen chízǎo huì bèi biérén jǐchū shìchǎng.", "vietnamese": "Nếu không coi trọng nghiên cứu công nghệ và phát triển sản phẩm, chúng ta sớm muộn cũng sẽ bị người khác đẩy ra khỏi thị trường." }
+      ],
+      "important_notes": "Chỉ dùng cho sự việc CHƯA xảy ra (dự đoán tương lai), không dùng cho việc đã xảy ra trong quá khứ.",
+      "common_errors": "",
+      "comparison": "Đồng nghĩa gần với 早晚 (phó từ).",
+      "mini_practice": [
+        { "prompt": "王教练可严格了，你这种不认真的态度______________________。（迟早）", "sample_answer": "迟早会被他批评的", "explanation": "迟早 + 会 + V dự báo hệ quả tất yếu." }
+      ]
+    },
+    {
+      "title": "再三",
+      "formula": "(1) 再三 + V (阻止/邀请/提醒)  |  (2) V (không tân ngữ) + 再三 (考虑再三)",
+      "meaning": "Hết lần này đến lần khác, năm lần bảy lượt.",
+      "usage": "Phó từ nghĩa là “一次又一次”. Phía sau thường đi với động từ 2 âm tiết; đôi khi còn có thể đặt SAU động từ không mang tân ngữ (如：考虑再三、犹豫再三).",
+      "context": "Biểu thị sự khẩn khoản, kiên trì hoặc cân nhắc kỹ lưỡng nhiều lần.",
+      "examples": [
+        { "chinese": "赵括的母亲再三阻止赵王任命儿子为大将，……", "pinyin": "Zhào Kuò de mǔqīn zàisān zǔzhǐ Zhàowáng rènmìng érzi wéi dàjiàng, ......", "vietnamese": "Mẹ Triệu Quát nhiều lần ngăn cản Triệu Vương bổ nhiệm con trai làm đại tướng..." },
+        { "chinese": "我最近这段时间特别忙，实在没时间参加小王的活动，可他再三邀请，出于礼貌，我只好答应了。", "pinyin": "Wǒ zuìjìn zhè duàn shíjiān tèbié máng, shízài méi shíjiān cānjiā Xiǎo Wáng de huódòng, kě tā zàisān yāoqǐng, chūyú lǐmào, wǒ zhǐhǎo dāying le.", "vietnamese": "Dạo gần đây tôi đặc biệt bận, thực sự không có thời gian dự hoạt động của Tiểu Vương, nhưng cậu ấy mời hết lần này đến lần khác, vì phép lịch sự tôi đành nhận lời." },
+        { "chinese": "朋友请他做公司的总经理，他考虑再三，最后还是客气地拒绝了。", "pinyin": "Péngyou qǐng tā zuò gōngsī de zǒngjīnglǐ, tā kǎolǜ zàisān, zuìhòu háishi kèqi de jùjué le.", "vietnamese": "Bạn mời anh ấy làm tổng giám đốc công ty, anh ấy cân nhắc đi cân nhắc lại, cuối cùng vẫn lịch sự từ chối." }
+      ],
+      "important_notes": "Thường đi với động từ mang tính ý chí, giao tiếp hoặc tư duy (邀请, 阻止, 提醒, 强调, 道歉, 考虑); KHÔNG đi với động từ sinh hoạt lặp lại đơn thuần (không nói '再三吃饭').",
+      "common_errors": "",
+      "comparison": "",
+      "mini_practice": [
+        { "prompt": "______________________，决定自己亲自跑一趟。（再三）", "sample_answer": "他考虑再三", "explanation": "Đặt 再三 sau động từ không tân ngữ 考虑 → 考虑再三." }
+      ]
+    }
+  ],
+  "comparison_section": {
+    "label": "词语辨析 Phân biệt từ ngữ",
+    "pair": "胜利 — 成功",
+    "term_a": "胜利 (shènglì)",
+    "term_b": "成功 (chénggōng)",
+    "similarity": "Đều là động từ, đều biểu thị đạt được mục đích dự định. VD: 北京胜利/成功地举办了2008年夏季奥运会。",
+    "differences": [
+      {
+        "criterion": "Phạm vi & Chức năng cú pháp",
+        "a": "Khi biểu thị công việc đạt mục đích dự định, thường chỉ làm TRẠNG NGỮ (如：经过一年多的努力，我们胜利地完成了调查工作。).",
+        "b": "Không chỉ dùng cho công việc, sự nghiệp mà còn nhiều lĩnh vực khác; vừa làm TRẠNG NGỮ vừa làm VỊ NGỮ được (如：经过艰苦的努力，实验终于成功了。)."
+      },
+      {
+        "criterion": "Nghĩa đánh bại đối phương",
+        "a": "CÓ nghĩa đánh bại đối phương trong chiến tranh hoặc thi đấu (如：谁坚持到最后，谁就是这场比赛的胜利者。).",
+        "b": "KHÔNG có nghĩa đánh bại đối phương."
+      },
+      {
+        "criterion": "Tính từ & Bổ ngữ mức độ",
+        "a": "KHÔNG có nghĩa “khiến người ta hài lòng”, KHÔNG làm được bổ ngữ sau 得.",
+        "b": "Là tính từ mang nghĩa “thành công mỹ mãn, khiến người ta hài lòng”, CÓ THỂ làm bổ ngữ (如：这部电视剧拍得很成功，在全国播出后，受到观众的喜爱。)."
+      }
+    ]
+  },
+  "texts": [
+    {
+      "id": "t1",
+      "title_zh": "纸上谈兵（639字）",
+      "title_vi": "Đánh trận trên giấy",
+      "lines": [
+        {
+          "speaker": "",
+          "chinese": "两千七百多年前的战国末期，赵国名将赵奢有个儿子叫赵括，他从小读了不少兵书，跟别人谈论起军事来，没有人说得过他，就是父亲赵奢也难不住他。赵括因此很骄傲，自以为天下无敌，连父亲也不放在眼里。",
+          "pinyin": "Liǎngqiān qībǎi duō nián qián de Zhànguó mòqī, Zhàoguó míngjiàng Zhào Shē yǒu ge érzi jiào Zhào Kuò, tā cóngxiǎo dú le bùshǎo bīngshū, gēn biérén tánlùn qǐ jūnshì lái, méiyǒu rén shuō de guò tā, jiùshì fùqīn Zhào Shē yě nán bu zhù tā. Zhào Kuò yīncǐ hěn jiāo'ào, zìyǐwéi tiānxià wúdí, lián fùqīn yě bú fàng zài yǎnli.",
+          "vietnamese": "Vào cuối thời Chiến Quốc hơn hai nghìn bảy trăm năm trước, danh tướng Triệu Xa của nước Triệu có người con trai tên là Triệu Quát. Từ nhỏ anh ta đã đọc không ít binh thư, hễ bàn luận chuyện quân sự với người khác thì không ai nói lại được, ngay cả cha là Triệu Xa cũng không làm khó được anh ta. Triệu Quát vì thế vô cùng kiêu ngạo, tự cho mình là thiên hạ vô địch, ngay cả cha cũng chẳng coi ra gì."
+        },
+        {
+          "speaker": "",
+          "chinese": "但是赵奢心里明白，自己的儿子虽然对军事理论都很了解，但是没有实际作战的经验，想法很不符合实际。他曾经偷偷对妻子说：“儿子的毛病是只会讲大道理，缺乏实际锻炼，不能当大将。如果让他当了大将，迟早会害了赵国。”",
+          "pinyin": "Dànshì Zhào Shē xīnli míngbai, zìjǐ de érzi suīrán duì jūnshì lǐlùn dōu hěn liǎojiě, dànshì méiyǒu shíjì zuòzhàn de jīngyàn, xiǎngfǎ hěn bù fúhé shíjì. Tā céngjīng tōutōu duì qīzi shuō: “Érzi de máobing shì zhǐ huì jiǎng dà dàolǐ, quēfá shíjì duànliàn, bù néng dāng dàjiàng. Rúguǒ ràng tā dāng le dàjiàng, chízǎo huì hài le Zhàoguó.”",
+          "vietnamese": "Nhưng trong lòng Triệu Xa hiểu rõ, con trai mình tuy rất am hiểu lý luận quân sự nhưng lại không có kinh nghiệm tác chiến thực tế, suy nghĩ rất xa rời thực tiễn. Ông từng lén nói với vợ: “Khuyết điểm của con trai là chỉ biết nói đạo lý suông, thiếu rèn luyện thực tế, không thể làm đại tướng. Nếu để nó làm đại tướng, sớm muộn gì cũng sẽ hại nước Triệu.”"
+        },
+        {
+          "speaker": "",
+          "chinese": "几年后，赵奢去世了。这一年正好秦国军队来打赵国，赵国派老将廉颇带20万大军迎战。廉颇根据敌强我弱的形势，命令士兵们坚守阵地，绝对不可主动出战。秦军多次挑战，骂他是胆小鬼，他还是不出兵。这个办法果然非常有效，成功地把秦军拦在了国门之外。渐渐地，秦军无法快速取得胜利，粮食也快没了，有些坚持不住了。",
+          "pinyin": "Jǐ nián hòu, Zhào Shē qùshì le. Zhè yì nián zhènghǎo Qínguó jūnduì lái dǎ Zhàoguó, Zhàoguó pài lǎojiàng Lián Pō dài èrshí wàn dàjūn yíngzhàn. Lián Pō gēnjù dí qiáng wǒ ruò de xíngshì, mìnglìng shìbīng men jiānshǒu zhèndì, juéduì bù kě zhǔdòng chūzhàn. Qínjūn duō cì tiǎozhàn, mà tā shì dǎnxiǎoguǐ, tā háishi bù chūbīng. Zhège bànfǎ guǒrán fēicháng yǒuxiào, chénggōng de bǎ Qínjūn lán zài le guómén zhīwài. Jiànjiàn de, Qínjūn wúfǎ kuàisù qǔdé shènglì, liángshi yě kuài méi le, yǒuxiē jiānchí bu zhù le.",
+          "vietnamese": "Mấy năm sau, Triệu Xa qua đời. Năm ấy đúng lúc quân đội nước Tần sang đánh nước Triệu, nước Triệu cử lão tướng Liêm Pha dẫn 20 vạn đại quân nghênh chiến. Liêm Pha căn cứ vào tình thế địch mạnh ta yếu, ra lệnh cho binh sĩ kiên thủ trận địa, tuyệt đối không được chủ động xuất chiến. Quân Tần nhiều lần khiêu chiến, chửi ông là kẻ hèn nhát, ông vẫn không xuất binh. Cách này quả nhiên vô cùng hiệu quả, chặn đứng quân Tần thành công ngoài cửa ải. Dần dần, quân Tần không thể thắng nhanh, lương thực cũng sắp cạn, có phần không trụ nổi nữa."
+        },
+        {
+          "speaker": "",
+          "chinese": "秦人深知廉颇善于用兵，如果想在短期内打败赵国，必须想办法叫赵国把廉颇调回去。于是，他们在赵国四处散布谣言，说秦军最怕赵括，别的人都不放在眼里。",
+          "pinyin": "Qínrén shēnzhī Lián Pō shànyú yòngbīng, rúguǒ xiǎng zài duǎnqī nèi dǎbài Zhàoguó, bìxū xiǎng bànfǎ jiào Zhàoguó bǎ Lián Pō diào huíqu. Yúshì, tāmen zài Zhàoguó sìchù sànbù yáoyán, shuō Qínjūn zuì pà Zhào Kuò, bié de rén dōu bú fàng zài yǎnli.",
+          "vietnamese": "Người Tần biết rõ Liêm Pha giỏi dùng binh, nếu muốn đánh bại nước Triệu trong thời gian ngắn thì phải nghĩ cách khiến nước Triệu điều Liêm Pha về. Thế là họ tung tin đồn khắp nước Triệu, nói rằng quân Tần sợ nhất Triệu Quát, những người khác đều chẳng đáng bận tâm."
+        },
+        {
+          "speaker": "",
+          "chinese": "这时，赵王正因廉颇闭门不战而生气呢，听到外面的那些谣言，果然上当了，他派赵括去换回廉颇。赵括的母亲再三阻止赵王任命儿子为大将，说他还没有独立带兵作战的资格。可是，糊涂的赵王哪里听得进去！",
+          "pinyin": "Zhèshí, Zhàowáng zhèng yīn Lián Pō bìmén bú zhàn ér shēngqì ne, tīngdào wàimiàn de nàxiē yáoyán, guǒrán shàng dàng le, tā pài Zhào Kuò qù huànhuí Lián Pō. Zhào Kuò de mǔqīn zàisān zǔzhǐ Zhàowáng rènmìng érzi wéi dàjiàng, shuō tā hái méiyǒu dúlì dàibīng zuòzhàn de zīgé. Kěshì, hútu de Zhàowáng nǎlǐ tīng de jìnqù!",
+          "vietnamese": "Lúc này, Triệu Vương đang tức giận vì Liêm Pha đóng cửa cố thủ không chịu đánh, nghe thấy những tin đồn bên ngoài quả nhiên mắc lừa, bèn cử Triệu Quát đi thay Liêm Pha về. Mẹ Triệu Quát hết lời ngăn cản Triệu Vương bổ nhiệm con trai làm đại tướng, nói anh ta vẫn chưa có tư cách độc lập cầm quân đánh trận. Thế nhưng, Triệu Vương hồ đồ nào có chịu nghe!"
+        },
+        {
+          "speaker": "",
+          "chinese": "公元前260年，赵括带兵出战。一直盲目自信、轻视秦军的他完全改变了廉颇的作战方案，死搬兵书上的理论，主动进攻秦军，结果数十万赵军全部被杀，丢掉了宝贵的生命。",
+          "pinyin": "Gōngyuán qián èrbǎi liùshí nián, Zhào Kuò dàibīng chūzhàn. Yìzhí mángmù zìxìn, qīngshì Qínjūn de tā wánquán gǎibiàn le Lián Pō de zuòzhàn fāng'àn, sǐbān bīngshū shang de lǐlùn, zhǔdòng jìngōng Qínjūn, jiéguǒ shùshí wàn Zhàojūn quánbù bèi shā, diūdiào le bǎoguì de shēngmìng.",
+          "vietnamese": "Năm 260 trước Công nguyên, Triệu Quát dẫn quân xuất chiến. Vốn luôn tự tin mù quáng, coi thường quân Tần, hắn đã thay đổi hoàn toàn phương án tác chiến của Liêm Pha, áp dụng máy móc lý thuyết trên binh thư, chủ động tấn công quân Tần; kết quả mấy chục vạn quân Triệu đều bị tiêu diệt, mất đi sinh mệnh quý giá."
+        },
+        {
+          "speaker": "",
+          "chinese": "这就是成语“纸上谈兵”的故事。现在常用这个成语讽刺那些只会空谈理论的人，提醒大家做事一定要灵活，要注意理论联系实际。",
+          "pinyin": "Zhè jiùshì chéngyǔ “zhǐshàng tánbīng” de gùshi. Xiànzài cháng yòng zhège chéngyǔ fěngcì nàxiē zhǐ huì kōngtán lǐlùn de rén, tíxǐng dàjiā zuòshì yídìng yào línghuó, yào zhùyì lǐlùn liánxì shíjì.",
+          "vietnamese": "Đây chính là câu chuyện về thành ngữ “đánh trận trên giấy”. Ngày nay người ta thường dùng thành ngữ này để châm biếm những kẻ chỉ biết nói suông lý thuyết, đồng thời nhắc nhở mọi người làm việc nhất định phải linh hoạt, chú ý gắn kết lý luận với thực tiễn."
+        }
+      ]
+    }
+  ],
+  "reading_questions": [
+    {
+      "question_zh": "赵奢为什么认为儿子赵括不能当大将？",
+      "question_vi": "Vì sao Triệu Xa cho rằng con trai mình là Triệu Quát không thể làm đại tướng?",
+      "answer_zh": "因为赵括虽然对军事理论很了解，但没有实际作战的经验，想法不符合实际，只会讲大道理，缺乏实际锻炼。",
+      "answer_vi": "Bởi vì Triệu Quát tuy am hiểu lý luận quân sự nhưng không có kinh nghiệm tác chiến thực tế, suy nghĩ xa rời thực tiễn, chỉ biết nói đạo lý suông, thiếu rèn luyện thực tế."
+    },
+    {
+      "question_zh": "秦军是用什么办法让赵国把廉颇调回去的？",
+      "question_vi": "Quân Tần đã dùng cách gì để khiến nước Triệu điều Liêm Pha về?",
+      "answer_zh": "秦军在赵国四处散布谣言，说秦军最怕赵括，别的人都不放在眼里，结果糊涂的赵王上当了，派赵括去换回廉颇。",
+      "answer_vi": "Quân Tần tung tin đồn khắp nước Triệu rằng quân Tần sợ nhất Triệu Quát, người khác không đáng ngại; kết quả Triệu Vương hồ đồ mắc bẫy, cử Triệu Quát đi thay Liêm Pha."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "h5s15_ex1", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.141 (Bài tập 1)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ thích hợp điền vào chỗ trống: “我见朋友的小孩怎么也打不开房门，就想帮他，却被朋友______了。”",
+      "options": ["阻止", "挑战", "糊涂", "独立"],
+      "answer": "阻止",
+      "explanation": "被朋友阻止了 (bị bạn ngăn cản lại — muốn để trẻ tự mở cửa, rèn tính tự lập).",
+      "review_tip": "Ôn động từ #27 阻止 (ngăn cản)."
+    },
+    {
+      "id": "h5s15_ex2", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.141 (Bài tập 1)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ thích hợp điền vào chỗ trống: “你这脑子可真______，银行卡的密码怎么能忘了呢？”",
+      "options": ["糊涂", "宝贵", "灵活", "盲目"],
+      "answer": "糊涂",
+      "explanation": "Bảng 词语搭配 tr.139: 糊涂的脑子 (đầu óc hồ đồ, đãng trí).",
+      "review_tip": "Ôn tính từ #31 糊涂."
+    },
+    {
+      "id": "h5s15_ex3", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.140 (词语辨析)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ đúng điền vào chỗ trống: “座谈会开得很______，大家交换了意见，增进了理解。”",
+      "options": ["成功", "胜利", "宝贵", "主动"],
+      "answer": "成功",
+      "explanation": "成功 có tính từ nghĩa 'khiến người ta hài lòng', làm được bổ ngữ sau 得 (开得很成功); 胜利 không làm được bổ ngữ.",
+      "review_tip": "Ôn mục 词语辨析: 胜利—成功 tr.140."
+    },
+    {
+      "id": "h5s15_ex4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.140 (词语辨析)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ đúng điền vào chỗ trống: “得民心者才会赢得这场战争的______。”",
+      "options": ["胜利", "成功", "方案", "资格"],
+      "answer": "胜利",
+      "explanation": "胜利 mang nghĩa đánh bại đối phương trong chiến tranh hoặc thi đấu → 赢得战争的胜利.",
+      "review_tip": "Ôn mục 词语辨析: 胜利—成功 tr.140."
+    },
+    {
+      "id": "h5s15_ex5", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.141 (Bài tập 2)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “师傅，最近我这车出了点儿______，空调总是不太凉。”",
+      "options": ["毛病", "缺点", "道理", "形势"],
+      "answer": "毛病",
+      "explanation": "毛病 dùng được cho hỏng hóc, trục trặc của xe cộ/máy móc (车出了点儿毛病); 缺点 chỉ dùng cho khuyết điểm của người hoặc sự vật trừu tượng.",
+      "review_tip": "Phân biệt 毛病 vs 缺点."
+    },
+    {
+      "id": "h5s15_ex6", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.141 (Bài tập 2)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “父母给我讲了许多做人的______，对我的影响很大。”",
+      "options": ["道理", "理论", "方案", "谣言"],
+      "answer": "道理",
+      "explanation": "做人的道理 (đạo lý làm người); 理论 thiên về học thuật, khoa học chuyên môn (军事理论).",
+      "review_tip": "Phân biệt 道理 (đạo lý đời sống) vs 理论 (lý luận khoa học)."
+    },
+    {
+      "id": "h5s15_ex7", "type": "synonym_mc", "level": "Vận dụng", "origin_tag": "Sách gốc tr.141 (Bài tập 2)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn đáp án đúng: “我相信这样的安排他是______不会同意的。”",
+      "options": ["绝对", "完全", "再三", "迟早"],
+      "answer": "绝对",
+      "explanation": "Phó từ 绝对 đứng trước 不会/不能 biểu thị khẳng định dứt khoát 'tuyệt đối không'.",
+      "review_tip": "Ôn phó từ #16 绝对."
+    },
+    {
+      "id": "h5s15_ex8", "type": "grammar_mc", "level": "Vận dụng", "origin_tag": "Ôn tập Bài 14", "mistake_category": "Ngữ pháp",
+      "prompt": "Ôn tập HSK 5 上 (Bài 14): “认识他的人，没有一个人不______他认真的工作态度______感动。”",
+      "options": ["为……所", "被……所", "令……所", "把……所"],
+      "answer": "为……所",
+      "explanation": "Cấu trúc bị động văn viết cố định của Bài 14: 为 + [tác nhân] + 所 + V.",
+      "review_tip": "Ôn lại Chú thích 3 Bài 14: 为……所……."
+    },
+    {
+      "id": "h5s15_ex9", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Ôn tập Bài 14", "mistake_category": "Ngữ pháp",
+      "prompt": "Ôn tập HSK 5 上 (Bài 14): “我们______的做法都是先调查，再做决定。”",
+      "options": ["通常", "常常", "迟早", "再三"],
+      "answer": "通常",
+      "explanation": "通常 có thể làm định ngữ đứng trước 的 + danh từ (通常的做法); 常常 là phó từ không làm định ngữ được.",
+      "review_tip": "Ôn lại 词语辨析 Bài 14: 通常—常常."
+    },
+    {
+      "id": "h5s15_ex10", "type": "context_mc", "level": "Vận dụng", "origin_tag": "Ôn tập Bài 15 (Mở rộng tr.142)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ mở rộng chủ đề Quân sự (tr.142) điền vào chỗ trống: “花木兰是中国古代的女______，她替父参军并打败敌人，从而闻名天下。”",
+      "options": ["英雄", "士兵", "敌人", "胆小鬼"],
+      "answer": "英雄",
+      "explanation": "Hoa Mộc Lan là nữ anh hùng (女英雄) nổi tiếng thời cổ đại Trung Quốc (扩展 做一做 câu 3 tr.142).",
+      "review_tip": "Ôn bảng từ mở rộng chủ đề 军事 tr.142: 枪、射击、英雄、士兵、敌人、战争、胜利."
+    }
+  ]
+}

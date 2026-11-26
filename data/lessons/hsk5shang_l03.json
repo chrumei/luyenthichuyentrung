@@ -1,0 +1,473 @@
+{
+  "id": "hsk5shang_l03",
+  "book_id": "hsk5shang",
+  "textbook": "HSK 5 上",
+  "lesson_number": 3,
+  "title_zh": "人生有选择，一切可改变",
+  "title_vi": "Đời người có lựa chọn, mọi thứ có đổi thay",
+  "pdf_pages": "Trang sách 28–36 (Giáo Trình Chuẩn HSK5 Tập 1.pdf)",
+  "source_status": "verified_textbook",
+  "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"],
+  "vocabulary": [
+    {
+      "id": "hsk5s_l03_w01", "order": 1, "textbook": "HSK 5 上", "lesson": 3,
+      "hanzi": "人生", "pinyin": "rénshēng",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "đời người", "structure": "人生道路 / 人生有选择 / 人生目标", "explanation": "Cuộc đời, kiếp người và hành trình sống của một con người.", "examples": [{ "chinese": "航海就是他人生道路上一段长长的台阶，通向他想要的未来。", "pinyin": "Hánghǎi jiùshì tā rénshēng dàolù shang yí duàn chángcháng de táijiē, tōngxiàng tā xiǎngyào de wèilái.", "vietnamese": "Đi biển chính là một bậc thềm dài trên con đường đời của anh, dẫn tới tương lai mà anh mong muốn.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "人的生存和生活经历。", "collocations": ["人生道路", "人生选择", "人生价值"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l03_w02", "order": 2, "textbook": "HSK 5 上", "lesson": 3,
+      "hanzi": "工人", "pinyin": "gōngrén",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "công nhân", "structure": "铁路工人 / 技术工人 / 一名工人", "explanation": "Người lao động làm việc trong nhà máy, công trường, đường sắt...", "examples": [{ "chinese": "翟峰和妻子都是铁路工人，工作稳定、待遇不错。", "pinyin": "Zhái Fēng hé qīzi dōu shì tiělù gōngrén, gōngzuò wěndìng, dàiyù búcuò.", "vietnamese": "Trác Phong và vợ đều là công nhân đường sắt, công việc ổn định, đãi ngộ khá tốt.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "在工厂、企业等从事体力或技术劳动的人。", "collocations": ["铁路工人", "技术工人", "建筑工人"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l03_w03", "order": 3, "textbook": "HSK 5 上", "lesson": 3,
+      "hanzi": "稳定", "pinyin": "wěndìng",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "ổn định", "structure": "工作稳定 / 稳定的 + 工作/生活/关系/收入/水平", "explanation": "Vững vàng, ít biến động thất thường.", "examples": [{ "chinese": "翟峰和妻子都是铁路工人，工作稳定、待遇不错。", "pinyin": "Zhái Fēng hé qīzi dōu shì tiělù gōngrén, gōngzuò wěndìng, dàiyù búcuò.", "vietnamese": "Trác Phong và vợ đều là công nhân đường sắt, công việc ổn định, đãi ngộ khá tốt.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ)", "meanings": ["làm cho ổn định, giữ vững"], "structure": "稳定物价 / 稳定情绪 / 稳定局势", "difference_note": "Làm động từ mang tân ngữ trực tiếp chỉ việc làm cho tình hình/giá cả/tâm trạng ổn định lại.", "examples": [{ "chinese": "政府采取了多项措施来稳定物价。", "pinyin": "Zhèngfǔ cǎiqǔ le duō xiàng cuòshī lái wěndìng wùjià.", "vietnamese": "Chính phủ đã áp dụng nhiều biện pháp để ổn định giá cả." }] }
+      ],
+      "chinese_explanation": "稳固安定，没有变动；使安定。", "collocations": ["稳定的工作", "稳定的收入", "成绩稳定", "稳定物价"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l03_w04", "order": 4, "textbook": "HSK 5 上", "lesson": 3,
+      "hanzi": "待遇", "pinyin": "dàiyù",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "sự đãi ngộ", "structure": "待遇不错 / 个人待遇 / 优厚的待遇", "explanation": "Chế độ lương thưởng, phúc lợi hoặc cách đối đãi dành cho nhân viên/người nào đó.", "examples": [{ "chinese": "工作稳定、待遇不错。", "pinyin": "Gōngzuò wěndìng, dàiyù búcuò.", "vietnamese": "Công việc ổn định, đãi ngộ khá tốt.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "对待人的态度和方式；报酬和福利条件。", "collocations": ["个人待遇", "待遇不错", "优厚的待遇", "提高待遇"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l03_w05", "order": 5, "textbook": "HSK 5 上", "lesson": 3,
+      "hanzi": "发愁", "pinyin": "fā chóu",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ ly hợp)", "meaning": "lo âu, buồn rầu", "structure": "为 + 生活/工作/考试 + 发愁 / 让人发愁", "explanation": "Lo lắng, rầu rĩ vì gặp vấn đề khó giải quyết.", "examples": [{ "chinese": "他们有房有车，从不用为生活发愁。", "pinyin": "Tāmen yǒu fáng yǒu chē, cóng búyòng wèi shēnghuó fā chóu.", "vietnamese": "Họ có nhà có xe, chưa bao giờ phải lo lắng vì chuyện sinh hoạt.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "因为没有办法或找不到出路而忧愁。", "collocations": ["为生活发愁", "为考试发愁", "令人发愁"], "usage_note": "Là từ ly hợp nên KHÔNG mang tân ngữ trực tiếp (không nói '发愁生活', phải dùng giới từ 为: '为生活发愁').", "common_errors": "Sai: '他每天发愁钱' → Đúng: '他每天为钱发愁'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l03_w06", "order": 6, "textbook": "HSK 5 上", "lesson": 3,
+      "hanzi": "平静", "pinyin": "píngjìng",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "yên ổn, yên ả, bình lặng", "structure": "平静的 + 海面 / 心情 / 生活 / 江面", "explanation": "Không có sóng gió, không xáo trộn (dùng cho mặt nước, cuộc sống và tâm trạng).", "examples": [{ "chinese": "可翟峰却不想一辈子过这样平静的生活。", "pinyin": "Kě Zhái Fēng què bù xiǎng yíbèizi guò zhèyàng píngjìng de shēnghuó.", "vietnamese": "Nhưng Trác Phong lại không muốn cả đời sống cuộc sống bình lặng như vậy.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "（心情、环境、水面等）没有不安或动荡。", "collocations": ["平静的海面", "平静的生活", "心情不能平静"], "usage_note": "Phân biệt (Bài tập 2 câu 1 tr.34): 心情久久不能平静 (tâm trạng xúc động mãi không lắng xuống được); 冷静 là bình tĩnh, lý trí không nóng nảy/hoảng loạn.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l03_w07", "order": 7, "textbook": "HSK 5 上", "lesson": 3, "is_out_of_syllabus": true,
+      "hanzi": "帆船", "pinyin": "fānchuán",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "thuyền buồm", "structure": "一艘帆船 / 驾驶帆船 / 帆船运动", "explanation": "Loại thuyền chạy bằng sức gió thổi vào cánh buồm.", "examples": [{ "chinese": "通过电视，翟峰迷上了帆船。", "pinyin": "Tōngguò diànshì, Zhái Fēng míshàng le fānchuán.", "vietnamese": "Qua tivi, Trác Phong đã mê mẩn thuyền buồm.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "利用风力张帆前进的船。", "collocations": ["驾驶帆船", "一艘帆船", "帆船比赛"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l03_w08", "order": 8, "textbook": "HSK 5 上", "lesson": 3,
+      "hanzi": "撞", "pinyin": "zhuàng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "đụng, đâm vào, húc mở", "structure": "撞开 / 撞倒 / 撞伤 / 撞断", "explanation": "Va mạnh vào vật gì (trong bài dùng nghĩa bóng '撞开世界之门' = đẩy mở cánh cửa thế giới).", "examples": [{ "chinese": "他觉得帆船能带他撞开“世界之门”。", "pinyin": "Tā juéde fānchuán néng dài tā zhuàngkāi “shìjiè zhī mén”.", "vietnamese": "Anh cảm thấy thuyền buồm có thể đưa anh đẩy mở “cánh cửa thế giới”.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Nghĩa mở rộng: tình cờ gặp)", "meanings": ["vô tình chạm mặt, bắt gặp"], "structure": "撞见 / 撞上", "difference_note": "Dùng trong khẩu ngữ khi bất ngờ đụng mặt ai đó.", "examples": [{ "chinese": "我在街上正好撞见了多年不见的老同学。", "pinyin": "Wǒ zài jiēshang zhènghǎo zhuàngjiàn le duōnián bújiàn de lǎo tóngxué.", "vietnamese": "Trên phố tôi tình cờ đụng mặt người bạn học cũ nhiều năm không gặp." }] }
+      ],
+      "chinese_explanation": "运动着的物体跟别的物体猛然碰上；偶然碰见。", "collocations": ["撞倒", "撞伤", "撞断", "撞开", "撞车"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l03_w09", "order": 9, "textbook": "HSK 5 上", "lesson": 3, "is_out_of_syllabus": true,
+      "hanzi": "艘", "pinyin": "sōu",
+      "lesson_usage": { "part_of_speech": "量词 (Lượng từ)", "meaning": "(được dùng cho tàu/thuyền) chiếc, con", "structure": "一艘船 / 一艘二手船 / 一艘客船", "explanation": "Lượng từ chuyên dùng cho tàu thuyền (đặc biệt tàu lớn, thuyền buồm, tàu thủy).", "examples": [{ "chinese": "只要有一艘船，就能航行在无边无际的海上，到任何自己想去的地方。", "pinyin": "Zhǐyào yǒu yì sōu chuán, jiù néng hángxíng zài wúbiān wújì de hǎishàng, dào rènhé zìjǐ xiǎng qù de dìfang.", "vietnamese": "Chỉ cần có một chiếc thuyền, là có thể giương buồm đi trên biển khơi mênh mông, tới bất cứ nơi nào mình muốn đến.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "量词，用于船只。", "collocations": ["一艘帆船", "一艘客船", "一艘军舰"], "usage_note": "Thuyền nhỏ có thể dùng 条 hoặc 只, nhưng tàu lớn/thuyền buồm chuẩn xác nhất dùng 艘.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l03_w10", "order": 10, "textbook": "HSK 5 上", "lesson": 3, "is_out_of_syllabus": true,
+      "hanzi": "航行", "pinyin": "hángxíng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "đi tàu thủy, đi thuyền buồm, giong thuyền", "structure": "在海上航行 / 航行了4000多海里", "explanation": "Tàu thuyền di chuyển trên mặt nước (hoặc máy bay bay trên bầu trời).", "examples": [{ "chinese": "在经历了八个月、航行了4000多海里之后，翟峰一家终于回到了家。", "pinyin": "Zài jīnglì le bā ge yuè, hángxíng le sìqiān duō hǎilǐ zhīhòu, Zhái Fēng yìjiā zhōngyú huídào le jiā.", "vietnamese": "Sau khi trải qua tám tháng, hải hành hơn 4000 hải lý, gia đình Trác Phong cuối cùng đã trở về nhà.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "船在水里行进或飞机在空中飞行。", "collocations": ["海上航行", "安全航行", "航海"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l03_w11", "order": 11, "textbook": "HSK 5 上", "lesson": 3, "is_out_of_syllabus": true,
+      "hanzi": "积蓄", "pinyin": "jīxù",
+      "lesson_usage": { "part_of_speech": "名词 / 动词 (Danh từ / Động từ)", "meanings": ["1. (Danh từ) tiền để dành, khoản tích lũy", "2. (Động từ) dành dụm, tích lũy"], "meaning": "tiền để dành; dành dụm", "structure": "(dt) 没有积蓄 / 毕生积蓄; (đgt) 积蓄力量 / 积蓄钱财", "explanation": "Trong bài làm danh từ chỉ số tiền tiết kiệm được; còn có thể làm động từ chỉ hành động tích cóp tiền bạc hoặc lực lượng.", "examples": [
+        { "chinese": "由于翟峰和妻子没有积蓄，于是卖房卖车，买下了一艘二手船。", "pinyin": "Yóuyú Zhái Fēng hé qīzi méiyǒu jīxù, yúshì màifáng màichē, mǎixià le yì sōu èrshǒuchuán.", "vietnamese": "Do Trác Phong và vợ không có tiền tiết kiệm, thế là bán nhà bán xe mua lại một chiếc thuyền cũ.", "from_text": true },
+        { "chinese": "我们应该趁早积蓄力量，为将来做好准备。", "pinyin": "Wǒmen yīnggāi chènzǎo jīxù lìliang, wèi jiānglái zuòhǎo zhǔnbèi.", "vietnamese": "Chúng ta nên sớm tích lũy sức lực, chuẩn bị tốt cho tương lai." }
+      ] },
+      "additional_usages": [], "chinese_explanation": "积攒聚存；积攒下来的钱物。", "collocations": ["没有积蓄", "多年积蓄", "积蓄力量"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l03_w12", "order": 12, "textbook": "HSK 5 上", "lesson": 3, "is_out_of_syllabus": true,
+      "hanzi": "二手", "pinyin": "èrshǒu",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "đã qua sử dụng, second-hand", "structure": "二手 + 船 / 车 / 房 / 书", "explanation": "Chỉ hàng hóa không còn mới tinh, đã từng có chủ sử dụng trước đó (làm định ngữ).", "examples": [{ "chinese": "买下了一艘二手船，翟峰叫它“彩虹号”。", "pinyin": "Mǎixià le yì sōu èrshǒuchuán, Zhái Fēng jiào tā “Cǎihónghào”.", "vietnamese": "Mua lại một chiếc thuyền đã qua sử dụng, Trác Phong đặt tên nó là “Tàu Cầu Vồng”.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "非全新的、经过他人转手的。", "collocations": ["二手船", "二手房", "二手车", "二手市场"], "usage_note": "Tính từ phi vị ngữ: không nói '这艘船很二手', phải nói '这是一艘二手船'.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l03_w13", "order": 13, "textbook": "HSK 5 上", "lesson": 3,
+      "hanzi": "彩虹", "pinyin": "cǎihóng",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "cầu vồng", "structure": "一道彩虹 / 雨后彩虹 / 彩虹号", "explanation": "Vòng cung bảy sắc xuất hiện trên bầu trời sau cơn mưa khi có nắng.", "examples": [{ "chinese": "买下了一艘二手船，翟峰叫它“彩虹号”。", "pinyin": "Mǎixià le yì sōu èrshǒuchuán, Zhái Fēng jiào tā “Cǎihónghào”.", "vietnamese": "Mua lại một chiếc thuyền đã qua sử dụng, Trác Phong đặt tên nó là “Tàu Cầu Vồng”.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "雨后天空中出现的彩色弧形光带。", "collocations": ["一道彩虹", "雨后彩虹"], "usage_note": "Lượng từ cho cầu vồng là 道 (一道彩虹) hoặc 条.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l03_w14", "order": 14, "textbook": "HSK 5 上", "lesson": 3,
+      "hanzi": "包括", "pinyin": "bāokuò",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "bao gồm, kể cả", "structure": "(1) A 包括 B、C、D  |  (2) 包括……，所有人都……", "explanation": "Chứa đựng các bộ phận hợp thành, hoặc nhấn mạnh một bộ phận tiêu biểu đi kèm 都/也.", "examples": [{ "chinese": "然而，包括翟峰的父母，所有人都觉得，翟峰“疯了”。", "pinyin": "Rán'ér, bāokuò Zhái Fēng de fùmǔ, suǒyǒu rén dōu juéde, Zhái Fēng “fēng le”.", "vietnamese": "Thế nhưng, kể cả ba mẹ của Trác Phong, tất cả mọi người đều cho rằng Trác Phong “điên rồi”.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "包含（或列举各部分，或着重指出某一部分）。", "collocations": ["包括在内", "主要包括"], "usage_note": "Xem đủ 2 cách dùng (liệt kê thành phần & nhấn mạnh ví dụ) trong Chú thích 3 tr.31!", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l03_w15", "order": 15, "textbook": "HSK 5 上", "lesson": 3,
+      "hanzi": "疯", "pinyin": "fēng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "phát điên, hóa điên", "structure": "疯了 / 疯狂 / 疯子", "explanation": "Mất lý trí, thần kinh rối loạn; trong khẩu ngữ dùng để chê hoặc thán phục hành động quá táo bạo, khác thường.", "examples": [{ "chinese": "所有人都觉得，翟峰“疯了”。", "pinyin": "Suǒyǒu rén dōu juéde, Zhái Fēng “fēng le”.", "vietnamese": "Tất cả mọi người đều nghĩ Trác Phong “điên rồi”.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "神经错乱，失去理智；也形容言行极不合常理。", "collocations": ["疯了", "疯狂", "玩疯了"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l03_w16", "order": 16, "textbook": "HSK 5 上", "lesson": 3,
+      "hanzi": "辞职", "pinyin": "cí zhí",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ ly hợp)", "meaning": "từ chức, xin nghỉ việc", "structure": "辞了职 / 辞职请求 / 辞去工作", "explanation": "Chủ động xin thôi việc, rời bỏ chức vụ đang đảm nhiệm.", "examples": [{ "chinese": "2012年11月24日，辞了职的翟峰和妻子带着休学的女儿，第一次驾驶帆船出海了。", "pinyin": "Èr líng yī èr nián shíyī yuè èrshísì rì, cí le zhí de Zhái Fēng hé qīzi dàizhe xiūxué de nǚ'ér, dì-yī cì jiàshǐ fānchuán chūhǎi le.", "vietnamese": "Ngày 24 tháng 11 năm 2012, Trác Phong sau khi xin nghỉ việc đã cùng vợ đưa cô con gái tạm nghỉ học lần đầu tiên lái thuyền buồm ra khơi.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "请求辞去所担任的职务。", "collocations": ["辞了职", "辞职信", "辞职请求"], "usage_note": "Động từ ly hợp: đặt 了 ở giữa → 辞了职 (như trong bài khóa!).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l03_w17", "order": 17, "textbook": "HSK 5 上", "lesson": 3,
+      "hanzi": "驾驶", "pinyin": "jiàshǐ",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "điều khiển, lái (tàu, xe, máy bay)", "structure": "驾驶 + 帆船 / 汽车 / 飞机 / 驾驶证", "explanation": "Thao tác điều khiển các phương tiện giao thông (trang trọng hơn 开).", "examples": [{ "chinese": "第一次驾驶帆船出海了。", "pinyin": "Dì-yī cì jiàshǐ fānchuán chūhǎi le.", "vietnamese": "Lần đầu tiên điều khiển thuyền buồm ra khơi.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "操纵车、船、飞机等交通工具行驶。", "collocations": ["驾驶汽车", "驾驶帆船", "安全驾驶", "驾驶证"], "usage_note": "Có thể kết hợp với 汽车 (Bài tập 3 tr.34), 飞机, 帆船; không dùng cho xe đạp (xe đạp dùng 骑).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l03_w18", "order": 18, "textbook": "HSK 5 上", "lesson": 3,
+      "hanzi": "轮流", "pinyin": "lúnliú",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "luân phiên, thay phiên nhau", "structure": "轮流 + 驾船 / 休息 / 照看 / 打扫", "explanation": "Thay phiên nhau lần lượt làm một việc gì đó theo lượt (thường làm trạng ngữ trước động từ khác).", "examples": [{ "chinese": "白天，翟峰和妻子轮流驾船。", "pinyin": "Báitiān, Zhái Fēng hé qīzi lúnliú jiàchuán.", "vietnamese": "Ban ngày, Trác Phong và vợ luân phiên nhau lái thuyền.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "依照次序一个接替一个，周而复始。", "collocations": ["轮流驾船", "轮流休息", "轮流打扫", "轮流照看"], "usage_note": "Chủ ngữ phải từ 2 người trở lên!", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l03_w19", "order": 19, "textbook": "HSK 5 上", "lesson": 3,
+      "hanzi": "钓", "pinyin": "diào",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "câu (cá)", "structure": "钓鱼 / 钓到一条大鱼", "explanation": "Dùng cần câu và mồi để bắt cá.", "examples": [{ "chinese": "下午海面平静时，翟峰和妻子下海游泳或者钓鱼。", "pinyin": "Xiàwǔ hǎimiàn píngjìng shí, Zhái Fēng hé qīzi xiàhǎi yóuyǒng huòzhě diàoyú.", "vietnamese": "Buổi chiều khi mặt biển yên ả, Trác Phong và vợ xuống biển bơi lội hoặc câu cá.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "用饵诱鱼上钩。", "collocations": ["钓鱼", "钓上一条鱼"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l03_w20", "order": 20, "textbook": "HSK 5 上", "lesson": 3,
+      "hanzi": "顿", "pinyin": "dùn",
+      "lesson_usage": { "part_of_speech": "量词 (Lượng từ)", "meaning": "bữa (cơm), trận (mắng/đánh)", "structure": "一顿 + 饭 / 海鲜 / 美味的饭菜", "explanation": "Lượng từ chuyên dùng cho bữa ăn hoặc hành động chửi mắng/đánh đòn.", "examples": [{ "chinese": "该吃饭时，妻子会给全家人做一顿美味的海鲜。", "pinyin": "Gāi chīfàn shí, qīzi huì gěi quánjiārén zuò yí dùn měiwèi de hǎixiān.", "vietnamese": "Đến bữa ăn, người vợ sẽ nấu cho cả nhà một bữa hải sản thơm ngon.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ)", "meanings": ["dừng lại một chút, khựng lại; giậm (chân)"], "structure": "停顿 / 顿了一下 / 顿足", "difference_note": "Làm động từ chỉ sự ngắt nhịp khi nói hoặc dừng lại chốc lát.", "examples": [{ "chinese": "他顿了一下，接着往下说。", "pinyin": "Tā dùn le yíxià, jiēzhe wǎng xià shuō.", "vietnamese": "Anh ấy ngừng lại một lát rồi nói tiếp." }] }
+      ],
+      "chinese_explanation": "量词，用于吃饭、斥责等行为的次数；作动词指稍停。", "collocations": ["一顿饭", "一顿海鲜", "一顿团圆饭", "停顿"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l03_w21", "order": 21, "textbook": "HSK 5 上", "lesson": 3,
+      "hanzi": "海鲜", "pinyin": "hǎixiān",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "hải sản", "structure": "吃海鲜 / 一顿海鲜 / 新鲜的海鲜", "explanation": "Các loại cá, tôm, cua, sò... đánh bắt từ biển làm thực phẩm.", "examples": [{ "chinese": "妻子会给全家人做一顿美味的海鲜。", "pinyin": "Qīzi huì gěi quánjiārén zuò yí dùn měiwèi de hǎixiān.", "vietnamese": "Người vợ sẽ nấu cho cả nhà một bữa hải sản thơm ngon.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "可供食用的新鲜海产动植物。", "collocations": ["吃海鲜", "美味的海鲜", "海鲜餐厅"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l03_w22", "order": 22, "textbook": "HSK 5 上", "lesson": 3,
+      "hanzi": "傍晚", "pinyin": "bàngwǎn",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "hoàng hôn, lúc chạng vạng", "structure": "傍晚时分 / 今天傍晚", "explanation": "Khoảng thời gian chiều muộn gần tối (lúc mặt trời lặn).", "examples": [{ "chinese": "傍晚是一家人最舒适的时候。", "pinyin": "Bàngwǎn shì yìjiārén zuì shūshì de shíhou.", "vietnamese": "Chập tối là khoảng thời gian dễ chịu nhất của cả gia đình.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "临近晚上的时候，黄昏。", "collocations": ["傍晚时分", "昨天傍晚"], "usage_note": "Chú ý phát âm thanh 4: bàngwǎn (đừng nhầm với 旁边 pángbiān!).", "common_errors": "Hay đọc nhầm thành pángwǎn → đúng là bàngwǎn.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l03_w23", "order": 23, "textbook": "HSK 5 上", "lesson": 3,
+      "hanzi": "舒适", "pinyin": "shūshì",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "dễ chịu, thoải mái", "structure": "舒适的 + 环境 / 座位 / 生活 / 客舱", "explanation": "Thiên về văn viết, nhấn mạnh cảm giác dễ chịu tổng thể mà môi trường/không gian mang lại.", "examples": [{ "chinese": "傍晚是一家人最舒适的时候。", "pinyin": "Bàngwǎn shì yìjiārén zuì shūshì de shíhou.", "vietnamese": "Chập tối là khoảng thời gian thoải mái nhất của cả gia đình.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "给人以安乐舒服的感觉（偏书面语，多指环境）。", "collocations": ["舒适的环境", "舒适的座位", "乘坐舒适"], "usage_note": "Xem bảng 词语辨析: 舒适—舒服 ở tab Ngữ pháp (KHÔNG nói '身体不舒适' hay '舒舒适适'!).", "common_errors": "Sai: '我今天脖子不舒适' → Phải dùng '舒服'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l03_w24", "order": 24, "textbook": "HSK 5 上", "lesson": 3,
+      "hanzi": "干活儿", "pinyin": "gàn huór",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ ly hợp)", "meaning": "làm việc, lao động", "structure": "干完活儿 / 干起活来 / 勤奋地干活儿", "explanation": "Làm công việc (thường là việc chân tay hoặc việc nhà, mang sắc thái khẩu ngữ).", "examples": [{ "chinese": "干完活儿，一家人坐在一起，用电脑看看电影，或者聊聊天儿。", "pinyin": "Gànwán huór, yìjiārén zuò zài yìqǐ, yòng diànnǎo kànkan diànyǐng, huòzhě liáoliao tiānr.", "vietnamese": "Làm xong việc, cả nhà ngồi quây quần bên nhau, dùng máy tính xem phim hoặc trò chuyện.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "从事体力劳动或日常工作（口语）。", "collocations": ["干完活儿", "干起活来", "帮家里干活儿"], "usage_note": "Từ ly hợp: bổ ngữ đặt giữa 干 và 活儿 (干完活儿, 干起活来).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l03_w25", "order": 25, "textbook": "HSK 5 上", "lesson": 3,
+      "hanzi": "盼望", "pinyin": "pànwàng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "trông mong, mong mỏi", "structure": "盼望已久 / 盼望着 + …… / 盼望 + (好)消息/过年/成功", "explanation": "Trông đợi thiết tha, khao khát điều tốt đẹp sớm thành hiện thực (mức độ mong ngóng sâu sắc hơn 希望).", "examples": [{ "chinese": "这样的生活，是翟峰盼望已久的。", "pinyin": "Zhèyàng de shēnghuó, shì Zhái Fēng pànwàng yǐjiǔ de.", "vietnamese": "Cuộc sống như thế chính là điều Trác Phong hằng mong mỏi bấy lâu.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "殷切地期望、等待。", "collocations": ["盼望已久", "盼望好消息", "盼望早日回国"], "usage_note": "Chú ý (Bài tập 2 câu 3 tr.34): 盼望 có thể mang trợ từ động thái 着 ('盼望着他早日学成回国'), còn 希望 KHÔNG mang 着!", "common_errors": "Sai: '希望着他早日回国' → Đúng: '盼望着他早日回国'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l03_w26", "order": 26, "textbook": "HSK 5 上", "lesson": 3,
+      "hanzi": "陆地", "pinyin": "lùdì",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "đất liền", "structure": "陆地上 / 离开陆地 / 回到陆地", "explanation": "Phần mặt đất không bị biển hay đại dương bao phủ (đối lập với 海洋).", "examples": [{ "chinese": "以前陆地上的夜晚，他们在各自的房间，一家人没有更多的交流。", "pinyin": "Yǐqián lùdì shang de yèwǎn, tāmen zài gèzì de fángjiān, yìjiārén méiyǒu gèng duō de jiāoliú.", "vietnamese": "Những buổi tối trên đất liền trước đây, mỗi người ở một phòng riêng, cả nhà chẳng có nhiều sự giao tiếp.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "地球表面高出水面的部分，与“海洋”相对。", "collocations": ["陆地上", "陆地面积", "陆地动物"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l03_w27", "order": 27, "textbook": "HSK 5 上", "lesson": 3,
+      "hanzi": "各自", "pinyin": "gèzì",
+      "lesson_usage": { "part_of_speech": "代词 (Đại từ)", "meaning": "từng người, riêng mình, mỗi người tự", "structure": "各自的 + N / S + 各自 + V", "explanation": "Chỉ từng cá nhân hay từng phía riêng biệt trong một tập thể (thường làm định ngữ hoặc cùng đối tượng làm chủ ngữ).", "examples": [{ "chinese": "以前陆地上的夜晚，他们在各自的房间，一家人没有更多的交流。", "pinyin": "Yǐqián lùdì shang de yèwǎn, tāmen zài gèzì de fángjiān, yìjiārén méiyǒu gèng duō de jiāoliú.", "vietnamese": "Những buổi tối trên đất liền trước đây, họ ở trong phòng riêng của mình, cả nhà không có nhiều giao lưu.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "各人自己或各个方面中自己的一方。", "collocations": ["各自的房间", "各自回场外休息", "各自提交的计划"], "usage_note": "Xem chi tiết trong Chú thích 1 tr.30!", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l03_w28", "order": 28, "textbook": "HSK 5 上", "lesson": 3,
+      "hanzi": "勿", "pinyin": "wù",
+      "lesson_usage": { "part_of_speech": "副词 (Phó từ)", "meaning": "(dùng trong câu mệnh lệnh) chớ, đừng", "structure": "请勿 + V / 切勿 + V / 勿 + V", "explanation": "Phó từ ngăn cấm/khuyên ngăn trong văn viết và biển báo (tương đương 不要).", "examples": [{ "chinese": "中国有句老话，可上山，勿下海。", "pinyin": "Zhōngguó yǒu jù lǎohuà, kě shàngshān, wù xiàhǎi.", "vietnamese": "Trung Quốc có câu tục ngữ: lên núi thì được, chớ có xuống biển.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "不要（书面语，多用于告示、标语）。", "collocations": ["请勿入内", "请勿吸烟", "请勿打扰", "切勿上当"], "usage_note": "Rất hay gặp trên biển báo công cộng: 请勿吸烟, 请勿拍照, 请勿打扰.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l03_w29", "order": 29, "textbook": "HSK 5 上", "lesson": 3,
+      "hanzi": "时刻", "pinyin": "shíkè",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "thời khắc, thời gian", "structure": "美好的时刻 / 最后时刻 / 关键时刻 / 雷电交加的时刻", "explanation": "Một thời điểm hoặc khoảng thời gian cụ thể, đáng nhớ hoặc mang tính quyết định.", "examples": [{ "chinese": "美好的时刻过去后是一个个紧张的夜晚。", "pinyin": "Měihǎo de shíkè guòqù hòu shì yígège jǐnzhāng de yèwǎn.", "vietnamese": "Sau những thời khắc tươi đẹp là từng đêm dài căng thẳng.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "副词 (Phó từ — Chú thích 4 tr.32: mọi lúc, luôn luôn)", "meanings": ["luôn luôn, mọi lúc mọi nơi, thường xuyên"], "structure": "时刻 + V / 时时刻刻 + V", "difference_note": "Khi làm phó từ đứng trước động từ (có thể láy thành 时时刻刻), biểu thị lúc nào cũng như vậy.", "examples": [{ "chinese": "工作中，他时时刻刻提醒自己：乘客的安全是最重要的。", "pinyin": "Gōngzuò zhōng, tā shíshíkèkè tíxǐng zìjǐ: chéngkè de ānquán shì zuì zhòngyào de.", "vietnamese": "Trong công việc, anh luôn luôn nhắc nhở bản thân: an toàn của hành khách là quan trọng nhất." }] }
+      ],
+      "chinese_explanation": "某一时间点或时间段；作副词指每时每刻、经常。", "collocations": ["关键时刻", "最后时刻", "时刻准备着", "时时刻刻"], "usage_note": "Phân biệt (Bài tập 2 câu 4 tr.34): 时代 (thời đại lịch sử: 信息时代) vs 时刻 (thời khắc ngắn: 最后时刻).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l03_w30", "order": 30, "textbook": "HSK 5 上", "lesson": 3,
+      "hanzi": "着火", "pinyin": "zháo huǒ",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ ly hợp)", "meaning": "bốc cháy, cháy", "structure": "车身/船身着火 / 着了火", "explanation": "Bắt lửa và bốc cháy (gây hỏa hoạn).", "examples": [{ "chinese": "一路上，翟峰一家经历了船身着火、漏水等大大小小十多次险情。", "pinyin": "Yílùshang, Zhái Fēng yìjiā jīnglì le chuánshēn zháo huǒ, lòushuǐ děng dàdàxiǎoxiǎo shí duō cì xiǎnqíng.", "vietnamese": "Trên đường đi, gia đình Trác Phong đã trải qua hơn mười lần hiểm nguy lớn nhỏ như thân tàu bốc cháy, rò nước.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "起火、燃烧起来。", "collocations": ["着火了", "船身着火", "着了大火"], "usage_note": "Chú ý chữ 着 ở đây đọc là zháo (không đọc zhe!).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l03_w31", "order": 31, "textbook": "HSK 5 上", "lesson": 3,
+      "hanzi": "漏", "pinyin": "lòu",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "chảy, rỉ, rò rỉ", "structure": "漏水 / 漏雨 / 漏气 / 漏光 / 漏出来", "explanation": "Chất lỏng hoặc khí chảy/thoát ra qua khe hở hay lỗ thủng.", "examples": [{ "chinese": "一路上，翟峰一家经历了船身着火、漏水等大大小小十多次险情。", "pinyin": "Yílùshang, Zhái Fēng yìjiā jīnglì le chuánshēn zháo huǒ, lòushuǐ děng dàdàxiǎoxiǎo shí duō cì xiǎnqíng.", "vietnamese": "Trên đường đi, gia đình Trác Phong đã trải qua hơn mười lần hiểm nguy lớn nhỏ như thân tàu bốc cháy, rò nước.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Nghĩa mở rộng: bỏ sót)", "meanings": ["bỏ sót, thiếu sót"], "structure": "漏掉 / 遗漏 / 漏了一个字", "difference_note": "Chỉ sự bỏ quên thông tin, chữ viết hay chi tiết khi làm việc (bảng 词语搭配 tr.32 có '漏掉').", "examples": [{ "chinese": "你再仔细检查一遍，别漏掉任何重要信息。", "pinyin": "Nǐ zài zǐxì jiǎnchá yíbiàn, bié lòudiào rènhé zhòngyào xìnxī.", "vietnamese": "Bạn kiểm tra kỹ lại một lần nữa, đừng bỏ sót bất kỳ thông tin quan trọng nào." }] }
+      ],
+      "chinese_explanation": "物体由孔或缝透过；遗漏、脱掉。", "collocations": ["漏水", "漏雨", "漏光", "漏掉", "漏出来"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l03_w32", "order": 32, "textbook": "HSK 5 上", "lesson": 3,
+      "hanzi": "雷", "pinyin": "léi",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "sấm", "structure": "打雷 / 雷电交加 / 雷阵雨", "explanation": "Tiếng nổ vang rền trên bầu trời do phóng điện giữa các đám mây khi có giông bão.", "examples": [{ "chinese": "他们最怕雷电交加的时刻。", "pinyin": "Tāmen zuì pà léidiàn jiāojiā de shíkè.", "vietnamese": "Họ sợ nhất là những thời khắc sấm chớp đùng đoàng.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "云层放电时发出的巨响。", "collocations": ["打雷", "雷电交加", "雷阵雨"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l03_w33", "order": 33, "textbook": "HSK 5 上", "lesson": 3,
+      "hanzi": "随时", "pinyin": "suíshí",
+      "lesson_usage": { "part_of_speech": "副词 (Phó từ)", "meaning": "bất cứ lúc nào", "structure": "随时 + 都/可以/有可能 + V", "explanation": "Ở bất kỳ thời điểm nào cũng có thể xảy ra hoặc thực hiện được.", "examples": [{ "chinese": "因为小船随时有可能被下一道闪电击到。", "pinyin": "Yīnwèi xiǎochuán suíshí yǒu kěnéng bèi xià yí dào shǎndiàn jīdào.", "vietnamese": "Bởi vì con thuyền nhỏ bất cứ lúc nào cũng có thể bị tia sét tiếp theo đánh trúng.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "任何时候，不受时间限制。", "collocations": ["随时欢迎", "随时打电话", "随时有可能"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l03_w34", "order": 34, "textbook": "HSK 5 上", "lesson": 3,
+      "hanzi": "闪电", "pinyin": "shǎndiàn",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "chớp, tia sét", "structure": "一道闪电 / 打雷闪电", "explanation": "Tia sáng lóe lên trên trời do phóng điện trong cơn giông.", "examples": [{ "chinese": "因为小船随时有可能被下一道闪电击到。", "pinyin": "Yīnwèi xiǎochuán suíshí yǒu kěnéng bèi xià yí dào shǎndiàn jīdào.", "vietnamese": "Bởi vì con thuyền nhỏ bất cứ lúc nào cũng có thể bị tia sét tiếp theo đánh trúng.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "云层间或云与地面间放电产生的强光。", "collocations": ["一道闪电", "闪电般"], "usage_note": "Lượng từ chuẩn trong bảng 词语搭配 tr.33 là 道: 一道闪电.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l03_w35", "order": 35, "textbook": "HSK 5 上", "lesson": 3,
+      "hanzi": "击", "pinyin": "jī",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "đánh, đập, giáng trúng", "structure": "被闪电击到 / 击中 / 打击", "explanation": "Đánh trúng, tác động lực mạnh vào mục tiêu (thường đi với bổ ngữ kết quả 到/中 hoặc tạo từ ghép 打击, 攻击).", "examples": [{ "chinese": "因为小船随时有可能被下一道闪电击到。", "pinyin": "Yīnwèi xiǎochuán suíshí yǒu kěnéng bèi xià yí dào shǎndiàn jīdào.", "vietnamese": "Bởi vì con thuyền nhỏ bất cứ lúc nào cũng có thể bị tia sét tiếp theo đánh trúng.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "打、敲打、攻打。", "collocations": ["击到", "击中", "打击", "攻击"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l03_w36", "order": 36, "textbook": "HSK 5 上", "lesson": 3,
+      "hanzi": "拥抱", "pinyin": "yōngbào",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "ôm chặt, ôm", "structure": "紧紧(地)拥抱 / 热情(地)拥抱 / 拥抱世界", "explanation": "Dùng hai tay ôm lấy nhau để biểu lộ yêu thương, an ủi hoặc chào mừng (cũng dùng nghĩa bóng '拥抱世界' – rộng mở đón nhận thế giới).", "examples": [{ "chinese": "一家三口只能紧紧拥抱在一起，希望闪电快快过去。", "pinyin": "Yìjiā sānkǒu zhǐ néng jǐnjǐn yōngbào zài yìqǐ, xīwàng shǎndiàn kuàikuài guòqù.", "vietnamese": "Ba người trong nhà chỉ biết ôm chặt lấy nhau, mong cho tia chớp mau chóng qua đi.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "张开双臂搂抱以示亲爱或祝贺。", "collocations": ["紧紧拥抱", "热情拥抱", "拥抱世界"], "usage_note": "Bài tập 3 tr.34 có kết hợp hình tượng: 拥抱世界 (ôm trọn / chào đón thế giới).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l03_w37", "order": 37, "textbook": "HSK 5 上", "lesson": 3, "is_out_of_syllabus": true,
+      "hanzi": "海里", "pinyin": "hǎilǐ",
+      "lesson_usage": { "part_of_speech": "量词 (Lượng từ)", "meaning": "hải lý", "structure": "航行了4000多海里", "explanation": "Đơn vị đo chiều dài dùng trong hàng hải và hàng không (1 hải lý ≈ 1,852 km).", "examples": [{ "chinese": "在经历了八个月、航行了4000多海里之后，翟峰一家终于回到了家。", "pinyin": "Zài jīnglì le bā ge yuè, hángxíng le sìqiān duō hǎilǐ zhīhòu, Zhái Fēng yìjiā zhōngyú huídào le jiā.", "vietnamese": "Sau khi trải qua tám tháng, hải hành hơn 4000 hải lý, gia đình Trác Phong cuối cùng đã trở về nhà.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "计算海洋上距离的长度单位，1海里约合1.852公里。", "collocations": ["4000多海里"], "usage_note": "Phân biệt: 海里 (hǎilǐ – đơn vị hải lý, thanh 3) vs 海里 (hǎili – trong biển, thanh nhẹ).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l03_w38", "order": 38, "textbook": "HSK 5 上", "lesson": 3,
+      "hanzi": "台阶", "pinyin": "táijiē",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "bậc thềm, bậc thang", "structure": "一段台阶 / 上台阶 / 下台阶", "explanation": "Bậc bước xây bằng đá/gạch trước cửa nhà hoặc nối hai mặt bằng cao thấp; nghĩa bóng chỉ bước tiến hay lối thoát giữ thể diện.", "examples": [{ "chinese": "航海就是他人生道路上一段长长的台阶，通向他想要的未来。", "pinyin": "Hánghǎi jiùshì tā rénshēng dàolù shang yí duàn chángcháng de táijiē, tōngxiàng tā xiǎngyào de wèilái.", "vietnamese": "Đi biển chính là một bậc thềm dài trên con đường đời của anh, dẫn tới tương lai mà anh mong muốn.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "用砖、石等砌成的一级一级供人上下的建筑物；比喻摆脱尴尬的借口。", "collocations": ["一段台阶", "迈上新台阶", "找个台阶下"], "usage_note": "Cụm khẩu ngữ hay dùng: 给个台阶下 (cho ai đó một lối thoát để khỏi mất mặt).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l03_w39", "order": 39, "textbook": "HSK 5 上", "lesson": 3,
+      "hanzi": "未来", "pinyin": "wèilái",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "tương lai", "structure": "想要的未来 / 未来几年 / 美好的未来", "explanation": "Khoảng thời gian chưa tới, phía trước (đồng nghĩa gần với 将来).", "examples": [{ "chinese": "通向他想要的未来。", "pinyin": "Tōngxiàng tā xiǎngyào de wèilái.", "vietnamese": "Dẫn tới tương lai mà anh mong muốn.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "将要来到的时间；将来。", "collocations": ["美好的未来", "未来几年", "通向未来"], "usage_note": "未来 có thể làm định ngữ trực tiếp trước thời lượng (未来三年 – 3 năm tới), 将来 ít dùng như vậy.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l03_w40", "order": 40, "textbook": "HSK 5 上", "lesson": 3,
+      "hanzi": "太太", "pinyin": "tàitai",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "vợ, phu nhân, bà", "structure": "我太太 / 王太太", "explanation": "Cách gọi vợ lịch sự, trang nhã (hoặc gọi phụ nữ đã kết hôn sau họ chồng).", "examples": [{ "chinese": "“我和太太想要看看这个时代、这个世界到底是什么样子。”", "pinyin": "“Wǒ hé tàitai xiǎngyào kànkan zhège shídài, zhège shìjiè dàodǐ shì shénme yàngzi.”", "vietnamese": "“Tôi và vợ muốn xem thời đại này, thế giới này rốt cuộc trông như thế nào.”", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "对已婚妇女的尊称；称自己的妻子。", "collocations": ["我太太", "李太太"], "usage_note": "So sánh sắc thái: 妻子 (trang trọng, văn viết) — 太太 (lịch sự, nhã nhặn) — 老婆 (thân mật, khẩu ngữ).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l03_w41", "order": 41, "textbook": "HSK 5 上", "lesson": 3,
+      "hanzi": "时代", "pinyin": "shídài",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "thời đại", "structure": "这个时代 / 信息时代 / 互联网时代 / 学生时代", "explanation": "Một giai đoạn dài trong lịch sử xã hội hoặc một thời kỳ lớn trong cuộc đời.", "examples": [{ "chinese": "“我和太太想要看看这个时代、这个世界到底是什么样子。”", "pinyin": "“Wǒ hé tàitai xiǎngyào kànkan zhège shídài, zhège shìjiè dàodǐ shì shénme yàngzi.”", "vietnamese": "“Tôi và vợ muốn xem thời đại này, thế giới này rốt cuộc trông như thế nào.”", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "历史上以经济、政治、文化等状况为依据而划分的时期；生命中的某个时期。", "collocations": ["信息时代", "互联网时代", "新时代", "学生时代"], "usage_note": "Phân biệt với #29 时刻: 时代 chỉ thời kỳ lịch sử rộng lớn (信息时代), 时刻 chỉ khoảnh khắc/thời điểm cụ thể (最后时刻).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    }
+  ],
+  "proper_nouns": [
+    { "hanzi": "翟峰", "pinyin": "Zhái Fēng", "meaning": "Trác Phong (tên người)" },
+    { "hanzi": "澳洲", "pinyin": "Àozhōu", "meaning": "Úc" },
+    { "hanzi": "新西兰", "pinyin": "Xīnxīlán", "meaning": "New Zealand, Tân Tây Lan" }
+  ],
+  "collocations_table": [
+    { "relation": "Động từ + Tân ngữ", "head": "轮流", "partners": "驾船 / 休息 / 照看" },
+    { "relation": "Động từ + Tân ngữ", "head": "盼望", "partners": "(好)消息 / 过年 / 成功" },
+    { "relation": "Định ngữ + Trung tâm ngữ", "head": "稳定的", "partners": "工作 / 生活 / 关系 / 收入" },
+    { "relation": "Định ngữ + Trung tâm ngữ", "head": "平静的", "partners": "海面 / 心情 / 生活" },
+    { "relation": "Trạng ngữ + Trung tâm ngữ", "head": "发愁", "partners": "为 + 生活 / 工作 / 考试" },
+    { "relation": "Trạng ngữ + Trung tâm ngữ", "head": "拥抱", "partners": "紧紧(地) / 热情(地)" },
+    { "relation": "Trung tâm ngữ + Bổ ngữ", "head": "撞", "partners": "倒 / 伤 / 断 / 开" },
+    { "relation": "Trung tâm ngữ + Bổ ngữ", "head": "漏", "partners": "光 / 掉 / 出来" },
+    { "relation": "Số lượng từ + Danh từ", "head": "一顿", "partners": "饭 / 海鲜" },
+    { "relation": "Số lượng từ + Danh từ", "head": "一道", "partners": "闪电" }
+  ],
+  "grammar": [
+    {
+      "title": "各自",
+      "formula": "(1) S (số nhiều) + 各自 + V  |  (2) 各自的 + N",
+      "meaning": "Từng người, mỗi người tự, riêng của mình.",
+      "usage": "Đại từ chỉ từng cá nhân hoặc từng phía riêng trong một tập thể, thường đi cùng đối tượng số nhiều để làm chủ ngữ hoặc định ngữ.",
+      "context": "Dùng khi các thành viên/bên tham gia đều có phần việc, không gian hoặc kế hoạch riêng.",
+      "examples": [
+        { "chinese": "中场休息时间到了，比赛双方队员各自回场外休息。", "pinyin": "Zhōngchǎng xiūxi shíjiān dào le, bǐsài shuāngfāng duìyuán gèzì huí chǎngwài xiūxi.", "vietnamese": "Đến giờ nghỉ giữa hiệp rồi, cầu thủ hai đội mỗi bên tự quay về ngoài sân nghỉ ngơi." },
+        { "chinese": "刘经理认真看了三家广告公司各自提交的计划。", "pinyin": "Liú jīnglǐ rènzhēn kàn le sān jiā guǎnggào gōngsī gèzì tíjiāo de jìhuà.", "vietnamese": "Giám đốc Lưu xem kỹ kế hoạch do từng công ty trong ba công ty quảng cáo nộp lên." },
+        { "chinese": "以前陆地上的夜晚，他们在各自的房间，一家人没有更多的交流。", "pinyin": "Yǐqián lùdì shang de yèwǎn, tāmen zài gèzì de fángjiān, yìjiārén méiyǒu gèng duō de jiāoliú.", "vietnamese": "Những buổi tối trên đất liền trước đây, họ ở trong phòng riêng của mình, cả nhà không có nhiều giao lưu." }
+      ],
+      "important_notes": "Luôn đòi hỏi có danh từ/đại từ số nhiều (双方队员, 三家公司, 他们) làm đối tượng quy chiếu.",
+      "common_errors": "Không dùng 各自 khi chỉ có một người.",
+      "comparison": "",
+      "mini_practice": [{ "prompt": "快要毕业了，同学们______________________。（各自）", "sample_answer": "都在为各自的前途做准备", "explanation": "各自的 + Danh từ làm định ngữ chỉ phần riêng của mỗi người." }]
+    },
+    {
+      "title": "勿",
+      "formula": "(请 / 切) 勿 + V",
+      "meaning": "Chớ, đừng (văn viết, tương đương 不要).",
+      "usage": "Phó từ biểu thị sự ngăn cấm hoặc khuyên can trong văn viết, tục ngữ, biển báo và thông báo công cộng.",
+      "context": "Biển báo nơi công cộng, văn bản quy định, câu ngạn ngữ.",
+      "examples": [
+        { "chinese": "非工作人员，请勿入内。", "pinyin": "Fēi gōngzuò rényuán, qǐng wù rùnèi.", "vietnamese": "Không phải nhân viên làm việc, xin miễn vào trong." },
+        { "chinese": "网上购票者须注意网站的安全性，切勿上当受骗。", "pinyin": "Wǎngshàng gòupiàozhě xū zhùyì wǎngzhàn de ānquánxìng, qièwù shàngdàng shòupiàn.", "vietnamese": "Người mua vé trực tuyến cần chú ý độ an toàn của trang web, tuyệt đối chớ mắc lừa." },
+        { "chinese": "中国有句老话，可上山，勿下海。", "pinyin": "Zhōngguó yǒu jù lǎohuà, kě shàngshān, wù xiàhǎi.", "vietnamese": "Trung Quốc có câu tục ngữ: lên núi thì được, chớ có xuống biển." }
+      ],
+      "important_notes": "Thường gặp nhất dưới dạng 4 chữ trang trọng: 请勿打扰 (Xin đừng làm phiền), 请勿吸烟 (Cấm hút thuốc), 切勿上当 (Chớ bị lừa).",
+      "common_errors": "Không dùng 勿 trong hội thoại thân mật hằng ngày (khẩu ngữ dùng 别 hoặc 不要).",
+      "comparison": "",
+      "mini_practice": [{ "prompt": "为了他人的健康，请不要在公共场所抽烟。 → 为了他人的健康，______________________。（勿）", "sample_answer": "请勿在公共场所吸烟", "explanation": "Thay '不要' bằng phó từ văn viết '勿'." }]
+    },
+    {
+      "title": "包括",
+      "formula": "(1) A 包括 B、C、D (liệt kê thành phần)  |  (2) 包括 + X，(S) 都/也…… (nhấn mạnh ví dụ)",
+      "meaning": "Bao gồm; kể cả.",
+      "usage": "Động từ có 2 chức năng: (1) liệt kê các bộ phận tạo nên tổng thể; (2) nhấn mạnh một phần tiêu biểu nhằm nêu ví dụ, bổ sung, giải thích (thường phối hợp với 都/也).",
+      "context": "Dùng rất phổ biến cả trong văn viết lẫn giao tiếp hằng ngày.",
+      "examples": [
+        { "chinese": "汉语技能教学包括听、说、读、写四个方面。", "pinyin": "Hànyǔ jìnéng jiàoxué bāokuò tīng, shuō, dú, xiě sì ge fāngmiàn.", "vietnamese": "Giảng dạy kỹ năng tiếng Hán bao gồm bốn mặt nghe, nói, đọc, viết." },
+        { "chinese": "“学习”，其实包括“学”与“习”两层意思。学，就是学习知识；习，就是实践、练习。", "pinyin": "“Xuéxí”, qíshí bāokuò “xué” yǔ “xí” liǎng céng yìsi. Xué, jiùshì xuéxí zhīshi; xí, jiùshì shíjiàn, liànxí.", "vietnamese": "“Học tập” thực ra bao gồm hai tầng nghĩa “học” và “tập”. Học là học tri thức; tập là thực hành, luyện tập." },
+        { "chinese": "然而，包括翟峰的父母，所有人都觉得，翟峰“疯了”。", "pinyin": "Rán'ér, bāokuò Zhái Fēng de fùmǔ, suǒyǒu rén dōu juéde, Zhái Fēng “fēng le”.", "vietnamese": "Thế nhưng, kể cả ba mẹ Trác Phong, mọi người đều cho rằng Trác Phong “điên rồi”." },
+        { "chinese": "我们班所有人，包括最不爱运动的刘方，也都参加了这次运动会。", "pinyin": "Wǒmen bān suǒyǒu rén, bāokuò zuì bú ài yùndòng de Liú Fāng, yě dōu cānjiā le zhè cì yùndònghuì.", "vietnamese": "Tất cả mọi người trong lớp chúng tôi, kể cả Lưu Phương vốn ghét vận động nhất, cũng đều tham gia hội thao lần này." }
+      ],
+      "important_notes": "Ở cách dùng (2), cụm '包括……' có thể đặt đầu câu hoặc chen ngay sau chủ ngữ tổng thể.",
+      "common_errors": "",
+      "comparison": "",
+      "mini_practice": [{ "prompt": "这个节目全家人都喜欢，______________________，也很爱看。（包括）", "sample_answer": "包括平时不爱看电视的爷爷", "explanation": "Dùng 包括 nhấn mạnh một trường hợp tiêu biểu trong tổng thể 全家人." }]
+    },
+    {
+      "title": "时刻 (Danh từ & Phó từ)",
+      "formula": "(1) Dt: ……的时刻  |  (2) Phó từ: 时刻 / 时时刻刻 + V",
+      "meaning": "1. (Danh từ) Thời khắc, thời điểm · 2. (Phó từ) Luôn luôn, mọi lúc mọi nơi.",
+      "usage": "Là danh từ chỉ một thời điểm/khoảng thời gian cụ thể; cũng là phó từ chỉ tần suất thường xuyên, mọi lúc (có thể láy thành 时时刻刻).",
+      "context": "Đề thi HSK 5 rất hay kiểm tra phân biệt 时刻 (thời khắc / luôn luôn) với 时代 (thời đại).",
+      "examples": [
+        { "chinese": "在最后时刻，他为本队踢进了赢得比赛的关键一球。", "pinyin": "Zài zuìhòu shíkè, tā wèi běnduì tījìn le yíngdé bǐsài de guānjiàn yì qiú.", "vietnamese": "Vào thời khắc cuối cùng, anh đã ghi bàn thắng quyết định giúp đội nhà giành chiến thắng." },
+        { "chinese": "美好的时刻过去后是一个个紧张的夜晚。", "pinyin": "Měihǎo de shíkè guòqù hòu shì yígège jǐnzhāng de yèwǎn.", "vietnamese": "Sau những thời khắc tươi đẹp là từng đêm dài căng thẳng." },
+        { "chinese": "我们非常需要你这样的人才，只要你愿意，公司的大门时刻都为你开着。", "pinyin": "Wǒmen fēicháng xūyào nǐ zhèyàng de réncái, zhǐyào nǐ yuànyì, gōngsī de dàmén shíkè dōu wèi nǐ kāizhe.", "vietnamese": "Chúng tôi rất cần nhân tài như bạn, chỉ cần bạn sẵn lòng, cánh cửa công ty lúc nào cũng rộng mở đón bạn." },
+        { "chinese": "工作中，他时时刻刻提醒自己：乘客的安全是最重要的。", "pinyin": "Gōngzuò zhōng, tā shíshíkèkè tíxǐng zìjǐ: chéngkè de ānquán shì zuì zhòngyào de.", "vietnamese": "Trong công việc, anh luôn luôn nhắc nhở bản thân: an toàn của hành khách là quan trọng nhất." }
+      ],
+      "important_notes": "Chỉ khi làm PHÓ TỪ mới có thể láy thành '时时刻刻' (làm danh từ không láy).",
+      "common_errors": "",
+      "comparison": "时刻 (khoảnh khắc cụ thể; luôn luôn) vs 时代 (thời đại lịch sử dài lâu).",
+      "mini_practice": [{ "prompt": "任何时候都不要看轻自己，______________________。（时刻）", "sample_answer": "要时刻相信自己的能力", "explanation": "Dùng phó từ 时刻 đứng trước động từ 相信." }]
+    }
+  ],
+  "comparison_section": {
+    "label": "词语辨析 Phân biệt từ ngữ",
+    "pair": "舒适 — 舒服",
+    "term_a": "舒适 (shūshì)",
+    "term_b": "舒服 (shūfu)",
+    "similarity": "Đều là tính từ, đều biểu thị sự thoải mái, dễ chịu, nhẹ nhõm. VD: 饭店为入住的客人准备了舒适/舒服的房间。",
+    "differences": [
+      { "criterion": "Phong cách ngôn ngữ", "a": "Thường dùng trong VĂN VIẾT (这款车内部空间宽大，乘坐舒适).", "b": "Thường dùng trong KHẨU NGỮ (他靠在沙发上舒舒服服地看电视)." },
+      { "criterion": "Trọng tâm miêu tả", "a": "Thiên về cảm nhận tổng thể mà MÔI TRƯỜNG, KHÔNG GIAN mang lại (我们需要一个轻松舒适的生活环境).", "b": "Thiên về cảm nhận chủ quan, cụ thể về CƠ THỂ hoặc TINH THẦN con người (听了他的话，我心里很不舒服 / 脖子不舒服)." },
+      { "criterion": "Khả năng láy & chuyển loại", "a": "Rất ít khi dùng dạng láy (KHÔNG nói 舒舒适适).", "b": "Có thể láy AABB (舒舒服服地); còn có thể chuyển thành động từ dạng ABAB (洗个热水澡舒服舒服吧)." }
+    ]
+  },
+  "texts": [
+    {
+      "id": "t1", "title_zh": "人生有选择，一切可改变（648字）", "title_vi": "Đời người có lựa chọn, mọi thứ có đổi thay",
+      "lines": [
+        { "speaker": "", "chinese": "翟峰和妻子都是铁路工人，工作稳定、待遇不错。他们有房有车，从不用为生活发愁。可翟峰却不想一辈子过这样平静的生活。通过电视，翟峰迷上了帆船，他觉得帆船能带他撞开“世界之门”：只要有一艘船，就能航行在无边无际的海上，到任何自己想去的地方。", "pinyin": "Zhái Fēng hé qīzi dōu shì tiělù gōngrén, gōngzuò wěndìng, dàiyù búcuò. Tāmen yǒu fáng yǒu chē, cóng búyòng wèi shēnghuó fā chóu. Kě Zhái Fēng què bù xiǎng yíbèizi guò zhèyàng píngjìng de shēnghuó. Tōngguò diànshì, Zhái Fēng míshàng le fānchuán, tā juéde fānchuán néng dài tā zhuàngkāi “shìjiè zhī mén”: zhǐyào yǒu yì sōu chuán, jiù néng hángxíng zài wúbiān wújì de hǎishàng, dào rènhé zìjǐ xiǎng qù de dìfang.", "vietnamese": "Trác Phong và vợ đều là công nhân đường sắt, công việc ổn định, đãi ngộ khá tốt. Họ có nhà có xe, chưa bao giờ phải lo lắng vì cuộc sống. Nhưng Trác Phong lại không muốn cả đời sống một cuộc sống yên ả như vậy. Qua tivi, Trác Phong mê mẩn thuyền buồm, anh thấy thuyền buồm có thể đưa anh đẩy mở “cánh cửa thế giới”: chỉ cần có một con thuyền, là có thể giương buồm lướt trên đại dương bao la, đến bất cứ nơi nào mình muốn." },
+        { "speaker": "", "chinese": "由于翟峰和妻子没有积蓄，于是卖房卖车，买下了一艘二手船，翟峰叫它“彩虹号”。出发前，翟峰自学了航海知识。然而，包括翟峰的父母，所有人都觉得，翟峰“疯了”。", "pinyin": "Yóuyú Zhái Fēng hé qīzi méiyǒu jīxù, yúshì màifáng màichē, mǎixià le yì sōu èrshǒuchuán, Zhái Fēng jiào tā “Cǎihónghào”. Chūfā qián, Zhái Fēng zìxué le hánghǎi zhīshi. Rán'ér, bāokuò Zhái Fēng de fùmǔ, suǒyǒu rén dōu juéde, Zhái Fēng “fēng le”.", "vietnamese": "Vì Trác Phong và vợ không có tiền tiết kiệm, họ bèn bán nhà bán xe, mua lại một chiếc thuyền đã qua sử dụng, Trác Phong đặt tên là “Tàu Cầu Vồng”. Trước khi lên đường, Trác Phong tự học kiến thức hàng hải. Thế nhưng, kể cả cha mẹ của Trác Phong, tất cả mọi người đều nghĩ Trác Phong “điên rồi”." },
+        { "speaker": "", "chinese": "2012年11月24日，辞了职的翟峰和妻子带着休学的女儿，第一次驾驶帆船出海了。白天，翟峰和妻子轮流驾船。女儿在船上看书、学习、画画儿。下午海面平静时，翟峰和妻子下海游泳或者钓鱼。该吃饭时，妻子会给全家人做一顿美味的海鲜。", "pinyin": "Èr líng yī èr nián shíyī yuè èrshísì rì, cí le zhí de Zhái Fēng hé qīzi dàizhe xiūxué de nǚ'ér, dì-yī cì jiàshǐ fānchuán chūhǎi le. Báitiān, Zhái Fēng hé qīzi lúnliú jiàchuán. Nǚ'ér zài chuánshang kànshū, xuéxí, huàhuàr. Xiàwǔ hǎimiàn píngjìng shí, Zhái Fēng hé qīzi xiàhǎi yóuyǒng huòzhě diàoyú. Gāi chīfàn shí, qīzi huì gěi quánjiārén zuò yí dùn měiwèi de hǎixiān.", "vietnamese": "Ngày 24 tháng 11 năm 2012, Trác Phong sau khi từ chức đã cùng vợ đưa cô con gái tạm nghỉ học lần đầu tiên lái thuyền buồm ra khơi. Ban ngày, hai vợ chồng luân phiên lái thuyền. Con gái ở trên thuyền đọc sách, học tập, vẽ tranh. Buổi chiều khi mặt biển yên ả, hai vợ chồng xuống biển bơi lội hoặc câu cá. Đến bữa, người vợ nấu cho cả nhà một bữa hải sản thơm ngon." },
+        { "speaker": "", "chinese": "傍晚是一家人最舒适的时候。干完活儿，一家人坐在一起，用电脑看看电影，或者聊聊天儿。这样的生活，是翟峰盼望已久的。以前陆地上的夜晚，他们在各自的房间，一家人没有更多的交流。", "pinyin": "Bàngwǎn shì yìjiārén zuì shūshì de shíhou. Gànwán huór, yìjiārén zuò zài yìqǐ, yòng diànnǎo kànkan diànyǐng, huòzhě liáoliao tiānr. Zhèyàng de shēnghuó, shì Zhái Fēng pànwàng yǐjiǔ de. Yǐqián lùdì shang de yèwǎn, tāmen zài gèzì de fángjiān, yìjiārén méiyǒu gèng duō de jiāoliú.", "vietnamese": "Hoàng hôn là lúc dễ chịu nhất của cả gia đình. Làm xong việc, cả nhà quây quần bên nhau, xem phim bằng máy tính hoặc trò chuyện. Cuộc sống như vậy chính là điều Trác Phong hằng mong mỏi bấy lâu. Những buổi tối trên đất liền trước kia, mỗi người ở trong phòng riêng của mình, cả gia đình không có nhiều dịp chuyện trò." },
+        { "speaker": "", "chinese": "中国有句老话，可上山，勿下海。美好的时刻过去后是一个个紧张的夜晚。一路上，翟峰一家经历了船身着火、漏水等大大小小十多次险情。他们最怕雷电交加的时刻，因为小船随时有可能被下一道闪电击到，一家三口只能紧紧拥抱在一起，希望闪电快快过去。", "pinyin": "Zhōngguó yǒu jù lǎohuà, kě shàngshān, wù xiàhǎi. Měihǎo de shíkè guòqù hòu shì yígège jǐnzhāng de yèwǎn. Yílùshang, Zhái Fēng yìjiā jīnglì le chuánshēn zháo huǒ, lòushuǐ děng dàdàxiǎoxiǎo shí duō cì xiǎnqíng. Tāmen zuì pà léidiàn jiāojiā de shíkè, yīnwèi xiǎochuán suíshí yǒu kěnéng bèi xià yí dào shǎndiàn jīdào, yìjiā sānkǒu zhǐ néng jǐnjǐn yōngbào zài yìqǐ, xīwàng shǎndiàn kuàikuài guòqù.", "vietnamese": "Trung Quốc có câu tục ngữ: lên núi thì được, chớ có xuống biển. Sau những thời khắc tươi đẹp là từng đêm dài căng thẳng. Dọc đường đi, gia đình Trác Phong trải qua hơn mười lần hiểm nguy lớn nhỏ như thân tàu bốc cháy, rò nước. Họ sợ nhất lúc sấm chớp đùng đoàng, bởi con thuyền nhỏ bất cứ lúc nào cũng có thể bị tia sét tiếp theo đánh trúng, ba người trong nhà chỉ biết ôm chặt lấy nhau, cầu mong cơn giông sét mau qua." },
+        { "speaker": "", "chinese": "在经历了八个月、航行了4000多海里之后，翟峰一家终于回到了家。", "pinyin": "Zài jīnglì le bā ge yuè, hángxíng le sìqiān duō hǎilǐ zhīhòu, Zhái Fēng yìjiā zhōngyú huídào le jiā.", "vietnamese": "Sau khi trải qua tám tháng, hải hành hơn 4000 hải lý, gia đình Trác Phong cuối cùng đã trở về nhà." },
+        { "speaker": "", "chinese": "翟峰相信，一切只是开始，航海就是他人生道路上一段长长的台阶，通向他想要的未来。“我和太太想要看看这个时代、这个世界到底是什么样子。人生有选择，一切可改变”。下一站，他们想去澳洲和新西兰。等待今年11月的北风，北风南下之时，他们将再次出发。", "pinyin": "Zhái Fēng xiāngxìn, yíqiè zhǐshì kāishǐ, hánghǎi jiùshì tā rénshēng dàolù shang yí duàn chángcháng de táijiē, tōngxiàng tā xiǎngyào de wèilái. “Wǒ hé tàitai xiǎngyào kànkan zhège shídài, zhège shìjiè dàodǐ shì shénme yàngzi. Rénshēng yǒu xuǎnzé, yíqiè kě gǎibiàn”. Xià yí zhàn, tāmen xiǎng qù Àozhōu hé Xīnxīlán. Děngdài jīnnián shíyī yuè de běifēng, běifēng nánxià zhī shí, tāmen jiāng zàicì chūfā.", "vietnamese": "Trác Phong tin rằng mọi thứ mới chỉ là khởi đầu, hành trình đi biển chính là một bậc thềm dài trên đường đời của anh, dẫn tới tương lai anh hằng mong ước. “Tôi và vợ muốn xem thời đại này, thế giới này rốt cuộc như thế nào. Đời người có lựa chọn, mọi thứ đều có thể đổi thay.” Điểm dừng chân tiếp theo, họ muốn đi Úc và New Zealand. Chờ gió bấc tháng 11 năm nay thổi xuống phương nam, họ sẽ lại một lần nữa lên đường." }
+      ]
+    }
+  ],
+  "reading_questions": [
+    { "question_zh": "翟峰航海时的家庭生活跟以前在陆地上有什么不同？", "question_vi": "Cuộc sống gia đình của Trác Phong khi đi biển có gì khác so với trước đây trên đất liền?", "answer_zh": "以前在陆地上，虽然工作稳定、有房有车，但晚上大家在各自的房间，一家人没有更多交流；而在帆船上，傍晚干完活儿全家人坐在一起看电影、聊天儿，遇到雷电险情时一家三口紧紧拥抱在一起，感情更加亲密。", "answer_vi": "Trước kia trên đất liền tuy công việc ổn định, có nhà có xe nhưng tối đến mỗi người ở một phòng, ít trò chuyện; còn trên thuyền buồm, chiều tối làm xong việc cả nhà quây quần xem phim trò chuyện, lúc gặp sấm sét hiểm nguy ba người ôm chặt lấy nhau, tình cảm gắn bó hơn hẳn." }
+  ],
+  "exercises": [
+    {
+      "id": "h5s3_ex1", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.34 (练习 1)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ điền vào chỗ trống: “由于在个人______上没谈好，他最后拒绝了这家公司的邀请。”",
+      "options": ["待遇", "辞职", "稳定", "发愁"],
+      "answer": "待遇",
+      "explanation": "个人待遇 = chế độ đãi ngộ cá nhân (lương thưởng, phúc lợi). Đây là câu 1 nguyên văn trong 练习 1 trang 34!",
+      "review_tip": "Ôn danh từ #4 待遇."
+    },
+    {
+      "id": "h5s3_ex2", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.34 (练习 1)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ điền vào chỗ trống: “丽丽到家才发现刚买的酸奶中有一袋是______的。”",
+      "options": ["漏", "随时", "稳定", "辞职"],
+      "answer": "漏",
+      "explanation": "酸奶有一袋是漏的 = một túi sữa chua bị rỉ/thủng chảy ra ngoài (câu 3 trong 练习 1 tr.34).",
+      "review_tip": "Ôn động từ #31 漏."
+    },
+    {
+      "id": "h5s3_ex3", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.33 (词语辨析)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ đúng: “我今天脖子有点儿不______，左右转动时有点儿疼。”",
+      "options": ["舒服", "舒适", "平静", "稳定"],
+      "answer": "舒服",
+      "explanation": "Miêu tả cảm giác cụ thể trên CƠ THỂ người (đau cổ, khó chịu) bắt buộc dùng 舒服, không dùng 舒适 (chỉ môi trường).",
+      "review_tip": "Ôn bảng 词语辨析: 舒适—舒服 tr.33."
+    },
+    {
+      "id": "h5s3_ex4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.34 (练习 2)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “听到这个好消息后，我激动的心情久久不能______。”",
+      "options": ["平静", "冷静", "舒适", "稳定"],
+      "answer": "平静",
+      "explanation": "心情平静 = tâm trạng lắng dịu, yên ổn trở lại (sau khi xúc động). 冷静 dùng cho sự tỉnh táo, lý trí không nóng nảy.",
+      "review_tip": "Ôn bảng 词语搭配 của 平静的 (海面/心情/生活)."
+    },
+    {
+      "id": "h5s3_ex5", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.34 (练习 2)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn đáp án đúng: “现在，父母、妻子和孩子都______着他早日学成回国。”",
+      "options": ["盼望", "希望", "感受", "想象"],
+      "answer": "盼望",
+      "explanation": "Sau chỗ trống có trợ từ động thái '着' → chỉ 盼望 mới kết hợp được thành '盼望着……' (希望 KHÔNG mang 着).",
+      "review_tip": "Ôn động từ #25 盼望."
+    },
+    {
+      "id": "h5s3_ex6", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.34 (练习 2)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “21世纪是一个信息______、互联网的______。”",
+      "options": ["时代 / 时代", "时刻 / 时刻", "时代 / 时刻", "时刻 / 时代"],
+      "answer": "时代 / 时代",
+      "explanation": "Chỉ giai đoạn lịch sử xã hội lớn (thời đại thông tin, thời đại Internet) dùng 时代, không dùng 时刻.",
+      "review_tip": "Phân biệt #41 时代 vs #29 时刻."
+    },
+    {
+      "id": "h5s3_ex7", "type": "context_mc", "level": "Vận dụng", "origin_tag": "Sách gốc tr.31 (Chú thích 2)", "mistake_category": "Ngữ pháp",
+      "prompt": "Biển báo khách sạn nhắc nhân viên không làm phiền khách nghỉ ngơi viết gọn bằng chữ “勿” là gì?",
+      "options": ["请勿打扰", "请勿吸烟", "请勿入内", "可上山，勿下海"],
+      "answer": "请勿打扰",
+      "explanation": "Đáp án chuẩn của bài tập 练一练 Chú thích 2 tr.31: '请勿打扰' (Xin đừng làm phiền).",
+      "review_tip": "Ôn phó từ văn viết #28 勿."
+    },
+    {
+      "id": "h5s3_ex8", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Ôn tập Bài 2", "mistake_category": "Từ vựng",
+      "prompt": "[Ôn Bài 2] Chọn từ thích hợp: “______走那天，父亲从老家赶来送我们，还悄悄给我塞了一串钥匙。”",
+      "options": ["临", "靠", "轮", "断"],
+      "answer": "临",
+      "explanation": "Giới từ 临 đặt trước động từ chỉ thời điểm ngay trước khi hành động xảy ra: 临走那天 (hôm sắp đi).",
+      "review_tip": "Ôn Chú thích 2 Bài 2: 临 (động từ & giới từ)."
+    },
+    {
+      "id": "h5s3_ex9", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Ôn tập Bài 2", "mistake_category": "Từ vựng",
+      "prompt": "[Ôn Bài 2] Chọn từ đúng: “别人都不知道，她只是______地把这件事告诉了我。”",
+      "options": ["偷偷", "悄悄", "立刻", "坚决"],
+      "answer": "偷偷",
+      "explanation": "Câu nhấn mạnh 'người khác đều không biết' (giấu giếm, lén lút) → dùng 偷偷 (câu 4 bảng 做一做 Bài 2 tr.25).",
+      "review_tip": "Ôn 词语辨析 Bài 2: 悄悄—偷偷."
+    },
+    {
+      "id": "h5s3_ex10", "type": "context_mc", "level": "Vận dụng", "origin_tag": "Ôn tập Bài 1", "mistake_category": "Ngữ pháp",
+      "prompt": "[Ôn Bài 1] Chọn đáp án đúng: “我们希望由你来负责解决这个问题，______？”",
+      "options": ["如何", "怎么", "居然", "各自"],
+      "answer": "如何",
+      "explanation": "Đặt ở cuối câu để trưng cầu ý kiến ('thấy thế nào?') dùng 如何 (Bài 1 Chú thích 1).",
+      "review_tip": "Ôn cách dùng cuối câu của 如何 (Bài 1)."
+    }
+  ]
+}

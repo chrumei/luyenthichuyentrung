@@ -1,0 +1,472 @@
+{
+  "id": "hsk5shang_l09",
+  "book_id": "hsk5shang",
+  "textbook": "HSK 5 上",
+  "lesson_number": 9,
+  "title_zh": "别样鲁迅",
+  "title_vi": "Một Lỗ Tấn khác",
+  "pdf_pages": "Trang sách 83–90 (Giáo Trình Chuẩn HSK5 Tập 1.pdf)",
+  "source_status": "verified_textbook",
+  "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"],
+  "vocabulary": [
+    {
+      "id": "hsk5s_l09_w01", "order": 1, "textbook": "HSK 5 上", "lesson": 9,
+      "hanzi": "表现", "pinyin": "biǎoxiàn",
+      "lesson_usage": { "part_of_speech": "动词 / 名词 (Động từ / Danh từ)", "meanings": ["1. (Động từ) thể hiện, biểu lộ ra", "2. (Danh từ) biểu hiện, thành tích thể hiện ra"], "meaning": "thể hiện; biểu hiện", "structure": "(đgt) 表现得尤其突出 / 表现出……; (dt) 表现(很)好/突出/稳定", "explanation": "Làm lộ rõ đặc điểm, năng lực hay thái độ thông qua hành động, kết quả.", "examples": [
+        { "chinese": "美食很大一部分是靠名人推动的，这一点在民国时期表现得尤其突出。", "pinyin": "Měishí hěn dà yí bùfen shì kào míngrén tuīdòng de, zhè yìdiǎn zài Mínguó shíqī biǎoxiàn de yóuqí tūchū.", "vietnamese": "Ẩm thực phần lớn nhờ danh nhân thúc đẩy, điều này thể hiện đặc biệt nổi bật vào thời Dân Quốc.", "from_text": true },
+        { "chinese": "他在今晚的比赛中表现得很突出。", "pinyin": "Tā zài jīnwǎn de bǐsài zhōng biǎoxiàn de hěn tūchū.", "vietnamese": "Anh ấy thể hiện rất nổi bật trong trận đấu tối nay." }
+      ] },
+      "additional_usages": [], "chinese_explanation": "表示出来；显现出来的行为或作风。", "collocations": ["表现突出", "表现很好", "表现稳定", "表现出"], "usage_note": "Phân biệt với 表达 (biểu đạt tư tưởng, tình cảm bằng ngôn ngữ/văn tự); còn hành động, phong độ trong thi đấu/công việc dùng 表现 (Bài tập 2 câu 1 tr.89!).", "common_errors": "Sai: '在比赛中表达得很突出' → Phải dùng '表现得很突出'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l09_w02", "order": 2, "textbook": "HSK 5 上", "lesson": 9,
+      "hanzi": "突出", "pinyin": "tūchū",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "nổi bật, nổi trội", "structure": "表现得尤其突出 / 成绩突出 / 特点突出", "explanation": "Vượt trội rõ rệt so với mức chung hoặc các mặt khác.", "examples": [{ "chinese": "这一点在民国时期表现得尤其突出。", "pinyin": "Zhè yìdiǎn zài Mínguó shíqī biǎoxiàn de yóuqí tūchū.", "vietnamese": "Điểm này thể hiện đặc biệt nổi bật ở thời kỳ Dân Quốc.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ)", "meanings": ["làm nổi bật, nhấn mạnh; nhô ra ngoài"], "structure": "突出重点 / 突出主题", "difference_note": "Mang tân ngữ để chỉ hành động làm bật lên trọng tâm.", "examples": [{ "chinese": "写文章要突出主题，不要偏题。", "pinyin": "Xiě wénzhāng yào tūchū zhǔtí, búyào piāntí.", "vietnamese": "Viết văn cần làm nổi bật chủ đề, đừng lạc đề." }] }
+      ],
+      "chinese_explanation": "超过一般地显露出来；使显眼。", "collocations": ["表现突出", "成绩突出", "突出重点"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l09_w03", "order": 3, "textbook": "HSK 5 上", "lesson": 9,
+      "hanzi": "文学家", "pinyin": "wénxuéjiā",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "nhà văn", "structure": "著名的文学家", "explanation": "Người có thành tựu lớn trong sáng tác hoặc nghiên cứu văn học.", "examples": [{ "chinese": "例如著名的文学家鲁迅，在吃喝这件事上，就算是个地道的行家。", "pinyin": "Lìrú zhùmíng de wénxuéjiā Lǔ Xùn, zài chīhē zhè jiàn shì shang, jiù suàn shì ge dìdao de hángjia.", "vietnamese": "Ví dụ nhà văn nổi tiếng Lỗ Tấn, trong chuyện ăn uống thì cũng được coi là một người sành sỏi đích thực.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "在文学创作或研究方面有较高成就的人。", "collocations": ["著名文学家", "现代文学家"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l09_w04", "order": 4, "textbook": "HSK 5 上", "lesson": 9,
+      "hanzi": "算", "pinyin": "suàn",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "coi là, xem là, kể như", "structure": "(就)算是…… / 算不上…… / 算得上…… / 算了", "explanation": "Nghĩa trọng tâm trong Chú thích 1 tr.86: (1) nhìn nhận, coi như là; (2) '算了' biểu thị thôi bỏ qua, không so đo nữa.", "examples": [
+        { "chinese": "例如著名的文学家鲁迅，在吃喝这件事上，就算是个地道的行家。", "pinyin": "Lìrú zhùmíng de wénxuéjiā Lǔ Xùn, zài chīhē zhè jiàn shì shang, jiù suàn shì ge dìdao de hángjia.", "vietnamese": "Chẳng hạn nhà văn nổi tiếng Lỗ Tấn, trong chuyện ăn uống cũng coi là một tay sành điệu đích thực.", "from_text": true },
+        { "chinese": "广和居算不上豪华，但却很适合朋友在这里聚会、热闹。", "pinyin": "Guǎnghéjū suànbushàng háohuá, dàn què hěn shìhé péngyou zài zhèlǐ jùhuì, rènao.", "vietnamese": "Quảng Hòa Cư không được xem là sang trọng, nhưng lại rất hợp để bạn bè tụ tập, vui vẻ ở đây.", "from_text": true }
+      ] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Nghĩa gốc: tính toán)", "meanings": ["tính, tính toán"], "structure": "算账 / 算出平均数 / 算一下", "difference_note": "Tính ra con số, tiền bạc (xuất hiện trong Bài tập 3 câu 3 tr.89: 算出他们月收入的平均数).", "examples": [{ "chinese": "请帮我算一下一共多少钱。", "pinyin": "Qǐng bāng wǒ suàn yíxià yígòng duōshao qián.", "vietnamese": "Xin tính giúp tôi tổng cộng bao nhiêu tiền." }] }
+      ],
+      "chinese_explanation": "认作、当作；算了表示作罢；另表计算数目。", "collocations": ["算得上", "算不上", "算了", "算出平均数"], "usage_note": "Xem Chú thích 1 tr.86 về cách dùng 算 và 算了.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l09_w05", "order": 5, "textbook": "HSK 5 上", "lesson": 9,
+      "hanzi": "地道", "pinyin": "dìdao",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "đích thực, chân chính, chính cống", "structure": "地道的 + 行家 / 普通话 / 北京小吃 / 麻婆豆腐", "explanation": "Đúng chuẩn bản xứ, đúng chất thuần túy (nói về món ăn, ngôn ngữ, tay nghề, người trong nghề).", "examples": [{ "chinese": "在吃喝这件事上，就算是个地道的行家。", "pinyin": "Zài chīhē zhè jiàn shì shang, jiù suàn shì ge dìdao de hángjia.", "vietnamese": "Trong chuyện ăn uống thì cũng coi là một tay sành sỏi đích thực.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (đọc dìdào – thanh 4)", "meanings": ["địa đạo, đường hầm ngầm"], "structure": "挖地道 / 地道战", "difference_note": "Khi đọc thanh 4 ở chữ 道 (dìdào), là danh từ chỉ đường hầm dưới lòng đất; còn tính từ 'chính cống' đọc thanh nhẹ dìdao!", "examples": [{ "chinese": "战争时期，老百姓在地下挖了很多地道。", "pinyin": "Zhànzhēng shíqī, lǎobǎixìng zài dìxià wā le hěn duō dìdào.", "vietnamese": "Thời chiến tranh, người dân đào rất nhiều địa đạo dưới lòng đất." }] }
+      ],
+      "chinese_explanation": "真正、纯粹、符合标准（轻声 dìdao）；另指地下通道（dìdào）。", "collocations": ["地道的普通话", "地道的北京小吃", "地道的川菜"], "usage_note": "Chú ý thanh điệu: dìdao (thanh nhẹ = chính cống) vs dìdào (thanh 4 = địa đạo)!", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l09_w06", "order": 6, "textbook": "HSK 5 上", "lesson": 9, "is_out_of_syllabus": true,
+      "hanzi": "行家", "pinyin": "hángjia",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "người trong nghề, người thạo nghề, tay sành sỏi", "structure": "地道的行家 / 真正的行家", "explanation": "Người am hiểu sâu sắc và tinh thông một ngành nghề hoặc lĩnh vực nào đó.", "examples": [{ "chinese": "在吃喝这件事上，就算是个地道的行家。", "pinyin": "Zài chīhē zhè jiàn shì shang, jiù suàn shì ge dìdao de hángjia.", "vietnamese": "Trong việc ăn uống, ông quả thực là một tay sành sỏi chính hiệu.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "精通某种业务或工作的人，内行。", "collocations": ["地道的行家", "行家里手"], "usage_note": "Chữ 行 đọc háng (ngành nghề), chữ 家 đọc thanh nhẹ: hángjia.", "common_errors": "Đọc nhầm 行 thành xíng.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l09_w07", "order": 7, "textbook": "HSK 5 上", "lesson": 9,
+      "hanzi": "亲自", "pinyin": "qīnzì",
+      "lesson_usage": { "part_of_speech": "副词 (Phó từ)", "meaning": "tự, đích thân", "structure": "S + 亲自 + V (动手做 / 参加 / 发奖金)", "explanation": "Đích thân tự mình làm lấy (thường dùng cho người có địa vị cao hoặc việc bình thường ít khi tự làm).", "examples": [{ "chinese": "不但会吃，还会亲自动手做。", "pinyin": "Búdàn huì chī, hái huì qīnzì dòngshǒu zuò.", "vietnamese": "Không những biết ăn, mà còn đích thân bắt tay vào làm.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "自己直接做，不假手他人（副词）。", "collocations": ["亲自动手", "亲自参加", "亲自接待"], "usage_note": "Xem bảng 词语辨析: 亲自—自己 tr.88 (亲自 là phó từ KHÔNG làm chủ ngữ/tân ngữ/định ngữ được!).", "common_errors": "Sai: '这是你亲自的事' → Phải dùng '这是你自己的事'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l09_w08", "order": 8, "textbook": "HSK 5 上", "lesson": 9, "is_out_of_syllabus": true,
+      "hanzi": "见解", "pinyin": "jiànjiě",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "cách nhìn, quan niệm, kiến giải", "structure": "独特的见解 / 发表见解", "explanation": "Nhận thức, đánh giá sâu sắc và riêng biệt về một sự vật, vấn đề.", "examples": [{ "chinese": "对许多美食都有独特的见解。", "pinyin": "Duì xǔduō měishí dōu yǒu dútè de jiànjiě.", "vietnamese": "Có những kiến giải độc đáo về rất nhiều món ngon.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "对事物的认识和看法。", "collocations": ["独特的见解", "深刻的见解", "发表见解"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l09_w09", "order": 9, "textbook": "HSK 5 上", "lesson": 9,
+      "hanzi": "近代", "pinyin": "jìndài",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "thời cận đại (chỉ khoảng thời gian từ giữa thế kỷ 19 đến năm 1919 trong lịch sử Trung Quốc)", "structure": "近代新时尚 / 中国近代历史", "explanation": "Thời kỳ lịch sử từ chiến tranh Nha phiến năm 1840 đến phong trào Ngũ Tứ năm 1919 trong phân kỳ lịch sử Trung Quốc.", "examples": [{ "chinese": "这是近代新时尚。", "pinyin": "Zhè shì jìndài xīn shíshàng.", "vietnamese": "Đây là xu hướng thời thượng mới của thời cận đại.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "历史分期名词，在中国历史上一般指1840年至1919年这一时期。", "collocations": ["近代历史", "近代文学", "近代新时尚"], "usage_note": "Phân biệt với 现代 (thời hiện đại, sau 1919 đến nay): Bài tập 2 câu 2 tr.89 '从1840年到1919年的中国近代历史' → dùng 近代!", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l09_w10", "order": 10, "textbook": "HSK 5 上", "lesson": 9,
+      "hanzi": "时尚", "pinyin": "shíshàng",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "mốt, thời trang, xu hướng thịnh hành", "structure": "新时尚 / 追求时尚 / 引领时尚", "explanation": "Phong trào, thị hiếu được ưa chuộng rộng rãi trong một thời kỳ.", "examples": [{ "chinese": "这是近代新时尚。", "pinyin": "Zhè shì jìndài xīn shíshàng.", "vietnamese": "Đây là mốt mới của thời cận đại.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "形容词 (Tính từ)", "meanings": ["thời thượng, hợp mốt, sành điệu"], "structure": "很时尚 / 时尚的服装", "difference_note": "Dùng miêu tả phong cách ăn mặc, thiết kế hợp xu hướng hiện đại.", "examples": [{ "chinese": "她今天的打扮看起来非常时尚。", "pinyin": "Tā jīntiān de dǎban kàn qǐlái fēicháng shíshàng.", "vietnamese": "Cách ăn mặc hôm nay của cô ấy trông rất thời thượng." }] }
+      ],
+      "chinese_explanation": "当时的风尚、潮流；合乎潮流的。", "collocations": ["新时尚", "时尚杂志", "非常时尚"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l09_w11", "order": 11, "textbook": "HSK 5 上", "lesson": 9,
+      "hanzi": "写作", "pinyin": "xiězuò",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "sáng tác, viết văn", "structure": "写作的日记 / 从事写作 / 练习写作", "explanation": "Viết ra tác phẩm văn chương, bài viết hoặc nhật ký.", "examples": [{ "chinese": "仅从这一时期鲁迅写作的日记中，我们发现他去过的知名餐馆就有65家。", "pinyin": "Jǐn cóng zhè yì shíqī Lǔ Xùn xiězuò de rìjì zhōng, wǒmen fāxiàn tā qùguo de zhīmíng cānguǎn jiù yǒu liùshíwǔ jiā.", "vietnamese": "Chỉ riêng trong nhật ký Lỗ Tấn viết ở thời kỳ này, chúng ta đã phát hiện có tới 65 nhà hàng nổi tiếng ông từng ghé qua.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["kỹ năng viết, môn viết (trong thi cử/học tập)"], "structure": "命题写作 / 写作水平 / 写作课", "difference_note": "Chỉ môn học hoặc phần thi viết (như mục '命题写作' cuối mỗi bài HSK 5).", "examples": [{ "chinese": "她的汉语写作水平提高得很快。", "pinyin": "Tā de Hànyǔ xiězuò shuǐpíng tígāo de hěn kuài.", "vietnamese": "Trình độ viết tiếng Hán của cô ấy tiến bộ rất nhanh." }] }
+      ],
+      "chinese_explanation": "写文章、创作作品；也指作文课程或技能。", "collocations": ["命题写作", "写作水平", "文学写作"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l09_w12", "order": 12, "textbook": "HSK 5 上", "lesson": 9,
+      "hanzi": "点心", "pinyin": "diǎnxin",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "bánh ngọt, điểm tâm", "structure": "稻香村的点心 / 吃点心 / 传统点心", "explanation": "Các loại bánh trái, đồ ăn nhẹ dùng ăn lót dạ hoặc uống trà.", "examples": [{ "chinese": "另外，他还很爱吃稻香村的点心。", "pinyin": "Lìngwài, tā hái hěn ài chī Dàoxiāngcūn de diǎnxin.", "vietnamese": "Ngoài ra, ông còn rất thích ăn bánh ngọt của tiệm Đạo Hương Thôn.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "糕饼之类的轻便食品。", "collocations": ["传统点心", "吃点心", "买点心"], "usage_note": "Chữ 心 đọc thanh nhẹ: diǎnxin.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l09_w13", "order": 13, "textbook": "HSK 5 上", "lesson": 9,
+      "hanzi": "作为", "pinyin": "zuòwéi",
+      "lesson_usage": { "part_of_speech": "动词 / 介词 (Động từ / Giới từ)", "meanings": ["1. (Động từ) coi như, xem là", "2. (Giới từ) với tư cách là, là (dẫn ra thân phận hoặc tính chất)"], "meaning": "coi như; với tư cách", "structure": "(đgt) 把 A 作为 B; (giới) 作为 + Thân phận/Tính chất，……", "explanation": "2 cách dùng trọng tâm trong Chú thích 2 tr.86: giới từ giới thiệu vai trò/thân phận (như trong bài khóa), động từ nghĩa tương đương 当作.", "examples": [
+        { "chinese": "作为大作家、大学问家，鲁迅对吃很讲究。", "pinyin": "Zuòwéi dà zuòjiā, dà xuéwenjiā, Lǔ Xùn duì chī hěn jiǎngjiu.", "vietnamese": "Với tư cách là một đại văn hào, đại học giả, Lỗ Tấn lại rất cầu kỳ trong chuyện ăn uống.", "from_text": true },
+        { "chinese": "北海公园离家最近，所以我把那儿作为每晚散步的去处。", "pinyin": "Běihǎi Gōngyuán lí jiā zuì jìn, suǒyǐ wǒ bǎ nàr zuòwéi měiwǎn sànbù de qùchù.", "vietnamese": "Công viên Bắc Hải gần nhà nhất nên tôi coi nơi đó là chỗ đi dạo mỗi tối." }
+      ] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["thành tựu, đóng góp, việc làm có giá trị"], "structure": "大有作为 / 有所作为", "difference_note": "Làm tân ngữ trong các cụm bốn chữ chỉ người làm nên nghiệp lớn.", "examples": [{ "chinese": "年轻人只要肯努力，将来一定会大有作为。", "pinyin": "Niánqīngrén zhǐyào kěn nǔlì, jiānglái yídìng huì dàyǒu zuòwéi.", "vietnamese": "Người trẻ chỉ cần chịu khó nỗ lực, tương lai nhất định sẽ làm nên chuyện lớn." }] }
+      ],
+      "chinese_explanation": "动词，当作、看作；介词，引出身份或性质；名词，指成绩、建树。", "collocations": ["作为……", "把……作为……", "有所作为"], "usage_note": "Xem Chú thích 2 tr.86.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l09_w14", "order": 14, "textbook": "HSK 5 上", "lesson": 9,
+      "hanzi": "学问", "pinyin": "xuéwen",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "tri thức, học thức, kiến thức uyên bác", "structure": "大学问家 / 有学问 / 做学问", "explanation": "Kiến thức hệ thống, sâu rộng tích lũy qua học tập và nghiên cứu.", "examples": [{ "chinese": "作为大作家、大学问家，鲁迅对吃很讲究。", "pinyin": "Zuòwéi dà zuòjiā, dà xuéwenjiā, Lǔ Xùn duì chī hěn jiǎngjiu.", "vietnamese": "Là một nhà văn lớn, nhà học giả lớn, Lỗ Tấn rất chú trọng việc ăn uống.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "系统而丰富的知识。", "collocations": ["有学问", "做学问", "大学问家"], "usage_note": "Chữ 问 đọc thanh nhẹ: xuéwen.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l09_w15", "order": 15, "textbook": "HSK 5 上", "lesson": 9,
+      "hanzi": "讲究", "pinyin": "jiǎngjiu",
+      "lesson_usage": { "part_of_speech": "动词 / 形容词 (Động từ / Tính từ)", "meanings": ["1. (Động từ) chú ý, chú trọng, coi trọng (ăn mặc, vệ sinh, phương pháp...)", "2. (Tính từ) tinh tế, cầu kỳ, đẹp đẽ"], "meaning": "chú ý, chú trọng; đẹp đẽ, cầu kỳ", "structure": "(đgt) 讲究吃/穿/卫生/方法; (tt) 对吃很讲究 / 房间布置得很讲究", "explanation": "Vừa có thể mang tân ngữ làm động từ (讲究卫生), vừa có thể đứng sau 很 làm tính từ (对吃很讲究).", "examples": [{ "chinese": "鲁迅对吃很讲究，吃的内容在他的日记里占了很大一部分。", "pinyin": "Lǔ Xùn duì chī hěn jiǎngjiu, chī de nèiróng zài tā de rìjì li zhàn le hěn dà yí bùfen.", "vietnamese": "Lỗ Tấn rất cầu kỳ về ăn uống, nội dung về ăn uống chiếm một phần rất lớn trong nhật ký của ông.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["điều cần lưu ý, quy tắc tinh tế"], "structure": "有很多讲究 / 没什么讲究", "difference_note": "Xuất hiện ngay trong Bài tập 1 câu 2 tr.88 ('筷子在使用上也有很多讲究').", "examples": [{ "chinese": "筷子是中餐最主要的进餐用具，在使用上也有很多讲究。", "pinyin": "Kuàizi shì Zhōngcān zuì zhǔyào de jìncān yòngjù, zài shǐyòng shang yě yǒu hěn duō jiǎngjiu.", "vietnamese": "Đũa là dụng cụ ăn uống chính yếu nhất của ẩm thực Trung Hoa, trong cách sử dụng cũng có rất nhiều quy tắc cầu kỳ." }] }
+      ],
+      "chinese_explanation": "重视、追求完美；精美、考究；值得注意的规矩。", "collocations": ["讲究吃穿", "讲究卫生", "讲究方法", "有很多讲究"], "usage_note": "Chữ 究 đọc thanh nhẹ: jiǎngjiu.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l09_w16", "order": 16, "textbook": "HSK 5 上", "lesson": 9,
+      "hanzi": "平均", "pinyin": "píngjūn",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ / Phó từ dùng trong bài)", "meaning": "tính trung bình, bình quân", "structure": "平均每周…… / 平均分配 / 平均年龄", "explanation": "Chia đều theo tỷ lệ ngang nhau hoặc tính giá trị bình quân theo đơn vị thời gian/số lượng.", "examples": [{ "chinese": "在众多餐馆里，鲁迅去得最多、最喜欢的是广和居，平均每周都要去一次。", "pinyin": "Zài zhòngduō cānguǎn li, Lǔ Xùn qù de zuì duō, zuì xǐhuan de shì Guǎnghéjū, píngjūn měi zhōu dōu yào qù yí cì.", "vietnamese": "Trong đông đảo nhà hàng, nơi Lỗ Tấn tới nhiều nhất và thích nhất là Quảng Hòa Cư, tính trung bình mỗi tuần đều tới một lần.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "形容词 (Tính từ – làm định ngữ)", "meanings": ["đều nhau, bình quân"], "structure": "平均数 / 平均水平 / 平均气温", "difference_note": "Dùng trực tiếp trước danh từ như 平均数 (số trung bình – Bài tập 3 câu 3 tr.89).", "examples": [{ "chinese": "请算出他们月收入的平均数。", "pinyin": "Qǐng suànchū tāmen yuè shōurù de píngjūnshù.", "vietnamese": "Hãy tính ra số trung bình thu nhập hàng tháng của họ." }] }
+      ],
+      "chinese_explanation": "按份儿均匀计算；没有轻重或多少的分别。", "collocations": ["平均每周", "平均数", "平均水平", "平均分配"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l09_w17", "order": 17, "textbook": "HSK 5 上", "lesson": 9,
+      "hanzi": "胡同", "pinyin": "hútòng",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "ngõ hẻm, con hẻm (đặc trưng Bắc Kinh)", "structure": "一条/个胡同 / 北京胡同", "explanation": "Ngõ nhỏ giữa các khu tứ hợp viện truyền thống ở Bắc Kinh và miền Bắc Trung Quốc.", "examples": [{ "chinese": "广和居的大门就在他当时住的胡同的斜对面。", "pinyin": "Guǎnghéjū de dàmén jiù zài tā dāngshí zhù de hútòng de xiéduìmiàn.", "vietnamese": "Cổng lớn của Quảng Hòa Cư nằm ngay đối diện chéo với con ngõ ông sống hồi đó.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "北京等北方城市中的小街道、小巷。", "collocations": ["一条胡同", "北京胡同", "老胡同"], "usage_note": "Lượng từ chuẩn: 一条胡同 hoặc 一个胡同 (tr.87).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l09_w18", "order": 18, "textbook": "HSK 5 上", "lesson": 9,
+      "hanzi": "位于", "pinyin": "wèiyú",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "nằm ở, tọa lạc tại", "structure": "位于 + Địa điểm", "explanation": "Từ văn viết trang trọng chỉ vị trí địa lý của công trình, thành phố, địa danh (tương đương 在).", "examples": [{ "chinese": "位于菜市口附近的广和居是北京“八大居”之首，在民国时期非常出名。", "pinyin": "Wèiyú Càishìkǒu fùjìn de Guǎnghéjū shì Běijīng “Bādàjū” zhī shǒu, zài Mínguó shíqī fēicháng chūmíng.", "vietnamese": "Quảng Hòa Cư nằm gần Thái Thị Khẩu đứng đầu “Bát Đại Cư” Bắc Kinh, cực kỳ nổi tiếng thời Dân Quốc.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "处在某个位置上（多用于建筑物、地名等）。", "collocations": ["位于市中心", "位于……附近", "位于亚洲东部"], "usage_note": "Chỉ dùng cho địa điểm, công trình, quốc gia; KHÔNG dùng cho người hoặc đồ vật di động nhỏ (không nói '手机位于桌子上'!).", "common_errors": "Dùng 位于 cho người/vật nhỏ (phải dùng 在).", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l09_w19", "order": 19, "textbook": "HSK 5 上", "lesson": 9,
+      "hanzi": "首", "pinyin": "shǒu",
+      "lesson_usage": { "part_of_speech": "名词 / 量词 (Danh từ / Lượng từ)", "meanings": ["1. (Danh từ) người hoặc vật đứng đầu", "2. (Lượng từ) bài (dùng cho bài hát, bài thơ)"], "meaning": "người (vật) đứng đầu; bài (thơ, hát)", "structure": "(dt) ……之首 / 首先 / 首都; (lượng) 一首歌 / 一首诗", "explanation": "Trong bài khóa dùng nghĩa danh từ cổ '……之首' (đứng đầu trong số...); trong 词语搭配 và Bài tập 1 dùng nghĩa lượng từ cho thơ ca.", "examples": [
+        { "chinese": "位于菜市口附近的广和居是北京“八大居”之首。", "pinyin": "Wèiyú Càishìkǒu fùjìn de Guǎnghéjū shì Běijīng “Bādàjū” zhī shǒu.", "vietnamese": "Quảng Hòa Cư nằm gần Thái Thị Khẩu đứng đầu “Bát Đại Cư” Bắc Kinh.", "from_text": true },
+        { "chinese": "刘半农1920年写了一首题为《教我如何不想她》的小诗，流传至今。", "pinyin": "Liú Bànnóng yījiǔ'èrlíng nián xiě le yì shǒu tíwéi 《Jiāo Wǒ Rúhé Bù Xiǎng Tā》 de xiǎoshī, liúchuán zhìjīn.", "vietnamese": "Năm 1920 Lưu Bán Nông viết một bài thơ ngắn tựa đề “Dạy ta sao chẳng nhớ nàng”, lưu truyền tới tận nay." }
+      ] },
+      "additional_usages": [], "chinese_explanation": "第一、领头；量词，用于诗歌、乐曲。", "collocations": ["……之首", "一首歌", "一首诗", "首都"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l09_w20", "order": 20, "textbook": "HSK 5 上", "lesson": 9,
+      "hanzi": "豪华", "pinyin": "háohuá",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "sang trọng, lộng lẫy, xa hoa", "structure": "算不上豪华 / 豪华酒店 / 装修豪华", "explanation": "Trang hoàng, tiện nghi ở mức đắt giá, lộng lẫy vượt bậc.", "examples": [{ "chinese": "广和居算不上豪华，但却很适合朋友在这里聚会、热闹。", "pinyin": "Guǎnghéjū suànbushàng háohuá, dàn què hěn shìhé péngyou zài zhèlǐ jùhuì, rènao.", "vietnamese": "Quảng Hòa Cư không được coi là sang trọng, nhưng lại rất thích hợp cho bạn bè tụ tập vui vẻ ở đây.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "富丽堂皇，过分奢华气派。", "collocations": ["豪华酒店", "豪华汽车", "装修豪华"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l09_w21", "order": 21, "textbook": "HSK 5 上", "lesson": 9,
+      "hanzi": "光临", "pinyin": "guānglín",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "đến dự, ghé thăm, hay lui tới (kính ngữ)", "structure": "欢迎光临 / 欢迎文人的光临", "explanation": "Kính ngữ trân trọng khi nói khách quý ghé đến cửa hàng, nhà hàng hoặc sự kiện.", "examples": [{ "chinese": "这里特别欢迎文人的光临，为他们的聚会创造了很好的条件。", "pinyin": "Zhèlǐ tèbié huānyíng wénrén de guānglín, wèi tāmen de jùhuì chuàngzào le hěn hǎo de tiáojiàn.", "vietnamese": "Nơi đây đặc biệt hoan nghênh sự ghé thăm của giới văn nhân, tạo điều kiện rất tốt cho những buổi tụ họp của họ.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "敬辞，称宾客来到。", "collocations": ["欢迎光临", "再次光临", "大驾光临"], "usage_note": "Là kính ngữ chỉ dùng cho KHÁCH/ĐỐI PHƯƠNG, tuyệt đối không dùng cho bản thân ('我明天光临你家' là sai!).", "common_errors": "Tự xưng bản thân '光临' nhà người khác.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l09_w22", "order": 22, "textbook": "HSK 5 上", "lesson": 9,
+      "hanzi": "交际", "pinyin": "jiāojì",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "xã giao, sự giao thiệp", "structure": "爱好交际 / 交际能力 / 人际交际", "explanation": "Sự qua lại, kết giao, ứng xử giữa người với người trong xã hội.", "examples": [{ "chinese": "他爱好交际，大方好客，常呼朋唤友。", "pinyin": "Tā àihào jiāojì, dàfang hàokè, cháng hūpéng huànyǒu.", "vietnamese": "Ông thích giao thiệp, hào phóng hiếu khách, thường gọi mời bạn bè tụ tập.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ)", "meanings": ["giao thiệp, giao lưu xã giao"], "structure": "善于交际 / 跟人交际", "difference_note": "Có thể dùng làm vị ngữ động từ chỉ hành động giao lưu tiếp xúc xã hội.", "examples": [{ "chinese": "她性格开朗，很善于跟不同的人交际。", "pinyin": "Tā xìnggé kāilǎng, hěn shànyú gēn bùtóng de rén jiāojì.", "vietnamese": "Cô ấy tính tình cởi mở, rất giỏi giao thiệp với nhiều kiểu người khác nhau." }] }
+      ],
+      "chinese_explanation": "人与人之间的往来接触、应酬。", "collocations": ["爱好交际", "交际能力", "社交交际"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l09_w23", "order": 23, "textbook": "HSK 5 上", "lesson": 9,
+      "hanzi": "大方", "pinyin": "dàfang",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "rộng rãi, hào phóng (không keo kiệt)", "structure": "大方好客 / 很大方", "explanation": "Nghĩa trong bài: không tính toán chi li về tiền bạc, của cải (trái nghĩa với 小气 keo kiệt).", "examples": [{ "chinese": "他爱好交际，大方好客，常呼朋唤友。", "pinyin": "Tā àihào jiāojì, dàfang hàokè, cháng hūpéng huànyǒu.", "vietnamese": "Ông thích xã giao, hào phóng hiếu khách, thường gọi bạn bè tụ họp.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "形容词 (Nghĩa 2: tự nhiên, nhã nhặn)", "meanings": ["tự nhiên, đàng hoàng (cử chỉ); trang nhã, lịch sự (kiểu dáng trang phục)"], "structure": "举止大方 / 穿着大方 / 款式大方", "difference_note": "Miêu tả phong thái tự tin không rụt rè, hoặc trang phục nhã nhặn đẹp mắt.", "examples": [{ "chinese": "这件衣服颜色简单，款式很大方。", "pinyin": "Zhè jiàn yīfu yánsè jiǎndān, kuǎnshì hěn dàfang.", "vietnamese": "Chiếc áo này màu sắc đơn giản, kiểu dáng rất trang nhã." }] }
+      ],
+      "chinese_explanation": "不吝啬；举止自然不拘束；样式端庄美观。", "collocations": ["大方好客", "举止大方", "款式大方"], "usage_note": "Chữ 方 đọc thanh nhẹ: dàfang.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l09_w24", "order": 24, "textbook": "HSK 5 上", "lesson": 9,
+      "hanzi": "好客", "pinyin": "hàokè",
+      "lesson_usage": { "part_of_speech": "动词 / 形容词 (Động từ / Tính từ)", "meaning": "hiếu khách, mến khách", "structure": "热情好客 / 大方好客", "explanation": "Yêu thích việc tiếp đón, chiêu đãi bạn bè và khách đến chơi.", "examples": [{ "chinese": "他爱好交际，大方好客，常呼朋唤友。", "pinyin": "Tā àihào jiāojì, dàfang hàokè, cháng hūpéng huànyǒu.", "vietnamese": "Ông thích xã giao, hào phóng hiếu khách, thường gọi mời bạn bè.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "喜欢接待客人，对客人热情。", "collocations": ["热情好客", "大方好客"], "usage_note": "Chú ý chữ 好 đọc thanh 4 (hào – ưa thích, giống 爱好 àihào), không đọc hǎo!", "common_errors": "Đọc nhầm thành hǎokè (phải là hàokè).", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l09_w25", "order": 25, "textbook": "HSK 5 上", "lesson": 9,
+      "hanzi": "呼朋唤友", "pinyin": "hūpéng huànyǒu",
+      "lesson_usage": { "part_of_speech": "成语 (Thành ngữ)", "meaning": "mời mọc bạn bè, tập hợp bạn bè, gọi bạn gọi bè", "structure": "常呼朋唤友", "explanation": "Kêu gọi bạn bè cùng nhau tụ tập, vui chơi hoặc ăn uống.", "examples": [{ "chinese": "他爱好交际，大方好客，常呼朋唤友，多数是三五个人一起吃。", "pinyin": "Tā àihào jiāojì, dàfang hàokè, cháng hūpéng huànyǒu, duōshù shì sānwǔ ge rén yìqǐ chī.", "vietnamese": "Ông thích giao thiệp, rộng rãi mến khách, thường gọi mời bạn bè, đa số là ba năm người cùng ăn.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "招呼朋友聚在一起。", "collocations": ["常呼朋唤友"], "usage_note": "呼 = gọi, 唤 = mời gọi; 朋 = bạn, 友 = bè.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l09_w26", "order": 26, "textbook": "HSK 5 上", "lesson": 9,
+      "hanzi": "招待", "pinyin": "zhāodài",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "chiêu đãi, thết đãi, tiếp đón", "structure": "招待朋友 / 招待客人 / 热情招待", "explanation": "Đón tiếp và phục vụ ăn uống, nghỉ ngơi chu đáo cho khách.", "examples": [{ "chinese": "有时甚至会直接让广和居送外卖到家里，在家招待朋友。", "pinyin": "Yǒushí shènzhì huì zhíjiē ràng Guǎnghéjū sòng wàimài dào jiāli, zài jiā zhāodài péngyou.", "vietnamese": "Có lúc thậm chí còn bảo Quảng Hòa Cư giao đồ ăn thẳng về nhà để chiêu đãi bạn bè tại gia.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "对宾客或顾客表示欢迎并给予应有的待遇。", "collocations": ["招待客人", "招待朋友", "热情招待"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l09_w27", "order": 27, "textbook": "HSK 5 上", "lesson": 9,
+      "hanzi": "高档", "pinyin": "gāodàng",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "hảo hạng, cao cấp", "structure": "高档(的) + 礼品 / 家具 / 服装 / 菜 / 餐厅", "explanation": "Phẩm cấp, chất lượng và giá trị ở bậc cao (trái nghĩa với 低档).", "examples": [{ "chinese": "那里的菜既有高档的，也有适合普通百姓的，样样都让人有胃口。", "pinyin": "Nàlǐ de cài jì yǒu gāodàng de, yě yǒu shìhé pǔtōng bǎixìng de, yàngyàng dōu ràng rén yǒu wèikǒu.", "vietnamese": "Món ăn ở đó vừa có món cao cấp, vừa có món hợp với dân thường, món nào cũng khiến người ta ngon miệng.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "等级高、品质优良的。", "collocations": ["高档礼品", "高档家具", "高档服装", "高档餐厅"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l09_w28", "order": 28, "textbook": "HSK 5 上", "lesson": 9,
+      "hanzi": "胃口", "pinyin": "wèikǒu",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "khẩu vị, sự thèm ăn", "structure": "有胃口 / 没胃口 / 胃口好 / 合胃口", "explanation": "Cảm giác ngon miệng, muốn ăn uống.", "examples": [{ "chinese": "样样都让人有胃口。", "pinyin": "Yàngyàng dōu ràng rén yǒu wèikǒu.", "vietnamese": "Món nào món nấy đều khiến người ta thấy ngon miệng.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Nghĩa bóng)", "meanings": ["hứng thú, sở thích, tham vọng"], "structure": "合某人的胃口 / 吊胃口", "difference_note": "Nghĩa mở rộng chỉ sự hứng thú đối với nội dung/sự việc nào đó.", "examples": [{ "chinese": "这部电影很合年轻观众的胃口。", "pinyin": "Zhè bù diànyǐng hěn hé niánqīng guānzhòng de wèikǒu.", "vietnamese": "Bộ phim này rất hợp gu của khán giả trẻ." }] }
+      ],
+      "chinese_explanation": "食欲；比喻对事物或活动的兴趣、欲望。", "collocations": ["有胃口", "没什么胃口", "合胃口", "胃口很好"], "usage_note": "Phân biệt với 胃 (cơ quan dạ dày): Bài tập 2 câu 3 tr.89 '我今天胃不太舒服，所以没什么胃口'!", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l09_w29", "order": 29, "textbook": "HSK 5 上", "lesson": 9,
+      "hanzi": "明明", "pinyin": "míngmíng",
+      "lesson_usage": { "part_of_speech": "副词 (Phó từ)", "meaning": "rõ ràng, rành rành là", "structure": "明明 + Sự thật hiển nhiên，却/怎么……", "explanation": "Nhấn mạnh một sự thật hiển nhiên không thể chối cãi, thường đứng trước vế chuyển ngoặt (却, 但是) hoặc câu phản vấn (怎么……呢).", "examples": [{ "chinese": "虽然明明知道自己有胃病，不应该喝酒，但却很难戒掉。", "pinyin": "Suīrán míngmíng zhīdào zìjǐ yǒu wèibìng, bù yīnggāi hējiǔ, dàn què hěn nán jièdiào.", "vietnamese": "Tuy rõ ràng biết mình bị đau dạ dày, không nên uống rượu, nhưng lại rất khó cai bỏ.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "显然如此，确实（常与反问或转折连用）。", "collocations": ["明明知道", "明明是个优点", "明明是他不对"], "usage_note": "Xem Bài tập 3 câu 4 tr.89: '这怎么是个缺点呢？明明是个优点呀！'", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l09_w30", "order": 30, "textbook": "HSK 5 上", "lesson": 9,
+      "hanzi": "胃", "pinyin": "wèi",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "dạ dày, bao tử", "structure": "胃病 / 胃疼 / 胃不太舒服", "explanation": "Cơ quan tiêu hóa thức ăn trong cơ thể người và động vật.", "examples": [{ "chinese": "虽然明明知道自己有胃病，不应该喝酒，但却很难戒掉。", "pinyin": "Suīrán míngmíng zhīdào zìjǐ yǒu wèibìng, bù yīnggāi hējiǔ, dàn què hěn nán jièdiào.", "vietnamese": "Dù biết rõ mình có bệnh dạ dày không nên uống rượu, nhưng rất khó bỏ được.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "人或动物消化器官的一部分。", "collocations": ["胃病", "胃疼", "胃不太舒服"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l09_w31", "order": 31, "textbook": "HSK 5 上", "lesson": 9,
+      "hanzi": "戒", "pinyin": "jiè",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "cai, bỏ (thói quen xấu/chất gây nghiện)", "structure": "戒烟 / 戒酒 / 戒掉", "explanation": "Quyết tâm từ bỏ hẳn một thói quen có hại như hút thuốc, uống rượu.", "examples": [{ "chinese": "虽然明明知道自己有胃病，不应该喝酒，但却很难戒掉。", "pinyin": "Suīrán míngmíng zhīdào zìjǐ yǒu wèibìng, bù yīnggāi hējiǔ, dàn què hěn nán jièdiào.", "vietnamese": "Dù rõ ràng biết mình bị đau dạ dày không nên uống rượu nhưng rất khó cai bỏ.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "革除不良嗜好。", "collocations": ["戒烟", "戒酒", "戒掉坏习惯"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l09_w32", "order": 32, "textbook": "HSK 5 上", "lesson": 9,
+      "hanzi": "保存", "pinyin": "bǎocún",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "giữ gìn, bảo tồn, lưu giữ", "structure": "保存 + 资料/食物/文件 / 保存几百年/完好/至今", "explanation": "Cất giữ, bảo quản để vật thể, thực phẩm, tài liệu hay di tích không bị hư hại hay thất lạc.", "examples": [{ "chinese": "现在保存的历史资料记载，他和郁达夫一起喝酒的次数最多。", "pinyin": "Xiànzài bǎocún de lìshǐ zīliào jìzǎi, tā hé Yù Dáfū yìqǐ hējiǔ de cìshù zuì duō.", "vietnamese": "Tư liệu lịch sử còn lưu giữ đến nay ghi chép rằng ông cùng Úc Đạt Phu uống rượu với nhau nhiều lần nhất.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "使事物、性质、意义、作风等继续存在，不受损失或不发生变化。", "collocations": ["保存历史资料", "保存完好", "保存至今", "不易保存"], "usage_note": "Cũng dùng rất phổ biến trong tin học nghĩa 'lưu file (Save)': 保存文件.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l09_w33", "order": 33, "textbook": "HSK 5 上", "lesson": 9,
+      "hanzi": "资料", "pinyin": "zīliào",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "tài liệu, tư liệu", "structure": "历史资料 / 查资料 / 复习资料", "explanation": "Văn bản, số liệu, thông tin dùng cho nghiên cứu, học tập hay công việc.", "examples": [{ "chinese": "现在保存的历史资料记载，他和郁达夫一起喝酒的次数最多。", "pinyin": "Xiànzài bǎocún de lìshǐ zīliào jìzǎi, tā hé Yù Dáfū yìqǐ hējiǔ de cìshù zuì duō.", "vietnamese": "Các tư liệu lịch sử hiện còn lưu giữ ghi lại rằng số lần ông uống rượu cùng Úc Đạt Phu là nhiều nhất.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "用作参考的材料、数据或文件。", "collocations": ["历史资料", "查资料", "学习资料", "个人资料"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l09_w34", "order": 34, "textbook": "HSK 5 上", "lesson": 9,
+      "hanzi": "曾经", "pinyin": "céngjīng",
+      "lesson_usage": { "part_of_speech": "副词 (Phó từ)", "meaning": "đã từng", "structure": "S + 曾经 + V (+ 过)", "explanation": "Biểu thị trong quá khứ đã từng xảy ra hành vi hoặc tình trạng nào đó (thường nhấn mạnh đến nay đã kết thúc hoặc khác trước).", "examples": [{ "chinese": "郁达夫在1933年曾经作诗形容他：“醉眼蒙胧上酒楼，彷徨呐喊两悠悠”，描写得十分形象。", "pinyin": "Yù Dáfū zài yījiǔsānsān nián céngjīng zuòshī xíngróng tā: “Zuìyǎn ménglóng shàng jiǔlóu, Pánghuáng Nàhǎn liǎng yōuyōu”, miáoxiě de shífēn xíngxiàng.", "vietnamese": "Năm 1933, Úc Đạt Phu từng làm thơ miêu tả ông: “Mắt say mơ màng lên lầu rượu, Bàng hoàng Gào thét hai vần ung dung”, khắc họa vô cùng sinh động.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "表示从前有过某种行为或情况。", "collocations": ["曾经说过", "曾经去过", "曾经做过"], "usage_note": "Phân biệt với 已经 (đã hoàn thành/đạt đến trạng thái, vẫn có thể tiếp diễn đến hiện tại): Bài tập 2 câu 4 tr.89 '人们曾经把西红柿当做有害的果子' (trước đây từng tưởng vậy, giờ hết rồi → dùng 曾经!).", "common_errors": "Dùng nhầm 已经 thay vì 曾经 cho việc chỉ xảy ra trong quá khứ và nay không còn nữa.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l09_w35", "order": 35, "textbook": "HSK 5 上", "lesson": 9,
+      "hanzi": "形容", "pinyin": "xíngróng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "hình dung, miêu tả", "structure": "形容 + Người/Vật / 用……来形容", "explanation": "Dùng lời nói, văn chương để khắc họa dáng vẻ, tính chất của người hay sự vật.", "examples": [{ "chinese": "郁达夫在1933年曾经作诗形容他。", "pinyin": "Yù Dáfū zài yījiǔsānsān nián céngjīng zuòshī xíngróng tā.", "vietnamese": "Úc Đạt Phu năm 1933 đã từng làm thơ miêu tả ông.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "对事物的形象或性质加以描述。", "collocations": ["作诗形容", "无法形容", "形容词"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l09_w36", "order": 36, "textbook": "HSK 5 上", "lesson": 9, "is_out_of_syllabus": true,
+      "hanzi": "朦胧", "pinyin": "ménglóng",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "lờ mờ, mơ màng, mờ ảo", "structure": "醉眼蒙胧(朦胧) / 月色朦胧", "explanation": "Không rõ ràng, lờ mờ (như ánh trăng mờ hoặc ánh mắt ngà ngà say, ngái ngủ).", "examples": [{ "chinese": "醉眼蒙胧上酒楼，彷徨呐喊两悠悠。", "pinyin": "Zuìyǎn ménglóng shàng jiǔlóu, Pánghuáng Nàhǎn liǎng yōuyōu.", "vietnamese": "Mắt say mơ màng bước lên lầu rượu, Bàng hoàng Gào thét hai nỗi ung dung.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "不清楚、模糊（多指月光、景色或神志眼神）。", "collocations": ["月色朦胧", "睡眼朦胧", "醉眼蒙胧"], "usage_note": "Trong câu thơ gốc trích ở bài khóa tr.85 viết 蒙胧 (khi nói ánh mắt lơ mơ có thể viết 蒙胧 hoặc 朦胧; bảng từ vựng tr.85 ghi dạng chuẩn hiện đại 朦胧).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l09_w37", "order": 37, "textbook": "HSK 5 上", "lesson": 9, "is_out_of_syllabus": true,
+      "hanzi": "悠悠", "pinyin": "yōuyōu",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "thong thả, ung dung; dài dằng dặc", "structure": "两悠悠 / 悠悠岁月", "explanation": "Miêu tả dáng vẻ nhàn nhã, thong dong hoặc nỗi niềm sâu lắng, kéo dài.", "examples": [{ "chinese": "醉眼蒙胧上酒楼，彷徨呐喊两悠悠。", "pinyin": "Zuìyǎn ménglóng shàng jiǔlóu, Pánghuáng Nàhǎn liǎng yōuyōu.", "vietnamese": "Mắt say lờ mờ bước lên lầu rượu, Bàng hoàng Gào thét hai nỗi ung dung.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "形容从容不迫或长久、深远。", "collocations": ["两悠悠", "悠悠岁月"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l09_w38", "order": 38, "textbook": "HSK 5 上", "lesson": 9,
+      "hanzi": "形象", "pinyin": "xíngxiàng",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "sinh động, giàu hình tượng", "structure": "描写得(十分)形象 / 形象生动", "explanation": "Miêu tả cụ thể, sống động như hiện ra ngay trước mắt người đọc/người nghe.", "examples": [{ "chinese": "描写得十分形象。", "pinyin": "Miáoxiě de shífēn xíngxiàng.", "vietnamese": "Miêu tả vô cùng sinh động.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["hình tượng, ngoại hình, hình ảnh (cá nhân/thương hiệu)"], "structure": "形象好 / 人物形象 / 公司形象", "difference_note": "Xuất hiện ngay trong Bài tập 1 câu 6 tr.88 ('公司这次要求招聘形象好的职员').", "examples": [{ "chinese": "公司这次要求招聘形象好的职员。", "pinyin": "Gōngsī zhè cì yāoqiú zhāopìn xíngxiàng hǎo de zhíyuán.", "vietnamese": "Công ty lần này yêu cầu tuyển dụng nhân viên có ngoại hình/hình ảnh đẹp." }] }
+      ],
+      "chinese_explanation": "描绘生动具体；能引起人的思想或感情活动的具体形状或姿态。", "collocations": ["描写得十分形象", "形象好", "人物形象", "品牌形象"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    }
+  ],
+  "proper_nouns": [
+    { "hanzi": "鲁迅", "pinyin": "Lǔ Xùn", "meaning": "Lỗ Tấn (1881–1936) (nhà văn nổi tiếng của Trung Quốc)" },
+    { "hanzi": "民国（中华民国，1912–1949）", "pinyin": "Mínguó (Zhōnghuá Mínguó)", "meaning": "Dân Quốc (Trung Hoa Dân Quốc, 1912–1949)" },
+    { "hanzi": "稻香村", "pinyin": "Dàoxiāngcūn", "meaning": "Đạo Hương Thôn (tên tiệm bánh)" },
+    { "hanzi": "广和居", "pinyin": "Guǎnghéjū", "meaning": "Quảng Hòa Cư (tên nhà hàng)" },
+    { "hanzi": "菜市口", "pinyin": "Càishìkǒu", "meaning": "Thái Thị Khẩu (địa danh)" },
+    { "hanzi": "郁达夫", "pinyin": "Yù Dáfū", "meaning": "Úc Đạt Phu (1896–1945) (nhà văn nổi tiếng của Trung Quốc)" },
+    { "hanzi": "《彷徨》", "pinyin": "Pánghuáng", "meaning": "Bàng hoàng (tên một tập truyện ngắn của Lỗ Tấn)" },
+    { "hanzi": "《呐喊》", "pinyin": "Nàhǎn", "meaning": "Gào thét (tên một tập truyện ngắn của Lỗ Tấn)" }
+  ],
+  "collocations_table": [
+    { "relation": "Động từ + Tân ngữ", "head": "讲究", "partners": "吃 / 穿 / 卫生 / 方法" },
+    { "relation": "Động từ + Tân ngữ", "head": "戒", "partners": "烟 / 酒" },
+    { "relation": "Định ngữ + Trung tâm ngữ", "head": "地道的", "partners": "普通话 / 北京小吃" },
+    { "relation": "Định ngữ + Trung tâm ngữ", "head": "高档（的）", "partners": "礼品 / 家具 / 服装（fúzhuāng, trang phục）" },
+    { "relation": "Trung tâm ngữ + Bổ ngữ", "head": "算", "partners": "得上 / 不上" },
+    { "relation": "Trung tâm ngữ + Bổ ngữ", "head": "保存", "partners": "几百年 / 完好 / 至今" },
+    { "relation": "Số lượng từ + Danh từ", "head": "一条/个", "partners": "胡同" },
+    { "relation": "Số lượng từ + Danh từ", "head": "一首", "partners": "歌 / 诗" },
+    { "relation": "Chủ ngữ + Vị ngữ", "head": "表现", "partners": "（很）好 / 突出 / 稳定" },
+    { "relation": "Chủ ngữ + Vị ngữ", "head": "描写", "partners": "（很）形象" }
+  ],
+  "grammar": [
+    {
+      "title": "算",
+      "formula": "(1) (就)算(是) + N/V (coi là, xem như là)  |  (2) 算得上 / 算不上  |  (3) 算了(吧) (thôi bỏ đi, thôi không tính toán nữa)",
+      "meaning": "Coi là, xem là; (算了) thôi bỏ qua.",
+      "usage": "Động từ biểu thị sự nhìn nhận, đánh giá một đối tượng thuộc loại nào đó ('认作，当作'). Khi kết hợp với 了 thành '算了', biểu thị thôi không làm nữa hoặc không so đo nữa.",
+      "context": "Dùng rất linh hoạt trong cả đánh giá khách quan lẫn hội thoại đời thường.",
+      "examples": [
+        { "chinese": "例如著名的文学家鲁迅，在吃喝这件事上，就算是个地道的行家。", "pinyin": "Lìrú zhùmíng de wénxuéjiā Lǔ Xùn, zài chīhē zhè jiàn shì shang, jiù suàn shì ge dìdao de hángjia.", "vietnamese": "Ví dụ nhà văn nổi tiếng Lỗ Tấn, trong chuyện ăn uống thì cũng coi là một tay sành điệu đích thực." },
+        { "chinese": "这钱就算我借给你的，将来你有了的时候再还我。", "pinyin": "Zhè qián jiù suàn wǒ jiègěi nǐ de, jiānglái nǐ yǒu le de shíhou zài huán wǒ.", "vietnamese": "Khoản tiền này cứ coi như tôi cho cậu mượn, sau này có tiền rồi trả tôi." },
+        { "chinese": "不就是一个空瓶子吗？扔掉算了。", "pinyin": "Bú jiùshì yí ge kōng píngzi ma? Rēngdiào suàn le.", "vietnamese": "Chẳng phải chỉ là cái chai rỗng sao? Vứt đi cho xong." },
+        { "chinese": "算了吧，你跑得再快，也追不上会飞的鸟啊。", "pinyin": "Suàn le ba, nǐ pǎo de zài kuài, yě zhuībúshàng huì fēi de niǎo a.", "vietnamese": "Thôi bỏ đi, cậu chạy nhanh đến mấy cũng chẳng đuổi kịp chim biết bay đâu." }
+      ],
+      "important_notes": "Chú ý kết hợp bổ ngữ khả năng: 算得上 (xứng đáng được coi là) / 算不上 (không thể coi là).",
+      "common_errors": "Trong Bài tập 3 câu 1 tr.89: '这事你找我商量算找对人了' (đặt 算 trước động từ kết luận 找对人了).",
+      "comparison": "",
+      "mini_practice": [
+        { "prompt": "从我家去公司，坐几站地铁就到了，______________________。（算）", "sample_answer": "算比较近的了", "explanation": "Dùng 算 biểu thị đánh giá 'coi như là khá gần rồi'." },
+        { "prompt": "A: 电影几点开始？吃好饭再去，时间是不是有点儿紧张啊？  B: ______________________。（算了）", "sample_answer": "那我们算了吧，明天再去看。", "explanation": "Dùng 算了 biểu thị thôi bỏ qua kế hoạch hôm nay." }
+      ]
+    },
+    {
+      "title": "作为",
+      "formula": "(1) Động từ: 把 A 作为 B / 作为……  |  (2) Giới từ: 作为 + Thân phận/Tính chất，S + V……",
+      "meaning": "1. Coi như, xem làm · 2. Với tư cách là, là...",
+      "usage": "(1) Làm động từ nghĩa tương đương '看作，认为是……' (thường đi trong câu chữ 把 hoặc làm vị ngữ); (2) Làm giới từ dùng để dẫn ra thân phận của con người hoặc tính chất của sự vật ở đầu câu hay trước vị ngữ.",
+      "context": "Cấu trúc cực kỳ thông dụng trong viết luận, giới thiệu nhân vật và phát biểu trang trọng.",
+      "examples": [
+        { "chinese": "北海公园离家最近，所以我把那儿作为每晚散步的去处。", "pinyin": "Běihǎi Gōngyuán lí jiā zuì jìn, suǒyǐ wǒ bǎ nàr zuòwéi měiwǎn sànbù de qùchù.", "vietnamese": "Công viên Bắc Hải gần nhà nhất, nên tôi coi nơi ấy là chỗ đi dạo mỗi tối." },
+        { "chinese": "经理要请我去吃顿饭，说是作为我加班的表扬。", "pinyin": "Jīnglǐ yào qǐng wǒ qù chī dùn fàn, shuō shì zuòwéi wǒ jiābān de biǎoyáng.", "vietnamese": "Giám đốc muốn mời tôi đi ăn một bữa, bảo coi như lời khen ngợi cho việc tôi tăng ca." },
+        { "chinese": "作为大作家、大学问家，鲁迅对吃很讲究，吃的内容在他的日记里占了很大一部分。", "pinyin": "Zuòwéi dà zuòjiā, dà xuéwenjiā, Lǔ Xùn duì chī hěn jiǎngjiu, chī de nèiróng zài tā de rìjì li zhàn le hěn dà yí bùfen.", "vietnamese": "Với tư cách là đại văn hào, đại học giả, Lỗ Tấn rất cầu kỳ trong ăn uống, nội dung về chuyện ăn chiếm phần lớn nhật ký của ông." },
+        { "chinese": "西红柿是世界上种植非常普遍的蔬菜，中国作为主要生产国之一也在扩大它的种植面积。", "pinyin": "Xīhóngshì shì shìjiè shang zhòngzhí fēicháng pǔbiàn de shūcài, Zhōngguó zuòwéi zhǔyào shēngchǎnguó zhī yī yě zài kuòdà tā de zhòngzhí miànjī.", "vietnamese": "Cà chua là loại rau được trồng rất phổ biến trên thế giới, Trung Quốc với tư cách là một trong các nước sản xuất chính cũng đang mở rộng diện tích trồng." }
+      ],
+      "important_notes": "Khi 作为 làm giới từ đứng đầu câu ('作为一名医生，……'), chủ ngữ của vế sau phải thống nhất với thân phận đó!",
+      "common_errors": "",
+      "comparison": "Khi làm động từ nghĩa 'coi như', gần nghĩa với 当作 (khẩu ngữ hơn) và 算 (thiên về đánh giá).",
+      "mini_practice": [
+        { "prompt": "______________________，治病救人是我们的职责。（作为）", "sample_answer": "作为一名医生", "explanation": "Giới từ 作为 dẫn ra thân phận nghề nghiệp 'với tư cách là một bác sĩ'." },
+        { "prompt": "A: 你做的面包比外边卖的都好吃，你真应该开个店。  B: 我喜欢现在的工作，______________________。（作为）", "sample_answer": "只是把做面包作为业余爱好而已", "explanation": "Động từ 作为 trong câu chữ 把: '把做面包作为爱好' (chỉ coi làm bánh là sở thích)." }
+      ]
+    },
+    {
+      "title": "曾经",
+      "formula": "S + 曾经 + V (+ 过)",
+      "meaning": "Đã từng.",
+      "usage": "Phó từ biểu thị trước đây từng có hành vi nào đó hoặc từng xuất hiện tình huống nào đó (thường nhấn mạnh việc thuộc về quá khứ, nay không còn tiếp diễn nữa).",
+      "context": "Dùng trong hồi ức, tiểu sử, kể chuyện lịch sử.",
+      "examples": [
+        { "chinese": "郁达夫在1933年曾经作诗形容他：“醉眼蒙胧上酒楼，彷徨呐喊两悠悠”，描写得十分形象。", "pinyin": "Yù Dáfū zài yījiǔsānsān nián céngjīng zuòshī xíngróng tā: “Zuìyǎn ménglóng shàng jiǔlóu, Pánghuáng Nàhǎn liǎng yōuyōu”, miáoxiě de shífēn xíngxiàng.", "vietnamese": "Năm 1933 Úc Đạt Phu từng làm thơ miêu tả ông: “Mắt say mơ màng lên lầu rượu, Bàng hoàng Gào thét hai nỗi ung dung”, khắc họa vô cùng sinh động." },
+        { "chinese": "鲁迅曾经说他是将别人喝牛奶、咖啡的时间用来学习。", "pinyin": "Lǔ Xùn céngjīng shuō tā shì jiāng biérén hē niúnǎi, kāfēi de shíjiān yònglái xuéxí.", "vietnamese": "Lỗ Tấn từng nói ông đem thời gian người khác uống sữa, uống cà phê dùng vào việc học tập." },
+        { "chinese": "孔子曾经带着学生周游各国14年，传播他的思想。", "pinyin": "Kǒngzǐ céngjīng dàizhe xuésheng zhōuyóu gèguó shísì nián, chuánbō tā de sīxiǎng.", "vietnamese": "Khổng Tử từng dẫn học trò chu du khắp các nước 14 năm để truyền bá tư tưởng của mình." }
+      ],
+      "important_notes": "Phân biệt với 已经: 曾经 chỉ chuyện đã xảy ra trong quá khứ (nay đã chấm dứt/thay đổi), còn 已经 chỉ việc đã xong hoặc trạng thái đã đạt được (vẫn tiếp tục tới hiện tại).",
+      "common_errors": "Sai: '他曾经离开这里十分钟了' → Phải dùng '已经'.",
+      "comparison": "曾经 (đã từng, nhấn mạnh trải nghiệm quá khứ) vs 已经 (đã, nhấn mạnh kết quả/trạng thái hiện tại).",
+      "mini_practice": [
+        { "prompt": "A: 你和李阳好像很熟啊，你们以前就认识？  B: 对，______________________。（曾经）", "sample_answer": "我们曾经是大学同学", "explanation": "Dùng 曾经 kể mối quan hệ đã từng có trong quá khứ." },
+        { "prompt": "A: 你来北京才半年，汉语怎么说得这么好？  B: 哦，是这样的，______________________。（曾经）", "sample_answer": "我以前曾经在自己国家学过两年汉语", "explanation": "Kết hợp 曾经……过 nêu trải nghiệm học trước đây." }
+      ]
+    }
+  ],
+  "comparison_section": {
+    "label": "词语辨析 Phân biệt từ ngữ",
+    "pair": "亲自 — 自己",
+    "term_a": "亲自 (qīnzì)",
+    "term_b": "自己 (zìjǐ)",
+    "similarity": "Đều mang nghĩa tự bản thân (本人). VD: （鲁迅）不但会吃，还会亲自/自己动手做。",
+    "differences": [
+      { "criterion": "Từ loại & chức năng cú pháp", "a": "Là PHÓ TỪ, thường đứng giữa chủ ngữ và động từ (làm trạng ngữ). VD: 老人总是亲自喂养他的猴子。", "b": "Là ĐẠI TỪ, có thể làm chủ ngữ, tân ngữ, định ngữ… VD: 请大家带好自己的资料。" },
+      { "criterion": "Đối tượng & sắc thái sử dụng", "a": "Thường dùng cho người có thân phận, địa vị khá cao, hoặc việc bình thường ít khi tự tay làm. VD: 这份礼物是市长亲自为生病的小女孩儿做的。", "b": "Nhấn mạnh người thực hiện hành động là chính bản thân chứ không phải người khác. VD: 你应该自己努力学习，不能总是靠别人。" }
+    ]
+  },
+  "texts": [
+    {
+      "id": "t1", "title_zh": "别样鲁迅（648字）", "title_vi": "Một Lỗ Tấn khác",
+      "lines": [
+        { "speaker": "", "chinese": "美食很大一部分是靠名人推动的，这一点在民国时期表现得尤其突出。例如著名的文学家鲁迅，在吃喝这件事上，就算是个地道的行家，不但会吃，还会亲自动手做，对许多美食都有独特的见解。这是近代新时尚。", "pinyin": "Měishí hěn dà yí bùfen shì kào míngrén tuīdòng de, zhè yìdiǎn zài Mínguó shíqī biǎoxiàn de yóuqí tūchū. Lìrú zhùmíng de wénxuéjiā Lǔ Xùn, zài chīhē zhè jiàn shì shang, jiù suàn shì ge dìdao de hángjia, búdàn huì chī, hái huì qīnzì dòngshǒu zuò, duì xǔduō měishí dōu yǒu dútè de jiànjiě. Zhè shì jìndài xīn shíshàng.", "vietnamese": "Ẩm thực phần lớn nhờ vào các danh nhân thúc đẩy, điểm này thể hiện đặc biệt nổi bật vào thời Dân Quốc. Ví dụ nhà văn nổi tiếng Lỗ Tấn, trong chuyện ăn uống thì cũng coi là một tay sành sỏi đích thực, không chỉ biết thưởng thức mà còn đích thân bắt tay vào làm, có những kiến giải độc đáo về nhiều món ngon. Đây là mốt mới của thời cận đại." },
+        { "speaker": "", "chinese": "北京是鲁迅长期生活过的城市，仅从这一时期鲁迅写作的日记中，我们发现他去过的知名餐馆就有65家，另外，他还很爱吃稻香村的点心。作为大作家、大学问家，鲁迅对吃很讲究，吃的内容在他的日记里占了很大一部分。在众多餐馆里，鲁迅去得最多、最喜欢的是广和居，平均每周都要去一次。", "pinyin": "Běijīng shì Lǔ Xùn chángqī shēnghuóguo de chéngshì, jǐn cóng zhè yì shíqī Lǔ Xùn xiězuò de rìjì zhōng, wǒmen fāxiàn tā qùguo de zhīmíng cānguǎn jiù yǒu liùshíwǔ jiā, lìngwài, tā hái hěn ài chī Dàoxiāngcūn de diǎnxin. Zuòwéi dà zuòjiā, dà xuéwenjiā, Lǔ Xùn duì chī hěn jiǎngjiu, chī de nèiróng zài tā de rìjì li zhàn le hěn dà yí bùfen. Zài zhòngduō cānguǎn li, Lǔ Xùn qù de zuì duō, zuì xǐhuan de shì Guǎnghéjū, píngjūn měi zhōu dōu yào qù yí cì.", "vietnamese": "Bắc Kinh là thành phố Lỗ Tấn từng sống lâu dài; chỉ tính riêng trong nhật ký Lỗ Tấn viết thời kỳ này, chúng ta đã thấy có tới 65 nhà hàng danh tiếng ông từng ghé thăm; ngoài ra ông còn rất mê bánh ngọt của tiệm Đạo Hương Thôn. Là một đại văn hào, đại học giả, Lỗ Tấn rất cầu kỳ trong ăn uống, chuyện ăn uống chiếm phần rất lớn trong nhật ký của ông. Trong đông đảo hàng quán, nơi Lỗ Tấn đi nhiều nhất và thích nhất là Quảng Hòa Cư, tính trung bình mỗi tuần đều ghé một lần." },
+        { "speaker": "", "chinese": "鲁迅经常到这家店的一个重要原因是距离近，广和居的大门就在他当时住的胡同的斜对面。位于菜市口附近的广和居是北京“八大居”之首，在民国时期非常出名。广和居算不上豪华，但却很适合朋友在这里聚会、热闹。这里特别欢迎文人的光临，为他们的聚会创造了很好的条件。广和居院里分成大小不同的各种房间，有一个人的，有三五人小聚的，也有十多个人大聚会的。这大大满足了鲁迅爱和朋友吃饭的要求。他爱好交际，大方好客，常呼朋唤友，多数是三五个人一起吃，有时甚至会直接让广和居送外卖到家里，在家招待朋友。当然最重要的还是因为广和居有鲁迅喜欢的菜。那里的菜既有高档的，也有适合普通百姓的，样样都让人有胃口。", "pinyin": "Lǔ Xùn jīngcháng dào zhè jiā diàn de yí ge zhòngyào yuányīn shì jùlí jìn, Guǎnghéjū de dàmén jiù zài tā dāngshí zhù de hútòng de xiéduìmiàn. Wèiyú Càishìkǒu fùjìn de Guǎnghéjū shì Běijīng “Bādàjū” zhī shǒu, zài Mínguó shíqī fēicháng chūmíng. Guǎnghéjū suànbushàng háohuá, dàn què hěn shìhé péngyou zài zhèlǐ jùhuì, rènao. Zhèlǐ tèbié huānyíng wénrén de guānglín, wèi tāmen de jùhuì chuàngzào le hěn hǎo de tiáojiàn. Guǎnghéjū yuàn li fēnchéng dàxiǎo bùtóng de gèzhǒng fángjiān, yǒu yí ge rén de, yǒu sānwǔ rén xiǎojù de, yě yǒu shí duō ge rén dà jùhuì de. Zhè dàdà mǎnzú le Lǔ Xùn ài hé péngyou chīfàn de yāoqiú. Tā àihào jiāojì, dàfang hàokè, cháng hūpéng huànyǒu, duōshù shì sānwǔ ge rén yìqǐ chī, yǒushí shènzhì huì zhíjiē ràng Guǎnghéjū sòng wàimài dào jiāli, zài jiā zhāodài péngyou. Dāngrán zuì zhòngyào de háishi yīnwèi Guǎnghéjū yǒu Lǔ Xùn xǐhuan de cài. Nàlǐ de cài jì yǒu gāodàng de, yě yǒu shìhé pǔtōng bǎixìng de, yàngyàng dōu ràng rén yǒu wèikǒu.", "vietnamese": "Một lý do quan trọng khiến Lỗ Tấn hay tới quán này là vì khoảng cách gần, cổng lớn Quảng Hòa Cư nằm ngay đối diện chéo con ngõ ông ở hồi đó. Nằm gần Thái Thị Khẩu, Quảng Hòa Cư đứng đầu “Bát Đại Cư” Bắc Kinh, rất nổi tiếng thời Dân Quốc. Quảng Hòa Cư tuy chẳng thể coi là xa hoa nhưng lại rất hợp để bạn bè tụ họp, rôm rả. Nơi đây đặc biệt chào đón giới văn nhân ghé thăm, tạo điều kiện rất tốt cho những buổi họp mặt của họ. Trong sân Quảng Hòa Cư chia đủ loại phòng to nhỏ khác nhau: phòng cho một người, phòng tụ tập nhỏ ba năm người, và cả phòng tiệc lớn hơn mười người. Điều này đáp ứng trọn vẹn sở thích ăn cơm cùng bạn bè của Lỗ Tấn. Ông thích giao thiệp, hào phóng hiếu khách, thường gọi mời bạn bè, phần đông là ba năm người cùng ăn, có khi thậm chí còn bảo Quảng Hòa Cư giao đồ ăn tận nhà để chiêu đãi bạn bè tại gia. Đương nhiên quan trọng nhất vẫn là vì Quảng Hòa Cư có món Lỗ Tấn thích. Món ăn ở đó vừa có món cao cấp vừa có món hợp với dân thường, món nào cũng khiến người ta ngon miệng." },
+        { "speaker": "", "chinese": "鲁迅也爱喝酒，虽然明明知道自己有胃病，不应该喝酒，但却很难戒掉。他是每顿饭必喝酒的人。现在保存的历史资料记载，他和郁达夫一起喝酒的次数最多。鲁迅酒量不大，经常喝醉，而且在喝酒的过程中烟不离手。郁达夫在1933年曾经作诗形容他：“醉眼蒙胧上酒楼，彷徨呐喊两悠悠”，描写得十分形象。", "pinyin": "Lǔ Xùn yě ài hējiǔ, suīrán míngmíng zhīdào zìjǐ yǒu wèibìng, bù yīnggāi hējiǔ, dàn què hěn nán jièdiào. Tā shì měi dùn fàn bì hējiǔ de rén. Xiànzài bǎocún de lìshǐ zīliào jìzǎi, tā hé Yù Dáfū yìqǐ hējiǔ de cìshù zuì duō. Lǔ Xùn jiǔliàng bú dà, jīngcháng hēzuì, érqiě zài hējiǔ de guòchéng zhōng yān bù lí shǒu. Yù Dáfū zài yījiǔsānsān nián céngjīng zuòshī xíngróng tā: “Zuìyǎn ménglóng shàng jiǔlóu, Pánghuáng Nàhǎn liǎng yōuyōu”, miáoxiě de shífēn xíngxiàng.", "vietnamese": "Lỗ Tấn cũng thích uống rượu, tuy biết rõ mình mắc bệnh dạ dày không nên uống nhưng vẫn rất khó cai. Ông là người bữa cơm nào cũng phải có rượu. Tư liệu lịch sử lưu giữ hiện nay ghi lại rằng ông và Úc Đạt Phu uống rượu với nhau nhiều lần nhất. Tửu lượng Lỗ Tấn không lớn, hay say, hơn nữa trong lúc uống rượu thì điếu thuốc chẳng rời tay. Năm 1933 Úc Đạt Phu từng làm thơ miêu tả ông: “Mắt say lờ mờ lên lầu rượu, Bàng hoàng Gào thét hai nỗi ung dung”, khắc họa vô cùng sinh động." }
+      ]
+    }
+  ],
+  "reading_questions": [
+    { "question_zh": "为什么鲁迅去得最多、最喜欢的餐馆是广和居？", "question_vi": "Vì sao nhà hàng Lỗ Tấn ghé nhiều nhất và yêu thích nhất là Quảng Hòa Cư?", "answer_zh": "主要有三个原因：（1）距离近，就在他住的胡同斜对面；（2）特别欢迎文人光临，房间大小不同，很适合和朋友聚会，还能送外卖到家；（3）最重要的是那里有鲁迅喜欢的菜，既有高档的也有适合普通百姓的，样样让人有胃口。", "answer_vi": "Chủ yếu do ba lý do: (1) gần nhà, ngay đối diện chéo con ngõ ông ở; (2) rất chào đón văn nhân, có đủ phòng to nhỏ hợp tụ tập bạn bè lại giao đồ tận nhà; (3) quan trọng nhất là có món Lỗ Tấn thích, đủ từ cao cấp đến bình dân, món nào cũng ngon miệng." },
+    { "question_zh": "这篇课文为什么叫“别样鲁迅”？", "question_vi": "Vì sao bài khóa này có nhan đề là “Một Lỗ Tấn khác”?", "answer_zh": "因为人们通常只知道鲁迅是严肃深刻的大文学家，而这篇课文展示了他生活化、有趣的一面——讲究美食、爱吃点心、大方好客、爱喝酒抽烟。", "answer_vi": "Vì mọi người thường chỉ biết Lỗ Tấn là đại văn hào nghiêm nghị, sâu sắc, còn bài khóa cho thấy một khía cạnh đời thường, thú vị khác của ông: sành ẩm thực, mê bánh ngọt, hào phóng hiếu khách, thích uống rượu và hút thuốc." }
+  ],
+  "exercises": [
+    {
+      "id": "h5s9_ex1", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.88 (练习1)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ thích hợp điền vào chỗ trống: “著名的文学家、语言学家刘半农1920年写了一______题为《教我如何不想她》的小诗，流传至今。”",
+      "options": ["首", "项", "颗", "群"],
+      "answer": "首",
+      "explanation": "Lượng từ dành cho thơ và bài hát là 首 (一首诗, 一首歌).",
+      "review_tip": "Ôn bảng 词语搭配 lượng từ 一首 tr.87."
+    },
+    {
+      "id": "h5s9_ex2", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.88 (练习1)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ thích hợp điền vào chỗ trống: “作为一家北京的川菜馆，能做出如此______的麻婆豆腐真是不容易。”",
+      "options": ["地道", "形象", "高档", "豪华"],
+      "answer": "地道",
+      "explanation": "Miêu tả món ăn chuẩn vị bản xứ, chính cống dùng tính từ 地道 (地道的麻婆豆腐).",
+      "review_tip": "Ôn bảng 词语搭配 của 地道的 tr.87."
+    },
+    {
+      "id": "h5s9_ex3", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.88 (词语辨析 做一做)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn đáp án đúng: “今年我的业绩全公司第一，新年晚会上，总裁______给我发了奖金。”",
+      "options": ["亲自", "自己", "彼此", "互相"],
+      "answer": "亲自",
+      "explanation": "Chủ ngữ là người có chức vụ cao (总裁 – tổng giám đốc) làm việc bình thường ít khi trực tiếp làm (trao tiền thưởng) → dùng phó từ 亲自 thể hiện sự trân trọng!",
+      "review_tip": "Ôn bảng 词语辨析: 亲自—自己 tr.88."
+    },
+    {
+      "id": "h5s9_ex4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.89 (练习2)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “他平时成绩一般，但在今晚的比赛中______得很突出。”",
+      "options": ["表现", "表达", "形容", "招待"],
+      "answer": "表现",
+      "explanation": "Nói phong độ, sự thể hiện trong thi đấu/công việc dùng 表现 (表现得很突出); không dùng 表达 (vốn dùng biểu đạt lời nói/ý kiến).",
+      "review_tip": "Ôn bảng 词语搭配 của 表现 tr.87 và Bài tập 2 câu 1 tr.89."
+    },
+    {
+      "id": "h5s9_ex5", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.89 (练习2)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “我今天______不太舒服，所以没什么______。”",
+      "options": ["胃 / 胃口", "胃口 / 胃", "胃 / 胃", "胃口 / 胃口"],
+      "answer": "胃 / 胃口",
+      "explanation": "Vế đầu chỉ cơ quan dạ dày không khỏe → 胃不太舒服; vế sau chỉ cảm giác thèm ăn/khẩu vị → 没什么胃口.",
+      "review_tip": "Phân biệt #28 胃口 vs #30 胃."
+    },
+    {
+      "id": "h5s9_ex6", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.89 (练习2)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn đáp án đúng: “人们______把西红柿当做有害的果子。”",
+      "options": ["曾经", "已经", "明明", "平均"],
+      "answer": "曾经",
+      "explanation": "Chỉ một quan niệm từng tồn tại trong quá khứ nhưng ngày nay không còn nữa → dùng phó từ 曾经 ('đã từng'), không dùng 已经.",
+      "review_tip": "Ôn Chú thích 3 (曾经) tr.87."
+    },
+    {
+      "id": "h5s9_ex7", "type": "grammar_mc", "level": "Vận dụng", "origin_tag": "Sách gốc tr.89 (练习3 Chọn vị trí)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn vị trí thích hợp cho “明明” trong câu: “A 这 B 怎么 C 是个缺点呢？D 是个优点呀！”",
+      "options": ["D (明明是个优点呀！)", "A (明明这怎么是个缺点呢？)", "B (这明明怎么是个缺点呢？)", "C (这怎么明明是个缺点呢？)"],
+      "answer": "D (明明是个优点呀！)",
+      "explanation": "Phó từ 明明 nhấn mạnh sự thật hiển nhiên đối lập với câu hỏi phản vấn phía trước → đặt tại vị trí D: '明明是个优点呀！' (Rõ ràng là một ưu điểm mà!).",
+      "review_tip": "Ôn cách dùng #29 明明."
+    },
+    {
+      "id": "h5s9_ex8", "type": "context_mc", "level": "Vận dụng", "origin_tag": "Ôn tập Bài 8 (HSK 5 上 tr.80)", "mistake_category": "Ngữ pháp",
+      "prompt": "[Ôn tập Bài 8] Chọn từ đúng điền vào chỗ trống: “我们是夫妻，各自除了孝顺自己的父母，也应该孝顺______的父母。”",
+      "options": ["彼此", "互相", "亲自", "要不"],
+      "answer": "彼此",
+      "explanation": "Chỗ trống đứng trước '的父母' làm ĐỊNH NGỮ → chỉ dùng đại từ 彼此 (không dùng phó từ 互相 hay 亲自 làm định ngữ!).",
+      "review_tip": "Ôn 词语辨析 Bài 8: 彼此—互相 tr.80."
+    },
+    {
+      "id": "h5s9_ex9", "type": "grammar_mc", "level": "Vận dụng", "origin_tag": "Ôn tập Bài 1 & Bài 8 (HSK 5 上)", "mistake_category": "Ngữ pháp",
+      "prompt": "[Ôn tập Bài 8] Chọn đáp án hợp ngữ cảnh: “今天太晚了，______你明天再走吧。”",
+      "options": ["要不", "居然", "曾经", "明明"],
+      "answer": "要不",
+      "explanation": "Dùng liên từ 要不 để đưa ra một đề xuất/lựa chọn thay thế ('hay là ngày mai cậu hẵng đi nhé').",
+      "review_tip": "Ôn Chú thích 3 Bài 8: 要不 tr.78–79."
+    }
+  ]
+}

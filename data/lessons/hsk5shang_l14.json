@@ -1,0 +1,1058 @@
+{
+  "id": "hsk5shang_l14",
+  "book_id": "hsk5shang",
+  "textbook": "HSK 5 上",
+  "lesson_number": 14,
+  "title_zh": "北京的四合院",
+  "title_vi": "Tứ hợp viện Bắc Kinh",
+  "pdf_pages": "Trang sách 126–134 (Giáo Trình Chuẩn HSK5 Tập 1.pdf)",
+  "source_status": "verified_textbook",
+  "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"],
+  "vocabulary": [
+    {
+      "id": "hsk5s_l14_w01", "order": 1, "textbook": "HSK 5 上", "lesson": 14, "is_out_of_syllabus": true,
+      "hanzi": "四合院", "pinyin": "sìhéyuàn",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "tứ hợp viện",
+        "structure": "北京的四合院 / 一座四合院",
+        "explanation": "Kiểu nhà truyền thống vùng Hoa Bắc Trung Quốc gồm 4 dãy nhà Đông–Tây–Nam–Bắc bao quanh một sân vuông ở giữa.",
+        "examples": [{ "chinese": "四合院，是中国华北地区民居中的一种组合建筑形式。", "pinyin": "Sìhéyuàn, shì Zhōngguó Huáběi dìqū mínjū zhōng de yì zhǒng zǔhé jiànzhù xíngshì.", "vietnamese": "Tứ hợp viện là một loại hình kiến trúc tổ hợp trong nhà ở dân gian vùng Hoa Bắc Trung Quốc.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "中国传统民居建筑形式，四面房屋合围成一个方形院子。",
+      "collocations": ["北京四合院", "一座四合院", "传统四合院"],
+      "usage_note": "Lượng từ thường dùng cho 四合院 là 座 (一座四合院).",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l14_w02", "order": 2, "textbook": "HSK 5 上", "lesson": 14, "is_out_of_syllabus": true,
+      "hanzi": "民居", "pinyin": "mínjū",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "nhà ở của thường dân",
+        "structure": "传统民居 / 华北地区民居 / 汉族民居",
+        "explanation": "Nhà ở dân gian của người dân bình thường (khác với cung điện, đền đài).",
+        "examples": [{ "chinese": "四合院在中国汉族民居中历史最悠久，分布最广泛。", "pinyin": "Sìhéyuàn zài Zhōngguó Hànzú mínjū zhōng lìshǐ zuì yōujiǔ, fēnbù zuì guǎngfàn.", "vietnamese": "Trong các loại nhà ở dân gian của người Hán ở Trung Quốc, tứ hợp viện có lịch sử lâu đời nhất và phân bố rộng rãi nhất.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "民间普通百姓居住的房屋建筑。",
+      "collocations": ["传统民居", "特色民居", "民居建筑"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l14_w03", "order": 3, "textbook": "HSK 5 上", "lesson": 14,
+      "hanzi": "组合", "pinyin": "zǔhé",
+      "lesson_usage": {
+        "part_of_speech": "动词 / 名词 (Động từ / Danh từ)",
+        "meanings": ["1. (Động từ) kết hợp, ghép lại thành chỉnh thể", "2. (Danh từ) tổ hợp, nhóm kết hợp"],
+        "meaning": "kết hợp; tổ hợp",
+        "structure": "组合起来 / 组合到一起 / 组合成…… / 组合建筑形式",
+        "explanation": "Sách gốc ghi đủ 2 từ loại đgt./dt.: kết hợp nhiều bộ phận lại với nhau thành một chỉnh thể hoặc chỉ bản thân tổ hợp đó.",
+        "examples": [
+          { "chinese": "四合院，是中国华北地区民居中的一种组合建筑形式。", "pinyin": "Sìhéyuàn, shì Zhōngguó Huáběi dìqū mínjū zhōng de yì zhǒng zǔhé jiànzhù xíngshì.", "vietnamese": "Tứ hợp viện là một loại hình kiến trúc tổ hợp trong nhà ở dân gian vùng Hoa Bắc Trung Quốc.", "from_text": true },
+          { "chinese": "这本书是由三个部分组合起来的。", "pinyin": "Zhè běn shū shì yóu sān ge bùfen zǔhé qilai de.", "vietnamese": "Cuốn sách này được kết hợp từ ba phần mà thành." }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "组织成为整体；组织起来的整体。",
+      "collocations": ["组合起来", "组合到一起", "组合成……", "流行音乐组合"],
+      "usage_note": "Phân biệt với 组成: 重要组成部分 (bộ phận cấu thành – dùng 组成, không dùng 组合); còn 组合 nhấn mạnh ghép nhiều đơn vị độc lập lại (组合起来).",
+      "common_errors": "Sai: '重要组合部分' → Đúng: '重要组成部分' (Bài tập 2 câu 1 tr.132).",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l14_w04", "order": 4, "textbook": "HSK 5 上", "lesson": 14,
+      "hanzi": "建筑", "pinyin": "jiànzhù",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "kiến trúc, công trình kiến trúc",
+        "structure": "建筑形式 / 传统建筑 / 中国建筑",
+        "explanation": "Chỉ chung các công trình nhà cửa, cầu cống hoặc nghệ thuật kiến trúc.",
+        "examples": [{ "chinese": "四合院，是中国华北地区民居中的一种组合建筑形式。", "pinyin": "Sìhéyuàn, shì Zhōngguó Huáběi dìqū mínjū zhōng de yì zhǒng zǔhé jiànzhù xíngshì.", "vietnamese": "Tứ hợp viện là một loại hình kiến trúc tổ hợp trong nhà ở dân gian vùng Hoa Bắc Trung Quốc.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Động từ)",
+          "meanings": ["xây dựng, kiến thiết (nhà cửa, cầu đường...)"],
+          "structure": "建筑 + 房屋 / 桥梁 / 公路",
+          "difference_note": "Khi làm động từ nhấn mạnh hành động thi công xây dựng công trình, trang trọng hơn 盖.",
+          "examples": [{ "chinese": "工人们正在河上建筑一座新大桥。", "pinyin": "Gōngrén men zhèngzài hé shang jiànzhù yí zuò xīn dàqiáo.", "vietnamese": "Các công nhân đang xây dựng một cây cầu lớn mới bắc qua sông." }]
+        }
+      ],
+      "chinese_explanation": "建筑物；修建房屋、桥梁等工程。",
+      "collocations": ["建筑风格", "古代建筑", "标志性建筑", "建筑工程"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l14_w05", "order": 5, "textbook": "HSK 5 上", "lesson": 14,
+      "hanzi": "形式", "pinyin": "xíngshì",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "hình thức",
+        "structure": "一种……形式 / 建筑形式 / 形式多样",
+        "explanation": "Hình dáng bên ngoài, cách thức tổ chức hoặc biểu hiện của sự vật (đối lập với 内容 – nội dung).",
+        "examples": [{ "chinese": "四合院，是中国华北地区民居中的一种组合建筑形式。", "pinyin": "Sìhéyuàn, shì Zhōngguó Huáběi dìqū mínjū zhōng de yì zhǒng zǔhé jiànzhù xíngshì.", "vietnamese": "Tứ hợp viện là một loại hình kiến trúc tổ hợp trong nhà ở dân gian vùng Hoa Bắc Trung Quốc.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "事物的形状、结构或表现方式。",
+      "collocations": ["表现形式", "建筑形式", "形式多样", "流于形式"],
+      "usage_note": "Phân biệt đồng âm: 形式 (xíngshì – hình thức) vs 形势 (xíngshì – tình hình, thế cục ở Bài 15).",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l14_w06", "order": 6, "textbook": "HSK 5 上", "lesson": 14,
+      "hanzi": "所谓", "pinyin": "suǒwèi",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)",
+        "meaning": "cái gọi là",
+        "structure": "(1) 所谓 + A，(就是)……  |  (2) 所谓的“……” (hàm ý nghi ngờ/không tán thành)",
+        "explanation": "Dùng để nêu ra khái niệm cần giải thích (nghĩa trung tính) hoặc chỉ lời một số người nói nhưng bản thân không công nhận/mỉa mai.",
+        "examples": [{ "chinese": "所谓四合，“四”指东、西、南、北四面，“合”就是四面房屋围在一起，中间形成一个方形的院子。", "pinyin": "Suǒwèi sìhé, “sì” zhǐ dōng, xī, nán, běi sìmiàn, “hé” jiùshì sìmiàn fángwū wéi zài yìqǐ, zhōngjiān xíngchéng yí ge fāngxíng de yuànzi.", "vietnamese": "Cái gọi là “tứ hợp”: “tứ” chỉ bốn phía đông, tây, nam, bắc; “hợp” là bốn mặt nhà quây lại với nhau, ở giữa tạo thành một cái sân hình vuông.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "所说的；某些人所说的（常含不承认意）。",
+      "collocations": ["所谓……就是……", "这就是所谓的……", "他所谓的……"],
+      "usage_note": "Xem Chú thích 1 (tr.128) về 2 sắc thái nghĩa của 所谓.",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l14_w07", "order": 7, "textbook": "HSK 5 上", "lesson": 14,
+      "hanzi": "方", "pinyin": "fāng",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)",
+        "meaning": "vuông",
+        "structure": "方形 / 方桌 / 四四方方",
+        "explanation": "Có bốn cạnh đều nhau và bốn góc vuông.",
+        "examples": [{ "chinese": "中间形成一个方形的院子。", "pinyin": "Zhōngjiān xíngchéng yí ge fāngxíng de yuànzi.", "vietnamese": "Ở giữa tạo thành một cái sân hình vuông.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ)",
+          "meanings": ["phương hướng, phía; bên (trong giao dịch/quan hệ)"],
+          "structure": "东方 / 双方 / 对方 / 地方",
+          "difference_note": "Làm danh từ chỉ hướng địa lý hoặc các bên liên quan, không mang nghĩa hình học 'vuông'.",
+          "examples": [{ "chinese": "经过讨论，双方终于达成了一致意见。", "pinyin": "Jīngguò tǎolùn, shuāngfāng zhōngyú dáchéng le yízhì yìjiàn.", "vietnamese": "Sau khi thảo luận, hai bên cuối cùng đã đạt được ý kiến thống nhất." }]
+        },
+        {
+          "part_of_speech": "量词 (Lượng từ)",
+          "meanings": ["vật hình vuông (khăn, ấn, bia...); mét khối (khẩu ngữ)"],
+          "structure": "一方手帕 / 两方木头",
+          "difference_note": "Dùng sau số từ để đếm vật hình vuông hoặc đơn vị thể tích mét khối (立方米).",
+          "examples": [{ "chinese": "她从口袋里拿出一方面积不大的白手帕。", "pinyin": "Tā cóng kǒudài li náchū yì fāng miànjī bú dà de bái shǒupà.", "vietnamese": "Cô ấy lấy trong túi ra một chiếc khăn tay trắng vuông không lớn lắm." }]
+        }
+      ],
+      "chinese_explanation": "四个角都是直角的形状；方向、方面；量词。",
+      "collocations": ["方形", "正方形", "长方形", "四四方方"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l14_w08", "order": 8, "textbook": "HSK 5 上", "lesson": 14,
+      "hanzi": "广泛", "pinyin": "guǎngfàn",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)",
+        "meaning": "rộng rãi",
+        "structure": "广泛(地) + 调查/研究/应用/流行/分布/关注  |  兴趣/爱好/知识/内容 + 广泛",
+        "explanation": "Phạm vi bao phủ rộng, phổ biến ở nhiều nơi hoặc nhiều lĩnh vực.",
+        "examples": [{ "chinese": "四合院在中国汉族民居中历史最悠久，分布最广泛。", "pinyin": "Sìhéyuàn zài Zhōngguó Hànzú mínjū zhōng lìshǐ zuì yōujiǔ, fēnbù zuì guǎngfàn.", "vietnamese": "Trong các loại nhà ở dân gian của người Hán, tứ hợp viện có lịch sử lâu đời nhất, phân bố rộng rãi nhất.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "涉及的方面广、范围大、普遍。",
+      "collocations": ["广泛调查", "广泛应用", "分布广泛", "兴趣广泛"],
+      "usage_note": "Phân biệt với 广大 (Bài tập 2 câu 2 tr.132): 广大 đi với quần chúng/khu vực (广大人民/广大地区), còn 广泛 đi với 兴趣/爱好/应用/调查/分布.",
+      "common_errors": "Sai: '他的兴趣爱好非常广大' → Đúng: '非常广泛'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l14_w09", "order": 9, "textbook": "HSK 5 上", "lesson": 14,
+      "hanzi": "样式", "pinyin": "yàngshì",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "hình thức, kiểu dáng",
+        "structure": "固定的样式 / 样式新颖 / 衣服的样式",
+        "explanation": "Kiểu mẫu, dáng vẻ bên ngoài của công trình, quần áo, đồ vật.",
+        "examples": [{ "chinese": "这是因为传统的北京四合院都有一套固定的样式，十分具有代表性。", "pinyin": "Zhè shì yīnwèi chuántǒng de Běijīng sìhéyuàn dōu yǒu yí tào gùdìng de yàngshì, shífēn jùyǒu dàibiǎoxìng.", "vietnamese": "Đó là vì tứ hợp viện truyền thống Bắc Kinh đều có một kiểu dáng cố định, vô cùng mang tính đại diện.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "式样、款式，事物呈现出的外观形状。",
+      "collocations": ["固定的样式", "各种样式", "样式好看"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l14_w10", "order": 10, "textbook": "HSK 5 上", "lesson": 14,
+      "hanzi": "代表", "pinyin": "dàibiǎo",
+      "lesson_usage": {
+        "part_of_speech": "名词 / 动词 (Danh từ / Động từ)",
+        "meanings": ["1. (Danh từ) đại biểu, người/vật tiêu biểu", "2. (Động từ) đại diện cho, thay mặt cho"],
+        "meaning": "đại biểu; đại diện",
+        "structure": "具有代表性 / 代表 + 某人/主要特点 / 学生代表",
+        "explanation": "Sách gốc ghi đủ dt./đgt.: vừa chỉ người/tác phẩm tiêu biểu, vừa chỉ hành động thay mặt hoặc thể hiện đặc trưng của một tập thể.",
+        "examples": [
+          { "chinese": "在各种各样的四合院中，北京四合院可以代表其主要特点。", "pinyin": "Zài gèzhǒng gèyàng de sìhéyuàn zhōng, Běijīng sìhéyuàn kěyǐ dàibiǎo qí zhǔyào tèdiǎn.", "vietnamese": "Trong muôn vàn kiểu tứ hợp viện, tứ hợp viện Bắc Kinh có thể đại diện cho đặc điểm chủ yếu của nó.", "from_text": true },
+          { "chinese": "十分具有代表性。", "pinyin": "Shífēn jùyǒu dàibiǎoxìng.", "vietnamese": "Vô cùng có tính đại diện.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "替个人、集体或国家办事或发表意见的人；体现集体特征或代替表达。",
+      "collocations": ["具有代表性", "代表作", "代表大家", "人民代表"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l14_w11", "order": 11, "textbook": "HSK 5 上", "lesson": 14,
+      "hanzi": "通常", "pinyin": "tōngcháng",
+      "lesson_usage": {
+        "part_of_speech": "副词 (Phó từ)",
+        "meaning": "thường, bình thường",
+        "structure": "通常 + V / 通常是…… / 通常情况下",
+        "explanation": "Biểu thị hành động hoặc tình huống diễn ra theo quy luật thông thường (xem bảng 词语辨析: 通常—常常 tr.131).",
+        "examples": [{ "chinese": "而有钱人家的，通常是由好几座四合院并列组成的。", "pinyin": "Ér yǒuqián rénjiā de, tōngcháng shì yóu hǎo jǐ zuò sìhéyuàn bìngliè zǔchéng de.", "vietnamese": "Còn nhà giàu thường do vài tòa tứ hợp viện xếp song song hợp thành.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "形容词 (Tính từ — Chú thích 词语辨析 tr.131)",
+          "meanings": ["thông thường, bình thường (có thể làm định ngữ)"],
+          "structure": "通常的 + 做法/情况 / 在通常情况下",
+          "difference_note": "Khác với phó từ 常常 (KHÔNG làm được định ngữ), 通常 có thể đứng trước danh từ làm định ngữ (如：我们通常的做法都是这样的).",
+          "examples": [{ "chinese": "在通常情况下，火车是不会晚点的。", "pinyin": "Zài tōngcháng qíngkuàng xià, huǒchē shì bú huì wǎndiǎn de.", "vietnamese": "Trong trường hợp thông thường, tàu hỏa sẽ không bị trễ giờ." }]
+        }
+      ],
+      "chinese_explanation": "一般、平常、有规律地。",
+      "collocations": ["通常情况", "通常的做法", "通常是……"],
+      "usage_note": "Xem bảng phân biệt '通常—常常' ở tab Ngữ pháp.",
+      "common_errors": "Không dùng 常常 trong '在____情况下' (phải dùng 通常).",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l14_w12", "order": 12, "textbook": "HSK 5 上", "lesson": 14, "is_out_of_syllabus": true,
+      "hanzi": "并列", "pinyin": "bìngliè",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "đặt song song, đứng cạnh nhau",
+        "structure": "并列组成 / 并列第一 / 并列关系",
+        "explanation": "Xếp ngang hàng, song song bên nhau, ngang bằng không phân chính phụ.",
+        "examples": [{ "chinese": "而有钱人家的，通常是由好几座四合院并列组成的。", "pinyin": "Ér yǒuqián rénjiā de, tōngcháng shì yóu hǎo jǐ zuò sìhéyuàn bìngliè zǔchéng de.", "vietnamese": "Còn nhà giàu thường do mấy tòa tứ hợp viện xếp song song tạo thành.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "并排平列；不分主次地排在一起。",
+      "collocations": ["并列组成", "并列第一", "并列句"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l14_w13", "order": 13, "textbook": "HSK 5 上", "lesson": 14,
+      "hanzi": "组成", "pinyin": "zǔchéng",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "tạo thành, hợp thành",
+        "structure": "由……组成 / 组成家庭 / 重要组成部分",
+        "explanation": "Nhiều yếu tố hoặc thành phần kết hợp cấu tạo nên một tổng thể.",
+        "examples": [{ "chinese": "而有钱人家的，通常是由好几座四合院并列组成的。", "pinyin": "Ér yǒuqián rénjiā de, tōngcháng shì yóu hǎo jǐ zuò sìhéyuàn bìngliè zǔchéng de.", "vietnamese": "Còn của nhà giàu thường do vài tòa tứ hợp viện xếp song song hợp thành.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "由部分或个体结合成整体。",
+      "collocations": ["由……组成", "组成家庭", "组成部分"],
+      "usage_note": "Cấu trúc hay gặp: A 是由 B 组成的; 重要组成部分.",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l14_w14", "order": 14, "textbook": "HSK 5 上", "lesson": 14,
+      "hanzi": "长辈", "pinyin": "zhǎngbèi",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "bề trên, bậc cha chú",
+        "structure": "长辈的卧室 / 尊敬长辈",
+        "explanation": "Những người thuộc thế hệ lớn hơn trong gia đình, dòng họ (ông bà, cha mẹ, cô chú...); trái nghĩa với 晚辈 (bậc con cháu).",
+        "examples": [{ "chinese": "一般包括长辈的卧室和具备日常起居、接待客人等功能的客厅。", "pinyin": "Yìbān bāokuò zhǎngbèi de wòshì hé jùbèi rìcháng qǐjū, jiēdài kèrén děng gōngnéng de kètīng.", "vietnamese": "Thường bao gồm phòng ngủ của bề trên và phòng khách có chức năng sinh hoạt thường ngày, tiếp đãi khách khứa.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "家族中辈分大的人（跟“晚辈”相对）。",
+      "collocations": ["尊敬长辈", "家中长辈", "长辈和晚辈"],
+      "usage_note": "Chú ý chữ 长 đọc thanh 3 là zhǎng (trưởng), không đọc cháng!",
+      "common_errors": "Đọc nhầm thành chángbèi → Phải là zhǎngbèi.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l14_w15", "order": 15, "textbook": "HSK 5 上", "lesson": 14,
+      "hanzi": "具备", "pinyin": "jùbèi",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "có đủ, có",
+        "structure": "具备 + 条件 / 能力 / 资格 / 功能",
+        "explanation": "Sở hữu đầy đủ những điều kiện, chức năng hoặc phẩm chất cần thiết (thiên về văn viết).",
+        "examples": [{ "chinese": "一般包括长辈的卧室和具备日常起居、接待客人等功能的客厅。", "pinyin": "Yìbān bāokuò zhǎngbèi de wòshì hé jùbèi rìcháng qǐjū, jiēdài kèrén děng gōngnéng de kètīng.", "vietnamese": "Thường bao gồm phòng ngủ của bề trên và phòng khách có đủ các chức năng sinh hoạt thường ngày, tiếp khách.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "具有、齐备（条件、能力、功能等）。",
+      "collocations": ["具备功能", "具备条件", "具备资格", "具备能力"],
+      "usage_note": "Không dùng cho vật cụ thể hàng ngày (không nói '我具备一本书').",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l14_w16", "order": 16, "textbook": "HSK 5 上", "lesson": 14,
+      "hanzi": "日常", "pinyin": "rìcháng",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)",
+        "meaning": "hằng ngày",
+        "structure": "日常 + 生活 / 工作 / 用品 / 用语 / 起居",
+        "explanation": "Thuộc về sinh hoạt, hoạt động diễn ra bình thường mỗi ngày (chủ yếu làm định ngữ).",
+        "examples": [{ "chinese": "一般包括长辈的卧室和具备日常起居、接待客人等功能的客厅。", "pinyin": "Yìbān bāokuò zhǎngbèi de wòshì hé jùbèi rìcháng qǐjū, jiēdài kèrén děng gōngnéng de kètīng.", "vietnamese": "Thường bao gồm phòng ngủ của bề trên và phòng khách có các chức năng sinh hoạt hằng ngày, tiếp khách.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "平时的、每天的。",
+      "collocations": ["日常生活", "日常工作", "日常用品", "日常用语"],
+      "usage_note": "Không đứng độc lập làm vị ngữ (không nói '这很日常' trong tiếng Trung chuẩn HSK).",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l14_w17", "order": 17, "textbook": "HSK 5 上", "lesson": 14, "is_out_of_syllabus": true,
+      "hanzi": "起居", "pinyin": "qǐjū",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "sinh hoạt thường ngày",
+        "structure": "日常起居 / 饮食起居",
+        "explanation": "Việc thức dậy, nghỉ ngơi và các nếp sinh hoạt hằng ngày.",
+        "examples": [{ "chinese": "一般包括长辈的卧室和具备日常起居、接待客人等功能的客厅。", "pinyin": "Yìbān bāokuò zhǎngbèi de wòshì hé jùbèi rìcháng qǐjū, jiēdài kèrén děng gōngnéng de kètīng.", "vietnamese": "Thường gồm phòng ngủ của bề trên và phòng khách có chức năng sinh hoạt thường ngày, tiếp đãi khách khứa.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "指作息、日常生活。",
+      "collocations": ["日常起居", "饮食起居", "起居室"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l14_w18", "order": 18, "textbook": "HSK 5 上", "lesson": 14,
+      "hanzi": "接待", "pinyin": "jiēdài",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "tiếp đãi",
+        "structure": "接待 + 客人 / 游客 / 代表团",
+        "explanation": "Đón tiếp và phục vụ khách khứa, khách du lịch hoặc đoàn đến thăm.",
+        "examples": [{ "chinese": "具备日常起居、接待客人等功能的客厅。", "pinyin": "Jùbèi rìcháng qǐjū, jiēdài kèrén děng gōngnéng de kètīng.", "vietnamese": "Phòng khách có các chức năng sinh hoạt hằng ngày, tiếp đãi khách khứa.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "招呼、招待来访的人。",
+      "collocations": ["接待客人", "热情接待", "接待室", "接待游客"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l14_w19", "order": 19, "textbook": "HSK 5 上", "lesson": 14,
+      "hanzi": "功能", "pinyin": "gōngnéng",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "chức năng",
+        "structure": "有/具备 + ……(的)功能 / 手机功能",
+        "explanation": "Công dụng, tác dụng có lợi mà vật thể, thiết bị hoặc không gian đảm nhiệm.",
+        "examples": [{ "chinese": "具备日常起居、接待客人等功能的客厅。", "pinyin": "Jùbèi rìcháng qǐjū, jiēdài kèrén děng gōngnéng de kètīng.", "vietnamese": "Phòng khách có chức năng sinh hoạt hằng ngày, tiếp khách.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "事物或方法所发挥的有利作用；效能。",
+      "collocations": ["具备功能", "功能齐全", "主要功能", "多种功能"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l14_w20", "order": 20, "textbook": "HSK 5 上", "lesson": 14, "is_out_of_syllabus": true,
+      "hanzi": "厢房", "pinyin": "xiāngfáng",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "chái nhà, hiên nhà",
+        "structure": "东西厢房 / 正房和厢房",
+        "explanation": "Hai dãy nhà phụ nằm ở phía đông và phía tây hai bên nhà chính (正房) trong tứ hợp viện, thường dành cho con cháu ở.",
+        "examples": [{ "chinese": "院子的两边是东西厢房，是晚辈们生活的地方。", "pinyin": "Yuànzi de liǎngbiān shì dōngxī xiāngfáng, shì wǎnbèi men shēnghuó de dìfang.", "vietnamese": "Hai bên sân là nhà chái đông tây, là nơi sinh sống của bậc con cháu.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "在正房前面两旁的房屋。",
+      "collocations": ["东西厢房", "正房和厢房"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l14_w21", "order": 21, "textbook": "HSK 5 上", "lesson": 14, "is_out_of_syllabus": true,
+      "hanzi": "走廊", "pinyin": "zǒuláng",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "hành lang, hàng hiên",
+        "structure": "建有走廊 / 走廊里",
+        "explanation": "Lối đi có mái che nối giữa các gian nhà hoặc dọc theo các phòng.",
+        "examples": [{ "chinese": "在正房和厢房之间建有走廊，可以供人行走和休息。", "pinyin": "Zài zhèngfáng hé xiāngfáng zhījiān jiànyǒu zǒuláng, kěyǐ gōng rén xíngzǒu hé xiūxi.", "vietnamese": "Giữa nhà chính và nhà chái có xây hành lang, để mọi người đi lại và nghỉ ngơi.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "有顶的过道，供人行走或遮风挡雨。",
+      "collocations": ["建有走廊", "长长的走廊", "走廊尽头"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l14_w22", "order": 22, "textbook": "HSK 5 上", "lesson": 14,
+      "hanzi": "空间", "pinyin": "kōngjiān",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "không gian",
+        "structure": "室外生活空间 / 发展空间 / 私人空间",
+        "explanation": "Khoảng không vật lý để sinh hoạt/chứa vật, hoặc phạm vi phát triển trừu tượng.",
+        "examples": [{ "chinese": "院子是十分理想的室外生活空间。", "pinyin": "Yuànzi shì shífēn lǐxiǎng de shìwài shēnghuó kōngjiān.", "vietnamese": "Cái sân là không gian sinh hoạt ngoài trời vô cùng lý tưởng.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "物质存在的广延性；可供活动的范围或余地。",
+      "collocations": ["生活空间", "发展空间", "私人空间", "节省空间"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l14_w23", "order": 23, "textbook": "HSK 5 上", "lesson": 14, "is_out_of_syllabus": true,
+      "hanzi": "种", "pinyin": "zhòng",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "trồng",
+        "structure": "种草 / 种花 / 种树 / 种竹子",
+        "explanation": "Đem hạt hoặc cây đặt xuống đất chăm sóc cho mọc lên (đọc thanh 4: zhòng).",
+        "examples": [{ "chinese": "有的人家喜欢种草、养花、种竹子。", "pinyin": "Yǒude rénjiā xǐhuan zhòng cǎo, yǎng huā, zhòng zhúzi.", "vietnamese": "Có nhà thích trồng cỏ, trồng hoa, trồng trúc.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "量词 / 名词 (Đọc zhǒng — Lượng từ / Danh từ)",
+          "meanings": ["loại, thứ, kiểu; hạt giống, chủng loại"],
+          "structure": "一种建筑形式 / 各种各样的 / 种子",
+          "difference_note": "Chữ đa âm kinh điển: động từ 'trồng' đọc thanh 4 (zhòng), lượng từ 'loại' hoặc danh từ 'giống' đọc thanh 3 (zhǒng)!",
+          "examples": [{ "chinese": "在各种各样的四合院中，北京四合院可以代表其主要特点。", "pinyin": "Zài gèzhǒng gèyàng de sìhéyuàn zhōng, Běijīng sìhéyuàn kěyǐ dàibiǎo qí zhǔyào tèdiǎn.", "vietnamese": "Trong muôn vàn kiểu tứ hợp viện, tứ hợp viện Bắc Kinh có thể đại diện cho đặc điểm chủ yếu của nó." }]
+        }
+      ],
+      "chinese_explanation": "把植物或种子埋进土里使其生长（zhòng）；种类、种子（zhǒng）。",
+      "collocations": ["种树", "种花", "种菜", "种竹子"],
+      "usage_note": "Chú ý đa âm: zhòng (đgt. trồng) vs zhǒng (lượng từ 'loại').",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l14_w24", "order": 24, "textbook": "HSK 5 上", "lesson": 14,
+      "hanzi": "竹子", "pinyin": "zhúzi",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "cây trúc, cây tre",
+        "structure": "种竹子 / 一片竹子",
+        "explanation": "Loài cây thân rỗng, có đốt, lá xanh quanh năm, biểu tượng thanh cao trong văn hóa Trung Hoa.",
+        "examples": [{ "chinese": "有的人家喜欢种草、养花、种竹子。", "pinyin": "Yǒude rénjiā xǐhuan zhòng cǎo, yǎng huā, zhòng zhúzi.", "vietnamese": "Có gia đình thích trồng cỏ, chăm hoa, trồng trúc.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "常绿多年生植物，茎中空有节。",
+      "collocations": ["种竹子", "竹林", "大熊猫爱吃竹子"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l14_w25", "order": 25, "textbook": "HSK 5 上", "lesson": 14,
+      "hanzi": "则", "pinyin": "zé",
+      "lesson_usage": {
+        "part_of_speech": "连词 (Liên từ)",
+        "meaning": "(chỉ sự tương phản) trong khi đó, còn... thì...",
+        "structure": "A……，（而）B 则……",
+        "explanation": "Đặt ở vế sau để đối chiếu sự khác biệt giữa hai đối tượng hoặc hai trường hợp.",
+        "examples": [{ "chinese": "有的人家喜欢种草、养花、种竹子，有的人家则喜欢用大盆养金鱼。", "pinyin": "Yǒude rénjiā xǐhuan zhòng cǎo, yǎng huā, zhòng zhúzi, yǒude rénjiā zé xǐhuan yòng dà pén yǎng jīnyú.", "vietnamese": "Có nhà thích trồng cỏ, trồng hoa, trồng trúc, trong khi có nhà lại thích dùng chậu lớn nuôi cá vàng.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "量词 (Lượng từ — Chú thích 2 tr.129)",
+          "meanings": ["mẩu, bài, điều (dùng cho văn bản ngắn như tin tức, truyện thành ngữ, thông báo)"],
+          "structure": "一则新闻 / 两则成语故事",
+          "difference_note": "Làm lượng từ cho văn bản ngắn gọn thành thiên hoặc thành điều, hoàn toàn khác liên từ tương phản.",
+          "examples": [{ "chinese": "今天的报纸上有一则非常重要的新闻。", "pinyin": "Jīntiān de bàozhǐ shang yǒu yì zé fēicháng zhòngyào de xīnwén.", "vietnamese": "Trên báo hôm nay có một mẩu tin tức vô cùng quan trọng." }]
+        },
+        {
+          "part_of_speech": "连词 (Liên từ nhân quả — Chú thích 2 tr.129)",
+          "meanings": ["thì, bèn (tương đương 就 trong văn viết)"],
+          "structure": "……则…… (VD: 有风则寒，无风则暖 / 欲速则不达)",
+          "difference_note": "Biểu thị quan hệ điều kiện – kết quả trong văn viết hoặc thành ngữ cổ.",
+          "examples": [{ "chinese": "北京的冬天，有风则寒，无风则暖。", "pinyin": "Běijīng de dōngtiān, yǒu fēng zé hán, wú fēng zé nuǎn.", "vietnamese": "Mùa đông Bắc Kinh, có gió thì rét, không gió thì ấm." }]
+        }
+      ],
+      "chinese_explanation": "连词，表对比或因果（相当于“就”）；量词，用于短小文字。",
+      "collocations": ["有的……有的则……", "一则新闻", "两则故事", "欲速则不达"],
+      "usage_note": "3 cách dùng trọng tâm được giảng đầy đủ trong Chú thích 2 trang 129!",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l14_w26", "order": 26, "textbook": "HSK 5 上", "lesson": 14, "is_out_of_syllabus": true,
+      "hanzi": "金鱼", "pinyin": "jīnyú",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "cá vàng",
+        "structure": "养金鱼 / 一条金鱼",
+        "explanation": "Loài cá cảnh màu vàng đỏ thường nuôi trong chậu hoặc bể.",
+        "examples": [{ "chinese": "有的人家则喜欢用大盆养金鱼。", "pinyin": "Yǒude rénjiā zé xǐhuan yòng dà pén yǎng jīnyú.", "vietnamese": "Còn có nhà lại thích dùng chậu lớn nuôi cá vàng.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "常见的观赏鱼类。",
+      "collocations": ["养金鱼", "大盆养金鱼", "几条金鱼"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l14_w27", "order": 27, "textbook": "HSK 5 上", "lesson": 14,
+      "hanzi": "创造", "pinyin": "chuàngzào",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "sáng tạo, tạo ra",
+        "structure": "创造 + 文字/历史/机会/条件/奇迹/美好生活/生活情趣",
+        "explanation": "Nghĩ ra hoặc làm nên sự vật, giá trị, điều kiện mới trước đó chưa có.",
+        "examples": [{ "chinese": "对创造生活情趣起了很大作用，因而最为人们所喜爱。", "pinyin": "Duì chuàngzào shēnghuó qíngqù qǐ le hěn dà zuòyòng, yīn'ér zuì wéi rénmen suǒ xǐ'ài.", "vietnamese": "Đóng vai trò rất lớn trong việc tạo nên thú vui cuộc sống, vì vậy được mọi người yêu thích nhất.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "想出新方法、建立新理论、做出新的成绩或东西。",
+      "collocations": ["创造条件", "创造机会", "创造奇迹", "创造美好生活"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l14_w28", "order": 28, "textbook": "HSK 5 上", "lesson": 14, "is_out_of_syllabus": true,
+      "hanzi": "情趣", "pinyin": "qíngqù",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "sự thú vị, điều thích thú",
+        "structure": "生活情趣 / 创造生活情趣 / 富有情趣",
+        "explanation": "Hứng thú tinh thần tao nhã, thi vị khiến đời sống thêm phần thú vị.",
+        "examples": [{ "chinese": "对创造生活情趣起了很大作用，因而最为人们所喜爱。", "pinyin": "Duì chuàngzào shēnghuó qíngqù qǐ le hěn dà zuòyòng, yīn'ér zuì wéi rénmen suǒ xǐ'ài.", "vietnamese": "Có tác dụng rất lớn trong việc tạo nên thi vị cuộc sống, do đó được mọi người yêu mến nhất.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "情调趣味，生活或艺术中的雅趣。",
+      "collocations": ["生活情趣", "富有情趣", "高雅的情趣"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l14_w29", "order": 29, "textbook": "HSK 5 上", "lesson": 14,
+      "hanzi": "因而", "pinyin": "yīn'ér",
+      "lesson_usage": {
+        "part_of_speech": "连词 (Liên từ)",
+        "meaning": "do đó, vì vậy",
+        "structure": "[Nguyên nhân]，因而 + [Kết quả]",
+        "explanation": "Liên từ văn viết biểu thị kết quả suy ra tự nhiên từ nguyên nhân ở vế trước (gần nghĩa với 所以, trang trọng hơn).",
+        "examples": [{ "chinese": "对创造生活情趣起了很大作用，因而最为人们所喜爱。", "pinyin": "Duì chuàngzào shēnghuó qíngqù qǐ le hěn dà zuòyòng, yīn'ér zuì wéi rénmen suǒ xǐ'ài.", "vietnamese": "Đóng vai trò rất lớn trong việc tạo nên thi vị cuộc sống, do đó được mọi người yêu thích nhất.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "表示结果，相当于“因此、所以”（偏书面语）。",
+      "collocations": ["因而受到欢迎", "因而身体很好"],
+      "usage_note": "Phân biệt với 反而 (ngược lại — Bài tập 2 câu 3 tr.132): '他坚持锻炼，因而身体很好。' (kết quả thuận chiều → 因而).",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l14_w30", "order": 30, "textbook": "HSK 5 上", "lesson": 14,
+      "hanzi": "为", "pinyin": "wéi",
+      "lesson_usage": {
+        "part_of_speech": "介词 (Giới từ)",
+        "meaning": "(thường được dùng với “所”) bị, được",
+        "structure": "为 + [Tác nhân] + 所 + V",
+        "explanation": "Cấu trúc bị động văn viết “为……所……”, trong đó 为 tương đương với 被.",
+        "examples": [{ "chinese": "因而最为人们所喜爱。", "pinyin": "Yīn'ér zuì wéi rénmen suǒ xǐ'ài.", "vietnamese": "Do đó được mọi người yêu thích nhất.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Đọc wéi — Động từ)",
+          "meanings": ["là, trở thành, làm"],
+          "structure": "被称为…… / 多为…… / 成为",
+          "difference_note": "Chính trong đoạn 3 của bài khóa cũng dùng 为 nghĩa động từ 'là': 被称为“大杂院”，住户多为普通劳动人民.",
+          "examples": [{ "chinese": "被称为“大杂院”，住户多为普通劳动人民。", "pinyin": "Bèi chēngwéi “dàzáyuàn”, zhùhù duō wéi pǔtōng láodòng rénmín.", "vietnamese": "Được gọi là “đại tạp viện”, cư dân phần nhiều là nhân dân lao động bình thường." }]
+        },
+        {
+          "part_of_speech": "介词 (Đọc wèi — Giới từ)",
+          "meanings": ["vì, cho, đối với"],
+          "structure": "为 + 某人/某事 + V / 为了",
+          "difference_note": "Đọc thanh 4 (wèi) khi chỉ đối tượng phục vụ hoặc mục đích/nguyên nhân.",
+          "examples": [{ "chinese": "老师为同学们的进步感到高兴。", "pinyin": "Lǎoshī wèi tóngxué men de jìnbù gǎndào gāoxìng.", "vietnamese": "Thầy giáo cảm thấy vui mừng vì sự tiến bộ của các học sinh." }]
+        }
+      ],
+      "chinese_explanation": "介词，表被动（为……所……）；动词，是、成为（wéi）；介词，替、为了（wèi）。",
+      "collocations": ["为人们所喜爱", "为人所用", "被称为", "为人民服务"],
+      "usage_note": "Xem Chú thích 3 trang 129–130 về cấu trúc bị động văn viết 为……所…….",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l14_w31", "order": 31, "textbook": "HSK 5 上", "lesson": 14,
+      "hanzi": "关闭", "pinyin": "guānbì",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "đóng kín",
+        "structure": "关闭大门 / 关闭手机 / 关闭电脑 / 关闭工厂",
+        "explanation": "Đóng cửa lại, tắt thiết bị/chương trình hoặc đóng cửa ngừng hoạt động một cơ sở (văn viết hơn 关).",
+        "examples": [{ "chinese": "只要关闭起大门，四合院内便形成一个封闭式的小环境。", "pinyin": "Zhǐyào guānbì qǐ dàmén, sìhéyuàn nèi biàn xíngchéng yí ge fēngbìshì de xiǎo huánjìng.", "vietnamese": "Chỉ cần đóng kín cổng lớn lại, bên trong tứ hợp viện liền tạo thành một môi trường nhỏ khép kín.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "合拢、关上（门窗、设备等）；歇业、停办。",
+      "collocations": ["关闭大门", "关闭电脑", "关闭窗口", "关闭企业"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l14_w32", "order": 32, "textbook": "HSK 5 上", "lesson": 14, "is_out_of_syllabus": true,
+      "hanzi": "封闭", "pinyin": "fēngbì",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "khép kín",
+        "structure": "封闭式的小环境 / 封闭道路 / 自我封闭",
+        "explanation": "Đóng kín, ngăn cách với bên ngoài (cả nghĩa không gian vật lý lẫn tâm lý/xã hội).",
+        "examples": [{ "chinese": "只要关闭起大门，四合院内便形成一个封闭式的小环境。", "pinyin": "Zhǐyào guānbì qǐ dàmén, sìhéyuàn nèi biàn xíngchéng yí ge fēngbìshì de xiǎo huánjìng.", "vietnamese": "Chỉ cần đóng kín cổng lớn, bên trong tứ hợp viện liền hình thành một môi trường nhỏ khép kín.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "严密盖住或关住，使和外界隔绝。",
+      "collocations": ["封闭式", "封闭管理", "自我封闭"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l14_w33", "order": 33, "textbook": "HSK 5 上", "lesson": 14,
+      "hanzi": "打交道", "pinyin": "dǎ jiāodào",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ ly hợp)",
+        "meaning": "giao thiệp, tiếp xúc",
+        "structure": "与/和/跟 + 某人 + 打交道 / 打过交道",
+        "explanation": "Qua lại, tiếp xúc, làm việc hoặc giao tiếp với người khác hay sự vật nào đó.",
+        "examples": [{ "chinese": "住在四合院里的人不常与周围的邻居打交道。", "pinyin": "Zhù zài sìhéyuàn li de rén bù cháng yǔ zhōuwéi de línjū dǎ jiāodào.", "vietnamese": "Người sống trong tứ hợp viện ít khi giao thiệp với hàng xóm xung quanh.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "互相来往、接触联系。",
+      "collocations": ["与邻居打交道", "跟外国人打交道", "打过交道"],
+      "usage_note": "Là cụm động–tân (ly hợp): KHÔNG mang tân ngữ trực tiếp phía sau, phải dùng giới từ 与/和/跟 + đối tượng + 打交道.",
+      "common_errors": "Sai: '打交道邻居' → Đúng: '与邻居打交道'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l14_w34", "order": 34, "textbook": "HSK 5 上", "lesson": 14,
+      "hanzi": "日子", "pinyin": "rìzi",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "cuộc sống",
+        "structure": "过着……的日子 / 幸福的日子 / 困难的日子 / 与世无争的日子",
+        "explanation": "Đời sống, sinh hoạt hằng ngày (gần nghĩa với 生活 nhưng mang sắc thái khẩu ngữ, ấm áp gần gũi hơn).",
+        "examples": [{ "chinese": "在小院里，一家人过着与世无争的日子，充分享受家庭的乐趣。", "pinyin": "Zài xiǎoyuàn li, yìjiārén guòzhe yǔshìwúzhēng de rìzi, chōngfèn xiǎngshòu jiātíng de lèqù.", "vietnamese": "Trong sân nhỏ, cả nhà sống cuộc sống không màng tranh đua với đời, tận hưởng trọn vẹn niềm vui gia đình.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ)",
+          "meanings": ["ngày (một mốc ngày cụ thể); khoảng thời gian"],
+          "structure": "重要的日子 / 好日子 / 这些日子",
+          "difference_note": "Chỉ ngày tháng cụ thể (ngày cưới, ngày lễ) hoặc quãng thời gian, khác nghĩa 'đời sống' trong 过日子.",
+          "examples": [{ "chinese": "今天是他们结婚十周年的重要日子。", "pinyin": "Jīntiān shì tāmen jiéhūn shí zhōunián de zhòngyào rìzi.", "vietnamese": "Hôm nay là ngày quan trọng kỷ niệm mười năm ngày cưới của họ." }]
+        }
+      ],
+      "chinese_explanation": "生活、生计；特定的日期；时间。",
+      "collocations": ["过日子", "幸福的日子", "重要的日子", "困难的日子"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l14_w35", "order": 35, "textbook": "HSK 5 上", "lesson": 14,
+      "hanzi": "充分", "pinyin": "chōngfèn",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)",
+        "meaning": "đầy đủ, trọn vẹn",
+        "structure": "充分 + 享受/利用/发挥/准备  |  准备/理由 + 充分  |  充分的准备",
+        "explanation": "Đầy đủ ở mức cao nhất, không thiếu sót (dùng cho cái trừu tượng như chuẩn bị, lý do, tận dụng, hưởng thụ).",
+        "examples": [{ "chinese": "一家人过着与世无争的日子，充分享受家庭的乐趣。", "pinyin": "Yìjiārén guòzhe yǔshìwúzhēng de rìzi, chōngfèn xiǎngshòu jiātíng de lèqù.", "vietnamese": "Cả gia đình sống cuộc sống không tranh đua với đời, tận hưởng trọn vẹn niềm vui gia đình.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "足够、尽量、完全。",
+      "collocations": ["充分准备", "理由充分", "充分利用", "充分享受"],
+      "usage_note": "Không dùng cho vật cụ thể (không nói '水很充分' hay '食物很充分', phải dùng 充足).",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l14_w36", "order": 36, "textbook": "HSK 5 上", "lesson": 14,
+      "hanzi": "令", "pinyin": "lìng",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "khiến, làm cho",
+        "structure": "令 + 某人 + 感到/满意/吃惊/难忘/敬佩",
+        "explanation": "Động từ sai khiến thiên về văn viết, thường dùng với cảm xúc, thái độ hoặc phản ứng tâm lý (không dùng để sai bảo hành động cụ thể như 让).",
+        "examples": [{ "chinese": "自然有一种令人感到自在亲切的气氛。", "pinyin": "Zìrán yǒu yì zhǒng lìng rén gǎndào zìzài qīnqiè de qìfēn.", "vietnamese": "Tự nhiên có một bầu không khí khiến người ta cảm thấy thoải mái, thân thiết.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ)",
+          "meanings": ["mệnh lệnh, sắc lệnh, khẩu lệnh"],
+          "structure": "命令 / 下令 / 口令",
+          "difference_note": "Trong các từ ghép Hán Việt làm danh từ chỉ mệnh lệnh.",
+          "examples": [{ "chinese": "将军下令全体士兵坚守阵地。", "pinyin": "Jiāngjūn xiàlìng quántǐ shìbīng jiānshǒu zhèndì.", "vietnamese": "Tướng quân hạ lệnh cho toàn thể binh sĩ kiên thủ trận địa." }]
+        }
+      ],
+      "chinese_explanation": "使、使得（多引起某种感情或反应）；命令。",
+      "collocations": ["令人满意", "令人感动", "令人吃惊", "令人难忘"],
+      "usage_note": "Phân biệt với 让 (Bài tập 2 câu 4 tr.132): '是那位工程师让我把机器安装在这儿。' (sai bảo hành động cụ thể → dùng 让, KHÔNG dùng 令!).",
+      "common_errors": "Sai: '老师令我去办公室' → Phải dùng '让/叫'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l14_w37", "order": 37, "textbook": "HSK 5 上", "lesson": 14,
+      "hanzi": "亲切", "pinyin": "qīnqiè",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)",
+        "meaning": "thân mật, thân thiết",
+        "structure": "亲切的气氛 / 亲切的笑容 / 态度很亲切",
+        "explanation": "Gần gũi, ấm áp, dễ mến khiến người khác cảm thấy thân tình.",
+        "examples": [{ "chinese": "自然有一种令人感到自在亲切的气氛。", "pinyin": "Zìrán yǒu yì zhǒng lìng rén gǎndào zìzài qīnqiè de qìfēn.", "vietnamese": "Tự nhiên có một bầu không khí khiến người ta thấy tự tại, thân thiết.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "形容人态度热情、和蔼，使人感到亲近。",
+      "collocations": ["亲切的笑容", "态度亲切", "感到亲切", "亲切交谈"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l14_w38", "order": 38, "textbook": "HSK 5 上", "lesson": 14,
+      "hanzi": "劳动", "pinyin": "láodòng",
+      "lesson_usage": {
+        "part_of_speech": "名词 / 动词 (Danh từ / Động từ)",
+        "meanings": ["1. (Danh từ) lao động, công việc", "2. (Động từ) làm việc, lao động (bằng chân tay)"],
+        "meaning": "lao động, công việc; làm việc, lao động (bằng chân tay)",
+        "structure": "劳动人民 / 体力劳动 / 热爱劳动 / 劳动节",
+        "explanation": "Sách gốc ghi đủ dt./đgt.: hoạt động tạo ra của cải vật chất hay tinh thần, đặc biệt nhấn mạnh lao động chân tay.",
+        "examples": [
+          { "chinese": "被称为“大杂院”，住户多为普通劳动人民。", "pinyin": "Bèi chēngwéi “dàzáyuàn”, zhùhù duō wéi pǔtōng láodòng rénmín.", "vietnamese": "Được gọi là “đại tạp viện”, cư dân phần nhiều là nhân dân lao động bình thường.", "from_text": true },
+          { "chinese": "周末同学们一起去公园参加义务劳动。", "pinyin": "Zhōumò tóngxué men yìqǐ qù gōngyuán cānjiā yìwù láodòng.", "vietnamese": "Cuối tuần các học sinh cùng đi công viên tham gia lao động công ích." }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "人类创造物质或精神财富的活动；进行体力或脑力工作。",
+      "collocations": ["劳动人民", "劳动节", "体力劳动", "脑力劳动"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l14_w39", "order": 39, "textbook": "HSK 5 上", "lesson": 14,
+      "hanzi": "人民", "pinyin": "rénmín",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "nhân dân",
+        "structure": "劳动人民 / 中国人民 / 为人民服务",
+        "explanation": "Toàn thể người dân lao động và công dân của một đất nước hoặc xã hội.",
+        "examples": [{ "chinese": "住户多为普通劳动人民。", "pinyin": "Zhùhù duō wéi pǔtōng láodòng rénmín.", "vietnamese": "Cư dân phần lớn là nhân dân lao động bình thường.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "以劳动群众为主体的社会基本成员。",
+      "collocations": ["劳动人民", "中国人民", "人民医院", "人民币"],
+      "usage_note": "Là danh từ tập hợp nên KHÔNG đi với số từ cá thể (không nói '一个人民').",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l14_w40", "order": 40, "textbook": "HSK 5 上", "lesson": 14,
+      "hanzi": "矛盾", "pinyin": "máodùn",
+      "lesson_usage": {
+        "part_of_speech": "名词 / 形容词 (Danh từ / Tính từ)",
+        "meanings": ["1. (Danh từ) sự mâu thuẫn, xích mích", "2. (Tính từ) mâu thuẫn, trái ngược nhau (trong lời nói/suy nghĩ)"],
+        "meaning": "sự mâu thuẫn; mâu thuẫn",
+        "structure": "(dt) 产生/有/闹/解决 + 矛盾; (tt) 很矛盾 / 矛盾极了 / 自相矛盾",
+        "explanation": "Sách gốc ghi đủ dt./tt.: vừa chỉ bất đồng xung đột giữa người với người, vừa chỉ trạng thái tâm lý hoặc lời nói trái ngược nhau.",
+        "examples": [
+          { "chinese": "邻里之间有时虽然也有矛盾，但更多时候是互帮互助。", "pinyin": "Línlǐ zhījiān yǒushí suīrán yě yǒu máodùn, dàn gèng duō shíhou shì hùbāng hùzhù.", "vietnamese": "Giữa hàng xóm láng giềng tuy đôi lúc cũng có mâu thuẫn, nhưng phần lớn thời gian là giúp đỡ lẫn nhau.", "from_text": true },
+          { "chinese": "这件事让我心里矛盾极了，不知道该怎么决定。", "pinyin": "Zhè jiàn shì ràng wǒ xīnli máodùn jí le, bù zhīdào gāi zěnme juédìng.", "vietnamese": "Chuyện này làm trong lòng tôi mâu thuẫn cực kỳ, không biết nên quyết định thế nào." }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "因意见不合而产生的冲突；言行或心理互相抵触。",
+      "collocations": ["产生矛盾", "闹矛盾", "解决矛盾", "矛盾极了"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l14_w41", "order": 41, "textbook": "HSK 5 上", "lesson": 14,
+      "hanzi": "浓", "pinyin": "nóng",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)",
+        "meaning": "sâu sắc, đậm",
+        "structure": "浓浓的情感 / 兴趣很浓",
+        "explanation": "Chỉ tình cảm, hứng thú hoặc không khí sâu đậm, nồng nàn.",
+        "examples": [{ "chinese": "这种浓浓的情感是许多老北京人无法忘记的。", "pinyin": "Zhè zhǒng nóngnóng de qínggǎn shì xǔduō lǎo Běijīng rén wúfǎ wàngjì de.", "vietnamese": "Thứ tình cảm nồng hậu sâu sắc này là điều rất nhiều người Bắc Kinh xưa không thể nào quên.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "形容词 (Tính từ — Nghĩa cụ thể về độ đặc/dày)",
+          "meanings": ["đặc, đậm đặc, dày đặc (trà, cà phê, sương mù, màu sắc, mùi hương)"],
+          "structure": "浓茶 / 浓咖啡 / 雾很浓 / 浓烟",
+          "difference_note": "Nghĩa gốc vật lý chỉ mật độ/nồng độ cao (trái nghĩa với 淡 – nhạt), xuất hiện ngay trong Bài tập 1 câu 3 tr.132.",
+          "examples": [{ "chinese": "今天雾很浓，对面的建筑都看不清了。", "pinyin": "Jīntiān wù hěn nóng, duìmiàn de jiànzhù dōu kàn bu qīng le.", "vietnamese": "Hôm nay sương mù rất dày, cả tòa nhà đối diện cũng không nhìn rõ nữa." }]
+        }
+      ],
+      "chinese_explanation": "感情深厚、程度深；液体或气体含某种成分多（跟“淡”相对）。",
+      "collocations": ["浓浓的情感", "雾很浓", "浓茶", "浓厚的兴趣"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    }
+  ],
+  "proper_nouns": [
+    {
+      "hanzi": "华北",
+      "pinyin": "Huáběi",
+      "meaning": "Hoa Bắc (khu vực phía Bắc Trung Quốc, gồm Bắc Kinh, Thiên Tân, Hà Bắc, Sơn Tây, Nội Mông)"
+    }
+  ],
+  "collocations_table": [
+    { "relation": "Động từ + Tân ngữ", "head": "有/具备", "partners": "……（的）功能" },
+    { "relation": "Động từ + Tân ngữ", "head": "创造", "partners": "文字 / 历史 / 机会 / 条件 / 奇迹 / 美好生活" },
+    { "relation": "Động từ + Tân ngữ", "head": "产生/有/闹", "partners": "矛盾" },
+    { "relation": "Định ngữ + Trung tâm ngữ", "head": "日常", "partners": "生活 / 工作 / 用品 / 用语" },
+    { "relation": "Định ngữ + Trung tâm ngữ", "head": "重要的/幸福的/困难的/与世无争的", "partners": "日子" },
+    { "relation": "Trạng ngữ + Trung tâm ngữ", "head": "广泛（地）", "partners": "调查 / 研究 / 应用 / 流行 / 分布 / 关注" },
+    { "relation": "Trung tâm ngữ + Bổ ngữ", "head": "组合", "partners": "起来 / 到一起 / 成……" },
+    { "relation": "Trung tâm ngữ + Bổ ngữ", "head": "矛盾", "partners": "极了" },
+    { "relation": "Chủ ngữ + Vị ngữ", "head": "兴趣/爱好/知识/内容", "partners": "广泛" },
+    { "relation": "Chủ ngữ + Vị ngữ", "head": "准备/理由", "partners": "充分" }
+  ],
+  "grammar": [
+    {
+      "title": "所谓",
+      "formula": "(1) 所谓 + Khái niệm，(就是)……  |  (2) 所谓的“……” (không tán thành/nghi ngờ)",
+      "meaning": "Cái gọi là...",
+      "usage": "Tính từ. Nghĩa 1: nêu ra thuật ngữ/khái niệm thường được nhắc tới để giải thích rõ hơn. Nghĩa 2: dẫn lại lời một số người nói, thường biểu thị thái độ không đồng tình, không công nhận.",
+      "context": "Rất phổ biến trong văn thuyết minh, bình luận, báo chí và hội thoại phản biện.",
+      "examples": [
+        { "chinese": "很多时候，烦恼是自己找来的，这就是所谓的“自寻烦恼”。", "pinyin": "Hěn duō shíhou, fánnǎo shì zìjǐ zhǎolái de, zhè jiùshì suǒwèi de “zìxún fánnǎo”.", "vietnamese": "Rất nhiều khi, phiền não là do tự mình chuốc lấy, đây chính là cái gọi là “tự tìm phiền não”." },
+        { "chinese": "所谓四合，“四”指东、西、南、北四面，“合”就是四面房屋围在一起，中间形成一个方形的院子。", "pinyin": "Suǒwèi sìhé, “sì” zhǐ dōng, xī, nán, běi sìmiàn, “hé” jiùshì sìmiàn fángwū wéi zài yìqǐ, zhōngjiān xíngchéng yí ge fāngxíng de yuànzi.", "vietnamese": "Cái gọi là “tứ hợp”: “tứ” chỉ bốn hướng đông, tây, nam, bắc; “hợp” là bốn mặt nhà quây vào nhau, ở giữa tạo thành một cái sân vuông." },
+        { "chinese": "他所谓的“新闻”，其实我们早就知道了！", "pinyin": "Tā suǒwèi de “xīnwén”, qíshí wǒmen zǎo jiù zhīdào le!", "vietnamese": "Cái gọi là “tin mới” của anh ta, thực ra chúng tôi biết từ lâu rồi!" },
+        { "chinese": "现在市场上所谓的“健康食品”其实没有统一的标准。", "pinyin": "Xiànzài shìchǎng shang suǒwèi de “jiànkāng shípǐn” qíshí méiyǒu tǒngyī de biāozhǔn.", "vietnamese": "Cái gọi là “thực phẩm tốt cho sức khỏe” trên thị trường hiện nay thực ra không có tiêu chuẩn thống nhất." }
+      ],
+      "important_notes": "Chỉ làm định ngữ đứng trước danh từ/cụm danh từ (có thể thêm 的 khi mang sắc thái nghi ngờ/mỉa mai).",
+      "common_errors": "",
+      "comparison": "",
+      "mini_practice": [
+        { "prompt": "四面房屋围在一起，中间形成一个方形的院子，______________________。（所谓）", "sample_answer": "这就是所谓的“四合院”", "explanation": "Dùng 这就是所谓的…… để gọi tên khái niệm vừa miêu tả." }
+      ]
+    },
+    {
+      "title": "则 (Lượng từ · Liên từ tương phản · Liên từ nhân quả)",
+      "formula": "(1) Số từ + 则 + văn bản ngắn  |  (2) A……，（而）B 则……  |  (3) [Điều kiện] + 则 + [Kết quả]",
+      "meaning": "1. Mẩu/bài (lượng từ) · 2. Còn/trong khi đó (tương phản) · 3. Thì (nhân quả văn viết).",
+      "usage": "(1) Lượng từ cho đoạn văn/tin tức/câu chuyện ngắn; (2) Liên từ đặt ở vế sau biểu thị đối chiếu tương phản giữa A và B; (3) Liên từ biểu thị quan hệ nhân quả/điều kiện trong văn viết, tương đương 就 trong khẩu ngữ.",
+      "context": "Xuất hiện liên tục trong đề đọc hiểu HSK 5 (so sánh số liệu, tin tức, triết lý).",
+      "examples": [
+        { "chinese": "在第七课，我们学习了两则成语故事。", "pinyin": "Zài dì-qī kè, wǒmen xuéxí le liǎng zé chéngyǔ gùshi.", "vietnamese": "Ở bài 7, chúng ta đã học hai câu chuyện thành ngữ." },
+        { "chinese": "今天的报纸上有一则非常重要的新闻。", "pinyin": "Jīntiān de bàozhǐ shang yǒu yì zé fēicháng zhòngyào de xīnwén.", "vietnamese": "Trên báo hôm nay có một mẩu tin tức vô cùng quan trọng." },
+        { "chinese": "猫享受独处的快乐，而狗则是希望和别人分享快乐。", "pinyin": "Māo xiǎngshòu dúchǔ de kuàilè, ér gǒu zé shì xīwàng hé biérén fēnxiǎng kuàilè.", "vietnamese": "Mèo tận hưởng niềm vui ở một mình, còn chó thì mong muốn chia sẻ niềm vui với người khác." },
+        { "chinese": "有的人家喜欢种草、养花、种竹子，有的人家则喜欢用大盆养金鱼。", "pinyin": "Yǒude rénjiā xǐhuan zhòng cǎo, yǎng huā, zhòng zhúzi, yǒude rénjiā zé xǐhuan yòng dà pén yǎng jīnyú.", "vietnamese": "Có nhà thích trồng cỏ, chăm hoa, trồng trúc, còn có nhà thì thích dùng chậu lớn nuôi cá vàng." },
+        { "chinese": "北京的冬天，有风则寒，无风则暖。", "pinyin": "Běijīng de dōngtiān, yǒu fēng zé hán, wú fēng zé nuǎn.", "vietnamese": "Mùa đông Bắc Kinh, có gió thì lạnh, không gió thì ấm." },
+        { "chinese": "“欲速则不达”，人生不能总是要求“快”，其实，“慢”也是一种生活的艺术。", "pinyin": "“Yù sù zé bù dá”, rénshēng bù néng zǒngshì yāoqiú “kuài”, qíshí, “màn” yě shì yì zhǒng shēnghuó de yìshù.", "vietnamese": "“Dục tốc bất đạt”, đời người không thể lúc nào cũng đòi hỏi “nhanh”, thực ra “chậm” cũng là một nghệ thuật sống." }
+      ],
+      "important_notes": "Khi làm liên từ tương phản, 则 luôn đứng SAU chủ ngữ của vế sau (B 则……), không đứng trước chủ ngữ!",
+      "common_errors": "Sai: '猫喜欢独处，则狗喜欢分享' → Đúng: '而狗则喜欢分享'.",
+      "comparison": "",
+      "mini_practice": [
+        { "prompt": "一项调查显示，只有37%的人愿意回到没有手机的时代，______________________。（则—连词）", "sample_answer": "另外63%的人则离不开手机", "explanation": "Dùng cấu trúc đối chiếu A……，B 则…… đặt 则 sau chủ ngữ B." }
+      ]
+    },
+    {
+      "title": "为……所……",
+      "formula": "S + 为 + [Đối tượng/Tác nhân] + 所 + V",
+      "meaning": "Được / bị ... (làm gì).",
+      "usage": "Cấu trúc cố định biểu thị bị động, dùng nhiều trong văn viết trang trọng; ở đây 为 (wéi) mang nghĩa như 被, động từ phía sau thường là động từ 2 âm tiết (hoặc 1 âm tiết cổ như 用).",
+      "context": "Văn báo chí, giới thiệu văn hóa, bài luận HSK 5–6.",
+      "examples": [
+        { "chinese": "认识他的人，没有一个人不为他认真的工作态度所感动。", "pinyin": "Rènshi tā de rén, méiyǒu yí ge rén bù wéi tā rènzhēn de gōngzuò tàidù suǒ gǎndòng.", "vietnamese": "Những người quen biết anh ấy, không một ai là không cảm động trước thái độ làm việc nghiêm túc của anh." },
+        { "chinese": "有了科学，大自然就可以更好地为人所用。", "pinyin": "Yǒu le kēxué, dàzìrán jiù kěyǐ gèng hǎo de wéi rén suǒ yòng.", "vietnamese": "Có khoa học, thiên nhiên liền có thể phục vụ con người tốt hơn." },
+        { "chinese": "院子不仅拉近了人与自然的关系，也让家里人在此得到了感情的交流，对创造生活情趣起了很大作用，因而最为人们所喜爱。", "pinyin": "Yuànzi bùjǐn lājìn le rén yǔ zìrán de guānxi, yě ràng jiālǐ rén zài cǐ dédào le gǎnqíng de jiāoliú, duì chuàngzào shēnghuó qíngqù qǐ le hěn dà zuòyòng, yīn'ér zuì wéi rénmen suǒ xǐ'ài.", "vietnamese": "Cái sân không chỉ kéo gần mối quan hệ giữa con người với thiên nhiên, mà còn giúp người nhà giao lưu tình cảm tại đây, tạo nên thi vị cuộc sống, do đó được mọi người yêu thích nhất." }
+      ],
+      "important_notes": "Giữa 为 và 所 BẮT BUỘC phải có tác nhân thực hiện hành động (VD: 为人们所喜爱, 为他所感动); sau 所 là động từ nguyên thể không mang tân ngữ.",
+      "common_errors": "",
+      "comparison": "Tương đương câu bị động 被 nhưng sắc thái trang trọng, văn viết hơn.",
+      "mini_practice": [
+        { "prompt": "在这座小城，她______________________，因为她把这里的每一位老人都当成家人来照顾。（为……所……）", "sample_answer": "为所有居民所尊敬", "explanation": "为 + tác nhân (所有居民) + 所 + động từ 2 âm tiết (尊敬)." }
+      ]
+    },
+    {
+      "title": "起 (Động từ + 起)",
+      "formula": "V + 起 (+ Tân ngữ)",
+      "meaning": "Kết nối, gắn kết, đóng chặt, thiết lập cố định.",
+      "usage": "Động từ làm bổ ngữ kết quả trong cấu trúc “动词 + 起”, biểu thị sự liên kết, kết hợp lại với nhau hoặc cố định vững chắc.",
+      "context": "Các cụm rất hay gặp: 拉起手 (nắm chặt tay), 关闭起大门 (đóng chặt cổng), 建立起制度 (thiết lập chế độ), 建起高楼 (xây nên nhà cao tầng).",
+      "examples": [
+        { "chinese": "拉起手，我们就是好朋友。", "pinyin": "Lāqǐ shǒu, wǒmen jiùshì hǎo péngyou.", "vietnamese": "Nắm tay nhau lại, chúng ta chính là bạn tốt." },
+        { "chinese": "只要关闭起大门，四合院内便形成一个封闭式的小环境。", "pinyin": "Zhǐyào guānbì qǐ dàmén, sìhéyuàn nèi biàn xíngchéng yí ge fēngbìshì de xiǎo huánjìng.", "vietnamese": "Chỉ cần đóng kín cổng lớn lại, trong tứ hợp viện liền tạo nên một môi trường nhỏ khép kín." },
+        { "chinese": "对公司来说，最重要的是建立起一套行之有效的制度。", "pinyin": "Duì gōngsī láishuō, zuì zhòngyào de shì jiànlì qǐ yí tào xíngzhīyǒuxiào de zhìdù.", "vietnamese": "Đối với công ty mà nói, quan trọng nhất là thiết lập nên một bộ quy chế hữu hiệu." }
+      ],
+      "important_notes": "Phân biệt với V + 起来 (bắt đầu hành động hoặc hướng lên trên): ở đây V + 起 nhấn mạnh sự kết hợp/đóng kín/cố định và mang thẳng tân ngữ ngay sau 起.",
+      "common_errors": "",
+      "comparison": "",
+      "mini_practice": [
+        { "prompt": "我们两国______________________。（动词+起）", "sample_answer": "建立起了深厚的友谊", "explanation": "建立起 + 友谊/外交关系 biểu thị thiết lập, gắn kết bền chặt." }
+      ]
+    }
+  ],
+  "comparison_section": {
+    "label": "词语辨析 Phân biệt từ ngữ",
+    "pair": "通常 — 常常",
+    "term_a": "通常 (tōngcháng)",
+    "term_b": "常常 (chángcháng)",
+    "similarity": "Đều biểu thị hành động, hành vi thường xuyên xảy ra giống nhau; trong một số câu có thể thay thế cho nhau nhưng trọng tâm nhấn mạnh khác nhau. VD: 我通常/常常在学校外面那个超市买东西。",
+    "differences": [
+      {
+        "criterion": "Trọng tâm ý nghĩa",
+        "a": "Nhấn mạnh hành động có TÍNH QUY LUẬT, theo lệ thường (如：有钱人家的，通常是由好几座四合院并列组成的。).",
+        "b": "Nhấn mạnh hành động XUẤT HIỆN NHIỀU LẦN về mặt tần suất (如：他成绩很好，常常受到表扬。)."
+      },
+      {
+        "criterion": "Từ loại & chức năng cú pháp",
+        "a": "Là tính từ (và phó từ), CÓ THỂ làm định ngữ hoặc đứng đầu câu bổ nghĩa cho cả phân câu (如：我们通常的做法都是这样的。 / 通常除夕晚上都要放鞭炮。).",
+        "b": "Là phó từ, KHÔNG THỂ làm định ngữ và KHÔNG đứng đầu câu bổ nghĩa cho cả phân câu (如：他常常去上海出差，对上海很熟悉。)."
+      }
+    ]
+  },
+  "texts": [
+    {
+      "id": "t1",
+      "title_zh": "北京的四合院（617字）",
+      "title_vi": "Tứ hợp viện Bắc Kinh",
+      "lines": [
+        {
+          "speaker": "",
+          "chinese": "四合院，是中国华北地区民居中的一种组合建筑形式。所谓四合，“四”指东、西、南、北四面，“合”就是四面房屋围在一起，中间形成一个方形的院子。四合院在中国汉族民居中历史最悠久，分布最广泛。不过，只要人们一提到四合院，便自然会想到北京四合院，这是因为传统的北京四合院都有一套固定的样式，十分具有代表性，在各种各样的四合院中，北京四合院可以代表其主要特点。",
+          "pinyin": "Sìhéyuàn, shì Zhōngguó Huáběi dìqū mínjū zhōng de yì zhǒng zǔhé jiànzhù xíngshì. Suǒwèi sìhé, “sì” zhǐ dōng, xī, nán, běi sìmiàn, “hé” jiùshì sìmiàn fángwū wéi zài yìqǐ, zhōngjiān xíngchéng yí ge fāngxíng de yuànzi. Sìhéyuàn zài Zhōngguó Hànzú mínjū zhōng lìshǐ zuì yōujiǔ, fēnbù zuì guǎngfàn. Búguò, zhǐyào rénmen yì tídào sìhéyuàn, biàn zìrán huì xiǎngdào Běijīng sìhéyuàn, zhè shì yīnwèi chuántǒng de Běijīng sìhéyuàn dōu yǒu yí tào gùdìng de yàngshì, shífēn jùyǒu dàibiǎoxìng, zài gèzhǒng gèyàng de sìhéyuàn zhōng, Běijīng sìhéyuàn kěyǐ dàibiǎo qí zhǔyào tèdiǎn.",
+          "vietnamese": "Tứ hợp viện là một loại hình kiến trúc tổ hợp trong nhà ở dân gian vùng Hoa Bắc Trung Quốc. Cái gọi là “tứ hợp”: “tứ” chỉ bốn hướng đông, tây, nam, bắc; “hợp” chính là bốn dãy nhà quây lại với nhau, ở giữa tạo thành một cái sân hình vuông. Trong các kiểu nhà ở dân gian của người Hán ở Trung Quốc, tứ hợp viện có lịch sử lâu đời nhất và phân bố rộng rãi nhất. Tuy nhiên, hễ mọi người nhắc đến tứ hợp viện là tự nhiên nghĩ ngay tới tứ hợp viện Bắc Kinh, bởi vì tứ hợp viện truyền thống Bắc Kinh đều có một kiểu dáng cố định, vô cùng tiêu biểu; trong muôn vàn kiểu tứ hợp viện, tứ hợp viện Bắc Kinh có thể đại diện cho đặc điểm chủ yếu của loại kiến trúc này."
+        },
+        {
+          "speaker": "",
+          "chinese": "北京有各种规模的四合院。最简单的四合院只有一个院子，比较复杂的有两三个，而有钱人家的，通常是由好几座四合院并列组成的。大门一般开在东南角或西北角，院中的北房是正房，比其他房屋的规模大，一般包括长辈的卧室和具备日常起居、接待客人等功能的客厅。院子的两边是东西厢房，是晚辈们生活的地方。在正房和厢房之间建有走廊，可以供人行走和休息。院子是十分理想的室外生活空间。有的人家喜欢种草、养花、种竹子，有的人家则喜欢用大盆养金鱼。院子不仅拉近了人与自然的关系，也让家里人在此得到了感情的交流，对创造生活情趣起了很大作用，因而最为人们所喜爱。",
+          "pinyin": "Běijīng yǒu gèzhǒng guīmó de sìhéyuàn. Zuì jiǎndān de sìhéyuàn zhǐ yǒu yí ge yuànzi, bǐjiào fùzá de yǒu liǎng sān ge, ér yǒuqián rénjiā de, tōngcháng shì yóu hǎo jǐ zuò sìhéyuàn bìngliè zǔchéng de. Dàmén yìbān kāi zài dōngnánjiǎo huò xīběijiǎo, yuàn zhōng de běifáng shì zhèngfáng, bǐ qítā fángwū de guīmó dà, yìbān bāokuò zhǎngbèi de wòshì hé jùbèi rìcháng qǐjū, jiēdài kèrén děng gōngnéng de kètīng. Yuànzi de liǎngbiān shì dōngxī xiāngfáng, shì wǎnbèi men shēnghuó de dìfang. Zài zhèngfáng hé xiāngfáng zhījiān jiànyǒu zǒuláng, kěyǐ gōng rén xíngzǒu hé xiūxi. Yuànzi shì shífēn lǐxiǎng de shìwài shēnghuó kōngjiān. Yǒude rénjiā xǐhuan zhòng cǎo, yǎng huā, zhòng zhúzi, yǒude rénjiā zé xǐhuan yòng dà pén yǎng jīnyú. Yuànzi bùjǐn lājìn le rén yǔ zìrán de guānxi, yě ràng jiālǐ rén zài cǐ dédào le gǎnqíng de jiāoliú, duì chuàngzào shēnghuó qíngqù qǐ le hěn dà zuòyòng, yīn'ér zuì wéi rénmen suǒ xǐ'ài.",
+          "vietnamese": "Bắc Kinh có đủ quy mô tứ hợp viện. Tứ hợp viện đơn giản nhất chỉ có một sân, phức tạp hơn có hai ba sân, còn của nhà giàu thường do vài tòa tứ hợp viện xếp song song hợp thành. Cổng chính thường mở ở góc đông nam hoặc tây bắc, dãy nhà phía bắc trong sân là nhà chính, quy mô lớn hơn các gian khác, thường gồm phòng ngủ của bậc bề trên và phòng khách đảm nhiệm chức năng sinh hoạt thường ngày, tiếp đãi khách khứa. Hai bên sân là nhà chái đông tây, nơi sinh sống của bậc con cháu. Giữa nhà chính và nhà chái có xây hành lang để mọi người đi lại và nghỉ ngơi. Khoảng sân là không gian sinh hoạt ngoài trời vô cùng lý tưởng. Có nhà thích trồng cỏ, chăm hoa, trồng trúc; có nhà lại thích dùng chậu lớn nuôi cá vàng. Cái sân không chỉ kéo gần mối quan hệ giữa con người với thiên nhiên, mà còn giúp người trong nhà giao lưu tình cảm tại đây, đóng vai trò lớn trong việc tạo nên thi vị cuộc sống, do đó được mọi người yêu thích nhất."
+        },
+        {
+          "speaker": "",
+          "chinese": "只要关闭起大门，四合院内便形成一个封闭式的小环境。住在四合院里的人不常与周围的邻居打交道。在小院里，一家人过着与世无争的日子，充分享受家庭的乐趣，自然有一种令人感到自在亲切的气氛。但也有多户合住一座四合院的情况，被称为“大杂院”，住户多为普通劳动人民。邻里之间有时虽然也有矛盾，但更多时候是互帮互助，不是亲人胜过亲人，这种浓浓的情感是许多老北京人无法忘记的。",
+          "pinyin": "Zhǐyào guānbì qǐ dàmén, sìhéyuàn nèi biàn xíngchéng yí ge fēngbìshì de xiǎo huánjìng. Zhù zài sìhéyuàn li de rén bù cháng yǔ zhōuwéi de línjū dǎ jiāodào. Zài xiǎoyuàn li, yìjiārén guòzhe yǔshìwúzhēng de rìzi, chōngfèn xiǎngshòu jiātíng de lèqù, zìrán yǒu yì zhǒng lìng rén gǎndào zìzài qīnqiè de qìfēn. Dàn yě yǒu duō hù hézhù yí zuò sìhéyuàn de qíngkuàng, bèi chēngwéi “dàzáyuàn”, zhùhù duō wéi pǔtōng láodòng rénmín. Línlǐ zhījiān yǒushí suīrán yě yǒu máodùn, dàn gèng duō shíhou shì hùbāng hùzhù, búshì qīnrén shèngguò qīnrén, zhè zhǒng nóngnóng de qínggǎn shì xǔduō lǎo Běijīng rén wúfǎ wàngjì de.",
+          "vietnamese": "Chỉ cần đóng kín cổng lớn lại, bên trong tứ hợp viện liền tạo thành một môi trường nhỏ khép kín. Người sống trong tứ hợp viện ít khi giao thiệp với hàng xóm xung quanh. Trong khoảng sân nhỏ, cả nhà sống cuộc sống yên bình không tranh đua với đời, tận hưởng trọn vẹn niềm vui gia đình, tự nhiên có một bầu không khí khiến người ta thấy tự tại, thân thiết. Tuy nhiên cũng có trường hợp nhiều hộ sống chung một tứ hợp viện, được gọi là “đại tạp viện”, cư dân phần nhiều là nhân dân lao động bình thường. Giữa hàng xóm láng giềng đôi khi tuy cũng có mâu thuẫn, nhưng phần lớn thời gian là giúp đỡ lẫn nhau, chẳng phải người thân mà hơn cả người thân; thứ tình cảm sâu đậm ấy là điều nhiều người Bắc Kinh xưa không bao giờ quên được."
+        }
+      ]
+    }
+  ],
+  "reading_questions": [
+    {
+      "question_zh": "为什么人们一提到四合院，便自然会想到北京四合院？",
+      "question_vi": "Vì sao hễ nhắc tới tứ hợp viện, mọi người lại tự nhiên nghĩ ngay đến tứ hợp viện Bắc Kinh?",
+      "answer_zh": "因为传统的北京四合院都有一套固定的样式，十分具有代表性，在各种各样的四合院中，北京四合院可以代表其主要特点。",
+      "answer_vi": "Bởi vì tứ hợp viện truyền thống Bắc Kinh đều có một kiểu dáng cố định, vô cùng mang tính đại diện, có thể đại diện cho đặc điểm chủ yếu của các loại tứ hợp viện."
+    },
+    {
+      "question_zh": "四合院里的院子为什么最为人们所喜爱？",
+      "question_vi": "Vì sao khoảng sân trong tứ hợp viện lại được mọi người yêu thích nhất?",
+      "answer_zh": "因为院子是十分理想的室外生活空间，不仅拉近了人与自然的关系，也让家里人在此得到了感情的交流，对创造生活情趣起了很大作用。",
+      "answer_vi": "Vì sân là không gian sinh hoạt ngoài trời vô cùng lý tưởng, không chỉ kéo gần quan hệ giữa con người với thiên nhiên mà còn giúp người nhà giao lưu tình cảm và tạo nên thi vị cuộc sống."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "h5s14_ex1", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.132 (Bài tập 1)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ thích hợp điền vào chỗ trống: “现在的手机都______很多功能，不再只是个打电话的工具。”",
+      "options": ["具备", "组合", "关闭", "接待"],
+      "answer": "具备",
+      "explanation": "Cụm kết hợp chuẩn trong bảng 词语搭配 tr.130: 具备……功能 (có đủ chức năng).",
+      "review_tip": "Ôn bảng 词语搭配: 有/具备 + 功能."
+    },
+    {
+      "id": "h5s14_ex2", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.132 (Bài tập 1)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ thích hợp điền vào chỗ trống: “今天雾很______，对面的建筑都看不清了。”",
+      "options": ["浓", "方", "亲切", "充分"],
+      "answer": "浓",
+      "explanation": "浓 dùng miêu tả sương mù/trà/cà phê đậm đặc: 雾很浓 (sương mù rất dày).",
+      "review_tip": "Ôn nghĩa mở rộng của từ #41 浓 (đậm, dày đặc)."
+    },
+    {
+      "id": "h5s14_ex3", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.131 (词语辨析)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ thích hợp điền vào chỗ trống: “在______情况下，火车是不会晚点的。”",
+      "options": ["通常", "常常", "日常", "广泛"],
+      "answer": "通常",
+      "explanation": "通常 có tính chất tính từ, có thể làm định ngữ (通常情况下); 常常 là phó từ không làm định ngữ được.",
+      "review_tip": "Ôn mục 词语辨析: 通常—常常 tr.131."
+    },
+    {
+      "id": "h5s14_ex4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.132 (Bài tập 2)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “手机已经成为人们生活中的重要______部分。”",
+      "options": ["组成", "组合", "形式", "样式"],
+      "answer": "组成",
+      "explanation": "Cụm cố định: 重要组成部分 (bộ phận cấu thành quan trọng). 组合 dùng để chỉ việc ghép nhiều bộ phận riêng lẻ lại (由三个部分组合起来).",
+      "review_tip": "Phân biệt 组成 (cấu thành) và 组合 (tổ hợp, ghép lại)."
+    },
+    {
+      "id": "h5s14_ex5", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.132 (Bài tập 2)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “他的兴趣爱好非常______，跟谁都能聊到一块儿。”",
+      "options": ["广泛", "广大", "充分", "亲切"],
+      "answer": "广泛",
+      "explanation": "Theo bảng 词语搭配 tr.131: 兴趣/爱好/知识/内容 + 广泛 (rộng rãi, phong phú). 广大 thường đi với 人民/地区.",
+      "review_tip": "Ôn bảng 词语搭配 của 广泛."
+    },
+    {
+      "id": "h5s14_ex6", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.132 (Bài tập 2)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn đáp án đúng: “是那位工程师______我把机器安装在这儿。”",
+      "options": ["让", "令", "为", "则"],
+      "answer": "让",
+      "explanation": "令 chỉ dùng để gây ra cảm xúc, trạng thái tâm lý (令人满意/亲切), KHÔNG dùng để sai bảo làm hành động cụ thể như 让.",
+      "review_tip": "Phân biệt 令 (khiến nảy sinh cảm xúc) vs 让 (bảo/nhờ làm hành động)."
+    },
+    {
+      "id": "h5s14_ex7", "type": "grammar_mc", "level": "Vận dụng", "origin_tag": "Sách gốc tr.129–130 & tr.132", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn đáp án đúng hoàn thành câu: “他坚持锻炼，______身体很好，他的毅力也最______人们所佩服。”",
+      "options": ["因而……为", "反而……为", "因而……被", "反而……令"],
+      "answer": "因而……为",
+      "explanation": "Vế 1–2 là quan hệ nhân quả thuận chiều → 因而 (Bài tập 2 câu 3 tr.132); vế 3 dùng cấu trúc bị động văn viết 为……所…… (Chú thích 3 tr.129).",
+      "review_tip": "Ôn liên từ 因而 và cấu trúc 为……所……."
+    },
+    {
+      "id": "h5s14_ex8", "type": "context_mc", "level": "Vận dụng", "origin_tag": "Ôn tập Bài 1–13", "mistake_category": "Từ vựng",
+      "prompt": "Ôn tập HSK 5 上 (Bài 1): “没想到这么简单的问题，他______也没有回答出来！”",
+      "options": ["居然", "通常", "因而", "所谓"],
+      "answer": "居然",
+      "explanation": "Câu có 没想到 biểu thị sự ngạc nhiên nằm ngoài dự đoán → dùng phó từ 居然 (lại có thể, không ngờ lại).",
+      "review_tip": "Ôn lại phó từ 居然 (Bài 1)."
+    },
+    {
+      "id": "h5s14_ex9", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Ôn tập Bài 1–13", "mistake_category": "Ngữ pháp",
+      "prompt": "Ôn tập HSK 5 上 (Bài 1): “明天我们要开会讨论这个难题该______解决。”",
+      "options": ["如何", "所谓", "因而", "充分"],
+      "answer": "如何",
+      "explanation": "如何 + Động từ dùng trong văn viết để hỏi phương thức, cách làm ('nên giải quyết như thế nào').",
+      "review_tip": "Ôn lại đại từ 如何 (Bài 1)."
+    },
+    {
+      "id": "h5s14_ex10", "type": "context_mc", "level": "Vận dụng", "origin_tag": "Ôn tập Bài 14 (Mở rộng tr.133)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ mở rộng chủ đề Kiến trúc (tr.133) điền vào chỗ trống: “这套房子除了客厅、卧室、厨房、卫生间，还有两个大______。”",
+      "options": ["阳台", "走廊", "单元", "广场"],
+      "answer": "阳台",
+      "explanation": "Trong một căn hộ (套房子) đi cùng phòng khách, phòng ngủ, bếp, nhà vệ sinh là ban công (阳台 — 扩展 做一做 câu 1 tr.133).",
+      "review_tip": "Ôn bảng từ mở rộng chủ đề 建筑 tr.133: 阳台、宿舍、单元、隔壁."
+    }
+  ]
+}

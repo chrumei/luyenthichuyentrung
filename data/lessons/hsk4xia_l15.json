@@ -1,0 +1,517 @@
+{
+  "id": "hsk4xia_l15",
+  "book_id": "hsk4xia",
+  "textbook": "HSK 4 下",
+  "lesson_number": 15,
+  "title_zh": "教育孩子的艺术",
+  "title_vi": "Nghệ thuật giáo dục con cái",
+  "pdf_pages": "Trang 65–78 (Chuẩn HSK4 下.pdf)",
+  "source_status": "verified_textbook",
+  "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"],
+  "vocabulary": [
+    {
+      "id": "hsk4x_l15_w01", "order": 1, "textbook": "HSK 4 下", "lesson": 15,
+      "hanzi": "弹钢琴", "pinyin": "tán gāngqín",
+      "lesson_usage": { "part_of_speech": "动词短语 (Cụm động-tân)", "meaning": "chơi đàn dương cầm", "structure": "练习弹钢琴 / 一边弹钢琴一边唱歌", "explanation": "Động từ 弹 (tán – gảy, đánh đàn) kết hợp với 钢琴 (đàn piano/dương cầm).", "examples": [{ "chinese": "那个一边弹钢琴一边唱歌的男孩子是谁？表演得真棒！", "pinyin": "Nàge yìbiān tán gāngqín yìbiān chàng gē de nán háizi shì shéi? Biǎoyǎn de zhēn bàng!", "vietnamese": "Cậu bé vừa chơi đàn dương cầm vừa hát kia là ai thế? Biểu diễn xuất sắc thật!", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "用手弹奏钢琴。", "collocations": ["练习弹钢琴", "学弹钢琴", "弹得很好"], "usage_note": "Chữ 弹 ở đây đọc thanh 2 (tán – đánh đàn); khi là danh từ chỉ viên đạn (子弹) mới đọc dàn.", "common_errors": "Không dùng 打钢琴 hay 玩钢琴 → phải dùng 弹钢琴.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l15_w02", "order": 2, "textbook": "HSK 4 下", "lesson": 15,
+      "hanzi": "棒", "pinyin": "bàng",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "xuất sắc, hay, giỏi", "structure": "真棒 / 太棒了 / 表演得真棒", "explanation": "Dùng nhiều trong khẩu ngữ để khen ngợi năng lực, biểu hiện hoặc thể lực tốt.", "examples": [{ "chinese": "那个一边弹钢琴一边唱歌的男孩子是谁？表演得真棒！", "pinyin": "Nàge yìbiān tán gāngqín yìbiān chàng gē de nán háizi shì shéi? Biǎoyǎn de zhēn bàng!", "vietnamese": "Cậu bé vừa chơi đàn dương cầm vừa hát kia là ai thế? Biểu diễn xuất sắc thật!", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["cây gậy, thanh gỗ/kim loại dài"], "structure": "木棒 / 棒球 / 接力棒", "difference_note": "Nghĩa gốc là danh từ chỉ gậy gộc (khác với nghĩa tính từ khen giỏi trong khẩu ngữ).", "examples": [{ "chinese": "他平时最喜欢和朋友一起打棒球。", "pinyin": "Tā píngshí zuì xǐhuan hé péngyou yìqǐ dǎ bàngqiú.", "vietnamese": "Ngày thường anh ấy thích nhất là chơi bóng chày cùng bạn bè." }] }
+      ],
+      "chinese_explanation": "口语中表示好、强、水平高；本义指棍子。", "collocations": ["真棒", "太棒了", "身体很棒", "棒球"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l15_w03", "order": 3, "textbook": "HSK 4 下", "lesson": 15,
+      "hanzi": "孙子", "pinyin": "sūnzi",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "cháu nội trai", "structure": "我孙子 / 小孙子", "explanation": "Con trai của con trai mình (phân biệt với 外孙 – cháu ngoại trai, 孙女 – cháu nội gái).", "examples": [{ "chinese": "是我孙子。去年寒假前的新年晚会他也表演过一次。", "pinyin": "Shì wǒ sūnzi. Qùnián hánjià qián de xīnnián wǎnhuì tā yě biǎoyǎnguo yí cì.", "vietnamese": "Là cháu nội trai của tôi. Đêm hội năm mới trước kỳ nghỉ đông năm ngoái cháu cũng từng biểu diễn một lần.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "儿子的儿子。", "collocations": ["亲孙子", "孙女", "外孙"], "usage_note": "Chú ý thanh nhẹ ở chữ 子 (sūnzi); khi chỉ nhà quân sự cổ đại Tôn Tử (《孙子兵法》) mới đọc sūnzǐ.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l15_w04", "order": 4, "textbook": "HSK 4 下", "lesson": 15,
+      "hanzi": "寒假", "pinyin": "hánjià",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "kỳ nghỉ đông", "structure": "放寒假 / 寒假作业 / 去年寒假前", "explanation": "Kỳ nghỉ vào mùa đông của học sinh, sinh viên (đối lập với 暑假 – kỳ nghỉ hè).", "examples": [{ "chinese": "去年寒假前的新年晚会他也表演过一次。", "pinyin": "Qùnián hánjià qián de xīnnián wǎnhuì tā yě biǎoyǎnguo yí cì.", "vietnamese": "Đêm hội năm mới trước kỳ nghỉ đông năm ngoái cháu cũng từng biểu diễn một lần.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "学校冬季放的假。", "collocations": ["放寒假", "过寒假", "寒假作业"], "usage_note": "Chữ 假 đọc thanh 4 (jià – kỳ nghỉ), phân biệt với 假 (jiǎ – giả dối) ở từ số 25 trong chính bài này.", "common_errors": "Đọc nhầm thành hánjiǎ (phải đọc hánjià).", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l15_w05", "order": 5, "textbook": "HSK 4 下", "lesson": 15,
+      "hanzi": "父亲", "pinyin": "fùqīn",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "cha, bố", "structure": "一位优秀的父亲 / 父亲节", "explanation": "Cách gọi trang trọng hơn 爸爸 (dùng nhiều trong văn viết hoặc khi giới thiệu lịch sự).", "examples": [{ "chinese": "如果希望有一个优秀的孩子，你就要先成为一位优秀的父亲或者母亲。", "pinyin": "Rúguǒ xīwàng yǒu yí ge yōuxiù de háizi, nǐ jiù yào xiān chéngwéi yí wèi yōuxiù de fùqīn huòzhě mǔqīn.", "vietnamese": "Nếu mong muốn có một đứa con ưu tú, trước tiên bạn phải trở thành một người cha hoặc người mẹ ưu tú.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "爸爸（较正式的书面语）。", "collocations": ["父亲节", "优秀的父亲", "父亲和母亲"], "usage_note": "Không dùng 父亲 để gọi trực tiếp bố mình trong giao tiếp hằng ngày (gọi trực tiếp dùng 爸爸).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l15_w06", "order": 6, "textbook": "HSK 4 下", "lesson": 15,
+      "hanzi": "闹钟", "pinyin": "nàozhōng",
+      "is_out_of_syllabus": true,
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "đồng hồ báo thức", "structure": "闹钟响了 / 定闹钟", "explanation": "Từ ngoài đề cương (*). Đồng hồ có chuông reo đánh thức đúng giờ cài đặt.", "examples": [{ "chinese": "比如早上闹钟响了她不醒，我赶时间送她上学，她又急着上厕所。", "pinyin": "Bǐrú zǎoshang nàozhōng xiǎngle tā bù xǐng, wǒ gǎn shíjiān sòng tā shàng xué, tā yòu jízhe shàng cèsuǒ.", "vietnamese": "Ví dụ buổi sáng đồng hồ báo thức reo rồi mà con bé không dậy, tôi đang vội đưa nó đi học thì nó lại vội đi vệ sinh.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "带闹铃的钟，到了预定的时间会自动响起。", "collocations": ["闹钟响了", "定闹钟", "关闹钟"], "usage_note": "Từ có dấu * trong giáo trình (ngoài danh mục HSK 4 cũ nhưng cực phổ biến trong đời sống).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l15_w07", "order": 7, "textbook": "HSK 4 下", "lesson": 15,
+      "hanzi": "响", "pinyin": "xiǎng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "reo, vang lên", "structure": "闹钟响了 / 手机一直在响", "explanation": "Phát ra âm thanh (chuông đồng hồ, điện thoại, tiếng sấm, tiếng vỗ tay).", "examples": [{ "chinese": "比如早上闹钟响了她不醒。", "pinyin": "Bǐrú zǎoshang nàozhōng xiǎngle tā bù xǐng.", "vietnamese": "Ví dụ buổi sáng đồng hồ báo thức reo rồi mà con bé không dậy.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "形容词 (Tính từ)", "meanings": ["vang, to, rõ ràng (âm thanh)"], "structure": "声音很响 / 响亮", "difference_note": "Làm tính từ miêu tả cường độ âm thanh lớn và vang.", "examples": [{ "chinese": "她的声音特别响，坐在最后一排也能听清楚。", "pinyin": "Tā de shēngyīn tèbié xiǎng, zuò zài zuìhòu yì pái yě néng tīng qīngchu.", "vietnamese": "Giọng cô ấy rất vang, ngồi hàng cuối cùng cũng nghe rõ." }] }
+      ],
+      "chinese_explanation": "发出声音；形容声音大。", "collocations": ["闹钟响", "电话响了", "响亮"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l15_w08", "order": 8, "textbook": "HSK 4 下", "lesson": 15,
+      "hanzi": "醒", "pinyin": "xǐng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "thức dậy, tỉnh dậy", "structure": "睡醒 / 叫醒 / 醒了 / 不醒", "explanation": "Chấm dứt trạng thái ngủ, tỉnh giấc.", "examples": [{ "chinese": "比如早上闹钟响了她不醒。", "pinyin": "Bǐrú zǎoshang nàozhōng xiǎngle tā bù xǐng.", "vietnamese": "Ví dụ buổi sáng đồng hồ báo thức reo rồi mà con bé không dậy.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Nghĩa mở rộng: tỉnh rượu, tỉnh ngộ)", "meanings": ["tỉnh rượu, hết say", "tỉnh ngộ, nhận ra sai lầm"], "structure": "酒醒了 / 醒悟过来", "difference_note": "Mở rộng từ tỉnh ngủ sang thoát khỏi trạng thái say xỉn, hôn mê hoặc mê muội.", "examples": [{ "chinese": "他喝了点儿茶，休息了一会儿，酒才慢慢醒了。", "pinyin": "Tā hē le diǎnr chá, xiūxi le yíhuìr, jiǔ cái mànmàn xǐng le.", "vietnamese": "Anh ấy uống chút trà, nghỉ một lát rồi mới dần tỉnh rượu." }] }
+      ],
+      "chinese_explanation": "睡眠状态结束；也指醉酒、昏迷后恢复神志。", "collocations": ["睡醒", "醒来", "叫醒", "清醒"], "usage_note": "Phân biệt với 起床 (rời khỏi giường): có thể 醒了 (tỉnh giấc rồi) nhưng vẫn chưa 起床 (chưa ra khỏi giường).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l15_w09", "order": 9, "textbook": "HSK 4 下", "lesson": 15,
+      "hanzi": "赶", "pinyin": "gǎn",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "vội, gấp rút", "structure": "赶时间 / 赶着去……", "explanation": "Đẩy nhanh tiến độ để kịp thời gian.", "examples": [{ "chinese": "我赶时间送她上学，她又急着上厕所。", "pinyin": "Wǒ gǎn shíjiān sòng tā shàng xué, tā yòu jízhe shàng cèsuǒ.", "vietnamese": "Tôi đang vội thời gian đưa con bé đi học, nó lại vội đi vệ sinh.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Nghĩa: đuổi kịp, vội đi/trở về cho kịp chuyến)", "meanings": ["kịp bắt (máy bay, tàu xe)", "vội vã đến/trở về", "xua đuổi"], "structure": "赶飞机 / 赶回来 / 赶走", "difference_note": "Ngay trong bài tập tr.76 có câu '李进还专门从国外赶回来呢' (vội vã từ nước ngoài trở về cho kịp buổi họp lớp).", "examples": [{ "chinese": "李进还专门从国外赶回来参加同学聚会呢。", "pinyin": "Lǐ Jìn hái zhuānmén cóng guówài gǎn huílai cānjiā tóngxué jùhuì ne.", "vietnamese": "Lý Tiến còn đặc biệt vội vã từ nước ngoài về tham dự họp lớp nữa đấy." }] }
+      ],
+      "chinese_explanation": "加快行动使不误时间；追赶；驱逐。", "collocations": ["赶时间", "赶飞机", "赶回来", "赶上"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l15_w10", "order": 10, "textbook": "HSK 4 下", "lesson": 15,
+      "hanzi": "厕所", "pinyin": "cèsuǒ",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "nhà vệ sinh", "structure": "上厕所 / 去厕所 / 公共厕所", "explanation": "Nơi đi vệ sinh (trong giao tiếp lịch sự nơi công cộng còn dùng 洗手间).", "examples": [{ "chinese": "我赶时间送她上学，她又急着上厕所。", "pinyin": "Wǒ gǎn shíjiān sòng tā shàng xué, tā yòu jízhe shàng cèsuǒ.", "vietnamese": "Tôi đang vội đưa con bé đi học thì nó lại vội đi nhà vệ sinh.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "供人大小便的地方。", "collocations": ["上厕所", "男厕所", "公共厕所"], "usage_note": "Thường dùng động từ 上 (上厕所) hoặc 去 (去厕所).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l15_w11", "order": 11, "textbook": "HSK 4 下", "lesson": 15,
+      "hanzi": "批评", "pinyin": "pīpíng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "phê bình", "structure": "批评 + Người / 批评 + Hành vi", "explanation": "Chỉ ra khuyết điểm, sai sót của ai đó (trái nghĩa với 表扬).", "examples": [{ "chinese": "每天因为这些小事批评她，弄得我俩心情都不好。", "pinyin": "Měi tiān yīnwèi zhèxiē xiǎo shì pīpíng tā, nòng de wǒ liǎ xīnqíng dōu bù hǎo.", "vietnamese": "Ngày nào cũng vì mấy chuyện nhỏ nhặt này mà phê bình nó, làm tâm trạng cả hai mẹ con đều không tốt.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["lời phê bình, sự phê bình"], "structure": "受到批评 / 接受批评", "difference_note": "Làm tân ngữ cho động từ 受到 (chịu/nhận) hoặc 接受 (tiếp thu).", "examples": [{ "chinese": "做错了事，应该虚心接受别人的批评。", "pinyin": "Zuòcuò le shì, yīnggāi xūxīn jiēshòu biérén de pīpíng.", "vietnamese": "Làm sai việc thì nên khiêm tốn tiếp thu lời phê bình của người khác." }] }
+      ],
+      "chinese_explanation": "指出优点和缺点，专指对缺点和错误提出意见。", "collocations": ["批评孩子", "受到批评", "接受批评"], "usage_note": "Cặp từ trái nghĩa trọng tâm của Bài 15: 批评 (phê bình) ↔ 表扬 (khen ngợi).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l15_w12", "order": 12, "textbook": "HSK 4 下", "lesson": 15,
+      "hanzi": "弄", "pinyin": "nòng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "làm", "structure": "弄 + Bổ ngữ kết quả/trạng thái (弄好 / 弄坏 / 弄清楚 / 弄得……)", "explanation": "Động từ khẩu ngữ có nghĩa là 'làm', dùng thay thế cho nhiều động từ cụ thể khác tùy ngữ cảnh.", "examples": [{ "chinese": "每天因为这些小事批评她，弄得我俩心情都不好。", "pinyin": "Měi tiān yīnwèi zhèxiē xiǎo shì pīpíng tā, nòng de wǒ liǎ xīnqíng dōu bù hǎo.", "vietnamese": "Ngày nào cũng vì mấy chuyện nhỏ này mà phê bình nó, làm cho tâm trạng cả hai đều không tốt.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Nghĩa: kiếm, tìm được / chơi đùa)", "meanings": ["kiếm được, xoay xở ra", "đùa nghịch, táy máy"], "structure": "弄到一张票 / 别乱弄东西", "difference_note": "Trong khẩu ngữ còn mang nghĩa kiếm/tìm bằng được thứ gì đó (弄到) hoặc táy máy chạm vào đồ vật.", "examples": [{ "chinese": "演唱会门票这么难买，你是怎么弄到的？", "pinyin": "Yǎnchànghuì ménpiào zhème nán mǎi, nǐ shì zěnme nòngdào de?", "vietnamese": "Vé buổi hòa nhạc khó mua thế mà cậu kiếm được bằng cách nào vậy?" }] }
+      ],
+      "chinese_explanation": "口语动词，表示“做、搞、办”，常带结果或程度补语（弄坏、弄明白、弄得）。", "collocations": ["弄清楚", "弄坏", "弄错", "弄得……"], "usage_note": "Xem chi tiết Chú thích 2 tr.68. Khi đọc lòng trong 弄堂 (lòngtáng) là danh từ chỉ ngõ hẻm (phương ngôn Thượng Hải).", "common_errors": "Thường không đứng trơ một mình mà cần bổ ngữ đi kèm (弄好、弄脏、弄明白).", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l15_w13", "order": 13, "textbook": "HSK 4 下", "lesson": 15,
+      "hanzi": "管理", "pinyin": "guǎnlǐ",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "quản lý", "structure": "管理时间 / 管理公司 / 学会管理", "explanation": "Chịu trách nhiệm sắp xếp, điều hành, giám sát công việc, thời gian, con người.", "examples": [{ "chinese": "你应该让孩子学会管理时间。", "pinyin": "Nǐ yīnggāi ràng háizi xuéhuì guǎnlǐ shíjiān.", "vietnamese": "Cậu nên để con học cách quản lý thời gian.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["ngành quản lý, công tác quản lý"], "structure": "管理专业 / 企业管理 / 加强管理", "difference_note": "Như câu 10 bài tập tr.76 ('经济和管理专业'), dùng làm định ngữ hoặc danh từ chỉ chuyên ngành/công tác.", "examples": [{ "chinese": "这个招聘会主要是为经济和管理专业的学生举办的。", "pinyin": "Zhège zhāopìnhuì zhǔyào shì wèi jīngjì hé guǎnlǐ zhuānyè de xuésheng jǔbàn de.", "vietnamese": "Hội chợ việc làm này chủ yếu tổ chức cho sinh viên chuyên ngành kinh tế và quản lý." }] }
+      ],
+      "chinese_explanation": "负责某项工作使顺利进行；也指管理工作或管理学专业。", "collocations": ["管理时间", "管理公司", "管理专业", "管理员"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l15_w14", "order": 14, "textbook": "HSK 4 下", "lesson": 15,
+      "hanzi": "打针", "pinyin": "dǎ zhēn",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ ly hợp)", "meaning": "tiêm, chích", "structure": "去医院打针 / 怕打针 / 打一针", "explanation": "Đưa thuốc vào cơ thể bằng kim tiêm.", "examples": [{ "chinese": "明天又要带我儿子去医院打针，想想我就头疼。", "pinyin": "Míngtiān yòu yào dài wǒ érzi qù yīyuàn dǎ zhēn, xiǎngxiang wǒ jiù tóu téng.", "vietnamese": "Ngày mai lại phải đưa con trai tôi đến bệnh viện tiêm, mới nghĩ đến thôi đã đau đầu rồi.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "把药液用注射器注入体内。", "collocations": ["去医院打针", "打一针", "吃药打针"], "usage_note": "Là động từ ly hợp: có thể tách ra thành 打一针, 打过针.", "common_errors": "Không mang tân ngữ trực tiếp phía sau (Sai: '打针他' → Đúng: '给他打针').", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l15_w15", "order": 15, "textbook": "HSK 4 下", "lesson": 15,
+      "hanzi": "护士", "pinyin": "hùshi",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "y tá", "structure": "一位护士 / 医生和护士", "explanation": "Nhân viên y tế chăm sóc bệnh nhân và hỗ trợ bác sĩ trong bệnh viện.", "examples": [{ "chinese": "我就小声地和护士说我女儿很勇敢，一点儿也不怕打针。", "pinyin": "Wǒ jiù xiǎoshēng de hé hùshi shuō wǒ nǚ'ér hěn yǒnggǎn, yìdiǎnr yě bú pà dǎ zhēn.", "vietnamese": "Tôi liền nói nhỏ với cô y tá rằng con gái tôi rất dũng cảm, chẳng sợ tiêm chút nào.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "医院中负责护理病人的医务人员。", "collocations": ["一位护士", "女护士", "护士站"], "usage_note": "Âm tiết thứ hai đọc thanh nhẹ (hùshi). Nằm trong nhóm 同字词 chữ 护 (护照、保护、护士).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l15_w16", "order": 16, "textbook": "HSK 4 下", "lesson": 15,
+      "hanzi": "表扬", "pinyin": "biǎoyáng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "khen ngợi, biểu dương", "structure": "表扬孩子 / 表扬要及时", "explanation": "Khen ngợi công khai hành động tốt, thành tích tốt của người khác.", "examples": [{ "chinese": "那怎么表扬孩子才会更有效果呢？", "pinyin": "Nà zěnme biǎoyáng háizi cái huì gèng yǒu xiàoguǒ ne?", "vietnamese": "Vậy khen ngợi con thế nào mới có hiệu quả hơn?", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["lời khen ngợi, sự tuyên dương"], "structure": "受到表扬 / 过多的表扬", "difference_note": "Ngay trong Bài khóa 3 ('过多的表扬') và Bài tập tr.76 ('受到表扬') dùng như danh từ.", "examples": [{ "chinese": "孩子在受到表扬时，往往会对自己更有信心。", "pinyin": "Háizi zài shòudào biǎoyáng shí, wǎngwǎng huì duì zìjǐ gèng yǒu xìnxīn.", "vietnamese": "Khi trẻ nhận được lời khen, thường sẽ tự tin hơn vào bản thân." }] }
+      ],
+      "chinese_explanation": "对好人好事公开赞美。", "collocations": ["表扬孩子", "受到表扬", "提出表扬"], "usage_note": "Phân biệt với 夸 (khen thân mật, có thể khen ngoại hình/món ăn); 表扬 thường dùng từ trên xuống dưới (thầy cô/cha mẹ/sếp khen thành tích/hành vi tốt).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l15_w17", "order": 17, "textbook": "HSK 4 下", "lesson": 15,
+      "hanzi": "千万", "pinyin": "qiānwàn",
+      "lesson_usage": { "part_of_speech": "副词 (Phó từ)", "meaning": "nhất thiết phải", "structure": "千万不要 / 千万别 / 千万不能 + V", "explanation": "Biểu thị lời dặn dò, nhắc nhở ân cần 'nhất định, bằng mọi giá', phía sau thường là hình thức phủ định.", "examples": [{ "chinese": "不过表扬也是一门艺术，表扬千万不要太多，过多的表扬可能会给孩子带来压力。", "pinyin": "Búguò biǎoyáng yě shì yì mén yìshù, biǎoyáng qiānwàn búyào tài duō, guò duō de biǎoyáng kěnéng huì gěi háizi dàilái yālì.", "vietnamese": "Nhưng khen ngợi cũng là một nghệ thuật, nhất thiết không nên khen quá nhiều, khen quá nhiều có thể gây áp lực cho trẻ.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "数词 (Số từ)", "meanings": ["mười triệu (10,000,000)", "rất nhiều, hàng chục triệu"], "structure": "几千万 / 千千万万", "difference_note": "Nghĩa số học của 千 (nghìn) × 万 (vạn = 10.000) = 10 triệu, khác hẳn phó từ dặn dò.", "examples": [{ "chinese": "这座大城市有两千多万人口。", "pinyin": "Zhè zuò dà chéngshì yǒu liǎngqiān duō wàn rénkǒu.", "vietnamese": "Thành phố lớn này có hơn hai mươi triệu dân." }] }
+      ],
+      "chinese_explanation": "副词，表示务必、一定（多用于否定祈使句）；数词指一千个一万。", "collocations": ["千万不要", "千万别", "千万小心", "千千万万"], "usage_note": "Xem kỹ bảng 比一比 '千万 — 一定' ở tr.69–71! 千万 không dùng với ngôi thứ nhất để biểu thị quyết tâm.", "common_errors": "Sai: '我千万会努力' → Đúng: '我一定会努力'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l15_w18", "order": 18, "textbook": "HSK 4 下", "lesson": 15,
+      "hanzi": "怀疑", "pinyin": "huáiyí",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "nghi ngờ, hoài nghi", "structure": "怀疑 + N / Mệnh đề (怀疑自己的能力)", "explanation": "Không tin tưởng hoàn toàn, có sự nghi hoặc về điều gì đó.", "examples": [{ "chinese": "不仅起不到鼓励的作用，还可能让孩子怀疑自己的能力，变得没有信心。", "pinyin": "Bùjǐn qǐ bu dào gǔlì de zuòyòng, hái kěnéng ràng háizi huáiyí zìjǐ de nénglì, biànde méiyǒu xìnxīn.", "vietnamese": "Không những không có tác dụng khích lệ mà còn có thể khiến trẻ nghi ngờ năng lực của bản thân, trở nên mất tự tin.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["sự nghi ngờ, mối nghi vấn"], "structure": "产生怀疑 / 引起怀疑", "difference_note": "Có thể làm tân ngữ sau các động từ như 产生 (nảy sinh), 引起 (gây ra).", "examples": [{ "chinese": "他的解释不太清楚，引起了大家的怀疑。", "pinyin": "Tā de jiěshì bú tài qīngchu, yǐnqǐ le dàjiā de huáiyí.", "vietnamese": "Lời giải thích của anh ấy không rõ lắm, khiến mọi người nảy sinh nghi ngờ." }] }
+      ],
+      "chinese_explanation": "疑惑、不很相信；猜测。", "collocations": ["怀疑自己", "值得怀疑", "产生怀疑"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l15_w19", "order": 19, "textbook": "HSK 4 下", "lesson": 15,
+      "hanzi": "故意", "pinyin": "gùyì",
+      "lesson_usage": { "part_of_speech": "副词 (Phó từ)", "meaning": "cố tình, cố ý", "structure": "故意 + V / 不是故意的", "explanation": "Có chủ tâm làm một việc nào đó (thường không phải vô tình).", "examples": [{ "chinese": "有的孩子在得不到自己想要的东西的时候，会通过哭、扔东西或者故意敲打来引起父母的注意。", "pinyin": "Yǒude háizi zài dé bu dào zìjǐ xiǎng yào de dōngxi de shíhou, huì tōngguò kū, rēng dōngxi huòzhě gùyì qiāodǎ lái yǐnqǐ fùmǔ de zhùyì.", "vietnamese": "Có những đứa trẻ khi không có được thứ mình muốn sẽ khóc, ném đồ hoặc cố tình gõ đập để thu hút sự chú ý của cha mẹ.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "有意识地（那样做）。", "collocations": ["不是故意的", "故意气我", "故意迟到"], "usage_note": "Thường dùng trong cấu trúc '是/不是 + 故意 + 的' để thanh minh.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l15_w20", "order": 20, "textbook": "HSK 4 下", "lesson": 15,
+      "hanzi": "敲", "pinyin": "qiāo",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "gõ, khua", "structure": "敲门 / 敲打 / 敲桌子", "explanation": "Dùng tay hoặc vật gì đó đập nhẹ vào bề mặt phát ra tiếng.", "examples": [{ "chinese": "会通过哭、扔东西或者故意敲打来引起父母的注意。", "pinyin": "Huì tōngguò kū, rēng dōngxi huòzhě gùyì qiāodǎ lái yǐnqǐ fùmǔ de zhùyì.", "vietnamese": "Sẽ thông qua khóc, ném đồ hoặc cố ý gõ đập để thu hút sự chú ý của cha mẹ.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "在物体上面打，使发出声音。", "collocations": ["敲门", "敲打", "敲键盘"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l15_w21", "order": 21, "textbook": "HSK 4 下", "lesson": 15,
+      "hanzi": "整理", "pinyin": "zhěnglǐ",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "thu dọn, dọn dẹp", "structure": "整理东西 / 整理房间 / 整理资料", "explanation": "Sắp xếp đồ đạc, tài liệu, suy nghĩ cho gọn gàng, ngăn nắp.", "examples": [{ "chinese": "应该停下手中的事情，陪孩子整理整理东西，和他们聊聊天儿。", "pinyin": "Yīnggāi tíngxià shǒu zhōng de shìqing, péi háizi zhěngli zhěngli dōngxi, hé tāmen liáoliáo tiānr.", "vietnamese": "Nên dừng việc đang làm trong tay, cùng con thu dọn đồ đạc, trò chuyện với chúng.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "使有条理有秩序。", "collocations": ["整理房间", "整理东西", "整理笔记", "整理衣服"], "usage_note": "Hình thức lặp lại ABAB: 整理整理 (dọn dẹp một chút).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l15_w22", "order": 22, "textbook": "HSK 4 下", "lesson": 15,
+      "hanzi": "合适", "pinyin": "héshì",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "thích hợp", "structure": "合适的 + Danh từ / 很合适", "explanation": "Phù hợp với yêu cầu hoặc tình hình thực tế.", "examples": [{ "chinese": "教育孩子应该选择合适的教育方法。", "pinyin": "Jiàoyù háizi yīnggāi xuǎnzé héshì de jiàoyù fāngfǎ.", "vietnamese": "Giáo dục con cái nên lựa chọn phương pháp giáo dục thích hợp.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "符合实际情况或客观要求。", "collocations": ["合适的方法", "合适的工作", "大小合适"], "usage_note": "Phân biệt với 适合 (động từ, mang tân ngữ trực tiếp: 适合我); 合适 là tính từ, KHÔNG mang tân ngữ trực tiếp (nói: 这件衣服很合适).", "common_errors": "Sai: '这个方法很合适他' → Đúng: '这个方法很适合他' hoặc '对他很合适'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l15_w23", "order": 23, "textbook": "HSK 4 下", "lesson": 15,
+      "hanzi": "骗", "pinyin": "piàn",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "lừa gạt", "structure": "骗孩子 / 骗人 / 被骗了", "explanation": "Dùng lời nói dối hoặc thủ đoạn để đánh lừa người khác.", "examples": [{ "chinese": "最好不要为了解决问题而骗孩子，这是因为儿童缺少判断能力，看到父母骗人，他们也会学着说假话。", "pinyin": "Zuì hǎo búyào wèile jiějué wèntí ér piàn háizi, zhè shì yīnwèi értóng quēshǎo pànduàn nénglì, kàndào fùmǔ piàn rén, tāmen yě huì xuézhe shuō jiǎhuà.", "vietnamese": "Tốt nhất không nên vì muốn giải quyết vấn đề mà lừa gạt trẻ, bởi trẻ em thiếu khả năng phán đoán, thấy cha mẹ lừa người khác thì chúng cũng sẽ học nói dối.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "欺骗，用谎言或诡计使人上当。", "collocations": ["骗人", "被骗", "骗子", "欺骗"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l15_w24", "order": 24, "textbook": "HSK 4 下", "lesson": 15,
+      "hanzi": "儿童", "pinyin": "értóng",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "trẻ em", "structure": "儿童节 / 七岁左右的儿童", "explanation": "Chỉ thiếu nhi, trẻ em nói chung (sắc thái trang trọng hơn 小孩儿).", "examples": [{ "chinese": "这是因为儿童缺少判断能力。", "pinyin": "Zhè shì yīnwèi értóng quēshǎo pànduàn nénglì.", "vietnamese": "Điều này là bởi trẻ em thiếu khả năng phán đoán.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "年纪小的孩子（较正式的书面语）。", "collocations": ["儿童节", "儿童医院", "儿童读物"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l15_w25", "order": 25, "textbook": "HSK 4 下", "lesson": 15,
+      "hanzi": "假", "pinyin": "jiǎ",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "giả dối, không thật", "structure": "说假话 / 假货 / 真的还是假的", "explanation": "Trái nghĩa với 真 (thật).", "examples": [{ "chinese": "看到父母骗人，他们也会学着说假话。", "pinyin": "Kàndào fùmǔ piàn rén, tāmen yě huì xuézhe shuō jiǎhuà.", "vietnamese": "Thấy cha mẹ lừa người khác, chúng cũng sẽ học cách nói dối.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ — đa âm đọc jià)", "meanings": ["kỳ nghỉ, ngày phép"], "structure": "放假 / 请假 / 寒假 / 暑假", "difference_note": "Cực kỳ dễ nhầm thanh điệu: jiǎ (thanh 3) = giả; jià (thanh 4) = kỳ nghỉ (như 寒假 ở từ số 4!).", "examples": [{ "chinese": "我已经向经理请了三天假。", "pinyin": "Wǒ yǐjīng xiàng jīnglǐ qǐng le sān tiān jià.", "vietnamese": "Tôi đã xin giám đốc nghỉ phép ba ngày rồi." }] }
+      ],
+      "chinese_explanation": "读 jiǎ 时表示不真实（与“真”相对）；读 jià 时表示假期。", "collocations": ["说假话", "真假", "请假 (jià)", "放假 (jià)"], "usage_note": "Chữ đa âm kinh điển trong HSK: 假 jiǎ (giả) vs 假 jià (kỳ nghỉ).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l15_w26", "order": 26, "textbook": "HSK 4 下", "lesson": 15,
+      "hanzi": "左右", "pinyin": "zuǒyòu",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "khoảng, khoảng chừng", "structure": "Số lượng từ + 左右 (七岁左右 / 三天左右 / 500米左右)", "explanation": "Đặt ngay sau cụm số lượng từ để chỉ mức ước lượng hơi nhiều hơn hoặc hơi ít hơn con số đó.", "examples": [{ "chinese": "七岁左右的儿童普遍好动，坐不住。", "pinyin": "Qī suì zuǒyòu de értóng pǔbiàn hào dòng, zuò bu zhù.", "vietnamese": "Trẻ em khoảng bảy tuổi phổ biến là hiếu động, không ngồi yên được.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Phương vị từ)", "meanings": ["bên trái và bên phải, hai bên"], "structure": "左右两边 / 前后左右", "difference_note": "Chỉ phương hướng không gian trái-phải.", "examples": [{ "chinese": "请把左右两边的词语连起来。", "pinyin": "Qǐng bǎ zuǒyòu liǎngbiān de cíyǔ lián qǐlái.", "vietnamese": "Hãy nối các từ ngữ ở hai bên trái phải với nhau." }] },
+        { "part_of_speech": "动词 (Động từ)", "meanings": ["chi phối, ảnh hưởng, điều khiển"], "structure": "左右 + 决定 / 心情 / 局势", "difference_note": "Dùng ở trình độ cao hơn (HSK 5) với nghĩa tác động, chi phối quyết định hay tình hình.", "examples": [{ "chinese": "不要让别人的看法轻易左右你的决定。", "pinyin": "Búyào ràng biérén de kànfǎ qīngyì zuǒyòu nǐ de juédìng.", "vietnamese": "Đừng để quan điểm của người khác dễ dàng chi phối quyết định của bạn." }] }
+      ],
+      "chinese_explanation": "用在数量词后面表示概数；也指左和右两方面；作动词指支配、操纵。", "collocations": ["七岁左右", "三天左右", "左右两边"], "usage_note": "Chỉ đặt SAU số lượng từ (không đặt trước: nói 三天左右, không nói 左右三天).", "common_errors": "Sai: '左右十点' → Đúng: '十点左右'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l15_w27", "order": 27, "textbook": "HSK 4 下", "lesson": 15,
+      "hanzi": "懒", "pinyin": "lǎn",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "lười, lười nhác", "structure": "很懒 / 懒得 + V", "explanation": "Không thích lao động hoặc ngại hành động (trái nghĩa: 勤快).", "examples": [{ "chinese": "不要用“懒”“笨”“粗心”这种词批评他，这样对他们的正常发展不好。", "pinyin": "Búyào yòng “lǎn” “bèn” “cūxīn” zhè zhǒng cí pīpíng tā, zhèyàng duì tāmen de zhèngcháng fāzhǎn bù hǎo.", "vietnamese": "Đừng dùng những từ như “lười”, “ngốc”, “cẩu thả” để phê bình trẻ, làm vậy không tốt cho sự phát triển bình thường của chúng.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "怠惰，不勤快。", "collocations": ["很懒", "懒惰", "懒得动", "睡懒觉"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l15_w28", "order": 28, "textbook": "HSK 4 下", "lesson": 15,
+      "hanzi": "笨", "pinyin": "bèn",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "đần, ngốc", "structure": "不笨 / 笨办法", "explanation": "Không thông minh, tiếp thu chậm hoặc vụng về (trái nghĩa: 聪明).", "examples": [{ "chinese": "不要用“懒”“笨”“粗心”这种词批评他。", "pinyin": "Búyào yòng “lǎn” “bèn” “cūxīn” zhè zhǒng cí pīpíng tā.", "vietnamese": "Đừng dùng những từ như “lười”, “ngốc”, “cẩu thả” để phê bình trẻ.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "不聪明；不灵巧。", "collocations": ["不笨", "笨手笨脚", "笨重"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l15_w29", "order": 29, "textbook": "HSK 4 下", "lesson": 15,
+      "hanzi": "粗心", "pinyin": "cūxīn",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "cẩu thả", "structure": "太粗心了 / 粗心大意", "explanation": "Thiếu cẩn thận, hay sơ suất (trái nghĩa: 细心 / 仔细).", "examples": [{ "chinese": "不要用“懒”“笨”“粗心”这种词批评他。", "pinyin": "Búyào yòng “lǎn” “bèn” “cūxīn” zhè zhǒng cí pīpíng tā.", "vietnamese": "Đừng dùng những từ như “lười”, “ngốc”, “cẩu thả” để phê bình trẻ.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "疏忽，不细心。", "collocations": ["太粗心", "粗心大意", "粗心的人"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l15_w30", "order": 30, "textbook": "HSK 4 下", "lesson": 15,
+      "hanzi": "骄傲", "pinyin": "jiāo'ào",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "kiêu ngạo", "structure": "比较骄傲 / 不能骄傲", "explanation": "Trong bài khóa 5 mang sắc thái tiêu cực: tự phụ, tự mãn, coi thường người khác.", "examples": [{ "chinese": "如果孩子比较骄傲，应该让他明白还有很多知识需要学习。", "pinyin": "Rúguǒ háizi bǐjiào jiāo'ào, yīnggāi ràng tā míngbai hái yǒu hěn duō zhīshi xūyào xuéxí.", "vietnamese": "Nếu trẻ hơi kiêu ngạo, nên giúp trẻ hiểu rằng vẫn còn rất nhiều kiến thức cần học hỏi.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "形容词 / 名词 (Nghĩa tích cực: tự hào, niềm tự hào)", "meanings": ["tự hào, hãnh diện", "niềm tự hào"], "structure": "为……感到骄傲 / 是……的骄傲", "difference_note": "Rất hay xuất hiện trong đề thi HSK! Khi đi với 为……感到骄傲 hoặc làm danh từ (我的骄傲) thì mang nghĩa hoàn toàn tích cực.", "examples": [{ "chinese": "父母为儿子的优秀成绩感到十分骄傲。", "pinyin": "Fùmǔ wèi érzi de yōuxiù chéngjì gǎndào shífēn jiāo'ào.", "vietnamese": "Cha mẹ cảm thấy vô cùng tự hào về thành tích xuất sắc của con trai." }] }
+      ],
+      "chinese_explanation": "自以为了不起，看不起别人（贬义）；也指自豪（褒义）。", "collocations": ["比较骄傲", "虚心使人进步，骄傲使人落后", "感到骄傲"], "usage_note": "Cần đọc kỹ ngữ cảnh để biết 骄傲 là 'kiêu ngạo' (xấu) hay 'tự hào' (tốt).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l15_w31", "order": 31, "textbook": "HSK 4 下", "lesson": 15,
+      "hanzi": "害羞", "pinyin": "hàixiū",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "ngượng ngùng, thẹn thùng", "structure": "有些害羞 / 有点儿害羞 / 害羞地笑", "explanation": "Dễ xấu hổ, ngại ngùng trước đám đông hoặc người lạ (trong sách xếp loại động từ trạng thái tâm lý, có thể nhận phó từ mức độ như 有些/很).", "examples": [{ "chinese": "要是孩子性格有些害羞，就要经常鼓励他说出自己的看法，这样才能让每一个孩子都健康地发展。", "pinyin": "Yàoshi háizi xìnggé yǒuxiē hàixiū, jiù yào jīngcháng gǔlì tā shuōchū zìjǐ de kànfǎ, zhèyàng cái néng ràng měi yí ge háizi dōu jiànkāng de fāzhǎn.", "vietnamese": "Nếu tính cách trẻ hơi nhút nhát, ngượng ngùng thì phải thường xuyên khích lệ trẻ nói ra quan điểm của mình, như vậy mới giúp mỗi đứa trẻ phát triển khỏe mạnh.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "因胆怯、怕生或怕做错事而感到不好意思。", "collocations": ["有点儿害羞", "害羞的女孩", "别害羞"], "usage_note": "Dù sách chú là động từ (đgt.), 害羞 chịu sự bổ nghĩa của phó từ mức độ (很害羞, 有点儿害羞).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    }
+  ],
+  "proper_nouns": [],
+  "same_char_expansion": {
+    "char": "护",
+    "words": [
+      { "hanzi": "护照", "pinyin": "hùzhào", "meaning": "hộ chiếu" },
+      { "hanzi": "保护", "pinyin": "bǎohù", "meaning": "bảo vệ" },
+      { "hanzi": "护士", "pinyin": "hùshi", "meaning": "y tá" }
+    ],
+    "examples": [
+      { "chinese": "他是我大学时的同学，毕业后我们就再也没联系过，没想到中午我去取护照时竟然遇到他了。", "vietnamese": "Anh ấy là bạn học thời đại học của tôi, sau khi tốt nghiệp chúng tôi không liên lạc nữa, không ngờ trưa nay lúc đi lấy hộ chiếu lại bất ngờ gặp anh ấy." },
+      { "chinese": "保护地球环境，并不是离我们很远、很难做到的事情。实际上，我们只需注意一下身边的小事就可以。", "vietnamese": "Bảo vệ môi trường Trái Đất không phải chuyện xa vời hay khó làm. Thực ra chúng ta chỉ cần chú ý những việc nhỏ xung quanh là được." },
+      { "chinese": "这本小说的作者是医院的一位护士，她通过小说告诉我们发生在医院里的许多有趣的故事，让我们对护士、医生这些职业有了更多的了解。", "vietnamese": "Tác giả cuốn tiểu thuyết này là một nữ y tá ở bệnh viện, cô ấy kể lại nhiều câu chuyện thú vị trong bệnh viện giúp chúng ta hiểu thêm về nghề y tá, bác sĩ." }
+    ]
+  },
+  "grammar": [
+    {
+      "title": "想起来 (V + 起来)",
+      "formula": "(1) V + 起来 (hướng từ dưới lên trên)  |  (2) 想起来 (nhớ lại ký ức)",
+      "meaning": "(1) Đứng/ngồi dậy (hướng từ dưới lên)  |  (2) Nhớ ra, nhớ lại",
+      "usage": "Động từ 起来 đặt sau động từ khác làm bổ ngữ xu hướng hoặc bổ ngữ khả năng biểu thị động tác đi từ dưới lên trên. Khi đi sau động từ 想 (想起来), nghĩa mở rộng là tìm lại được người hoặc sự việc đã quên từ trong trí nhớ.",
+      "context": "Dùng cực nhiều trong giao tiếp hằng ngày khi sực nhớ ra việc gì.",
+      "examples": [
+        { "chinese": "你这样躺着看书对眼睛不好，快坐起来！", "pinyin": "Nǐ zhèyàng tǎngzhe kàn shū duì yǎnjing bù hǎo, kuài zuò qilai!", "vietnamese": "Cậu nằm đọc sách thế này không tốt cho mắt đâu, mau ngồi dậy đi!" },
+        { "chinese": "需要长时间坐着工作的人，一小时左右一定要站起来活动活动。", "pinyin": "Xūyào cháng shíjiān zuòzhe gōngzuò de rén, yì xiǎoshí zuǒyòu yídìng yào zhàn qilai huódòng huódòng.", "vietnamese": "Người cần ngồi làm việc thời gian dài, cứ khoảng một tiếng nhất định phải đứng dậy vận động chút." },
+        { "chinese": "我突然想起来得去银行，所以不能陪你去大使馆了。", "pinyin": "Wǒ tūrán xiǎng qilai děi qù yínháng, suǒyǐ bù néng péi nǐ qù dàshǐguǎn le.", "vietnamese": "Mình chợt nhớ ra phải đi ngân hàng, nên không thể đi cùng cậu đến đại sứ quán được rồi." },
+        { "chinese": "我想起来了，这孩子又聪明又可爱，你们教育得真好！", "pinyin": "Wǒ xiǎng qilai le, zhè háizi yòu cōngming yòu kě'ài, nǐmen jiàoyù de zhēn hǎo!", "vietnamese": "Tôi nhớ ra rồi, đứa bé này vừa thông minh vừa đáng yêu, nhà cô giáo dục thật tốt!" }
+      ],
+      "important_notes": "Bổ ngữ khả năng tương ứng: 想得起来 (nhớ ra được) / 想不起来 (không nhớ ra được).",
+      "common_errors": "Phân biệt 想起来 (chợt nhớ lại việc từng biết nhưng tạm quên) với 想起 (nhớ đến / hồi tưởng).",
+      "comparison": "Khác với V + 起来 chỉ hành động bắt đầu và tiếp diễn (笑起来, 下起雨来).",
+      "mini_practice": [{ "prompt": "你看见我钱包放哪儿了吗？______________________。（想起来）", "sample_answer": "我实在想不起来放哪儿了", "explanation": "Dùng bổ ngữ khả năng 想不起来 biểu thị không nhớ ra nổi." }]
+    },
+    {
+      "title": "弄",
+      "formula": "弄 + Bổ ngữ kết quả (好 / 坏 / 清楚 / 错)  |  弄得 + Kết quả/Trạng thái",
+      "meaning": "Làm (thay thế nhiều động từ cụ thể trong khẩu ngữ)",
+      "usage": "Động từ 弄 có nghĩa chung là 'làm', dùng rộng rãi trong khẩu ngữ để thay thế cho các động từ cụ thể như 准备 (chuẩn bị), 碰 (va chạm), 批评 (phê bình), 查 (tìm hiểu)...",
+      "context": "Thường gặp trong hội thoại đời thường.",
+      "examples": [
+        { "chinese": "A：关于那个新闻的材料你准备好了吗？我们开会时要用。\nB：都弄（准备）好了，马上给您送过去。", "pinyin": "A: Guānyú nàge xīnwén de cáiliào nǐ zhǔnbèi hǎo le ma? Wǒmen kāihuì shí yào yòng.\nB: Dōu nòng (zhǔnbèi) hǎo le, mǎshàng gěi nín sòng guòqu.", "vietnamese": "A: Tài liệu về tin tức đó anh chuẩn bị xong chưa? Lúc họp chúng ta cần dùng.\nB: Đều làm (chuẩn bị) xong hết rồi, tôi mang sang cho ngài ngay." },
+        { "chinese": "一会儿搬沙发的时候要小心点儿，别弄（碰）坏了。", "pinyin": "Yíhuìr bān shāfā de shíhou yào xiǎoxīn diǎnr, bié nòng (pèng) huài le.", "vietnamese": "Lát nữa khiêng ghế sofa phải cẩn thận chút, đừng làm (va) hỏng nhé." },
+        { "chinese": "每天因为这些小事批评她，弄（批评）得我俩心情都不好。", "pinyin": "Měi tiān yīnwèi zhèxiē xiǎo shì pīpíng tā, nòng (pīpíng) de wǒ liǎ xīnqíng dōu bù hǎo.", "vietnamese": "Ngày nào cũng vì những chuyện nhỏ này phê bình nó, làm cho tâm trạng cả hai đều không tốt." }
+      ],
+      "important_notes": "弄 hầu như luôn đi kèm bổ ngữ kết quả hoặc trạng thái để rõ nghĩa.",
+      "common_errors": "Tránh dùng 弄 quá nhiều trong văn viết trang trọng (nên thay bằng động từ chính xác).",
+      "comparison": "Tương đương động từ khẩu ngữ 搞 ở nhiều ngữ cảnh.",
+      "mini_practice": [{ "prompt": "老师提醒我们考试时要仔细，______________________。（弄）", "sample_answer": "别把答案弄错了", "explanation": "弄错 = làm sai / nhầm lẫn." }]
+    },
+    {
+      "title": "千万",
+      "formula": "千万 + 不要 / 别 / 不能 + V",
+      "meaning": "Nhất thiết phải, bằng mọi giá (đừng...)",
+      "usage": "Phó từ 千万 biểu thị nghĩa '务必、一定' (nhất thiết phải), dùng để dặn dò, căn dặn tha thiết; phía sau thường là hình thức phủ định (不要、别、不能).",
+      "context": "Dùng khi nhắc nhở, khuyên răn lịch sự nhưng khẩn thiết.",
+      "examples": [
+        { "chinese": "不过表扬也是一门艺术，表扬千万不要太多，过多的表扬可能会给孩子带来压力。", "pinyin": "Búguò biǎoyáng yě shì yì mén yìshù, biǎoyáng qiānwàn búyào tài duō, guò duō de biǎoyáng kěnéng huì gěi háizi dàilái yālì.", "vietnamese": "Nhưng khen ngợi cũng là một nghệ thuật, nhất thiết đừng khen quá nhiều, khen quá nhiều có thể gây áp lực cho trẻ." },
+        { "chinese": "我要等她生日那天再送给她这个礼物，你现在千万别告诉她。", "pinyin": "Wǒ yào děng tā shēngrì nà tiān zài sòng gěi tā zhège lǐwù, nǐ xiànzài qiānwàn bié gàosu tā.", "vietnamese": "Tôi muốn đợi đến sinh nhật cô ấy mới tặng món quà này, bây giờ cậu nhất định đừng nói cho cô ấy biết nhé." },
+        { "chinese": "每个人都应该记住这句话：“开车千万别喝酒，喝酒千万别开车。”", "pinyin": "Měi ge rén dōu yīnggāi jìzhù zhè jù huà: “Kāichē qiānwàn bié hējiǔ, hējiǔ qiānwàn bié kāichē.”", "vietnamese": "Mỗi người đều nên ghi nhớ câu này: “Lái xe nhất quyết không uống rượu, uống rượu nhất quyết không lái xe.”" }
+      ],
+      "important_notes": "Xem chi tiết 6 điểm khác biệt giữa 千万 và 一定 ở mục 比一比 bên dưới.",
+      "common_errors": "Dùng 千万 với ngôi thứ nhất để hứa hẹn (Sai: '我千万去' → Đúng: '我一定去').",
+      "comparison": "So với 一定, ngữ khí của 千万 mềm mại, tha thiết hơn và hay đi với phủ định.",
+      "mini_practice": [{ "prompt": "有些事情坚持了才会看到希望，______________________。（千万）", "sample_answer": "千万不要轻易放弃", "explanation": "Dùng 千万不要 + V để dặn dò." }]
+    },
+    {
+      "title": "来 (Động từ đứng trước động từ khác)",
+      "formula": "(Chủ ngữ / Phương thức) + 来 + Động từ chính",
+      "meaning": "(Để...) làm việc gì / Dùng cách gì đó để làm...",
+      "usage": "Động từ 来 đặt trước một động từ khác biểu thị ý 'sắp thực hiện / đứng ra làm việc gì đó' hoặc nối phương tiện với mục đích, thường dùng trong khẩu ngữ. Nếu lược bỏ 来, nghĩa cơ bản của câu không đổi.",
+      "context": "Dùng khi chủ động nhận làm việc, phân công nhiệm vụ, hoặc diễn đạt '通过……来……'.",
+      "examples": [
+        { "chinese": "这个沙发这么大，你们两个肯定抬不动，我来帮你们一起抬。", "pinyin": "Zhège shāfā zhème dà, nǐmen liǎng ge kěndìng tái bu dòng, wǒ lái bāng nǐmen yìqǐ tái.", "vietnamese": "Cái sofa này to thế, hai người chắc chắn khiêng không nổi, để tôi giúp các cậu cùng khiêng." },
+        { "chinese": "小王经验比较丰富，并且做事认真，这次就让他来负责吧。", "pinyin": "Xiǎo Wáng jīngyàn bǐjiào fēngfù, bìngqiě zuòshì rènzhēn, zhè cì jiù ràng tā lái fùzé ba.", "vietnamese": "Tiểu Vương kinh nghiệm khá phong phú lại làm việc nghiêm túc, lần này cứ để cậu ấy phụ trách đi." },
+        { "chinese": "有的孩子在得不到自己想要的东西的时候，会通过哭、扔东西或者故意敲打来引起父母的注意。", "pinyin": "Yǒude háizi zài dé bu dào zìjǐ xiǎng yào de dōngxi de shíhou, huì tōngguò kū, rēng dōngxi huòzhě gùyì qiāodǎ lái yǐnqǐ fùmǔ de zhùyì.", "vietnamese": "Có những đứa trẻ khi không có được thứ mình muốn sẽ thông qua khóc, ném đồ hoặc cố ý gõ đập để thu hút sự chú ý của cha mẹ." }
+      ],
+      "important_notes": "Rất hay đi trong khuôn mẫu: '我来 + V' (để tôi làm), '让某人来 + V', '通过……来 + V'.",
+      "common_errors": "",
+      "comparison": "Khác với 来 nghĩa 'đi đến đây' (di chuyển hướng về phía người nói).",
+      "mini_practice": [{ "prompt": "这两件衣服我都喜欢，不知道买哪件好，______________________。（来）", "sample_answer": "你来帮我选一下吧", "explanation": "你来帮我选 = cậu giúp mình chọn với." }]
+    },
+    {
+      "title": "左右",
+      "formula": "Số lượng từ + 左右",
+      "meaning": "Khoảng, khoảng chừng (hơn kém một chút)",
+      "usage": "Danh từ 左右 chỉ được đặt ngay SAU cụm số lượng từ (số + lượng từ / đơn vị thời gian, tuổi tác, khoảng cách...) để biểu thị số ước lượng hơi nhiều hơn hoặc hơi ít hơn một chút.",
+      "context": "Dùng rộng rãi trong cả văn nói và văn viết khi ước lượng thời gian, tuổi, khoảng cách, số tiền.",
+      "examples": [
+        { "chinese": "网上买的那本书估计三天左右就能到，你收到了记得给我打个电话说一声。", "pinyin": "Wǎngshang mǎi de nà běn shū gūjì sān tiān zuǒyòu jiù néng dào, nǐ shōudào le jìde gěi wǒ dǎ ge diànhuà shuō yì shēng.", "vietnamese": "Quyển sách mua trên mạng ước chừng khoảng ba ngày là tới, cậu nhận được nhớ gọi báo tôi một tiếng nhé." },
+        { "chinese": "这儿不能停车，前方500米左右有个免费停车场，您可以把车停到那儿。", "pinyin": "Zhèr bù néng tíngchē, qiánfāng wǔbǎi mǐ zuǒyòu yǒu ge miǎnfèi tíngchēchǎng, nín kěyǐ bǎ chē tíng dào nàr.", "vietnamese": "Chỗ này không được đỗ xe, phía trước khoảng 500 mét có bãi đỗ xe miễn phí, ngài có thể đỗ xe ở đó." },
+        { "chinese": "七岁左右的儿童普遍好动，坐不住，所以老师在教这个年龄段的孩子时，一定要想办法引起他们的兴趣。", "pinyin": "Qī suì zuǒyòu de értóng pǔbiàn hào dòng, zuò bu zhù, suǒyǐ lǎoshī zài jiāo zhège niánlíng duàn de háizi shí, yídìng yào xiǎng bànfǎ yǐnqǐ tāmen de xìngqù.", "vietnamese": "Trẻ em khoảng bảy tuổi phổ biến hiếu động, không ngồi yên được, nên khi dạy nhóm tuổi này thầy cô nhất định phải tìm cách khơi gợi hứng thú của các em." }
+      ],
+      "important_notes": "Luôn đứng SAU số lượng từ (三天左右, 500米左右, 七岁左右).",
+      "common_errors": "Đặt 左右 trước số từ (Sai: '左右三天') hoặc dùng chung với 大约 trong cùng một cụm gây thừa.",
+      "comparison": "大约 đặt TRƯỚC số lượng từ (大约三天); 左右 đặt SAU số lượng từ (三天左右).",
+      "mini_practice": [{ "prompt": "马经理7月底去北京出差，______________________。（左右）", "sample_answer": "大概要去一个星期左右", "explanation": "Đặt 左右 sau cụm số lượng từ 一个星期." }]
+    }
+  ],
+  "comparison_section": {
+    "label": "比一比 So sánh",
+    "pair": "千万 — 一定",
+    "term_a": "千万 (qiānwàn)",
+    "term_b": "一定 (yídìng)",
+    "similarity": "Cả hai đều là phó từ, có thể dùng để đưa ra yêu cầu, lời dặn dò (★). VD: 通过失败你能获得别人没有的经验，千万/一定不要因为失败就不努力了。",
+    "differences": [
+      { "criterion": "Câu khẳng định vs Câu phủ định (khi dặn dò ★)", "a": "Dùng nhiều hơn trong CÂU PHỦ ĐỊNH, thường kết hợp với 别、要/不要、不能 (千万不要把工作中的不愉快带到生活中来).", "b": "Dùng nhiều hơn trong CÂU KHẲNG ĐỊNH, thường kết hợp với 要/不要、能/不能 (找工作的人一定要到这里看一看)." },
+      { "criterion": "Ngữ khí", "a": "Ngữ khí nhẹ nhàng, uyển chuyển, mang sắc thái hy vọng, tha thiết dặn dò (当机会到来时，千万不要放手).", "b": "Ngữ khí mạnh hơn, thường mang hàm ý ra lệnh, yêu cầu kiên quyết (在正式比赛前一定要练好)." },
+      { "criterion": "Biểu thị quyết tâm ở ngôi thứ nhất (我)", "a": "KHÔNG có cách dùng này.", "b": "Có thể dùng trong câu ngôi thứ nhất kết hợp 会/不会、能 để tỏ ý quyết tâm (我一定会继续努力)." },
+      { "criterion": "Nghĩa 'chắc chắn, tất nhiên' & phủ định 不一定", "a": "KHÔNG có cách dùng này (không nói '不千万').", "b": "Biểu thị sự tất nhiên không nghi ngờ; phủ định '不一定' nghĩa là 'không nhất thiết' (其实不一定都是这样)." },
+      { "criterion": "Chức năng tính từ", "a": "KHÔNG làm tính từ.", "b": "CÓ THỂ làm tính từ với nghĩa 'ở mức độ nhất định, thích hợp' (有一定的语言基础和经济条件)." },
+      { "criterion": "Dùng độc lập / rút gọn để đáp lại", "a": "KHÔNG dùng độc lập để trả lời.", "b": "CÓ THỂ dùng độc lập khi trả lời (A: 这次你得请客啊。 B: 一定。)." }
+    ]
+  },
+  "texts": [
+    {
+      "id": "t1", "title_zh": "李老师建议王静让孩子养成好习惯", "title_vi": "Thầy Lý khuyên Vương Tĩnh giúp con hình thành thói quen tốt",
+      "lines": [
+        { "speaker": "王静", "chinese": "那个一边弹钢琴一边唱歌的男孩子是谁？表演得真棒！", "pinyin": "Nàge yìbiān tán gāngqín yìbiān chàng gē de nán háizi shì shéi? Biǎoyǎn de zhēn bàng!", "vietnamese": "Cậu bé vừa chơi đàn dương cầm vừa hát kia là ai thế? Biểu diễn xuất sắc thật!" },
+        { "speaker": "李老师", "chinese": "是我孙子。去年寒假前的新年晚会他也表演过一次。", "pinyin": "Shì wǒ sūnzi. Qùnián hánjià qián de xīnnián wǎnhuì tā yě biǎoyǎnguo yí cì.", "vietnamese": "Là cháu nội trai của tôi. Đêm hội năm mới trước kỳ nghỉ đông năm ngoái cháu cũng từng biểu diễn một lần." },
+        { "speaker": "王静", "chinese": "我想起来了，这孩子又聪明又可爱，你们教育得真好！", "pinyin": "Wǒ xiǎng qilai le, zhè háizi yòu cōngming yòu kě'ài, nǐmen jiàoyù de zhēn hǎo!", "vietnamese": "Tôi nhớ ra rồi, đứa bé này vừa thông minh vừa đáng yêu, gia đình thầy giáo dục thật tốt!" },
+        { "speaker": "李老师", "chinese": "是他父母教育得好。父母是孩子最重要的老师。他父母不仅教他知识，而且还花了很长时间帮助他养成了非常好的习惯，现在他每天都自己练习弹钢琴。", "pinyin": "Shì tā fùmǔ jiàoyù de hǎo. Fùmǔ shì háizi zuì zhòngyào de lǎoshī, tā fùmǔ bùjǐn jiāo tā zhīshi, érqiě hái huāle hěn cháng shíjiān bāngzhù tā yǎngchéngle fēicháng hǎo de xíguàn, xiànzài tā měi tiān dōu zìjǐ liànxí tán gāngqín.", "vietnamese": "Là bố mẹ cháu giáo dục tốt. Cha mẹ là người thầy quan trọng nhất của con cái. Bố mẹ cháu không chỉ dạy kiến thức mà còn dành nhiều thời gian giúp cháu hình thành thói quen rất tốt, giờ ngày nào cháu cũng tự tập đàn piano." },
+        { "speaker": "王静", "chinese": "让孩子养成一个好习惯实在太重要了，看来我得向他父母好好儿学习。", "pinyin": "Ràng háizi yǎngchéng yí ge hǎo xíguàn shízài tài zhòngyào le, kànlái wǒ děi xiàng tā fùmǔ hǎohāor xuéxí.", "vietnamese": "Giúp con hình thành một thói quen tốt thực sự quá quan trọng, xem ra tôi phải học hỏi bố mẹ cháu thật nhiều." },
+        { "speaker": "李老师", "chinese": "对。如果希望有一个优秀的孩子，你就要先成为一位优秀的父亲或者母亲。", "pinyin": "Duì. Rúguǒ xīwàng yǒu yí ge yōuxiù de háizi, nǐ jiù yào xiān chéngwéi yí wèi yōuxiù de fùqīn huòzhě mǔqīn.", "vietnamese": "Đúng vậy. Nếu hy vọng có một đứa con ưu tú, trước tiên bạn phải trở thành một người cha hoặc người mẹ ưu tú." }
+      ]
+    },
+    {
+      "id": "t2", "title_zh": "王静建议孙月教育孩子学会安排时间", "title_vi": "Vương Tĩnh khuyên Tôn Nguyệt dạy con biết sắp xếp thời gian",
+      "lines": [
+        { "speaker": "王静", "chinese": "看你脸色不太好，是不是昨晚没休息好？", "pinyin": "Kàn nǐ liǎnsè bú tài hǎo, shì bu shì zuówǎn méi xiūxi hǎo?", "vietnamese": "Nhìn sắc mặt cậu không được tốt lắm, có phải tối qua nghỉ ngơi không đủ không?" },
+        { "speaker": "孙月", "chinese": "别提了。我女儿昨晚做作业又做到11点。", "pinyin": "Biétí le. Wǒ nǚ'ér zuówǎn zuò zuòyè yòu zuòdào shíyī diǎn.", "vietnamese": "Đừng nhắc nữa. Con gái tôi tối qua lại làm bài tập đến tận 11 giờ." },
+        { "speaker": "王静", "chinese": "睡觉太晚对孩子的身体没有好处。最近孩子作业是不是太多了？", "pinyin": "Shuì jiào tài wǎn duì háizi de shēntǐ méiyǒu hǎochù. Zuìjìn háizi zuòyè shì bu shì tài duō le?", "vietnamese": "Ngủ muộn quá không có lợi cho sức khỏe trẻ đâu. Dạo này bài tập của cháu nhiều quá phải không?" },
+        { "speaker": "孙月", "chinese": "主要是她做事情比较慢，比如早上闹钟响了她不醒，我赶时间送她上学，她又急着上厕所。每天因为这些小事批评她，弄得我俩心情都不好。", "pinyin": "Zhǔyào shì tā zuò shìqing bǐjiào màn, bǐrú zǎoshang nàozhōng xiǎngle tā bù xǐng, wǒ gǎn shíjiān sòng tā shàng xué, tā yòu jízhe shàng cèsuǒ. Měi tiān yīnwèi zhèxiē xiǎo shì pīpíng tā, nòng de wǒ liǎ xīnqíng dōu bù hǎo.", "vietnamese": "Chủ yếu là con bé làm việc khá chậm, ví dụ sáng đồng hồ báo thức reo rồi mà không chịu dậy, tôi đang vội đưa nó đi học thì nó lại cuống lên đòi đi vệ sinh. Ngày nào cũng vì mấy chuyện nhỏ này mà phê bình nó, làm tâm trạng cả hai mẹ con đều không vui." },
+        { "speaker": "王静", "chinese": "孩子做事慢，往往是因为他们不会安排自己的时间。你应该让孩子学会管理时间。", "pinyin": "Háizi zuò shì màn, wǎngwǎng shì yīnwèi tāmen bú huì ānpái zìjǐ de shíjiān. Nǐ yīnggāi ràng háizi xuéhuì guǎnlǐ shíjiān.", "vietnamese": "Trẻ làm việc chậm thường là vì chúng chưa biết sắp xếp thời gian của mình. Cậu nên dạy con học cách quản lý thời gian." },
+        { "speaker": "孙月", "chinese": "看来还是我的教育方法有问题。平时看她做事情慢，总想替她做，以后得让她学会安排时间，自己的事情自己做。", "pinyin": "Kànlái háishi wǒ de jiàoyù fāngfǎ yǒu wèntí. Píngshí kàn tā zuò shìqing màn, zǒng xiǎng tì tā zuò, yǐhòu děi ràng tā xuéhuì ānpái shíjiān, zìjǐ de shìqing zìjǐ zuò.", "vietnamese": "Xem ra vẫn là phương pháp giáo dục của mình có vấn đề. Ngày thường thấy nó làm chậm cứ hay muốn làm thay, sau này phải để nó học cách sắp xếp thời gian, việc của mình tự mình làm." }
+      ]
+    },
+    {
+      "id": "t3", "title_zh": "王静和孙月讨论表扬孩子的方法", "title_vi": "Vương Tĩnh và Tôn Nguyệt thảo luận phương pháp khen ngợi con cái",
+      "lines": [
+        { "speaker": "王静", "chinese": "明天又要带我儿子去医院打针，想想我就头疼。他就怕打针，每次打针都哭得特别厉害。", "pinyin": "Míngtiān yòu yào dài wǒ érzi qù yīyuàn dǎ zhēn, xiǎngxiang wǒ jiù tóu téng. Tā jiù pà dǎ zhēn, měi cì dǎ zhēn dōu kū de tèbié lìhai.", "vietnamese": "Ngày mai lại phải đưa con trai đi bệnh viện tiêm, mới nghĩ tới đã đau đầu. Nó sợ nhất là tiêm, lần nào tiêm cũng khóc dữ dội lắm." },
+        { "speaker": "孙月", "chinese": "记得我女儿小时候，带她去医院打针，刚开始，她害怕得要哭。我就小声地和护士说我女儿很勇敢，一点儿也不怕打针，女儿听了以后马上就不哭了。", "pinyin": "Jìde wǒ nǚ'ér xiǎoshíhou, dài tā qù yīyuàn dǎ zhēn, gāng kāishǐ, tā hàipà de yào kū. Wǒ jiù xiǎoshēng de hé hùshi shuō wǒ nǚ'ér hěn yǒnggǎn, yìdiǎnr yě bú pà dǎ zhēn, nǚ'ér tīngle yǐhòu mǎshàng jiù bù kū le.", "vietnamese": "Nhớ hồi con gái tôi còn nhỏ, đưa đi bệnh viện tiêm, mới đầu con bé sợ phát khóc. Tôi bèn nói nhỏ với y tá rằng con gái tôi rất dũng cảm, chẳng sợ tiêm chút nào, con bé nghe thấy liền nín khóc ngay." },
+        { "speaker": "王静", "chinese": "原来鼓励和表扬对小孩儿挺有用的，下次我也试试。", "pinyin": "Yuánlái gǔlì hé biǎoyáng duì xiǎoháir tǐng yǒuyòng de, xià cì wǒ yě shìshi.", "vietnamese": "Thì ra khích lệ và khen ngợi rất có tác dụng với trẻ nhỏ, lần sau mình cũng thử xem." },
+        { "speaker": "孙月", "chinese": "不过表扬也是一门艺术，表扬千万不要太多，过多的表扬可能会给孩子带来压力。不仅起不到鼓励的作用，还可能让孩子怀疑自己的能力，变得没有信心。", "pinyin": "Búguò biǎoyáng yě shì yì mén yìshù, biǎoyáng qiānwàn búyào tài duō, guò duō de biǎoyáng kěnéng huì gěi háizi dàilái yālì. Bùjǐn qǐ bu dào gǔlì de zuòyòng, hái kěnéng ràng háizi huáiyí zìjǐ de nénglì, biànde méiyǒu xìnxīn.", "vietnamese": "Nhưng khen ngợi cũng là một nghệ thuật, nhất thiết không nên khen quá nhiều, khen quá nhiều có thể mang lại áp lực cho trẻ. Không chỉ không đạt tác dụng khích lệ mà còn có thể khiến trẻ nghi ngờ năng lực bản thân, mất tự tin." },
+        { "speaker": "王静", "chinese": "那怎么表扬孩子才会更有效果呢？", "pinyin": "Nà zěnme biǎoyáng háizi cái huì gèng yǒu xiàoguǒ ne?", "vietnamese": "Vậy khen con thế nào mới có hiệu quả hơn?" },
+        { "speaker": "孙月", "chinese": "我认为表扬要及时，而且表扬不仅仅要看结果，更要看过程，这样才能鼓励他的积极性，让他变得勇敢，不怕困难。", "pinyin": "Wǒ rènwéi biǎoyáng yào jíshí, érqiě biǎoyáng bù jǐnjǐn yào kàn jiéguǒ, gèng yào kàn guòchéng, zhèyàng cái néng gǔlì tā de jījíxìng, ràng tā biànde yǒnggǎn, bú pà kùnnan.", "vietnamese": "Mình cho rằng khen ngợi phải kịp thời, hơn nữa không chỉ nhìn vào kết quả mà càng phải nhìn vào quá trình, như vậy mới khích lệ được tính tích cực, giúp con trở nên dũng cảm, không sợ khó khăn." }
+      ]
+    },
+    {
+      "id": "t4", "title_zh": "选择合适的教育方法，不要骗孩子", "title_vi": "Lựa chọn phương pháp giáo dục thích hợp, không nên lừa dối trẻ",
+      "lines": [
+        { "speaker": "", "chinese": "有的孩子在得不到自己想要的东西的时候，会通过哭、扔东西或者故意敲打来引起父母的注意。在这种情况下，建议父母先不要生气，应该停下手中的事情，陪孩子整理整理东西，和他们聊聊天儿，弄清楚他们的问题。父母的关心，可以让孩子心情愉快起来。教育孩子应该选择合适的教育方法，最好不要为了解决问题而骗孩子，这是因为儿童缺少判断能力，看到父母骗人，他们也会学着说假话。", "pinyin": "Yǒude háizi zài dé bu dào zìjǐ xiǎng yào de dōngxi de shíhou, huì tōngguò kū, rēng dōngxi huòzhě gùyì qiāodǎ lái yǐnqǐ fùmǔ de zhùyì. Zài zhè zhǒng qíngkuàng xià, jiànyì fùmǔ xiān búyào shēng qì, yīnggāi tíngxià shǒu zhōng de shìqing, péi háizi zhěngli zhěngli dōngxi, hé tāmen liáoliáo tiānr, nòng qīngchu tāmen de wèntí. Fùmǔ de guānxīn, kěyǐ ràng háizi xīnqíng yúkuài qilai. Jiàoyù háizi yīnggāi xuǎnzé héshì de jiàoyù fāngfǎ, zuì hǎo búyào wèile jiějué wèntí ér piàn háizi, zhè shì yīnwèi értóng quēshǎo pànduàn nénglì, kàndào fùmǔ piàn rén, tāmen yě huì xuézhe shuō jiǎhuà.", "vietnamese": "Có những đứa trẻ khi không có được thứ mình muốn sẽ khóc, ném đồ hoặc cố ý gõ đập để thu hút sự chú ý của cha mẹ. Trong tình huống này, khuyên cha mẹ trước tiên đừng nổi giận, hãy dừng việc đang làm, cùng con thu dọn đồ đạc, trò chuyện và tìm hiểu rõ vấn đề của chúng. Sự quan tâm của cha mẹ sẽ giúp tâm trạng trẻ vui vẻ trở lại. Giáo dục con cái cần chọn phương pháp phù hợp, tốt nhất đừng vì giải quyết vấn đề mà lừa trẻ, bởi trẻ em thiếu khả năng phán đoán, thấy cha mẹ nói dối chúng cũng sẽ học nói dối theo." }
+      ]
+    },
+    {
+      "id": "t5", "title_zh": "对不同性格的孩子使用不同的教育方法", "title_vi": "Áp dụng phương pháp giáo dục khác nhau cho trẻ có tính cách khác nhau",
+      "lines": [
+        { "speaker": "", "chinese": "七岁左右的儿童普遍好动，坐不住，所以老师在教这个年龄段的孩子时，一定要想办法引起他们的兴趣。只有让他们觉得你教的内容有趣，他们才会愿意努力学习。当孩子不明白时，应该多鼓励他，不要用“懒”“笨”“粗心”这种词批评他，这样对他们的正常发展不好。而且，对不同性格的孩子要使用不同的教育方法。如果孩子比较骄傲，应该让他明白还有很多知识需要学习；要是孩子性格有些害羞，就要经常鼓励他说出自己的看法，这样才能让每一个孩子都健康地发展。", "pinyin": "Qī suì zuǒyòu de értóng pǔbiàn hào dòng, zuò bu zhù, suǒyǐ lǎoshī zài jiāo zhège niánlíng duàn de háizi shí, yídìng yào xiǎng bànfǎ yǐnqǐ tāmen de xìngqù. Zhǐyǒu ràng tāmen juéde nǐ jiāo de nèiróng yǒuqù, tāmen cái huì yuànyì nǔlì xuéxí. Dāng háizi bù míngbai shí, yīnggāi duō gǔlì tā, búyào yòng “lǎn” “bèn” “cūxīn” zhè zhǒng cí pīpíng tā, zhèyàng duì tāmen de zhèngcháng fāzhǎn bù hǎo. Érqiě, duì bù tóng xìnggé de háizi yào shǐyòng bù tóng de jiàoyù fāngfǎ. Rúguǒ háizi bǐjiào jiāo'ào, yīnggāi ràng tā míngbai hái yǒu hěn duō zhīshi xūyào xuéxí; yàoshi háizi xìnggé yǒuxiē hàixiū, jiù yào jīngcháng gǔlì tā shuōchū zìjǐ de kànfǎ, zhèyàng cái néng ràng měi yí ge háizi dōu jiànkāng de fāzhǎn.", "vietnamese": "Trẻ em khoảng bảy tuổi phổ biến hiếu động, không ngồi yên được, nên khi dạy lứa tuổi này giáo viên nhất định phải tìm cách khơi gợi hứng thú. Chỉ khi khiến trẻ thấy nội dung dạy thú vị, chúng mới sẵn lòng chăm chỉ học tập. Khi trẻ chưa hiểu, nên động viên nhiều hơn, đừng dùng những từ như “lười”, “ngốc”, “cẩu thả” để phê bình vì không tốt cho sự phát triển bình thường của trẻ. Hơn nữa, với trẻ có tính cách khác nhau cần dùng cách giáo dục khác nhau: nếu trẻ hơi kiêu ngạo, cần giúp trẻ hiểu vẫn còn nhiều kiến thức cần học; nếu trẻ hơi nhút nhát, phải thường xuyên khích lệ trẻ nói lên suy nghĩ của mình, có vậy mới giúp mọi đứa trẻ phát triển khỏe mạnh." }
+      ]
+    }
+  ],
+  "reading_questions": [
+    { "question_zh": "王静以前看过李老师孙子的表演吗？你是怎么知道的？", "question_vi": "Vương Tĩnh trước đây từng xem cháu nội thầy Lý biểu diễn chưa? Sao bạn biết?", "answer_zh": "看过。因为李老师说去年寒假前的新年晚会他孙子表演过一次，王静说“我想起来了，这孩子又聪明又可爱”。", "answer_vi": "Rồi. Vì thầy Lý nói đêm hội năm mới trước kỳ nghỉ đông năm ngoái cháu từng biểu diễn một lần, Vương Tĩnh đáp “Tôi nhớ ra rồi, đứa bé này vừa thông minh vừa đáng yêu”." },
+    { "question_zh": "怎么理解“父母是孩子最重要的老师”这句话？", "question_vi": "Hiểu câu “Cha mẹ là người thầy quan trọng nhất của con cái” như thế nào?", "answer_zh": "父母不仅教孩子知识，还帮助孩子养成好习惯；想有优秀的孩子，父母要先成为优秀的父亲或母亲，以身作则。", "answer_vi": "Cha mẹ không chỉ dạy kiến thức mà còn giúp con hình thành thói quen tốt; muốn có con ưu tú thì cha mẹ trước tiên phải trở thành tấm gương ưu tú." },
+    { "question_zh": "孙月常因为什么事情心情不好？怎么做可以帮助孩子学会安排自己的事情？", "question_vi": "Tôn Nguyệt thường không vui vì chuyện gì? Làm thế nào để giúp trẻ biết sắp xếp việc của mình?", "answer_zh": "因为女儿做事慢（做作业到11点、闹钟响了不醒、急着上厕所），她每天批评女儿弄得母女俩心情都不好。应该不再替孩子做，让孩子学会管理时间，自己的事情自己做。", "answer_vi": "Vì con gái làm việc chậm (làm bài đến 11 giờ, báo thức reo không dậy, vội đi vệ sinh) nên ngày nào cũng phê bình làm cả hai mẹ con đều buồn. Cần ngừng làm thay, để trẻ học cách quản lý thời gian và tự làm việc của mình." },
+    { "question_zh": "用表扬这种方式教育孩子时，应该注意哪些问题？", "question_vi": "Khi dùng phương pháp khen ngợi để giáo dục trẻ cần chú ý những vấn đề nào?", "answer_zh": "表扬千万不要太多，否则会给孩子带来压力甚至让他怀疑自己的能力；表扬要及时，而且不仅要看结果，更要看过程。", "answer_vi": "Nhất thiết không khen quá nhiều để tránh gây áp lực hay khiến trẻ nghi ngờ bản thân; khen phải kịp thời và không chỉ nhìn kết quả mà càng chú trọng quá trình." },
+    { "question_zh": "有的孩子为什么故意乱扔东西？遇到这种情况，父母应该怎么办？为什么有的孩子会说假话骗人？", "question_vi": "Vì sao một số trẻ cố tình ném đồ? Gặp tình huống đó cha mẹ nên làm gì? Vì sao có trẻ học nói dối lừa người?", "answer_zh": "因为得不到想要的东西，想引起父母的注意。父母先不要生气，应停下手中的事陪孩子整理东西、聊聊天儿、弄清楚问题。孩子说假话往往是因为缺少判断能力，看到父母骗人就跟着学。", "answer_vi": "Vì không có được thứ mình muốn nên muốn thu hút sự chú ý của cha mẹ. Cha mẹ đừng vội giận mà hãy dừng tay, cùng con thu dọn đồ, trò chuyện tìm hiểu vấn đề. Trẻ nói dối vì thiếu khả năng phán đoán và bắt chước khi thấy cha mẹ lừa dối." },
+    { "question_zh": "对教儿童的老师来说，怎么做才能让他们安静地学习？如果孩子学习不太好，父母最好用什么方式教育他们？", "question_vi": "Với giáo viên dạy trẻ em, làm sao để các em yên tĩnh học tập? Nếu trẻ học chưa tốt, cha mẹ nên giáo dục thế nào?", "answer_zh": "要想办法引起他们的兴趣，让他们觉得内容有趣。孩子不明白时应多鼓励，不用“懒”“笨”“粗心”批评，并针对不同性格采取不同教育方法。", "answer_vi": "Phải tìm cách khơi gợi hứng thú để trẻ thấy nội dung thú vị. Khi trẻ chưa hiểu nên động viên nhiều hơn, tránh chê “lười, ngốc, cẩu thả” và tùy tính cách trẻ mà có phương pháp riêng." }
+  ],
+  "exercises": [
+    {
+      "id": "h4x15_ex1", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.75 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Điền từ thích hợp: “已经放______了，去打球的人肯定不多，星期天我们去学校的体育馆打网球吧。”",
+      "options": ["寒假", "整理", "粗心", "批评"],
+      "answer": "寒假",
+      "explanation": "放寒假 = nghỉ đông (trường học đã nghỉ đông nên ít người đi đánh bóng).",
+      "review_tip": "Ôn cụm cố định 放寒假 / 放暑假."
+    },
+    {
+      "id": "h4x15_ex2", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.75–76 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Điền từ thích hợp: “他的优点是有礼貌、诚实、能吃苦，就是太______了，不适合我们这儿的工作。”",
+      "options": ["粗心", "表扬", "害羞", "管理"],
+      "answer": "粗心",
+      "explanation": "Vế trước nêu ưu điểm, '就是……' nêu khuyết điểm: quá cẩu thả (粗心) nên không hợp công việc.",
+      "review_tip": "Ôn cặp trái nghĩa 粗心 ↔ 细心/仔细."
+    },
+    {
+      "id": "h4x15_ex3", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.76 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Điền từ thích hợp: “A：因为那件事，她特别生我的气。 B：放心吧，你也不是______的，去跟她解释一下，她会理解的。”",
+      "options": ["故意", "响", "赶", "害羞"],
+      "answer": "故意",
+      "explanation": "不是故意的 = không phải cố tình/cố ý làm vậy.",
+      "review_tip": "Ôn cụm khẩu ngữ cực phổ biến: 不是故意的."
+    },
+    {
+      "id": "h4x15_ex4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "比一比 tr.71 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ ĐÚNG: “哭并不______是件坏事，哭可以让人从坏心情中走出来，是一种减轻压力的好办法。”",
+      "options": ["一定", "千万", "左右", "故意"],
+      "answer": "一定",
+      "explanation": "Phủ định của 一定 là 不一定 (không nhất thiết). 千万 không bao giờ đi sau 不!",
+      "review_tip": "Ôn bảng 比一比 千万—一定: chỉ có 不一定, không có 不千万."
+    },
+    {
+      "id": "h4x15_ex5", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "比一比 tr.71 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ ĐÚNG cho câu: “兴趣是最好的老师，如果孩子对一件事情感兴趣，那他______会努力地去学习，效果也会更好。”",
+      "options": ["一定", "千万", "只好", "否则"],
+      "answer": "一定",
+      "explanation": "Biểu thị sự chắc chắn tất nhiên (一定会……) chỉ dùng 一定, không dùng 千万 (千万 chỉ dùng dặn dò).",
+      "review_tip": "千万 chỉ dùng để nhắc nhở/dặn dò; 一定 còn chỉ sự chắc chắn và quyết tâm."
+    },
+    {
+      "id": "h4x15_ex6", "type": "context_mc", "level": "Phân biệt", "origin_tag": "同字词 tr.77 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Điền cặp từ 同字词 chữ 护 cho 2 chỗ trống: (1) 冬季皮肤容易干燥，应该注意____皮肤。(2) 去国外留学要提前办____。",
+      "options": ["保护 / 护照", "护士 / 护照", "护照 / 保护", "保护 / 护士"],
+      "answer": "保护 / 护照",
+      "explanation": "保护皮肤 = bảo vệ da; 办护照 = làm hộ chiếu.",
+      "review_tip": "Ôn nhóm 同字词 chữ 护: 护照, 保护, 护士."
+    },
+    {
+      "id": "h4x15_ex7", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Bài 15 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn câu DÙNG ĐÚNG từ “左右”:",
+      "options": [
+        "网上买的那本书估计三天左右就能到。",
+        "网上买的那本书估计左右三天就能到。",
+        "他大约十岁左右开始练习弹钢琴。",
+        "左右五百米前方有个免费停车场。"
+      ],
+      "answer": "网上买的那本书估计三天左右就能到。",
+      "explanation": "左右 luôn đặt NGAY SAU số lượng từ (三天左右); không đặt trước số từ và tránh lặp thừa với 大约.",
+      "review_tip": "Số lượng từ + 左右 = khoảng chừng."
+    },
+    {
+      "id": "h4x15_ex8", "type": "reorder", "level": "Vận dụng", "origin_tag": "Bài 15 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Sắp xếp thành câu hoàn chỉnh:",
+      "tokens": ["弄得", "每天因为这些小事", "心情都不好。", "批评她，", "我俩"],
+      "answer": "每天因为这些小事批评她，弄得我俩心情都不好。",
+      "explanation": "Cấu trúc: Nguyên nhân + 批评她，弄得 + Chủ ngữ kết quả + 状态/结果.",
+      "review_tip": "Ôn cấu trúc 弄得…… (làm cho... trở nên...)."
+    },
+    {
+      "id": "h4x15_ex9", "type": "error_fix", "level": "Phân biệt", "origin_tag": "Ôn kiến thức cũ (30%)", "mistake_category": "Ngữ pháp",
+      "prompt": "[Ôn tập Bài 11] Chọn câu ĐÚNG ngữ pháp về cặp “无论—不管”:",
+      "options": [
+        "无论成绩好还是不好，父母都不应该用“笨”批评孩子。",
+        "无论成绩好不好，父母都不应该用“笨”批评孩子。",
+        "不管如何，教育孩子都要讲究方法。",
+        "无论压力多大，千万不要放弃，一定没问题。"
+      ],
+      "answer": "无论成绩好还是不好，父母都不应该用“笨”批评孩子。",
+      "explanation": "无论 KHÔNG đi trực tiếp với dạng chính phản A不A (好不好) mà phải thêm 还是; 不管 không đi với 如何; câu D sai nghĩa vì vế sau thiếu 都/也.",
+      "review_tip": "Ôn kỹ 无论 + A还是B + 都/也 vs 不管 + A不A."
+    },
+    {
+      "id": "h4x15_ex10", "type": "reading_mc", "level": "Vận dụng", "origin_tag": "Ôn đọc hiểu (30%)", "mistake_category": "Đọc hiểu",
+      "prompt": "Theo Bài khóa 3 & 4, phương pháp giáo dục con cái nào sau đây là ĐÚNG?",
+      "options": [
+        "Khen ngợi kịp thời, chú trọng cả quá trình và không lừa dối trẻ",
+        "Khen ngợi càng nhiều càng tốt để trẻ không bao giờ bị áp lực",
+        "Khi trẻ khóc đòi đồ thì nói dối để dỗ trẻ nín ngay cho xong",
+        "Làm thay mọi việc chậm chạp của trẻ để tiết kiệm thời gian"
+      ],
+      "answer": "Khen ngợi kịp thời, chú trọng cả quá trình và không lừa dối trẻ",
+      "explanation": "Bài 3 nhấn mạnh khen kịp thời, xem trọng quá trình, không khen quá đà; Bài 4 khuyên không nói dối trẻ kẻo trẻ học nói dối.",
+      "review_tip": "Tổng hợp thông điệp chính của cả 5 bài khóa Bài 15."
+    },
+    {
+      "id": "h4x15_ex11", "type": "translate_zh_vi", "level": "Vận dụng", "origin_tag": "Ôn tập tích hợp (30%)", "mistake_category": "Dịch thuật",
+      "prompt": "Chọn bản dịch sát nghĩa nhất cho câu: “教育孩子应该选择合适的教育方法，否则不仅起不到鼓励的作用，还可能让孩子怀疑自己的能力。”",
+      "options": [
+        "Giáo dục con cái nên chọn phương pháp thích hợp, nếu không thì không những không có tác dụng khích lệ mà còn có thể khiến trẻ nghi ngờ năng lực của bản thân.",
+        "Giáo dục con cái nhất định phải khen thật nhiều, nếu không trẻ sẽ trở nên kiêu ngạo và không tin tưởng cha mẹ.",
+        "Giáo dục con cái cần quản lý thời gian thật chặt, bằng không trẻ sẽ luôn làm việc chậm và sợ đi tiêm.",
+        "Giáo dục con cái nên dùng cách giống nhau cho mọi đứa trẻ, nếu không sẽ làm giảm hứng thú học tập."
+      ],
+      "answer": "Giáo dục con cái nên chọn phương pháp thích hợp, nếu không thì không những không có tác dụng khích lệ mà còn có thể khiến trẻ nghi ngờ năng lực của bản thân.",
+      "explanation": "Kết hợp ngữ pháp 否则 (Bài 11) + 不仅……还…… + từ vựng Bài 15 (合适, 鼓励, 怀疑).",
+      "review_tip": "Luyện dịch câu ghép nhiều liên từ (否则, 不仅……还……)."
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "id": "hsk5shang_l12",
+  "book_id": "hsk5shang",
+  "textbook": "HSK 5 上",
+  "lesson_number": 12,
+  "title_zh": "海外用户玩儿微信",
+  "title_vi": "Người dùng WeChat ở nước ngoài",
+  "pdf_pages": "Trang sách 109–115 (Giáo Trình Chuẩn HSK5 Tập 1.pdf)",
+  "source_status": "verified_textbook",
+  "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"],
+  "vocabulary": [
+    {
+      "id": "hsk5s_l12_w01", "order": 1, "textbook": "HSK 5 上", "lesson": 12, "is_out_of_syllabus": true,
+      "hanzi": "用户", "pinyin": "yònghù",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "người dùng", "structure": "海外用户 / 注册用户 / 用户数量", "explanation": "Cá nhân hoặc tổ chức sử dụng sản phẩm, dịch vụ hoặc ứng dụng.", "examples": [{ "chinese": "微信“在海外注册用户已经超过7000万，且在快速增长当中”。", "pinyin": "Wēixìn “zài hǎiwài zhùcè yònghù yǐjīng chāoguò qīqiānwàn, qiě zài kuàisù zēngzhǎng dāngzhōng”.", "vietnamese": "WeChat “có số người dùng đăng ký ở nước ngoài đã vượt quá 70 triệu và đang tăng trưởng nhanh chóng”.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "使用某种设备、产品或服务的个人或单位。", "collocations": ["海外用户", "注册用户", "用户群", "用户体验"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l12_w02", "order": 2, "textbook": "HSK 5 上", "lesson": 12, "is_out_of_syllabus": true,
+      "hanzi": "颠球", "pinyin": "diān qiú",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ ly hợp)", "meaning": "tung hứng (bóng), tâng bóng", "structure": "边颠着球边拍 / 颠球技术", "explanation": "Dùng chân, đùi hoặc đầu tâng liên tục quả bóng không cho rơi xuống đất.", "examples": [{ "chinese": "举着手机，边颠着球边拍……国际足球明星梅西用微信直播自己的颠球技术。", "pinyin": "Jǔzhe shǒujī, biān diānzhe qiú biān pāi…… Guójì zúqiú míngxīng Méixī yòng Wēixìn zhíbō zìjǐ de diān qiú jìshù.", "vietnamese": "Giơ điện thoại lên, vừa tâng bóng vừa quay... ngôi sao bóng đá quốc tế Messi dùng WeChat phát trực tiếp kỹ thuật tâng bóng của mình.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "用脚、腿或头等身体部位连续把球向上轻轻击起而不使其落地。", "collocations": ["颠球技术", "颠着球"], "usage_note": "Động từ ly hợp: 颠着球, 颠了一百个球.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l12_w03", "order": 3, "textbook": "HSK 5 上", "lesson": 12,
+      "hanzi": "明星", "pinyin": "míngxīng",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "ngôi sao (người nổi tiếng)", "structure": "足球明星 / 电影明星 / 当地明星", "explanation": "Người rất nổi tiếng trong lĩnh vực điện ảnh, âm nhạc, thể thao...", "examples": [{ "chinese": "国际足球明星梅西用微信直播自己的颠球技术。", "pinyin": "Guójì zúqiú míngxīng Méixī yòng Wēixìn zhíbō zìjǐ de diān qiú jìshù.", "vietnamese": "Ngôi sao bóng đá quốc tế Messi dùng WeChat phát trực tiếp kỹ thuật tâng bóng của mình.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "在文艺、体育等领域享有很高知名度的人。", "collocations": ["足球明星", "电影明星", "明星代言"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l12_w04", "order": 4, "textbook": "HSK 5 上", "lesson": 12, "is_out_of_syllabus": true,
+      "hanzi": "直播", "pinyin": "zhíbō",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "phát sóng trực tiếp", "structure": "直播 + 比赛 / 现场 / 颠球技术", "explanation": "Truyền phát hình ảnh/âm thanh trực tiếp theo thời gian thực tới người xem.", "examples": [{ "chinese": "国际足球明星梅西用微信直播自己的颠球技术。", "pinyin": "Guójì zúqiú míngxīng Méixī yòng Wēixìn zhíbō zìjǐ de diān qiú jìshù.", "vietnamese": "Ngôi sao bóng đá quốc tế Messi dùng WeChat phát sóng trực tiếp kỹ thuật tâng bóng của mình.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["buổi phát sóng trực tiếp, chương trình livestream"], "structure": "看直播 / 现场直播", "difference_note": "Làm tân ngữ hoặc danh từ chỉ chính chương trình phát trực tiếp.", "examples": [{ "chinese": "今晚八点有足球比赛的现场直播。", "pinyin": "Jīnwǎn bā diǎn yǒu zúqiú bǐsài de xiànchǎng zhíbō.", "vietnamese": "Tám giờ tối nay có truyền hình trực tiếp trận bóng đá." }] }
+      ],
+      "chinese_explanation": "电视、广播或网络实时播放现场实况。", "collocations": ["现场直播", "网络直播", "看直播"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l12_w05", "order": 5, "textbook": "HSK 5 上", "lesson": 12,
+      "hanzi": "宝贝", "pinyin": "bǎobèi",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "cục cưng, bé yêu", "structure": "小宝贝 / 宝贝女儿", "explanation": "Cách gọi âu yếm trẻ nhỏ hoặc người rất được yêu thương.", "examples": [{ "chinese": "把手机另一头一个正在哭的小宝贝逗笑。", "pinyin": "Bǎ shǒujī lìng yì tóu yí ge zhèngzài kū de xiǎo bǎobèi dòuxiào.", "vietnamese": "Chọc cười một em bé đang khóc ở đầu bên kia điện thoại.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Nghĩa gốc: bảo bối, vật quý)", "meanings": ["báu vật, đồ quý giá"], "structure": "一件宝贝 / 当成宝贝", "difference_note": "Chỉ đồ vật quý hiếm hoặc rất được trân trọng.", "examples": [{ "chinese": "这本老照片集是爷爷最珍贵的宝贝。", "pinyin": "Zhè běn lǎo zhàopiànjí shì yéye zuì zhēnguì de bǎobèi.", "vietnamese": "Cuốn album ảnh cũ này là báu vật quý giá nhất của ông nội." }] }
+      ],
+      "chinese_explanation": "对小孩的爱称；珍奇的东西。", "collocations": ["小宝贝", "心肝宝贝", "把……当宝贝"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l12_w06", "order": 6, "textbook": "HSK 5 上", "lesson": 12,
+      "hanzi": "逗", "pinyin": "dòu",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "gây cười, chọc cười, trêu", "structure": "逗 + 某人 + 笑 / 开心", "explanation": "Dùng lời nói hay hành động vui nhộn làm người khác bật cười.", "examples": [{ "chinese": "把手机另一头一个正在哭的小宝贝逗笑。", "pinyin": "Bǎ shǒujī lìng yì tóu yí ge zhèngzài kū de xiǎo bǎobèi dòuxiào.", "vietnamese": "Chọc cười một bé cưng đang khóc ở đầu dây bên kia điện thoại.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "形容词 (Tính từ khẩu ngữ)", "meanings": ["buồn cười, hài hước, ngộ nghĩnh"], "structure": "真逗 / 挺逗的", "difference_note": "Thường dùng trong khẩu ngữ miền Bắc Trung Quốc khen ai đó hài hước.", "examples": [{ "chinese": "你说话真逗，把大家都逗乐了。", "pinyin": "Nǐ shuōhuà zhēn dòu, bǎ dàjiā dōu dòulè le.", "vietnamese": "Cậu nói chuyện hài thật đấy, làm mọi người cười nghiêng ngả." }] }
+      ],
+      "chinese_explanation": "引逗，招引使人发笑；口语中指有趣、引人发笑。", "collocations": ["逗笑", "逗开心", "逗孩子玩儿"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l12_w07", "order": 7, "textbook": "HSK 5 上", "lesson": 12,
+      "hanzi": "宣传", "pinyin": "xuānchuán",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "tuyên truyền, quảng bá", "structure": "宣传片 / 重点宣传 / 做宣传", "explanation": "Truyền đạt rộng rãi thông tin, tư tưởng hoặc hình ảnh để mọi người biết và hiểu.", "examples": [{ "chinese": "这条30秒的全新广告宣传片在全球15个国家和地区同步上线。", "pinyin": "Zhè tiáo sānshí miǎo de quánxīn guǎnggào xuānchuánpiàn zài quánqiú shíwǔ ge guójiā hé dìqū tóngbù shàngxiàn.", "vietnamese": "Đoạn phim quảng cáo tuyên truyền hoàn toàn mới dài 30 giây này đồng loạt ra mắt tại 15 quốc gia và khu vực trên toàn cầu.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["công tác tuyên truyền, hoạt động quảng bá"], "structure": "做很多宣传 / 宣传活动", "difference_note": "Làm tân ngữ cho 做 hoặc định ngữ cho 活动/片.", "examples": [{ "chinese": "为了推广这项新产品，公司做了很多宣传。", "pinyin": "Wèile tuīguǎng zhè xiàng xīn chǎnpǐn, gōngsī zuò le hěn duō xuānchuán.", "vietnamese": "Để quảng bá sản phẩm mới này, công ty đã làm rất nhiều công tác tuyên truyền." }] }
+      ],
+      "chinese_explanation": "对群众说明讲解，使群众相信并跟着行动。", "collocations": ["广告宣传片", "宣传活动", "重点宣传"], "usage_note": "Phân biệt với 推广 (tr.114 Bài tập 2 câu 1): 宣传 nhấn mạnh tuyên truyền tư tưởng/thông tin/sự việc tốt đẹp cho công chúng; 推广 nhấn mạnh mở rộng phạm vi áp dụng sản phẩm/kỹ thuật/kinh nghiệm.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l12_w08", "order": 8, "textbook": "HSK 5 上", "lesson": 12, "is_out_of_syllabus": true,
+      "hanzi": "手笔", "pinyin": "shǒubǐ",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "sự mạnh tay, sự phô trương, quy mô đầu tư lớn", "structure": "大手笔 / 如此大手笔的推广", "explanation": "Khí phách, quy mô chi tiêu hoặc cách làm hoành tráng, mạnh tay.", "examples": [{ "chinese": "如此大手笔的推广，腾讯自有其底气所在。", "pinyin": "Rúcǐ dà shǒubǐ de tuīguǎng, Téngxùn zì yǒu qí dǐqì suǒzài.", "vietnamese": "Với chiến dịch quảng bá mạnh tay như thế, Tencent ắt có cơ sở tự tin riêng của mình.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "指做事情或花钱的气派和规模（多说“大手笔”）。", "collocations": ["大手笔", "大手笔投资"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l12_w09", "order": 9, "textbook": "HSK 5 上", "lesson": 12,
+      "hanzi": "推广", "pinyin": "tuīguǎng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "phổ biến, mở rộng, quảng bá", "structure": "推广 + 汉语普通话 / 新技术 / 产品 / 经验", "explanation": "Đưa sản phẩm, công nghệ, kinh nghiệm hoặc ngôn ngữ phổ biến ra phạm vi rộng lớn hơn.", "examples": [{ "chinese": "如此大手笔的推广，腾讯自有其底气所在。", "pinyin": "Rúcǐ dà shǒubǐ de tuīguǎng, Téngxùn zì yǒu qí dǐqì suǒzài.", "vietnamese": "Chiến dịch quảng bá quy mô lớn như vậy, Tencent tự có chỗ dựa tự tin của họ.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "扩大事物使用的范围或起作用的范围。", "collocations": ["推广产品", "推广新技术", "推广普通话", "推广经验"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l12_w10", "order": 10, "textbook": "HSK 5 上", "lesson": 12,
+      "hanzi": "注册", "pinyin": "zhùcè",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "đăng ký", "structure": "注册 + 公司 / 邮箱 / 会员 / 账号 / 注册用户", "explanation": "Ghi danh chính thức vào hệ thống, cơ quan quản lý hoặc trang web.", "examples": [{ "chinese": "微信“在海外注册用户已经超过7000万，且在快速增长当中”。", "pinyin": "Wēixìn “zài hǎiwài zhùcè yònghù yǐjīng chāoguò qīqiānwàn, qiě zài kuàisù zēngzhǎng dāngzhōng”.", "vietnamese": "WeChat “có lượng người dùng đăng ký ở nước ngoài đã vượt 70 triệu và đang tăng trưởng nhanh chóng”.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "向有关机关或网站登记备案。", "collocations": ["注册用户", "注册邮箱", "注册公司", "短信注册"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l12_w11", "order": 11, "textbook": "HSK 5 上", "lesson": 12,
+      "hanzi": "召开", "pinyin": "zhàokāi",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "mời dự họp, tổ chức (hội nghị, đại hội)", "structure": "按时/顺利/成功(地) + 召开 + 会议/大会", "explanation": "Triệu tập và tiến hành các cuộc họp, hội nghị, đại hội quy mô trang trọng.", "examples": [{ "chinese": "7月3日，在北京召开的2013腾讯合作伙伴大会上，腾讯总裁刘炽平言语间充满了骄傲。", "pinyin": "Qī yuè sān rì, zài Běijīng zhàokāi de èrlíngyīsān Téngxùn hézuò huǒbàn dàhuì shang, Téngxùn zǒngcái Liú Chìpíng yányǔ jiān chōngmǎn le jiāo'ào.", "vietnamese": "Ngày 3 tháng 7, tại Đại hội đối tác hợp tác Tencent 2013 tổ chức ở Bắc Kinh, Chủ tịch Tencent Lưu Sí Bình nói chuyện đầy vẻ tự hào.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "召集人们开会（多指比较正式的会议）。", "collocations": ["召开会议", "召开大会", "顺利召开", "按时召开"], "usage_note": "Chỉ dùng cho hội nghị/cuộc họp (không dùng cho tiệc tùng hay thi đấu thể thao — khi đó dùng 举行/举办).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l12_w12", "order": 12, "textbook": "HSK 5 上", "lesson": 12,
+      "hanzi": "合作", "pinyin": "hézuò",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "hợp tác", "structure": "跟……合作 / 合作伙伴 / 合作精神", "explanation": "Cùng nhau phối hợp hành động để đạt mục tiêu chung.", "examples": [{ "chinese": "在北京召开的2013腾讯合作伙伴大会上。", "pinyin": "Zài Běijīng zhàokāi de èrlíngyīsān Téngxùn hézuò huǒbàn dàhuì shang.", "vietnamese": "Tại Đại hội đối tác hợp tác Tencent 2013 được tổ chức ở Bắc Kinh.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "互相配合做某事或共同完成某项任务。", "collocations": ["合作伙伴", "合作公司", "合作精神", "合作愉快"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l12_w13", "order": 13, "textbook": "HSK 5 上", "lesson": 12,
+      "hanzi": "伙伴", "pinyin": "huǒbàn",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "cộng sự, đối tác, bạn đồng hành", "structure": "合作伙伴 / 小伙伴 / 好伙伴", "explanation": "Người hoặc tổ chức cùng tham gia một hoạt động, công việc chung.", "examples": [{ "chinese": "在北京召开的2013腾讯合作伙伴大会上。", "pinyin": "Zài Běijīng zhàokāi de èrlíngyīsān Téngxùn hézuò huǒbàn dàhuì shang.", "vietnamese": "Tại Đại hội đối tác hợp tác Tencent 2013 tổ chức tại Bắc Kinh.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "共同参加某种组织或从事某种活动的人；同伴。", "collocations": ["合作伙伴", "小伙伴", "亲密伙伴"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l12_w14", "order": 14, "textbook": "HSK 5 上", "lesson": 12,
+      "hanzi": "总裁", "pinyin": "zǒngcái",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "chủ tịch, president, tổng giám đốc điều hành", "structure": "公司总裁 / 高级副总裁", "explanation": "Chức danh lãnh đạo cấp cao nhất quản lý tập đoàn, doanh nghiệp lớn.", "examples": [{ "chinese": "腾讯总裁刘炽平言语间充满了骄傲。", "pinyin": "Téngxùn zǒngcái Liú Chìpíng yányǔ jiān chōngmǎn le jiāo'ào.", "vietnamese": "Chủ tịch Tencent Lưu Sí Bình trong lời nói tràn đầy vẻ tự hào.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "大公司、企业集团的最高行政负责人。", "collocations": ["公司总裁", "副总裁", "集团总裁"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l12_w15", "order": 15, "textbook": "HSK 5 上", "lesson": 12,
+      "hanzi": "实现", "pinyin": "shíxiàn",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "thực hiện (ước mơ, mục tiêu, tính năng)", "structure": "实现 + 愿望 / 梦想 / 目标 / 支持", "explanation": "Biến điều mong muốn, kế hoạch hay khả năng trở thành sự thật.", "examples": [{ "chinese": "2011年12月，实现支持全球100个国家的短信注册。", "pinyin": "Èrlíngyīyī nián shí'èr yuè, shíxiàn zhīchí quánqiú yìbǎi ge guójiā de duǎnxìn zhùcè.", "vietnamese": "Tháng 12 năm 2011, thực hiện hỗ trợ đăng ký qua tin nhắn SMS tại 100 quốc gia trên toàn cầu.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "使成为事实。", "collocations": ["实现愿望", "实现梦想", "实现目标"], "usage_note": "Phân biệt với 现实 (tr.114 Bài tập 2 câu 3): 实现 là động từ ('thực hiện'), còn 现实 là danh từ/tính từ ('hiện thực / thực tế').", "common_errors": "Dễ đảo ngược mặt chữ giữa 实现 và 现实!", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l12_w16", "order": 16, "textbook": "HSK 5 上", "lesson": 12, "is_out_of_syllabus": true,
+      "hanzi": "覆盖", "pinyin": "fùgài",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "bao trùm, phủ sóng", "structure": "覆盖 + 国家/地区/范围", "explanation": "Bao phủ kín bề mặt hoặc lan tỏa rộng khắp một phạm vi địa lý, mạng lưới.", "examples": [{ "chinese": "如今，微信已经覆盖了200多个国家和地区。", "pinyin": "Rújīn, Wēixìn yǐjīng fùgài le èrbǎi duō ge guójiā hé dìqū.", "vietnamese": "Ngày nay, WeChat đã bao phủ hơn 200 quốc gia và vùng lãnh thổ.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "遮盖；指信号、服务等范围遍及某区域。", "collocations": ["网络覆盖", "覆盖全球", "覆盖率"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l12_w17", "order": 17, "textbook": "HSK 5 上", "lesson": 12,
+      "hanzi": "移动", "pinyin": "yídòng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "di động, di chuyển", "structure": "移动通信 / 移动互联网 / 移动位置", "explanation": "Chuyển đổi vị trí; trong công nghệ dùng làm định ngữ chỉ thiết bị/mạng di động.", "examples": [{ "chinese": "是全球使用人数最多的移动通信应用。", "pinyin": "Shì quánqiú shǐyòng rénshù zuì duō de yídòng tōngxìn yìngyòng.", "vietnamese": "Là ứng dụng liên lạc di động có số người sử dụng đông nhất toàn cầu.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Nghĩa di chuyển vật lý)", "meanings": ["dịch chuyển, dời vị trí"], "structure": "移动桌子 / 慢慢移动", "difference_note": "Dùng trực tiếp làm vị ngữ chỉ việc dời chỗ của vật thể.", "examples": [{ "chinese": "这张桌子太重了，我一个人移动不了。", "pinyin": "Zhè zhāng zhuōzi tài zhòng le, wǒ yí ge rén yídòng buliǎo.", "vietnamese": "Cái bàn này nặng quá, một mình tôi không di chuyển nổi." }] }
+      ],
+      "chinese_explanation": "改变原来的位置；可随身携带、不固定地点的。", "collocations": ["移动互联网", "移动通信", "移动电话", "中国移动"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l12_w18", "order": 18, "textbook": "HSK 5 上", "lesson": 12, "is_out_of_syllabus": true,
+      "hanzi": "通信", "pinyin": "tōngxìn",
+      "lesson_usage": { "part_of_speech": "名词 / 动词 (Danh từ / Động từ)", "meanings": ["1. (Danh từ) sự thông tin, viễn thông", "2. (Động từ) liên lạc (qua thư từ, tín hiệu)"], "meaning": "sự thông tin; liên lạc", "structure": "移动通信 / 通信技术 / 跟朋友通信", "explanation": "Truyền tải thông tin giữa các nơi bằng kỹ thuật điện tử hoặc thư tín.", "examples": [{ "chinese": "是全球使用人数最多的移动通信应用。", "pinyin": "Shì quánqiú shǐyòng rénshù zuì duō de yídòng tōngxìn yìngyòng.", "vietnamese": "Là ứng dụng thông tin di động có số lượng người dùng lớn nhất toàn cầu.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "利用电波、光波等信号传送文字、图像等；互相写信联系。", "collocations": ["移动通信", "通信工具", "通信技术"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l12_w19", "order": 19, "textbook": "HSK 5 上", "lesson": 12,
+      "hanzi": "应用", "pinyin": "yìngyòng",
+      "lesson_usage": { "part_of_speech": "名词 / 动词 (Danh từ / Động từ)", "meanings": ["1. (Danh từ, tin học) trình ứng dụng (app)", "2. (Động từ) ứng dụng, áp dụng vào thực tiễn"], "meaning": "(tin học) trình ứng dụng; ứng dụng", "structure": "移动通信应用 / 普遍/大量(地)应用", "explanation": "Phần mềm ứng dụng trên điện thoại/máy tính; hoặc đem lý thuyết, kỹ thuật vận dụng vào thực tế.", "examples": [{ "chinese": "是全球使用人数最多的移动通信应用。", "pinyin": "Shì quánqiú shǐyòng rénshù zuì duō de yídòng tōngxìn yìngyòng.", "vietnamese": "Là ứng dụng liên lạc di động có nhiều người sử dụng nhất toàn cầu.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "使用、运用（多指技术、理论等）；指应用软件。", "collocations": ["手机应用", "普遍应用", "大量应用", "实际应用"], "usage_note": "Phân biệt với 使用 (tr.114 Bài tập 2 câu 2): 使用 dùng cho vật dụng cụ thể hàng ngày (使用筷子/使用电脑); 应用 dùng cho kỹ thuật, lý thuyết, kiến thức hoặc làm danh từ 'app'.", "common_errors": "Sai: '学会应用筷子' → Đúng: '学会使用筷子'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l12_w20", "order": 20, "textbook": "HSK 5 上", "lesson": 12,
+      "hanzi": "企业", "pinyin": "qǐyè",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "xí nghiệp, công ty, doanh nghiệp", "structure": "一家企业 / 互联网企业 / 企业家", "explanation": "Đơn vị kinh tế tiến hành sản xuất, kinh doanh dịch vụ độc lập.", "examples": [{ "chinese": "在美国互联网企业“称霸”全球的背景下，作为中国自己的移动互联网产品，微信的出现，自然吸引了更多的关注。", "pinyin": "Zài Měiguó hùliánwǎng qǐyè “chēngbà” quánqiú de bèijǐng xià, zuòwéi Zhōngguó zìjǐ de yídòng hùliánwǎng chǎnpǐn, Wēixìn de chūxiàn, zìrán xīyǐn le gèng duō de guānzhù.", "vietnamese": "Trong bối cảnh các doanh nghiệp Internet Mỹ “xưng bá” toàn cầu, với tư cách sản phẩm Internet di động của chính Trung Quốc, sự xuất hiện của WeChat đương nhiên thu hút nhiều sự chú ý hơn.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "从事生产、运输、贸易等经济活动的独立经营单位。", "collocations": ["一家企业", "互联网企业", "企业文化", "企业家"], "usage_note": "Lượng từ chuẩn: 一家企业.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l12_w21", "order": 21, "textbook": "HSK 5 上", "lesson": 12, "is_out_of_syllabus": true,
+      "hanzi": "称霸", "pinyin": "chēngbà",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "xưng bá, thống trị", "structure": "称霸全球 / 称霸市场", "explanation": "Chiếm vị thế áp đảo, đứng đầu tuyệt đối trong một lĩnh vực hay khu vực.", "examples": [{ "chinese": "在美国互联网企业“称霸”全球的背景下……", "pinyin": "Zài Měiguó hùliánwǎng qǐyè “chēngbà” quánqiú de bèijǐng xià……", "vietnamese": "Trong bối cảnh các doanh nghiệp Internet Mỹ “thống trị” toàn cầu...", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "凭借实力占据统治或领先的霸主地位。", "collocations": ["称霸全球", "称霸世界"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l12_w22", "order": 22, "textbook": "HSK 5 上", "lesson": 12,
+      "hanzi": "背景", "pinyin": "bèijǐng",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "bối cảnh", "structure": "在……的背景下 / 历史背景 / 文化背景", "explanation": "Hoàn cảnh lịch sử, xã hội, tình thế làm nền cho sự việc diễn ra; hoặc phông nền phía sau.", "examples": [{ "chinese": "在美国互联网企业“称霸”全球的背景下，微信的出现自然吸引了更多的关注。", "pinyin": "Zài Měiguó hùliánwǎng qǐyè “chēngbà” quánqiú de bèijǐng xià, Wēixìn de chūxiàn zìrán xīyǐn le gèng duō de guānzhù.", "vietnamese": "Trong bối cảnh các doanh nghiệp Internet Mỹ “xưng bá” toàn cầu, sự xuất hiện của WeChat tự nhiên thu hút nhiều sự quan tâm hơn.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "对人物、事件起作用的历史情况或现实环境；图画、舞台等后面的景物。", "collocations": ["在……背景下", "文化背景", "背景音乐", "家庭背景"], "usage_note": "Cấu trúc cực kỳ quen thuộc trong bài tập vị trí (tr.114 Bài tập 3 câu 1): 在什么样的背景下.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l12_w23", "order": 23, "textbook": "HSK 5 上", "lesson": 12,
+      "hanzi": "高级", "pinyin": "gāojí",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "cao cấp", "structure": "高级副总裁 / 高级餐厅 / 高级汉语", "explanation": "Thuộc trình độ, đẳng cấp, chức vụ hoặc chất lượng ở mức cao.", "examples": [{ "chinese": "被称为“微信之父”的腾讯公司高级副总裁张小龙介绍了微信的发展过程。", "pinyin": "Bèi chēngwéi “Wēixìn zhī fù” de Téngxùn gōngsī gāojí fùzǒngcái Zhāng Xiǎolóng jièshào le Wēixìn de fāzhǎn guòchéng.", "vietnamese": "Phó Chủ tịch cấp cao công ty Tencent Trương Tiểu Long, người được mệnh danh là “cha đẻ của WeChat”, đã giới thiệu quá trình phát triển của WeChat.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "（阶段、质量、水平、职务等）达到较高标准的。", "collocations": ["高级副总裁", "高级酒店", "高级班"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l12_w24", "order": 24, "textbook": "HSK 5 上", "lesson": 12, "is_out_of_syllabus": true,
+      "hanzi": "副", "pinyin": "fù",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "phó, phụ", "structure": "副总裁 / 副经理 / 副校长 / 副作用", "explanation": "Cấp phó đứng thứ hai sau cấp trưởng (正), hoặc mang tính phụ trợ.", "examples": [{ "chinese": "腾讯公司高级副总裁张小龙介绍了微信的发展过程。", "pinyin": "Téngxùn gōngsī gāojí fùzǒngcái Zhāng Xiǎolóng jièshào le Wēixìn de fāzhǎn guòchéng.", "vietnamese": "Phó Chủ tịch cấp cao công ty Tencent Trương Tiểu Long giới thiệu quá trình phát triển của WeChat.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "量词 (Lượng từ)", "meanings": ["cặp, đôi, bộ (kính, găng tay, câu đối, bài...)"], "structure": "一副眼镜 / 一副手套 / 一副好心肠", "difference_note": "Làm lượng từ cho đồ vật đi thành cặp/bộ hoặc nét mặt/tấm lòng.", "examples": [{ "chinese": "他戴着一副黑框眼镜。", "pinyin": "Tā dàizhe yí fù hēikuàng yǎnjìng.", "vietnamese": "Anh ấy đeo một cặp kính gọng đen." }] }
+      ],
+      "chinese_explanation": "第二位的、辅助的（跟“正”相对）；量词，用于成套的物品或面部表情。", "collocations": ["副总裁", "副校长", "副作用", "一副眼镜"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l12_w25", "order": 25, "textbook": "HSK 5 上", "lesson": 12,
+      "hanzi": "开发", "pinyin": "kāifā",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "khai thác, phát triển (sản phẩm, phần mềm, tài nguyên)", "structure": "研究开发 / 开发出(来) / 开发成功", "explanation": "Nghiên cứu chế tạo sản phẩm/công nghệ mới hoặc khai phá tài nguyên thiên nhiên.", "examples": [{ "chinese": "微信的研究开发工作开展得很早。", "pinyin": "Wēixìn de yánjiū kāifā gōngzuò kāizhǎn de hěn zǎo.", "vietnamese": "Công tác nghiên cứu và phát triển WeChat được triển khai từ rất sớm.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "发掘、利用自然资源；研制新产品、新技术。", "collocations": ["开发出", "开发成功", "研发中心", "开发新产品"], "usage_note": "Viết tắt phổ biến của 研究开发 là 研发 (yánfā).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l12_w26", "order": 26, "textbook": "HSK 5 上", "lesson": 12,
+      "hanzi": "中心", "pinyin": "zhōngxīn",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "trung tâm", "structure": "研发中心 / 城市/政治/经济/工作 + 中心", "explanation": "Vị trí ở giữa hoặc cơ quan, khu vực giữ vai trò chủ chốt.", "examples": [{ "chinese": "2010年底，移动互联网刚起步，腾讯广州产品研发中心就开始考虑相关业务。", "pinyin": "Èrlíngyīlíng niándǐ, yídòng hùliánwǎng gāng qǐbù, Téngxùn Guǎngzhōu chǎnpǐn yánfā zhōngxīn jiù kāishǐ kǎolǜ xiāngguān yèwù.", "vietnamese": "Cuối năm 2010, khi Internet di động vừa mới khởi bước, Trung tâm Nghiên cứu & Phát triển sản phẩm Quảng Châu của Tencent đã bắt đầu tính đến các nghiệp vụ liên quan.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "跟四周距离相等的位置；事物的主要部分；从事某项工作的机构。", "collocations": ["市中心", "研发中心", "经济中心", "购物中心"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l12_w27", "order": 27, "textbook": "HSK 5 上", "lesson": 12,
+      "hanzi": "相关", "pinyin": "xiāngguān",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "liên quan, tương quan", "structure": "相关业务 / 相关部门 / 与……相关", "explanation": "Có mối liên hệ mật thiết qua lại với nhau.", "examples": [{ "chinese": "腾讯广州产品研发中心就开始考虑相关业务。", "pinyin": "Téngxùn Guǎngzhōu chǎnpǐn yánfā zhōngxīn jiù kāishǐ kǎolǜ xiāngguān yèwù.", "vietnamese": "Trung tâm R&D sản phẩm Quảng Châu của Tencent liền bắt đầu cân nhắc các mảng nghiệp vụ liên quan.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "彼此关连，互相有联系。", "collocations": ["相关业务", "相关信息", "密切相关"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l12_w28", "order": 28, "textbook": "HSK 5 上", "lesson": 12,
+      "hanzi": "业务", "pinyin": "yèwù",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "nghiệp vụ, mảng kinh doanh", "structure": "一笔/项业务 / 相关业务 / 开展业务", "explanation": "Công việc chuyên môn hoặc giao dịch kinh doanh của một ngành, công ty.", "examples": [{ "chinese": "腾讯广州产品研发中心就开始考虑相关业务。", "pinyin": "Téngxùn Guǎngzhōu chǎnpǐn yánfā zhōngxīn jiù kāishǐ kǎolǜ xiāngguān yèwù.", "vietnamese": "Trung tâm R&D sản phẩm Quảng Châu của Tencent bắt đầu xem xét các nghiệp vụ liên quan.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "个人或机构的专业工作或商业交易。", "collocations": ["一笔业务", "一项业务", "业务能力", "办理业务"], "usage_note": "Lượng từ hay dùng: 一笔业务 / 一项业务.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l12_w29", "order": 29, "textbook": "HSK 5 上", "lesson": 12,
+      "hanzi": "现实", "pinyin": "xiànshí",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "hiện thực, thực tế", "structure": "面对现实 / 认识到这样的现实 / 现实生活", "explanation": "Sự vật, hoàn cảnh đang tồn tại khách quan trước mắt.", "examples": [{ "chinese": "他们清楚地认识到了这样的现实——在个人计算机时代，由于中国互联网的用户数量以及市场成熟程度等都低于发达国家……", "pinyin": "Tāmen qīngchu de rènshidào le zhèyàng de xiànshí—— zài gèrén jìsuànjī shídài, yóuyú Zhōngguó hùliánwǎng de yònghù shùliàng yǐjí shìchǎng chéngshú chéngdù děng dōu dīyú fādá guójiā……", "vietnamese": "Họ nhận thức rõ một thực tế là — trong kỷ nguyên máy tính cá nhân, do số người dùng Internet Trung Quốc cũng như mức độ trưởng thành của thị trường đều thấp hơn các nước phát triển...", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "形容词 (Tính từ)", "meanings": ["thực tế, thiết thực, thực dụng"], "structure": "很现实 / 不太现实", "difference_note": "Chỉ tính khả thi phù hợp thực tế hoặc thái độ thực tế của con người.", "examples": [{ "chinese": "这个想法听起来不错，但目前还不太现实。", "pinyin": "Zhège xiǎngfǎ tīng qilai búcuò, dàn mùqián hái bú tài xiànshí.", "vietnamese": "Ý tưởng này nghe khá ổn nhưng hiện tại vẫn chưa thực tế lắm." }] }
+      ],
+      "chinese_explanation": "客观存在的事物；合乎客观情况的。", "collocations": ["面对现实", "现实生活", "不太现实"], "usage_note": "Phân biệt với 实现 (động từ 'thực hiện').", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l12_w30", "order": 30, "textbook": "HSK 5 上", "lesson": 12,
+      "hanzi": "个人", "pinyin": "gèrén",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "cá nhân", "structure": "个人计算机 / 个人爱好 / 个人意见", "explanation": "Một con người riêng lẻ (đối lập với tập thể 集体 hoặc xã hội).", "examples": [{ "chinese": "在个人计算机时代，由于中国互联网的用户数量以及市场成熟程度等都低于发达国家……", "pinyin": "Zài gèrén jìsuànjī shídài, yóuyú Zhōngguó hùliánwǎng de yònghù shùliàng yǐjí shìchǎng chéngshú chéngdù děng dōu dīyú fādá guójiā……", "vietnamese": "Trong kỷ nguyên máy tính cá nhân, do số lượng người dùng Internet Trung Quốc và độ chín muồi của thị trường đều thấp hơn các nước phát triển...", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "单个人（跟“集体”相对）。", "collocations": ["个人爱好", "个人计算机", "个人简历", "个人看法"], "usage_note": "Phân biệt với 自己 (tr.114 Bài tập 2 câu 4): 个人 thường làm định ngữ trực tiếp không cần 的 trước danh từ (个人爱好/个人意见), còn 自己 là đại từ phản thân (我自己的爱好).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l12_w31", "order": 31, "textbook": "HSK 5 上", "lesson": 12,
+      "hanzi": "以及", "pinyin": "yǐjí",
+      "lesson_usage": { "part_of_speech": "连词 (Liên từ)", "meaning": "và, cũng như", "structure": "A、B 以及 C", "explanation": "Liên từ văn viết nối các từ hoặc cụm từ đẳng lập, thường đặt trước thành phần cuối cùng (có phân biệt chính-phụ hoặc trước-sau).", "examples": [{ "chinese": "由于中国互联网的用户数量以及市场成熟程度等都低于发达国家……", "pinyin": "Yóuyú Zhōngguó hùliánwǎng de yònghù shùliàng yǐjí shìchǎng chéngshú chéngdù děng dōu dīyú fādá guójiā……", "vietnamese": "Do số lượng người dùng Internet Trung Quốc cũng như mức độ trưởng thành của thị trường đều thấp hơn các nước phát triển...", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "连接并列的词、词组或短句，多用于书面语。", "collocations": ["……以及……", "以及其他"], "usage_note": "Xem Chú thích 1 tr.111: khi liệt kê từ 3 mục trở lên, 以及 đặt ngay trước mục cuối cùng.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l12_w32", "order": 32, "textbook": "HSK 5 上", "lesson": 12,
+      "hanzi": "程度", "pinyin": "chéngdù",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "trình độ, mức độ", "structure": "市场成熟程度 / 到……的程度 / 在很大程度上", "explanation": "Trình độ hoặc mức độ đạt được ở một khía cạnh nào đó.", "examples": [{ "chinese": "由于中国互联网的用户数量以及市场成熟程度等都低于发达国家……", "pinyin": "Yóuyú Zhōngguó hùliánwǎng de yònghù shùliàng yǐjí shìchǎng chéngshú chéngdù děng dōu dīyú fādá guójiā……", "vietnamese": "Do lượng người dùng Internet Trung Quốc và mức độ trưởng thành của thị trường đều thấp hơn các nước phát triển...", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "事物变化达到的状况或某方面达到的水平。", "collocations": ["成熟程度", "在很大程度上", "文化程度", "严重程度"], "usage_note": "Xem Chú thích 2 tr.112 với hai cụm khung hay dùng: '到……的程度' và '在很大程度上'.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l12_w33", "order": 33, "textbook": "HSK 5 上", "lesson": 12,
+      "hanzi": "发达", "pinyin": "fādá",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "phát triển (ở trình độ cao)", "structure": "发达国家 / 经济发达 / 大脑很发达", "explanation": "Miêu tả trình độ phát triển đã đạt mức rất cao, đầy đủ, hoàn thiện.", "examples": [{ "chinese": "由于中国互联网的用户数量以及市场成熟程度等都低于发达国家，在产品创新上难有领导地位。", "pinyin": "Yóuyú Zhōngguó hùliánwǎng de yònghù shùliàng yǐjí shìchǎng chéngshú chéngdù děng dōu dīyú fādá guójiā, zài chǎnpǐn chuàngxīn shang nán yǒu lǐngdǎo dìwèi.", "vietnamese": "Do lượng người dùng và mức độ chín muồi của thị trường đều thấp hơn các nước phát triển, nên khó có vị thế dẫn đầu trong đổi mới sản phẩm.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "（事物）已有充分发展；（事业）兴盛。", "collocations": ["发达国家", "经济发达", "交通发达", "大脑发达"], "usage_note": "Xem bảng 词语辨析: 发达—发展 (tr.113): 发达 là TÍNH TỪ (kết quả ở mức cao), 发展 là ĐỘNG TỪ (quá trình biến đổi).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l12_w34", "order": 34, "textbook": "HSK 5 上", "lesson": 12, "is_out_of_syllabus": true,
+      "hanzi": "创新", "pinyin": "chuàngxīn",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "sáng tạo cái mới, đổi mới", "structure": "产品创新 / 不断创新 / 创新能力", "explanation": "Bỏ lối mòn cũ để tạo ra phương pháp, sản phẩm hay ý tưởng mới.", "examples": [{ "chinese": "在产品创新上难有领导地位。", "pinyin": "Zài chǎnpǐn chuàngxīn shang nán yǒu lǐngdǎo dìwèi.", "vietnamese": "Khó có được vị thế dẫn đầu trong đổi mới sản phẩm.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["sự đổi mới sáng tạo"], "structure": "科技创新 / 产品的创新", "difference_note": "Dùng như danh từ trừu tượng chỉ thành quả sáng tạo.", "examples": [{ "chinese": "创新是企业持续发展的动力。", "pinyin": "Chuàngxīn shì qǐyè chíxù fāzhǎn de dònglì.", "vietnamese": "Đổi mới sáng tạo là động lực để doanh nghiệp phát triển bền vững." }] }
+      ],
+      "chinese_explanation": "抛开旧的，创造新的。", "collocations": ["产品创新", "技术创新", "创新精神"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l12_w35", "order": 35, "textbook": "HSK 5 上", "lesson": 12,
+      "hanzi": "领导", "pinyin": "lǐngdǎo",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "lãnh đạo (người hoặc vai trò dẫn đầu)", "structure": "领导地位 / 公司领导 / 学校的领导", "explanation": "Người đứng đầu quản lý hoặc vị thế dẫn dắt.", "examples": [{ "chinese": "在产品创新上难有领导地位。", "pinyin": "Zài chǎnpǐn chuàngxīn shang nán yǒu lǐngdǎo dìwèi.", "vietnamese": "Trong đổi mới sản phẩm khó mà có vị thế dẫn đầu.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ)", "meanings": ["lãnh đạo, dẫn dắt"], "structure": "领导 + 团队 / 部门 / 大家", "difference_note": "Làm động từ vị ngữ mang tân ngữ chỉ tổ chức/con người được dẫn dắt.", "examples": [{ "chinese": "他领导着一个三十人的研发团队。", "pinyin": "Tā lǐngdǎozhe yí ge sānshí rén de yánfā tuánduì.", "vietnamese": "Anh ấy đang lãnh đạo một đội ngũ nghiên cứu phát triển gồm ba mươi người." }] }
+      ],
+      "chinese_explanation": "担任领导职务的人；率领并引导朝一定方向前进。", "collocations": ["领导地位", "公司领导", "领导能力"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l12_w36", "order": 36, "textbook": "HSK 5 上", "lesson": 12,
+      "hanzi": "地位", "pinyin": "dìwèi",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "địa vị, vị trí", "structure": "领导地位 / 社会地位 / 重要地位", "explanation": "Vị trí, thứ hạng và tầm ảnh hưởng của người, tổ chức hoặc quốc gia.", "examples": [{ "chinese": "在产品创新上难有领导地位。", "pinyin": "Zài chǎnpǐn chuàngxīn shang nán yǒu lǐngdǎo dìwèi.", "vietnamese": "Khó có vị thế lãnh đạo trong sáng tạo sản phẩm.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "人或团体在社会关系中所处的位置；事物所占的重要位置。", "collocations": ["领导地位", "社会地位", "提高地位", "国际地位"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l12_w37", "order": 37, "textbook": "HSK 5 上", "lesson": 12,
+      "hanzi": "经营", "pinyin": "jīngyíng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "kinh doanh", "structure": "经营销售 / 经营公司 / 经营一家餐厅", "explanation": "Tổ chức, quản lý và vận hành hoạt động thương mại, sản xuất.", "examples": [{ "chinese": "在经营销售上，微信针对不同的国家和地区，推出了不同的广告片。", "pinyin": "Zài jīngyíng xiāoshòu shang, Wēixìn zhēnduì bùtóng de guójiā hé dìqū, tuīchū le bùtóng de guǎnggàopiàn.", "vietnamese": "Về mặt kinh doanh và tiêu thụ, WeChat nhắm vào các quốc gia và khu vực khác nhau để tung ra các đoạn quảng cáo khác nhau.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "筹划并管理（企业、商业等）。", "collocations": ["经营销售", "经营管理", "合法经营"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l12_w38", "order": 38, "textbook": "HSK 5 上", "lesson": 12,
+      "hanzi": "销售", "pinyin": "xiāoshòu",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "tiêu thụ (hàng hóa), bán hàng", "structure": "销售 + 产品 / 销售得…… / 销售到……", "explanation": "Bán hàng hóa ra thị trường (mang tính thương mại, quy mô lớn hơn 卖).", "examples": [{ "chinese": "在经营销售上，微信针对不同的国家和地区，推出了不同的广告片。", "pinyin": "Zài jīngyíng xiāoshòu shang, Wēixìn zhēnduì bùtóng de guójiā hé dìqū, tuīchū le bùtóng de guǎnggàopiàn.", "vietnamese": "Trong kinh doanh tiêu thụ, WeChat tung ra các phim quảng cáo khác nhau nhằm vào từng quốc gia và khu vực.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "卖出（商品）。", "collocations": ["销售员", "销售额", "销售得很好", "销售到海外"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l12_w39", "order": 39, "textbook": "HSK 5 上", "lesson": 12,
+      "hanzi": "针对", "pinyin": "zhēnduì",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "nhằm vào, chĩa vào", "structure": "针对 + 不同的国家/这个问题，……", "explanation": "Hướng thẳng tới một đối tượng hoặc vấn đề cụ thể để áp dụng biện pháp tương ứng.", "examples": [{ "chinese": "微信针对不同的国家和地区，推出了不同的广告片。", "pinyin": "Wēixìn zhēnduì bùtóng de guójiā hé dìqū, tuīchū le bùtóng de guǎnggàopiàn.", "vietnamese": "WeChat nhắm vào các quốc gia và vùng lãnh thổ khác nhau mà tung ra các đoạn quảng cáo khác nhau.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "介词 (Giới từ)", "meanings": ["đối với, nhắm vào (dẫn nhập đối tượng ở đầu câu)"], "structure": "针对 + 某问题，S + V", "difference_note": "Rất hay đặt ở ĐẦU CÂU như giới từ dẫn đối tượng (xem Bài tập 3 câu 4 tr.114).", "examples": [{ "chinese": "针对这个问题，我们开会讨论了好几次。", "pinyin": "Zhēnduì zhège wèntí, wǒmen kāihuì tǎolùn le hǎo jǐ cì.", "vietnamese": "Đối với vấn đề này, chúng tôi đã họp thảo luận mấy lần rồi." }] }
+      ],
+      "chinese_explanation": "对准某个特定对象或问题采取措施。", "collocations": ["针对这个问题", "针对不同客户", "有针对性"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l12_w40", "order": 40, "textbook": "HSK 5 上", "lesson": 12,
+      "hanzi": "当地", "pinyin": "dāngdì",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "bản địa, bản xứ, địa phương đó", "structure": "当地明星 / 当地人 / 当地政府", "explanation": "Nơi đang được nói đến trong ngữ cảnh (khác với 本地 là nơi bản thân người nói đang ở).", "examples": [{ "chinese": "邀请当地明星和名人代言，收效相当不错。", "pinyin": "Yāoqǐng dāngdì míngxīng hé míngrén dàiyán, shōuxiào xiāngdāng búcuò.", "vietnamese": "Mời ngôi sao và người nổi tiếng bản địa làm đại diện, hiệu quả thu được khá tốt.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "就在（所说事情发生的）那个地方。", "collocations": ["当地人", "当地明星", "当地文化", "当地政府"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l12_w41", "order": 41, "textbook": "HSK 5 上", "lesson": 12, "is_out_of_syllabus": true,
+      "hanzi": "代言", "pinyin": "dàiyán",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "phát ngôn, làm gương mặt đại diện", "structure": "请明星代言 / 品牌代言人", "explanation": "Đại diện quảng bá hình ảnh, lên tiếng thay cho một thương hiệu hay tổ chức.", "examples": [{ "chinese": "邀请当地明星和名人代言，收效相当不错。", "pinyin": "Yāoqǐng dāngdì míngxīng hé míngrén dàiyán, shōuxiào xiāngdāng búcuò.", "vietnamese": "Mời ngôi sao và người nổi tiếng địa phương làm gương mặt đại diện, hiệu quả rất khả quan.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "代表某方面发表言论；在广告中代表品牌或产品进行宣传。", "collocations": ["明星代言", "代言人", "产品代言"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l12_w42", "order": 42, "textbook": "HSK 5 上", "lesson": 12,
+      "hanzi": "华裔", "pinyin": "huáyì",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "người gốc Hoa", "structure": "海外华裔 / 美籍华裔", "explanation": "Người mang dòng máu Trung Hoa sinh sống và mang quốc tịch nước ngoài.", "examples": [{ "chinese": "海外用户群中不仅有华裔和新移民，还出现了更多的外国人。", "pinyin": "Hǎiwài yònghùqún zhōng bùjǐn yǒu huáyì hé xīn yímín, hái chūxiàn le gèng duō de wàiguórén.", "vietnamese": "Trong nhóm người dùng ở nước ngoài không chỉ có người gốc Hoa và người nhập cư mới, mà còn xuất hiện ngày càng nhiều người nước ngoài.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "华侨在侨居国所生并取得侨居国国籍的子女及其后代。", "collocations": ["海外华裔", "华裔科学家"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l12_w43", "order": 43, "textbook": "HSK 5 上", "lesson": 12,
+      "hanzi": "移民", "pinyin": "yímín",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "dân di cư, người nhập cư", "structure": "新移民 / 海外移民", "explanation": "Người chuyển từ nơi cũ sang sinh sống định cư ở vùng đất hoặc quốc gia khác.", "examples": [{ "chinese": "海外用户群中不仅有华裔和新移民，还出现了更多的外国人。", "pinyin": "Hǎiwài yònghùqún zhōng bùjǐn yǒu huáyì hé xīn yímín, hái chūxiàn le gèng duō de wàiguórén.", "vietnamese": "Trong nhóm người dùng ở nước ngoài không chỉ có người gốc Hoa và dân nhập cư mới mà còn có thêm nhiều người nước ngoài hơn.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ)", "meanings": ["di cư, định cư sang nơi khác"], "structure": "移民到 + 国家", "difference_note": "Làm động từ vị ngữ chỉ hành động chuyển ra nước ngoài định cư.", "examples": [{ "chinese": "他们一家五年前移民到了澳大利亚。", "pinyin": "Tāmen yì jiā wǔ nián qián yímín dào le Àodàlìyà.", "vietnamese": "Gia đình họ đã di cư sang Úc từ năm năm trước." }] }
+      ],
+      "chinese_explanation": "迁往国外或外地定居的人；迁往别处定居。", "collocations": ["新移民", "移民国家", "移民到……"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    }
+  ],
+  "proper_nouns": [
+    { "hanzi": "微信", "pinyin": "Wēixìn", "meaning": "WeChat (tên ứng dụng)" },
+    { "hanzi": "梅西", "pinyin": "Méixī", "meaning": "Lionel Messi" },
+    { "hanzi": "腾讯", "pinyin": "Téngxùn", "meaning": "Tencent (tên công ty)" },
+    { "hanzi": "刘炽平", "pinyin": "Liú Chìpíng", "meaning": "Lưu Sí Bình (chủ tịch Tencent)" },
+    { "hanzi": "张小龙", "pinyin": "Zhāng Xiǎolóng", "meaning": "Trương Tiểu Long (phó chủ tịch Tencent)" }
+  ],
+  "collocations_table": [
+    { "relation": "Động từ + Tân ngữ", "head": "推广", "partners": "汉语普通话 / 新技术 / 产品 / 经验" },
+    { "relation": "Động từ + Tân ngữ", "head": "注册", "partners": "公司 / 邮箱 / 会员" },
+    { "relation": "Định ngữ + Trung tâm ngữ", "head": "合作", "partners": "伙伴 / 公司 / 精神" },
+    { "relation": "Định ngữ + Trung tâm ngữ", "head": "中心", "partners": "城市 / 政治 / 经济 / 工作 / 研发" },
+    { "relation": "Trạng ngữ + Trung tâm ngữ", "head": "召开", "partners": "按时 / 顺利 / 成功（地）" },
+    { "relation": "Trạng ngữ + Trung tâm ngữ", "head": "应用", "partners": "普遍 / 大量（地）" },
+    { "relation": "Trung tâm ngữ + Bổ ngữ", "head": "开发", "partners": "出（来）/ 成功" },
+    { "relation": "Trung tâm ngữ + Bổ ngữ", "head": "销售", "partners": "得…… / 到……" },
+    { "relation": "Số lượng từ + Danh từ", "head": "一家", "partners": "企业" },
+    { "relation": "Số lượng từ + Danh từ", "head": "一笔 / 项", "partners": "业务" }
+  ],
+  "grammar": [
+    {
+      "title": "以及",
+      "formula": "A、B 以及 C  (nối các từ/cụm từ đẳng lập, có phân biệt chính-phụ hoặc trước-sau)",
+      "meaning": "Và, cũng như (liên từ thiên về văn viết).",
+      "usage": "Dùng để liên kết các từ hoặc cụm từ có quan hệ đẳng lập. Các thành phần được nối thường sắp xếp theo thứ tự chính trước – phụ sau, hoặc quan trọng trước – bổ sung sau.",
+      "context": "Dùng nhiều trong văn viết, báo chí, báo cáo và liệt kê danh mục (đặt trước mục cuối cùng).",
+      "examples": [
+        { "chinese": "吃饭时不要用筷子敲打碗、盘子以及桌面。", "pinyin": "Chīfàn shí búyào yòng kuàizi qiāodǎ wǎn, pánzi yǐjí zhuōmiàn.", "vietnamese": "Lúc ăn cơm đừng dùng đũa gõ vào bát, đĩa cũng như mặt bàn." },
+        { "chinese": "学校的领导、教师以及一些学生代表观看了演出。", "pinyin": "Xuéxiào de lǐngdǎo, jiàoshī yǐjí yìxiē xuésheng dàibiǎo guānkàn le yǎnchū.", "vietnamese": "Lãnh đạo nhà trường, giáo viên cùng một số đại diện học sinh đã xem buổi biểu diễn." },
+        { "chinese": "……由于中国互联网的用户数量以及市场成熟程度等都低于发达国家，在产品创新上难有领导地位，……", "pinyin": "……Yóuyú Zhōngguó hùliánwǎng de yònghù shùliàng yǐjí shìchǎng chéngshú chéngdù děng dōu dīyú fādá guójiā, zài chǎnpǐn chuàngxīn shang nán yǒu lǐngdǎo dìwèi, ……", "vietnamese": "Do số lượng người dùng Internet Trung Quốc cũng như mức độ trưởng thành của thị trường đều thấp hơn các nước phát triển, nên khó giữ vị thế dẫn đầu về đổi mới sản phẩm..." }
+      ],
+      "important_notes": "Khi liệt kê nhiều mục (A、B、C 以及 D), 以及 luôn đặt trước mục cuối cùng (xem Bài tập 3 câu 3 tr.114: 电视、冰箱、洗衣机以及其他电器).",
+      "common_errors": "",
+      "comparison": "Khác với 和: 和 thường nối các thành phần hoàn toàn ngang hàng nhau; 以及 mang sắc thái văn viết hơn, hay nối cụm từ dài và thường phân định chính-phụ/trước-sau.",
+      "mini_practice": [{ "prompt": "妈妈在电话里问了我很多问题，如北京的天气怎么样，吃饭习惯不习惯，______________________。（以及）", "sample_answer": "以及学习累不累等", "explanation": "Dùng 以及 nối mục cuối cùng trong chuỗi liệt kê." }]
+    },
+    {
+      "title": "程度",
+      "formula": "(1) ……的程度  |  (2) 到(了)……的程度  |  (3) 在很大程度上",
+      "meaning": "Trình độ, mức độ (đạt đến ở một phương diện nào đó).",
+      "usage": "Danh từ chỉ trình độ hoặc cấp độ đạt được của sự vật, hiện tượng. Rất thường đi trong hai khung cố định: '发展到了……的程度' (phát triển tới mức độ...) và '在很大程度上' (ở mức độ rất lớn).",
+      "context": "Rất phổ biến trong văn nghị luận, phân tích và đọc hiểu HSK 5.",
+      "examples": [
+        { "chinese": "……由于中国互联网的用户数量以及市场成熟程度等都低于发达国家，在产品创新上难有领导地位，……", "pinyin": "……Yóuyú Zhōngguó hùliánwǎng de yònghù shùliàng yǐjí shìchǎng chéngshú chéngdù děng dōu dīyú fādá guójiā, zài chǎnpǐn chuàngxīn shang nán yǒu lǐngdǎo dìwèi, ……", "vietnamese": "Do số lượng người dùng Internet Trung Quốc cũng như mức độ trưởng thành của thị trường đều thấp hơn các nước phát triển..." },
+        { "chinese": "问题已经发展到了十分严重的程度。", "pinyin": "Wèntí yǐjīng fāzhǎn dào le shífēn yánzhòng de chéngdù.", "vietnamese": "Vấn đề đã phát triển đến mức độ vô cùng nghiêm trọng." },
+        { "chinese": "在很大程度上，一个人的未来取决于他所受的教育。", "pinyin": "Zài hěn dà chéngdù shang, yí ge rén de wèilái qǔjuéyú tā suǒ shòu de jiàoyù.", "vietnamese": "Ở một mức độ rất lớn, tương lai của một người phụ thuộc vào nền giáo dục mà họ được tiếp nhận." }
+      ],
+      "important_notes": "Ghi nhớ cụm trạng ngữ mở đầu cực hay cho viết đoạn HSK 5: 在很大程度上 (ở mức độ lớn), 在一定程度上 (ở một mức độ nhất định).",
+      "common_errors": "",
+      "comparison": "",
+      "mini_practice": [{ "prompt": "______________________，你应该马上去看医生。（程度）", "sample_answer": "你的病已经发展到这么严重的程度了", "explanation": "Dùng cấu trúc '发展到……的程度'." }]
+    }
+  ],
+  "comparison_section": {
+    "label": "词语辨析 Phân biệt từ ngữ",
+    "pair": "发达 — 发展",
+    "term_a": "发达 (fādá)",
+    "term_b": "发展 (fāzhǎn)",
+    "similarity": "Ý nghĩa có liên quan mật thiết với nhau (cùng liên quan đến sự phát triển), nhưng thông thường KHÔNG thể thay thế cho nhau.",
+    "differences": [
+      { "criterion": "Từ loại", "a": "Là TÍNH TỪ (受 很/最/不太 tu sức: 这个城市的经济不太发达。).", "b": "Là ĐỘNG TỪ (có thể mang tân ngữ trực tiếp: 这个城市正在大力发展经济。)." },
+      { "criterion": "Trọng tâm ngữ nghĩa", "a": "Miêu tả TRÌNH ĐỘ phát triển đã đạt rất cao (发达国家 = nước phát triển).", "b": "Chỉ QUÁ TRÌNH biến đổi từ nhỏ tới lớn, từ thấp tới cao (发展中国家 = nước đang phát triển; 病情发展得很快)." }
+    ]
+  },
+  "texts": [
+    {
+      "id": "t1", "title_zh": "海外用户玩儿微信（562字）", "title_vi": "Người dùng WeChat ở nước ngoài",
+      "lines": [
+        { "speaker": "", "chinese": "举着手机，边颠着球边拍……国际足球明星梅西用微信直播自己的颠球技术，把手机另一头一个正在哭的小宝贝逗笑。这条30秒的全新广告宣传片在全球15个国家和地区同步上线。", "pinyin": "Jǔzhe shǒujī, biān diānzhe qiú biān pāi…… Guójì zúqiú míngxīng Méixī yòng Wēixìn zhíbō zìjǐ de diān qiú jìshù, bǎ shǒujī lìng yì tóu yí ge zhèngzài kū de xiǎo bǎobèi dòuxiào. Zhè tiáo sānshí miǎo de quánxīn guǎnggào xuānchuánpiàn zài quánqiú shíwǔ ge guójiā hé dìqū tóngbù shàngxiàn.", "vietnamese": "Giơ điện thoại lên, vừa tâng bóng vừa quay... Ngôi sao bóng đá quốc tế Messi dùng WeChat phát trực tiếp kỹ thuật tâng bóng của mình, chọc cười một em bé đang khóc ở đầu bên kia điện thoại. Đoạn quảng cáo hoàn toàn mới dài 30 giây này đồng loạt lên sóng tại 15 quốc gia và vùng lãnh thổ trên toàn cầu." },
+        { "speaker": "", "chinese": "如此大手笔的推广，腾讯自有其底气所在。微信“在海外注册用户已经超过7000万，且在快速增长当中”。7月3日，在北京召开的2013腾讯合作伙伴大会上，腾讯总裁刘炽平言语间充满了骄傲。", "pinyin": "Rúcǐ dà shǒubǐ de tuīguǎng, Téngxùn zì yǒu qí dǐqì suǒzài. Wēixìn “zài hǎiwài zhùcè yònghù yǐjīng chāoguò qīqiānwàn, qiě zài kuàisù zēngzhǎng dāngzhōng”. Qī yuè sān rì, zài Běijīng zhàokāi de èrlíngyīsān Téngxùn hézuò huǒbàn dàhuì shang, Téngxùn zǒngcái Liú Chìpíng yányǔ jiān chōngmǎn le jiāo'ào.", "vietnamese": "Với chiến dịch quảng bá mạnh tay như vậy, Tencent ắt có chỗ dựa tự tin của mình. WeChat “đã vượt 70 triệu người dùng đăng ký ở nước ngoài và đang tăng trưởng nhanh chóng”. Ngày 3 tháng 7, tại Đại hội đối tác hợp tác Tencent 2013 tổ chức ở Bắc Kinh, Chủ tịch Tencent Lưu Sí Bình nói chuyện tràn đầy tự hào." },
+        { "speaker": "", "chinese": "2011年1月，微信上线；同年4月，以英文名WeChat正式进入国际市场；2011年12月，实现支持全球100个国家的短信注册；2012年底，覆盖国家和地区超过100个。如今，微信已经覆盖了200多个国家和地区、支持16种外语，是全球使用人数最多的移动通信应用。", "pinyin": "Èrlíngyīyī nián yī yuè, Wēixìn shàngxiàn; tóngnián sì yuè, yǐ Yīngwénmíng WeChat zhèngshì jìnrù guójì shìchǎng; èrlíngyīyī nián shí'èr yuè, shíxiàn zhīchí quánqiú yìbǎi ge guójiā de duǎnxìn zhùcè; èrlíngyī'èr niándǐ, fùgài guójiā hé dìqū chāoguò yìbǎi ge. Rújīn, Wēixìn yǐjīng fùgài le èrbǎi duō ge guójiā hé dìqū, zhīchí shíliù zhǒng wàiyǔ, shì quánqiú shǐyòng rénshù zuì duō de yídòng tōngxìn yìngyòng.", "vietnamese": "Tháng 1/2011, WeChat ra mắt; tháng 4 cùng năm, chính thức bước vào thị trường quốc tế dưới tên tiếng Anh WeChat; tháng 12/2011, hỗ trợ đăng ký qua tin nhắn SMS tại 100 quốc gia toàn cầu; cuối năm 2012, phủ sóng hơn 100 quốc gia và vùng lãnh thổ. Ngày nay, WeChat đã bao phủ hơn 200 quốc gia và khu vực, hỗ trợ 16 ngoại ngữ, là ứng dụng liên lạc di động có số người sử dụng đông nhất thế giới." },
+        { "speaker": "", "chinese": "在美国互联网企业“称霸”全球的背景下，作为中国自己的移动互联网产品，微信的出现，自然吸引了更多的关注。", "pinyin": "Zài Měiguó hùliánwǎng qǐyè “chēngbà” quánqiú de bèijǐng xià, zuòwéi Zhōngguó zìjǐ de yídòng hùliánwǎng chǎnpǐn, Wēixìn de chūxiàn, zìrán xīyǐn le gèng duō de guānzhù.", "vietnamese": "Trong bối cảnh các doanh nghiệp Internet Mỹ “xưng bá” toàn cầu, với tư cách sản phẩm Internet di động của chính Trung Quốc, sự xuất hiện của WeChat đương nhiên thu hút thêm rất nhiều sự quan tâm." },
+        { "speaker": "", "chinese": "被称为“微信之父”的腾讯公司高级副总裁张小龙介绍了微信的发展过程：微信的研究开发工作开展得很早，2010年底，移动互联网刚起步，腾讯广州产品研发中心就开始考虑相关业务。他们清楚地认识到了这样的现实——在个人计算机时代，由于中国互联网的用户数量以及市场成熟程度等都低于发达国家，在产品创新上难有领导地位，而移动互联网是一个重新开始的机会。", "pinyin": "Bèi chēngwéi “Wēixìn zhī fù” de Téngxùn gōngsī gāojí fùzǒngcái Zhāng Xiǎolóng jièshào le Wēixìn de fāzhǎn guòchéng: Wēixìn de yánjiū kāifā gōngzuò kāizhǎn de hěn zǎo, èrlíngyīlíng niándǐ, yídòng hùliánwǎng gāng qǐbù, Téngxùn Guǎngzhōu chǎnpǐn yánfā zhōngxīn jiù kāishǐ kǎolǜ xiāngguān yèwù. Tāmen qīngchu de rènshidào le zhèyàng de xiànshí—— zài gèrén jìsuànjī shídài, yóuyú Zhōngguó hùliánwǎng de yònghù shùliàng yǐjí shìchǎng chéngshú chéngdù děng dōu dīyú fādá guójiā, zài chǎnpǐn chuàngxīn shang nán yǒu lǐngdǎo dìwèi, ér yídòng hùliánwǎng shì yí ge chóngxīn kāishǐ de jīhuì.", "vietnamese": "Phó Chủ tịch cấp cao Tencent Trương Tiểu Long, được mệnh danh “cha đẻ của WeChat”, giới thiệu quá trình phát triển của WeChat: công việc nghiên cứu phát triển WeChat bắt đầu rất sớm; cuối năm 2010, khi Internet di động vừa chớm khởi bước, Trung tâm R&D sản phẩm Quảng Châu của Tencent đã tính đến mảng nghiệp vụ liên quan. Họ nhận rõ thực tế rằng trong thời đại máy tính cá nhân, do số lượng người dùng và độ chín thị trường Internet Trung Quốc đều thấp hơn các nước phát triển nên khó giữ vị thế dẫn đầu trong đổi mới sản phẩm, còn Internet di động là cơ hội để bắt đầu lại." },
+        { "speaker": "", "chinese": "在经营销售上，微信针对不同的国家和地区，推出了不同的广告片，邀请当地明星和名人代言，收效相当不错。海外用户群中不仅有华裔和新移民，还出现了更多的外国人。", "pinyin": "Zài jīngyíng xiāoshòu shang, Wēixìn zhēnduì bùtóng de guójiā hé dìqū, tuīchū le bùtóng de guǎnggàopiàn, yāoqǐng dāngdì míngxīng hé míngrén dàiyán, shōuxiào xiāngdāng búcuò. Hǎiwài yònghùqún zhōng bùjǐn yǒu huáyì hé xīn yímín, hái chūxiàn le gèng duō de wàiguórén.", "vietnamese": "Về mặt kinh doanh và tiêu thụ, WeChat đã nhắm vào từng quốc gia và khu vực khác nhau để ra mắt các phim quảng cáo riêng, mời ngôi sao và người nổi tiếng bản địa làm đại diện, thu về hiệu quả khá ấn tượng. Trong cộng đồng người dùng nước ngoài không chỉ có người gốc Hoa và người nhập cư mới, mà còn xuất hiện ngày càng nhiều người nước ngoài." }
+      ]
+    }
+  ],
+  "reading_questions": [
+    { "question_zh": "为什么腾讯广州研发中心很早就开始研究开发微信？", "question_vi": "Vì sao Trung tâm R&D Quảng Châu của Tencent lại bắt tay nghiên cứu phát triển WeChat từ rất sớm?", "answer_zh": "因为他们清楚地认识到，在个人计算机时代中国互联网的用户数量和市场成熟程度都低于发达国家，难有领导地位，而刚起步的移动互联网是一个重新开始的机会。", "answer_vi": "Vì họ nhận rõ rằng ở thời đại máy tính cá nhân, lượng người dùng và mức độ chín muồi của thị trường Internet Trung Quốc đều thua các nước phát triển nên khó dẫn đầu, còn Internet di động vừa khởi bước chính là cơ hội làm lại từ vạch xuất phát." },
+    { "question_zh": "微信在海外经营销售上采取了什么成功的策略？", "question_vi": "WeChat đã áp dụng chiến lược kinh doanh tiếp thị thành công nào ở thị trường nước ngoài?", "answer_zh": "针对不同的国家和地区推出不同的广告片，邀请当地明星和名人（如梅西）代言，不仅吸引了华裔和新移民，还吸引了更多外国人。", "answer_vi": "Tung ra các phim quảng cáo riêng phù hợp từng quốc gia và khu vực, mời ngôi sao và nhân vật nổi tiếng bản địa (như Messi) làm đại diện, thu hút không chỉ người gốc Hoa, dân nhập cư mới mà còn đông đảo người nước ngoài." }
+  ],
+  "exercises": [
+    {
+      "id": "h5s12_ex1", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.114 (练习1)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ điền vào chỗ trống: “原本定在周三上午______的会议改时间了。”",
+      "options": ["召开", "推广", "注册", "合作"],
+      "answer": "召开",
+      "explanation": "Cụm kết hợp chuẩn: 召开会议 (tổ chức/triệu tập cuộc họp).",
+      "review_tip": "Ôn bảng 词语搭配 của 召开 (按时/顺利/成功地召开)."
+    },
+    {
+      "id": "h5s12_ex2", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.113 (词语辨析 做一做)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn đáp án đúng: “人们常说这种动物不聪明，其实它的大脑很______。”",
+      "options": ["发达", "发展", "高级", "现实"],
+      "answer": "发达",
+      "explanation": "Đứng sau phó từ mức độ 很 làm vị ngữ miêu tả trình độ cao ('bộ não rất phát triển') → dùng tính từ 发达.",
+      "review_tip": "Ôn bảng 词语辨析: 发达—发展 tr.113."
+    },
+    {
+      "id": "h5s12_ex3", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.113 (词语辨析 做一做)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn đáp án đúng: “方便的交通是______经济的基础。”",
+      "options": ["发展", "发达", "开发", "实现"],
+      "answer": "发展",
+      "explanation": "Phía sau có tân ngữ 经济 → cần ĐỘNG TỪ 发展 ('phát triển kinh tế'), không dùng tính từ 发达.",
+      "review_tip": "发展 là động từ mang được tân ngữ (发展经济), 发达 là tính từ không mang tân ngữ."
+    },
+    {
+      "id": "h5s12_ex4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.114 (练习2)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “要吃中国菜，你首先要学会______筷子。”",
+      "options": ["使用", "应用", "采用", "实现"],
+      "answer": "使用",
+      "explanation": "Dùng vật dụng hàng ngày cụ thể (đũa) → phải dùng 使用筷子. 应用 dùng cho kỹ thuật, lý thuyết, kiến thức.",
+      "review_tip": "Ôn phân biệt 应用 vs 使用."
+    },
+    {
+      "id": "h5s12_ex5", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.114 (练习2)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “过了这么多年，我的愿望终于______了！”",
+      "options": ["实现", "现实", "发达", "经营"],
+      "answer": "实现",
+      "explanation": "实现愿望 (biến ước mơ thành hiện thực — động từ). 现实 là danh từ/tính từ ('hiện thực / thực tế').",
+      "review_tip": "Tránh nhầm mặt chữ giữa 实现 và 现实."
+    },
+    {
+      "id": "h5s12_ex6", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.114 (练习3 Chọn vị trí)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn vị trí thích hợp cho “以及” trong câu: “本店销售 A 电视、B 冰箱、C 洗衣机 D 其他电器。”",
+      "options": ["D (洗衣机以及其他电器)", "A (销售以及电视)", "B (电视、以及冰箱)", "C (冰箱、以及洗衣机)"],
+      "answer": "D (洗衣机以及其他电器)",
+      "explanation": "Khi liệt kê nhiều mục, liên từ 以及 đặt trước thành phần cuối cùng (其他电器).",
+      "review_tip": "Ôn Chú thích 1 tr.111: 以及."
+    },
+    {
+      "id": "h5s12_ex7", "type": "grammar_mc", "level": "Vận dụng", "origin_tag": "Sách gốc tr.114 (练习3 Chọn vị trí)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn vị trí thích hợp cho “针对” trong câu: “A 这个问题，B 我们 C 开会讨论了 D 好几次。”",
+      "options": ["A (针对这个问题，我们……)", "B (这个问题，针对我们……)", "C (我们针对开会……)", "D (讨论了针对好几次)"],
+      "answer": "A (针对这个问题，我们……)",
+      "explanation": "针对 + đối tượng vấn đề (针对这个问题) đặt ở đầu câu làm trạng ngữ chỉ mục tiêu thảo luận.",
+      "review_tip": "Ôn cách dùng giới từ/động từ 针对."
+    },
+    {
+      "id": "h5s12_ex8", "type": "context_mc", "level": "Vận dụng", "origin_tag": "Ôn tập Bài 11 (HSK 5 上 tr.103–104)", "mistake_category": "Ngữ pháp",
+      "prompt": "Ôn tập Bài 11 — Chọn đáp án đúng: “调查显示，这款产品推出后，用户的满意度有______提高。”",
+      "options": ["所", "数", "相当", "过来"],
+      "answer": "所",
+      "explanation": "Cấu trúc cố định Bài 11: '有 + 所 + 动词' (有所提高 = có phần nâng cao).",
+      "review_tip": "Ôn Chú thích 2 Bài 11: 有/无 + 所 + V."
+    },
+    {
+      "id": "h5s12_ex9", "type": "context_mc", "level": "Vận dụng", "origin_tag": "Ôn tập Bài 11 (HSK 5 上 tr.105–106)", "mistake_category": "Ngữ pháp",
+      "prompt": "Ôn tập Bài 11 — Chọn đáp án đúng: “这种高温天气已经______一周了，大家出门要注意防晒。”",
+      "options": ["持续", "继续", "过渡", "避免"],
+      "answer": "持续",
+      "explanation": "Phía sau có bổ ngữ thời lượng 一周 và trạng thái nắng nóng liên tục không ngắt → dùng 持续 (继续 không mang bổ ngữ thời lượng).",
+      "review_tip": "Ôn bảng 词语辨析 Bài 11: 持续—继续."
+    }
+  ]
+}

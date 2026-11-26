@@ -1,0 +1,427 @@
+{
+  "id": "hsk5shang_l17",
+  "book_id": "hsk5shang",
+  "textbook": "HSK 5 上",
+  "lesson_number": 17,
+  "title_zh": "在最美好的时刻离开",
+  "title_vi": "Rời khỏi vào thời khắc tốt đẹp nhất",
+  "pdf_pages": "Trang sách 154–161 (Giáo Trình Chuẩn HSK5 Tập 1.pdf)",
+  "source_status": "verified_textbook",
+  "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"],
+  "vocabulary": [
+    {
+      "id": "hsk5s_l17_w01", "order": 1, "textbook": "HSK 5 上", "lesson": 17,
+      "hanzi": "事物", "pinyin": "shìwù",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "sự vật", "structure": "对事物的记忆 / 新鲜事物 / 一切事物", "explanation": "Chỉ chung mọi sự việc và vật thể khách quan trong thế giới.", "examples": [{ "chinese": "我们对事物的记忆仅在高峰和结尾，而事情的经过对记忆几乎没有影响。", "pinyin": "Wǒmen duì shìwù de jìyì jǐn zài gāofēng hé jiéwěi, ér shìqing de jīngguò duì jìyì jīhū méiyǒu yǐngxiǎng.", "vietnamese": "Ký ức của chúng ta về sự vật chỉ nằm ở đỉnh cao và kết thúc, còn quá trình diễn biến hầu như không ảnh hưởng tới trí nhớ.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "指客观存在的一切物体和现象。", "collocations": ["新鲜事物", "客观事物", "认识事物"], "usage_note": "Mang nghĩa khái quát cao hơn 东西 và 事情.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l17_w02", "order": 2, "textbook": "HSK 5 上", "lesson": 17, "is_out_of_syllabus": true,
+      "hanzi": "高峰", "pinyin": "gāofēng",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "đỉnh cao, cao điểm", "structure": "高峰之后 / 上班高峰 / 达到高峰", "explanation": "Đỉnh núi cao; trong bài dùng nghĩa bóng chỉ giai đoạn/mức độ cao nhất của sự việc hoặc trải nghiệm.", "examples": [{ "chinese": "高峰之后，终点出现得越迅速，这件事留给我们的印象就越深刻。", "pinyin": "Gāofēng zhīhòu, zhōngdiǎn chūxiàn de yuè xùnsù, zhè jiàn shì liúgěi wǒmen de yìnxiàng jiù yuè shēnkè.", "vietnamese": "Sau đỉnh cao, điểm kết thúc xuất hiện càng nhanh chóng thì sự việc ấy để lại cho chúng ta ấn tượng càng sâu sắc.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "最高的山峰；比喻事物发展的最高点或最集中的时段。", "collocations": ["早高峰", "晚高峰", "高峰期", "达到高峰"], "usage_note": "Rất hay gặp trong đời sống: 上班高峰 / 早高峰 (giờ cao điểm buổi sáng).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l17_w03", "order": 3, "textbook": "HSK 5 上", "lesson": 17, "is_out_of_syllabus": true,
+      "hanzi": "终点", "pinyin": "zhōngdiǎn",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "điểm cuối cùng, điểm kết thúc", "structure": "终点站 / 到达终点", "explanation": "Điểm kết thúc của một chặng đường hoặc một quá trình (trái nghĩa với 起点).", "examples": [{ "chinese": "高峰之后，终点出现得越迅速，这件事留给我们的印象就越深刻。", "pinyin": "Gāofēng zhīhòu, zhōngdiǎn chūxiàn de yuè xùnsù, zhè jiàn shì liúgěi wǒmen de yìnxiàng jiù yuè shēnkè.", "vietnamese": "Sau cao điểm, điểm kết thúc xuất hiện càng nhanh thì ấn tượng để lại cho chúng ta càng sâu sắc.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "一段路程或过程的结束处（与“起点”相对）。", "collocations": ["终点站", "冲向终点", "起点和终点"], "usage_note": "Phân biệt mặt chữ & phát âm với 重点 (zhòngdiǎn – trọng điểm).", "common_errors": "Dễ đọc nhầm hoặc viết nhầm giữa 终点 (zhōngdiǎn) và 重点 (zhòngdiǎn).", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l17_w04", "order": 4, "textbook": "HSK 5 上", "lesson": 17,
+      "hanzi": "迅速", "pinyin": "xùnsù",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "nhanh chóng", "structure": "迅速(地) + V / 出现得越迅速 / 发展迅速", "explanation": "Tốc độ rất nhanh, kịp thời (trang trọng hơn 快).", "examples": [{ "chinese": "高峰之后，终点出现得越迅速，这件事留给我们的印象就越深刻。", "pinyin": "Gāofēng zhīhòu, zhōngdiǎn chūxiàn de yuè xùnsù, zhè jiàn shì liúgěi wǒmen de yìnxiàng jiù yuè shēnkè.", "vietnamese": "Sau đỉnh cao, điểm kết thúc xuất hiện càng nhanh chóng, sự việc này lưu lại cho chúng ta ấn tượng càng sâu sắc.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "速度高，非常快。", "collocations": ["迅速提高", "迅速出现", "迅速采取措施", "迅速做出反应"], "usage_note": "Thường làm trạng ngữ đứng trước động từ (迅速采取措施) hoặc bổ ngữ trạng thái (出现得迅速).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l17_w05", "order": 5, "textbook": "HSK 5 上", "lesson": 17,
+      "hanzi": "深刻", "pinyin": "shēnkè",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "sâu sắc", "structure": "深刻的 + 印象/记忆/道理 / 印象深刻", "explanation": "Đạt đến bản chất sâu xa hoặc khắc sâu vào tâm trí, khó phai mờ.", "examples": [{ "chinese": "高峰之后，终点出现得越迅速，这件事留给我们的印象就越深刻。", "pinyin": "Gāofēng zhīhòu, zhōngdiǎn chūxiàn de yuè xùnsù, zhè jiàn shì liúgěi wǒmen de yìnxiàng jiù yuè shēnkè.", "vietnamese": "Sau đỉnh cao, điểm kết thúc xuất hiện càng nhanh, sự việc ấy để lại ấn tượng càng sâu sắc.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "达到事情或问题的本质的；内心感受程度很深的。", "collocations": ["深刻的印象", "深刻的记忆", "深刻的道理", "印象深刻"], "usage_note": "Đi với 印象/记忆/道理 dùng 深刻 (không dùng 深 một mình kiểu '深的印象' — xem Bài tập 2 câu 2 tr.159).", "common_errors": "Sai: '给我留下了深的印象' → Đúng: '给我留下了深刻的印象'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l17_w06", "order": 6, "textbook": "HSK 5 上", "lesson": 17,
+      "hanzi": "戏剧", "pinyin": "xìjù",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "kịch, vở tuồng", "structure": "一场戏剧演出 / 戏剧艺术", "explanation": "Nghệ thuật sân khấu tổng hợp dùng diễn xuất, lời thoại, ca múa để thể hiện câu chuyện.", "examples": [{ "chinese": "比如说为了一场戏剧演出，我们会投入很多时间，准备服装、化妆、道具、舞台美术，以创造良好的效果。", "pinyin": "Bǐrú shuō wèile yì chǎng xìjù yǎnchū, wǒmen huì tóurù hěn duō shíjiān, zhǔnbèi fúzhuāng, huàzhuāng, dàojù, wǔtái měishù, yǐ chuàngzào liánghǎo de xiàoguǒ.", "vietnamese": "Ví dụ vì một buổi biểu diễn kịch, chúng ta sẽ đầu tư rất nhiều thời gian chuẩn bị trang phục, hóa trang, đạo cụ, mỹ thuật sân khấu nhằm tạo hiệu quả tốt đẹp.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "通过演员表演故事来反映社会生活的综合艺术。", "collocations": ["戏剧演出", "古典戏剧", "戏剧性"], "usage_note": "Lượng từ thường dùng cho buổi diễn kịch là 场 (一场戏剧演出) hoặc 部.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l17_w07", "order": 7, "textbook": "HSK 5 上", "lesson": 17,
+      "hanzi": "投入", "pinyin": "tóurù",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "đưa vào, bỏ vốn, đầu tư (thời gian, công sức, tiền bạc)", "structure": "投入 + 时间/精力/资金 / 投入到……中", "explanation": "Nghĩa trong bài khóa: bỏ thời gian, công sức hoặc tiền vốn vào một công việc, hoạt động.", "examples": [{ "chinese": "比如说为了一场戏剧演出，我们会投入很多时间。", "pinyin": "Bǐrú shuō wèile yì chǎng xìjù yǎnchū, wǒmen huì tóurù hěn duō shíjiān.", "vietnamese": "Ví dụ vì một buổi biểu diễn kịch, chúng ta sẽ đầu tư rất nhiều thời gian.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["kinh phí đầu tư, vốn đầu tư"], "structure": "加大……投入 / 教育投入", "difference_note": "Sách gốc ghi đủ 3 từ loại đgt./dt./tt.: làm danh từ chỉ khoản đầu tư đã bỏ ra.", "examples": [{ "chinese": "政府加大了对农村教育的投入。", "pinyin": "Zhèngfǔ jiādà le duì nóngcūn jiàoyù de tóurù.", "vietnamese": "Chính phủ đã tăng cường đầu tư cho giáo dục nông thôn." }] },
+        { "part_of_speech": "形容词 (Tính từ)", "meanings": ["xuất thần, nhập tâm, hết lòng say mê"], "structure": "非常投入 / 听得很投入", "difference_note": "Làm tính từ miêu tả trạng thái tập trung toàn tâm toàn ý khi làm việc/diễn xuất.", "examples": [{ "chinese": "他在台上表演得非常投入。", "pinyin": "Tā zài tái shang biǎoyǎn de fēicháng tóurù.", "vietnamese": "Anh ấy biểu diễn trên sân khấu vô cùng nhập tâm." }] }
+      ],
+      "chinese_explanation": "把时间、精力、资金等放进去；投入的资金或精力；全神贯注、专心致志。", "collocations": ["投入时间", "投入使用", "加大投入", "非常投入"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l17_w08", "order": 8, "textbook": "HSK 5 上", "lesson": 17,
+      "hanzi": "服装", "pinyin": "fúzhuāng",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "trang phục", "structure": "服装设计 / 演出服装 / 一套服装", "explanation": "Chỉ chung quần áo, y phục (trang trọng, mang tính chuyên môn hơn 衣服).", "examples": [{ "chinese": "我们会投入很多时间，准备服装、化妆、道具、舞台美术。", "pinyin": "Wǒmen huì tóurù hěn duō shíjiān, zhǔnbèi fúzhuāng, huàzhuāng, dàojù, wǔtái měishù.", "vietnamese": "Chúng ta sẽ bỏ rất nhiều thời gian chuẩn bị trang phục, trang điểm, đạo cụ, mỹ thuật sân khấu.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "衣服鞋帽等的总称，多指衣服。", "collocations": ["服装设计", "服装店", "演出服装", "一组服装"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l17_w09", "order": 9, "textbook": "HSK 5 上", "lesson": 17, "is_out_of_syllabus": true,
+      "hanzi": "化妆", "pinyin": "huà zhuāng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ ly hợp)", "meaning": "trang điểm, hóa trang", "structure": "化个妆 / 化妆师 / 化妆品", "explanation": "Dùng phấn son, mỹ phẩm làm đẹp gương mặt hoặc hóa trang cho vai diễn.", "examples": [{ "chinese": "准备服装、化妆、道具、舞台美术。", "pinyin": "Zhǔnbèi fúzhuāng, huàzhuāng, dàojù, wǔtái měishù.", "vietnamese": "Chuẩn bị trang phục, hóa trang, đạo cụ, mỹ thuật sân khấu.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "用脂粉等使容貌美丽，或演戏时把演员打扮成特定角色。", "collocations": ["化妆品", "化妆师", "化淡妆", "化完妆"], "usage_note": "Động từ ly hợp (có thể tách: 化了妆, 化个淡妆); chú ý chữ 妆 (không nhầm với 装 trong 服装).", "common_errors": "Viết nhầm 化妆 thành 化装 (化装 thiên về cải trang/ngụy trang).", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l17_w10", "order": 10, "textbook": "HSK 5 上", "lesson": 17, "is_out_of_syllabus": true,
+      "hanzi": "道具", "pinyin": "dàojù",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "đạo cụ", "structure": "演出道具 / 准备道具", "explanation": "Các vật dụng dùng trong biểu diễn sân khấu, phim ảnh hoặc trò chơi.", "examples": [{ "chinese": "准备服装、化妆、道具、舞台美术。", "pinyin": "Zhǔnbèi fúzhuāng, huàzhuāng, dàojù, wǔtái měishù.", "vietnamese": "Chuẩn bị trang phục, hóa trang, đạo cụ, mỹ thuật sân khấu.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "演戏或拍电影时所用的各种用具。", "collocations": ["电影道具", "舞台道具", "准备道具"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l17_w11", "order": 11, "textbook": "HSK 5 上", "lesson": 17,
+      "hanzi": "美术", "pinyin": "měishù",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "nghệ thuật tạo hình, mỹ thuật", "structure": "舞台美术 / 美术馆 / 学美术", "explanation": "Nghệ thuật tạo hình như hội họa, điêu khắc, thiết kế sân khấu.", "examples": [{ "chinese": "准备服装、化妆、道具、舞台美术，以创造良好的效果。", "pinyin": "Zhǔnbèi fúzhuāng, huàzhuāng, dàojù, wǔtái měishù, yǐ chuàngzào liánghǎo de xiàoguǒ.", "vietnamese": "Chuẩn bị trang phục, hóa trang, đạo cụ, mỹ thuật sân khấu để tạo hiệu quả tốt đẹp.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "造型艺术，包括绘画、雕塑、建筑、工艺等。", "collocations": ["舞台美术", "美术馆", "美术学院", "美术作品"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l17_w12", "order": 12, "textbook": "HSK 5 上", "lesson": 17,
+      "hanzi": "以", "pinyin": "yǐ",
+      "lesson_usage": { "part_of_speech": "连词 (Liên từ)", "meaning": "để, nhằm", "structure": "V1……，以 + V2 (biểu thị mục đích)", "explanation": "Liên từ văn viết đặt đầu vế sau để nêu rõ mục đích của hành động ở vế trước.", "examples": [{ "chinese": "准备服装、化妆、道具、舞台美术，以创造良好的效果。", "pinyin": "Zhǔnbèi fúzhuāng, huàzhuāng, dàojù, wǔtái měishù, yǐ chuàngzào liánghǎo de xiàoguǒ.", "vietnamese": "Chuẩn bị trang phục, hóa trang, đạo cụ, mỹ thuật sân khấu nhằm tạo ra hiệu quả tốt đẹp.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "介词 (Giới từ - Chú thích 1 tr.156)", "meanings": ["dùng, lấy, dựa vào (用、拿、凭借)"], "structure": "以 + N + 为…… / 以 + N + V", "difference_note": "Giới từ văn viết chỉ công cụ, phương thức, căn cứ hoặc danh nghĩa thực hiện hành động.", "examples": [{ "chinese": "同年4月，（微信）以英文名WeChat正式进入国际市场。", "pinyin": "Tóngnián sì yuè, (Wēixìn) yǐ Yīngwénmíng WeChat zhèngshì jìnrù guójì shìchǎng.", "vietnamese": "Tháng 4 cùng năm, WeChat chính thức gia nhập thị trường quốc tế với tên tiếng Anh là WeChat." }] }
+      ],
+      "chinese_explanation": "连词，表示目的；介词，表示用、拿、凭借。", "collocations": ["以适应……", "以创造……", "以……为……", "以提高……"], "usage_note": "Xem Chú thích 1 tr.156–157: nhớ rõ cả 2 từ loại liên từ (mục đích) và giới từ (dùng/lấy).", "common_errors": "Trong Bài tập 2 câu 1 tr.159: '熟悉新产品，以更好地向顾客推广' (dùng 以, không dùng 用).", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l17_w13", "order": 13, "textbook": "HSK 5 上", "lesson": 17,
+      "hanzi": "良好", "pinyin": "liánghǎo",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "tốt đẹp, tốt", "structure": "良好的 + 效果/习惯/印象/关系/环境", "explanation": "Tốt đẹp, làm hài lòng (thiên về văn viết, thường dùng làm định ngữ).", "examples": [{ "chinese": "以创造良好的效果，争取给观众留下一个好的印象。", "pinyin": "Yǐ chuàngzào liánghǎo de xiàoguǒ, zhēngqǔ gěi guānzhòng liúxià yí ge hǎo de yìnxiàng.", "vietnamese": "Nhằm tạo nên hiệu quả tốt đẹp, cố gắng để lại ấn tượng tốt cho khán giả.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "令人满意、十分好（多用于书面语）。", "collocations": ["良好的效果", "良好的习惯", "良好的开端", "身体状况良好"], "usage_note": "Không dùng trực tiếp phó từ 很 kiểu '很良好'; hay dùng làm định ngữ (良好的……) hoặc vị ngữ trang trọng (状况良好).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l17_w14", "order": 14, "textbook": "HSK 5 上", "lesson": 17,
+      "hanzi": "争取", "pinyin": "zhēngqǔ",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "cố gắng, tranh thủ, giành", "structure": "争取 + 时间/机会/胜利/项目 / 争取 + VP (考好/准时到/提前结束)", "explanation": "Nỗ lực hết sức để đạt được mục tiêu hoặc giành lấy điều mong muốn.", "examples": [{ "chinese": "争取给观众留下一个好的印象。", "pinyin": "Zhēngqǔ gěi guānzhòng liúxià yí ge hǎo de yìnxiàng.", "vietnamese": "Cố gắng để lại cho khán giả một ấn tượng tốt đẹp.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "力求获得；力求实现。", "collocations": ["争取时间", "争取机会", "争取胜利", "争取考好", "争取提前结束"], "usage_note": "Có thể mang tân ngữ danh từ (争取机会) hoặc cụm động từ (争取准时到).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l17_w15", "order": 15, "textbook": "HSK 5 上", "lesson": 17,
+      "hanzi": "忽视", "pinyin": "hūshì",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "xem nhẹ, không chú ý", "structure": "忽视 + 问题/准备/细节/交流 / 不容忽视", "explanation": "Không chú ý, bỏ sót, không coi trọng đúng mức (có thể vô ý hoặc cố ý).", "examples": [{ "chinese": "却常常忽视结束退场时的准备。", "pinyin": "Què chángcháng hūshì jiéshù tuìchǎng shí de zhǔnbèi.", "vietnamese": "Nhưng lại thường xem nhẹ sự chuẩn bị khi kết thúc ra về.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "不注意；不重视。", "collocations": ["忽视问题", "忽视健康", "不可忽视"], "usage_note": "Xem bảng phân biệt '忽视—轻视' ở tab Ngữ pháp (忽视 nhấn mạnh không cân nhắc đến, bỏ qua).", "common_errors": "Không dùng 忽视 để nói 'coi thường con người' khi hàm ý khinh thường (dùng 轻视).", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l17_w16", "order": 16, "textbook": "HSK 5 上", "lesson": 17,
+      "hanzi": "魅力", "pinyin": "mèilì",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "sức hấp dẫn", "structure": "很有魅力 / 充满魅力 / 独特的魅力", "explanation": "Sức lôi cuốn mạnh mẽ của con người, tác phẩm nghệ thuật hay văn hóa.", "examples": [{ "chinese": "演出开始时人们认为很有魅力，但是糟糕的结局会给人留下难以忘记的坏印象。", "pinyin": "Yǎnchū kāishǐ shí rénmen rènwéi hěn yǒu mèilì, dànshì zāogāo de jiéjú huì gěi rén liúxià nányǐ wàngjì de huài yìnxiàng.", "vietnamese": "Lúc bắt đầu biểu diễn mọi người thấy rất có sức hấp dẫn, nhưng cái kết tồi tệ sẽ để lại ấn tượng xấu khó quên.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "很能吸引人的力量。", "collocations": ["很有魅力", "充满魅力", "艺术魅力", "个人魅力"], "usage_note": "Là danh từ nên không nói '很魅力', phải nói '很有魅力' hoặc '充满魅力'.", "common_errors": "Sai: '她很魅力' → Đúng: '她很有魅力'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l17_w17", "order": 17, "textbook": "HSK 5 上", "lesson": 17,
+      "hanzi": "糟糕", "pinyin": "zāogāo",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "tồi tệ, hỏng bét", "structure": "糟糕的 + 结局/情况/天气 / 真糟糕！", "explanation": "Tình hình, kết quả rất xấu, không như ý muốn; cũng dùng làm câu cảm thán ('Nguy rồi!/Hỏng rồi!').", "examples": [{ "chinese": "但是糟糕的结局会给人留下难以忘记的坏印象。", "pinyin": "Dànshì zāogāo de jiéjú huì gěi rén liúxià nányǐ wàngjì de huài yìnxiàng.", "vietnamese": "Nhưng kết cục tồi tệ sẽ để lại cho người ta ấn tượng xấu khó quên.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "指事情、情况坏得很。", "collocations": ["糟糕的结局", "极其糟糕", "太糟糕了"], "usage_note": "Đứng một mình đầu câu làm lời cảm thán: '糟糕！我忘带钥匙了！' (Chết rồi! Tôi quên mang chìa khóa!).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l17_w18", "order": 18, "textbook": "HSK 5 上", "lesson": 17,
+      "hanzi": "婚礼", "pinyin": "hūnlǐ",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "lễ cưới", "structure": "参加婚礼 / 举行婚礼", "explanation": "Nghi lễ cử hành hôn nhân.", "examples": [{ "chinese": "有一次，我去参加一个婚礼，前三个小时感觉都很好，只在最后一个小时感到无聊。", "pinyin": "Yǒu yí cì, wǒ qù cānjiā yí ge hūnlǐ, qián sān ge xiǎoshí gǎnjué dōu hěn hǎo, zhǐ zài zuìhòu yí ge xiǎoshí gǎndào wúliáo.", "vietnamese": "Có một lần tôi đi dự một lễ cưới, ba tiếng đầu cảm giác đều rất tốt, chỉ thấy nhàm chán ở tiếng cuối cùng.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "结婚的仪式。", "collocations": ["参加婚礼", "举行婚礼", "中式婚礼", "西式婚礼"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l17_w19", "order": 19, "textbook": "HSK 5 上", "lesson": 17,
+      "hanzi": "等于", "pinyin": "děngyú",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "bằng (số lượng, giá trị)", "structure": "A 加/减 B 等于 C", "explanation": "Bằng nhau về giá trị toán học hoặc số lượng.", "examples": [{ "chinese": "三个小时快乐减一个小时无聊等于两个小时快乐。", "pinyin": "Sān ge xiǎoshí kuàilè jiǎn yí ge xiǎoshí wúliáo děngyú liǎng ge xiǎoshí kuàilè.", "vietnamese": "Ba tiếng vui vẻ trừ một tiếng nhàm chán bằng hai tiếng vui vẻ.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ - nghĩa tương đương)", "meanings": ["coi như là, chẳng khác nào"], "structure": "A 就等于 B / 等于没说", "difference_note": "Dùng trong lập luận để chỉ hai việc có kết quả hoặc tính chất tương đương nhau.", "examples": [{ "chinese": "只说不做，等于白说。", "pinyin": "Zhǐ shuō bú zuò, děngyú báishuō.", "vietnamese": "Chỉ nói mà không làm thì chẳng khác nào nói suông." }] }
+      ],
+      "chinese_explanation": "数量或程度相等；差不多就是、相当于。", "collocations": ["等于零", "不等于", "等于说"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l17_w20", "order": 20, "textbook": "HSK 5 上", "lesson": 17,
+      "hanzi": "度过", "pinyin": "dùguò",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "trải qua (thời gian, giai đoạn)", "structure": "愉快地度过 + Thời gian / 度过童年/假期/周末", "explanation": "Trải qua một khoảng thời gian cụ thể nào đó.", "examples": [{ "chinese": "也就是说，我愉快地度过了两个小时。", "pinyin": "Yě jiùshì shuō, wǒ yúkuài de dùguò le liǎng ge xiǎoshí.", "vietnamese": "Nói cách khác, tôi đã trải qua hai tiếng đồng hồ vui vẻ.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "让时间在某种状态或活动中过去。", "collocations": ["度过童年", "度过假期", "愉快地度过", "度过一生"], "usage_note": "Phân biệt với 渡过 (bộ Thủy 氵): 度过 dùng cho thời gian (度过周末/童年); 渡过 dùng cho sông biển hoặc khó khăn (渡过难关/渡过长江).", "common_errors": "Hay viết nhầm 度过童年 thành 渡过童年.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l17_w21", "order": 21, "textbook": "HSK 5 上", "lesson": 17,
+      "hanzi": "告别", "pinyin": "gàobié",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "tạm biệt, từ biệt", "structure": "早早地告别 / 向/跟某人告别 / 告别过去", "explanation": "Nói lời chia tay khi rời khỏi một người, nơi chốn hay giai đoạn nào đó.", "examples": [{ "chinese": "如果我参加另外一次活动，只在那里待一个小时，早早地告别，我却享受了满满60分钟的快乐。", "pinyin": "Rúguǒ wǒ cānjiā lìngwài yí cì huódòng, zhǐ zài nàli dāi yí ge xiǎoshí, zǎozǎo de gàobié, wǒ què xiǎngshòu le mǎnmǎn liùshí fēnzhōng de kuàilè.", "vietnamese": "Nếu tôi tham gia một hoạt động khác, chỉ ở đó một tiếng rồi sớm tạm biệt, tôi lại tận hưởng trọn vẹn 60 phút vui vẻ.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "离别；辞行。", "collocations": ["向朋友告别", "告别演出", "告别过去"], "usage_note": "Khi chia tay ai, dùng giới từ 向/跟/同 (向大家告别), không mang trực tiếp tân ngữ chỉ người; nhưng có thể mang tân ngữ trừu tượng/địa điểm (告别童年, 告别家乡).", "common_errors": "Sai: '告别朋友' → Đúng: '向朋友告别' / '跟朋友告别'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l17_w22", "order": 22, "textbook": "HSK 5 上", "lesson": 17,
+      "hanzi": "平常", "pinyin": "píngcháng",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "bình thường, phổ thông", "structure": "很平常 / 不平常的日子 / 平平常常 (AABB)", "explanation": "Nghĩa trong bài khóa: thông thường, không có gì đặc biệt (có thể lặp dạng AABB là 平平常常).", "examples": [{ "chinese": "一部电影，开始虽然剧情平平常常，如果最后半个小时能使我们感动，我们依然会向别人推荐它。", "pinyin": "Yí bù diànyǐng, kāishǐ suīrán jùqíng píngpíngchángcháng, rúguǒ zuìhòu bàn ge xiǎoshí néng shǐ wǒmen gǎndòng, wǒmen yīrán huì xiàng biérén tuījiàn tā.", "vietnamese": "Một bộ phim tuy mở đầu tình tiết rất đỗi bình thường, nhưng nếu nửa tiếng cuối khiến ta cảm động thì ta vẫn sẽ giới thiệu cho người khác.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ - Chú thích 2 tr.157)", "meanings": ["ngày thường, lúc bình thường (= 平时)"], "structure": "他平常总是…… / 像平常一样", "difference_note": "Làm danh từ chỉ thời gian tương đương 平时 (không dùng 平时 làm tính từ như '很平时'!).", "examples": [{ "chinese": "他平常总是来得很早，今天却迟到了。", "pinyin": "Tā píngcháng zǒngshì lái de hěn zǎo, jīntiān què chídào le.", "vietnamese": "Ngày thường anh ấy luôn đến rất sớm, hôm nay lại đến muộn." }] }
+      ],
+      "chinese_explanation": "普通、不特别；平时。", "collocations": ["平平常常", "不平常的日子", "像平常一样", "平常心"], "usage_note": "Phân biệt với 平时: 平时 CHỈ là danh từ thời gian, KHÔNG có nghĩa tính từ; vì vậy Bài tập 2 câu 3 tr.159 '这部电影很平常' không được thay bằng 平时!", "common_errors": "Sai: '这部电影很平时' → Đúng: '这部电影很平常'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l17_w23", "order": 23, "textbook": "HSK 5 上", "lesson": 17,
+      "hanzi": "依然", "pinyin": "yīrán",
+      "lesson_usage": { "part_of_speech": "副词 (Phó từ)", "meaning": "vẫn, vẫn như cũ", "structure": "S + 依然 + V/Adj", "explanation": "Biểu thị trạng thái hay tình hình không thay đổi, giống hệt như trước (gần nghĩa 仍然, văn viết hơn).", "examples": [{ "chinese": "如果最后半个小时能使我们感动，我们依然会向别人推荐它。", "pinyin": "Rúguǒ zuìhòu bàn ge xiǎoshí néng shǐ wǒmen gǎndòng, wǒmen yīrán huì xiàng biérén tuījiàn tā.", "vietnamese": "Nếu nửa tiếng cuối khiến chúng ta cảm động, chúng ta vẫn sẽ giới thiệu nó cho người khác.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "依旧、仍然。", "collocations": ["依然如故", "依然美丽", "依然坚持"], "usage_note": "Đứng sau chủ ngữ, trước động từ hoặc tính từ (她依然那么美丽).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l17_w24", "order": 24, "textbook": "HSK 5 上", "lesson": 17,
+      "hanzi": "推荐", "pinyin": "tuījiàn",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "giới thiệu, tiến cử", "structure": "向某人推荐 + 某人/某物 / 推荐信", "explanation": "Giới thiệu người tài hoặc sách, phim, món ăn tốt cho người khác chọn lựa.", "examples": [{ "chinese": "我们依然会向别人推荐它。", "pinyin": "Wǒmen yīrán huì xiàng biérén tuījiàn tā.", "vietnamese": "Chúng ta vẫn sẽ giới thiệu nó cho người khác.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "把好的人或事物向人或组织介绍，希望任用或接受。", "collocations": ["向大家推荐", "推荐信", "强烈推荐", "推荐菜"], "usage_note": "Phân biệt 推荐 (giới thiệu kèm sự đánh giá cao/khuyên dùng) với 介绍 (giới thiệu thông tin chung).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l17_w25", "order": 25, "textbook": "HSK 5 上", "lesson": 17, "is_out_of_syllabus": true,
+      "hanzi": "淋漓尽致", "pinyin": "línlí jìnzhì",
+      "lesson_usage": { "part_of_speech": "成语 (Thành ngữ)", "meaning": "tinh tế, triệt để, hết sức sống động", "structure": "表现得淋漓尽致 / 发挥得淋漓尽致", "explanation": "Miêu tả văn chương, diễn xuất hoặc năng lực được bộc lộ đầy đủ, sâu sắc đến tận cùng.", "examples": [{ "chinese": "如果在前半个小时就把剧情的创造力表现得淋漓尽致，结尾却非常普通，那么，观众对这部电影的评价就肯定不好。", "pinyin": "Rúguǒ zài qián bàn ge xiǎoshí jiù bǎ jùqíng de chuàngzàolì biǎoxiàn de línlí jìnzhì, jiéwěi què fēicháng pǔtōng, nàme, guānzhòng duì zhè bù diànyǐng de píngjià jiù kěndìng bù hǎo.", "vietnamese": "Nếu ngay trong nửa tiếng đầu đã thể hiện sức sáng tạo của kịch bản một cách triệt để nhưng cái kết lại quá bình thường thì đánh giá của khán giả với bộ phim chắc chắn không tốt.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "形容文章或说话表达得非常充分、透彻，或暴露得非常彻底。", "collocations": ["表现得淋漓尽致", "发挥得淋漓尽致", "刻画得淋漓尽致"], "usage_note": "Thường làm bổ ngữ trạng thái sau 得 (V + 得 + 淋漓尽致).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l17_w26", "order": 26, "textbook": "HSK 5 上", "lesson": 17,
+      "hanzi": "评价", "pinyin": "píngjià",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "sự đánh giá, lời nhận xét", "structure": "对……的评价 / 很高的评价", "explanation": "Nghĩa trong bài khóa: nhận xét, đánh giá về giá trị hay chất lượng của người/vật.", "examples": [{ "chinese": "观众对这部电影的评价就肯定不好，甚至会说这是一部“烂片”。", "pinyin": "Guānzhòng duì zhè bù diànyǐng de píngjià jiù kěndìng bù hǎo, shènzhì huì shuō zhè shì yí bù “lànpiàn”.", "vietnamese": "Đánh giá của khán giả đối với bộ phim này chắc chắn không tốt, thậm chí sẽ nói đây là một “bộ phim dở”.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ)", "meanings": ["đánh giá, nhận xét"], "structure": "评价 + 某人/某事 / 客观地评价", "difference_note": "Làm động từ mang trực tiếp đối tượng cần nhận xét, đánh giá.", "examples": [{ "chinese": "你怎样评价这部新上映的电影？", "pinyin": "Nǐ zěnyàng píngjià zhè bù xīn shàngyìng de diànyǐng?", "vietnamese": "Bạn đánh giá thế nào về bộ phim mới công chiếu này?" }] }
+      ],
+      "chinese_explanation": "评定价值高低；评定的价值。", "collocations": ["高度评价", "客观评价", "观众的评价"], "usage_note": "Phân biệt với 评 (bình chọn/trao danh hiệu): Bài tập 2 câu 4 tr.159 '他被评为十大优秀毕业生之一' (dùng 评为, KHÔNG dùng 评价为).", "common_errors": "Sai: '被评价为优秀毕业生' → Đúng: '被评为优秀毕业生'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l17_w27", "order": 27, "textbook": "HSK 5 上", "lesson": 17,
+      "hanzi": "烂", "pinyin": "làn",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "dở, tệ (phim, chất lượng kém)", "structure": "烂片 / 写得很烂", "explanation": "Nghĩa khẩu ngữ trong bài khóa: chất lượng rất kém, dở tệ.", "examples": [{ "chinese": "甚至会说这是一部“烂片”。", "pinyin": "Shènzhì huì shuō zhè shì yí bù “lànpiàn”.", "vietnamese": "Thậm chí sẽ nói đây là một “bộ phim dở tệ”.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "形容词 (Tính từ - nghĩa gốc vật lý)", "meanings": ["thối rữa, hư hỏng; rách nát; chín nhừ"], "structure": "烂苹果 / 烂衣服 / 炖烂了", "difference_note": "Chỉ trái cây bị thối, quần áo rách nát hoặc thức ăn nấu mềm nhừ.", "examples": [{ "chinese": "这个苹果放太久，已经烂了。", "pinyin": "Zhège píngguǒ fàng tài jiǔ, yǐjīng làn le.", "vietnamese": "Quả táo này để lâu quá, đã bị thối rồi." }] }
+      ],
+      "chinese_explanation": "腐烂；破碎；烹煮得极软；极差、不好。", "collocations": ["烂片", "烂苹果", "烂衣服", "烂透了"], "usage_note": "Xem bảng 词语搭配 tr.158: 烂苹果 / 烂衣服 / 烂片.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l17_w28", "order": 28, "textbook": "HSK 5 上", "lesson": 17,
+      "hanzi": "主持", "pinyin": "zhǔchí",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "chủ trì, dẫn chương trình, điều hành", "structure": "主持 + 节目/会议/工作/项目 / 主持人", "explanation": "Phụ trách tổ chức, điều hành một buổi lễ, cuộc họp, công việc hoặc dẫn dắt chương trình truyền hình.", "examples": [{ "chinese": "作为电视节目主持人，我在工作中常常会运用“峰终定律”。", "pinyin": "Zuòwéi diànshì jiémù zhǔchírén, wǒ zài gōngzuò zhōng chángcháng huì yùnyòng “Fēngzhōng Dìnglǜ”.", "vietnamese": "Với tư cách người dẫn chương trình truyền hình, tôi thường vận dụng “Quy luật cao điểm - điểm cuối cùng” trong công việc.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["người chủ trì, người dẫn chương trình (MC)"], "structure": "节目主持 / 晚会主持", "difference_note": "Sách gốc ghi đủ 2 từ loại đgt./dt.; trong khẩu ngữ và truyền thông, 主持 có thể dùng gọn thay cho 主持人.", "examples": [{ "chinese": "她是这档热门栏目的主持。", "pinyin": "Tā shì zhè dàng rèmén lánmù de zhǔchí.", "vietnamese": "Cô ấy là người dẫn chương trình của chuyên mục ăn khách này." }] }
+      ],
+      "chinese_explanation": "负责掌握或处理；作为司仪引导节目或活动进行。", "collocations": ["主持会议", "主持工作", "主持项目", "节目主持人"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l17_w29", "order": 29, "textbook": "HSK 5 上", "lesson": 17,
+      "hanzi": "运用", "pinyin": "yùnyòng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "vận dụng, áp dụng", "structure": "正确/灵活/成功/科学/广泛(地) + 运用", "explanation": "Dùng kiến thức, phương pháp, quy luật hay kỹ thuật một cách linh hoạt vào thực tế.", "examples": [{ "chinese": "作为电视节目主持人，我在工作中常常会运用“峰终定律”。", "pinyin": "Zuòwéi diànshì jiémù zhǔchírén, wǒ zài gōngzuò zhōng chángcháng huì yùnyòng “Fēngzhōng Dìnglǜ”.", "vietnamese": "Là người dẫn chương trình truyền hình, tôi thường xuyên vận dụng “Quy luật cao điểm - điểm cuối cùng” trong công việc.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "根据事物的特性加以利用。", "collocations": ["灵活运用", "正确运用", "广泛运用", "运用知识"], "usage_note": "Tân ngữ của 运用 thường là khái niệm trừu tượng (知识、方法、理论、定律、语言); không dùng cho vật dụng đời thường như 筷子 (dùng 用).", "common_errors": "Không nói '运用筷子吃饭' (dùng 用).", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l17_w30", "order": 30, "textbook": "HSK 5 上", "lesson": 17,
+      "hanzi": "开幕式", "pinyin": "kāimùshì",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "lễ khai mạc", "structure": "举行开幕式 / 参加开幕式 / 与开幕式相比", "explanation": "Buổi lễ chính thức mở màn một sự kiện lớn, đại hội hoặc hội nghị (trái nghĩa: 闭幕式 — lễ bế mạc).", "examples": [{ "chinese": "例如，做节目时，与开幕式相比，我们宁可把更多的精力集中在闭幕式上，这样可以加强观众对节目的印象。", "pinyin": "Lìrú, zuò jiémù shí, yǔ kāimùshì xiāngbǐ, wǒmen nìngkě bǎ gèng duō de jīnglì jízhōng zài bìmùshì shang, zhèyàng kěyǐ jiāqiáng guānzhòng duì jiémù de yìnxiàng.", "vietnamese": "Ví dụ khi làm chương trình, so với lễ khai mạc, chúng tôi thà tập trung nhiều sức lực hơn vào lễ bế mạc để tăng cường ấn tượng của khán giả với chương trình.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "大型会议、运动会、展览会等开始时举行的仪式。", "collocations": ["奥运会开幕式", "举行开幕式", "闭幕式"], "usage_note": "Cặp từ trái nghĩa đi liền trong bài: 开幕式 (lễ khai mạc) ↔ 闭幕式 (lễ bế mạc).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l17_w31", "order": 31, "textbook": "HSK 5 上", "lesson": 17,
+      "hanzi": "宁可", "pinyin": "nìngkě",
+      "lesson_usage": { "part_of_speech": "副词 (Phó từ)", "meaning": "thà rằng, thà", "structure": "宁可 A，也不 B / 宁可 A，也要 B / 与……相比，宁可……", "explanation": "Biểu thị sau khi cân nhắc so sánh hai mặt bất lợi/chọn lựa, quyết định chọn phương án tương đối có lợi hoặc chấp nhận được hơn.", "examples": [{ "chinese": "与开幕式相比，我们宁可把更多的精力集中在闭幕式上。", "pinyin": "Yǔ kāimùshì xiāngbǐ, wǒmen nìngkě bǎ gèng duō de jīnglì jízhōng zài bìmùshì shang.", "vietnamese": "So với lễ khai mạc, chúng tôi thà dồn nhiều tâm sức hơn vào lễ bế mạc.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "表示经过比较后选择相对有利的一方。", "collocations": ["宁可……也不……", "宁可……也要……"], "usage_note": "Chữ 宁 đọc thanh 4: nìngkě! Nếu hai vế cùng chủ ngữ thì 宁可 đứng SAU chủ ngữ (我宁可多花点儿钱，也要买一个质量好点儿的).", "common_errors": "Hay đọc nhầm thanh 2 (níngkě) hoặc đặt trước chủ ngữ khi chung một chủ ngữ.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l17_w32", "order": 32, "textbook": "HSK 5 上", "lesson": 17,
+      "hanzi": "集中", "pinyin": "jízhōng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "tập trung (sức lực, chú ý, con người)", "structure": "把……集中在…… / 集中精力 / 集中注意力 / 集中起来", "explanation": "Gom các yếu tố phân tán (tâm sức, chú ý, nhân lực) vào một điểm chung.", "examples": [{ "chinese": "我们宁可把更多的精力集中在闭幕式上。", "pinyin": "Wǒmen nìngkě bǎ gèng duō de jīnglì jízhōng zài bìmùshì shang.", "vietnamese": "Chúng tôi thà tập trung nhiều sức lực hơn vào lễ bế mạc.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "形容词 (Tính từ)", "meanings": ["tập trung, chăm chú, tập trung cao độ"], "structure": "注意力很集中 / 分布很集中", "difference_note": "Sách gốc ghi đủ đgt./tt.: làm tính từ nhận phó từ mức độ (很集中) mô tả trạng thái không phân tán.", "examples": [{ "chinese": "他听讲时注意力非常集中。", "pinyin": "Tā tīngjiǎng shí zhùyìlì fēicháng jízhōng.", "vietnamese": "Khi nghe giảng sự chú ý của cậu ấy vô cùng tập trung." }] }
+      ],
+      "chinese_explanation": "把分散的人、事物、力量等聚集起来；专心、不分散。", "collocations": ["集中注意力", "集中精力", "集中在……", "集中到……", "集中起来"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l17_w33", "order": 33, "textbook": "HSK 5 上", "lesson": 17,
+      "hanzi": "体会", "pinyin": "tǐhuì",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "hiểu rõ, nhận thức rõ, cảm nhận thấu đáo", "structure": "体会 + 重要性/心情/痛苦 / 体会到…… / 体会出…… / 体会一下", "explanation": "Cảm nhận và thấu hiểu sâu sắc qua trải nghiệm thực tế của bản thân.", "examples": [{ "chinese": "虽然很多人并不了解“峰终定律”，但是，他们能从经验中体会这种做法的重要性。", "pinyin": "Suīrán hěn duō rén bìng bù liǎojiě “Fēngzhōng Dìnglǜ”, dànshì, tāmen néng cóng jīngyàn zhōng tǐhuì zhè zhǒng zuòfǎ de zhòngyàoxìng.", "vietnamese": "Tuy nhiều người không biết về “Quy luật cao điểm - điểm cuối cùng”, nhưng họ có thể thấu hiểu tầm quan trọng của cách làm này từ kinh nghiệm.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["nhận thức, cảm nhận rút ra từ trải nghiệm"], "structure": "最大的体会 / 谈谈你的体会 / 心得体会", "difference_note": "Sách gốc ghi đủ đgt./dt. và kiểm tra ngay ở Bài tập 1 câu 1 tr.159 ('最大的体会就是要放松').", "examples": [{ "chinese": "我刚开始学滑雪的时候，最大的体会就是要放松。", "pinyin": "Wǒ gāng kāishǐ xué huáxuě de shíhou, zuì dà de tǐhuì jiùshì yào fàngsōng.", "vietnamese": "Lúc mới bắt đầu học trượt tuyết, điều tôi thấm thía nhất chính là phải thả lỏng." }] }
+      ],
+      "chinese_explanation": "体验领会；体验后得到的认识。", "collocations": ["体会到", "体会出", "体会一下", "最大的体会", "心得体会"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    }
+  ],
+  "proper_nouns": [
+    { "hanzi": "诺贝尔奖", "pinyin": "Nuòbèi'ěr Jiǎng", "meaning": "Giải Nô-ben" },
+    { "hanzi": "丹尼尔·卡内曼", "pinyin": "Dānní'ěr · Kǎnèimàn", "meaning": "Daniel Kahneman (nhà tâm lý học đoạt giải Nobel Kinh tế năm 2002)" },
+    { "hanzi": "峰终定律", "pinyin": "Fēngzhōng Dìnglǜ", "meaning": "Quy luật cao điểm - điểm cuối cùng (Peak-End Rule)" }
+  ],
+  "collocations_table": [
+    { "relation": "Động từ + Tân ngữ", "head": "争取", "partners": "时间 / 机会 / 胜利 / 项目 / 考好 / 准时到 / 提前结束" },
+    { "relation": "Động từ + Tân ngữ", "head": "主持", "partners": "会议 / 工作 / 项目" },
+    { "relation": "Định ngữ + Trung tâm ngữ", "head": "深刻的", "partners": "印象 / 记忆 / 道理" },
+    { "relation": "Định ngữ + Trung tâm ngữ", "head": "烂", "partners": "苹果 / 衣服 / 片" },
+    { "relation": "Trạng ngữ + Trung tâm ngữ", "head": "迅速(地)", "partners": "提高 / 产生 / 出现 / 采取措施 / 做出反应" },
+    { "relation": "Trạng ngữ + Trung tâm ngữ", "head": "运用", "partners": "正确 / 灵活 / 成功 / 科学 / 广泛(地)" },
+    { "relation": "Trung tâm ngữ + Bổ ngữ", "head": "集中", "partners": "在…… / 到…… / 起来" },
+    { "relation": "Trung tâm ngữ + Bổ ngữ", "head": "体会", "partners": "到…… / 出…… / 一下" }
+  ],
+  "grammar": [
+    {
+      "title": "以 (Giới từ & Liên từ)",
+      "formula": "(1) 介词: 以 + N + V / 以 A 为 B (dùng, lấy, dựa vào)  |  (2) 连词: V1……，以 + V2 (để, nhằm)",
+      "meaning": "1. (Giới từ) dùng, lấy, dựa vào (用、拿、凭借) · 2. (Liên từ) để, nhằm (biểu thị mục đích).",
+      "usage": "Đều thường dùng trong văn viết. Khi làm giới từ, đứng trước danh từ chỉ công cụ, phương tiện, căn cứ hoặc danh nghĩa; khi làm liên từ, đặt đầu phân câu sau chỉ mục đích đạt được.",
+      "context": "Rất phổ biến trong bài báo, văn nghị luận, giới thiệu sản phẩm và câu đọc hiểu HSK 5.",
+      "examples": [
+        { "chinese": "同年4月，（微信）以英文名WeChat正式进入国际市场。", "pinyin": "Tóngnián sì yuè, (Wēixìn) yǐ Yīngwénmíng WeChat zhèngshì jìnrù guójì shìchǎng.", "vietnamese": "Tháng 4 cùng năm, WeChat chính thức gia nhập thị trường quốc tế bằng tên tiếng Anh WeChat." },
+        { "chinese": "……学生分为甲乙两队，以足球为比赛工具向篮内投，按得分多少决定输赢。", "pinyin": "… Xuésheng fēnwéi jiǎ yǐ liǎng duì, yǐ zúqiú wéi bǐsài gōngjù xiàng lán nèi tóu, àn défēn duōshǎo juédìng shūyíng.", "vietnamese": "… Học sinh chia làm hai đội Giáp Ất, lấy bóng đá làm dụng cụ thi đấu ném vào rổ, dựa vào điểm số nhiều ít để phân thắng bại." },
+        { "chinese": "虽然我们已经老了，但还要坚持学习，以适应社会的发展。", "pinyin": "Suīrán wǒmen yǐjīng lǎo le, dàn hái yào jiānchí xuéxí, yǐ shìyìng shèhuì de fāzhǎn.", "vietnamese": "Tuy chúng ta đã già rồi nhưng vẫn phải kiên trì học tập để thích nghi với sự phát triển của xã hội." },
+        { "chinese": "比如说为了一场戏剧演出，我们会投入很多时间，准备服装、化妆、道具、舞台美术，以创造良好的效果，……", "pinyin": "Bǐrú shuō wèile yì chǎng xìjù yǎnchū, wǒmen huì tóurù hěn duō shíjiān, zhǔnbèi fúzhuāng, huàzhuāng, dàojù, wǔtái měishù, yǐ chuàngzào liánghǎo de xiàoguǒ, …", "vietnamese": "Ví dụ vì một buổi biểu diễn kịch, chúng ta sẽ bỏ rất nhiều thời gian chuẩn bị trang phục, hóa trang, đạo cụ, mỹ thuật sân khấu nhằm tạo ra hiệu quả tốt đẹp…" }
+      ],
+      "important_notes": "Liên từ 以 tương đương 为了/以便 nhưng gọn và trang trọng hơn; sau 以 (liên từ) thường đi động từ 2 âm tiết (以适应、以创造、以提高).",
+      "common_errors": "Không dùng 用 thay cho liên từ 以 chỉ mục đích (Bài tập 2 câu 1 tr.159: '熟悉新产品，以更好地向顾客推广').",
+      "comparison": "以 (liên từ mục đích, đứng ở phân câu sau) vs 为了 (thường đứng đầu câu hoặc trước hành động).",
+      "mini_practice": [
+        { "prompt": "A: 你知道济南的泉水是怎么命名的吗？  B: ______________________。（以—介词）", "sample_answer": "有的以泉水的形状命名，有的以人名命名", "explanation": "Dùng giới từ 以 + căn cứ đặt tên + 命名." },
+        { "prompt": "这一个月来，我天天训练，______________________。（以—连词）", "sample_answer": "以提高自己的比赛成绩", "explanation": "Dùng liên từ 以 + động từ nêu mục đích luyện tập." },
+        { "prompt": "虽然他不回信，但我还是坚持给他写，______________________。（以—连词）", "sample_answer": "以表达我对他的关心", "explanation": "Dùng liên từ 以 nêu mục đích của việc kiên trì viết thư." }
+      ]
+    },
+    {
+      "title": "平常 (Tính từ & Danh từ)",
+      "formula": "(1) 形容词: 很平常 / 不平常 / 平平常常 (bình thường)  |  (2) 名词: S + 平常 + V / 像平常一样 (ngày thường)",
+      "meaning": "1. (Tính từ) bình thường, phổ thông, không có gì đặc biệt · 2. (Danh từ) ngày thường, lúc bình thường (= 平时).",
+      "usage": "Nắm chắc hai từ loại của 平常: làm tính từ có thể nhận phó từ mức độ (很平常) hoặc láy AABB (平平常常); làm danh từ chỉ thời gian dùng như 平时.",
+      "context": "Hay ra câu bẫy phân biệt 平常 và 平时 trong đề HSK 5.",
+      "examples": [
+        { "chinese": "对小王来说，今天是一个不平常的日子，因为他今天第一天上班。", "pinyin": "Duì Xiǎo Wáng lái shuō, jīntiān shì yí ge bù píngcháng de rìzi, yīnwèi tā jīntiān dì-yī tiān shàngbān.", "vietnamese": "Với Tiểu Vương, hôm nay là một ngày không bình thường, vì hôm nay là ngày đầu tiên cậu ấy đi làm." },
+        { "chinese": "一部电影，开始虽然剧情平平常常，如果最后半个小时能使我们感动，我们依然会向别人推荐它。", "pinyin": "Yí bù diànyǐng, kāishǐ suīrán jùqíng píngpíngchángcháng, rúguǒ zuìhòu bàn ge xiǎoshí néng shǐ wǒmen gǎndòng, wǒmen yīrán huì xiàng biérén tuījiàn tā.", "vietnamese": "Một bộ phim tuy mở đầu tình tiết bình thường nhưng nếu nửa tiếng cuối làm ta cảm động, ta vẫn sẽ giới thiệu cho người khác." },
+        { "chinese": "他平常总是来得很早，今天却迟到了。", "pinyin": "Tā píngcháng zǒngshì lái de hěn zǎo, jīntiān què chídào le.", "vietnamese": "Ngày thường anh ấy luôn đến rất sớm, hôm nay lại đến muộn." },
+        { "chinese": "校长又告诉老师们，对待这些孩子，要像平常一样，不要让孩子或家长知道他们是被选出来的。", "pinyin": "Xiàozhǎng yòu gàosu lǎoshī men, duìdài zhèxiē háizi, yào xiàng píngcháng yíyàng, búyào ràng háizi huò jiāzhǎng zhīdào tāmen shì bèi xuǎn chūlái de.", "vietnamese": "Hiệu trưởng lại dặn các thầy cô hãy đối xử với các em như bình thường, đừng để học sinh hay phụ huynh biết các em được chọn ra." }
+      ],
+      "important_notes": "平时 CHỈ là danh từ thời gian, KHÔNG thể dùng sau 很 hoặc làm định ngữ miêu tả tính chất; 平常 dùng được cả hai!",
+      "common_errors": "Sai: '这部电影很平时' → Đúng: '这部电影很平常' (Bài tập 2 câu 3 tr.159).",
+      "comparison": "平常 (tính từ + danh từ) vs 平时 (chỉ là danh từ thời gian).",
+      "mini_practice": [
+        { "prompt": "A: 你觉得这本书怎么样？  B: ______________________。（平常—形容词）", "sample_answer": "我觉得这本书的内容很平常，没什么特别的", "explanation": "Dùng 平常 làm tính từ vị ngữ (很平常)." },
+        { "prompt": "______________________，考试前就不用这么紧张了。（平常—名词）", "sample_answer": "如果你平常好好复习", "explanation": "Dùng 平常 làm danh từ thời gian (= 平时)." },
+        { "prompt": "A: ______________________。（平常—名词）  B: 我一般都是自己做饭吃。", "sample_answer": "你平常一般怎么解决吃饭问题？", "explanation": "Dùng 平常 hỏi thói quen sinh hoạt ngày thường." }
+      ]
+    },
+    {
+      "title": "宁可",
+      "formula": "S + 宁可 A，也不/也要 B  |  与 X 相比，S + 宁可 Y",
+      "meaning": "Thà rằng..., thà... (chứ không / cũng phải...).",
+      "usage": "Phó từ biểu thị sau khi so sánh hai khả năng, chọn phương án tương đối có lợi hoặc chấp nhận được hơn.",
+      "context": "Thể hiện thái độ dứt khoát, ưu tiên rõ ràng trong đời sống và nghị luận.",
+      "examples": [
+        { "chinese": "作为母亲，她宁可自己累一点儿，也不想委屈了孩子。", "pinyin": "Zuòwéi mǔqīn, tā nìngkě zìjǐ lèi yìdiǎnr, yě bù xiǎng wěiqu le háizi.", "vietnamese": "Làm mẹ, chị ấy thà tự mình mệt một chút chứ không muốn để con chịu thiệt thòi." },
+        { "chinese": "为什么大家宁可挤成一团，也不去没人的那边？", "pinyin": "Wèishénme dàjiā nìngkě jǐ chéng yì tuán, yě bú qù méi rén de nàbiān?", "vietnamese": "Sao mọi người thà chen chúc dồn thành một cục chứ không sang bên không có người kia?" },
+        { "chinese": "……做节目时，与开幕式相比，我们宁可把更多的精力集中在闭幕式上，……", "pinyin": "… Zuò jiémù shí, yǔ kāimùshì xiāngbǐ, wǒmen nìngkě bǎ gèng duō de jīnglì jízhōng zài bìmùshì shang, …", "vietnamese": "… Khi làm chương trình, so với lễ khai mạc, chúng tôi thà tập trung nhiều sức lực hơn vào lễ bế mạc…" }
+      ],
+      "important_notes": "Thường phối hợp với 也不 (phủ định vế bị loại bỏ) hoặc 也要 (khẳng định mục đích đạt được); đọc thanh 4: nìngkě.",
+      "common_errors": "Khi hai vế chung chủ ngữ, 宁可 đặt sau chủ ngữ: '我宁可多花点儿钱，也要买一个质量好点儿的' (Bài tập 3 câu 4 tr.159).",
+      "comparison": "Gần nghĩa với 宁愿 (nìngyuàn).",
+      "mini_practice": [
+        { "prompt": "我宁可花钱去餐厅吃，______________________。", "sample_answer": "也不想自己在家做饭洗碗", "explanation": "Cấu trúc chuẩn 宁可……，也不……." },
+        { "prompt": "为了把这篇文章写好，______________________。（宁可）", "sample_answer": "我宁可熬夜，也要仔细修改一遍", "explanation": "Cấu trúc 宁可……，也要……." },
+        { "prompt": "A: 这次旅行，你觉得我们是坐飞机去好还是坐火车去好？  B: ______________________。（宁可）", "sample_answer": "我宁可坐火车慢慢欣赏风景，也不想坐飞机赶时间", "explanation": "Dùng 宁可 chọn một trong hai phương tiện sau khi cân nhắc." }
+      ]
+    }
+  ],
+  "comparison_section": {
+    "label": "词语辨析 Phân biệt từ ngữ",
+    "pair": "忽视 — 轻视",
+    "term_a": "忽视 (hūshì)",
+    "term_b": "轻视 (qīngshì)",
+    "similarity": "Đều biểu thị không chú ý, không coi trọng; trong một số câu có thể thay thế cho nhau nhưng sắc thái nhấn mạnh khác nhau. VD: 他只注重理论，忽视/轻视实践，所以失败了。",
+    "differences": [
+      { "criterion": "Điểm nhấn nghĩa", "a": "Nhấn mạnh KHÔNG CÂN NHẮC TỚI, bỏ qua không để ý (他忙得忽视了去医院看病。).", "b": "Nhấn mạnh COI THƯỜNG, KHINH THƯỜNG (你可别轻视他，他看起来很平常，其实很能干。)." },
+      { "criterion": "Thái độ chủ quan", "a": "Thái độ có thể là VÔ Ý, cũng có thể là HỮU Ý (我们常常忽视结束退场时的准备……).", "b": "Thái độ thường là CỐ Ý hoặc CÓ CHỌN LỌC (虽然这是一次小考，你也不能轻视，要好好复习。)." }
+    ]
+  },
+  "texts": [
+    {
+      "id": "t1", "title_zh": "在最美好的时刻离开（644字）", "title_vi": "Rời khỏi vào thời khắc tốt đẹp nhất",
+      "lines": [
+        { "speaker": "", "chinese": "我奶奶说过：“人们应该在最美好的时候离开。”因为这个认知而获得诺贝尔奖的，不是我奶奶，而是心理学家丹尼尔·卡内曼。他将这一现象命名为“峰终定律”：我们对事物的记忆仅在高峰和结尾，而事情的经过对记忆几乎没有影响。高峰之后，终点出现得越迅速，这件事留给我们的印象就越深刻。", "pinyin": "Wǒ nǎinai shuōguo: “Rénmen yīnggāi zài zuì měihǎo de shíhou líkāi.” Yīnwèi zhège rènzhī ér huòdé Nuòbèi'ěr Jiǎng de, bú shì wǒ nǎinai, érshì xīnlǐxuéjiā Dānní'ěr · Kǎnèimàn. Tā jiāng zhè yí xiànxiàng mìngmíng wéi “Fēngzhōng Dìnglǜ”: wǒmen duì shìwù de jìyì jǐn zài gāofēng hé jiéwěi, ér shìqing de jīngguò duì jìyì jīhū méiyǒu yǐngxiǎng. Gāofēng zhīhòu, zhōngdiǎn chūxiàn de yuè xùnsù, zhè jiàn shì liúgěi wǒmen de yìnxiàng jiù yuè shēnkè.", "vietnamese": "Bà nội tôi từng nói: “Con người nên rời đi vào lúc tốt đẹp nhất.” Người giành giải Nobel nhờ nhận thức này không phải bà tôi, mà là nhà tâm lý học Daniel Kahneman. Ông đặt tên cho hiện tượng này là “Quy luật cao điểm - điểm cuối cùng”: ký ức của chúng ta về sự vật chỉ nằm ở đỉnh cao và kết thúc, còn quá trình sự việc hầu như không ảnh hưởng tới trí nhớ. Sau đỉnh cao, điểm kết thúc xuất hiện càng nhanh chóng, sự việc ấy để lại cho chúng ta ấn tượng càng sâu sắc." },
+        { "speaker": "", "chinese": "大部分人不理解这一定律。比如说为了一场戏剧演出，我们会投入很多时间，准备服装、化妆、道具、舞台美术，以创造良好的效果，争取给观众留下一个好的印象，却常常忽视结束退场时的准备。演出开始时人们认为很有魅力，但是糟糕的结局会给人留下难以忘记的坏印象。", "pinyin": "Dàbùfen rén bù lǐjiě zhè yí dìnglǜ. Bǐrú shuō wèile yì chǎng xìjù yǎnchū, wǒmen huì tóurù hěn duō shíjiān, zhǔnbèi fúzhuāng, huàzhuāng, dàojù, wǔtái měishù, yǐ chuàngzào liánghǎo de xiàoguǒ, zhēngqǔ gěi guānzhòng liúxià yí ge hǎo de yìnxiàng, què chángcháng hūshì jiéshù tuìchǎng shí de zhǔnbèi. Yǎnchū kāishǐ shí rénmen rènwéi hěn yǒu mèilì, dànshì zāogāo de jiéjú huì gěi rén liúxià nányǐ wàngjì de huài yìnxiàng.", "vietnamese": "Phần lớn mọi người không hiểu quy luật này. Ví dụ vì một buổi diễn kịch, chúng ta sẽ đầu tư rất nhiều thời gian chuẩn bị trang phục, hóa trang, đạo cụ, mỹ thuật sân khấu nhằm tạo ra hiệu quả tốt đẹp, cố gắng để lại ấn tượng tốt cho khán giả, nhưng lại thường xem nhẹ sự chuẩn bị lúc kết thúc ra về. Lúc bắt đầu buổi diễn mọi người thấy rất hấp dẫn, nhưng cái kết tồi tệ sẽ để lại cho người ta ấn tượng xấu khó phai." },
+        { "speaker": "", "chinese": "有一次，我去参加一个婚礼，前三个小时感觉都很好，只在最后一个小时感到无聊。三个小时快乐减一个小时无聊等于两个小时快乐，也就是说，我愉快地度过了两个小时。但是，我的记忆并不是这样计算的。如果我参加另外一次活动，只在那里待一个小时，早早地告别，我却享受了满满60分钟的快乐。与第一次相比，第二次的聚会留给我的印象更为美好。", "pinyin": "Yǒu yí cì, wǒ qù cānjiā yí ge hūnlǐ, qián sān ge xiǎoshí gǎnjué dōu hěn hǎo, zhǐ zài zuìhòu yí ge xiǎoshí gǎndào wúliáo. Sān ge xiǎoshí kuàilè jiǎn yí ge xiǎoshí wúliáo děngyú liǎng ge xiǎoshí kuàilè, yě jiùshì shuō, wǒ yúkuài de dùguò le liǎng ge xiǎoshí. Dànshì, wǒ de jìyì bìng bú shì zhèyàng jìsuàn de. Rúguǒ wǒ cānjiā lìngwài yí cì huódòng, zhǐ zài nàli dāi yí ge xiǎoshí, zǎozǎo de gàobié, wǒ què xiǎngshòu le mǎnmǎn liùshí fēnzhōng de kuàilè. Yǔ dì-yī cì xiāngbǐ, dì-èr cì de jùhuì liúgěi wǒ de yìnxiàng gèng wéi měihǎo.", "vietnamese": "Có một lần tôi đi dự một lễ cưới, ba tiếng đầu cảm giác đều rất tuyệt, chỉ thấy nhàm chán ở tiếng cuối cùng. Ba tiếng vui vẻ trừ một tiếng nhàm chán bằng hai tiếng vui vẻ, nghĩa là tôi đã trải qua hai tiếng vui vẻ. Nhưng trí nhớ của tôi không tính toán theo cách đó. Nếu tôi tham dự một hoạt động khác, chỉ ở lại một tiếng rồi sớm cáo từ, tôi lại tận hưởng trọn vẹn 60 phút vui vẻ. So với lần thứ nhất, buổi tụ họp lần thứ hai để lại cho tôi ấn tượng tốt đẹp hơn nhiều." },
+        { "speaker": "", "chinese": "看电影也是如此。一部电影，开始虽然剧情平平常常，如果最后半个小时能使我们感动，我们依然会向别人推荐它。相反，如果在前半个小时就把剧情的创造力表现得淋漓尽致，结尾却非常普通，那么，观众对这部电影的评价就肯定不好，甚至会说这是一部“烂片”。", "pinyin": "Kàn diànyǐng yě shì rúcǐ. Yí bù diànyǐng, kāishǐ suīrán jùqíng píngpíngchángcháng, rúguǒ zuìhòu bàn ge xiǎoshí néng shǐ wǒmen gǎndòng, wǒmen yīrán huì xiàng biérén tuījiàn tā. Xiāngfǎn, rúguǒ zài qián bàn ge xiǎoshí jiù bǎ jùqíng de chuàngzàolì biǎoxiàn de línlí jìnzhì, jiéwěi què fēicháng pǔtōng, nàme, guānzhòng duì zhè bù diànyǐng de píngjià jiù kěndìng bù hǎo, shènzhì huì shuō zhè shì yí bù “lànpiàn”.", "vietnamese": "Xem phim cũng vậy. Một bộ phim tuy mở đầu cốt truyện bình thường, nhưng nếu nửa tiếng cuối khiến ta cảm động thì ta vẫn sẽ giới thiệu nó cho người khác. Ngược lại, nếu ngay nửa tiếng đầu đã thể hiện sức sáng tạo của kịch bản một cách triệt để mà cái kết lại vô cùng nhạt nhòa, thì đánh giá của khán giả với bộ phim chắc chắn không tốt, thậm chí còn gọi đó là một “bộ phim dở”." },
+        { "speaker": "", "chinese": "作为电视节目主持人，我在工作中常常会运用“峰终定律”。例如，做节目时，与开幕式相比，我们宁可把更多的精力集中在闭幕式上，这样可以加强观众对节目的印象。虽然很多人并不了解“峰终定律”，但是，他们能从经验中体会这种做法的重要性。", "pinyin": "Zuòwéi diànshì jiémù zhǔchírén, wǒ zài gōngzuò zhōng chángcháng huì yùnyòng “Fēngzhōng Dìnglǜ”. Lìrú, zuò jiémù shí, yǔ kāimùshì xiāngbǐ, wǒmen nìngkě bǎ gèng duō de jīnglì jízhōng zài bìmùshì shang, zhèyàng kěyǐ jiāqiáng guānzhòng duì jiémù de yìnxiàng. Suīrán hěn duō rén bìng bù liǎojiě “Fēngzhōng Dìnglǜ”, dànshì, tāmen néng cóng jīngyàn zhōng tǐhuì zhè zhǒng zuòfǎ de zhòngyàoxìng.", "vietnamese": "Với tư cách người dẫn chương trình truyền hình, tôi thường vận dụng “Quy luật cao điểm - điểm cuối cùng” trong công việc. Ví dụ khi làm chương trình, so với lễ khai mạc, chúng tôi thà dồn nhiều tâm sức hơn vào lễ bế mạc để tăng cường ấn tượng của khán giả đối với chương trình. Dù nhiều người không hiểu về “Quy luật cao điểm - điểm cuối cùng”, nhưng họ có thể cảm nhận được tầm quan trọng của cách làm này qua kinh nghiệm." }
+      ]
+    }
+  ],
+  "reading_questions": [
+    { "question_zh": "什么是心理学家丹尼尔·卡内曼提出的“峰终定律”？", "question_vi": "“Quy luật cao điểm - điểm cuối cùng” do nhà tâm lý học Daniel Kahneman đề xuất là gì?", "answer_zh": "我们对事物的记忆仅在高峰和结尾，而事情的经过对记忆几乎没有影响；高峰之后，终点出现得越迅速，这件事留给我们的印象就越深刻。", "answer_vi": "Ký ức của con người về sự vật chỉ tập trung ở điểm cao trào và phần kết thúc, còn quá trình hầu như không ảnh hưởng; sau cao trào, điểm kết thúc đến càng nhanh thì ấn tượng để lại càng sâu sắc." },
+    { "question_zh": "作者在做电视节目时是如何运用“峰终定律”的？", "question_vi": "Tác giả đã vận dụng “Quy luật cao điểm - điểm cuối cùng” như thế nào khi làm chương trình truyền hình?", "answer_zh": "与开幕式相比，他们宁可把更多的精力集中在闭幕式上，以此加强观众对节目的印象。", "answer_vi": "So với lễ khai mạc, họ thà tập trung nhiều sức lực hơn vào lễ bế mạc để củng cố ấn tượng tốt đẹp của khán giả về chương trình." }
+  ],
+  "exercises": [
+    {
+      "id": "h5s17_ex1", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.159 (Bài tập 1)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ điền vào chỗ trống: “我刚开始学滑雪的时候，最大的______就是要放松，越紧张越容易摔倒。”",
+      "options": ["体会", "运用", "争取", "推荐"],
+      "answer": "体会",
+      "explanation": "Chỗ trống đứng sau định ngữ '最大的' cần một danh từ: 体会 (cảm nhận, điều thấm thía rút ra từ trải nghiệm).",
+      "review_tip": "Nhớ từ loại kép của 体会 (đgt./dt.): 体会重要性 (đgt.) và 最大的体会 (dt.)."
+    },
+    {
+      "id": "h5s17_ex2", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.159 (Bài tập 1)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ điền vào chỗ trống: “学知识不能死记硬背，要懂得灵活地______。”",
+      "options": ["运用", "度过", "集中", "告别"],
+      "answer": "运用",
+      "explanation": "Cụm kết hợp chuẩn trong bảng 词语搭配 tr.158: 灵活地运用 (vận dụng linh hoạt kiến thức).",
+      "review_tip": "Ôn bảng 词语搭配 của 运用: 正确/灵活/成功/科学/广泛地运用."
+    },
+    {
+      "id": "h5s17_ex3", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.159 (Bài tập 2)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn đáp án đúng: “大家要迅速地熟悉新产品，______更好地向顾客推广。”",
+      "options": ["以", "用", "把", "按"],
+      "answer": "以",
+      "explanation": "Liên từ văn viết 以 biểu thị mục đích ('để/nhằm quảng bá tốt hơn tới khách hàng'). Không dùng 用 ở vị trí liên từ mục đích.",
+      "review_tip": "Ôn Chú thích 1 tr.156: liên từ 以 + VP chỉ mục đích."
+    },
+    {
+      "id": "h5s17_ex4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.159 (Bài tập 2)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “这部电影很______，我觉得没必要去看。”",
+      "options": ["平常", "平时", "依然", "深刻"],
+      "answer": "平常",
+      "explanation": "Sau phó từ 很 phải là tính từ: 平常 có cả từ loại tính từ ('bình thường') và danh từ ('ngày thường'), còn 平时 CHỈ là danh từ thời gian.",
+      "review_tip": "Ôn Chú thích 2 tr.157: phân biệt 平常 (tt./dt.) với 平时 (chỉ là dt.)."
+    },
+    {
+      "id": "h5s17_ex5", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.159 (词语辨析 做一做)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ thích hợp nhất: “你不要因为他是小孩子就______他。”",
+      "options": ["轻视", "忽视", "评价", "体会"],
+      "answer": "轻视",
+      "explanation": "轻视 nhấn mạnh thái độ chủ quan coi thường, khinh thường đối tượng (ở đây là trẻ nhỏ); 忽视 nhấn mạnh không chú ý/bỏ sót.",
+      "review_tip": "Ôn bảng 词语辨析 tr.158–159: 忽视—轻视."
+    },
+    {
+      "id": "h5s17_ex6", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.159 (Bài tập 3 - Chọn vị trí)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn vị trí thích hợp cho “宁可” trong câu: “A 我 B 多 C 花点儿钱，D 也要买一个质量好点儿的。”",
+      "options": ["B (我宁可多花点儿钱……)", "A (宁可我多花点儿钱……)", "C (多宁可花点儿钱……)", "D (……宁可也要买……)"],
+      "answer": "B (我宁可多花点儿钱……)",
+      "explanation": "Hai phân câu cùng một chủ ngữ 我, nên phó từ 宁可 đặt sau chủ ngữ 我 và trước động từ 多花点儿钱, phối hợp với 也要 ở vế sau.",
+      "review_tip": "Ôn Chú thích 3 tr.157: S + 宁可……，也要/也不……."
+    },
+    {
+      "id": "h5s17_ex7", "type": "context_mc", "level": "Vận dụng", "origin_tag": "Sách gốc tr.159 (Bài tập 2)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “他被______为本校今年的十大‘优秀毕业生’之一。”",
+      "options": ["评", "评价", "推荐", "主持"],
+      "answer": "评",
+      "explanation": "Cụm cố định 被评为…… nghĩa là 'được bình chọn/trao danh hiệu là...'. Không dùng 评价为.",
+      "review_tip": "Phân biệt 评 (bình chọn danh hiệu: 评为) và 评价 (đánh giá giá trị)."
+    },
+    {
+      "id": "h5s17_ex8", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Ôn tập Bài 16 (Sách gốc tr.152)", "mistake_category": "Từ vựng",
+      "prompt": "【Ôn tập Bài 16】Chọn đáp án đúng: “我本来想完成这个计划以后再去美国，______现在那边有更重要的事，不得不提前去。”",
+      "options": ["结果", "成果", "措施", "趋势"],
+      "answer": "结果",
+      "explanation": "结果 có thể làm liên từ chuyển ngoặt đầu vế sau chỉ kết cục ngoài dự tính; 成果 là danh từ chỉ thành quả tích cực, không dùng làm liên từ.",
+      "review_tip": "Ôn phân biệt 成果—结果 (HSK 5 上 Bài 16)."
+    },
+    {
+      "id": "h5s17_ex9", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Ôn tập Bài 16 (Sách gốc tr.152)", "mistake_category": "Từ vựng",
+      "prompt": "【Ôn tập Bài 16】Chọn đáp án đúng: “研究发现，父亲对教育子女的______程度越高，孩子就越聪明。”",
+      "options": ["参与", "参加", "采取", "报道"],
+      "answer": "参与",
+      "explanation": "参与 nhấn mạnh sự dự phần, can dự sâu vào một quá trình (参与程度 — mức độ tham gia đồng hành); 参加 thường dùng cho hoạt động/tổ chức cụ thể.",
+      "review_tip": "Ôn phân biệt 参与—参加 (HSK 5 上 Bài 16)."
+    },
+    {
+      "id": "h5s17_ex10", "type": "context_mc", "level": "Vận dụng", "origin_tag": "Ôn tập Bài 1 (Sách gốc tr.18)", "mistake_category": "Ngữ pháp",
+      "prompt": "【Ôn tập Bài 1】Chọn đáp án đúng: “你______这么不耐烦？再等五分钟节目就开始了。”",
+      "options": ["怎么", "如何", "宁可", "依然"],
+      "answer": "怎么",
+      "explanation": "Hỏi nguyên nhân ('Sao bạn lại sốt ruột thế?') PHẢI dùng 怎么, tuyệt đối không dùng 如何.",
+      "review_tip": "Ôn bảng 词语辨析 如何—怎么 (HSK 5 上 Bài 1)."
+    }
+  ]
+}

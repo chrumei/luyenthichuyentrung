@@ -1,0 +1,925 @@
+{
+  "id": "hsk4shang_l10",
+  "book_id": "hsk4shang",
+  "textbook": "HSK 4 上",
+  "lesson_number": 10,
+  "title_zh": "幸福的标准",
+  "title_vi": "Tiêu chuẩn của hạnh phúc",
+  "pdf_pages": "Trang 125–135 (Chuẩn HSK 4上 .pdf)",
+  "source_status": "verified_textbook",
+  "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"],
+  "vocabulary": [
+    {
+      "id": "hsk4s_l10_w01", "order": 1, "textbook": "HSK 4 上", "lesson": 10,
+      "hanzi": "礼拜天", "pinyin": "lǐbàitiān",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "chủ nhật",
+        "structure": "礼拜天有空儿吗 / 礼拜天去逛街",
+        "explanation": "Cách nói khẩu ngữ phổ biến của 星期天 / 周日 (Chủ nhật).",
+        "examples": [{ "chinese": "礼拜天有空儿吗？陪我去逛街怎么样？", "pinyin": "Lǐbàitiān yǒu kòngr ma? Péi wǒ qù guàng jiē zěnmeyàng?", "vietnamese": "Chủ nhật cậu có rảnh không? Đi dạo phố với mình nhé?", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "星期日、星期天（口语常用）。",
+      "collocations": ["礼拜天", "这个礼拜", "下个礼拜", "做礼拜"],
+      "usage_note": "Các thứ trong tuần cũng nói được bằng 礼拜: 礼拜一 (Thứ 2) ... 礼拜六 (Thứ 7), 礼拜天/礼拜日 (Chủ nhật).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l10_w02", "order": 2, "textbook": "HSK 4 上", "lesson": 10,
+      "hanzi": "空儿", "pinyin": "kòngr",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "thời gian rỗi",
+        "structure": "有空儿 / 没空儿 / 抽空儿",
+        "explanation": "Đọc thanh 4 kèm âm uốn lưỡi (kòngr), chỉ thời gian rảnh rỗi (cũng có thể viết không có 儿 là 有空).",
+        "examples": [{ "chinese": "礼拜天有空儿吗？陪我去逛街怎么样？", "pinyin": "Lǐbàitiān yǒu kòngr ma? Péi wǒ qù guàng jiē zěnmeyàng?", "vietnamese": "Chủ nhật cậu có thời gian rỗi không? Đi dạo phố cùng mình nhé?", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Đọc kòng / kòngr – chỗ trống, khe hở)",
+          "meanings": ["chỗ trống, khoảng trống, ô trống"],
+          "structure": "填空 / 留个空儿 / 空位",
+          "difference_note": "Vẫn đọc thanh 4 nhưng chỉ khoảng trống về không gian hoặc chỗ trống trong bài tập điền từ (填空).",
+          "examples": [{ "chinese": "请选合适的词语填空。", "pinyin": "Qǐng xuǎn héshì de cíyǔ tiánkòng.", "vietnamese": "Hãy chọn từ ngữ thích hợp điền vào chỗ trống." }]
+        },
+        {
+          "part_of_speech": "形容词 / 名词 (Đọc kōng thanh 1 – trống rỗng / bầu trời)",
+          "meanings": ["1. (tt.) trống rỗng, không có gì (空房间、空手)", "2. (dt.) không trung, bầu trời (天空、空气)"],
+          "structure": "空房间 / 天空 / 空气",
+          "difference_note": "Khác hoàn toàn âm đọc (kōng thanh 1) so với 空儿 (kòngr thanh 4) trong bài.",
+          "examples": [{ "chinese": "盒子里是空的，什么也没有。", "pinyin": "Hézi li shì kōng de, shénme yě méiyǒu.", "vietnamese": "Trong hộp trống rỗng, chẳng có gì cả." }]
+        }
+      ],
+      "chinese_explanation": "读 kòngr 时指闲暇时间或空隙；读 kōng 时指里面没有东西或天空。",
+      "collocations": ["有空儿", "没空儿", "抽空儿", "填空 (kòng)", "空手 (kōng)"],
+      "usage_note": "Cẩn thận phân biệt thanh điệu: 有空儿 (yǒu kòngr – thanh 4) vs 天空/空气 (kōng – thanh 1).",
+      "common_errors": "Đọc nhầm '有空' thành thanh 1 (yǒu kōng) → Phải đọc thanh 4 (yǒu kòng / yǒu kòngr).",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l10_w03", "order": 3, "textbook": "HSK 4 上", "lesson": 10,
+      "hanzi": "母亲", "pinyin": "mǔqīn",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "mẹ",
+        "structure": "我的母亲 / 母亲节 / 父母亲",
+        "explanation": "Cách gọi trang trọng hơn 妈妈, thường dùng khi giới thiệu với người ngoài hoặc trong văn viết.",
+        "examples": [{ "chinese": "除了工作以外，家里还有母亲和儿子需要照顾。", "pinyin": "Chúle gōngzuò yǐwài, jiā li hái yǒu mǔqīn hé érzi xūyào zhàogù.", "vietnamese": "Ngoài công việc ra, trong nhà còn có mẹ và con trai cần chăm sóc.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "妈妈（多用于书面语或较正式的场合）。",
+      "collocations": ["母亲节", "一位母亲", "照顾母亲"],
+      "usage_note": "Đối ứng với 父亲 (fùqīn – cha/bố). Không gọi trực tiếp trước mặt mẹ là '母亲' trong gia đình hiện đại (gọi 妈妈).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l10_w04", "order": 4, "textbook": "HSK 4 上", "lesson": 10,
+      "hanzi": "不过", "pinyin": "búguò",
+      "lesson_usage": {
+        "part_of_speech": "连词 (Liên từ)", "meaning": "nhưng, song",
+        "structure": "Vế 1，不过(，) + Vế 2 (chuyển ý nhẹ nhàng / bổ sung)",
+        "explanation": "Đặt ở đầu vế sau để chuyển ý, bổ sung hoặc điều chỉnh nhẹ ý của vế trước (ngữ khí mềm mại hơn 但是).",
+        "examples": [{ "chinese": "没事儿，谢谢！不过现在我很幸福。", "pinyin": "Méi shìr, xièxie! Búguò xiànzài wǒ hěn xìngfú.", "vietnamese": "Không sao đâu, cảm ơn cậu! Nhưng bây giờ mình thấy rất hạnh phúc.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "副词 (Phó từ – Chú thích 1 tr.127 & 比一比 tr.128)",
+          "meanings": ["chỉ, chẳng qua chỉ (tương đương 仅仅, nhấn mạnh số lượng hoặc phạm vi nhỏ)"],
+          "structure": "不过 + Số lượng / (是) + Cụm động từ",
+          "difference_note": "Khác với liên từ chuyển ý trong bài khóa, phó từ 不过 đứng trong câu (thường trước con số hoặc 是) để nhấn mạnh 'chỉ có thế thôi'; 但是 KHÔNG có cách dùng này.",
+          "examples": [{ "chinese": "去年我不过50公斤，今年怎么这么胖了？", "pinyin": "Qùnián wǒ búguò wǔshí gōngjīn, jīnnián zěnme zhème pàng le?", "vietnamese": "Năm ngoái tôi chỉ có 50 cân, sao năm nay lại béo thế này?" }]
+        },
+        {
+          "part_of_speech": "助词/补语 (Sau tính từ: ……不过)",
+          "meanings": ["vô cùng, cực kỳ, không gì bằng (再……不过了)"],
+          "structure": "再 + Tính từ + 不过了 (再好不过了)",
+          "difference_note": "Đặt sau tính từ tạo thành cấu trúc nhấn mạnh mức độ cao nhất.",
+          "examples": [{ "chinese": "如果能找到一份既感兴趣收入又不错的工作，那就再好不过了。", "pinyin": "Rúguǒ néng zhǎodào yí fèn jì gǎn xìngqù shōurù yòu búcuò de gōngzuò, nà jiù zài hǎo búguò le.", "vietnamese": "Nếu tìm được một công việc vừa có hứng thú lại vừa thu nhập tốt thì không gì tuyệt hơn nữa." }]
+        }
+      ],
+      "chinese_explanation": "作连词表示轻微转折；作副词表示“仅仅”；用在形容词后表示程度最高。",
+      "collocations": ["不过是", "不过……而已", "再好不过了"],
+      "usage_note": "Xem kỹ bảng So sánh '不过—但是' ở tab Ngữ pháp.",
+      "common_errors": "Sai: '他结婚的时候但是20岁' (trước con số mang nghĩa 'chỉ' bắt buộc dùng 不过, không dùng 但是).",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l10_w05", "order": 5, "textbook": "HSK 4 上", "lesson": 10,
+      "hanzi": "永远", "pinyin": "yǒngyuǎn",
+      "lesson_usage": {
+        "part_of_speech": "副词 (Phó từ)", "meaning": "vĩnh viễn, mãi mãi",
+        "structure": "永远 + Động từ / 永远不/不会 + Động từ",
+        "explanation": "Biểu thị thời gian kéo dài lâu dài, không bao giờ chấm dứt (trái nghĩa với 暂时).",
+        "examples": [{ "chinese": "因为在母亲面前我可以做一个永远长不大的孩子。", "pinyin": "Yīnwèi zài mǔqīn miànqián wǒ kěyǐ zuò yí ge yǒngyuǎn zhǎng bu dà de háizi.", "vietnamese": "Bởi vì trước mặt mẹ, mình có thể làm một đứa trẻ mãi mãi không chịu lớn.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "表示时间长久，没有终止。",
+      "collocations": ["永远不会", "永远记得", "永远幸福", "永远不变"],
+      "usage_note": "Có thể dùng trong cả câu khẳng định (永远爱你) và phủ định (永远不会忘记).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l10_w06", "order": 6, "textbook": "HSK 4 上", "lesson": 10,
+      "hanzi": "方向", "pinyin": "fāngxiàng",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "phương hướng, sự định hướng",
+        "structure": "努力的方向 / 发展方向 / 找准方向",
+        "explanation": "Trong bài khóa 1 dùng nghĩa bóng chỉ mục tiêu phấn đấu, hướng đi trong cuộc đời.",
+        "examples": [{ "chinese": "在孩子面前我又是个能照顾他的母亲，这让我有了努力的方向。", "pinyin": "Zài háizi miànqián wǒ yòu shì ge néng zhàogù tā de mǔqīn, zhè ràng wǒ yǒule nǔlì de fāngxiàng.", "vietnamese": "Trước mặt con trai mình lại là một người mẹ có thể chăm sóc con, điều này cho mình phương hướng để nỗ lực.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Nghĩa không gian vật lý)",
+          "meanings": ["phương hướng (Đông, Tây, Nam, Bắc; chiều di chuyển)"],
+          "structure": "走错方向 / 反方向 / 方向盘",
+          "difference_note": "Nghĩa gốc chỉ hướng đi thực tế trên đường hoặc bản đồ.",
+          "examples": [{ "chinese": "咱们好像走错方向了，地铁站在那边。", "pinyin": "Zánmen hǎoxiàng zǒucuò fāngxiàng le, dìtiězhàn zài nàbiān.", "vietnamese": "Hình như chúng mình đi nhầm hướng rồi, ga tàu điện ngầm ở đằng kia cơ." }]
+        }
+      ],
+      "chinese_explanation": "东、南、西、北等方位；也指前进的目标、趋势。",
+      "collocations": ["努力的方向", "发展方向", "走错方向", "方向感"],
+      "usage_note": "Phân biệt với 方面 (phương diện, khía cạnh — VD: 在工作方面).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l10_w07", "order": 7, "textbook": "HSK 4 上", "lesson": 10,
+      "hanzi": "优秀", "pinyin": "yōuxiù",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "xuất sắc, ưu tú",
+        "structure": "很优秀 / 优秀的学生 / 优秀的员工",
+        "explanation": "Khen ngợi phẩm chất, học lực, thành tích hoặc tác phẩm vượt trội.",
+        "examples": [{ "chinese": "你有一个漂亮的女儿，还那么优秀，硕士毕业后就当了翻译。", "pinyin": "Nǐ yǒu yí ge piàoliang de nǚ'ér, hái nàme yōuxiù, shuòshì bì yè hòu jiù dāngle fānyì.", "vietnamese": "Chị có một cô con gái xinh đẹp, lại xuất sắc như vậy, tốt nghiệp thạc sĩ xong liền làm phiên dịch viên.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "品行、学问、成绩、作品等非常好。",
+      "collocations": ["优秀学生", "优秀员工", "成绩优秀", "十分优秀"],
+      "usage_note": "Thường dùng đánh giá con người, thành tích hoặc tác phẩm (không dùng khen đồ ăn hay thời tiết).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l10_w08", "order": 8, "textbook": "HSK 4 上", "lesson": 10,
+      "hanzi": "硕士", "pinyin": "shuòshì",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "thạc sĩ",
+        "structure": "硕士毕业 / 读硕士 / 硕士研究生 / 硕士学位",
+        "explanation": "Học vị cao học nằm giữa 学士 (cử nhân) và 博士 (tiến sĩ).",
+        "examples": [{ "chinese": "硕士毕业后就当了翻译。", "pinyin": "Shuòshì bì yè hòu jiù dāngle fānyì.", "vietnamese": "Sau khi tốt nghiệp thạc sĩ liền làm phiên dịch viên.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "学位的一级，高于学士，低于博士。",
+      "collocations": ["读硕士", "硕士毕业", "硕士研究生", "硕士论文"],
+      "usage_note": "Hệ thống 3 bậc học vị: 学士 (Cử nhân) → 硕士 (Thạc sĩ) → 博士 (Tiến sĩ).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l10_w09", "order": 9, "textbook": "HSK 4 上", "lesson": 10,
+      "hanzi": "翻译", "pinyin": "fānyì",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "phiên dịch viên",
+        "structure": "当翻译 / 一名翻译 / 英语翻译",
+        "explanation": "Trong bài khóa 2, làm danh từ chỉ người làm nghề biên/phiên dịch.",
+        "examples": [{ "chinese": "硕士毕业后就当了翻译。", "pinyin": "Shuòshì bì yè hòu jiù dāngle fānyì.", "vietnamese": "Sau khi tốt nghiệp thạc sĩ liền làm phiên dịch viên.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Động từ)",
+          "meanings": ["dịch, biên dịch, phiên dịch (từ ngôn ngữ này sang ngôn ngữ khác)"],
+          "structure": "把 + Văn bản/Câu + 翻译成 + Ngôn ngữ",
+          "difference_note": "Cực kỳ thông dụng với chức năng động từ chuyển ngữ (khác với danh từ chỉ nghề nghiệp trong bài khóa 2).",
+          "examples": [{ "chinese": "请把这句话翻译成汉语。", "pinyin": "Qǐng bǎ zhè jù huà fānyì chéng Hànyǔ.", "vietnamese": "Hãy dịch câu này sang tiếng Hán." }]
+        }
+      ],
+      "chinese_explanation": "做翻译工作的人；作动词指把一种语言文字的意义用另一种语言文字表达出来。",
+      "collocations": ["当翻译", "翻译成中文", "口语翻译", "翻译小说"],
+      "usage_note": "Khi dùng làm động từ rất hay đi với bổ ngữ kết quả '成' (翻译成 + ngôn ngữ đích).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l10_w10", "order": 10, "textbook": "HSK 4 上", "lesson": 10,
+      "hanzi": "确实", "pinyin": "quèshí",
+      "lesson_usage": {
+        "part_of_speech": "副词 (Phó từ)", "meaning": "thực sự",
+        "structure": "Chủ ngữ + 确实 + Vị ngữ (Động từ / Tính từ)",
+        "explanation": "Khẳng định tính chân thực, xác thực của một tình huống khách quan.",
+        "examples": [{ "chinese": "我女儿确实不错，记得她刚拿到第一个月工资时，就兴奋地拉着我和她爸俩去商场。", "pinyin": "Wǒ nǚ'ér quèshí búcuò, jìde tā gāng nádào dì yī ge yuè gōngzī shí, jiù xīngfèn de lāzhe wǒ hé tā bà liǎ qù shāngchǎng.", "vietnamese": "Con gái tôi thực sự rất khá, nhớ hồi nó vừa nhận tháng lương đầu tiên liền phấn khởi kéo cả hai vợ chồng tôi đi trung tâm thương mại.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "形容词 (Tính từ)",
+          "meanings": ["xác thực, chắc chắn, đáng tin cậy"],
+          "structure": "确实的消息 / 证据确实 / 很确实",
+          "difference_note": "Khác với phó từ đứng trước vị ngữ trong bài khóa, tính từ 确实 làm định ngữ hoặc vị ngữ để đánh giá độ xác thực của tin tức/chứng cứ.",
+          "examples": [{ "chinese": "这个消息非常确实，你可以放心。", "pinyin": "Zhège xiāoxi fēicháng quèshí, nǐ kěyǐ fàngxīn.", "vietnamese": "Tin tức này vô cùng xác thực, bạn có thể yên tâm." }]
+        }
+      ],
+      "chinese_explanation": "作副词表示对客观情况真实性的肯定；作形容词表示真实可靠。",
+      "collocations": ["确实不错", "确实如此", "确实的消息", "确实是"],
+      "usage_note": "Phân biệt với 其实 (thật ra – mang ý chuyển ngoặt nêu sự thật khác dự đoán); 确实 mang ý khẳng định, xác nhận.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l10_w11", "order": 11, "textbook": "HSK 4 上", "lesson": 10,
+      "hanzi": "兴奋", "pinyin": "xīngfèn",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "hăng hái, phấn khởi",
+        "structure": "很兴奋 / 兴奋地 + Động từ / 兴奋得睡不着",
+        "explanation": "Chỉ trạng thái tinh thần kích động vui mừng, háo hức cao độ (mạnh hơn 高兴).",
+        "examples": [{ "chinese": "就兴奋地拉着我和她爸俩去商场，给我们买礼物。", "pinyin": "Jiù xīngfèn de lāzhe wǒ hé tā bà liǎ qù shāngchǎng, gěi wǒmen mǎi lǐwù.", "vietnamese": "Liền phấn khởi kéo hai vợ chồng tôi đi trung tâm thương mại mua quà cho chúng tôi.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "精神振奋、情绪激动。",
+      "collocations": ["非常兴奋", "兴奋地说", "兴奋得睡不着", "感到兴奋"],
+      "usage_note": "Chú ý chữ 兴 ở đây đọc thanh 1 (xīngfèn), khác với thanh 4 trong 高兴 (gāoxìng) và 兴趣 (xìngqù)!",
+      "common_errors": "Đọc nhầm thành xìngfèn → Phải đọc là xīngfèn (thanh 1 – thanh 4).",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l10_w12", "order": 12, "textbook": "HSK 4 上", "lesson": 10,
+      "hanzi": "拉", "pinyin": "lā",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "kéo, lôi, dắt",
+        "structure": "拉着 + Người/Tay + 去…… / 拉开门",
+        "explanation": "Trong bài khóa 2, chỉ động tác nắm tay kéo/dắt ai đó đi cùng một cách thân mật.",
+        "examples": [{ "chinese": "就兴奋地拉着我和她爸俩去商场，给我们买礼物。", "pinyin": "Jiù xīngfèn de lāzhe wǒ hé tā bà liǎ qù shāngchǎng, gěi wǒmen mǎi lǐwù.", "vietnamese": "Liền hăng hái kéo cả hai vợ chồng tôi đi trung tâm thương mại mua quà cho chúng tôi.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Kéo gần/xa khoảng cách – nghĩa bóng)",
+          "meanings": ["kéo gần, thu hẹp hoặc kéo dài (khoảng cách, thời gian)"],
+          "structure": "拉近距离 / 拉长 / 拉开差距",
+          "difference_note": "Xuất hiện ngay trong bài tập 4 tr.134 ('又拉近了人们之间的距离' – lại kéo gần khoảng cách giữa con người với nhau).",
+          "examples": [{ "chinese": "在交流过程中，一方面丰富了知识，另一方面又拉近了人们之间的距离。", "pinyin": "Zài jiāoliú guòchéng zhōng, yì fāngmiàn fēngfùle zhīshi, lìng yì fāngmiàn yòu lājìnle rénmen zhījiān de jùlí.", "vietnamese": "Trong quá trình giao lưu, một mặt làm phong phú kiến thức, mặt khác lại kéo gần khoảng cách giữa mọi người với nhau." }]
+        },
+        {
+          "part_of_speech": "动词 (Chơi nhạc cụ kéo dây / Chở hàng, khách)",
+          "meanings": ["1. kéo đàn (拉小提琴、拉二胡)", "2. chở hàng/chở khách bằng xe (拉货、拉客人)"],
+          "structure": "拉小提琴 / 拉二胡 / 拉肚子 (đau bụng tiêu chảy)",
+          "difference_note": "Các cụm cố định rất hay gặp trong tiếng Trung hằng ngày.",
+          "examples": [{ "chinese": "她从小就学拉小提琴。", "pinyin": "Tā cóngxiǎo jiù xué lā xiǎotíqín.", "vietnamese": "Cô ấy học kéo đàn vi-ô-lông từ nhỏ." }]
+        }
+      ],
+      "chinese_explanation": "用力使东西朝自己移动；牵引；也指演奏弦乐器、拉近距离等。",
+      "collocations": ["拉手", "拉近距离", "拉小提琴", "拉肚子"],
+      "usage_note": "Trái nghĩa trực tiếp trong thao tác cửa là 推 (tuī – đẩy) và 拉 (lā – kéo).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l10_w13", "order": 13, "textbook": "HSK 4 上", "lesson": 10,
+      "hanzi": "建议", "pinyin": "jiànyì",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "kiến nghị, sự đề nghị",
+        "structure": "听听你的建议 / 提建议 / 给……一些建议",
+        "explanation": "Trong bài khóa 3, làm danh từ chỉ lời khuyên, ý kiến đóng góp.",
+        "examples": [{ "chinese": "我还没想好呢，正想听听你的建议。", "pinyin": "Wǒ hái méi xiǎnghǎo ne, zhèng xiǎng tīngting nǐ de jiànyì.", "vietnamese": "Mình vẫn chưa nghĩ xong, đang định nghe thử lời khuyên của cậu đây.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Động từ)",
+          "meanings": ["đề nghị, khuyên, gợi ý (ai đó làm gì)"],
+          "structure": "建议 + (Người) + Động từ/Mệnh đề",
+          "difference_note": "Rất phổ biến với chức năng động từ kiêm ngữ, xuất hiện ngay trong bài tập 3 tr.134 ('朋友建议我平时多开车出去走走').",
+          "examples": [{ "chinese": "朋友建议我平时多开车出去走走，熟悉一下道路情况。", "pinyin": "Péngyou jiànyì wǒ píngshí duō kāi chē chūqù zǒuzou, shúxī yíxià dàolù qíngkuàng.", "vietnamese": "Bạn bè khuyên tôi bình thường nên lái xe ra ngoài đi nhiều hơn để làm quen với tình hình đường sá." }]
+        }
+      ],
+      "chinese_explanation": "向有关方面提出自己的主张；也指所提出的主张、意见。",
+      "collocations": ["提建议", "接受建议", "好建议", "建议你去"],
+      "usage_note": "Lượng từ cho danh từ 建议 là 条 hoặc 个: 一条建议.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l10_w14", "order": 14, "textbook": "HSK 4 上", "lesson": 10,
+      "hanzi": "职业", "pinyin": "zhíyè",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "nghề nghiệp",
+        "structure": "选择职业 / 职业发展 / 理想职业",
+        "explanation": "Chỉ công việc chuyên môn lâu dài mà một người theo đuổi trong xã hội.",
+        "examples": [{ "chinese": "你觉得在选择职业时，收入重要吗？", "pinyin": "Nǐ juéde zài xuǎnzé zhíyè shí, shōurù zhòngyào ma?", "vietnamese": "Cậu thấy khi lựa chọn nghề nghiệp thì thu nhập có quan trọng không?", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "个人在社会中所从事的作为主要生活来源的工作。",
+      "collocations": ["选择职业", "职业运动员", "职业规划", "自由职业"],
+      "usage_note": "Phân biệt với 工作 (công việc cụ thể, việc làm nói chung); 职业 chỉ nghề nghiệp chuyên môn (giáo viên, bác sĩ, luật sư...).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l10_w15", "order": 15, "textbook": "HSK 4 上", "lesson": 10,
+      "hanzi": "关键", "pinyin": "guānjiàn",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "điều quan trọng, điểm mấu chốt",
+        "structure": "……才是关键 / 关键是…… / 找准关键",
+        "explanation": "Trong bài khóa 3, làm danh từ chỉ yếu tố quyết định, cốt lõi nhất của vấn đề.",
+        "examples": [{ "chinese": "在我看来，赚钱多少不是最重要的，兴趣才是关键。", "pinyin": "Zài wǒ kànlái, zhuàn qián duō shǎo bú shì zuì zhòngyào de, xìngqù cái shì guānjiàn.", "vietnamese": "Theo tôi thấy, kiếm được nhiều hay ít tiền không phải quan trọng nhất, hứng thú mới là điểm mấu chốt.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "形容词 (Tính từ)",
+          "meanings": ["then chốt, mấu chốt, mang tính quyết định"],
+          "structure": "很关键 / 最关键的问题 / 关键时刻",
+          "difference_note": "Khi làm tính từ, 关键 nhận phó từ mức độ (很关键, 最关键) và làm định ngữ cho danh từ.",
+          "examples": [{ "chinese": "这场比赛对我们队来说非常关键。", "pinyin": "Zhè chǎng bǐsài duì wǒmen duì láishuō fēicháng guānjiàn.", "vietnamese": "Trận đấu này đối với đội chúng tôi vô cùng then chốt." }]
+        }
+      ],
+      "chinese_explanation": "事物最关紧要的部分，对情况起决定作用的因素；也作形容词表示极重要。",
+      "collocations": ["关键时刻", "关键问题", "关键是", "才是关键"],
+      "usage_note": "Cấu trúc cực hay dùng trong nói và viết: 关键是…… (mấu chốt là...).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l10_w16", "order": 16, "textbook": "HSK 4 上", "lesson": 10,
+      "hanzi": "将来", "pinyin": "jiānglái",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "tương lai",
+        "structure": "将来 + Chủ ngữ + 会…… / 在将来 / 将来的发展",
+        "explanation": "Danh từ thời gian chỉ khoảng thời gian sau hiện tại (tương tự 以后 nhưng dài hơi và trang trọng hơn).",
+        "examples": [{ "chinese": "只有做自己喜欢的事，才会觉得幸福，将来也会有更好的发展。", "pinyin": "Zhǐyǒu zuò zìjǐ xǐhuan de shì, cái huì juéde xìngfú, jiānglái yě huì yǒu gèng hǎo de fāzhǎn.", "vietnamese": "Chỉ khi làm việc mình thích mới thấy hạnh phúc, tương lai cũng sẽ có bước phát triển tốt hơn.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "现在以后的时间；未来。",
+      "collocations": ["将来一定", "将来的生活", "在不久的将来"],
+      "usage_note": "Phân biệt với 以后: 以后 có thể đặt sau mốc thời gian/hành động cụ thể (毕业以后, 吃饭以后), còn 将来 KHÔNG đứng sau mốc sự kiện (chỉ đứng độc lập chỉ tương lai so với hiện tại).",
+      "common_errors": "Sai: '毕业将来我想当老师' → Đúng: '毕业以后我想当老师' hoặc '将来我想当老师'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l10_w17", "order": 17, "textbook": "HSK 4 上", "lesson": 10,
+      "hanzi": "发展", "pinyin": "fāzhǎn",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "phát triển",
+        "structure": "发展经济 / 发展自己 / 发展得很快",
+        "explanation": "Quá trình biến đổi đi lên từ nhỏ đến lớn, từ thấp đến cao; sách ghi từ loại gốc là động từ.",
+        "examples": [{ "chinese": "只有做自己喜欢的事，才会觉得幸福，将来也会有更好的发展。", "pinyin": "Zhǐyǒu zuò zìjǐ xǐhuan de shì, cái huì juéde xìngfú, jiānglái yě huì yǒu gèng hǎo de fāzhǎn.", "vietnamese": "Chỉ khi làm việc mình thích mới thấy hạnh phúc, tương lai cũng sẽ có sự phát triển tốt hơn.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ)",
+          "meanings": ["sự phát triển, triển vọng phát triển"],
+          "structure": "更好的发展 / 经济发展 / 社会的发展",
+          "difference_note": "Ngay trong bài khóa 3 ('有更好的发展'), 发展 thực tế đóng vai trò trung tâm ngữ danh từ sau định ngữ '更好的'!",
+          "examples": [{ "chinese": "近年来，这座城市的经济发展非常快。", "pinyin": "Jìnniánlái, zhè zuò chéngshì de jīngjì fāzhǎn fēicháng kuài.", "vietnamese": "Những năm gần đây, sự phát triển kinh tế của thành phố này vô cùng nhanh." }]
+        }
+      ],
+      "chinese_explanation": "事物由小到大、由简单到复杂、由低级到高级的变化。",
+      "collocations": ["发展经济", "更好的发展", "发展方向", "共同发展"],
+      "usage_note": "Dùng linh hoạt cả động từ (发展自己, 发展很快) lẫn danh từ (社会的发展, 发展空间).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l10_w18", "order": 18, "textbook": "HSK 4 上", "lesson": 10,
+      "hanzi": "躺", "pinyin": "tǎng",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "nằm",
+        "structure": "躺在床上 / 躺在沙发上 / 躺着看书 / 躺下",
+        "explanation": "Đặt cơ thể nằm ngang trên giường, ghế sofa hoặc mặt phẳng (bộ 身 chỉ thân thể).",
+        "examples": [{ "chinese": "然后躺在床上看看书、听听音乐，困了睡睡觉，就很幸福。", "pinyin": "Ránhòu tǎng zài chuáng shang kànkan shū, tīngting yīnyuè, kùnle shuìshui jiào, jiù hěn xìngfú.", "vietnamese": "Sau đó nằm trên giường đọc chút sách, nghe chút nhạc, buồn ngủ thì đi ngủ, thế là rất hạnh phúc rồi.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "人或动物身体倒在物体上（如床上、沙发上）。",
+      "collocations": ["躺在床上", "躺在沙发上", "躺着", "躺一会儿"],
+      "usage_note": "Thường đi với bổ ngữ kết quả '在 + địa điểm' (躺在床上) hoặc trợ từ trạng thái '着' (躺着看电视).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l10_w19", "order": 19, "textbook": "HSK 4 上", "lesson": 10,
+      "hanzi": "困", "pinyin": "kùn",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "buồn ngủ",
+        "structure": "很困 / 困了 / 困得睁不开眼睛",
+        "explanation": "Cảm thấy mí mắt nặng trĩu, muốn đi ngủ.",
+        "examples": [{ "chinese": "困了睡睡觉，就很幸福。", "pinyin": "Kùnle shuìshui jiào, jiù hěn xìngfú.", "vietnamese": "Buồn ngủ thì ngủ một giấc, thế là rất hạnh phúc.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Vây hãm, mắc kẹt) / Hình vị nghĩa 'khó khăn, thiếu thốn'",
+          "meanings": ["1. (đgt.) mắc kẹt, vây khốn (被大雨困在山上)", "2. (hình vị) khó khăn, nghèo túng (困难、贫困)"],
+          "structure": "被……困在…… / 困难 / 贫困",
+          "difference_note": "Nghĩa gốc (chữ 木 bị nhốt trong khung 囗) là bị vây hãm/khó khăn, khác với tính từ khẩu ngữ 'buồn ngủ' trong bài.",
+          "examples": [{ "chinese": "昨天突然下大雨，我们被困在山里两个多小时。", "pinyin": "Zuótiān tūrán xià dàyǔ, wǒmen bèi kùn zài shān li liǎng ge duō xiǎoshí.", "vietnamese": "Hôm qua trời bất ngờ mưa to, chúng tôi bị mắc kẹt trong núi hơn hai tiếng đồng hồ." }]
+        }
+      ],
+      "chinese_explanation": "想睡觉；也指被围住不能脱身，或艰难贫穷（如困难）。",
+      "collocations": ["很困", "困了", "犯困", "被困住"],
+      "usage_note": "Phân biệt với 累 (mệt mỏi về thể lực/tinh thần); 困 chỉ riêng cảm giác buồn ngủ.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l10_w20", "order": 20, "textbook": "HSK 4 上", "lesson": 10,
+      "hanzi": "经济", "pinyin": "jīngjì",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "kinh tế",
+        "structure": "经济条件 / 经济发展 / 经济压力 / 经济法",
+        "explanation": "Trong bài khóa 4, làm danh từ chỉ lĩnh vực tài chính, điều kiện vật chất tiền bạc.",
+        "examples": [{ "chinese": "认为经济条件越好人就越幸福。", "pinyin": "Rènwéi jīngjì tiáojiàn yuè hǎo rén jiù yuè xìngfú.", "vietnamese": "Cho rằng điều kiện kinh tế càng tốt thì con người càng hạnh phúc.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "形容词 (Tính từ)",
+          "meanings": ["tiết kiệm, kinh tế, giá cả phải chăng (ít tốn kém mà hiệu quả)"],
+          "structure": "很经济 / 既经济又实用 / 经济实惠",
+          "difference_note": "Khi làm tính từ, 经济 nhận được phó từ mức độ (很经济) để khen một món đồ hoặc cách làm vừa rẻ vừa hiệu quả.",
+          "examples": [{ "chinese": "骑自行车上班既经济又环保。", "pinyin": "Qí zìxíngchē shàng bān jì jīngjì yòu huánbǎo.", "vietnamese": "Đạp xe đi làm vừa tiết kiệm lại vừa bảo vệ môi trường." }]
+        }
+      ],
+      "chinese_explanation": "社会物质生产和再生产的活动、财政状况；也形容省钱、实惠。",
+      "collocations": ["经济条件", "经济发展", "经济压力", "经济实惠"],
+      "usage_note": "Xem nhóm đồng tự 经 ở cuối bài tr.135: 经济 / 经验 / 经历.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l10_w21", "order": 21, "textbook": "HSK 4 上", "lesson": 10,
+      "hanzi": "条件", "pinyin": "tiáojiàn",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "điều kiện",
+        "structure": "经济条件 / 生活条件 / 符合条件",
+        "explanation": "Chỉ hoàn cảnh, yếu tố ảnh hưởng đến sự việc hoặc tiêu chuẩn, yêu cầu cần đáp ứng.",
+        "examples": [{ "chinese": "认为经济条件越好人就越幸福。", "pinyin": "Rènwéi jīngjì tiáojiàn yuè hǎo rén jiù yuè xìngfú.", "vietnamese": "Cho rằng điều kiện kinh tế càng tốt thì con người càng hạnh phúc.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "影响事物发生、存在或发展的因素；为某事提出的要求或标准。",
+      "collocations": ["经济条件", "生活条件", "工作条件", "符合条件"],
+      "usage_note": "Rất hay đi với động từ 满足 / 符合 (đáp ứng điều kiện) và 提出 (đưa ra điều kiện).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l10_w22", "order": 22, "textbook": "HSK 4 上", "lesson": 10,
+      "hanzi": "富", "pinyin": "fù",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "giàu",
+        "structure": "富人 / 富裕 / 很富",
+        "explanation": "Có nhiều tiền bạc, của cải (trái nghĩa với 穷 – nghèo).",
+        "examples": [{ "chinese": "其实有很多富人过得并不愉快，而有些穷人却过得很快乐。", "pinyin": "Qíshí yǒu hěn duō fù rén guò de bìng bù yúkuài, ér yǒuxiē qióng rén què guò de hěn kuàilè.", "vietnamese": "Thật ra có rất nhiều người giàu sống chẳng hề vui vẻ, còn một số người nghèo lại sống rất hạnh phúc.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "形容词 / 动词 (Phong phú, giàu có về tinh thần/kinh nghiệm)",
+          "meanings": ["dồi dào, giàu có (về kinh nghiệm, tài nguyên, tình cảm)"],
+          "structure": "丰富 / 富有经验 / 富有感情",
+          "difference_note": "Xuất hiện nhiều trong các từ ghép song âm tiết như 丰富 (phong phú), 富有 (giàu có về... ).",
+          "examples": [{ "chinese": "这位老师有着非常丰富的教学经验。", "pinyin": "Zhè wèi lǎoshī yǒuzhe fēicháng fēngfù de jiàoxué jīngyàn.", "vietnamese": "Vị giáo viên này có kinh nghiệm giảng dạy vô cùng phong phú." }]
+        }
+      ],
+      "chinese_explanation": "财产多（跟“穷”相对）；也指充足、多（如丰富）。",
+      "collocations": ["富人", "富有", "丰富", "贫富"],
+      "usage_note": "Cặp từ trái nghĩa đi liền nhau trong bài khóa 4: 富人 (người giàu) ↔ 穷人 (người nghèo).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l10_w23", "order": 23, "textbook": "HSK 4 上", "lesson": 10,
+      "hanzi": "穷", "pinyin": "qióng",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "nghèo",
+        "structure": "穷人 / 很穷 / 贫穷",
+        "explanation": "Thiếu tiền bạc, của cải vật chất (trái nghĩa với 富).",
+        "examples": [{ "chinese": "其实有很多富人过得并不愉快，而有些穷人却过得很快乐。", "pinyin": "Qíshí yǒu hěn duō fù rén guò de bìng bù yúkuài, ér yǒuxiē qióng rén què guò de hěn kuàilè.", "vietnamese": "Thật ra có rất nhiều người giàu sống không hề vui vẻ, còn có những người nghèo lại sống rất hạnh phúc.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "缺乏财物、生活困难（跟“富”相对）。",
+      "collocations": ["穷人", "贫穷", "穷困"],
+      "usage_note": "Trong khẩu ngữ cũng hay nói 没钱 thay cho 穷 để tránh gây tổn thương trực diện.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l10_w24", "order": 24, "textbook": "HSK 4 上", "lesson": 10,
+      "hanzi": "等", "pinyin": "děng",
+      "lesson_usage": {
+        "part_of_speech": "助词 (Trợ từ)", "meaning": "vân vân",
+        "structure": "A、B、C + 等 (hoặc 等等)",
+        "explanation": "Đặt sau danh sách liệt kê để biểu thị vẫn còn nhiều thứ tương tự chưa kể hết (hoặc tóm gọn sau danh sách đã liệt kê đủ).",
+        "examples": [{ "chinese": "因为很多东西都是不能用钱买到的，例如时间、感情、生活经历等。", "pinyin": "Yīnwèi hěn duō dōngxi dōu shì bù néng yòng qián mǎidào de, lìrú shíjiān, gǎnqíng, shēnghuó jīnglì děng.", "vietnamese": "Bởi vì rất nhiều thứ không thể dùng tiền mua được, ví dụ như thời gian, tình cảm, trải nghiệm cuộc sống, vân vân.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Động từ – nghĩa quen thuộc từ HSK 1)",
+          "meanings": ["đợi, chờ, chờ đợi"],
+          "structure": "等一下 / 等人 / 等消息",
+          "difference_note": "Hoàn toàn khác với trợ từ liệt kê 'vân vân' trong bài khóa 4.",
+          "examples": [{ "chinese": "你等我五分钟，我马上下来。", "pinyin": "Nǐ děng wǒ wǔ fēnzhōng, wǒ mǎshàng xiàlái.", "vietnamese": "Bạn đợi tôi năm phút nhé, tôi xuống ngay." }]
+        },
+        {
+          "part_of_speech": "名词 (Cấp bậc, thứ hạng)",
+          "meanings": ["hạng, bậc, loại (一等、高等、中等)"],
+          "structure": "一等奖 / 高等教育 / 中等水平",
+          "difference_note": "Đứng trong từ ghép chỉ phân cấp thứ bậc.",
+          "examples": [{ "chinese": "他在这次比赛中获得了一等奖。", "pinyin": "Tā zài zhè cì bǐsài zhōng huòdéle yīděngjiǎng.", "vietnamese": "Anh ấy đã giành giải Nhất trong cuộc thi lần này." }]
+        }
+      ],
+      "chinese_explanation": "作助词用于列举未尽或列举后煞尾；作动词表示等候；作名词表示等级。",
+      "collocations": ["……等", "等等", "等一下", "一等奖"],
+      "usage_note": "KHÔNG dùng dấu ba chấm '……' đồng thời ngay sau chữ '等' (Sai: 例如时间、感情等…… → Đúng: 例如时间、感情等。).",
+      "common_errors": "Lỗi viết câu văn viết phổ biến: đặt cả '等' lẫn '……' cùng lúc.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l10_w25", "order": 25, "textbook": "HSK 4 上", "lesson": 10,
+      "hanzi": "由于", "pinyin": "yóuyú",
+      "lesson_usage": {
+        "part_of_speech": "连词 (Liên từ)", "meaning": "vì, bởi vì",
+        "structure": "由于 + Mệnh đề nguyên nhân，(所以/因此/而) + Kết quả",
+        "explanation": "Biểu thị nguyên nhân, thường đặt ở vế đầu của câu phức (trang trọng, văn viết hơn 因为).",
+        "examples": [{ "chinese": "当你生病了，如果由于缺钱而不能及时去看医生，你的健康都很难得到保证，就更别说幸福了。", "pinyin": "Dāng nǐ shēng bìng le, rúguǒ yóuyú quē qián ér bù néng jíshí qù kàn yīshēng, nǐ de jiànkāng dōu hěn nán dédào bǎozhèng, jiù gèng biéshuō xìngfú le.", "vietnamese": "Khi bạn bị ốm, nếu vì thiếu tiền mà không thể đi khám bác sĩ kịp thời thì ngay cả sức khỏe của bạn cũng khó được đảm bảo, huống chi là hạnh phúc.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "介词 (Giới từ – Chú thích 4 tr.132)",
+          "meanings": ["do, bởi vì (theo sau là cụm danh từ)"],
+          "structure": "由于 + Cụm danh từ (由于种种原因 / 由于工作的需要 / 由于天气的原因)",
+          "difference_note": "Khác với liên từ 因为 thường theo sau bởi mệnh đề đầy đủ, 由于 còn làm giới từ mang trực tiếp cụm danh từ.",
+          "examples": [{ "chinese": "由于工作的需要，我去年十月去了趟上海，跟一家公司去谈生意。", "pinyin": "Yóuyú gōngzuò de xūyào, wǒ qùnián shíyuè qùle tàng Shànghǎi, gēn yì jiā gōngsī qù tán shēngyi.", "vietnamese": "Do nhu cầu công việc, tháng Mười năm ngoái tôi đã đi Thượng Hải một chuyến để bàn chuyện làm ăn với một công ty." }]
+        }
+      ],
+      "chinese_explanation": "连词或介词，表示原因，多用于复句的前一分句，书面语色彩较强。",
+      "collocations": ["由于……所以……", "由于种种原因", "由于……而……"],
+      "usage_note": "由于 chỉ đặt ở vế đầu (KHÔNG đảo ra vế sau để giải thích ngược kiểu '我没去，是因为下雨' — không nói '是由于下雨' đứng cuối câu rời rạc bằng khẩu ngữ thông thường; và có thể kết hợp với 因此 / 所以 / 而).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l10_w26", "order": 26, "textbook": "HSK 4 上", "lesson": 10,
+      "hanzi": "比如", "pinyin": "bǐrú",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "ví dụ, chẳng hạn",
+        "structure": "比如(说) + Ví dụ cụ thể (+ 等)",
+        "explanation": "Dẫn ra ví dụ cụ thể để giải thích rõ hơn cho sự vật hay tình huống vừa đề cập.",
+        "examples": [{ "chinese": "还有人说，小时候幸福是一件东西，比如一块橡皮、一块糖，得到了就很幸福。", "pinyin": "Hái yǒu rén shuō, xiǎo shíhou xìngfú shì yí jiàn dōngxi, bǐrú yí kuài xiàngpí, yí kuài táng, dédàole jiù hěn xìngfú.", "vietnamese": "Cũng có người nói, hồi nhỏ hạnh phúc là một món đồ, ví dụ một cục tẩy, một viên kẹo, có được là thấy rất hạnh phúc rồi.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "动词，举例说明某事物或某情况（也说“比如说”）。",
+      "collocations": ["比如说", "比如……等"],
+      "usage_note": "Gần nghĩa với 例如 (lìrú – xuất hiện trong bài khóa 4); 比如 thông dụng hơn trong cả khẩu ngữ lẫn văn viết, 例如 thiên về văn viết hơn.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l10_w27", "order": 27, "textbook": "HSK 4 上", "lesson": 10,
+      "hanzi": "橡皮", "pinyin": "xiàngpí",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "(cục) gôm, tẩy",
+        "structure": "一块橡皮 / 用橡皮擦",
+        "explanation": "Cục tẩy bút chì bằng cao su; dùng lượng từ 块 (一块橡皮).",
+        "examples": [{ "chinese": "比如一块橡皮、一块糖，得到了就很幸福。", "pinyin": "Bǐrú yí kuài xiàngpí, yí kuài táng, dédàole jiù hěn xìngfú.", "vietnamese": "Ví dụ một cục tẩy, một viên kẹo, có được là thấy rất hạnh phúc.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "用橡胶制成的擦去铅笔字迹的文具。",
+      "collocations": ["一块橡皮", "橡皮擦"],
+      "usage_note": "Lượng từ chuẩn cho 橡皮 là 块 (一块橡皮).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l10_w28", "order": 28, "textbook": "HSK 4 上", "lesson": 10,
+      "hanzi": "糖", "pinyin": "táng",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "kẹo",
+        "structure": "一块糖 / 一颗糖 / 吃糖",
+        "explanation": "Trong bài khóa 5 chỉ viên kẹo ngọt (量词: 块 / 颗).",
+        "examples": [{ "chinese": "比如一块橡皮、一块糖，得到了就很幸福。", "pinyin": "Bǐrú yí kuài xiàngpí, yí kuài táng, dédàole jiù hěn xìngfú.", "vietnamese": "Ví dụ một cục tẩy, một viên kẹo, có được là thấy rất hạnh phúc.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Đường – gia vị / thành phần dinh dưỡng)",
+          "meanings": ["đường ăn (白糖、红糖), đường huyết (血糖)"],
+          "structure": "加糖 / 少放糖 / 无糖",
+          "difference_note": "Ngoài nghĩa 'kẹo' (糖果), 糖 còn là từ phổ biến nhất chỉ gia vị 'đường'.",
+          "examples": [{ "chinese": "请给我一杯美式咖啡，不要加糖。", "pinyin": "Qǐng gěi wǒ yì bēi Měishì kāfēi, búyào jiā táng.", "vietnamese": "Làm ơn cho tôi một ly cà phê Americano, đừng cho đường nhé." }]
+        }
+      ],
+      "chinese_explanation": "糖果；也指食糖（白糖、红糖等）或碳水化合物中的糖类。",
+      "collocations": ["一块糖", "喜糖", "白糖", "加糖"],
+      "usage_note": "'喜糖' là kẹo cưới (phong tục tặng kẹo chia vui trong đám cưới Trung Quốc).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l10_w29", "order": 29, "textbook": "HSK 4 上", "lesson": 10,
+      "hanzi": "低", "pinyin": "dī",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "thấp",
+        "structure": "高低 / 水平低 / 工资低 / 价格低",
+        "explanation": "Trong bài khóa 5 kết hợp cùng 高 tạo thành danh từ ghép '高低' (mức độ cao thấp của cảm giác hạnh phúc).",
+        "examples": [{ "chinese": "生活的态度决定了我们幸福感的高低。", "pinyin": "Shēnghuó de tàidù juédìngle wǒmen xìngfúgǎn de gāodī.", "vietnamese": "Thái độ sống quyết định mức độ cao thấp của cảm giác hạnh phúc trong chúng ta.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Cúi xuống, hạ thấp)",
+          "meanings": ["cúi (đầu), hạ thấp xuống"],
+          "structure": "低头 / 低着头",
+          "difference_note": "Dùng làm động từ mang tân ngữ '头' (低头 = cúi đầu).",
+          "examples": [{ "chinese": "不要总是低着头看手机，对眼睛不好。", "pinyin": "Búyào zǒngshì dīzhe tóu kàn shǒujī, duì yǎnjing bù hǎo.", "vietnamese": "Đừng lúc nào cũng cúi đầu xem điện thoại, không tốt cho mắt đâu." }]
+        },
+        {
+          "part_of_speech": "形容词 (Âm thanh trầm, nhỏ)",
+          "meanings": ["nhỏ, khe khẽ, trầm (giọng nói, âm thanh)"],
+          "structure": "声音很低 / 低声说话",
+          "difference_note": "Dùng miêu tả âm lượng nhỏ hoặc giọng trầm.",
+          "examples": [{ "chinese": "图书馆里很安静，他低声问了我一个问题。", "pinyin": "Túshūguǎn li hěn ānjìng, tā dīshēng wènle wǒ yí ge wèntí.", "vietnamese": "Trong thư viện rất yên tĩnh, anh ấy khẽ hỏi tôi một câu." }]
+        }
+      ],
+      "chinese_explanation": "从下向上的距离小、水平或程度不及一般（跟“高”相对）；作动词指向下垂（低头）。",
+      "collocations": ["高低", "低头", "价格低", "最低"],
+      "usage_note": "Phân biệt với 矮 (ǎi): 矮 dùng cho chiều cao người/cây/nhà (个子矮); 低 dùng cho trình độ, giá cả, nhiệt độ, vị trí, giọng nói (水平低, 温度低).",
+      "common_errors": "Sai: '他个子很低' → Đúng: '他个子很矮'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l10_w30", "order": 30, "textbook": "HSK 4 上", "lesson": 10,
+      "hanzi": "答案", "pinyin": "dá'àn",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "đáp án, câu trả lời, lời giải",
+        "structure": "标准答案 / 正确答案 / 写答案 / 找到答案",
+        "explanation": "Lời giải hoặc câu trả lời cho câu hỏi, bài thi hay vấn đề trong cuộc sống.",
+        "examples": [{ "chinese": "其实，幸福并没有一个标准答案，每个人对幸福都有不同的理解。", "pinyin": "Qíshí, xìngfú bìng méiyǒu yí ge biāozhǔn dá'àn, měi ge rén duì xìngfú dōu yǒu bù tóng de lǐjiě.", "vietnamese": "Thật ra, hạnh phúc chẳng hề có một đáp án tiêu chuẩn nào, mỗi người đều có cách hiểu khác nhau về hạnh phúc.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "对问题所做的解答。",
+      "collocations": ["标准答案", "正确答案", "参考答案", "寻找答案"],
+      "usage_note": "Chú ý dấu tách âm tiết trong pinyin: dá'àn (phân tách âm节 dá và àn).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    }
+  ],
+  "proper_nouns": [],
+  "same_char_expansion": {
+    "char": "经",
+    "words": [
+      { "hanzi": "经济", "pinyin": "jīngjì", "meaning": "kinh tế" },
+      { "hanzi": "经验", "pinyin": "jīngyàn", "meaning": "kinh nghiệm" },
+      { "hanzi": "经历", "pinyin": "jīnglì", "meaning": "trải qua, trải nghiệm" }
+    ],
+    "examples": [
+      { "chinese": "每个人在工作、学习、经济上都或多或少会有压力。有压力不一定是坏事，关键是要知道怎样做才能给自己减压。看电影、听音乐，还有跟朋友一起聊天儿、散步等，都是非常有效的办法。", "vietnamese": "Mỗi người đều ít nhiều có áp lực trong công việc, học tập và kinh tế. Có áp lực không hẳn là chuyện xấu, mấu chốt là phải biết làm thế nào để tự giảm áp lực. Xem phim, nghe nhạc, hay cùng bạn bè trò chuyện, đi dạo... đều là những cách rất hiệu quả." },
+      { "chinese": "有家广告公司正在招聘高级经理，要求是艺术专业毕业，有两年以上工作经验。我觉得你的条件挺适合的，可以去试试。", "vietnamese": "Có một công ty quảng cáo đang tuyển giám đốc cấp cao, yêu cầu tốt nghiệp chuyên ngành nghệ thuật và có hơn hai năm kinh nghiệm làm việc. Tôi thấy điều kiện của bạn rất phù hợp, có thể đi thử xem." },
+      { "chinese": "人一生中会遇到很多事情，或者愉快，或者伤心，都只能由自己去经历。生活是自己在过，别人说什么不重要，自己感觉快乐就行了。", "vietnamese": "Trong cuộc đời con người sẽ gặp rất nhiều chuyện, hoặc vui vẻ, hoặc đau lòng, đều chỉ có thể do tự mình trải qua. Cuộc sống là do mình tự sống, người khác nói gì không quan trọng, bản thân thấy vui là được rồi." }
+    ]
+  },
+  "grammar": [
+    {
+      "title": "不过",
+      "formula": "(1) Liên từ: Vế 1，不过(，) + Vế 2 (chuyển ý nhẹ)  |  (2) Phó từ: 不过 + (是) + Số lượng/Phạm vi nhỏ",
+      "meaning": "(1) Nhưng, song (chuyển ý uyển chuyển); (2) Chỉ, chẳng qua chỉ (tương đương 仅仅).",
+      "usage": "不过 vừa làm liên từ đặt ở đầu vế sau để bổ sung, điều chỉnh nhẹ ý vế trước; vừa làm phó từ nhấn mạnh số lượng ít hoặc phạm vi nhỏ.",
+      "context": "Khi làm liên từ chuyển ý, 不过 rất hay dùng trong văn nói lịch sự khi muốn góp ý hoặc từ chối khéo léo.",
+      "examples": [
+        { "chinese": "我现在上有老，下有小。除了工作以外，家里还有母亲和儿子需要照顾。不过现在我很幸福。", "pinyin": "Wǒ xiànzài shàng yǒu lǎo, xià yǒu xiǎo. Chúle gōngzuò yǐwài, jiā li hái yǒu mǔqīn hé érzi xūyào zhàogù. Búguò xiànzài wǒ hěn xìngfú.", "vietnamese": "Bây giờ tôi trên có người già, dưới có con nhỏ. Ngoài công việc ra trong nhà còn có mẹ và con trai cần chăm sóc. Nhưng hiện tại tôi rất hạnh phúc." },
+        { "chinese": "你再早来一会儿就好了，那辆车刚开走，你只能等下一辆了。不过也不用多长时间，估计十几分钟就来了。", "pinyin": "Nǐ zài zǎo lái yíhuìr jiù hǎo le, nà liàng chē gāng kāizǒu, nǐ zhǐ néng děng xià yí liàng le. Búguò yě búyòng duō cháng shíjiān, gūjì shí jǐ fēnzhōng jiù lái le.", "vietnamese": "Bạn đến sớm thêm chút nữa thì tốt rồi, chuyến xe đó vừa chạy mất, bạn chỉ đành đợi chuyến sau thôi. Nhưng cũng chẳng mất nhiều thời gian đâu, ước chừng mười mấy phút là tới." },
+        { "chinese": "我们不过谈了点儿工作方面的问题，别的都没谈。", "pinyin": "Wǒmen búguò tánle diǎnr gōngzuò fāngmiàn de wèntí, biéde dōu méi tán.", "vietnamese": "Chúng tôi chỉ bàn chút chuyện liên quan đến công việc thôi, những chuyện khác đều không nói." },
+        { "chinese": "A: 没有你的帮助，我肯定不能按时完成任务，真是太谢谢你了。 B: 你太客气了，我不过是给了些建议，这一切都是你们辛苦努力的结果。", "pinyin": "A: Méiyǒu nǐ de bāngzhù, wǒ kěndìng bù néng ànshí wánchéng rènwu, zhēn shì tài xièxie nǐ le. B: Nǐ tài kèqi le, wǒ búguò shì gěile xiē jiànyì, zhè yíqiè dōu shì nǐmen xīnkǔ nǔlì de jiéguǒ.", "vietnamese": "A: Không có sự giúp đỡ của anh, tôi chắc chắn không thể hoàn thành nhiệm vụ đúng hạn, thật sự cảm ơn anh quá. B: Bạn khách sáo quá rồi, tôi chẳng qua chỉ đưa ra vài lời khuyên thôi, tất cả là kết quả từ sự nỗ lực vất vả của các bạn." }
+      ],
+      "important_notes": "Khi mang nghĩa 'chỉ' (仅仅), thường đi với con số (不过20岁, 不过住两三天) hoặc 是 (不过是).",
+      "common_errors": "Thay nhầm 但是 vào vị trí phó từ 不过 ('他结婚的时候不过20岁' không được đổi thành 但是).",
+      "comparison": "Xem chi tiết bảng So sánh '不过—但是' ngay bên dưới.",
+      "mini_practice": [
+        { "prompt": "这么漂亮的衣服______________________________，买一件吧。（不过）", "sample_answer": "不过两百块钱 / 不过才一百多块", "explanation": "Dùng phó từ 不过 trước số tiền để nhấn mạnh giá cả rất rẻ, chỉ từng ấy thôi." },
+        { "prompt": "A: 中午吃西红柿鸡蛋面怎么样？  B: 可以，______________________________。（不过）", "sample_answer": "不过我不想吃太辣的 / 不过得快一点儿，下午两点我还有会。", "explanation": "Dùng liên từ 不过 bổ sung điều kiện nhẹ nhàng." }
+      ]
+    },
+    {
+      "title": "确实",
+      "formula": "Chủ ngữ + 确实 + Động từ / Tính từ / 是……",
+      "meaning": "Thực sự, quả thực, đúng là.",
+      "usage": "Phó từ 确实 dùng để khẳng định tính xác thực, đúng đắn của một tình huống khách quan.",
+      "context": "Thường dùng khi đồng tình xác nhận lại một nhận định hoặc nhấn mạnh sự thật rõ ràng.",
+      "examples": [
+        { "chinese": "爱情确实是结婚的重要原因，但仅有爱情是不够的。", "pinyin": "Àiqíng quèshí shì jié hūn de zhòngyào yuányīn, dàn jǐn yǒu àiqíng shì bú gòu de.", "vietnamese": "Tình yêu quả thực là nguyên nhân quan trọng của hôn nhân, nhưng chỉ có tình yêu thì chưa đủ." },
+        { "chinese": "A: 好几年没见，你还是这么爱开玩笑，我哪儿有你说的那么年轻。 B: 我说的是真的，你确实比以前更年轻、更漂亮了。", "pinyin": "A: Hǎo jǐ nián méi jiàn, nǐ hái shì zhème ài kāi wánxiào, wǒ nǎr yǒu nǐ shuō de nàme niánqīng. B: Wǒ shuō de shì zhēn de, nǐ quèshí bǐ yǐqián gèng niánqīng, gèng piàoliang le.", "vietnamese": "A: Mấy năm không gặp cậu vẫn hay đùa như thế, mình làm gì trẻ như cậu nói. B: Mình nói thật đấy, cậu thực sự trẻ và xinh hơn trước nhiều." },
+        { "chinese": "我女儿确实不错，记得她刚拿到第一个月工资时，就兴奋地拉着我和她爸俩去商场，给我们买礼物，那时我和她爸心里别提多美了！", "pinyin": "Wǒ nǚ'ér quèshí búcuò, jìde tā gāng nádào dì yī ge yuè gōngzī shí, jiù xīngfèn de lāzhe wǒ hé tā bà liǎ qù shāngchǎng, gěi wǒmen mǎi lǐwù, nà shí wǒ hé tā bà xīn li biétí duō měi le!", "vietnamese": "Con gái tôi quả thực rất khá, nhớ lúc nó vừa nhận tháng lương đầu tiên liền phấn khởi kéo cả hai vợ chồng tôi đi trung tâm thương mại mua quà cho chúng tôi, lúc đó trong lòng vợ chồng tôi vui sướng biết bao!" }
+      ],
+      "important_notes": "Thường đặt sau chủ ngữ, trước vị ngữ để xác nhận thực tế (và có thể đứng trước vế chuyển ý 但/不过 để thừa nhận một mặt trước khi bổ sung mặt khác).",
+      "common_errors": "Nhầm 确实 (khẳng định sự thật) với 其实 (thật ra – chỉnh lại nhận thức khác).",
+      "comparison": "Gần nghĩa với 实在 và 的确 (díquè); 确实 khách quan và phổ biến nhất trong cả văn nói lẫn văn viết.",
+      "mini_practice": [
+        { "prompt": "A: 终于爬上来了，累死我了，这山太高了！  B: ______________________________。（确实）", "sample_answer": "这座山确实挺高的，咱们休息一会儿吧。", "explanation": "Dùng 确实 đồng tình xác nhận nhận định của A." },
+        { "prompt": "A: 教室里太热了，把窗户打开吧。  B: ______________________________。（确实）", "sample_answer": "里面确实很热，我去开窗。", "explanation": "Khẳng định tình trạng khách quan đang diễn ra." }
+      ]
+    },
+    {
+      "title": "在……看来",
+      "formula": "在 + Người / Nhóm người (我 / 很多人 / 父母) + 看来，+ Quan điểm / Ý kiến",
+      "meaning": "Theo tôi thấy / Theo quan điểm của... / Trong mắt của...",
+      "usage": "Thành phần xen giữa (插入语) '在……看来' chỉ ra rằng nội dung tiếp theo là lời phát biểu ý kiến, góc nhìn chủ quan của người được nhắc tới.",
+      "context": "Dùng cực kỳ phổ biến trong văn nghị luận, thảo luận và phỏng vấn (ở đầu câu hoặc giữa câu).",
+      "examples": [
+        { "chinese": "在很多人看来，听流行音乐仅仅是年轻人的爱好，其实现在不少老年人对流行歌曲也很感兴趣。", "pinyin": "Zài hěn duō rén kànlái, tīng liúxíng yīnyuè jǐnjǐn shì niánqīng rén de àihào, qíshí xiànzài bùshǎo lǎoniánrén duì liúxíng gēqǔ yě hěn gǎn xìngqù.", "vietnamese": "Trong mắt nhiều người, nghe nhạc trẻ chỉ là sở thích của giới trẻ, thật ra hiện nay không ít người lớn tuổi cũng rất hứng thú với nhạc trẻ." },
+        { "chinese": "在我看来，比赛结果并不是最重要的，在参加比赛的过程中使自己获得提高更重要。", "pinyin": "Zài wǒ kànlái, bǐsài jiéguǒ bìng bú shì zuì zhòngyào de, zài cānjiā bǐsài de guòchéng zhōng shǐ zìjǐ huòdé tígāo gèng zhòngyào.", "vietnamese": "Theo tôi thấy, kết quả thi đấu không hề là điều quan trọng nhất, việc giúp bản thân tiến bộ trong quá trình tham gia thi đấu mới quan trọng hơn." },
+        { "chinese": "A: 你觉得在选择职业时，收入重要吗？ B: 在我看来，赚钱多少不是最重要的，兴趣才是关键。", "pinyin": "A: Nǐ juéde zài xuǎnzé zhíyè shí, shōurù zhòngyào ma? B: Zài wǒ kànlái, zhuàn qián duō shǎo bú shì zuì zhòngyào de, xìngqù cái shì guānjiàn.", "vietnamese": "A: Cậu thấy khi chọn nghề nghiệp thì thu nhập có quan trọng không? B: Theo mình thấy, kiếm được bao nhiêu tiền không phải quan trọng nhất, hứng thú mới là điểm mấu chốt." }
+      ],
+      "important_notes": "Phần đặt giữa 在 và 看来 phải là NGƯỜI hoặc nhóm người (我, 他, 很多人, 父母, 专家...); không đặt sự vật vào giữa (sai: 在这本书看来).",
+      "common_errors": "Sai: '在我看，这件事很重要' (thiếu 来) hoặc '在我的看来' (thừa 的) → Đúng: '在我看来'.",
+      "comparison": "Gần nghĩa với 我认为 / 对我来说, nhưng 在……看来 nhấn mạnh rõ góc nhìn cá nhân (đối chiếu với góc nhìn người khác).",
+      "mini_practice": [
+        { "prompt": "有人说时间就是金钱，______________________________。（在……看来）", "sample_answer": "但在我看来，时间比金钱更宝贵。", "explanation": "Đặt 在我看来 để đưa ra quan điểm đối chiếu của bản thân." },
+        { "prompt": "A: 你觉得男人和女人在性格上有什么区别？  B: ______________________________。（在……看来）", "sample_answer": "在我看来，男孩子一般比较理性，女孩子比较细心。", "explanation": "Mở đầu câu trả lời nêu nhận xét cá nhân bằng 在我看来." }
+      ]
+    },
+    {
+      "title": "由于",
+      "formula": "(1) Liên từ: 由于 + Mệnh đề nguyên nhân，(所以/因此/而) + Kết quả  |  (2) Giới từ: 由于 + Cụm danh từ，+ Kết quả",
+      "meaning": "Vì, bởi vì, do.",
+      "usage": "由于 dùng làm liên từ theo sau là mệnh đề nguyên nhân (đặt ở vế đầu câu phức), hoặc dùng làm giới từ theo sau là cụm danh từ chỉ nguyên nhân.",
+      "context": "Mang sắc thái trang trọng, văn viết hơn 因为; rất hay dùng trong thông báo, tin tức, văn nghị luận.",
+      "examples": [
+        { "chinese": "今年春节他们本来打算出国去逛逛，但是由于家里的老人突然生病了，所以他们只好放弃了这个计划。", "pinyin": "Jīnnián Chūnjié tāmen běnlái dǎsuàn chū guó qù guàngguang, dànshì yóuyú jiā li de lǎorén tūrán shēng bìng le, suǒyǐ tāmen zhǐhǎo fàngqìle zhège jìhuà.", "vietnamese": "Tết năm nay họ vốn định ra nước ngoài du lịch, nhưng do người lớn tuổi trong nhà đột nhiên bị ốm nên họ đành từ bỏ kế hoạch này." },
+        { "chinese": "当你生病了，如果由于缺钱而不能及时去看医生，你的健康都很难得到保证，就更别说幸福了。", "pinyin": "Dāng nǐ shēng bìng le, rúguǒ yóuyú quē qián ér bù néng jíshí qù kàn yīshēng, nǐ de jiànkāng dōu hěn nán dédào bǎozhèng, jiù gèng biéshuō xìngfú le.", "vietnamese": "Khi bạn bị ốm, nếu do thiếu tiền mà không thể kịp thời đi khám bác sĩ thì sức khỏe của bạn cũng khó đảm bảo, huống chi nói đến hạnh phúc." },
+        { "chinese": "由于种种原因，我们不得不改变原来的计划。", "pinyin": "Yóuyú zhǒngzhǒng yuányīn, wǒmen bùdébù gǎibiàn yuánlái de jìhuà.", "vietnamese": "Vì nhiều nguyên nhân khác nhau, chúng tôi buộc phải thay đổi kế hoạch ban đầu." },
+        { "chinese": "由于工作的需要，我去年十月去了趟上海，跟一家公司去谈生意。", "pinyin": "Yóuyú gōngzuò de xūyào, wǒ qùnián shíyuè qùle tàng Shànghǎi, gēn yì jiā gōngsī qù tán shēngyi.", "vietnamese": "Do yêu cầu công việc, tháng Mười năm ngoái tôi đã đi Thượng Hải một chuyến để bàn chuyện làm ăn với một công ty." }
+      ],
+      "important_notes": "由于 có thể phối hợp với 所以, 因此 hoặc 而 ở vế kết quả; khi đi sau 由于 là cụm danh từ (工作的需要, 天气的原因), ta gọi 由于 là giới từ.",
+      "common_errors": "Đặt 由于 ở vế sau để giải thích ngược kiểu khẩu ngữ (Sai: '我今天迟到了，由于堵车' → Đúng: '由于堵车，我今天迟到了' hoặc '我今天迟到了，因为堵车').",
+      "comparison": "因为 dùng tự do ở cả văn nói và văn viết, đặt được vế trước lẫn vế sau; 由于 trang trọng hơn, chủ yếu đặt vế trước và dùng được trực tiếp trước cụm danh từ.",
+      "mini_practice": [
+        { "prompt": "______________________________，今天考得不怎么样。（由于）", "sample_answer": "由于昨晚没睡好 / 由于平时复习不够认真", "explanation": "Đặt 由于 ở vế đầu nêu nguyên nhân dẫn đến kết quả thi không tốt." },
+        { "prompt": "______________________________，这次活动的举办时间不得不改到下周。（由于）", "sample_answer": "由于天气的原因 / 由于下大雨", "explanation": "Dùng giới từ 由于 + cụm danh từ '天气的原因' rất chuẩn văn phong thông báo." }
+      ]
+    },
+    {
+      "title": "比如",
+      "formula": "Nhận định khái quát，比如(，) + Ví dụ 1、Ví dụ 2 (+ 等)",
+      "meaning": "Ví dụ, chẳng hạn như.",
+      "usage": "Động từ 比如 dùng để dẫn ra một hoặc nhiều ví dụ cụ thể nhằm giải thích, minh họa cho sự vật hoặc tình huống đã nêu trước đó.",
+      "context": "Dùng linh hoạt trong cả giao tiếp đời thường và bài viết giải thích (cũng hay nói 比如说).",
+      "examples": [
+        { "chinese": "还有人说，小时候幸福是一件东西，比如一块橡皮、一块糖，得到了就很幸福。", "pinyin": "Hái yǒu rén shuō, xiǎo shíhou xìngfú shì yí jiàn dōngxi, bǐrú yí kuài xiàngpí, yí kuài táng, dédàole jiù hěn xìngfú.", "vietnamese": "Cũng có người nói, hồi nhỏ hạnh phúc là một món đồ, ví dụ một cục tẩy, một viên kẹo, có được là rất hạnh phúc." },
+        { "chinese": "每个人都有自己特别感兴趣的东西，比如，作家爱写小说，画家爱画画儿。我们只有了解了自己的兴趣爱好后，才能更好地发展自己。", "pinyin": "Měi ge rén dōu yǒu zìjǐ tèbié gǎn xìngqù de dōngxi, bǐrú, zuòjiā ài xiě xiǎoshuō, huàjiā ài huà huàr. Wǒmen zhǐyǒu liǎojiěle zìjǐ de xìngqù àihào hòu, cái néng gèng hǎo de fāzhǎn zìjǐ.", "vietnamese": "Mỗi người đều có điều mình đặc biệt hứng thú, ví dụ nhà văn thích viết tiểu thuyết, họa sĩ thích vẽ tranh. Chỉ sau khi hiểu rõ sở thích của bản thân, chúng ta mới có thể phát triển mình tốt hơn." },
+        { "chinese": "旅游前最好做个计划，比如要去几个地方，怎么坐车，带哪些东西，一共要玩儿多少天等。把这些都提前想好，旅游时才会更轻松。", "pinyin": "Lǚyóu qián zuìhǎo zuò ge jìhuà, bǐrú yào qù jǐ ge dìfang, zěnme zuò chē, dài nǎxiē dōngxi, yígòng yào wánr duōshao tiān děng. Bǎ zhèxiē dōu tíqián xiǎnghǎo, lǚyóu shí cái huì gèng qīngsōng.", "vietnamese": "Trước khi đi du lịch tốt nhất nên lập kế hoạch, ví dụ đi mấy nơi, đi xe thế nào, mang những đồ gì, tổng cộng chơi bao nhiêu ngày... Nghĩ trước tất cả những điều này thì lúc đi du lịch mới nhẹ nhàng hơn." }
+      ],
+      "important_notes": "Sau 比如 có thể có dấu phẩy hoặc không, phía sau có thể là danh từ, cụm động từ hoặc cả mệnh đề hoàn chỉnh.",
+      "common_errors": "Đừng viết '比如……等……' (lặp 等 và dấu ba chấm).",
+      "comparison": "Gần nghĩa với 例如 (thiên về văn viết hơn); 比如 thân thiện và dùng được rộng rãi cả nói lẫn viết.",
+      "mini_practice": [
+        { "prompt": "刚到一个新环境，有很多种方法来使自己快一点儿适应。______________________________。（比如）", "sample_answer": "比如多跟当地人聊天儿，多了解那儿的文化和生活习惯。", "explanation": "Dùng 比如 liệt kê các biện pháp cụ thể giúp nhanh thích nghi." }
+      ]
+    }
+  ],
+  "comparison_section": {
+    "label": "比一比 So sánh",
+    "pair": "不过 — 但是",
+    "term_a": "不过 (búguò)",
+    "term_b": "但是 (dànshì)",
+    "similarity": "Cả hai đều có thể biểu thị sự chuyển ý, đặt ở đầu vế câu sau. VD: 我本来想当律师，不过/但是后来我发现自己对新闻更感兴趣。",
+    "differences": [
+      { "criterion": "Ngữ khí & Ngữ cảnh sử dụng", "a": "Thường dùng trong văn nói để đưa ra ý kiến hoặc lời từ chối một cách nhẹ nhàng, lịch sự, uyển chuyển (对不起，先生，那种蛋糕已经卖完了，不过，您可以尝一下这种饼干，味道也很不错).", "b": "Có ngữ khí chuyển ý mạnh và dứt khoát hơn (别人的方法也许很有效，但是并不一定适合你)." },
+      { "criterion": "Chức năng phó từ (= 仅仅 'chỉ')", "a": "CÓ THỂ làm phó từ mang nghĩa 'chỉ' (仅仅), phía sau thường đi với con số (去年我不过50公斤，今年怎么这么胖了？).", "b": "KHÔNG có cách dùng làm phó từ này." }
+    ]
+  },
+  "texts": [
+    {
+      "id": "t1", "title_zh": "孙月和王静聊王静的生活情况", "title_vi": "Tôn Nguyệt và Vương Tịnh trò chuyện về tình hình cuộc sống của Vương Tịnh",
+      "lines": [
+        { "speaker": "孙月", "chinese": "礼拜天有空儿吗？陪我去逛街怎么样？我想去给丈夫买个生日礼物。", "pinyin": "Lǐbàitiān yǒu kòngr ma? Péi wǒ qù guàng jiē zěnmeyàng? Wǒ xiǎng qù gěi zhàngfu mǎi ge shēngrì lǐwù.", "vietnamese": "Chủ nhật cậu có rảnh không? Đi dạo phố cùng mình nhé? Mình muốn đi mua quà sinh nhật cho chồng." },
+        { "speaker": "王静", "chinese": "我可能去不了，最近事情多。", "pinyin": "Wǒ kěnéng qù bu liǎo, zuìjìn shìqing duō.", "vietnamese": "Mình có lẽ không đi được rồi, dạo này nhiều việc quá." },
+        { "speaker": "孙月", "chinese": "你最近是不是工作特别忙？", "pinyin": "Nǐ zuìjìn shì bu shì gōngzuò tèbié máng?", "vietnamese": "Dạo này cậu công việc bận lắm phải không?" },
+        { "speaker": "王静", "chinese": "我现在上有老，下有小。除了工作以外，家里还有母亲和儿子需要照顾。", "pinyin": "Wǒ xiànzài shàng yǒu lǎo, xià yǒu xiǎo. Chúle gōngzuò yǐwài, jiā li hái yǒu mǔqīn hé érzi xūyào zhàogù.", "vietnamese": "Bây giờ mình trên có người già, dưới có con nhỏ. Ngoài công việc ra, ở nhà còn có mẹ và con trai cần chăm sóc." },
+        { "speaker": "孙月", "chinese": "真是辛苦啊！你最近脸色不太好，是不是哪儿不舒服？要注意身体啊。", "pinyin": "Zhēn shì xīnkǔ a! Nǐ zuìjìn liǎnsè bú tài hǎo, shì bu shì nǎr bù shūfu? Yào zhùyì shēntǐ a.", "vietnamese": "Thật là vất vả quá! Dạo này sắc mặt cậu không tốt lắm, có phải thấy không khỏe ở đâu không? Phải chú ý sức khỏe đấy nhé." },
+        { "speaker": "王静", "chinese": "没事儿，谢谢！不过现在我很幸福，因为在母亲面前我可以做一个永远长不大的孩子；在孩子面前我又是个能照顾他的母亲，这让我有了努力的方向。", "pinyin": "Méi shìr, xièxie! Búguò xiànzài wǒ hěn xìngfú, yīnwèi zài mǔqīn miànqián wǒ kěyǐ zuò yí ge yǒngyuǎn zhǎng bu dà de háizi; zài háizi miànqián wǒ yòu shì ge néng zhàogù tā de mǔqīn, zhè ràng wǒ yǒule nǔlì de fāngxiàng.", "vietnamese": "Không sao đâu, cảm ơn cậu! Nhưng bây giờ mình thấy rất hạnh phúc, vì trước mặt mẹ mình có thể làm một đứa trẻ mãi chẳng chịu lớn; còn trước mặt con mình lại là một người mẹ có thể chăm sóc con, điều đó mang lại cho mình phương hướng để nỗ lực." }
+      ]
+    },
+    {
+      "id": "t2", "title_zh": "高老师和李老师在谈幸福", "title_vi": "Cô Cao và thầy Lý trò chuyện về hạnh phúc",
+      "lines": [
+        { "speaker": "高老师", "chinese": "你看人家王老师，刚来这儿工作三年就当了教授，还有个好妻子，真让人羡慕！", "pinyin": "Nǐ kàn rénjia Wáng lǎoshī, gāng lái zhèr gōngzuò sān nián jiù dāngle jiàoshòu, hái yǒu ge hǎo qīzi, zhēn ràng rén xiànmù!", "vietnamese": "Thầy xem thầy Vương kìa, mới đến đây làm việc có ba năm đã lên giáo sư, lại có người vợ tốt, thật khiến người ta ngưỡng mộ!" },
+        { "speaker": "李老师", "chinese": "其实，你在别人眼中也是很幸福的，只是你自己没有发现。", "pinyin": "Qíshí, nǐ zài biérén yǎn zhōng yě shì hěn xìngfú de, zhǐshì nǐ zìjǐ méiyǒu fāxiàn.", "vietnamese": "Thật ra trong mắt người khác chị cũng rất hạnh phúc đấy, chỉ là bản thân chị chưa nhận ra thôi." },
+        { "speaker": "高老师", "chinese": "是吗？我哪能跟王老师比啊？", "pinyin": "Shì ma? Wǒ nǎ néng gēn Wáng lǎoshī bǐ a?", "vietnamese": "Thật sao? Tôi sao có thể so với thầy Vương được?" },
+        { "speaker": "李老师", "chinese": "你有一个漂亮的女儿，还那么优秀，硕士毕业后就当了翻译。", "pinyin": "Nǐ yǒu yí ge piàoliang de nǚ'ér, hái nàme yōuxiù, shuòshì bì yè hòu jiù dāngle fānyì.", "vietnamese": "Chị có một cô con gái xinh đẹp, lại xuất sắc thế kia, tốt nghiệp thạc sĩ xong liền làm phiên dịch viên." },
+        { "speaker": "高老师", "chinese": "我女儿确实不错，记得她刚拿到第一个月工资时，就兴奋地拉着我和她爸俩去商场，给我们买礼物，那时我和她爸心里别提多美了！", "pinyin": "Wǒ nǚ'ér quèshí búcuò, jìde tā gāng nádào dì yī ge yuè gōngzī shí, jiù xīngfèn de lāzhe wǒ hé tā bà liǎ qù shāngchǎng, gěi wǒmen mǎi lǐwù, nà shí wǒ hé tā bà xīn li biétí duō měi le!", "vietnamese": "Con gái tôi quả thực rất giỏi, nhớ lúc nó vừa nhận tháng lương đầu tiên liền phấn khởi kéo cả tôi và bố nó đi trung tâm thương mại mua quà cho chúng tôi, lúc đó trong lòng vợ chồng tôi vui sướng khôn xiết!" },
+        { "speaker": "李老师", "chinese": "所以说每个人有每个人的生活，不用羡慕别人。你羡慕别人的时候，他们可能也正在羡慕你呢。", "pinyin": "Suǒyǐ shuō měi ge rén yǒu měi ge rén de shēnghuó, bú yòng xiànmù biérén. Nǐ xiànmù biérén de shíhou, tāmen kěnéng yě zhèngzài xiànmù nǐ ne.", "vietnamese": "Cho nên mới nói mỗi người có cuộc sống riêng của mình, chẳng cần ghen tị ngưỡng mộ ai cả. Khi chị đang ngưỡng mộ người khác, biết đâu họ cũng đang ngưỡng mộ chị đấy." }
+      ]
+    },
+    {
+      "id": "t3", "title_zh": "小雨和小夏聊找工作的事情", "title_vi": "Tiểu Vũ và Tiểu Hạ nói chuyện về việc tìm việc làm",
+      "lines": [
+        { "speaker": "小雨", "chinese": "时间过得真快，马上就要毕业了。毕业后你打算做什么？", "pinyin": "Shíjiān guò de zhēn kuài, mǎshàng jiù yào bì yè le. Bì yè hòu nǐ dǎsuàn zuò shénme?", "vietnamese": "Thời gian trôi nhanh quá, sắp tốt nghiệp đến nơi rồi. Sau khi tốt nghiệp cậu dự định làm gì?" },
+        { "speaker": "小夏", "chinese": "我还没想好呢，正想听听你的建议。你觉得在选择职业时，收入重要吗？", "pinyin": "Wǒ hái méi xiǎnghǎo ne, zhèng xiǎng tīngting nǐ de jiànyì. Nǐ juéde zài xuǎnzé zhíyè shí, shōurù zhòngyào ma?", "vietnamese": "Mình vẫn chưa nghĩ kỹ nữa, đang muốn nghe lời khuyên của cậu đây. Cậu thấy khi chọn nghề nghiệp thì thu nhập có quan trọng không?" },
+        { "speaker": "小雨", "chinese": "在我看来，赚钱多少不是最重要的，兴趣才是关键。只有做自己喜欢的事，才会觉得幸福，将来也会有更好的发展。", "pinyin": "Zài wǒ kànlái, zhuàn qián duō shǎo bú shì zuì zhòngyào de, xìngqù cái shì guānjiàn. Zhǐyǒu zuò zìjǐ xǐhuan de shì, cái huì juéde xìngfú, jiānglái yě huì yǒu gèng hǎo de fāzhǎn.", "vietnamese": "Theo mình thấy, kiếm được nhiều hay ít tiền không phải quan trọng nhất, hứng thú mới là điểm mấu chốt. Chỉ khi làm việc mình thích mới cảm thấy hạnh phúc, tương lai cũng sẽ có bước phát triển tốt hơn." },
+        { "speaker": "小夏", "chinese": "我也这么想。如果我带着热情去做自己喜欢的工作，就不会感到累。不过，现在什么东西都那么贵，生活压力太大了，没有钱也不会过得幸福啊！", "pinyin": "Wǒ yě zhème xiǎng. Rúguǒ wǒ dàizhe rèqíng qù zuò zìjǐ xǐhuan de gōngzuò, jiù bú huì gǎndào lèi. Búguò, xiànzài shénme dōngxi dōu nàme guì, shēnghuó yālì tài dà le, méiyǒu qián yě bú huì guò de xìngfú a!", "vietnamese": "Mình cũng nghĩ thế. Nếu mang nhiệt huyết đi làm công việc mình thích thì sẽ không thấy mệt. Nhưng mà bây giờ thứ gì cũng đắt đỏ quá, áp lực cuộc sống quá lớn, không có tiền thì cũng khó mà sống hạnh phúc được!" },
+        { "speaker": "小雨", "chinese": "幸福其实很简单，它不是只要有钱就能买到的。我觉得工作结束回家后，洗个热水澡，然后躺在床上看看书、听听音乐，困了睡睡觉，就很幸福。", "pinyin": "Xìngfú qíshí hěn jiǎndān, tā bú shì zhǐyào yǒu qián jiù néng mǎidào de. Wǒ juéde gōngzuò jiéshù huí jiā hòu, xǐ ge rè shuǐ zǎo, ránhòu tǎng zài chuáng shang kànkan shū, tīngting yīnyuè, kùnle shuìshui jiào, jiù hěn xìngfú.", "vietnamese": "Hạnh phúc thật ra rất đơn giản, nó không phải cứ có tiền là mua được. Mình thấy tan làm về nhà tắm nước nóng, rồi nằm trên giường đọc chút sách, nghe chút nhạc, buồn ngủ thì ngủ một giấc, thế là rất hạnh phúc rồi." },
+        { "speaker": "小夏", "chinese": "你说的也对。如果能找到一份自己既感兴趣，收入又不错的工作，那就最好了。", "pinyin": "Nǐ shuō de yě duì. Rúguǒ néng zhǎodào yí fèn zìjǐ jì gǎn xìngqù, shōurù yòu búcuò de gōngzuò, nà jiù zuì hǎo le.", "vietnamese": "Cậu nói cũng đúng. Nếu có thể tìm được một công việc bản thân vừa có hứng thú mà thu nhập lại khá thì tuyệt nhất rồi." }
+      ]
+    },
+    {
+      "id": "t4", "title_zh": "金钱与幸福的关系", "title_vi": "Mối quan hệ giữa tiền bạc và hạnh phúc",
+      "lines": [
+        { "speaker": "", "chinese": "有的人希望穿得再好一些，房子再大一些，认为经济条件越好人就越幸福。其实有很多富人过得并不愉快，而有些穷人却过得很快乐。", "pinyin": "Yǒude rén xīwàng chuān de zài hǎo yìxiē, fángzi zài dà yìxiē, rènwéi jīngjì tiáojiàn yuè hǎo rén jiù yuè xìngfú. Qíshí yǒu hěn duō fù rén guò de bìng bù yúkuài, ér yǒuxiē qióng rén què guò de hěn kuàilè.", "vietnamese": "Có người mong muốn mặc đẹp hơn nữa, nhà to hơn nữa, cho rằng điều kiện kinh tế càng tốt thì con người càng hạnh phúc. Thật ra có rất nhiều người giàu sống không hề vui vẻ, còn một số người nghèo lại sống rất hạnh phúc." },
+        { "speaker": "", "chinese": "有钱不一定幸福，因为很多东西都是不能用钱买到的，例如时间、感情、生活经历等。", "pinyin": "Yǒu qián bù yídìng xìngfú, yīnwèi hěn duō dōngxi dōu shì bù néng yòng qián mǎidào de, lìrú shíjiān, gǎnqíng, shēnghuó jīnglì děng.", "vietnamese": "Có tiền không nhất định hạnh phúc, bởi vì rất nhiều thứ đều không thể dùng tiền mua được, ví dụ như thời gian, tình cảm, trải nghiệm cuộc sống, vân vân." },
+        { "speaker": "", "chinese": "但是，从另外一个方面看，如果没钱，也很难过得幸福。当你生病了，如果由于缺钱而不能及时去看医生，你的健康都很难得到保证，就更别说幸福了。", "pinyin": "Dànshì, cóng lìngwài yí ge fāngmiàn kàn, rúguǒ méi qián, yě hěn nán guò de xìngfú. Dāng nǐ shēng bìng le, rúguǒ yóuyú quē qián ér bù néng jíshí qù kàn yīshēng, nǐ de jiànkāng dōu hěn nán dédào bǎozhèng, jiù gèng biéshuō xìngfú le.", "vietnamese": "Thế nhưng nhìn từ một khía cạnh khác, nếu không có tiền thì cũng rất khó sống hạnh phúc. Khi bạn bị ốm, nếu vì thiếu tiền mà không thể đi khám bác sĩ kịp thời thì sức khỏe của bạn còn khó được đảm bảo, huống chi nói đến hạnh phúc." }
+      ]
+    },
+    {
+      "id": "t5", "title_zh": "幸福的标准", "title_vi": "Tiêu chuẩn của hạnh phúc",
+      "lines": [
+        { "speaker": "", "chinese": "什么是幸福？有的人认为，工资高、能赚钱就是幸福；有的人认为，心情放松、身体健康才是幸福；也有人认为，能帮助别人就是一种幸福。", "pinyin": "Shénme shì xìngfú? Yǒude rén rènwéi, gōngzī gāo, néng zhuàn qián jiù shì xìngfú; yǒude rén rènwéi, xīnqíng fàngsōng, shēntǐ jiànkāng cái shì xìngfú; yě yǒu rén rènwéi, néng bāngzhù biérén jiù shì yì zhǒng xìngfú.", "vietnamese": "Hạnh phúc là gì? Có người cho rằng lương cao, kiếm được tiền chính là hạnh phúc; có người cho rằng tâm trạng thoải mái, cơ thể khỏe mạnh mới là hạnh phúc; cũng có người cho rằng có thể giúp đỡ người khác chính là một niềm hạnh phúc." },
+        { "speaker": "", "chinese": "还有人说，小时候幸福是一件东西，比如一块橡皮、一块糖，得到了就很幸福；长大后幸福是一种态度，生活的态度决定了我们幸福感的高低。", "pinyin": "Hái yǒu rén shuō, xiǎo shíhou xìngfú shì yí jiàn dōngxi, bǐrú yí kuài xiàngpí, yí kuài táng, dédàole jiù hěn xìngfú; zhǎngdà hòu xìngfú shì yì zhǒng tàidù, shēnghuó de tàidù juédìngle wǒmen xìngfúgǎn de gāodī.", "vietnamese": "Cũng có người nói, hồi nhỏ hạnh phúc là một món đồ, ví dụ một cục tẩy, một viên kẹo, có được là thấy rất hạnh phúc; khi lớn lên hạnh phúc là một thái độ, thái độ sống quyết định mức độ cao thấp của cảm giác hạnh phúc nơi ta." },
+        { "speaker": "", "chinese": "那怎样才算是真正的幸福？其实，幸福并没有一个标准答案，每个人对幸福都有不同的理解。不管你认为幸福是什么，只要你用心去找，就一定能发现它。", "pinyin": "Nà zěnyàng cái suàn shì zhēnzhèng de xìngfú? Qíshí, xìngfú bìng méiyǒu yí ge biāozhǔn dá'àn, měi ge rén duì xìngfú dōu yǒu bù tóng de lǐjiě. Bùguǎn nǐ rènwéi xìngfú shì shénme, zhǐyào nǐ yòng xīn qù zhǎo, jiù yídìng néng fāxiàn tā.", "vietnamese": "Vậy như thế nào mới gọi là hạnh phúc đích thực? Thật ra hạnh phúc không hề có một đáp án tiêu chuẩn nào, mỗi người đều có cách hiểu khác nhau về hạnh phúc. Bất kể bạn cho rằng hạnh phúc là gì, chỉ cần bạn để tâm đi tìm thì nhất định sẽ phát hiện ra nó." }
+      ]
+    }
+  ],
+  "reading_questions": [
+    { "question_zh": "孙月让王静陪她去做什么？王静为什么去不了？", "question_vi": "Tôn Nguyệt rủ Vương Tịnh đi làm gì cùng mình? Vì sao Vương Tịnh không đi được?", "answer_zh": "孙月想让王静礼拜天陪她去逛街，给丈夫买生日礼物。王静因为最近工作忙，家里还有母亲和儿子需要照顾，所以去不了。", "answer_vi": "Tôn Nguyệt muốn rủ Vương Tịnh đi dạo phố mua quà sinh nhật cho chồng vào Chủ nhật. Vương Tịnh không đi được vì dạo này công việc bận, ở nhà còn phải chăm sóc mẹ và con trai." },
+    { "question_zh": "王静为什么很辛苦？她为什么也觉得很幸福？", "question_vi": "Vì sao Vương Tịnh rất vất vả? Vì sao cô ấy vẫn thấy rất hạnh phúc?", "answer_zh": "她上有老下有小，除了工作还要照顾母亲和儿子，所以很辛苦。但她觉得在母亲面前能做永远长不大的孩子，在孩子面前又能照顾他，这给了她努力的方向，所以很幸福。", "answer_vi": "Cô ấy vất vả vì vừa đi làm vừa phải lo cho cả mẹ lẫn con nhỏ. Nhưng cô thấy hạnh phúc vì trước mặt mẹ được làm đứa trẻ bé bỏng, trước mặt con lại có vai trò chăm sóc và điều đó cho cô động lực cố gắng." },
+    { "question_zh": "高老师为什么羡慕王老师？", "question_vi": "Tại sao cô Cao lại ngưỡng mộ thầy Vương?", "answer_zh": "因为王老师刚来工作三年就当了教授，而且还有个好妻子。", "answer_vi": "Vì thầy Vương mới đến làm việc ba năm đã trở thành giáo sư và còn có một người vợ tốt." },
+    { "question_zh": "为什么说高老师在别人眼中也是很幸福的？", "question_vi": "Tại sao nói trong mắt người khác cô Cao cũng rất hạnh phúc?", "answer_zh": "因为她有一个漂亮又优秀的女儿，硕士毕业后当了翻译，拿到第一个月工资就兴奋地给父母买礼物。", "answer_vi": "Vì cô có một cô con gái xinh đẹp, xuất sắc, tốt nghiệp thạc sĩ liền làm phiên dịch viên và vừa lĩnh tháng lương đầu đã phấn khởi mua quà tặng bố mẹ." },
+    { "question_zh": "小雨对选择职业有什么建议？", "question_vi": "Tiểu Vũ có lời khuyên gì về việc chọn nghề nghiệp?", "answer_zh": "小雨认为赚钱多少不是最重要的，兴趣才是关键，只有做自己喜欢的事才会幸福，将来也有更好的发展。", "answer_vi": "Tiểu Vũ cho rằng kiếm nhiều hay ít tiền không phải quan trọng nhất, hứng thú mới là mấu chốt, chỉ khi làm việc mình thích mới hạnh phúc và tương lai phát triển tốt hơn." },
+    { "question_zh": "在小雨看来，什么是幸福？小夏呢？", "question_vi": "Theo Tiểu Vũ thì hạnh phúc là gì? Còn Tiểu Hạ thì sao?", "answer_zh": "在小雨看来，下班回家洗个热水澡、躺在床上看书听音乐、困了睡觉就很幸福。小夏则认为没有钱很难幸福，如果能找到一份既感兴趣收入又不错的工作就最好了。", "answer_vi": "Theo Tiểu Vũ, tan làm về tắm nước nóng, nằm trên giường đọc sách nghe nhạc, buồn ngủ thì ngủ đã là hạnh phúc. Còn Tiểu Hạ thấy không có tiền cũng khó hạnh phúc, tốt nhất là tìm được việc vừa thích vừa có thu nhập tốt." },
+    { "question_zh": "为什么说有钱不一定幸福？哪些东西是不能用钱买到的？", "question_vi": "Tại sao nói có tiền chưa chắc đã hạnh phúc? Những thứ nào không thể dùng tiền mua được?", "answer_zh": "因为很多富人过得并不愉快，而且很多宝贵的东西不能用钱买到，例如时间、感情、生活经历等。", "answer_vi": "Vì nhiều người giàu sống không vui vẻ, hơn nữa nhiều thứ quý giá không mua được bằng tiền như thời gian, tình cảm, trải nghiệm cuộc sống..." },
+    { "question_zh": "为什么说没钱也很难过得幸福？", "question_vi": "Vì sao nói không có tiền cũng rất khó sống hạnh phúc?", "answer_zh": "因为当生病时，如果由于缺钱而不能及时去看医生，连健康都很难保证，就更谈不上幸福了。", "answer_vi": "Vì lúc ốm đau, nếu thiếu tiền không thể kịp thời đi khám bác sĩ thì ngay cả sức khỏe cũng khó đảm bảo, huống hồ là hạnh phúc." },
+    { "question_zh": "关于幸福，人们有哪些不同的看法？", "question_vi": "Về hạnh phúc, mọi người có những quan điểm khác nhau nào?", "answer_zh": "有人认为工资高能赚钱就是幸福；有人认为心情放松、身体健康才是幸福；有人认为能帮助别人就是幸福；还有人说小时候幸福是橡皮或糖，长大后幸福是一种生活态度。", "answer_vi": "Có người cho rằng lương cao kiếm được tiền là hạnh phúc; người khác cho rằng tinh thần thoải mái, sức khỏe tốt mới là hạnh phúc; có người lại thấy giúp đỡ người khác là hạnh phúc; và có người nói lúc nhỏ hạnh phúc là cục tẩy, viên kẹo, lớn lên hạnh phúc là thái độ sống." },
+    { "question_zh": "怎样才算是真正的幸福？", "question_vi": "Như thế nào mới gọi là hạnh phúc thực sự?", "answer_zh": "幸福没有标准答案，每个人理解不同，只要你用心去寻找，就一定能发现属于自己的幸福。", "answer_vi": "Hạnh phúc không có đáp án tiêu chuẩn, mỗi người có cách hiểu riêng, chỉ cần bạn để tâm tìm kiếm thì nhất định sẽ tìm thấy hạnh phúc của chính mình." }
+  ],
+  "exercises": [
+    {
+      "id": "h4s10_ex1", "type": "meaning_mc", "level": "Nhận biết", "origin_tag": "Bài 10 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Trong câu “礼拜天有空儿吗？” từ “空儿” phải đọc đúng thanh điệu và hiểu đúng nghĩa như thế nào?",
+      "options": ["kòngr (thanh 4) – thời gian rỗi", "kōngr (thanh 1) – bầu trời, không trung", "kòngr (thanh 4) – trống rỗng", "kǒngr (thanh 3) – sợ hãi"],
+      "answer": "kòngr (thanh 4) – thời gian rỗi",
+      "explanation": "有空儿 đọc là yǒu kòngr (thanh 4), nghĩa là có thời gian rảnh rỗi (khác với kōng thanh 1 trong 天空/空房间).",
+      "review_tip": "Ôn kỹ âm đọc đa âm của từ #2 空儿."
+    },
+    {
+      "id": "h4s10_ex2", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.134", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ thích hợp điền vào chỗ trống: “在交流过程中，一方面，丰富了知识，提高了能力，另一方面，又______近了人们之间的距离。”",
+      "options": ["拉", "躺", "低", "困"],
+      "answer": "拉",
+      "explanation": "Cụm cố định rất đẹp: 拉近了人们之间的距离 (kéo gần khoảng cách giữa con người với nhau).",
+      "review_tip": "Ôn các nghĩa mở rộng của động từ #12 拉."
+    },
+    {
+      "id": "h4s10_ex3", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.134", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ thích hợp điền vào chỗ trống: “A: 房间里这么暗，怎么不开灯呀？你身体不舒服？ B: 没有，我本来______在沙发上看书，结果睡着了。”",
+      "options": ["躺", "拉", "困", "等"],
+      "answer": "躺",
+      "explanation": "躺在沙发上看书 = nằm trên ghế sofa đọc sách.",
+      "review_tip": "Ôn động từ #18 躺 (躺在床上 / 躺在沙发上)."
+    },
+    {
+      "id": "h4s10_ex4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "比一比 tr.129", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ ĐÚNG cho câu: “这次亲戚来北京______住两三天，就让他来家里住吧，不用住宾馆了。”",
+      "options": ["不过", "但是", "Cả 不过 và 但是 đều đúng", "可是"],
+      "answer": "不过",
+      "explanation": "Chỗ trống đứng trước số lượng '两三天' mang nghĩa 'chỉ' (仅仅). Chỉ 不过 có chức năng phó từ đứng trước con số, còn 但是 và 可是 KHÔNG có cách dùng này!",
+      "review_tip": "Xem lại Điểm khác nhau #2 trong bảng So sánh 不过—但是 (tr.128)."
+    },
+    {
+      "id": "h4s10_ex5", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "比一比 tr.129", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ phù hợp nhất cho lời từ chối nhẹ nhàng lịch sự: “对不起，先生，我们店的刷卡机坏了，只能用现金。______商场附近有家银行，您出了门右转，走到头儿就能看到。”",
+      "options": ["不过", "由于", "难道", "因此"],
+      "answer": "不过",
+      "explanation": "Trong văn nói lịch sự khi muốn chuyển ý nhẹ nhàng, đưa ra gợi ý thay thế sau lời xin lỗi/từ chối, dùng 不过 rất tự nhiên và uyển chuyển.",
+      "review_tip": "Xem lại Điểm khác nhau #1 trong bảng So sánh 不过—但是."
+    },
+    {
+      "id": "h4s10_ex6", "type": "context_mc", "level": "Phân biệt", "origin_tag": "同字词 tr.135", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ nhóm đồng tự '经' phù hợp: “我们长大的过程，就是解决一个又一个问题，在失败中慢慢积累______，在成功中慢慢获得信心的过程。”",
+      "options": ["经验", "经历", "经济", "经过"],
+      "answer": "经验",
+      "explanation": "积累经验 = tích lũy kinh nghiệm (những kiến thức, bài học đúc rút từ thực tiễn).",
+      "review_tip": "Ôn phân biệt nhóm đồng tự 经 (经济 / 经验 / 经历) ở tr.135."
+    },
+    {
+      "id": "h4s10_ex7", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Bài 10 & Ôn tập (30%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Câu nào sau đây sử dụng cấu trúc “在……看来” và “由于” ĐÚNG ngữ pháp?",
+      "options": [
+        "在我看来，由于天气的原因，活动改到下周是最好的办法。",
+        "在我的看来，由于天气的原因，活动改到下周是最好的办法。",
+        "在我看，活动改到下周，由于下大雨了。",
+        "在这本书看来，由于工作忙所以他没来。"
+      ],
+      "answer": "在我看来，由于天气的原因，活动改到下周是最好的办法。",
+      "explanation": "Cấu trúc chuẩn là '在 + Người + 看来' (không thêm 的, không lược 来, không điền sự vật như 这本书); 由于 làm giới từ đứng đầu vế trước cụm danh từ '天气的原因'.",
+      "review_tip": "Ôn Chú thích 3 在……看来 và Chú thích 4 由于."
+    },
+    {
+      "id": "h4s10_ex8", "type": "error_fix", "level": "Vận dụng", "origin_tag": "Ôn tập Bài 8–10 (30%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Tìm lỗi sai và chọn cách sửa ĐÚNG cho câu: “很多东西不能用钱买到，例如时间、感情、生活经历等……，所以我很同意你的建议。”",
+      "options": [
+        "Bỏ dấu ba chấm '……' sau chữ '等' (chỉ viết '生活经历等，' vì 等 và …… trùng lặp chức năng liệt kê chưa hết).",
+        "Đổi '例如' thành '但是'",
+        "Đổi '建议' thành '方向'",
+        "Câu trên hoàn toàn đúng"
+      ],
+      "answer": "Bỏ dấu ba chấm '……' sau chữ '等' (chỉ viết '生活经历等，' vì 等 và …… trùng lặp chức năng liệt kê chưa hết).",
+      "explanation": "Trong văn viết tiếng Trung chuẩn, trợ từ 等 đã mang nghĩa 'vân vân', tuyệt đối không đặt dấu ba chấm '……' ngay sau 等.",
+      "review_tip": "Ôn lưu ý sử dụng trợ từ #24 等."
+    },
+    {
+      "id": "h4s10_ex9", "type": "reorder", "level": "Vận dụng", "origin_tag": "Bài 10 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Sắp xếp các cụm từ sau thành câu hoàn chỉnh theo đúng ngữ pháp:",
+      "tokens": ["决定了", "幸福感的高低。", "生活的态度", "我们"],
+      "answer": "生活的态度决定了我们幸福感的高低。",
+      "explanation": "Chủ ngữ '生活的态度' + động từ '决定了' + tân ngữ '我们幸福感的高低'.",
+      "review_tip": "Ôn bài khóa 5 và từ #29 低 (高低)."
+    },
+    {
+      "id": "h4s10_ex10", "type": "reading_mc", "level": "Phân biệt", "origin_tag": "Bài khóa 4", "mistake_category": "Đọc hiểu",
+      "passage": "有钱不一定幸福，因为很多东西都是不能用钱买到的，例如时间、感情、生活经历等。但是，从另外一个方面看，如果没钱，也很难过得幸福。当你生病了，如果由于缺钱而不能及时去看医生，你的健康都很难得到保证，就更别说幸福了。",
+      "prompt": "Ý chính của đoạn văn trên là gì?",
+      "options": [
+        "Tiền không phải yếu tố duy nhất quyết định hạnh phúc, nhưng thiếu tiền cũng rất khó sống hạnh phúc",
+        "Chỉ cần có thật nhiều tiền thì nhất định sẽ hạnh phúc",
+        "Người nghèo lúc nào cũng hạnh phúc hơn người giàu",
+        "Sức khỏe hoàn toàn không liên quan gì đến điều kiện kinh tế"
+      ],
+      "answer": "Tiền không phải yếu tố duy nhất quyết định hạnh phúc, nhưng thiếu tiền cũng rất khó sống hạnh phúc",
+      "explanation": "Đoạn văn trình bày hai mặt cân bằng: '有钱不一定幸福' và '如果没钱，也很难过得幸福'.",
+      "review_tip": "Ôn lại lập luận hai chiều của bài khóa 4."
+    },
+    {
+      "id": "h4s10_ex11", "type": "translate_zh_vi", "level": "Vận dụng", "origin_tag": "Dịch Trung – Việt", "mistake_category": "Dịch thuật",
+      "prompt": "Dịch sang tiếng Việt: “其实，幸福并没有一个标准答案，每个人对幸福都有不同的理解。”",
+      "hint": "Chú ý 并没有, 标准答案 và 对……有不同的理解.",
+      "keywords": ["thật ra", "hạnh phúc", "không có", "đáp án tiêu chuẩn", "cách hiểu"],
+      "answer": "Thật ra, hạnh phúc không hề có một đáp án tiêu chuẩn nào, mỗi người đều có cách hiểu khác nhau về hạnh phúc.",
+      "explanation": "其实 = thật ra; 并没有 = không hề có; 标准答案 = đáp án tiêu chuẩn; 对幸福有不同的理解 = có cách hiểu khác nhau về hạnh phúc.",
+      "review_tip": "Ôn câu trọng tâm bài khóa 5 và từ #30 答案."
+    }
+  ]
+}

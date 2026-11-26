@@ -1,0 +1,469 @@
+{
+  "id": "hsk5shang_l02",
+  "book_id": "hsk5shang",
+  "textbook": "HSK 5 上",
+  "lesson_number": 2,
+  "title_zh": "留串钥匙给父母",
+  "title_vi": "Để chìa khóa cho ba mẹ",
+  "pdf_pages": "Trang sách 21–27 (Giáo Trình Chuẩn HSK5 Tập 1.pdf)",
+  "source_status": "verified_textbook",
+  "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"],
+  "vocabulary": [
+    {
+      "id": "hsk5s_l02_w01", "order": 1, "textbook": "HSK 5 上", "lesson": 2, "is_out_of_syllabus": true,
+      "hanzi": "串", "pinyin": "chuàn",
+      "lesson_usage": { "part_of_speech": "量词 (Lượng từ)", "meaning": "xâu, chuỗi, chùm", "structure": "一串钥匙 / 一串葡萄 / 一串糖葫芦", "explanation": "Lượng từ dùng cho những vật được xâu, xỏ hoặc móc lại thành từng chùm, từng chuỗi.", "examples": [{ "chinese": "妻子提出留一串钥匙给父母，可他们拒绝了。", "pinyin": "Qīzi tíchū liú yí chuàn yàoshi gěi fùmǔ, kě tāmen jùjué le.", "vietnamese": "Vợ tôi đề nghị để lại một chùm chìa khóa cho ba mẹ, nhưng ông bà đã từ chối.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ)", "meanings": ["xâu lại, xỏ thành chuỗi; đi loanh quanh thăm nhà này nhà kia"], "structure": "把珠子串起来 / 串门儿", "difference_note": "Làm động từ chỉ hành động xỏ/xâu các vật lại với nhau, hoặc '串门儿' (sang nhà hàng xóm chơi).", "examples": [{ "chinese": "过年的时候，大家喜欢去亲戚家串门儿。", "pinyin": "Guònián de shíhou, dàjiā xǐhuan qù qīnqi jiā chuànménr.", "vietnamese": "Dịp Tết, mọi người thích đi thăm chơi nhà họ hàng." }] }
+      ],
+      "chinese_explanation": "量词，用于连贯在一起的东西；作动词指把物品连贯起来。", "collocations": ["一串钥匙", "一串葡萄", "串门儿"], "usage_note": "Tiêu đề bài lược bỏ số từ 一: '留(一)串钥匙给父母'.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l02_w02", "order": 2, "textbook": "HSK 5 上", "lesson": 2,
+      "hanzi": "一辈子", "pinyin": "yíbèizi",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "suốt đời, cả đời", "structure": "一辈子 + V / V + (某人) + 一辈子", "explanation": "Chỉ toàn bộ cuộc đời của một con người; có thể làm trạng ngữ trước động từ hoặc bổ ngữ thời lượng sau động từ.", "examples": [{ "chinese": "父母一辈子住在农村老家，对老屋的感情，就像没断奶的孩子对母亲一样。", "pinyin": "Fùmǔ yíbèizi zhù zài nóngcūn lǎojiā, duì lǎowū de gǎnqíng, jiù xiàng méi duànnǎi de háizi duì mǔqīn yíyàng.", "vietnamese": "Ba mẹ cả đời sống ở quê nông thôn, tình cảm với căn nhà cũ giống như đứa trẻ chưa cai sữa đối với mẹ vậy.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "一生、终身。", "collocations": ["一辈子住在农村", "一辈子没出国", "照顾她一辈子"], "usage_note": "Khi làm bổ ngữ thời lượng đặt sau tân ngữ đại từ: '照顾她一辈子' (Bài tập 3 câu 1 tr.26!).", "common_errors": "Sai: '照顾一辈子她' → Đúng: '照顾她一辈子' hoặc '一辈子照顾她'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l02_w03", "order": 3, "textbook": "HSK 5 上", "lesson": 2,
+      "hanzi": "农村", "pinyin": "nóngcūn",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "nông thôn", "structure": "农村老家 / 农村生活 / 住在农村", "explanation": "Khu vực vùng quê sinh sống chủ yếu bằng nghề nông (trái nghĩa với 城市).", "examples": [{ "chinese": "父母一辈子住在农村老家。", "pinyin": "Fùmǔ yíbèizi zhù zài nóngcūn lǎojiā.", "vietnamese": "Ba mẹ cả đời sống ở quê nông thôn.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "以农业生产为主的聚落区域，与“城市”相对。", "collocations": ["农村老家", "农村生活", "农村发展"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l02_w04", "order": 4, "textbook": "HSK 5 上", "lesson": 2,
+      "hanzi": "屋（子）", "pinyin": "wū (zi)",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "nhà, gian phòng", "structure": "老屋 / 屋子里 / 进屋", "explanation": "Căn nhà nhỏ hoặc gian phòng trong nhà (lượng từ thường là 间).", "examples": [{ "chinese": "对老屋的感情，就像没断奶的孩子对母亲一样。", "pinyin": "Duì lǎowū de gǎnqíng, jiù xiàng méi duànnǎi de háizi duì mǔqīn yíyàng.", "vietnamese": "Tình cảm đối với căn nhà cũ giống như đứa trẻ chưa cai sữa đối với mẹ vậy.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "房舍、房间。", "collocations": ["老屋", "一间屋子", "屋子里", "同屋"], "usage_note": "Phân biệt: 屋子 thường chỉ một gian phòng/căn nhà nhỏ (一间屋子); 房子 chỉ ngôi nhà/căn hộ (一套房子).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l02_w05", "order": 5, "textbook": "HSK 5 上", "lesson": 2,
+      "hanzi": "断", "pinyin": "duàn",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "cai, dứt (cắt đứt, ngắt)", "structure": "断奶 / 断水 / 断电 / 断联系", "explanation": "Ngừng hẳn, cắt đứt sự liên tục (trong bài: 断奶 = cai sữa).", "examples": [{ "chinese": "对老屋的感情，就像没断奶的孩子对母亲一样。", "pinyin": "Duì lǎowū de gǎnqíng, jiù xiàng méi duànnǎi de háizi duì mǔqīn yíyàng.", "vietnamese": "Tình cảm đối với căn nhà cũ giống như đứa trẻ chưa cai sữa đối với mẹ vậy.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 / 补语 (Động từ / Bổ ngữ kết quả)", "meanings": ["đứt, gãy (vật dài bị tách làm hai đoạn)"], "structure": "摔断腿 / 打断 / 挣断 / 绳子断了", "difference_note": "Dùng làm bổ ngữ kết quả chỉ vật thể dài (dây, chân, xương...) bị đứt gãy (có trong bảng 词语搭配 & Bài tập 1 câu 5 tr.26!).", "examples": [{ "chinese": "他从窗户里跳出来，把腿摔断了。", "pinyin": "Tā cóng chuānghu li tiào chulai, bǎ tuǐ shuāiduàn le.", "vietnamese": "Anh ấy nhảy từ cửa sổ ra, làm gãy chân rồi." }] }
+      ],
+      "chinese_explanation": "折断、截断；断绝、停止。", "collocations": ["断奶", "断水", "断电", "断联系", "摔断", "打断"], "usage_note": "Nắm cả 2 nhánh kết hợp trong bảng tr.24–25: 断+宾语 (断水/电/奶/交/联系) và V+断 (打/挣/摔+断).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l02_w06", "order": 6, "textbook": "HSK 5 上", "lesson": 2,
+      "hanzi": "以来", "pinyin": "yǐlái",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "đến nay (từ ... đến nay)", "structure": "Thời điểm/Sự kiện + 以来", "explanation": "Biểu thị khoảng thời gian kéo dài từ một thời điểm trong quá khứ cho đến hiện tại.", "examples": [{ "chinese": "因此长年以来，父母很少离开老屋。", "pinyin": "Yīncǐ chángnián yǐlái, fùmǔ hěn shǎo líkāi lǎowū.", "vietnamese": "Vì thế nhiều năm nay, ba mẹ rất ít khi rời khỏi căn nhà cũ.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "表示从过去某时到现在的一段时间。", "collocations": ["长年以来", "改革开放以来", "一直以来", "到中国以来"], "usage_note": "Không dùng độc lập, phải đi sau một mốc thời gian hoặc sự kiện (năm, tháng, động từ ngắn).", "common_errors": "Không đứng sau khoảng thời lượng thuần túy (sai: '三年以来' → đúng: '三年来' hoặc '近三年以来').", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l02_w07", "order": 7, "textbook": "HSK 5 上", "lesson": 2,
+      "hanzi": "姥姥", "pinyin": "lǎolao",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "bà ngoại", "structure": "去姥姥家 / 姥姥和姥爷", "explanation": "Cách gọi bà ngoại phổ biến ở miền Bắc Trung Quốc (tương đương 外婆).", "examples": [{ "chinese": "尽管姥姥、舅舅和姑姑都在城里，父母也坚决不在城里住。", "pinyin": "Jǐnguǎn lǎolao, jiùjiu hé gūgu dōu zài chéngli, fùmǔ yě jiānjué bú zài chéngli zhù.", "vietnamese": "Mặc dù bà ngoại, cậu và cô đều ở trong thành phố, ba mẹ vẫn kiên quyết không sống ở thành phố.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "外祖母（多用于北方口语）。", "collocations": ["姥姥家", "外公和姥姥"], "usage_note": "Âm tiết thứ hai đọc thanh nhẹ: lǎolao. (Ông ngoại là 姥爷 lǎoye hoặc 外公 wàigōng).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l02_w08", "order": 8, "textbook": "HSK 5 上", "lesson": 2,
+      "hanzi": "舅舅", "pinyin": "jiùjiu",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "cậu", "structure": "大舅 / 舅舅和舅妈", "explanation": "Anh trai hoặc em trai của mẹ.", "examples": [{ "chinese": "尽管姥姥、舅舅和姑姑都在城里，父母也坚决不在城里住。", "pinyin": "Jǐnguǎn lǎolao, jiùjiu hé gūgu dōu zài chéngli, fùmǔ yě jiānjué bú zài chéngli zhù.", "vietnamese": "Mặc dù bà ngoại, cậu và cô đều ở trong thành phố, ba mẹ vẫn kiên quyết không sống ở thành phố.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "母亲的哥哥或弟弟。", "collocations": ["大舅", "小舅", "舅舅家"], "usage_note": "Phân biệt: 舅舅 (anh/em trai của mẹ) vs 伯伯/叔叔 (anh/em trai của bố).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l02_w09", "order": 9, "textbook": "HSK 5 上", "lesson": 2,
+      "hanzi": "姑姑", "pinyin": "gūgu",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "cô", "structure": "大姑 / 小姑", "explanation": "Chị gái hoặc em gái của bố.", "examples": [{ "chinese": "尽管姥姥、舅舅和姑姑都在城里，父母也坚决不在城里住。", "pinyin": "Jǐnguǎn lǎolao, jiùjiu hé gūgu dōu zài chéngli, fùmǔ yě jiānjué bú zài chéngli zhù.", "vietnamese": "Mặc dù bà ngoại, cậu và cô đều ở trong thành phố, ba mẹ vẫn kiên quyết không sống ở thành phố.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "父亲的姐姐或妹妹。", "collocations": ["大姑", "小姑", "姑姑家"], "usage_note": "Phân biệt: 姑姑 (chị/em gái của bố) vs 阿姨/姨妈 (chị/em gái của mẹ).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l02_w10", "order": 10, "textbook": "HSK 5 上", "lesson": 2,
+      "hanzi": "坚决", "pinyin": "jiānjué",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "kiên quyết", "structure": "坚决 + 反对/改正/不…… / 态度很坚决", "explanation": "Thái độ, lập trường dứt khoát, không do dự hay dao động.", "examples": [{ "chinese": "尽管姥姥、舅舅和姑姑都在城里，父母也坚决不在城里住。", "pinyin": "Jǐnguǎn lǎolao, jiùjiu hé gūgu dōu zài chéngli, fùmǔ yě jiānjué bú zài chéngli zhù.", "vietnamese": "Mặc dù bà ngoại, cậu và cô đều ở trong thành phố, ba mẹ vẫn kiên quyết không sống ở thành phố.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "（态度、主张、行动等）确定不移、不犹豫。", "collocations": ["坚决反对", "坚决改正", "态度很坚决"], "usage_note": "Phân biệt (Bài tập 2 câu 1 tr.26): 坚决 (tính từ: 态度很坚决) vs 坚持 (động từ: kiên trì làm việc gì, không dùng '态度很坚持').", "common_errors": "Sai: '他的态度很坚持' → Đúng: '他的态度很坚决'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l02_w11", "order": 11, "textbook": "HSK 5 上", "lesson": 2,
+      "hanzi": "打工", "pinyin": "dǎ gōng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ ly hợp)", "meaning": "làm thuê, làm công", "structure": "去外地打工 / 打两个月工 / 打工挣钱", "explanation": "Đi làm công ăn lương (thường chỉ lao động xa quê hoặc làm thêm).", "examples": [{ "chinese": "去年，在我和妻子的努力下，我们终于用打工挣的钱，在县里买了一套新房。", "pinyin": "Qùnián, zài wǒ hé qīzi de nǔlì xià, wǒmen zhōngyú yòng dǎ gōng zhèng de qián, zài xiànli mǎi le yí tào xīnfáng.", "vietnamese": "Năm ngoái, nhờ nỗ lực của hai vợ chồng, cuối cùng chúng tôi đã dùng tiền đi làm thuê kiếm được mua một căn nhà mới ở huyện.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "受雇于人工作赚钱（多指外出务工或兼职）。", "collocations": ["外出打工", "打两个月工", "打工挣钱"], "usage_note": "Từ ly hợp: thời lượng đặt ở giữa 打 và 工 → '打两个月工' (có trong Bài tập 1 câu 6 tr.26!).", "common_errors": "Sai: '打工两个月' → Đúng: '打两个月工'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l02_w12", "order": 12, "textbook": "HSK 5 上", "lesson": 2,
+      "hanzi": "挣", "pinyin": "zhèng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "kiếm (tiền)", "structure": "挣钱 / 挣点儿钱 / 挣了不少钱", "explanation": "Dùng sức lao động làm ra tiền bạc (thiên khẩu ngữ, gần nghĩa 赚).", "examples": [{ "chinese": "我们终于用打工挣的钱，在县里买了一套新房。", "pinyin": "Wǒmen zhōngyú yòng dǎ gōng zhèng de qián, zài xiànli mǎi le yí tào xīnfáng.", "vietnamese": "Cuối cùng chúng tôi đã dùng tiền đi làm thuê kiếm được mua một căn nhà mới ở huyện.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Âm đọc khác: zhēng / zhèng — giãy giụa, vùng vẫy)", "meanings": ["giãy, vùng vẫy, cố thoát ra"], "structure": "挣扎 (zhēngzhá) / 挣断 (zhèngduàn) / 挣脱", "difference_note": "Chữ đa âm: đọc zhèng trong 挣钱 (kiếm tiền), 挣断 (giãy đứt, bảng tr.25); đọc zhēng trong 挣扎 (giãy giụa).", "examples": [{ "chinese": "小狗用力把绳子挣断了。", "pinyin": "Xiǎogǒu yònglì bǎ shéngzi zhèngduàn le.", "vietnamese": "Chú chó con dùng sức giãy đứt sợi dây." }] }
+      ],
+      "chinese_explanation": "用劳动换取金钱；用力摆脱。", "collocations": ["挣钱", "挣点儿钱", "挣断", "挣扎"], "usage_note": "Chú ý bảng 词语搭配 tr.25 có cả nghĩa '挣 (zhèng, giãy, vùng vẫy) + 断'.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l02_w13", "order": 13, "textbook": "HSK 5 上", "lesson": 2,
+      "hanzi": "县", "pinyin": "xiàn",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "huyện", "structure": "县里 / 县城 / 某县", "explanation": "Đơn vị hành chính cấp huyện (trên xã/trấn, dưới thành phố/tỉnh).", "examples": [{ "chinese": "在县里买了一套新房。", "pinyin": "Zài xiànli mǎi le yí tào xīnfáng.", "vietnamese": "Mua một căn nhà mới ở huyện.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "中国的基层行政区划单位。", "collocations": ["县里", "县城", "县长"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l02_w14", "order": 14, "textbook": "HSK 5 上", "lesson": 2,
+      "hanzi": "套", "pinyin": "tào",
+      "lesson_usage": { "part_of_speech": "量词 (Lượng từ)", "meaning": "bộ, căn, cái", "structure": "一套 + 房子 / 家具 / 餐具 / 邮票 / 西服", "explanation": "Lượng từ dùng cho căn hộ/nhà ở có nhiều phòng, hoặc đồ vật đi theo bộ đồng bộ.", "examples": [{ "chinese": "在县里买了一套新房。", "pinyin": "Zài xiànli mǎi le yí tào xīnfáng.", "vietnamese": "Mua một căn nhà mới ở huyện.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 / 名词 (Động từ / Danh từ)", "meanings": ["lồng vào, tròng vào; vỏ bọc, bao bọc"], "structure": "套上外套 / 手套 / 被套", "difference_note": "Làm động từ chỉ hành động tròng áo/lồng vỏ; làm danh từ chỉ bao bọc bên ngoài (手套 găng tay, 被套 vỏ chăn).", "examples": [{ "chinese": "外面风大，你快套上外套再出去。", "pinyin": "Wàimian fēng dà, nǐ kuài tàoshang wàitào zài chūqu.", "vietnamese": "Ngoài trời gió lớn, bạn mau khoác thêm áo vào rồi hãy ra ngoài." }] }
+      ],
+      "chinese_explanation": "量词，用于成组的事物或住房；作动词指罩在外面。", "collocations": ["一套房子", "一套西服", "一套家具", "一套邮票"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l02_w15", "order": 15, "textbook": "HSK 5 上", "lesson": 2,
+      "hanzi": "装修", "pinyin": "zhuāngxiū",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "sửa sang, trang hoàng", "structure": "装修房子 / 新房装修完 / 装修精美", "explanation": "Thi công hoàn thiện nội thất, sơn sửa và trang trí nhà cửa hoặc cửa hàng.", "examples": [{ "chinese": "新房装修完，父母第一次走进新房时，高兴得不得了。", "pinyin": "Xīnfáng zhuāngxiū wán, fùmǔ dì-yī cì zǒujìn xīnfáng shí, gāoxìng de bùdéliǎo.", "vietnamese": "Nhà mới sửa sang xong, lần đầu tiên ba mẹ bước vào nhà mới, vui sướng vô cùng.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "在房屋工程上抹灰、粉刷并安装门窗、水电等设备，进行内部装饰。", "collocations": ["装修新房", "装修精美", "装修风格"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l02_w16", "order": 16, "textbook": "HSK 5 上", "lesson": 2,
+      "hanzi": "不得了", "pinyin": "bùdéliǎo",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "cực kỳ, vô cùng", "structure": "Adj/V tâm lý + 得不得了", "explanation": "Thường làm bổ ngữ trình độ sau 得 để nhấn mạnh mức độ rất cao (vui/nóng/mệt/vội cực kỳ).", "examples": [{ "chinese": "父母第一次走进新房时，高兴得不得了。", "pinyin": "Fùmǔ dì-yī cì zǒujìn xīnfáng shí, gāoxìng de bùdéliǎo.", "vietnamese": "Lần đầu tiên ba mẹ bước vào nhà mới, vui sướng vô cùng.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "形容词 (Làm vị ngữ/câu cảm thán độc lập)", "meanings": ["nguy to rồi, gay go lắm, ghê gớm lắm"], "structure": "不得了了！ / 出了不得了的大事", "difference_note": "Khi đứng độc lập ở đầu câu (不得了了！), biểu thị sự việc nghiêm trọng, nguy cấp (có ngay trong Bài tập 3 câu 2 tr.26!).", "examples": [{ "chinese": "不得了了，他们俩大吵了一架！", "pinyin": "Bùdéliǎo le, tāmen liǎ dàchǎo le yí jià!", "vietnamese": "Nguy to rồi, hai người họ cãi nhau một trận to!" }] }
+      ],
+      "chinese_explanation": "表示情况很严重；用在“得”后表示程度极高。", "collocations": ["高兴得不得了", "热得不得了", "累得不得了", "不得了了"], "usage_note": "Nhớ cả 2 cách dùng: '...得不得了' (bổ ngữ mức độ) và '不得了了！' (cảm thán 'Nguy to rồi!').", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l02_w17", "order": 17, "textbook": "HSK 5 上", "lesson": 2,
+      "hanzi": "醉", "pinyin": "zuì",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "say (rượu)", "structure": "喝醉 / 醉酒 / 醉了", "explanation": "Bị say do uống nhiều rượu (thường dùng làm bổ ngữ kết quả: 喝醉).", "examples": [{ "chinese": "那天，父亲喝醉了，等他醒时，天色已晚。", "pinyin": "Nà tiān, fùqīn hēzuì le, děng tā xǐng shí, tiānsè yǐ wǎn.", "vietnamese": "Hôm đó, ba tôi uống say rồi, đợi đến lúc ba tỉnh dậy thì trời đã tối.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Nghĩa mở rộng)", "meanings": ["say mê, đắm say (cảnh đẹp, âm nhạc)"], "structure": "陶醉 / 令人陶醉", "difference_note": "Nghĩa bóng chỉ sự say đắm trước vẻ đẹp tinh thần.", "examples": [{ "chinese": "这里的风景美得让人陶醉。", "pinyin": "Zhèlǐ de fēngjǐng měi de ràng rén táozuì.", "vietnamese": "Phong cảnh ở đây đẹp đến mức khiến người ta say đắm." }] }
+      ],
+      "chinese_explanation": "饮酒过量神志不清；沉迷、陶醉。", "collocations": ["喝醉了", "醉酒", "陶醉"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l02_w18", "order": 18, "textbook": "HSK 5 上", "lesson": 2,
+      "hanzi": "强烈", "pinyin": "qiángliè",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "mãnh liệt, kịch liệt, cố gắng hết mức", "structure": "强烈 + 要求/反对/留 / 强烈的 + 阳光/感情/对比", "explanation": "Cường độ rất lớn, thái độ rất gay gắt hoặc tha thiết hết mực.", "examples": [{ "chinese": "我和妻子强烈留父母在新房住一夜，第二天再回。", "pinyin": "Wǒ hé qīzi qiángliè liú fùmǔ zài xīnfáng zhù yí yè, dì-èr tiān zài huí.", "vietnamese": "Tôi và vợ tha thiết giữ ba mẹ ở lại nhà mới một đêm, hôm sau hãy về.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "极强的、力量很大的；鲜明的。", "collocations": ["强烈要求", "强烈的阳光", "强烈的感情", "强烈的对比"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l02_w19", "order": 19, "textbook": "HSK 5 上", "lesson": 2,
+      "hanzi": "夜", "pinyin": "yè",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "ban đêm", "structure": "住一夜 / 夜里 / 夜晚 / 熬夜", "explanation": "Khoảng thời gian từ tối đến sáng hôm sau (tương đương 晚上, dùng được trực tiếp sau số từ như 一夜).", "examples": [{ "chinese": "我和妻子强烈留父母在新房住一夜，第二天再回。", "pinyin": "Wǒ hé qīzi qiángliè liú fùmǔ zài xīnfáng zhù yí yè, dì-èr tiān zài huí.", "vietnamese": "Tôi và vợ tha thiết giữ ba mẹ ở lại nhà mới một đêm, hôm sau hãy về.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "从天黑到天亮的一段时间。", "collocations": ["住一夜", "深冬的夜里", "半夜", "熬夜"], "usage_note": "Có thể kết hợp trực tiếp với số từ mà không cần lượng từ: 一夜, 三天三夜.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l02_w20", "order": 20, "textbook": "HSK 5 上", "lesson": 2,
+      "hanzi": "锁", "pinyin": "suǒ",
+      "lesson_usage": { "part_of_speech": "名词 / 动词 (Danh từ / Động từ)", "meanings": ["1. (Danh từ) cái khóa, ổ khóa", "2. (Động từ) khóa lại"], "meaning": "cái khóa; khóa", "structure": "(dt) 一把锁 / 上锁; (đgt) 锁门 / 锁上 / 反锁上", "explanation": "Vừa là danh từ chỉ ổ khóa (trong bài: 上锁 = khóa cửa lại), vừa là động từ chỉ hành động khóa (Bài tập 1 câu 5: 房门被反锁上了).", "examples": [
+        { "chinese": "新房只能上锁空着。", "pinyin": "Xīnfáng zhǐ néng shàngsuǒ kōngzhe.", "vietnamese": "Căn nhà mới chỉ đành khóa cửa để trống.", "from_text": true },
+        { "chinese": "房门被反锁上了。", "pinyin": "Fángmén bèi fǎnsuǒshang le.", "vietnamese": "Cửa phòng bị khóa trái rồi." }
+      ] },
+      "additional_usages": [], "chinese_explanation": "安在门、箱子等上面的金属器具；用锁把门等拴住。", "collocations": ["上锁", "锁门", "反锁", "一把锁"], "usage_note": "Lượng từ của danh từ 锁 là 把 (一把锁).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l02_w21", "order": 21, "textbook": "HSK 5 上", "lesson": 2,
+      "hanzi": "临", "pinyin": "lín",
+      "lesson_usage": { "part_of_speech": "介词 (Giới từ)", "meaning": "sắp, gần (khi sắp làm gì)", "structure": "临 + V (时/前/那天)", "explanation": "Giới từ chỉ thời điểm ngay sát trước khi một hành động nào đó diễn ra.", "examples": [{ "chinese": "临走那天，父亲从老家赶来送我们。", "pinyin": "Lín zǒu nà tiān, fùqīn cóng lǎojiā gǎnlái sòng wǒmen.", "vietnamese": "Hôm sắp đi, ba từ quê vội lên tiễn chúng tôi.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ — Chú thích 2 tr.23: sát, gần kề, hướng ra)", "meanings": ["kề sát, hướng mặt ra (phố, sông, biển)"], "structure": "临街 / 临江 / 临海", "difference_note": "Làm động từ biểu thị vị trí không gian ở sát cạnh, đối diện với phố/sông/biển (khác với giới từ thời gian '临走').", "examples": [{ "chinese": "我想买一套不临街的房子，这样不会太吵。", "pinyin": "Wǒ xiǎng mǎi yí tào bù línjiē de fángzi, zhèyàng bú huì tài chǎo.", "vietnamese": "Tôi muốn mua một căn nhà không sát mặt phố, như vậy sẽ không quá ồn." }] }
+      ],
+      "chinese_explanation": "靠近、对着；快要、将要。", "collocations": ["临走", "临离开前", "临街", "临江"], "usage_note": "Xem kỹ cả 2 từ loại (Động từ vị trí & Giới từ thời gian) trong Chú thích 2 tr.23!", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l02_w22", "order": 22, "textbook": "HSK 5 上", "lesson": 2,
+      "hanzi": "悄悄", "pinyin": "qiāoqiāo",
+      "lesson_usage": { "part_of_speech": "副词 (Phó từ)", "meaning": "lặng lẽ, nhẹ nhàng", "structure": "悄悄(地) + V", "explanation": "Nhấn mạnh hành động rất nhỏ tiếng, nhẹ nhàng, không gây tiếng động hay ồn ào.", "examples": [{ "chinese": "父亲悄悄把我拉到一边说：“你妈说了，你还是留一串新房的钥匙给我们……”", "pinyin": "Fùqīn qiāoqiāo bǎ wǒ lādāo yìbiān shuō: “Nǐ mā shuō le, nǐ háishi liú yí chuàn xīnfáng de yàoshi gěi wǒmen……”", "vietnamese": "Ba khẽ kéo tôi sang một bên nói: “Mẹ con bảo, con vẫn nên để lại một chùm chìa khóa nhà mới cho ba mẹ……”", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "形容声音很低或动作很轻，不声张。", "collocations": ["悄悄地说", "悄悄走进来", "悄悄离开"], "usage_note": "Xem bảng 词语辨析: 悄悄—偷偷 ở tab Ngữ pháp (悄悄 nhấn mạnh âm thanh nhỏ; 偷偷 nhấn mạnh giấu giếm không muốn ai biết).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l02_w23", "order": 23, "textbook": "HSK 5 上", "lesson": 2,
+      "hanzi": "晒", "pinyin": "shài",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "phơi (nắng)", "structure": "晒 + 被子 / 衣服 / 太阳 / 晒黑", "explanation": "Đưa đồ vật hoặc bản thân ra dưới ánh nắng mặt trời để làm khô hoặc sưởi nắng.", "examples": [{ "chinese": "顺便给你们晒晒被子，打扫打扫卫生。", "pinyin": "Shùnbiàn gěi nǐmen shàishai bèizi, dǎsǎo dǎsǎo wèishēng.", "vietnamese": "Tiện thể phơi chăn, dọn dẹp vệ sinh cho các con.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "把东西放在太阳光下使干燥；人在阳光下吸收光和热。", "collocations": ["晒被子", "晒衣服", "晒太阳", "晒黑"], "usage_note": "Chú ý cụm '晒太阳' = phơi nắng, tắm nắng (mặt trời chiếu vào người).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l02_w24", "order": 24, "textbook": "HSK 5 上", "lesson": 2,
+      "hanzi": "被子", "pinyin": "bèizi",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "mền, chăn", "structure": "一床被子 / 晒被子 / 铺被子 / 盖被子", "explanation": "Chăn/mền dùng để đắp khi ngủ.", "examples": [{ "chinese": "卧室床上的被子已铺好。", "pinyin": "Wòshì chuángshang de bèizi yǐ pūhǎo.", "vietnamese": "Chăn trên giường trong phòng ngủ đã được trải sẵn.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "睡觉时盖在身上的东西。", "collocations": ["一床被子", "晒被子", "叠被子", "盖被子"], "usage_note": "Lượng từ chuẩn của 被子 là 床 (一床被子) hoặc 条.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l02_w25", "order": 25, "textbook": "HSK 5 上", "lesson": 2,
+      "hanzi": "长途", "pinyin": "chángtú",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "đường dài", "structure": "长途 + 汽车 / 车 / 旅行 / 电话", "explanation": "Chỉ khoảng cách đi lại hoặc liên lạc xa (thường làm định ngữ, không dùng làm vị ngữ kiểu '很长途').", "examples": [{ "chinese": "下了长途车，儿子被冻得大哭。", "pinyin": "Xià le chángtúchē, érzi bèi dòng de dàkū.", "vietnamese": "Xuống xe khách đường dài, con trai bị lạnh cóng đến mức khóc toáng lên.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "距离远的；长距离的路程。", "collocations": ["长途汽车", "长途旅行", "国际长途电话"], "usage_note": "Trái nghĩa: 短途 (duǎntú – đường ngắn). Không dùng với phó từ mức độ 很.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l02_w26", "order": 26, "textbook": "HSK 5 上", "lesson": 2,
+      "hanzi": "冻", "pinyin": "dòng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "bị cóng, rét (đóng băng)", "structure": "被冻得…… / 冻坏了 / 冻住了", "explanation": "Chịu cảm giác lạnh cóng vì nhiệt độ quá thấp, hoặc chất lỏng kết băng.", "examples": [{ "chinese": "下了长途车，儿子被冻得大哭。", "pinyin": "Xià le chángtúchē, érzi bèi dòng de dàkū.", "vietnamese": "Xuống xe khách đường dài, con trai bị lạnh cóng đến mức khóc toáng lên.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Nghĩa vật lý: đóng băng, cấp đông)", "meanings": ["đóng băng, làm đông lạnh"], "structure": "河水冻住了 / 冷冻食品", "difference_note": "Nước/chất lỏng gặp lạnh kết lại thành băng (Bài tập 2 câu 3 tr.26: '河里的水都被冻住了', không dùng '冷住').", "examples": [{ "chinese": "最近气温太低，河里的水都被冻住了。", "pinyin": "Zuìjìn qìwēn tài dī, héli de shuǐ dōu bèi dòngzhù le.", "vietnamese": "Gần đây nhiệt độ quá thấp, nước dưới sông đều bị đóng băng cả rồi." }] }
+      ],
+      "chinese_explanation": "受冷或感到很冷；液体或含水分的东西遇冷凝结。", "collocations": ["冻得大哭", "冻得不行", "冻住了", "冷冻"], "usage_note": "Phân biệt: 冻 là động từ (mang bổ ngữ kết quả 冻住, 冻坏); 冷 là tính từ (không nói '冷住').", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l02_w27", "order": 27, "textbook": "HSK 5 上", "lesson": 2,
+      "hanzi": "想象", "pinyin": "xiǎngxiàng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "tưởng tượng", "structure": "想象 + 情景/结果 / 不能想象 / 难以想象", "explanation": "Hình dung ra hình ảnh, khung cảnh hay sự việc trong đầu.", "examples": [{ "chinese": "我和妻子想象着打开家门满是灰尘、冷冷清清的景象，觉得心里发寒。", "pinyin": "Wǒ hé qīzi xiǎngxiàngzhe dǎkāi jiāmén mǎn shì huīchén, lěnglěngqīngqīng de jǐngxiàng, juéde xīnli fāhán.", "vietnamese": "Hai vợ chồng tôi tưởng tượng cảnh mở cửa nhà ra đầy bụi bặm, lạnh lẽo vắng tanh, thấy trong lòng lạnh buốt.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["trí tưởng tượng, sự tưởng tượng"], "structure": "超出想象 / 丰富的想象力", "difference_note": "Làm tân ngữ của các động từ 超出, 富有.", "examples": [{ "chinese": "这次演出的成功超出了我们的想象。", "pinyin": "Zhè cì yǎnchū de chénggōng chāochū le wǒmen de xiǎngxiàng.", "vietnamese": "Thành công của buổi biểu diễn lần này vượt ngoài sức tưởng tượng của chúng tôi." }] }
+      ],
+      "chinese_explanation": "在头脑中设想出未曾经历过的形象或情景。", "collocations": ["不能想象", "难以想象", "想象力"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l02_w28", "order": 28, "textbook": "HSK 5 上", "lesson": 2,
+      "hanzi": "灰尘", "pinyin": "huīchén",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "bụi bặm", "structure": "满是灰尘 / 擦灰尘", "explanation": "Những hạt bụi mịn bám trên đồ đạc hoặc bay trong không khí.", "examples": [{ "chinese": "打开家门满是灰尘、冷冷清清的景象。", "pinyin": "Dǎkāi jiāmén mǎn shì huīchén, lěnglěngqīngqīng de jǐngxiàng.", "vietnamese": "Cảnh tượng mở cửa nhà ra đầy bụi bặm, lạnh lẽo vắng tanh.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "细小的土粒和杂物粉末。", "collocations": ["满是灰尘", "擦去灰尘"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l02_w29", "order": 29, "textbook": "HSK 5 上", "lesson": 2,
+      "hanzi": "亮", "pinyin": "liàng",
+      "lesson_usage": { "part_of_speech": "形容词 / 动词 (Tính từ / Động từ)", "meanings": ["1. (Động từ) sáng lên, tỏa sáng, bật sáng", "2. (Tính từ) sáng sủa, chói sáng"], "meaning": "sáng; tỏa sáng", "structure": "(đgt) 亮着灯光 / 灯亮了; (tt) 房间很亮 / 天亮了", "explanation": "Trong bài dùng làm động từ mang 着 ('亮着灯光' = đang sáng ánh đèn); ngoài ra còn là tính từ đối lập với 暗.", "examples": [
+        { "chinese": "来到楼下，抬头一看，却发现自家亮着灯光。", "pinyin": "Láidào lóuxià, táitóu yí kàn, què fāxiàn zìjiā liàngzhe dēngguāng.", "vietnamese": "Đến dưới nhà, ngẩng đầu nhìn lên, bất ngờ thấy nhà mình đang sáng ánh đèn.", "from_text": true },
+        { "chinese": "这间卧室窗户很大，非常亮。", "pinyin": "Zhè jiān wòshì chuānghu hěn dà, fēicháng liàng.", "vietnamese": "Phòng ngủ này cửa sổ rất rộng, vô cùng sáng sủa." }
+      ] },
+      "additional_usages": [], "chinese_explanation": "光线强、明朗；发光、显露。", "collocations": ["亮着灯光", "天亮了", "明亮", "亮起红灯"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l02_w30", "order": 30, "textbook": "HSK 5 上", "lesson": 2,
+      "hanzi": "微笑", "pinyin": "wēixiào",
+      "lesson_usage": { "part_of_speech": "动词 / 名词 (Động từ / Danh từ)", "meanings": ["1. (Động từ) mỉm cười", "2. (Danh từ) vẻ mặt tươi cười, nụ cười"], "meaning": "mỉm cười; vẻ mặt tươi cười, nụ cười", "structure": "(đgt) 微笑着 / 对我微笑; (dt) 温暖的微笑 / 露出微笑", "explanation": "Cười nhẹ không thành tiếng, biểu lộ sự thân thiện, dịu dàng.", "examples": [
+        { "chinese": "上了楼，开门的竟是微笑着的父母。", "pinyin": "Shàng le lóu, kāimén de jìng shì wēixiàozhe de fùmǔ.", "vietnamese": "Lên lầu, người mở cửa hóa ra lại là ba mẹ đang mỉm cười.", "from_text": true },
+        { "chinese": "女服务员给了我一个温暖的微笑。", "pinyin": "Nǚ fúwùyuán gěi le wǒ yí ge wēnnuǎn de wēixiào.", "vietnamese": "Nữ nhân viên phục vụ nở với tôi một nụ cười ấm áp." }
+      ] },
+      "additional_usages": [], "chinese_explanation": "不显著地、不出声地笑；和善的笑容。", "collocations": ["微笑着", "温暖的微笑", "面带微笑"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l02_w31", "order": 31, "textbook": "HSK 5 上", "lesson": 2,
+      "hanzi": "温暖", "pinyin": "wēnnuǎn",
+      "lesson_usage": { "part_of_speech": "形容词 / 动词 (Tính từ / Động từ)", "meanings": ["1. (Tính từ) ấm áp (thời tiết lẫn tình cảm)", "2. (Động từ) sưởi ấm (tâm hồn/cơ thể)"], "meaning": "ấm áp; sưởi ấm", "structure": "(tt) 温暖的气息 / 温暖的微笑 / 家的温暖; (đgt) 温暖人心", "explanation": "Dùng cho cả nhiệt độ dễ chịu lẫn cảm giác ấm lòng về mặt tình cảm.", "examples": [
+        { "chinese": "温暖的气息立刻扑面而来。", "pinyin": "Wēnnuǎn de qìxī lìkè pūmiàn ér lái.", "vietnamese": "Hơi ấm lập tức phả vào mặt.", "from_text": true },
+        { "chinese": "她的一句关心的话温暖了我的心。", "pinyin": "Tā de yí jù guānxīn de huà wēnnuǎn le wǒ de xīn.", "vietnamese": "Một lời hỏi thăm của cô ấy đã sưởi ấm trái tim tôi." }
+      ] },
+      "additional_usages": [], "chinese_explanation": "暖和；使感到暖和或亲切。", "collocations": ["温暖的微笑", "家的温暖", "温暖人心"], "usage_note": "Phân biệt (Bài tập 2 câu 4 tr.26): 温暖 dùng được cho tình cảm/nụ cười (温暖的微笑), còn 暖和 chỉ dùng cho thời tiết/nhiệt độ phòng/quần áo!", "common_errors": "Sai: '一个暖和的微笑' → Đúng: '一个温暖的微笑'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l02_w32", "order": 32, "textbook": "HSK 5 上", "lesson": 2,
+      "hanzi": "立刻", "pinyin": "lìkè",
+      "lesson_usage": { "part_of_speech": "副词 (Phó từ)", "meaning": "lập tức", "structure": "立刻 + V", "explanation": "Nhấn mạnh một hành động xảy ra ngay sau một hành động khác hầu như không có khoảng trễ.", "examples": [{ "chinese": "温暖的气息立刻扑面而来。", "pinyin": "Wēnnuǎn de qìxī lìkè pūmiàn ér lái.", "vietnamese": "Hơi ấm lập tức phả vào mặt.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "马上、立即，强调动作紧接着发生。", "collocations": ["立刻行动", "立刻出发", "立刻感受到"], "usage_note": "Phân biệt (Bài tập 2 câu 2 tr.26): 立刻 chỉ sự nối tiếp tức thì (không dùng với thời gian còn cách vài ngày); 马上 có thể dùng cho khoảng thời gian gần sắp tới ('春节马上就要到了').", "common_errors": "Sai: '还有一个星期，春节立刻就要到了' → Đúng: '春节马上就要到了'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l02_w33", "order": 33, "textbook": "HSK 5 上", "lesson": 2, "is_out_of_syllabus": true,
+      "hanzi": "扑", "pinyin": "pū",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "bổ nhào, (mùi/hơi) phả vào", "structure": "扑面而来 / 扑过去 / 扑进怀里", "explanation": "Lao thẳng, ập tới hoặc hơi ấm/mùi hương phả thẳng vào mặt.", "examples": [{ "chinese": "温暖的气息立刻扑面而来。", "pinyin": "Wēnnuǎn de qìxī lìkè pūmiàn ér lái.", "vietnamese": "Hơi ấm lập tức phả vào mặt.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Nghĩa mở rộng: dập tắt)", "meanings": ["dập, đánh tắt (lửa)"], "structure": "扑灭火 / 扑救", "difference_note": "Dùng trong phòng cháy chữa cháy: 扑灭大火 (dập tắt đám cháy lớn).", "examples": [{ "chinese": "消防员很快就把大火扑灭了。", "pinyin": "Xiāofángyuán hěn kuài jiù bǎ dàhuǒ pūmiè le.", "vietnamese": "Lính cứu hỏa rất nhanh đã dập tắt đám cháy lớn." }] }
+      ],
+      "chinese_explanation": "用力向前冲；香气、气流等迎面而来；拍打（灭火）。", "collocations": ["扑面而来", "扑进怀里", "扑灭火"], "usage_note": "Phân biệt mặt chữ & âm đọc với #35 铺 (pū – trải): 扑 bộ Tài gẩy 扌, 铺 bộ Kim 钅.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l02_w34", "order": 34, "textbook": "HSK 5 上", "lesson": 2,
+      "hanzi": "卧室", "pinyin": "wòshì",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "phòng ngủ", "structure": "一间卧室 / 主卧室", "explanation": "Căn phòng dùng để nghỉ ngơi, ngủ trong nhà.", "examples": [{ "chinese": "卧室床上的被子已铺好。", "pinyin": "Wòshì chuángshang de bèizi yǐ pūhǎo.", "vietnamese": "Chăn trên giường trong phòng ngủ đã được trải sẵn.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "供人睡觉用的房间。", "collocations": ["卧室床", "两室一厅"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l02_w35", "order": 35, "textbook": "HSK 5 上", "lesson": 2, "is_out_of_syllabus": true,
+      "hanzi": "铺", "pinyin": "pū",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "trải, lát", "structure": "铺被子 / 铺床 / 铺地毯 / 铺路", "explanation": "Trải phẳng chăn, khăn trải bàn, thảm hoặc lát đường.", "examples": [{ "chinese": "卧室床上的被子已铺好。", "pinyin": "Wòshì chuángshang de bèizi yǐ pūhǎo.", "vietnamese": "Chăn trên giường trong phòng ngủ đã được trải sẵn.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Âm đọc khác: pù — cửa hàng, giường nằm)", "meanings": ["cửa tiệm, cửa hiệu; giường nằm (tàu hỏa)"], "structure": "店铺 (diànpù) / 卧铺 (wòpù) / 上铺", "difference_note": "Chữ đa âm: động từ đọc pū (trải, lát); danh từ đọc pù (tiệm, giường nằm tàu hỏa).", "examples": [{ "chinese": "我买了一张软卧下铺的车票。", "pinyin": "Wǒ mǎi le yì zhāng ruǎnwò xiàpù de chēpiào.", "vietnamese": "Tôi mua một vé giường nằm mềm tầng dưới." }] }
+      ],
+      "chinese_explanation": "把东西展平或摆开（pū）；商店、床位（pù）。", "collocations": ["铺床", "铺被子", "铺路", "卧铺 (pù)"], "usage_note": "Chữ đa âm quan trọng: pū (động từ 'trải') vs pù (danh từ '卧铺/店铺').", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l02_w36", "order": 36, "textbook": "HSK 5 上", "lesson": 2,
+      "hanzi": "飘", "pinyin": "piāo",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "thoảng đưa, thoang thoảng (bay phấp phới)", "structure": "飘来 + 香味/花香 / 飘着雪花", "explanation": "Bay lơ lửng theo gió (tuyết, lá, cờ) hoặc mùi hương, âm thanh lan tỏa trong không trung.", "examples": [{ "chinese": "厨房里飘来阵阵饭菜香……", "pinyin": "Chúfáng li piāolái zhènzhèn fàncàixiāng……", "vietnamese": "Từ trong bếp thoảng ra từng làn hương cơm canh thơm phức……", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "随风摇动或飞扬；气味、声音在空气中散播。", "collocations": ["飘来阵阵香味", "飘雪", "飘扬"], "usage_note": "Phân biệt với 漂 (piāo – trôi nổi trên mặt nước, bộ Thủy 氵): 飘 dùng cho không khí/gió (bộ Phong 风)!", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l02_w37", "order": 37, "textbook": "HSK 5 上", "lesson": 2,
+      "hanzi": "阵", "pinyin": "zhèn",
+      "lesson_usage": { "part_of_speech": "量词 (Lượng từ)", "meaning": "(chỉ giai đoạn trải qua của sự việc hoặc hành động) trận, cơn, làn", "structure": "一阵 + 风 / 雨 / 歌声 / 香味 / 掌声 / 阵阵", "explanation": "Lượng từ cho gió, mưa, hương thơm, tiếng vỗ tay hoặc cảm xúc kéo dài trong một khoảng ngắn; lặp lại '阵阵' nghĩa là từng đợt liên tiếp.", "examples": [{ "chinese": "厨房里飘来阵阵饭菜香……", "pinyin": "Chúfáng li piāolái zhènzhèn fàncàixiāng……", "vietnamese": "Từ trong bếp thoảng ra từng làn hương cơm canh thơm phức……", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["trận địa, đội hình"], "structure": "上阵 / 阵容", "difference_note": "Trong quân sự, thể thao chỉ đội hình hoặc chiến tuyến.", "examples": [{ "chinese": "这次比赛我们派出了最强的阵容。", "pinyin": "Zhè cì bǐsài wǒmen pàichū le zuì qiáng de zhènróng.", "vietnamese": "Trận đấu lần này chúng tôi đã tung ra đội hình mạnh nhất." }] }
+      ],
+      "chinese_explanation": "量词，表示事情或动作经过的段落；军队作战时的队形。", "collocations": ["一阵风", "一阵雨", "一阵花香", "阵阵饭菜香"], "usage_note": "Chú ý vị trí lượng từ đứng TRƯỚC danh từ (Bài tập 3 câu 4 tr.26: '花园里飘来一阵花香').", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l02_w38", "order": 38, "textbook": "HSK 5 上", "lesson": 2,
+      "hanzi": "感受", "pinyin": "gǎnshòu",
+      "lesson_usage": { "part_of_speech": "动词 / 名词 (Động từ / Danh từ)", "meanings": ["1. (Động từ) cảm nhận, cảm thấy", "2. (Danh từ) sự cảm nhận, cảm xúc"], "meaning": "cảm nhận; sự cảm nhận", "structure": "(đgt) 感受到 + 温暖/快乐/变化; (dt) 谈谈你的感受", "explanation": "Tiếp nhận tác động từ bên ngoài vào tâm trí/giác quan, hoặc bản thân cảm xúc đó.", "examples": [
+        { "chinese": "只是为了让我们回来时，能立刻感受到家的温暖！", "pinyin": "Zhǐshì wèile ràng wǒmen huílai shí, néng lìkè gǎnshòudào jiā de wēnnuǎn!", "vietnamese": "Chỉ là để khi chúng tôi trở về, có thể lập tức cảm nhận được hơi ấm gia đình!", "from_text": true },
+        { "chinese": "看完这部电影，你有什么感受？", "pinyin": "Kànwán zhè bù diànyǐng, nǐ yǒu shénme gǎnshòu?", "vietnamese": "Xem xong bộ phim này, bạn có cảm nhận gì?" }
+      ] },
+      "additional_usages": [], "chinese_explanation": "接触外界事物得到的影响；体会到的感想。", "collocations": ["感受到温暖", "切身感受", "谈感受"], "usage_note": "Thường đi kèm bổ ngữ kết quả 到: 感受到 + Danh từ trừu tượng.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l02_w39", "order": 39, "textbook": "HSK 5 上", "lesson": 2,
+      "hanzi": "流泪", "pinyin": "liú lèi",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ ly hợp)", "meaning": "chảy nước mắt", "structure": "流泪 / 流下了热泪 / 感动得流泪", "explanation": "Rơi nước mắt vì xúc động, đau buồn hoặc vui sướng.", "examples": [{ "chinese": "我鼻子一酸，流下了热泪……", "pinyin": "Wǒ bízi yì suān, liúxià le rèlèi……", "vietnamese": "Sống mũi tôi cay xè, trào rơi những giọt nước mắt nóng hổi……", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "流出眼泪。", "collocations": ["流下热泪", "感动得流泪"], "usage_note": "Là từ ly hợp nên trong bài tách ra thành '流下了热泪' (chèn 下了 và định ngữ 热 vào giữa).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    }
+  ],
+  "proper_nouns": [],
+  "collocations_table": [
+    { "relation": "Động từ + Tân ngữ", "head": "断", "partners": "水 / 电 / 奶 / 交 / 联系" },
+    { "relation": "Động từ + Tân ngữ", "head": "晒", "partners": "被子 / 衣服 / 太阳" },
+    { "relation": "Định ngữ + Trung tâm ngữ", "head": "强烈的", "partners": "阳光 / 感情 / 对比" },
+    { "relation": "Định ngữ + Trung tâm ngữ", "head": "长途", "partners": "旅行 / 汽车 / 电话" },
+    { "relation": "Trạng ngữ + Trung tâm ngữ", "head": "一辈子", "partners": "住在农村 / 没出国" },
+    { "relation": "Trạng ngữ + Trung tâm ngữ", "head": "坚决", "partners": "反对 / 改正" },
+    { "relation": "Trung tâm ngữ + Bổ ngữ", "head": "断 (Bổ ngữ)", "partners": "打 / 挣 (zhèng) / 摔 (shuāi) + 断" },
+    { "relation": "Trung tâm ngữ + Bổ ngữ", "head": "不得了 (Bổ ngữ)", "partners": "热得 / 累得 / 急得 / 兴奋得 / 热闹得 + 不得了" },
+    { "relation": "Số lượng từ + Danh từ", "head": "一套", "partners": "房子 / 家具 / 餐具 / 邮票 / 西服" },
+    { "relation": "Số lượng từ + Danh từ", "head": "一阵", "partners": "风 / 雨 / 歌声 / 香味" }
+  ],
+  "grammar": [
+    {
+      "title": "以来",
+      "formula": "Thời điểm quá khứ / Sự kiện + 以来",
+      "meaning": "Từ ... đến nay.",
+      "usage": "Danh từ chỉ khoảng thời gian kéo dài từ một mốc thời gian trong quá khứ cho đến hiện tại.",
+      "context": "Đặt sau danh từ thời gian hoặc cụm động từ ngắn (không đứng độc lập).",
+      "examples": [
+        { "chinese": "改革开放以来，中国发生了巨大的变化。", "pinyin": "Gǎigé kāifàng yǐlái, Zhōngguó fāshēng le jùdà de biànhuà.", "vietnamese": "Từ khi cải cách mở cửa đến nay, Trung Quốc đã có những thay đổi to lớn." },
+        { "chinese": "因此长年以来，父母很少离开老屋，……", "pinyin": "Yīncǐ chángnián yǐlái, fùmǔ hěn shǎo líkāi lǎowū, ……", "vietnamese": "Vì thế nhiều năm nay, ba mẹ rất ít khi rời khỏi căn nhà cũ……" },
+        { "chinese": "一直以来，“80后”这个词儿都含有年轻的味道。", "pinyin": "Yìzhí yǐlái, “bālínghòu” zhège cír dōu hányǒu niánqīng de wèidào.", "vietnamese": "Từ trước đến nay, từ “thế hệ 80” luôn mang sắc thái trẻ trung." }
+      ],
+      "important_notes": "Thường gặp cụm cố định '一直以来' (từ trước tới nay), '长年以来' (nhiều năm nay), '到中国以来' (từ khi đến Trung Quốc đến nay).",
+      "common_errors": "Không đặt sau khoảng thời lượng thuần túy (nói '三年来', không nói '三年以来').",
+      "comparison": "",
+      "mini_practice": [{ "prompt": "到中国以来，______________________。", "sample_answer": "我的汉语水平提高了很多", "explanation": "Cụm '到中国以来' làm trạng ngữ thời gian đầu câu." }]
+    },
+    {
+      "title": "临 (Động từ & Giới từ)",
+      "formula": "(1) Đgt: 临 + 街/江/海 (sát, hướng ra)  |  (2) Giới từ: 临 + V (时/前/那天) (sắp, gần đến lúc)",
+      "meaning": "1. Sát, kề bên, đối diện · 2. Sắp sửa, ngay trước khi (làm gì).",
+      "usage": "Là động từ chỉ vị trí tiếp giáp (临街、临江); là giới từ biểu thị thời điểm ngay sát trước khi một hành vi diễn ra (临走、临离开北京的时候).",
+      "context": "Rất hay xuất hiện trong miêu tả nhà cửa và kể chuyện chia tay/chuyển tiếp thời điểm.",
+      "examples": [
+        { "chinese": "我想买一套不临街的房子，这样不会太吵。", "pinyin": "Wǒ xiǎng mǎi yí tào bù línjiē de fángzi, zhèyàng bú huì tài chǎo.", "vietnamese": "Tôi muốn mua một căn nhà không sát mặt đường, như thế sẽ không quá ồn." },
+        { "chinese": "临江新修了一条路，晚饭后很多人都去那儿散步。", "pinyin": "Línjiāng xīn xiū le yì tiáo lù, wǎnfàn hòu hěn duō rén dōu qù nàr sànbù.", "vietnamese": "Ven sông mới làm một con đường, sau bữa tối nhiều người ra đó đi dạo." },
+        { "chinese": "这是我临离开北京的时候买的。", "pinyin": "Zhè shì wǒ lín líkāi Běijīng de shíhou mǎi de.", "vietnamese": "Đây là thứ tôi mua lúc sắp rời Bắc Kinh." },
+        { "chinese": "临走那天，父亲从老家赶来送我们。", "pinyin": "Lín zǒu nà tiān, fùqīn cóng lǎojiā gǎnlái sòng wǒmen.", "vietnamese": "Hôm sắp đi, ba từ quê vội lên tiễn chúng tôi." }
+      ],
+      "important_notes": "Phân biệt rõ 2 từ loại: 临街/临江 (động từ không gian) vs 临走/临睡前 (giới từ thời gian).",
+      "common_errors": "",
+      "comparison": "",
+      "mini_practice": [{ "prompt": "A: 你卧室里的新被子真漂亮，哪儿买的？  B: ______________________。（临）", "sample_answer": "这是我临来中国前妈妈给我买的", "explanation": "Dùng giới từ '临……前' chỉ thời điểm ngay trước khi đi." }]
+    },
+    {
+      "title": "立刻",
+      "formula": "S + 立刻 + V",
+      "meaning": "Lập tức, ngay lập tức.",
+      "usage": "Phó từ đứng trước động từ, nhấn mạnh một hành động xảy ra nối tiếp ngay sau một hành động/tình huống trước đó.",
+      "context": "Thường phối hợp với '一……就立刻……' hoặc dùng trong câu kể sự việc diễn ra tức thì.",
+      "examples": [
+        { "chinese": "上了楼，开门的竟是微笑着的父母，温暖的气息立刻扑面而来……", "pinyin": "Shàng le lóu, kāimén de jìng shì wēixiàozhe de fùmǔ, wēnnuǎn de qìxī lìkè pūmiàn ér lái……", "vietnamese": "Lên lầu, người mở cửa hóa ra là ba mẹ đang mỉm cười, hơi ấm lập tức phả vào mặt……" },
+        { "chinese": "原来父母要我留下串钥匙，只是为了让我们回来时，能立刻感受到家的温暖！", "pinyin": "Yuánlái fùmǔ yào wǒ liúxià chuàn yàoshi, zhǐshì wèile ràng wǒmen huílai shí, néng lìkè gǎnshòudào jiā de wēnnuǎn!", "vietnamese": "Thì ra ba mẹ muốn tôi để lại chùm chìa khóa, chỉ để khi chúng tôi về có thể lập tức cảm nhận hơi ấm gia đình!" },
+        { "chinese": "那两只羊一见到青草，就立刻去吃草了，哪还有心思打架呢？", "pinyin": "Nà liǎng zhī yáng yí jiàndào qīngcǎo, jiù lìkè qù chīcǎo le, nǎ hái yǒu xīnsi dǎjià ne?", "vietnamese": "Hai con dê kia vừa nhìn thấy cỏ xanh liền lập tức chạy tới ăn cỏ, đâu còn tâm trí đánh nhau nữa?" }
+      ],
+      "important_notes": "Phân biệt với 马上: 立刻 nhấn mạnh tức khắc ngay sau hành động trước (không dùng cho việc còn cách vài ngày/tuần như '春节马上就要到了').",
+      "common_errors": "Sai: '只有一个星期了，春节立刻就要到了' → Phải dùng '马上'.",
+      "comparison": "立刻 (tức thì, dùng trước động từ) vs 马上 (sắp sửa, có thể dùng cho mốc thời gian gần trong tương lai).",
+      "mini_practice": [{ "prompt": "一下课，______________________。（立刻）", "sample_answer": "同学们就立刻跑出了教室", "explanation": "Nhấn mạnh hành động xảy ra ngay sau khi tan học." }]
+    }
+  ],
+  "comparison_section": {
+    "label": "词语辨析 Phân biệt từ ngữ",
+    "pair": "悄悄 — 偷偷",
+    "term_a": "悄悄 (qiāoqiāo)",
+    "term_b": "偷偷 (tōutōu)",
+    "similarity": "Đều là phó từ, đều mang nghĩa làm việc gì đó không để người khác phát hiện. VD: 他悄悄/偷偷地走了出去。",
+    "differences": [
+      { "criterion": "Trọng tâm biểu đạt", "a": "Nhấn mạnh ÂM THANH RẤT NHỎ, hành động nhẹ nhàng, không làm ồn (VD: 父亲悄悄把我拉到一边说话 / 孩子睡着了，爸爸在妈妈耳边悄悄说了几句话).", "b": "Nhấn mạnh HÀNH VI KHÔNG MUỐN NGƯỜI KHÁC BIẾT, giấu giếm lén lút (VD: 他谁也没告诉，偷偷去旅行了 / 别人都不知道，她只是偷偷地把这件事告诉了我)." }
+    ]
+  },
+  "texts": [
+    {
+      "id": "t1", "title_zh": "留串钥匙给父母（593字）", "title_vi": "Để chìa khóa cho ba mẹ",
+      "lines": [
+        { "speaker": "", "chinese": "父母一辈子住在农村老家，对老屋的感情，就像没断奶的孩子对母亲一样。因此长年以来，父母很少离开老屋，尽管姥姥、舅舅和姑姑都在城里，父母也坚决不在城里住。", "pinyin": "Fùmǔ yíbèizi zhù zài nóngcūn lǎojiā, duì lǎowū de gǎnqíng, jiù xiàng méi duànnǎi de háizi duì mǔqīn yíyàng. Yīncǐ chángnián yǐlái, fùmǔ hěn shǎo líkāi lǎowū, jǐnguǎn lǎolao, jiùjiu hé gūgu dōu zài chéngli, fùmǔ yě jiānjué bú zài chéngli zhù.", "vietnamese": "Ba mẹ cả đời sống ở quê nông thôn, tình cảm với căn nhà cũ giống như đứa trẻ chưa cai sữa đối với mẹ vậy. Vì thế nhiều năm nay, ba mẹ rất ít khi rời khỏi nhà cũ; mặc dù bà ngoại, cậu và cô đều ở thành phố, ba mẹ vẫn kiên quyết không sống ở thành phố." },
+        { "speaker": "", "chinese": "去年，在我和妻子的努力下，我们终于用打工挣的钱，在县里买了一套新房。新房装修完，父母第一次走进新房时，高兴得不得了。妻子提出留一串钥匙给父母，可他们拒绝了。那天，父亲喝醉了，等他醒时，天色已晚。我和妻子强烈留父母在新房住一夜，第二天再回，但他们仍坚持坐上了最后一趟回老家的车。", "pinyin": "Qùnián, zài wǒ hé qīzi de nǔlì xià, wǒmen zhōngyú yòng dǎ gōng zhèng de qián, zài xiànli mǎi le yí tào xīnfáng. Xīnfáng zhuāngxiū wán, fùmǔ dì-yī cì zǒujìn xīnfáng shí, gāoxìng de bùdéliǎo. Qīzi tíchū liú yí chuàn yàoshi gěi fùmǔ, kě tāmen jùjué le. Nà tiān, fùqīn hēzuì le, děng tā xǐng shí, tiānsè yǐ wǎn. Wǒ hé qīzi qiángliè liú fùmǔ zài xīnfáng zhù yí yè, dì-èr tiān zài huí, dàn tāmen réng jiānchí zuòshàng le zuìhòu yí tàng huí lǎojiā de chē.", "vietnamese": "Năm ngoái, nhờ nỗ lực của hai vợ chồng, cuối cùng chúng tôi cũng dùng tiền đi làm thuê kiếm được mua một căn nhà mới ở huyện. Nhà mới sửa sang xong, lần đầu tiên ba mẹ bước vào nhà mới, vui sướng vô cùng. Vợ tôi đề nghị để lại một chùm chìa khóa cho ba mẹ, nhưng ông bà đã từ chối. Hôm ấy, ba uống say, lúc ba tỉnh dậy trời đã tối. Vợ chồng tôi tha thiết giữ ba mẹ ở lại nhà mới một đêm rồi hôm sau về, nhưng ông bà vẫn nhất quyết lên chuyến xe cuối cùng về quê." },
+        { "speaker": "", "chinese": "一段时间后，我和妻子又准备去外地打工，新房只能上锁空着。临走那天，父亲从老家赶来送我们。父亲悄悄把我拉到一边说：“你妈说了，你还是留一串新房的钥匙给我们，要是我和你妈什么时候想来了，就来住上几天，顺便给你们晒晒被子，打扫打扫卫生。”父亲说这话时，轻声细语，还红着脸，像个害羞的孩子。", "pinyin": "Yí duàn shíjiān hòu, wǒ hé qīzi yòu zhǔnbèi qù wàidì dǎ gōng, xīnfáng zhǐ néng shàngsuǒ kōngzhe. Lín zǒu nà tiān, fùqīn cóng lǎojiā gǎnlái sòng wǒmen. Fùqīn qiāoqiāo bǎ wǒ lādāo yìbiān shuō: “Nǐ mā shuō le, nǐ háishi liú yí chuàn xīnfáng de yàoshi gěi wǒmen, yàoshi wǒ hé nǐ mā shénme shíhou xiǎng lái le, jiù lái zhùshang jǐ tiān, shùnbiàn gěi nǐmen shàishai bèizi, dǎsǎo dǎsǎo wèishēng.” Fùqīn shuō zhè huà shí, qīngshēng xìyǔ, hái hóngzhe liǎn, xiàng ge hàixiū de háizi.", "vietnamese": "Một thời gian sau, hai vợ chồng tôi lại chuẩn bị đi nơi khác làm thuê, căn nhà mới chỉ đành khóa cửa để trống. Hôm sắp đi, ba từ quê vội lên tiễn chúng tôi. Ba khẽ kéo tôi sang một bên nói: “Mẹ con bảo, con cứ để lại một chùm chìa khóa nhà mới cho ba mẹ, nhỡ lúc nào ba với mẹ muốn sang thì lên ở mấy hôm, tiện thể phơi chăn, dọn dẹp vệ sinh cho các con.” Lúc nói câu ấy, ba nói khẽ khàng, mặt còn đỏ bừng, giống như một đứa trẻ hay ngượng." },
+        { "speaker": "", "chinese": "转眼又是半年，我们回家时是一个深冬的夜里。下了长途车，儿子被冻得大哭。我和妻子想象着打开家门满是灰尘、冷冷清清的景象，觉得心里发寒。来到楼下，抬头一看，却发现自家亮着灯光。上了楼，开门的竟是微笑着的父母，温暖的气息立刻扑面而来：室内打扫得干干净净，暖气开着，水已温热，卧室床上的被子已铺好，厨房里飘来阵阵饭菜香……", "pinyin": "Zhuǎnyǎn yòu shì bàn nián, wǒmen huíjiā shí shì yí ge shēndōng de yèli. Xià le chángtúchē, érzi bèi dòng de dàkū. Wǒ hé qīzi xiǎngxiàngzhe dǎkāi jiāmén mǎn shì huīchén, lěnglěngqīngqīng de jǐngxiàng, juéde xīnli fāhán. Láidào lóuxià, táitóu yí kàn, què fāxiàn zìjiā liàngzhe dēngguāng. Shàng le lóu, kāimén de jìng shì wēixiàozhe de fùmǔ, wēnnuǎn de qìxī lìkè pūmiàn ér lái: shìnèi dǎsǎo de gāngānjìngjìng, nuǎnqì kāizhe, shuǐ yǐ wēnrè, wòshì chuángshang de bèizi yǐ pūhǎo, chúfáng li piāolái zhènzhèn fàncàixiāng……", "vietnamese": "Thoắt cái lại nửa năm trôi qua, lúc chúng tôi về nhà là một đêm giữa đông lạnh giá. Xuống xe đường dài, con trai bị lạnh cóng đến bật khóc toáng lên. Vợ chồng tôi tưởng tượng cảnh mở cửa ra nhà đầy bụi bặm, lạnh lẽo vắng tanh, thấy trong lòng lạnh buốt. Đến dưới lầu, ngẩng đầu nhìn lên, bất ngờ thấy nhà mình sáng ánh đèn. Lên tới nơi, người mở cửa hóa ra là ba mẹ đang mỉm cười, hơi ấm lập tức phả vào mặt: trong nhà dọn dẹp sạch bong, máy sưởi đang bật, nước đã ấm nóng, chăn trên giường phòng ngủ đã trải sẵn, từ bếp thoảng ra từng làn hương cơm canh thơm ngào ngạt……" },
+        { "speaker": "", "chinese": "父亲说：“你妈昨天接到电话，知道你们今晚回来，今天来新房忙了一天了。”原来父母要我留下串钥匙，只是为了让我们回来时，能立刻感受到家的温暖！我鼻子一酸，流下了热泪……", "pinyin": "Fùqīn shuō: “Nǐ mā zuótiān jiēdào diànhuà, zhīdào nǐmen jīnwǎn huílai, jīntiān lái xīnfáng máng le yì tiān le.” Yuánlái fùmǔ yào wǒ liúxià chuàn yàoshi, zhǐshì wèile ràng wǒmen huílai shí, néng lìkè gǎnshòudào jiā de wēnnuǎn! Wǒ bízi yì suān, liúxià le rèlèi……", "vietnamese": "Ba nói: “Hôm qua mẹ con nhận điện thoại biết tối nay các con về, hôm nay đã sang nhà mới bận rộn cả ngày rồi.” Thì ra ba mẹ bảo tôi để lại chùm chìa khóa, chỉ để khi chúng tôi trở về có thể lập tức cảm nhận được hơi ấm gia đình! Sống mũi tôi cay xè, trào rơi những giọt nước mắt nóng hổi……" }
+      ]
+    }
+  ],
+  "reading_questions": [
+    { "question_zh": "为什么父母一开始拒绝接受新房钥匙，后来在“我”临走前又主动要了一串钥匙？", "question_vi": "Vì sao ban đầu ba mẹ từ chối nhận chìa khóa nhà mới, nhưng sau đó trước lúc “tôi” sắp đi lại chủ động xin một chùm chìa khóa?", "answer_zh": "父母一辈子习惯住在农村老屋，不愿打扰孩子；后来知道孩子要去外地打工，要钥匙并不是为了自己住，而是为了在孩子回来前提前帮他们打扫卫生、开暖气、做饭，让他们一进门就能立刻感受到家的温暖。", "answer_vi": "Ba mẹ cả đời quen sống ở nhà cũ dưới quê, không muốn làm phiền con; sau đó biết con sắp đi xa làm thuê nên xin chìa khóa không phải để tự ở, mà để dọn dẹp, bật sưởi, nấu cơm trước khi con về để con vừa bước vào cửa là cảm nhận ngay hơi ấm gia đình." }
+  ],
+  "exercises": [
+    {
+      "id": "h5s2_ex1", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.25–26 (练习 1)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn cặp từ điền đúng vào chỗ trống: “房门被反______上了，他从窗户里跳出来，把腿摔______了。”",
+      "options": ["锁 / 断", "断 / 锁", "套 / 断", "锁 / 挣"],
+      "answer": "锁 / 断",
+      "explanation": "反锁上 = khóa trái cửa; 摔断 = ngã gãy (chân). Đây là câu 5 nguyên văn trong 练习 1 trang 26!",
+      "review_tip": "Ôn cách dùng động từ 锁 và bổ ngữ kết quả 断."
+    },
+    {
+      "id": "h5s2_ex2", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.26 (练习 1)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ điền đúng vào 3 chỗ trống: “暑假的时候我想去______两个月______，______点儿钱。”",
+      "options": ["打 / 工 / 挣", "挣 / 钱 / 打", "做 / 工 / 留", "打 / 锁 / 挣"],
+      "answer": "打 / 工 / 挣",
+      "explanation": "打工 là động từ ly hợp, bổ ngữ thời lượng '两个月' phải chèn giữa 打 và 工 → 打两个月工; kiếm tiền là 挣点儿钱.",
+      "review_tip": "Ôn quy tắc từ ly hợp 打工 (打两个月工)."
+    },
+    {
+      "id": "h5s2_ex3", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.25 (词语辨析)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ thích hợp nhất: “孩子睡着了，爸爸在妈妈耳边______说了几句话。”",
+      "options": ["悄悄", "偷偷", "暗暗", "立刻"],
+      "answer": "悄悄",
+      "explanation": "Câu nhấn mạnh âm thanh rất nhỏ để không đánh thức con đang ngủ → dùng 悄悄 (không phải hành vi giấu giếm 偷偷).",
+      "review_tip": "Ôn bảng 词语辨析: 悄悄—偷偷 tr.25."
+    },
+    {
+      "id": "h5s2_ex4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.26 (练习 2)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “只有一个星期了，春节______就要到了。”",
+      "options": ["马上", "立刻", "悄悄", "强烈"],
+      "answer": "马上",
+      "explanation": "Còn 1 tuần nữa mới đến Tết (mốc thời gian gần trong tương lai, không phải hành động nối tiếp tức thì) → dùng 马上, không dùng 立刻.",
+      "review_tip": "Ôn Chú thích 3 立刻 và phân biệt với 马上."
+    },
+    {
+      "id": "h5s2_ex5", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.26 (练习 2)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “女服务员给了我一个______的微笑。”",
+      "options": ["温暖", "暖和", "强烈", "坚决"],
+      "answer": "温暖",
+      "explanation": "温暖 vừa chỉ nhiệt độ vừa chỉ sự ấm áp về tinh thần/tình cảm (温暖的微笑); 暖和 chỉ dùng cho thời tiết, không khí, quần áo.",
+      "review_tip": "Ôn từ #31 温暖."
+    },
+    {
+      "id": "h5s2_ex6", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.26 (练习 3)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn vị trí thích hợp cho “不得了” trong câu: “A 了，他们俩 B 大吵 C 了一架 D！”",
+      "options": ["A (不得了了，……)", "B (他们俩不得了大吵)", "C (大吵不得了了一架)", "D (一架不得了)"],
+      "answer": "A (不得了了，……)",
+      "explanation": "不得了 đặt đầu câu kèm 了 ('不得了了！') là câu cảm thán nghĩa là 'Nguy to rồi! Gay go rồi!'.",
+      "review_tip": "Ôn 2 cách dùng của #16 不得了."
+    },
+    {
+      "id": "h5s2_ex7", "type": "grammar_mc", "level": "Vận dụng", "origin_tag": "Sách gốc tr.26 (练习 3)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn vị trí thích hợp cho “一辈子” trong câu: “虽然她全身 A 瘫痪了，但 B 我会照顾 C 她 D。”",
+      "options": ["D (我会照顾她一辈子)", "A (全身一辈子瘫痪了)", "C (照顾一辈子她)", "B và C đều sai hoàn toàn"],
+      "answer": "D (我会照顾她一辈子)",
+      "explanation": "Khi tân ngữ là đại từ nhân xưng (她), bổ ngữ thời lượng 一辈子 đặt ngay sau đại từ: 照顾她一辈子. (Đặt ở B trước 我 không tự nhiên bằng D hoặc trước động từ 我会一辈子照顾她).",
+      "review_tip": "Ôn vị trí bổ ngữ thời lượng với tân ngữ đại từ."
+    },
+    {
+      "id": "h5s2_ex8", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Ôn tập Bài 1", "mistake_category": "Ngữ pháp",
+      "prompt": "[Ôn Bài 1] Chọn đáp án đúng: “你______这么不耐烦？再耐心等待一会儿吧。”",
+      "options": ["怎么", "如何", "居然", "悄悄"],
+      "answer": "怎么",
+      "explanation": "Hỏi nguyên nhân ('Sao bạn lại mất kiên nhẫn thế?') bắt buộc dùng 怎么; KHÔNG được dùng 如何 để hỏi nguyên nhân.",
+      "review_tip": "Ôn bảng 词语辨析 Bài 1: 如何—怎么."
+    },
+    {
+      "id": "h5s2_ex9", "type": "context_mc", "level": "Vận dụng", "origin_tag": "Ôn tập Bài 1", "mistake_category": "Từ vựng",
+      "prompt": "[Ôn Bài 1] Trong câu “我的座位是17号，是______窗的座位。”, từ nào phù hợp nhất?",
+      "options": ["靠", "伸", "递", "催"],
+      "answer": "靠",
+      "explanation": "Nghĩa thứ 3 của 靠 (Bài 1 Chú thích 2): sát, gần kề → 靠窗的座位 (chỗ ngồi sát cửa sổ).",
+      "review_tip": "Ôn 3 lớp nghĩa của 靠 (Bài 1)."
+    },
+    {
+      "id": "h5s2_ex10", "type": "context_mc", "level": "Vận dụng", "origin_tag": "Ôn tập Bài 1–2", "mistake_category": "Từ vựng",
+      "prompt": "[Tổng hợp Bài 1–2] Chọn từ thích hợp: “夫妻俩十几年的婚姻生活中，从来没______，一直十分恩爱。”",
+      "options": ["吵过架", "吵架过", "离过婚", "打过工"],
+      "answer": "吵过架",
+      "explanation": "吵架 là động từ ly hợp, 过 đặt giữa 吵 và 架 → 吵过架; phù hợp ngữ cảnh 恩爱 trong Bài 1.",
+      "review_tip": "Ôn động từ ly hợp (吵过架, 打两个月工, 离过婚)."
+    }
+  ]
+}

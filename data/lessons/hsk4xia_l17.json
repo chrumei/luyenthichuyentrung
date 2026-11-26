@@ -1,0 +1,503 @@
+{
+  "id": "hsk4xia_l17",
+  "book_id": "hsk4xia",
+  "textbook": "HSK 4 下",
+  "lesson_number": 17,
+  "title_zh": "人与自然",
+  "title_vi": "Con người và thiên nhiên",
+  "pdf_pages": "Trang 95–106 (Chuẩn HSK4 下.pdf)",
+  "source_status": "verified_textbook",
+  "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"],
+  "vocabulary": [
+    {
+      "id": "hsk4x_l17_w01", "order": 1, "textbook": "HSK 4 下", "lesson": 17,
+      "hanzi": "凉快", "pinyin": "liángkuai",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "mát mẻ", "structure": "天气越来越凉快 / 凉快多了", "explanation": "Nhiệt độ mát dịu, dễ chịu (đối lập với 暖和 hoặc 热).", "examples": [{ "chinese": "最近天气越来越凉快了，风一刮，草地上就会有一层厚厚的黄叶，看来秋天已经到了。", "pinyin": "Zuìjìn tiānqì yuè lái yuè liángkuai le, fēng yì guā, cǎodì shang jiù huì yǒu yì céng hòuhòu de huángyè, kànlái qiūtiān yǐjīng dào le.", "vietnamese": "Dạo này thời tiết càng lúc càng mát mẻ, gió thổi một cái là trên bãi cỏ lại có một lớp lá vàng dày, xem ra mùa thu đã đến rồi.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "清凉爽快（多指天气或环境）。", "collocations": ["天气凉快", "凉快多了", "乘凉"], "usage_note": "Âm tiết thứ hai đọc thanh nhẹ (liángkuai).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l17_w02", "order": 2, "textbook": "HSK 4 下", "lesson": 17,
+      "hanzi": "热闹", "pinyin": "rènao",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "náo nhiệt", "structure": "特别热闹 / 热闹极了 / 喜欢热闹", "explanation": "Cảnh tượng đông vui, nhộn nhịp, sôi nổi.", "examples": [{ "chinese": "这几天香山特别热闹。", "pinyin": "Zhè jǐ tiān Xiāng Shān tèbié rènao.", "vietnamese": "Mấy hôm nay Hương Sơn đặc biệt náo nhiệt.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "（景象）繁盛活跃。", "collocations": ["很热闹", "热闹极了", "看热闹"], "usage_note": "Âm tiết thứ hai đọc thanh nhẹ (rènao). Hình thức lặp AABB: 热热闹闹.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l17_w03", "order": 3, "textbook": "HSK 4 下", "lesson": 17,
+      "hanzi": "云", "pinyin": "yún",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "mây", "structure": "天上的云 / 白云 / 乌云", "explanation": "Đám mây trên bầu trời.", "examples": [{ "chinese": "你看天上的云，今天肯定有大雨。", "pinyin": "Nǐ kàn tiānshang de yún, jīntiān kěndìng yǒu dà yǔ.", "vietnamese": "Cậu xem mây trên trời kìa, hôm nay chắc chắn có mưa to.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "悬浮在空中的微小水滴或冰晶的集合体。", "collocations": ["白云", "乌云", "一朵云"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l17_w04", "order": 4, "textbook": "HSK 4 下", "lesson": 17,
+      "hanzi": "广播", "pinyin": "guǎngbō",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "chương trình phát thanh/truyền hình", "structure": "听广播 / 广播里说", "explanation": "Hệ thống hoặc chương trình truyền thanh, phát sóng tin tức.", "examples": [{ "chinese": "咱们改天去长城吧，广播里说那里也有不少专门看红叶的好地方。", "pinyin": "Zánmen gǎitiān qù Chángchéng ba, guǎngbō li shuō nàlǐ yě yǒu bù shǎo zhuānmén kàn hóngyè de hǎo dìfang.", "vietnamese": "Hôm khác chúng ta đi Trường Thành nhé, trên đài phát thanh nói ở đó cũng có không ít chỗ đẹp chuyên ngắm lá đỏ.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ)", "meanings": ["phát thanh, phát sóng, thông báo qua loa"], "structure": "广播新闻 / 广播通知", "difference_note": "Làm động từ chỉ hành động phát tin tức, âm nhạc qua sóng phát thanh hoặc loa công cộng.", "examples": [{ "chinese": "机场正在广播登机通知，请大家注意听。", "pinyin": "Jīchǎng zhèngzài guǎngbō dēngjī tōngzhī, qǐng dàjiā zhùyì tīng.", "vietnamese": "Sân bay đang phát loa thông báo lên máy bay, mọi người chú ý lắng nghe." }] }
+      ],
+      "chinese_explanation": "通过无线电波或导线向广大地区播送声音或图像节目。", "collocations": ["听广播", "广播电台", "广播节目"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l17_w05", "order": 5, "textbook": "HSK 4 下", "lesson": 17,
+      "hanzi": "照", "pinyin": "zhào",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "chụp (ảnh)", "structure": "照相 / 照照片 / 给……照照片", "explanation": "Chụp ảnh bằng máy ảnh hoặc điện thoại (gần với 拍).", "examples": [{ "chinese": "真可惜，我还想多照点儿香山的照片呢。", "pinyin": "Zhēn kěxī, wǒ hái xiǎng duō zhào diǎnr Xiāng Shān de zhàopiàn ne.", "vietnamese": "Tiếc quá, mình còn muốn chụp thêm ít ảnh Hương Sơn cơ.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Nghĩa gốc: chiếu sáng, soi)", "meanings": ["chiếu sáng, rọi tới (ánh nắng, đèn)", "soi gương (照镜子)"], "structure": "灯光照到…… / 照镜子", "difference_note": "Ngay trong bài tập tr.104 có câu: '每当后面汽车的灯光照到它时，它就会反光'.", "examples": [{ "chinese": "每当后面汽车的灯光照到自行车后灯时，它就会反光。", "pinyin": "Měidāng hòumiàn qìchē de dēngguāng zhàodào zìxíngchē hòudēng shí, tā jiù huì fǎnguāng.", "vietnamese": "Mỗi khi ánh đèn ô tô phía sau chiếu vào đèn hậu xe đạp, nó sẽ phản quang." }] },
+        { "part_of_speech": "介词 (Giới từ)", "meanings": ["theo, dựa theo (= 按照)"], "structure": "照我说 / 照计划办", "difference_note": "Dạng rút gọn khẩu ngữ của 按照 (theo như).", "examples": [{ "chinese": "照我说，咱们还是改天再去长城吧。", "pinyin": "Zhào wǒ shuō, zánmen háishi gǎitiān zài qù Chángchéng ba.", "vietnamese": "Theo mình nói thì chúng ta cứ để hôm khác hãy đi Trường Thành." }] }
+      ],
+      "chinese_explanation": "摄影（照相）；光线射在物体上；对着镜子看；按照。", "collocations": ["照照片", "照相", "照镜子", "灯光照到"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l17_w06", "order": 6, "textbook": "HSK 4 下", "lesson": 17,
+      "hanzi": "倒", "pinyin": "dào",
+      "lesson_usage": { "part_of_speech": "副词 (Phó từ)", "meaning": "(được dùng để chỉ sự tương phản) nhưng, lại", "structure": "倒 / 倒是 + Vị ngữ", "explanation": "Biểu thị trái với dự đoán, mang ngữ khí trách móc hoặc nhượng bộ (như trong bài khóa 1: nhượng bộ chấp nhận đề nghị).", "examples": [{ "chinese": "去长城倒是一个好主意，那我们明天去吧。", "pinyin": "Qù Chángchéng dào shì yí ge hǎo zhǔyi, nà wǒmen míngtiān qù ba.", "vietnamese": "Đi Trường Thành cũng là một ý hay đấy, vậy ngày mai chúng ta đi nhé.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ dào — nêu ngay trong Chú thích 1 tr.97)", "meanings": ["đổ, rót (nghiêng vật chứa cho chất bên trong chảy ra)"], "structure": "倒水 / 倒杯咖啡 / 倒垃圾", "difference_note": "Cùng đọc dào (thanh 4) nhưng là động từ chỉ hành động rót/đổ nước, cà phê, rác.", "examples": [{ "chinese": "你怎么咳嗽得这么厉害？我给你倒杯水吧。", "pinyin": "Nǐ zěnme késou de zhème lìhai? Wǒ gěi nǐ dào bēi shuǐ ba.", "vietnamese": "Sao cậu ho dữ thế? Để mình rót cho cậu cốc nước nhé." }] },
+        { "part_of_speech": "动词 (Động từ — đa âm đọc dǎo)", "meanings": ["ngã, đổ sập, phá sản"], "structure": "摔倒 / 病倒 / 倒闭", "difference_note": "Cực kỳ quan trọng: đọc thanh 3 (dǎo) khi nghĩa là ngã xuống, đổ rạp; đọc thanh 4 (dào) khi là rót nước, đảo ngược, hoặc phó từ tương phản.", "examples": [{ "chinese": "下雪路滑，走路小心别摔倒了。", "pinyin": "Xiàxuě lù huá, zǒulù xiǎoxīn bié shuāidǎo le.", "vietnamese": "Tuyết rơi đường trơn, đi cẩn thận kẻo trượt ngã đấy." }] }
+      ],
+      "chinese_explanation": "读 dào 作副词表转折/让步/出乎意料，作动词表倾倒；读 dǎo 作动词表竖立的东西躺下（摔倒）。", "collocations": ["倒是", "倒水", "倒茶", "摔倒 (dǎo)"], "usage_note": "Xem Chú thích 1 tr.97 để nắm đủ 3 sắc thái của phó từ 倒 (trái dự đoán, trách móc, nhượng bộ) và động từ 倒 (rót).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l17_w07", "order": 7, "textbook": "HSK 4 下", "lesson": 17,
+      "hanzi": "毛", "pinyin": "máo",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "lông", "structure": "狗毛 / 羽毛 / 皮毛", "explanation": "Lông của động vật hoặc lông tơ trên cơ thể.", "examples": [{ "chinese": "你的这只大黑狗毛真漂亮，而且这么聪明，每次见了都想抱一抱它。", "pinyin": "Nǐ de zhè zhī dà hēi gǒu máo zhēn piàoliang, érqiě zhème cōngming, měi cì jiànle dōu xiǎng bào yi bào tā.", "vietnamese": "Con chó đen to này của cậu lông đẹp thật đấy, lại thông minh thế này, lần nào gặp cũng muốn ôm nó một cái.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "量词 (Lượng từ tiền tệ)", "meanings": ["hào (đơn vị tiền Trung Quốc = 1 角 = 0,1 Nhân dân tệ)"], "structure": "五毛钱 / 两块五毛", "difference_note": "Cách gọi khẩu ngữ của đơn vị 角 (jiǎo) khi mua bán ở Trung Quốc.", "examples": [{ "chinese": "这支铅笔只要五毛钱。", "pinyin": "Zhè zhī qiānbǐ zhǐ yào wǔ máo qián.", "vietnamese": "Cây bút chì này chỉ có năm hào thôi." }] }
+      ],
+      "chinese_explanation": "动植物的毛；口语中作货币单位（角）。", "collocations": ["毛衣", "毛巾", "羽毛", "五毛钱"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l17_w08", "order": 8, "textbook": "HSK 4 下", "lesson": 17,
+      "hanzi": "抱", "pinyin": "bào",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "bế, bồng, ôm", "structure": "抱一抱 / 抱着孩子 / 拥抱", "explanation": "Dùng hai tay vòng quanh ôm giữ người, thú cưng hoặc đồ vật vào lòng.", "examples": [{ "chinese": "每次见了都想抱一抱它。", "pinyin": "Měi cì jiànle dōu xiǎng bào yi bào tā.", "vietnamese": "Lần nào gặp cũng muốn ôm nó một cái.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "用手臂围住；搂在怀里。", "collocations": ["抱孩子", "抱一抱", "拥抱", "抱歉"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l17_w09", "order": 9, "textbook": "HSK 4 下", "lesson": 17,
+      "hanzi": "干", "pinyin": "gàn",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "làm", "structure": "干什么 / 干工作 / 好好儿干", "explanation": "Làm việc, tiến hành một công việc, sự nghiệp hoặc hoạt động nào đó (đọc thanh 4: gàn).", "examples": [{ "chinese": "每次你让它干什么，它就像能听懂你的话一样去做。", "pinyin": "Měi cì nǐ ràng tā gàn shénme, tā jiù xiàng néng tīngdǒng nǐ de huà yíyàng qù zuò.", "vietnamese": "Mỗi lần cậu bảo nó làm gì, nó cứ như nghe hiểu lời cậu vậy mà làm theo.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "形容词 (Tính từ — đa âm đọc gān, nêu ngay tr.98)", "meanings": ["khô, cạn nước"], "structure": "擦干 / 干燥 / 干净", "difference_note": "Đọc thanh 1 (gān) nghĩa là khô ráo, không có nước.", "examples": [{ "chinese": "头发都湿了，先把头发擦干，别感冒了。", "pinyin": "Tóufa dōu shī le, xiān bǎ tóufa cāgān, bié gǎnmào le.", "vietnamese": "Tóc ướt hết rồi, lau khô tóc trước đi kẻo bị cảm." }] },
+        { "part_of_speech": "名词 (Danh từ — 干儿 gānr, nêu ngay tr.98)", "meanings": ["thực phẩm sấy khô"], "structure": "牛肉干 / 葡萄干 / 饼干", "difference_note": "Chỉ các loại đồ ăn đã chế biến rút hết nước.", "examples": [{ "chinese": "这牛肉干味道真不错，在哪儿买的？", "pinyin": "Zhè niúròugān wèidào zhēn búcuò, zài nǎr mǎi de?", "vietnamese": "Thịt bò khô này vị ngon thật, mua ở đâu thế?" }] }
+      ],
+      "chinese_explanation": "读 gàn 作动词表示做事情、从事工作；读 gān 作形容词表示没有水分，作名词指干燥的食品。", "collocations": ["干活儿", "干什么", "擦干 (gān)", "牛肉干 (gān)"], "usage_note": "Chữ đa âm trọng tâm của Bài 17 (Chú thích 2 tr.98): 干 gàn (làm) vs 干 gān (khô / đồ khô).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l17_w10", "order": 10, "textbook": "HSK 4 下", "lesson": 17,
+      "hanzi": "严格", "pinyin": "yángé",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "nghiêm khắc, nghiêm ngặt", "structure": "严格按照…… / 严格要求 / 很严格", "explanation": "Tuân thủ chuẩn xác không sai lệch hoặc đặt ra yêu cầu cao, nghiêm túc.", "examples": [{ "chinese": "然后它就会严格按照你的要求做了。", "pinyin": "Ránhòu tā jiù huì yángé ànzhào nǐ de yāoqiú zuò le.", "vietnamese": "Sau đó nó sẽ làm theo đúng nghiêm ngặt yêu cầu của cậu.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "遵守或执行规定、标准等不放松、不马虎。", "collocations": ["严格要求", "严格按照", "老师很严格"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l17_w11", "order": 11, "textbook": "HSK 4 下", "lesson": 17,
+      "hanzi": "难受", "pinyin": "nánshòu",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "bực bội, buồn rầu", "structure": "心里难受 / 很难受", "explanation": "Trong bài khóa 2 chỉ cảm giác đau buồn, tủi thân, bức bối trong lòng.", "examples": [{ "chinese": "在你心里难受的时候，它会一直陪着你。", "pinyin": "Zài nǐ xīnli nánshòu de shíhou, tā huì yìzhí péizhe nǐ.", "vietnamese": "Những lúc trong lòng cậu buồn bã, nó sẽ luôn ở bên cạnh cậu.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "形容词 (Cảm giác thể chất)", "meanings": ["khó chịu, mệt mỏi, đau nhức trong người"], "structure": "身体难受 / 坐久了有些难受", "difference_note": "Như câu 8 bài tập tr.104 ('坐久了确实有些难受'), còn dùng rất nhiều để tả sự khó chịu về cơ thể khi ốm đau hoặc mỏi mệt.", "examples": [{ "chinese": "工作半天了，起来活动活动吧，坐久了确实有些难受。", "pinyin": "Gōngzuò bàntiān le, qǐlai huódòng huódòng ba, zuò jiǔ le quèshí yǒuxiē nánshòu.", "vietnamese": "Làm việc nửa ngày rồi, đứng dậy vận động chút đi, ngồi lâu quả thực hơi khó chịu." }] }
+      ],
+      "chinese_explanation": "心里不痛快（伤心、憋闷）；身体不舒服。", "collocations": ["心里难受", "身体难受", "难受极了"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l17_w12", "order": 12, "textbook": "HSK 4 下", "lesson": 17,
+      "hanzi": "趟", "pinyin": "tàng",
+      "lesson_usage": { "part_of_speech": "量词 (Lượng từ)", "meaning": "(chỉ số lần đi lại) lần, chuyến", "structure": "去(一)趟 + Địa điểm / 出趟差 / 回一趟家", "explanation": "Động lượng từ chỉ một lượt 'đi rồi về' (一去一回), dùng với các động từ di chuyển như 来、去、走、跑、接、送.", "examples": [{ "chinese": "上个月我去了趟北京动物园，那里约有500种动物。", "pinyin": "Shàng ge yuè wǒ qùle tàng Běijīng Dòngwùyuán, nàlǐ yuē yǒu wǔbǎi zhǒng dòngwù.", "vietnamese": "Tháng trước tôi đã đi một chuyến tới Sở thú Bắc Kinh, ở đó có khoảng 500 loài động vật.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "量词 (Lượng từ cho tuyến xe buýt, tàu hỏa — nêu ngay trong 比一比 tr.100)", "meanings": ["chuyến, tuyến (xe buýt, tàu hỏa chạy theo lịch trình cố định)"], "structure": "一趟火车 / 好几趟公共汽车 / 最后一趟车", "difference_note": "Tương đương 辆/列 khi đếm các chuyến tàu/xe chạy tuyến cố định; 次 không có cách dùng này!", "examples": [{ "chinese": "他没赶上最后一趟公共汽车，只好坐出租车回家了。", "pinyin": "Tā méi gǎnshàng zuìhòu yí tàng gōnggòng qìchē, zhǐhǎo zuò chūzūchē huí jiā le.", "vietnamese": "Anh ấy không kịp bắt chuyến xe buýt cuối cùng, đành phải đi taxi về nhà." }] }
+      ],
+      "chinese_explanation": "量词，表示走动的次数（一去一回）；也用于按路线行驶的列车、公交车。", "collocations": ["去一趟", "回一趟家", "出趟差", "最后一趟车"], "usage_note": "Xem kỹ bảng 比一比 '趟 — 次' ở tr.99–100. Khi số từ là 一 có thể lược bỏ sau động từ (去了趟北京动物园).", "common_errors": "Sai: '打了一趟电话' → Đúng: '打了一次电话' (không phải hành động đi lại).", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l17_w13", "order": 13, "textbook": "HSK 4 下", "lesson": 17,
+      "hanzi": "放暑假", "pinyin": "fàng shǔjià",
+      "lesson_usage": { "part_of_speech": "动词短语 (Cụm động-tân)", "meaning": "nghỉ hè", "structure": "放暑假 / 放暑假的时候", "explanation": "Bước vào kỳ nghỉ mùa hè của trường học (tương ứng với 放寒假 – nghỉ đông ở Bài 15).", "examples": [{ "chinese": "去年放暑假的时候，我也去过一次。", "pinyin": "Qùnián fàng shǔjià de shíhou, wǒ yě qùguo yí cì.", "vietnamese": "Kỳ nghỉ hè năm ngoái mình cũng từng đi một lần rồi.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "学校放夏季的假期。", "collocations": ["放暑假", "过暑假", "暑假作业"], "usage_note": "Chú ý 假 đọc thanh 4 (shǔjià).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l17_w14", "order": 14, "textbook": "HSK 4 下", "lesson": 17,
+      "hanzi": "老虎", "pinyin": "lǎohǔ",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "hổ, cọp", "structure": "一只老虎", "explanation": "Loài thú dữ họ mèo cỡ lớn sống trong rừng.", "examples": [{ "chinese": "我在那儿看了马、熊猫、老虎等动物。", "pinyin": "Wǒ zài nàr kànle mǎ, xióngmāo, lǎohǔ děng dòngwù.", "vietnamese": "Mình đã xem ngựa, gấu trúc, hổ và nhiều động vật khác ở đó.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "虎的通称，大型猫科猛兽。", "collocations": ["一只老虎", "纸老虎"], "usage_note": "Lượng từ là 只 (yì zhī lǎohǔ).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l17_w15", "order": 15, "textbook": "HSK 4 下", "lesson": 17,
+      "hanzi": "入口", "pinyin": "rùkǒu",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "cổng vào", "structure": "入口处 / 地铁入口", "explanation": "Lối đi vào một khu vực, công viên, nhà ga, tòa nhà (trái nghĩa: 出口 – lối ra).", "examples": [{ "chinese": "入口处排队的人很多，动物园里热闹极了。", "pinyin": "Rùkǒu chù pái duì de rén hěn duō, dòngwùyuán li rènao jíle.", "vietnamese": "Ở chỗ cổng vào người xếp hàng rất đông, trong sở thú vô cùng náo nhiệt.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "进入的通道或门户（与“出口”相对）。", "collocations": ["入口处", "安全出口", "进出口"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l17_w16", "order": 16, "textbook": "HSK 4 下", "lesson": 17,
+      "hanzi": "排队", "pinyin": "pái duì",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ ly hợp)", "meaning": "xếp hàng", "structure": "排队买票 / 排了半天队", "explanation": "Đứng thành hàng lối ngay ngắn chờ tới lượt.", "examples": [{ "chinese": "入口处排队的人很多。", "pinyin": "Rùkǒu chù pái duì de rén hěn duō.", "vietnamese": "Ở cổng vào người xếp hàng rất đông.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "排成行列依次等候。", "collocations": ["排队买票", "自觉排队", "排长队"], "usage_note": "Động từ ly hợp: có thể chèn thành phần vào giữa (排了很长的队).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l17_w17", "order": 17, "textbook": "HSK 4 下", "lesson": 17,
+      "hanzi": "活泼", "pinyin": "huópō",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "hoạt bát, nhanh nhẹn", "structure": "特别活泼 / 活泼可爱", "explanation": "Sinh động, linh hoạt, tràn đầy sức sống (thường dùng miêu tả trẻ em, cô gái trẻ, động vật hoặc không khí lớp học).", "examples": [{ "chinese": "熊猫们也变得特别活泼，我还给它们照了不少照片呢。", "pinyin": "Xióngmāomen yě biànde tèbié huópō, wǒ hái gěi tāmen zhàole bù shǎo zhàopiàn ne.", "vietnamese": "Mấy chú gấu trúc cũng trở nên cực kỳ hoạt bát, mình còn chụp cho chúng không ít ảnh nữa.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "生动自然，不呆板；充满活力。", "collocations": ["活泼可爱", "性格活泼", "气氛活泼"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l17_w18", "order": 18, "textbook": "HSK 4 下", "lesson": 17,
+      "hanzi": "社会", "pinyin": "shèhuì",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "xã hội", "structure": "社会上 / 现代社会 / 社会发展", "explanation": "Cộng đồng con người sống chung gắn kết theo các mối quan hệ kinh tế, văn hóa, chính trị.", "examples": [{ "chinese": "不仅社会上的人与人之间有竞争，森林里的各种植物之间也有竞争，这一点儿也不奇怪。", "pinyin": "Bùjǐn shèhuì shang de rén yǔ rén zhījiān yǒu jìngzhēng, sēnlín li de gè zhǒng zhíwù zhījiān yě yǒu jìngzhēng, zhè yìdiǎnr yě bù qíguài.", "vietnamese": "Không chỉ giữa người với người trong xã hội có sự cạnh tranh, mà giữa các loài thực vật trong rừng cũng có cạnh tranh, điều này chẳng có gì lạ cả.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "以一定物质生产活动为基础相互联系的人类生活共同体。", "collocations": ["现代社会", "社会经验", "服务社会"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l17_w19", "order": 19, "textbook": "HSK 4 下", "lesson": 17,
+      "hanzi": "竞争", "pinyin": "jìngzhēng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "cạnh tranh", "structure": "为了……而竞争 / 互相竞争", "explanation": "Tranh đua để giành lợi thế, nguồn lực hoặc vị trí tốt hơn.", "examples": [{ "chinese": "植物会为了阳光、空气和水而竞争。", "pinyin": "Zhíwù huì wèile yángguāng, kōngqì hé shuǐ ér jìngzhēng.", "vietnamese": "Thực vật sẽ cạnh tranh để giành ánh nắng, không khí và nước.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["sự cạnh tranh"], "structure": "有竞争 / 竞争激烈 / 竞争力", "difference_note": "Ngay trong câu mở đầu Bài khóa 4 ('人与人之间有竞争') đã dùng với vai trò danh từ!", "examples": [{ "chinese": "现在就业市场上的竞争越来越激烈了。", "pinyin": "Xiànzài jiùyè shìchǎng shang de jìngzhēng yuèláiyuè jīliè le.", "vietnamese": "Hiện nay sự cạnh tranh trên thị trường việc làm ngày càng gay gắt." }] }
+      ],
+      "chinese_explanation": "为了自己方面的利益而跟人争胜。", "collocations": ["激烈竞争", "竞争力", "竞争对手"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l17_w20", "order": 20, "textbook": "HSK 4 下", "lesson": 17,
+      "hanzi": "森林", "pinyin": "sēnlín",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "rừng rậm", "structure": "一片森林 / 森林公园 / 森林里", "explanation": "Khu vực rộng lớn có rất nhiều cây cối rậm rạp mọc tự nhiên hoặc được trồng.", "examples": [{ "chinese": "森林里的各种植物之间也有竞争。", "pinyin": "Sēnlín li de gè zhǒng zhíwù zhījiān yě yǒu jìngzhēng.", "vietnamese": "Giữa các loài thực vật trong rừng rậm cũng có sự cạnh tranh.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "大片生长的树木。", "collocations": ["一片森林", "保护森林", "热带森林"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l17_w21", "order": 21, "textbook": "HSK 4 下", "lesson": 17,
+      "hanzi": "剩", "pinyin": "shèng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "còn lại", "structure": "剩下 + N / 就剩 + Số lượng", "explanation": "Phần còn thừa, còn sót lại sau khi đã lấy đi hoặc dùng bớt.", "examples": [{ "chinese": "而剩下的一些比较低矮的植物就只能长在这些高大植物的下面。", "pinyin": "Ér shèngxià de yìxiē bǐjiào dī'ǎi de zhíwù jiù zhǐ néng zhǎng zài zhèxiē gāodà zhíwù de xiàmiàn.", "vietnamese": "Còn những loài thực vật thấp bé còn lại chỉ có thể mọc bên dưới những loài cây cao lớn này.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "多余的；余留下来。", "collocations": ["剩下", "还剩多少", "剩饭"], "usage_note": "Thường kết hợp với bổ ngữ 下 thành 剩下 (còn sót lại).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l17_w22", "order": 22, "textbook": "HSK 4 下", "lesson": 17,
+      "hanzi": "暖和", "pinyin": "nuǎnhuo",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "ấm áp", "structure": "很暖和 / 天气暖和", "explanation": "Nhiệt độ không lạnh, ấm dịu dễ chịu (trời ấm, quần áo ấm, căn phòng ấm).", "examples": [{ "chinese": "在暖和、水分比较多的地方，叶子往往长得又大又厚。", "pinyin": "Zài nuǎnhuo, shuǐfèn bǐjiào duō de dìfang, yèzi wǎngwǎng zhǎng de yòu dà yòu hòu.", "vietnamese": "Ở những nơi ấm áp, nhiều hơi ẩm, lá cây thường mọc vừa to vừa dày.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "（气候、环境等）不冷也不太热，温暖舒适。", "collocations": ["天气暖和", "穿得暖和", "暖和多了"], "usage_note": "Âm tiết thứ hai đọc thanh nhẹ (nuǎnhuo). Phân biệt với 温暖 (ấm áp — dùng được cả cho nghĩa bóng về tình cảm như 温暖的家).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l17_w23", "order": 23, "textbook": "HSK 4 下", "lesson": 17,
+      "hanzi": "海洋", "pinyin": "hǎiyáng",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "biển, đại dương", "structure": "蓝色的海洋 / 海洋底部 / 保护海洋", "explanation": "Vùng biển và đại dương rộng lớn bao phủ Trái Đất.", "examples": [{ "chinese": "地球上大约71%的地方是蓝色的海洋。", "pinyin": "Dìqiú shang dàyuē bǎi fēnzhī qīshíyī de dìfang shì lánsè de hǎiyáng.", "vietnamese": "Khoảng 71% bề mặt Trái Đất là đại dương xanh thẳm.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "地球表面连成一体的广大水域（海和洋的总称）。", "collocations": ["蓝色海洋", "海洋世界", "海洋动物"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l17_w24", "order": 24, "textbook": "HSK 4 下", "lesson": 17,
+      "hanzi": "底", "pinyin": "dǐ",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "đáy", "structure": "海底 / 海洋底部 / 碗底 / 鞋底", "explanation": "Phần thấp nhất, sâu nhất bên dưới của một vật hoặc vùng nước.", "examples": [{ "chinese": "科学研究发现，海洋底部看上去非常安静。", "pinyin": "Kēxué yánjiū fāxiàn, hǎiyáng dǐbù kàn shangqu fēicháng ānjìng.", "vietnamese": "Nghiên cứu khoa học phát hiện, đáy đại dương trông có vẻ vô cùng yên tĩnh.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ thời gian)", "meanings": ["cuối (tháng, năm)"], "structure": "年底 / 月底 / 七月底", "difference_note": "Như câu 3 bài tập tr.104 ('我们年底有活动') và Bài 15 ('7月底去北京出差'), đứng sau danh từ thời gian chỉ giai đoạn cuối.", "examples": [{ "chinese": "我们年底有活动，正在打折，比平时便宜了一千块。", "pinyin": "Wǒmen niándǐ yǒu huódòng, zhèngzài dǎzhé, bǐ píngshí piányi le yìqiān kuài.", "vietnamese": "Cuối năm chúng tôi có chương trình khuyến mãi, đang giảm giá, rẻ hơn ngày thường 1.000 tệ." }] }
+      ],
+      "chinese_explanation": "物体的最下部分；也指一年的末尾或一月的末尾（年底、月底）。", "collocations": ["海底", "年底", "月底", "到底"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l17_w25", "order": 25, "textbook": "HSK 4 下", "lesson": 17,
+      "hanzi": "美人鱼", "pinyin": "Měirényú",
+      "is_out_of_syllabus": true,
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "người cá", "structure": "美人鱼的故事", "explanation": "Từ ngoài đề cương (*). Nhân vật thần thoại/cổ tích nửa người nửa cá sống dưới biển.", "examples": [{ "chinese": "我们小时候都听过美人鱼的故事，其实真正的海底世界比故事里写的更美。", "pinyin": "Wǒmen xiǎoshíhou dōu tīngguo Měirényú de gùshi, qíshí zhēnzhèng de hǎidǐ shìjiè bǐ gùshi li xiě de gèng měi.", "vietnamese": "Hồi nhỏ chúng ta đều từng nghe chuyện nàng tiên cá, kỳ thực thế giới đáy biển thật còn đẹp hơn cả trong truyện.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "神话童话中上半身是美人、下半身是鱼尾的形象。", "collocations": ["美人鱼的故事", "小美人鱼"], "usage_note": "Từ có dấu * trong giáo trình.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l17_w26", "order": 26, "textbook": "HSK 4 下", "lesson": 17,
+      "hanzi": "公里", "pinyin": "gōnglǐ",
+      "lesson_usage": { "part_of_speech": "量词 (Lượng từ)", "meaning": "kilômét", "structure": "几公里深 / 十公里", "explanation": "Đơn vị đo chiều dài, khoảng cách quốc tế (1 公里 = 1.000 mét = 2 里).", "examples": [{ "chinese": "另外，就算在几公里深的海底也仍然能看到东西。", "pinyin": "Lìngwài, jiùsuàn zài jǐ gōnglǐ shēn de hǎidǐ yě réngrán néng kàndào dōngxi.", "vietnamese": "Ngoài ra, ngay cả ở đáy biển sâu vài kilômét thì vẫn có thể nhìn thấy vật thể.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "公制长度单位，一公里等于一千米。", "collocations": ["一公里", "几公里深", "每小时60公里"], "usage_note": "Phân biệt với 里 (lý Trung Quốc = 500 mét): 1 公里 = 2 里.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l17_w27", "order": 27, "textbook": "HSK 4 下", "lesson": 17,
+      "hanzi": "仍然", "pinyin": "réngrán",
+      "lesson_usage": { "part_of_speech": "副词 (Phó từ)", "meaning": "vẫn", "structure": "S + 仍然 + Vị ngữ", "explanation": "Biểu thị tình trạng tiếp tục duy trì như cũ, không hề thay đổi (tương đương 还是/仍旧 nhưng mang sắc thái văn viết hơn).", "examples": [{ "chinese": "就算在几公里深的海底也仍然能看到东西。", "pinyin": "Jiùsuàn zài jǐ gōnglǐ shēn de hǎidǐ yě réngrán néng kàndào dōngxi.", "vietnamese": "Ngay cả ở đáy biển sâu vài kilômét vẫn có thể nhìn thấy mọi vật.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "表示情况持续不变或恢复原状。", "collocations": ["仍然保持", "仍然有效", "仍然记得"], "usage_note": "Nằm trong nhóm 同字词 chữ 然 (既然、竟然、仍然、突然) ở tr.105!", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l17_w28", "order": 28, "textbook": "HSK 4 下", "lesson": 17,
+      "hanzi": "排列", "pinyin": "páiliè",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "sắp xếp (theo thứ tự)", "structure": "排列起来 / 按顺序排列", "explanation": "Xếp thành hàng ngũ hoặc theo một trật tự nhất định.", "examples": [{ "chinese": "许多鱼会发出各种颜色的亮光，像一个个排列起来的灯，美极了。", "pinyin": "Xǔduō yú huì fāchū gè zhǒng yánsè de liàngguāng, xiàng yí gègè páiliè qilai de dēng, měi jíle.", "vietnamese": "Rất nhiều loài cá phát ra ánh sáng đủ màu sắc, giống như từng ngọn đèn xếp thành hàng, đẹp vô cùng.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "按次序站立或摆放。", "collocations": ["排列起来", "整齐排列", "按字母排列"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l17_w29", "order": 29, "textbook": "HSK 4 下", "lesson": 17,
+      "hanzi": "梦", "pinyin": "mèng",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "giấc mơ", "structure": "在梦里 / 做梦 / 美梦", "explanation": "Hình ảnh, trải nghiệm xuất hiện trong lúc ngủ.", "examples": [{ "chinese": "美极了，就像在梦里一样。", "pinyin": "Měi jíle, jiù xiàng zài mèngli yíyàng.", "vietnamese": "Đẹp vô cùng, cứ như đang ở trong mơ vậy.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Nghĩa bóng: ước mơ, hoài bão)", "meanings": ["ước mơ, giấc mộng, lý tưởng"], "structure": "有梦 / 梦想 / 实现梦想", "difference_note": "Như câu 3 bài tập tr.103 ('一个70岁还有梦的老人……'), còn chỉ ước mơ, khát vọng sống.", "examples": [{ "chinese": "一个70岁还有梦的老人，心仍然很年轻。", "pinyin": "Yí ge qīshí suì hái yǒu mèng de lǎorén, xīn réngrán hěn niánqīng.", "vietnamese": "Một cụ già 70 tuổi vẫn còn ước mơ thì trái tim vẫn còn rất trẻ." }] }
+      ],
+      "chinese_explanation": "睡眠时大脑中出现的幻象；也比喻理想、愿望。", "collocations": ["做梦", "在梦里", "梦想", "美梦成真"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    }
+  ],
+  "proper_nouns": [
+    { "hanzi": "安娜", "pinyin": "Ānnà", "meaning": "Anna (tên người)" },
+    { "hanzi": "香山", "pinyin": "Xiāng Shān", "meaning": "Hương Sơn (ở Bắc Kinh)" },
+    { "hanzi": "长城", "pinyin": "Chángchéng", "meaning": "Trường Thành" },
+    { "hanzi": "亚洲", "pinyin": "Yàzhōu", "meaning": "châu Á" },
+    { "hanzi": "六一儿童节", "pinyin": "Liùyī Értóngjié", "meaning": "ngày Quốc tế thiếu nhi" }
+  ],
+  "same_char_expansion": {
+    "char": "然",
+    "words": [
+      { "hanzi": "既然", "pinyin": "jìrán", "meaning": "đã... (thì...)" },
+      { "hanzi": "竟然", "pinyin": "jìngrán", "meaning": "không ngờ lại, thế mà lại" },
+      { "hanzi": "仍然", "pinyin": "réngrán", "meaning": "vẫn, vẫn như cũ" },
+      { "hanzi": "突然", "pinyin": "tūrán", "meaning": "đột nhiên, bất ngờ" }
+    ],
+    "examples": [
+      { "chinese": "既然知道是你错了，那你就该主动向他道歉。", "vietnamese": "Đã biết là cậu sai rồi, vậy thì cậu nên chủ động xin lỗi anh ấy." },
+      { "chinese": "让人吃惊的是，这本小说的作者竟然是个十几岁的中学生，他写这本书时才上高中二年级。", "vietnamese": "Điều khiến người ta kinh ngạc là tác giả cuốn tiểu thuyết này không ngờ lại là một học sinh trung học mười mấy tuổi, khi viết sách mới học lớp 11." },
+      { "chinese": "去年放暑假的时候我去了一趟云南。现在回忆起来，我仍然觉得那是一次愉快的旅行，非常难忘。", "vietnamese": "Kỳ nghỉ hè năm ngoái tôi đi một chuyến Vân Nam. Giờ nhớ lại tôi vẫn thấy đó là một chuyến du lịch vui vẻ, vô cùng khó quên." },
+      { "chinese": "那天的事情太突然了，李先生也没想到会弄成这个样子，他当时并不是故意的。", "vietnamese": "Chuyện hôm đó quá đột ngột, ông Lý cũng không ngờ lại thành ra như vậy, lúc đó ông ấy hoàn toàn không cố ý." }
+    ]
+  },
+  "grammar": [
+    {
+      "title": "倒 (Động từ & Phó từ)",
+      "formula": "(1) Động từ: 倒 + Chất lỏng/Đồ (倒杯水)  |  (2) Phó từ: S + 倒(是) + Vị ngữ",
+      "meaning": "(1) Rót, đổ ra  |  (2) Lại, ngược lại, cũng (trái dự đoán / trách móc / nhượng bộ)",
+      "usage": "Động từ 倒 (dào) nghĩa là nghiêng vật chứa để đổ/rót thứ bên trong ra. Phó từ 倒 (hoặc 倒是) diễn tả ý trái ngược với dự đoán, hàm chứa ngữ khí trách móc hoặc biểu thị sự nhượng bộ.",
+      "context": "Cực kỳ thông dụng trong hội thoại tự nhiên của người bản xứ.",
+      "examples": [
+        { "chinese": "麻烦你给我倒杯咖啡吧，困死我了。", "pinyin": "Máfan nǐ gěi wǒ dào bēi kāfēi ba, kùn sǐ wǒ le.", "vietnamese": "Phiền cậu rót cho mình cốc cà phê nhé, buồn ngủ chết mất." },
+        { "chinese": "我以为坐出租车会快些，没想到倒比骑车还慢。", "pinyin": "Wǒ yǐwéi zuò chūzūchē huì kuài xiē, méi xiǎngdào dào bǐ qíchē hái màn.", "vietnamese": "Mình cứ tưởng đi taxi sẽ nhanh hơn, không ngờ lại còn chậm hơn đi xe đạp. (Trái dự đoán)" },
+        { "chinese": "你说得倒是容易，做起来可就难了！", "pinyin": "Nǐ shuō de dàoshì róngyì, zuò qilai kě jiù nán le!", "vietnamese": "Cậu nói thì dễ lắm, bắt tay vào làm mới khó chứ! (Trách móc)" },
+        { "chinese": "去长城倒是一个好主意，就是太远了。", "pinyin": "Qù Chángchéng dào shì yí ge hǎo zhǔyi, jiùshì tài yuǎn le.", "vietnamese": "Đi Trường Thành cũng là ý hay đấy, chỉ có điều xa quá. (Nhượng bộ)" }
+      ],
+      "important_notes": "Phân biệt thanh điệu: 倒 dào (rót nước; phó từ tương phản/nhượng bộ) vs 倒 dǎo (ngã, đổ: 摔倒).",
+      "common_errors": "",
+      "comparison": "Khi biểu thị nhượng bộ, thường đi kèm vế sau chuyển ý bằng 就是 / 可是 / 不过.",
+      "mini_practice": [{ "prompt": "我的房间不大，______________________。（倒）", "sample_answer": "倒是很干净、很暖和", "explanation": "Dùng 倒(是) tạo sự tương phản tích cực (phòng tuy nhỏ nhưng lại rất sạch sẽ ấm áp)." }]
+    },
+    {
+      "title": "干 (Đa âm: gàn vs gān)",
+      "formula": "(1) 干 (gàn) + Công việc (干什么 / 干工作)  |  (2) 干 (gān) = Khô / Đồ khô (擦干 / 牛肉干)",
+      "meaning": "(1) gàn: Làm (công việc, sự nghiệp)  |  (2) gān: Khô ráo; thực phẩm sấy khô",
+      "usage": "Khi đọc gàn là động từ nghĩa 'làm việc, dấn thân vào công việc/hoạt động'. Khi đọc gān là tính từ nghĩa 'khô, ít/không có nước', hoặc danh từ 干(儿) chỉ thực phẩm đã sấy khô.",
+      "context": "Đọc đúng thanh điệu để không gây hiểu nhầm nghĩa.",
+      "examples": [
+        { "chinese": "每次你让它干什么，它就像能听懂你的话一样去做。", "pinyin": "Měi cì nǐ ràng tā gàn shénme, tā jiù xiàng néng tīngdǒng nǐ de huà yíyàng qù zuò.", "vietnamese": "Mỗi lần cậu bảo nó làm gì, nó cứ như nghe hiểu lời cậu mà làm theo." },
+        { "chinese": "干工作的时候一定要认真、仔细，要注意到计划上的每一个地方，否则就很容易出问题。", "pinyin": "Gàn gōngzuò de shíhou yídìng yào rènzhēn, zǐxì, yào zhùyìdào jìhuà shang de měi yí ge dìfang, fǒuzé jiù hěn róngyì chū wèntí.", "vietnamese": "Khi làm việc nhất định phải nghiêm túc, tỉ mỉ, chú ý từng chi tiết trong kế hoạch, nếu không rất dễ xảy ra vấn đề." },
+        { "chinese": "头发都湿了，先把头发擦干，别感冒了。", "pinyin": "Tóufa dōu shī le, xiān bǎ tóufa cāgān, bié gǎnmào le.", "vietnamese": "Tóc ướt hết rồi, lau khô tóc trước đi kẻo cảm." },
+        { "chinese": "这牛肉干味道真不错，在哪儿买的？", "pinyin": "Zhè niúròugān wèidào zhēn búcuò, zài nǎr mǎi de?", "vietnamese": "Thịt bò khô này ngon thật đấy, mua ở đâu thế?" }
+      ],
+      "important_notes": "Luôn kiểm tra ngữ cảnh: đi với việc/tân ngữ là gàn; chỉ độ ẩm/món ăn khô là gān.",
+      "common_errors": "",
+      "comparison": "So với 做, 干 (gàn) mang sắc thái khẩu ngữ, nhấn mạnh dấn thân lao động/hành động cụ thể hơn.",
+      "mini_practice": [{ "prompt": "新来的服务员______________________，来吃饭的客人都十分满意。（干）", "sample_answer": "干活儿特别认真", "explanation": "干活儿 (gànhuór) = làm việc." }]
+    },
+    {
+      "title": "趟",
+      "formula": "V (去 / 来 / 回 / 出) + (一/几)趟 + (Địa điểm/Tân ngữ)  |  一趟 + 车/火车",
+      "meaning": "Chuyến, lần (đi rồi về); chuyến (xe buýt, tàu hỏa)",
+      "usage": "Lượng từ 趟 chỉ số lần đi đi lại lại (一去一回) dùng với động từ di chuyển; đồng thời là lượng từ cho xe buýt, tàu hỏa chạy theo tuyến và giờ cố định.",
+      "context": "Dùng thường xuyên khi kể về chuyến đi chơi, công tác, về thăm nhà hoặc bắt xe.",
+      "examples": [
+        { "chinese": "上个月我去了趟北京动物园，那里约有500种动物。", "pinyin": "Shàng ge yuè wǒ qùle tàng Běijīng Dòngwùyuán, nàlǐ yuē yǒu wǔbǎi zhǒng dòngwù.", "vietnamese": "Tháng trước mình đi một chuyến Sở thú Bắc Kinh, ở đó có khoảng 500 loài động vật." },
+        { "chinese": "我要出趟差，你能帮我照顾一下我的小狗吗？", "pinyin": "Wǒ yào chū tàng chāi, nǐ néng bāng wǒ zhàogu yíxià wǒ de xiǎogǒu ma?", "vietnamese": "Mình phải đi công tác một chuyến, cậu trông giúp cún con của mình được không?" },
+        { "chinese": "我打算先回一趟家，看看我奶奶，然后回学校准备研究生考试。", "pinyin": "Wǒ dǎsuàn xiān huí yí tàng jiā, kànkan wǒ nǎinai, ránhòu huí xuéxiào zhǔnbèi yánjiūshēng kǎoshì.", "vietnamese": "Mình định về nhà một chuyến thăm bà nội, sau đó quay lại trường ôn thi cao học." }
+      ],
+      "important_notes": "Xem chi tiết bảng 比一比 '趟 — 次' bên dưới. Chú ý vị trí đặt 趟 ở giữa động từ ly hợp: 出趟差 (không nói 出差趟).",
+      "common_errors": "Sai: '我看了一趟电影' → Đúng: '我看了一次电影'.",
+      "comparison": "趟 nhấn mạnh cả lượt đi-về hoặc chuyến xe theo tuyến; 次 dùng rộng cho mọi hành động lặp lại.",
+      "mini_practice": [{ "prompt": "经理，______________________，我想请一天假可以吗？（趟）", "sample_answer": "我得去一趟医院", "explanation": "去一趟医院 = đi bệnh viện một chuyến." }]
+    },
+    {
+      "title": "为了……而……",
+      "formula": "S + 为了 + Mục đích (Từ / Cụm từ) + 而 + Hành động",
+      "meaning": "Vì... mà...",
+      "usage": "Trong kết cấu '为了……而……', thành phần sau 为了 biểu thị mục đích của hành động, hành vi đứng sau 而. Cấu trúc này súc tích và mang sắc thái văn viết rõ nét.",
+      "context": "Rất hay dùng trong văn nghị luận, khoa học thường thức và bài đọc hiểu HSK 4–5.",
+      "examples": [
+        { "chinese": "植物会为了阳光、空气和水而竞争。", "pinyin": "Zhíwù huì wèile yángguāng, kōngqì hé shuǐ ér jìngzhēng.", "vietnamese": "Thực vật sẽ cạnh tranh vì ánh nắng, không khí và nước." },
+        { "chinese": "北风与南风为了比谁更有能力而吵了起来。", "pinyin": "Běifēng yǔ nánfēng wèile bǐ shéi gèng yǒu nénglì ér chǎo le qilai.", "vietnamese": "Gió Bắc và gió Nam vì so xem ai có năng lực hơn mà cãi nhau lên." },
+        { "chinese": "自然界中，不少动物和植物为了保护自己而改变身体的颜色或样子，使自己成为周围环境的一部分。", "pinyin": "Zìránjiè zhōng, bù shǎo dòngwù hé zhíwù wèile bǎohù zìjǐ ér gǎibiàn shēntǐ de yánsè huò yàngzi, shǐ zìjǐ chéngwéi zhōuwéi huánjìng de yí bùfen.", "vietnamese": "Trong tự nhiên, không ít động thực vật thay đổi màu sắc hoặc hình dáng cơ thể để tự bảo vệ, hòa mình vào môi trường xung quanh." }
+      ],
+      "important_notes": "Khi dùng 为了……而……, cả cụm đặt trong một câu đơn liền mạch không cần dấu phẩy trước 而.",
+      "common_errors": "",
+      "comparison": "Khác với '为了……，……' (hai vế tách nhau bằng dấu phẩy), '为了……而……' nối chặt mục đích và động từ trong cùng một mệnh đề.",
+      "mini_practice": [{ "prompt": "胖一点儿没关系，健康最重要。千万不要______________________。（为了……而……）", "sample_answer": "为了减肥而影响身体健康", "explanation": "为了减肥 (mục đích) + 而 + 影响身体健康 (hành động/hệ quả)." }]
+    },
+    {
+      "title": "仍然",
+      "formula": "S + 仍然 + Vị ngữ",
+      "meaning": "Vẫn, vẫn như cũ (không thay đổi)",
+      "usage": "Phó từ 仍然 biểu thị tình huống duy trì giống như trước đây, không hề có sự thay đổi.",
+      "context": "Thiên về văn viết, thường kết hợp với 尽管/虽然/就算 ở vế trước.",
+      "examples": [
+        { "chinese": "就算在几公里深的海底也仍然能看到东西。", "pinyin": "Jiùsuàn zài jǐ gōnglǐ shēn de hǎidǐ yě réngrán néng kàndào dōngxi.", "vietnamese": "Ngay cả ở đáy biển sâu vài kilômét vẫn có thể nhìn thấy vật thể." },
+        { "chinese": "人比动物聪明，但动物仍然有很多值得人学习的地方。", "pinyin": "Rén bǐ dòngwù cōngming, dàn dòngwù réngrán yǒu hěn duō zhídé rén xuéxí de dìfang.", "vietnamese": "Con người thông minh hơn động vật, nhưng động vật vẫn có nhiều điểm đáng để con người học hỏi." },
+        { "chinese": "足球决赛时，如果90分钟后仍然是0比0，按照规定，可以进行加时赛来决定输赢。", "pinyin": "Zúqiú juésài shí, rúguǒ jiǔshí fēnzhōng hòu réngrán shì líng bǐ líng, ànzhào guīdìng, kěyǐ jìnxíng jiāshísài lái juédìng shūyíng.", "vietnamese": "Trong trận chung kết bóng đá, nếu sau 90 phút tỉ số vẫn là 0-0, theo quy định có thể đá hiệp phụ để phân thắng bại." }
+      ],
+      "important_notes": "Luôn đứng trước động từ/tính từ (vị ngữ), không đứng trước chủ ngữ.",
+      "common_errors": "",
+      "comparison": "Đồng nghĩa với 还是 (khẩu ngữ) và 仍旧, nhưng 仍然 dùng nhiều hơn trong văn viết và không dùng để hỏi lựa chọn như 还是.",
+      "mini_practice": [{ "prompt": "尽管这只是一场误会，______________________。（仍然）", "sample_answer": "但他心里仍然有些难受", "explanation": "尽管……，但……仍然…… = mặc dù..., nhưng vẫn..." }]
+    }
+  ],
+  "comparison_section": {
+    "label": "比一比 So sánh",
+    "pair": "趟 — 次",
+    "term_a": "趟 (tàng)",
+    "term_b": "次 (cì)",
+    "similarity": "Đều là động lượng từ biểu thị số lần của hành động, có thể thay thế cho nhau khi đi với động từ di chuyển như 来、去、走、跑、接、送 (★). VD: 今年寒假我去广东玩儿了一趟/次。",
+    "differences": [
+      { "criterion": "Sắc thái khi đi với động từ di chuyển (★)", "a": "Nhấn mạnh một lượt 'đi rồi về' (一去一回), chỉ dùng cho hoạt động đi lại (回来的路上我顺便去了趟银行).", "b": "Nhấn mạnh số lần lặp lại của hành động, không nhấn mạnh quá trình đi-về (爷爷差不多每个月都带我去看一次京剧)." },
+      { "criterion": "Kết hợp với các động từ không di chuyển", "a": "KHÔNG dùng với động từ như 问、说、看、听、打电话、讨论.", "b": "DÙNG ĐƯỢC rộng rãi với mọi hành động (我刚才叫了你两次 / 打了好几次电话)." },
+      { "criterion": "Lượng từ cho tuyến xe buýt, tàu hỏa", "a": "CÓ THỂ dùng cho xe buýt/tàu hỏa chạy theo tuyến cố định, tương đương 辆/列 (附近有好几趟公共汽车 / 最后一趟公共汽车).", "b": "KHÔNG có cách dùng này." }
+    ]
+  },
+  "texts": [
+    {
+      "id": "t1", "title_zh": "小夏和安娜在聊天气", "title_vi": "Tiểu Hạ và Anna trò chuyện về thời tiết",
+      "lines": [
+        { "speaker": "小夏", "chinese": "最近天气越来越凉快了，风一刮，草地上就会有一层厚厚的黄叶，看来秋天已经到了。", "pinyin": "Zuìjìn tiānqì yuè lái yuè liángkuai le, fēng yì guā, cǎodì shang jiù huì yǒu yì céng hòuhòu de huángyè, kànlái qiūtiān yǐjīng dào le.", "vietnamese": "Dạo này thời tiết ngày càng mát mẻ, gió thổi một cái là trên thảm cỏ lại có lớp lá vàng dày, xem ra mùa thu đã đến rồi." },
+        { "speaker": "安娜", "chinese": "这几天香山特别热闹，随着气温的降低，那里许多植物的叶子都由绿变黄或者变红，吸引了很多游客参观，咱们今天也去看看吧。", "pinyin": "Zhè jǐ tiān Xiāng Shān tèbié rènao, suízhe qìwēn de jiàngdī, nàlǐ xǔduō zhíwù de yèzi dōu yóu lǜ biàn huáng huòzhě biàn hóng, xīyǐnle hěn duō yóukè cānguān, zánmen jīntiān yě qù kànkan ba.", "vietnamese": "Mấy hôm nay Hương Sơn rất náo nhiệt, khi nhiệt độ hạ xuống lá của nhiều loài cây ở đó chuyển từ xanh sang vàng hoặc đỏ, thu hút rất nhiều du khách tham quan, hôm nay chúng mình cũng đi xem đi." },
+        { "speaker": "小夏", "chinese": "你看天上的云，今天肯定有大雨。再说，香山上看红叶的人太多了。咱们改天去长城吧，广播里说那里也有不少专门看红叶的好地方。", "pinyin": "Nǐ kàn tiānshang de yún, jīntiān kěndìng yǒu dà yǔ. Zàishuō, Xiāng Shān shang kàn hóngyè de rén tài duō le. Zánmen gǎitiān qù Chángchéng ba, guǎngbō li shuō nàlǐ yě yǒu bù shǎo zhuānmén kàn hóngyè de hǎo dìfang.", "vietnamese": "Cậu nhìn mây trên trời kìa, hôm nay chắc chắn mưa to. Vả lại người ngắm lá đỏ ở Hương Sơn đông quá. Hôm khác mình đi Trường Thành nhé, đài phát thanh bảo ở đó cũng có nhiều điểm đẹp chuyên ngắm lá đỏ." },
+        { "speaker": "安娜", "chinese": "真可惜，我还想多照点儿香山的照片呢。去长城倒是一个好主意，那我们明天去吧。", "pinyin": "Zhēn kěxī, wǒ hái xiǎng duō zhào diǎnr Xiāng Shān de zhàopiàn ne. Qù Chángchéng dào shì yí ge hǎo zhǔyi, nà wǒmen míngtiān qù ba.", "vietnamese": "Tiếc thật, mình còn muốn chụp thêm ít ảnh Hương Sơn nữa. Đi Trường Thành cũng là ý hay đấy, vậy mai chúng mình đi nhé." },
+        { "speaker": "小夏", "chinese": "明天恐怕也不行，明天是我爸的生日。", "pinyin": "Míngtiān kǒngpà yě bù xíng, míngtiān shì wǒ bà de shēngrì.", "vietnamese": "Ngày mai e là cũng không được, mai là sinh nhật bố mình." },
+        { "speaker": "安娜", "chinese": "没关系，那我们再约时间。", "pinyin": "Méi guānxi, nà wǒmen zài yuē shíjiān.", "vietnamese": "Không sao, vậy mình hẹn dịp khác nhé." }
+      ]
+    },
+    {
+      "id": "t2", "title_zh": "小林和小李在聊小李的狗", "title_vi": "Tiểu Lâm và Tiểu Lý nói chuyện về chú chó của Tiểu Lý",
+      "lines": [
+        { "speaker": "小林", "chinese": "你的这只大黑狗毛真漂亮，而且这么聪明，每次见了都想抱一抱它。", "pinyin": "Nǐ de zhè zhī dà hēi gǒu máo zhēn piàoliang, érqiě zhème cōngming, měi cì jiànle dōu xiǎng bào yi bào tā.", "vietnamese": "Chú chó đen to này của cậu lông đẹp quá, lại thông minh thế này, lần nào gặp cũng muốn ôm nó một cái." },
+        { "speaker": "小李", "chinese": "狗是很聪明的动物，只要稍微花点儿时间教教它，它就能学会很多东西。", "pinyin": "Gǒu shì hěn cōngming de dòngwù, zhǐyào shāowēi huā diǎnr shíjiān jiāojiao tā, tā jiù néng xué huì hěn duō dōngxi.", "vietnamese": "Chó là loài động vật rất thông minh, chỉ cần bỏ ra chút thời gian dạy dỗ là nó học được rất nhiều thứ." },
+        { "speaker": "小林", "chinese": "听你这么一说，我现在也想养一只狗了。每次你让它干什么，它就像能听懂你的话一样去做。你教它是不是用了什么特别的方法？", "pinyin": "Tīng nǐ zhème yì shuō, wǒ xiànzài yě xiǎng yǎng yì zhī gǒu le. Měi cì nǐ ràng tā gàn shénme, tā jiù xiàng néng tīngdǒng nǐ de huà yíyàng qù zuò. Nǐ jiāo tā shì bu shì yòngle shénme tèbié de fāngfǎ?", "vietnamese": "Nghe cậu nói thế mình giờ cũng muốn nuôi một con chó rồi. Mỗi lần cậu bảo nó làm gì, nó cứ như hiểu lời mà làm theo. Cậu có dùng bí quyết gì đặc biệt để dạy nó không?" },
+        { "speaker": "小李", "chinese": "要让它完成一些任务，只教一次是不够的，应该耐心地一遍一遍地教给它，使它熟悉，然后它就会严格按照你的要求做了。", "pinyin": "Yào ràng tā wánchéng yìxiē rènwu, zhǐ jiāo yí cì shì bú gòu de, yīnggāi nàixīn de yí biàn yí biàn de jiāo gěi tā, shǐ tā shúxi, ránhòu tā jiù huì yángé ànzhào nǐ de yāoqiú zuò le.", "vietnamese": "Muốn nó hoàn thành một số nhiệm vụ thì dạy một lần không đủ, phải kiên nhẫn dạy đi dạy lại cho quen, rồi nó sẽ thực hiện đúng nghiêm ngặt yêu cầu của cậu." },
+        { "speaker": "小林", "chinese": "看来没有想的那么容易。", "pinyin": "Kànlái méiyǒu xiǎng de nàme róngyì.", "vietnamese": "Xem ra không dễ như mình tưởng." },
+        { "speaker": "小李", "chinese": "狗是我们的好朋友，它能听懂人的话，明白人的心情。在你心里难受的时候，它会一直陪着你。", "pinyin": "Gǒu shì wǒmen de hǎo péngyou, tā néng tīngdǒng rén de huà, míngbai rén de xīnqíng. Zài nǐ xīnli nánshòu de shíhou, tā huì yìzhí péizhe nǐ.", "vietnamese": "Chó là người bạn tốt của chúng ta, nó hiểu lời người nói, thấu hiểu tâm trạng con người. Khi cậu buồn lòng, nó sẽ luôn ở bên cạnh cậu." }
+      ]
+    },
+    {
+      "id": "t3", "title_zh": "马克和小夏在聊动物", "title_vi": "Mark và Tiểu Hạ trò chuyện về động vật",
+      "lines": [
+        { "speaker": "马克", "chinese": "上个月我去了趟北京动物园，那里约有500种动物，听导游说北京动物园是亚洲最大的动物园之一。", "pinyin": "Shàng ge yuè wǒ qùle tàng Běijīng Dòngwùyuán, nàlǐ yuē yǒu wǔbǎi zhǒng dòngwù, tīng dǎoyóu shuō Běijīng Dòngwùyuán shì Yàzhōu zuì dà de dòngwùyuán zhī yī.", "vietnamese": "Tháng trước mình đi một chuyến Sở thú Bắc Kinh, ở đó có khoảng 500 loài động vật, nghe hướng dẫn viên nói đây là một trong những sở thú lớn nhất châu Á." },
+        { "speaker": "小夏", "chinese": "去年放暑假的时候，我也去过一次，我在那儿看了马、熊猫、老虎等动物。我特别喜欢熊猫，可惜它们当时大多在睡觉。", "pinyin": "Qùnián fàng shǔjià de shíhou, wǒ yě qùguo yí cì, wǒ zài nàr kànle mǎ, xióngmāo, lǎohǔ děng dòngwù. Wǒ tèbié xǐhuan xióngmāo, kěxī tāmen dāngshí dàduō zài shuì jiào.", "vietnamese": "Kỳ nghỉ hè năm ngoái mình cũng đi một lần, xem ngựa, gấu trúc, hổ... Mình đặc biệt thích gấu trúc, tiếc là lúc đó phần lớn chúng đang ngủ." },
+        { "speaker": "马克", "chinese": "我去的那天正赶上六一儿童节，许多父母带着孩子去动物园。入口处排队的人很多，动物园里热闹极了。熊猫们也变得特别活泼，我还给它们照了不少照片呢。", "pinyin": "Wǒ qù de nà tiān zhèng gǎnshàng Liùyī Értóngjié, xǔduō fùmǔ dàizhe háizi qù dòngwùyuán. Rùkǒu chù pái duì de rén hěn duō, dòngwùyuán li rènao jíle. Xióngmāomen yě biànde tèbié huópō, wǒ hái gěi tāmen zhàole bù shǎo zhàopiàn ne.", "vietnamese": "Hôm mình đi đúng dịp Quốc tế thiếu nhi 1/6, nhiều bố mẹ đưa con đi sở thú. Cổng vào người xếp hàng rất đông, bên trong cực kỳ náo nhiệt. Mấy chú gấu trúc cũng rất hoạt bát, mình chụp được bao nhiêu ảnh." },
+        { "speaker": "小夏", "chinese": "大熊猫身子胖胖的，样子可爱极了。", "pinyin": "Dà xióngmāo shēnzi pàngpàng de, yàngzi kě'ài jíle.", "vietnamese": "Gấu trúc lớn thân hình mũm mĩm, dáng vẻ đáng yêu hết sức." },
+        { "speaker": "马克", "chinese": "不过，它们数量不多，现在全世界一共才有一千多只吧。", "pinyin": "Búguò, tāmen shùliàng bù duō, xiànzài quán shìjiè yígòng cái yǒu yìqiān duō zhī ba.", "vietnamese": "Nhưng số lượng chúng không nhiều, hiện cả thế giới tổng cộng mới chỉ có hơn một nghìn con thôi nhỉ." },
+        { "speaker": "小夏", "chinese": "以前只有中国有大熊猫，为了表示友好，从1957年开始，中国把大熊猫作为礼物送给其他一些国家。现在，很多国家的人们在本国都能看到大熊猫了。", "pinyin": "Yǐqián zhǐyǒu Zhōngguó yǒu dà xióngmāo, wèile biǎoshì yǒuhǎo, cóng yī jiǔ wǔ qī nián kāishǐ, Zhōngguó bǎ dà xióngmāo zuòwéi lǐwù sòng gěi qítā yìxiē guójiā. Xiànzài, hěn duō guójiā de rénmen zài běnguó dōu néng kàndào dà xióngmāo le.", "vietnamese": "Trước đây chỉ Trung Quốc có gấu trúc lớn, để bày tỏ tình hữu nghị, từ năm 1957 Trung Quốc đã tặng gấu trúc làm quà cho nhiều quốc gia khác. Giờ người dân nhiều nước có thể ngắm gấu trúc ngay tại nước mình rồi." }
+      ]
+    },
+    {
+      "id": "t4", "title_zh": "森林里的植物竞争与叶子形态", "title_vi": "Sự cạnh tranh của thực vật trong rừng và hình dáng lá cây",
+      "lines": [
+        { "speaker": "", "chinese": "不仅社会上的人与人之间有竞争，森林里的各种植物之间也有竞争，这一点儿也不奇怪。植物会为了阳光、空气和水而竞争。一些高大的植物往往能获得更多的阳光、空气和水，而剩下的一些比较低矮的植物就只能长在这些高大植物的下面。由于气候条件不同，世界各地植物叶子的样子也很不相同。在暖和、水分比较多的地方，叶子往往长得又大又厚；在阳光特别厉害、水分少的地方，叶子就会长得又细又长。", "pinyin": "Bùjǐn shèhuì shang de rén yǔ rén zhījiān yǒu jìngzhēng, sēnlín li de gè zhǒng zhíwù zhījiān yě yǒu jìngzhēng, zhè yìdiǎnr yě bù qíguài. Zhíwù huì wèile yángguāng, kōngqì hé shuǐ ér jìngzhēng. Yìxiē gāodà de zhíwù wǎngwǎng néng huòdé gèng duō de yángguāng, kōngqì hé shuǐ, ér shèngxià de yìxiē bǐjiào dī'ǎi de zhíwù jiù zhǐ néng zhǎng zài zhèxiē gāodà zhíwù de xiàmiàn. Yóuyú qìhòu tiáojiàn bù tóng, shìjiè gè dì zhíwù yèzi de yàngzi yě hěn bù xiāngtóng. Zài nuǎnhuo, shuǐfèn bǐjiào duō de dìfang, yèzi wǎngwǎng zhǎng de yòu dà yòu hòu; zài yángguāng tèbié lìhai, shuǐfèn shǎo de dìfang, yèzi jiù huì zhǎng de yòu xì yòu cháng.", "vietnamese": "Không chỉ con người trong xã hội mới có cạnh tranh, giữa các loài thực vật trong rừng rậm cũng có cạnh tranh, điều này chẳng có gì lạ. Thực vật cạnh tranh vì ánh sáng, không khí và nước. Những cây cao lớn thường nhận được nhiều ánh nắng, không khí và nước hơn, còn những cây thấp bé còn lại chỉ có thể mọc bên dưới chúng. Do điều kiện khí hậu khác nhau, hình dáng lá cây khắp nơi trên thế giới cũng rất khác biệt: nơi ấm áp, nhiều hơi ẩm lá thường to và dày; nơi nắng gắt, ít nước lá lại mọc nhỏ mảnh và dài." }
+      ]
+    },
+    {
+      "id": "t5", "title_zh": "美丽的海底世界", "title_vi": "Thế giới đáy biển tươi đẹp",
+      "lines": [
+        { "speaker": "", "chinese": "地球上大约71%的地方是蓝色的海洋，在美丽的海底世界里，生活着各种各样的植物和动物。我们小时候都听过美人鱼的故事，其实真正的海底世界比故事里写的更美。科学研究发现，海洋底部看上去非常安静，然而却不是一点儿声音也没有，海底的动物们一直在“说话”，只不过人的耳朵是听不到的。另外，就算在几公里深的海底也仍然能看到东西，许多鱼会发出各种颜色的亮光，像一个个排列起来的灯，美极了，就像在梦里一样。", "pinyin": "Dìqiú shang dàyuē bǎi fēnzhī qīshíyī de dìfang shì lánsè de hǎiyáng, zài měilì de hǎidǐ shìjiè li, shēnghuózhe gè zhǒng gè yàng de zhíwù hé dòngwù. Wǒmen xiǎoshíhou dōu tīngguo Měirényú de gùshi, qíshí zhēnzhèng de hǎidǐ shìjiè bǐ gùshi li xiě de gèng měi. Kēxué yánjiū fāxiàn, hǎiyáng dǐbù kàn shangqu fēicháng ānjìng, rán'ér què bú shì yìdiǎnr shēngyīn yě méiyǒu, hǎidǐ de dòngwùmen yìzhí zài “shuō huà”, zhǐ bú guò rén de ěrduo shì tīng bú dào de. Lìngwài, jiùsuàn zài jǐ gōnglǐ shēn de hǎidǐ yě réngrán néng kàndào dōngxi, xǔduō yú huì fāchū gè zhǒng yánsè de liàngguāng, xiàng yí gègè páiliè qilai de dēng, měi jíle, jiù xiàng zài mèngli yíyàng.", "vietnamese": "Khoảng 71% Trái Đất là đại dương xanh thẳm, nơi có muôn vàn loài động thực vật sinh sống. Hồi nhỏ ta đều nghe truyện nàng tiên cá, kỳ thực thế giới đáy biển thật còn đẹp hơn cả trong truyện. Khoa học phát hiện đáy biển trông có vẻ rất tĩnh lặng nhưng không hề im ắng hoàn toàn: các loài sinh vật biển vẫn luôn “trò chuyện”, chỉ là tai người không nghe thấy thôi. Ngoài ra, ngay ở độ sâu vài kilômét vẫn có thể thấy ánh sáng, nhiều loài cá phát ra ánh sáng đủ màu như những ngọn đèn xếp thành hàng, đẹp tuyệt vời như trong giấc mơ." }
+      ]
+    }
+  ],
+  "reading_questions": [
+    { "question_zh": "现在是什么季节？天气怎么样？安娜打算做什么？小夏为什么不同意？", "question_vi": "Bây giờ là mùa gì? Thời tiết thế nào? Anna định làm gì? Vì sao Tiểu Hạ không đồng ý?", "answer_zh": "现在是秋天，天气越来越凉快，天上有云肯定要下大雨。安娜想今天去香山看红叶，小夏因为要下大雨而且香山人太多，建议改天去长城。", "answer_vi": "Đang là mùa thu, trời ngày càng mát và có mây sắp mưa to. Anna muốn hôm nay đi Hương Sơn ngắm lá đỏ, nhưng Tiểu Hạ thấy sắp mưa to và Hương Sơn quá đông nên gợi ý hôm khác đi Trường Thành." },
+    { "question_zh": "小林为什么喜欢小李的狗？教狗完成一些任务可以用什么方法？", "question_vi": "Vì sao Tiểu Lâm thích chú chó của Tiểu Lý? Có thể dùng cách nào để dạy chó hoàn thành nhiệm vụ?", "answer_zh": "因为那只大黑狗毛很漂亮、很聪明，每次让它干什么都能像听懂一样去做。教狗时只教一次不够，要耐心地一遍一遍地教，使它熟悉。", "answer_vi": "Vì chú chó đen lông rất đẹp, thông minh, nghe hiểu và làm theo lời chủ. Khi dạy chó không thể chỉ dạy một lần mà phải kiên nhẫn dạy lặp đi lặp lại cho quen." },
+    { "question_zh": "马克什么时候去的北京动物园？请介绍一下小夏最喜欢的动物。", "question_vi": "Mark đi Sở thú Bắc Kinh vào lúc nào? Hãy giới thiệu về loài động vật Tiểu Hạ thích nhất.", "answer_zh": "上个月六一儿童节那天去的。小夏最喜欢大熊猫：身子胖胖的非常可爱，全世界才一千多只，从1957年开始中国把大熊猫作为友好礼物送给其他国家。", "answer_vi": "Đi vào dịp Quốc tế thiếu nhi 1/6 tháng trước. Tiểu Hạ thích nhất gấu trúc lớn: thân hình mũm mĩm rất đáng yêu, cả thế giới mới có hơn một nghìn con, từ năm 1957 Trung Quốc tặng gấu trúc làm quà hữu nghị cho nhiều nước." },
+    { "question_zh": "植物之间会为了什么而竞争？为什么世界各地植物叶子的样子会不同？", "question_vi": "Thực vật cạnh tranh vì điều gì? Vì sao hình dáng lá cây các nơi trên thế giới lại khác nhau?", "answer_zh": "植物会为了阳光、空气和水而竞争。因为气候条件不同：暖和水分多的地方叶子又大又厚；阳光厉害、水分少的地方叶子又细又长。", "answer_vi": "Thực vật cạnh tranh vì ánh sáng, không khí và nước. Do khí hậu khác nhau: nơi ấm nhiều ẩm lá to và dày; nơi nắng gắt ít nước lá mảnh và dài." },
+    { "question_zh": "海洋在地球上占多大比例？科学研究发现，在海洋底部能听到什么、看到什么？", "question_vi": "Đại dương chiếm bao nhiêu phần trăm Trái Đất? Khoa học phát hiện ở đáy đại dương có âm thanh và ánh sáng gì?", "answer_zh": "大约占71%。海底并不是没有声音，动物们一直在“说话”，只是人耳听不到；在几公里深的海底，许多鱼会发出各种颜色的亮光，像排列起来的灯。", "answer_vi": "Chiếm khoảng 71%. Đáy biển không hề im lặng tuyệt đối vì sinh vật vẫn “trò chuyện” dù tai người không nghe thấy; ở độ sâu vài km vẫn có nhiều loài cá phát sáng đủ màu như đèn xếp hàng." }
+  ],
+  "exercises": [
+    {
+      "id": "h4x17_ex1", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.104 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Điền từ thích hợp: “这本小说就______十几页了，我想看看最后到底怎么样了。”",
+      "options": ["剩", "底", "照", "广播"],
+      "answer": "剩",
+      "explanation": "就剩十几页了 = chỉ còn lại hơn chục trang nữa thôi.",
+      "review_tip": "Ôn động từ 剩 / 剩下 (còn lại)."
+    },
+    {
+      "id": "h4x17_ex2", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.104 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Điền từ thích hợp: “很多自行车后面都有一个灯，每当后面汽车的灯光______到它时，它就会反光。”",
+      "options": ["照", "剩", "倒", "抱"],
+      "answer": "照",
+      "explanation": "照 ngoài nghĩa 'chụp ảnh' còn mang nghĩa gốc 'chiếu sáng, rọi tới' (灯光照到它时).",
+      "review_tip": "Ghi nhớ đa nghĩa của 照: chụp ảnh & chiếu rọi."
+    },
+    {
+      "id": "h4x17_ex3", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.104–105 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Điền từ thích hợp: “A：今天很______，外面一点儿也不冷，你不用穿这么多衣服。”",
+      "options": ["暖和", "凉快", "热闹", "难受"],
+      "answer": "暖和",
+      "explanation": "Vế sau nói 'bên ngoài chẳng lạnh chút nào, không cần mặc nhiều áo' → trời rất ấm áp (暖和).",
+      "review_tip": "Phân biệt 暖和 (ấm áp) vs 凉快 (mát mẻ)."
+    },
+    {
+      "id": "h4x17_ex4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "比一比 tr.100 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn lượng từ ĐÚNG: “他没赶上最后一______公共汽车，只好坐出租车回家了。”",
+      "options": ["趟", "次", "页", "公里"],
+      "answer": "趟",
+      "explanation": "Theo mục 比一比 tr.100, 趟 dùng làm lượng từ cho xe buýt hoặc tàu hỏa chạy theo tuyến cố định; 次 không có cách dùng này!",
+      "review_tip": "Ôn 3 điểm khác biệt trong 比一比 趟—次."
+    },
+    {
+      "id": "h4x17_ex5", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "比一比 tr.100 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn lượng từ ĐÚNG: “中午我给你打了好几______电话，你怎么都不接呢？”",
+      "options": ["次", "趟", "条", "只"],
+      "answer": "次",
+      "explanation": "Động từ 打电话 không phải hành động đi đi lại lại nên CHỈ dùng 次, không được dùng 趟.",
+      "review_tip": "趟 chỉ dùng cho động từ di chuyển hoặc chuyến xe/tàu."
+    },
+    {
+      "id": "h4x17_ex6", "type": "context_mc", "level": "Phân biệt", "origin_tag": "同字词 tr.105 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn cặp từ 同字词 chữ 然 cho 2 câu: (1) 真是没想到，四年的大学生活____这么快就结束了！(2) 只要你不放弃努力，就____有希望。",
+      "options": ["竟然 / 仍然", "既然 / 突然", "仍然 / 竟然", "突然 / 既然"],
+      "answer": "竟然 / 仍然",
+      "explanation": "没想到……竟然 (bất ngờ, không ngờ lại); 只要不放弃，就仍然有希望 (vẫn còn hy vọng).",
+      "review_tip": "Ôn bộ 4 từ 同字词 chữ 然 tr.105: 既然, 竟然, 仍然, 突然."
+    },
+    {
+      "id": "h4x17_ex7", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Bài 17 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Phát âm nào sau đây của chữ đa âm “干” và “倒” là ĐÚNG?",
+      "options": [
+        "干工作 (gàn) — 擦干头发 (gān) — 倒杯水 (dào)",
+        "干工作 (gān) — 擦干头发 (gàn) — 倒杯水 (dǎo)",
+        "干工作 (gàn) — 牛肉干 (gàn) — 倒是一个好主意 (dǎo)",
+        "干什么 (gān) — 擦干 (gān) — 倒比骑车还慢 (dào)"
+      ],
+      "answer": "干工作 (gàn) — 擦干头发 (gān) — 倒杯水 (dào)",
+      "explanation": "干 làm việc đọc gàn; khô/đồ khô đọc gān. 倒 rót nước và phó từ tương phản đều đọc dào (chỉ khi nghĩa 'ngã' mới đọc dǎo).",
+      "review_tip": "Ôn kỹ Chú thích 1 (倒) và Chú thích 2 (干) tr.97–98."
+    },
+    {
+      "id": "h4x17_ex8", "type": "reorder", "level": "Vận dụng", "origin_tag": "Bài 17 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Sắp xếp thành câu hoàn chỉnh:",
+      "tokens": ["为了", "阳光、空气和水", "而竞争。", "植物会"],
+      "answer": "植物会为了阳光、空气和水而竞争。",
+      "explanation": "Cấu trúc: S + 为了 + Mục đích + 而 + Hành động.",
+      "review_tip": "Ôn Chú thích 4: 为了……而……"
+    },
+    {
+      "id": "h4x17_ex9", "type": "error_fix", "level": "Phân biệt", "origin_tag": "Ôn kiến thức cũ (30%)", "mistake_category": "Ngữ pháp",
+      "prompt": "[Ôn tập Bài 16] Chọn câu ĐÚNG về cặp “恐怕—怕”:",
+      "options": [
+        "明天恐怕也不行，明天是我爸的生日。",
+        "我恐怕明天会下大雨，所以我带了伞，但我更恐怕打雷。",
+        "明天去长城，我恐怕你起不来床。",
+        "去动物园玩儿，小孩子不要恐怕老虎。"
+      ],
+      "answer": "明天恐怕也不行，明天是我爸的生日。",
+      "explanation": "Câu A lấy nguyên văn Bài khóa 1! Các câu B/C/D sai vì 恐怕 không mang tân ngữ danh từ/đại từ (打雷, 你, 老虎) và không có nghĩa 'sợ hãi'.",
+      "review_tip": "Ôn lại 比一比 Bài 16: 恐怕—怕."
+    },
+    {
+      "id": "h4x17_ex10", "type": "reading_mc", "level": "Vận dụng", "origin_tag": "Ôn đọc hiểu (30%)", "mistake_category": "Đọc hiểu",
+      "prompt": "Theo Bài khóa 4 & 5, nhận định nào sau đây ĐÚNG với nội dung sách giáo khoa?",
+      "options": [
+        "Ở vùng nắng gắt ít nước, lá cây thường mọc mảnh và dài; ở đáy biển sâu vài km vẫn có cá phát sáng",
+        "Ở vùng ấm áp nhiều ẩm, lá cây thường mọc rất nhỏ và mỏng để tránh mất nước",
+        "Đáy đại dương hoàn toàn im ắng, không hề có bất kỳ âm thanh nào của động vật",
+        "Ở độ sâu vài km dưới đáy biển tối đen hoàn toàn nên không nhìn thấy gì cả"
+      ],
+      "answer": "Ở vùng nắng gắt ít nước, lá cây thường mọc mảnh và dài; ở đáy biển sâu vài km vẫn có cá phát sáng",
+      "explanation": "Bài 4: 阳光特别厉害、水分少的地方，叶子又细又长; Bài 5: 几公里深的海底仍然能看到东西，许多鱼会发出亮光.",
+      "review_tip": "Đọc kỹ các chi tiết khoa học tự nhiên ở Bài khóa 4 và 5."
+    },
+    {
+      "id": "h4x17_ex11", "type": "translate_zh_vi", "level": "Vận dụng", "origin_tag": "Ôn tập tích hợp (30%)", "mistake_category": "Dịch thuật",
+      "prompt": "Chọn bản dịch đúng nhất: “科学研究发现，海洋底部看上去非常安静，然而却不是一点儿声音也没有。”",
+      "options": [
+        "Nghiên cứu khoa học phát hiện, đáy đại dương trông có vẻ vô cùng yên tĩnh, tuy nhiên lại không phải là chẳng có chút âm thanh nào.",
+        "Nghiên cứu khoa học phát hiện, đáy đại dương rất náo nhiệt nên con người có thể nghe rõ tiếng cá nói chuyện.",
+        "Nghiên cứu khoa học chứng minh, đáy đại dương tối đen và hoàn toàn không có âm thanh nào tồn tại.",
+        "Nghiên cứu khoa học cho thấy, đáy biển tuy có nhiều cây cối cạnh tranh nhưng rất yên bình."
+      ],
+      "answer": "Nghiên cứu khoa học phát hiện, đáy đại dương trông có vẻ vô cùng yên tĩnh, tuy nhiên lại không phải là chẳng có chút âm thanh nào.",
+      "explanation": "Kết hợp liên từ chuyển ý 然而 (Bài 11) + 一点儿……也没有 + từ vựng Bài 17 (海洋, 底部).",
+      "review_tip": "Ôn mẫu câu phủ định tuyệt đối 一点儿……也没有 và liên từ 然而."
+    }
+  ]
+}

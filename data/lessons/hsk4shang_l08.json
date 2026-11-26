@@ -1,0 +1,858 @@
+{
+  "id": "hsk4shang_l08",
+  "book_id": "hsk4shang",
+  "textbook": "HSK 4 上",
+  "lesson_number": 8,
+  "title_zh": "生活中不缺少美",
+  "title_vi": "Cuộc sống không thiếu cái đẹp",
+  "pdf_pages": "Trang 99–108 (Chuẩn HSK 4上 .pdf)",
+  "source_status": "verified_textbook",
+  "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"],
+  "vocabulary": [
+    {
+      "id": "hsk4s_l08_w01", "order": 1, "textbook": "HSK 4 上", "lesson": 8,
+      "hanzi": "巧克力", "pinyin": "qiǎokèlì",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "sôcôla",
+        "structure": "一块儿巧克力 / 吃巧克力 / 买巧克力",
+        "explanation": "Từ vay mượn phiên âm tiếng Anh 'chocolate'; dùng với lượng từ 块 (miếng), 盒 (hộp), 颗 (viên).",
+        "examples": [{ "chinese": "这种巧克力味道不错，你在哪儿买的？", "pinyin": "Zhè zhǒng qiǎokèlì wèidào búcuò, nǐ zài nǎr mǎi de?", "vietnamese": "Loại sôcôla này vị khá ngon đấy, chị mua ở đâu thế?", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "用可可粉、糖、牛奶等制成的甜食（英语 chocolate 的音译）。",
+      "collocations": ["黑巧克力", "牛奶巧克力", "一块巧克力", "巧克力蛋糕"],
+      "usage_note": "Lượng từ phổ biến nhất là 块 (một miếng/thỏi) hoặc 盒 (một hộp).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l08_w02", "order": 2, "textbook": "HSK 4 上", "lesson": 8,
+      "hanzi": "亲戚", "pinyin": "qīnqi",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "họ hàng thân thích",
+        "structure": "亲戚朋友 / 走亲戚 / 一位亲戚",
+        "explanation": "Chỉ người thân có quan hệ huyết thống hoặc hôn nhân; âm tiết thứ hai đọc thanh nhẹ (qi).",
+        "examples": [{ "chinese": "很多人出国后常常会买外国的巧克力，回来送给亲戚朋友。", "pinyin": "Hěn duō rén chū guó hòu chángcháng huì mǎi wàiguó de qiǎokèlì, huílai sònggěi qīnqi péngyou.", "vietnamese": "Rất nhiều người sau khi ra nước ngoài thường mua sôcôla ngoại mang về tặng họ hàng bạn bè.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "跟自己家庭有婚姻关系或血统关系的家庭或它的成员。",
+      "collocations": ["亲戚朋友", "走亲戚", "远房亲戚", "一位亲戚"],
+      "usage_note": "Chú ý chữ 戚 đọc thanh nhẹ trong từ 亲戚 (qīnqi). '走亲戚' = đi thăm họ hàng (nhất là dịp Tết).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l08_w03", "order": 3, "textbook": "HSK 4 上", "lesson": 8,
+      "hanzi": "伤心", "pinyin": "shāng xīn",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "đau lòng",
+        "structure": "很伤心 / 伤心难过 / 伤心地哭了",
+        "explanation": "Miêu tả nỗi buồn sâu sắc, tổn thương trong lòng; trong bài kết hợp với 难过.",
+        "examples": [{ "chinese": "而且，听说伤心难过的时候吃块儿巧克力，还能使人的心情变得愉快。", "pinyin": "Érqiě, tīngshuō shāng xīn nánguò de shíhou chī kuàir qiǎokèlì, hái néng shǐ rén de xīnqíng biàn de yúkuài.", "vietnamese": "Hơn nữa, nghe nói lúc đau lòng buồn bã ăn một miếng sôcôla còn có thể khiến tâm trạng con người trở nên vui vẻ.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "离合词 (Kết cấu động-tân có thể tách rời)",
+          "meanings": ["làm đau lòng, tổn thương lòng ai đó"],
+          "structure": "伤 + 某人的 + 心 / 别伤了他的心",
+          "difference_note": "Khác với tính từ trong bài (很伤心), kết cấu ly hợp 伤心 có thể chèn đại từ vào giữa để nói 'làm ai đó đau lòng'.",
+          "examples": [{ "chinese": "你这样说话太伤他的心了。", "pinyin": "Nǐ zhèyàng shuōhuà tài shāng tā de xīn le.", "vietnamese": "Bạn nói như vậy làm anh ấy đau lòng quá rồi." }]
+        }
+      ],
+      "chinese_explanation": "由于遭受不幸或不如意的事而心里痛苦。",
+      "collocations": ["伤心难过", "伤心地哭了", "伤透了心", "让人伤心"],
+      "usage_note": "Sắc thái nặng hơn 难过 một chút, thường dùng khi gặp chuyện mất mát, thất vọng lớn.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l08_w04", "order": 4, "textbook": "HSK 4 上", "lesson": 8,
+      "hanzi": "使", "pinyin": "shǐ",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "khiến cho, làm cho",
+        "structure": "A + 使 + B + 动词/形容词 (câu kiêm ngữ)",
+        "explanation": "Động từ khiến động, đồng nghĩa với 让 nhưng mang sắc thái văn viết/trang trọng hơn.",
+        "examples": [{ "chinese": "而且，听说伤心难过的时候吃块儿巧克力，还能使人的心情变得愉快。", "pinyin": "Érqiě, tīngshuō shāng xīn nánguò de shíhou chī kuàir qiǎokèlì, hái néng shǐ rén de xīnqíng biàn de yúkuài.", "vietnamese": "Hơn nữa, nghe nói lúc đau lòng buồn bã ăn một miếng sôcôla còn có thể khiến tâm trạng con người trở nên vui vẻ.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Dùng, sử dụng – khẩu ngữ và văn viết)",
+          "meanings": ["dùng, sử dụng (dụng cụ, sức lực)"],
+          "structure": "使 + 筷子 / 使劲 / 使用",
+          "difference_note": "Khác với nghĩa khiến động 'khiến cho', đây là ngoại động từ chỉ hành động sử dụng công cụ hoặc sức lực.",
+          "examples": [{ "chinese": "他很会使筷子。", "pinyin": "Tā hěn huì shǐ kuàizi.", "vietnamese": "Anh ấy dùng đũa rất thành thạo." }]
+        },
+        {
+          "part_of_speech": "动词 / 名词 (Phái đi / Sứ giả)",
+          "meanings": ["1. (đgt.) cử đi, phái đi (出使)", "2. (dt.) sứ giả, đại sứ (大使、使馆)"],
+          "structure": "大使馆 / 使命 / 出使外国",
+          "difference_note": "Nghĩa gốc Hán-Việt 'sứ', xuất hiện ngay trong từ #15 大使馆 của chính bài 8.",
+          "examples": [{ "chinese": "王先生被派去大使馆工作。", "pinyin": "Wáng xiānsheng bèi pài qù dàshǐguǎn gōngzuò.", "vietnamese": "Ông Vương được cử sang đại sứ quán làm việc." }]
+        }
+      ],
+      "chinese_explanation": "让、令（多用于书面语）；也指使用或派遣、使者。",
+      "collocations": ["使人愉快", "使……提高", "使劲", "使用"],
+      "usage_note": "Trong câu kiêm ngữ: 让 dùng thoải mái trong văn nói; 使 thiên về văn viết và nguyên nhân trừu tượng (không dùng ra lệnh kiểu '使他去买菜').",
+      "common_errors": "Sai: '妈妈使我去买菜' (ra lệnh trực tiếp nên dùng 让/叫) → Đúng: '妈妈让我去买菜'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l08_w05", "order": 5, "textbook": "HSK 4 上", "lesson": 8,
+      "hanzi": "心情", "pinyin": "xīnqíng",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "tâm trạng",
+        "structure": "心情愉快 / 心情不好 / 改变心情",
+        "explanation": "Chỉ trạng thái cảm xúc bên trong của con người (vui, buồn, thoải mái, nặng nề...).",
+        "examples": [{ "chinese": "还能使人的心情变得愉快。", "pinyin": "Hái néng shǐ rén de xīnqíng biàn de yúkuài.", "vietnamese": "Còn có thể khiến tâm trạng con người trở nên vui vẻ.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "心境、情绪。",
+      "collocations": ["心情愉快", "心情放松", "心情不好", "调节心情"],
+      "usage_note": "Không đi trực tiếp với phó từ mức độ (sai: 我很心情 → đúng: 我心情很好).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l08_w06", "order": 6, "textbook": "HSK 4 上", "lesson": 8,
+      "hanzi": "愉快", "pinyin": "yúkuài",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "vui vẻ",
+        "structure": "心情愉快 / 过得愉快 / 合作愉快",
+        "explanation": "Chỉ cảm giác vui vẻ, phấn khởi, dễ chịu trong lòng (hơi trang trọng hơn 高兴).",
+        "examples": [{ "chinese": "还能使人的心情变得愉快。", "pinyin": "Hái néng shǐ rén de xīnqíng biàn de yúkuài.", "vietnamese": "Còn có thể khiến tâm trạng con người trở nên vui vẻ.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "快乐、舒畅。",
+      "collocations": ["心情愉快", "周末愉快", "合作愉快", "旅途愉快"],
+      "usage_note": "Rất hay dùng trong lời chúc lịch sự: 周末愉快 (Chúc cuối tuần vui vẻ), 合作愉快 (Chúc hợp tác vui vẻ).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l08_w07", "order": 7, "textbook": "HSK 4 上", "lesson": 8,
+      "hanzi": "景色", "pinyin": "jǐngsè",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "phong cảnh, cảnh vật",
+        "structure": "这里的景色真美 / 欣赏景色 / 自然景色",
+        "explanation": "Chỉ cảnh sắc thiên nhiên hoặc cảnh vật trước mắt.",
+        "examples": [{ "chinese": "这里的景色真美，空气也好。", "pinyin": "Zhèlǐ de jǐngsè zhēn měi, kōngqì yě hǎo.", "vietnamese": "Phong cảnh ở đây thật đẹp, không khí cũng trong lành.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "风景、景象。",
+      "collocations": ["景色迷人", "景色优美", "秋天的景色", "看景色"],
+      "usage_note": "Gần nghĩa với 风景; 景色 thiên về sắc thái, khung cảnh trước mắt (VD: 夜色/景色), 风景 hay gắn với điểm du lịch (风景区).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l08_w08", "order": 8, "textbook": "HSK 4 上", "lesson": 8,
+      "hanzi": "放松", "pinyin": "fàngsōng",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "thả lỏng, thư giãn",
+        "structure": "放松一下 / 心情放松 / 这么放松",
+        "explanation": "Trong bài khóa 2, chỉ trạng thái tinh thần hoặc cơ thể được thư giãn, hết căng thẳng.",
+        "examples": [{ "chinese": "好多了，上次足球比赛后，好久都没这么放松了。", "pinyin": "Hǎoduō le, shàng cì zúqiú bǐsài hòu, háojiǔ dōu méi zhème fàngsōng le.", "vietnamese": "Đỡ nhiều rồi, từ sau trận bóng đá lần trước, lâu lắm rồi mới thấy thư giãn thế này.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Ngoại động từ – nghĩa 'nới lỏng, lơi lỏng')",
+          "meanings": ["lơi lỏng, nới lỏng (yêu cầu, cảnh giác, sự kiểm soát)"],
+          "structure": "放松 + 要求 / 警惕 / 学习 / 管理",
+          "difference_note": "Mang tân ngữ trừu tượng với sắc thái 'giảm bớt mức độ nghiêm ngặt', khác với nghĩa 'thư giãn nghỉ ngơi' trong bài.",
+          "examples": [{ "chinese": "快考试了，大家千万不能放松学习。", "pinyin": "Kuài kǎoshì le, dàjiā qiānwàn bù néng fàngsōng xuéxí.", "vietnamese": "Sắp thi rồi, mọi người tuyệt đối không được lơi lỏng việc học." }]
+        }
+      ],
+      "chinese_explanation": "使精神或身体不紧张；也指对某种事物的注意或控制由紧变松。",
+      "collocations": ["放松心情", "放松一下", "放松警惕", "放松要求"],
+      "usage_note": "Có thể nhận phó từ chỉ mức độ (这么放松, 很放松) như tính từ khi miêu tả trạng thái tinh thần.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l08_w09", "order": 9, "textbook": "HSK 4 上", "lesson": 8,
+      "hanzi": "压力", "pinyin": "yālì",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "áp lực",
+        "structure": "有压力 / 压力很大 / 生活压力 / 减压",
+        "explanation": "Trong bài khóa 2, chỉ sức ép tâm lý từ công việc, thi đấu, cuộc sống.",
+        "examples": [{ "chinese": "你不要有压力，好好儿准备下次比赛就好了。", "pinyin": "Nǐ búyào yǒu yālì, hǎohāor zhǔnbèi xià cì bǐsài jiù hǎo le.", "vietnamese": "Cậu đừng có áp lực, chuẩn bị thật tốt cho trận đấu lần sau là được rồi.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Thuật ngữ vật lý)",
+          "meanings": ["áp lực cơ học, lực ép vuông góc lên bề mặt"],
+          "structure": "水压力 / 大气压力 / 承受压力",
+          "difference_note": "Nghĩa gốc vật lý, khác với nghĩa tâm lý 'stress/áp lực tinh thần' trong bài khóa.",
+          "examples": [{ "chinese": "海底的水压力非常大。", "pinyin": "Hǎidǐ de shuǐ yālì fēicháng dà.", "vietnamese": "Áp suất nước dưới đáy biển vô cùng lớn." }]
+        }
+      ],
+      "chinese_explanation": "制伏人的力量或精神上的负担；物理学上指垂直作用在物体表面上的力。",
+      "collocations": ["工作压力", "生活压力", "缓解压力", "不要有压力"],
+      "usage_note": "Thường đi với động từ 有 (có), 太大 (quá lớn), 减轻/缓解 (giảm nhẹ).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l08_w10", "order": 10, "textbook": "HSK 4 上", "lesson": 8,
+      "hanzi": "回忆", "pinyin": "huíyì",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "nhớ lại",
+        "structure": "回忆 + 过去 / 那次比赛 / 回忆起来",
+        "explanation": "Trong bài khóa 2, dùng làm động từ chỉ việc nghĩ lại những chuyện đã xảy ra trong quá khứ.",
+        "examples": [{ "chinese": "这段时间我总是一个人坐在房间里回忆那次比赛。", "pinyin": "Zhè duàn shíjiān wǒ zǒngshì yí ge rén zuò zài fángjiān li huíyì nà cì bǐsài.", "vietnamese": "Khoảng thời gian này mình lúc nào cũng ngồi một mình trong phòng nhớ lại trận đấu đó.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ)",
+          "meanings": ["ký ức, hồi ức, kỷ niệm"],
+          "structure": "美好的回忆 / 留下回忆 / 童年回忆",
+          "difference_note": "Khi làm danh từ, 回忆 chỉ chính những kỷ niệm lưu lại trong trí nhớ, thường có định ngữ đứng trước.",
+          "examples": [{ "chinese": "大学四年给我留下了许多美好的回忆。", "pinyin": "Dàxué sì nián gěi wǒ liúxià le xǔduō měihǎo de huíyì.", "vietnamese": "Bốn năm đại học đã để lại cho tôi rất nhiều ký ức tươi đẹp." }]
+        }
+      ],
+      "chinese_explanation": "回想过去的事情；也指对往事的记忆。",
+      "collocations": ["回忆过去", "美好的回忆", "回忆起来", "童年回忆"],
+      "usage_note": "Phân biệt với 记得 (còn nhớ, không quên) và 想起 (chợt nhớ ra); 回忆 nhấn mạnh quá trình hồi tưởng lại từng chi tiết quá khứ.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l08_w11", "order": 11, "textbook": "HSK 4 上", "lesson": 8,
+      "hanzi": "发生", "pinyin": "fāshēng",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "xảy ra",
+        "structure": "事情已经发生了 / 发生 + 变化 / 事故 / 矛盾",
+        "explanation": "Chỉ sự việc, hiện tượng, biến cố nảy sinh hoặc diễn ra.",
+        "examples": [{ "chinese": "事情已经发生了，过去的就让它成为过去吧。", "pinyin": "Shìqing yǐjīng fāshēng le, guòqù de jiù ràng tā chéngwéi guòqù ba.", "vietnamese": "Chuyện cũng đã xảy ra rồi, những gì đã qua thì cứ để nó trôi vào quá khứ đi.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "原来没有的事出现了；产生。",
+      "collocations": ["发生什么事", "发生变化", "发生意外", "发生关系"],
+      "usage_note": "Tân ngữ đi sau 发生 thường là sự kiện, biến cố, sự thay đổi (không dùng cho vật thể cụ thể).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l08_w12", "order": 12, "textbook": "HSK 4 上", "lesson": 8,
+      "hanzi": "成为", "pinyin": "chéngwéi",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "trở thành",
+        "structure": "A 成为 B (danh từ / cụm danh từ)",
+        "explanation": "Biểu thị sự chuyển biến thành một thân phận, vai trò hoặc trạng thái mới.",
+        "examples": [{ "chinese": "事情已经发生了，过去的就让它成为过去吧。", "pinyin": "Shìqing yǐjīng fāshēng le, guòqù de jiù ràng tā chéngwéi guòqù ba.", "vietnamese": "Chuyện đã xảy ra rồi, những gì đã qua hãy để nó trở thành quá khứ đi.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "变成（某种人或事物）。",
+      "collocations": ["成为朋友", "成为律师", "成为过去", "成为现实"],
+      "usage_note": "Trang trọng hơn 变成 và tân ngữ phía sau 成为 phải là danh từ (không đi trực tiếp với tính từ đơn lẻ như 成为好).",
+      "common_errors": "Sai: '他成为很胖了' → Sửa: '他变胖了' (成为 chỉ nối với danh từ, như 成为一名医生).",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l08_w13", "order": 13, "textbook": "HSK 4 上", "lesson": 8,
+      "hanzi": "只要", "pinyin": "zhǐyào",
+      "lesson_usage": {
+        "part_of_speech": "连词 (Liên từ)", "meaning": "chỉ cần, miễn là",
+        "structure": "只要……，就/一定……",
+        "explanation": "Đưa ra điều kiện đủ ở vế đầu; vế sau thường dùng 就 (hoặc 一定/都) để chỉ kết quả tất yếu.",
+        "examples": [{ "chinese": "只要这次你好好儿准备，一定能把比赛踢好。", "pinyin": "Zhǐyào zhè cì nǐ hǎohāor zhǔnbèi, yídìng néng bǎ bǐsài tīhǎo.", "vietnamese": "Chỉ cần lần này cậu chuẩn bị thật tốt, nhất định có thể đá tốt trận đấu.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "连词，表示充足的条件，常与“就”搭配。",
+      "collocations": ["只要……就……", "只要用心", "只要努力"],
+      "usage_note": "Phân biệt kỹ: 只要……就…… (điều kiện đủ: chỉ cần A là có B) vs 只有……才…… (điều kiện cần/duy nhất: chỉ có A mới có B).",
+      "common_errors": "Trộn lẫn cặp liên từ: Sai '只要努力，才能成功' → Sửa: '只要努力，就能成功' hoặc '只有努力，才能成功'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l08_w14", "order": 14, "textbook": "HSK 4 上", "lesson": 8,
+      "hanzi": "师傅", "pinyin": "shīfu",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "sư phụ (cách gọi kính trọng dành cho những người có tay nghề)",
+        "structure": "师傅 / 张师傅 / 司机师傅",
+        "explanation": "Cách xưng hô lịch sự, thân mật ở Trung Quốc dành cho tài xế taxi, thợ sửa chữa, đầu bếp hoặc người lao động có tay nghề; 傅 đọc thanh nhẹ.",
+        "examples": [{ "chinese": "师傅，我去大使馆，你是不是走错了？", "pinyin": "Shīfu, wǒ qù dàshǐguǎn, nǐ shì bu shì zǒucuò le?", "vietnamese": "Bác tài ơi, tôi đi đại sứ quán, bác có đi nhầm đường không ạ?", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Nghĩa truyền thống: thầy dạy nghề/võ thuật)",
+          "meanings": ["sư phụ, thầy dạy nghề (đối ứng với 徒弟 – đồ đệ)"],
+          "structure": "拜师 / 我的师傅",
+          "difference_note": "Ngoài cách gọi xã giao phổ thông cho tài xế/thợ thủ công, 师傅 còn chỉ người thầy truyền dạy tay nghề hoặc võ nghệ (đôi khi viết 师父).",
+          "examples": [{ "chinese": "他跟着这位老师傅学了五年做菜。", "pinyin": "Tā gēnzhe zhè wèi lǎo shīfu xué le wǔ nián zuò cài.", "vietnamese": "Anh ấy đã theo vị sư phụ lão luyện này học nấu ăn suốt năm năm." }]
+        }
+      ],
+      "chinese_explanation": "对有技艺的人（如司机、工人、厨师等）的尊称；也指传授技艺的老师。",
+      "collocations": ["司机师傅", "老师傅", "李师傅"],
+      "usage_note": "Khi gọi tài xế taxi ở Trung Quốc, gọi '师傅' tự nhiên và lịch sự hơn nhiều so với gọi '司机'.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l08_w15", "order": 15, "textbook": "HSK 4 上", "lesson": 8,
+      "hanzi": "大使馆", "pinyin": "dàshǐguǎn",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "đại sứ quán",
+        "structure": "去大使馆 / 中国大使馆 / 越南大使馆",
+        "explanation": "Cơ quan đại diện ngoại giao chính thức của một nước đặt tại thủ đô nước khác.",
+        "examples": [{ "chinese": "师傅，我去大使馆，你是不是走错了？", "pinyin": "Shīfu, wǒ qù dàshǐguǎn, nǐ shì bu shì zǒucuò le?", "vietnamese": "Bác tài ơi, tôi đi đại sứ quán, bác có đi nhầm đường không ạ?", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "一国派驻另一国首都的最高外交代表机构。",
+      "collocations": ["去大使馆", "大使馆签证", "驻华大使馆"],
+      "usage_note": "Phân biệt 大使馆 (đại sứ quán – đặt ở thủ đô) và 领事馆 (lãnh sự quán – đặt ở các thành phố lớn khác).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l08_w16", "order": 16, "textbook": "HSK 4 上", "lesson": 8,
+      "hanzi": "堵车", "pinyin": "dǔ chē",
+      "lesson_usage": {
+        "part_of_speech": "动词/离合词 (Động từ ly hợp)", "meaning": "kẹt xe",
+        "structure": "有点儿堵车 / 遇到堵车 / 堵了一个小时车",
+        "explanation": "Kết cấu động-tân chỉ tình trạng tắc nghẽn giao thông; có thể tách để chèn thời lượng (堵了半个小时车).",
+        "examples": [{ "chinese": "现在是上班时间，前面有点儿堵车，我们走另外一条路，距离差不多。", "pinyin": "Xiànzài shì shàng bān shíjiān, qiánmiàn yǒudiǎnr dǔ chē, wǒmen zǒu lìngwài yì tiáo lù, jùlí chàbuduō.", "vietnamese": "Bây giờ là giờ đi làm, phía trước hơi kẹt xe, chúng ta đi con đường khác, khoảng cách cũng tương đương nhau.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "道路上车辆拥挤堵塞，无法顺利通行。",
+      "collocations": ["遇到堵车", "堵车严重", "上班堵车", "堵了一个小时车"],
+      "usage_note": "Trong bài khóa 3 có cách chơi chữ rất thú vị: '遇到堵车，心情也“堵”' (gặp kẹt xe, tâm trạng cũng bị 'tắc nghẽn/bí bách').",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l08_w17", "order": 17, "textbook": "HSK 4 上", "lesson": 8,
+      "hanzi": "距离", "pinyin": "jùlí",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "khoảng cách",
+        "structure": "距离差不多 / 拉近距离 / 保持距离",
+        "explanation": "Trong bài khóa 3, làm danh từ chỉ độ dài quãng đường giữa hai địa điểm (cũng dùng cho khoảng cách tình cảm, thời gian).",
+        "examples": [{ "chinese": "我们走另外一条路，距离差不多。", "pinyin": "Wǒmen zǒu lìngwài yì tiáo lù, jùlí chàbuduō.", "vietnamese": "Chúng ta đi một con đường khác, khoảng cách gần như nhau.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Động từ)",
+          "meanings": ["cách (về khoảng cách không gian hoặc thời gian, trang trọng hơn 离)"],
+          "structure": "A 距离 B (+ 远/近/具体数量)",
+          "difference_note": "Khác với danh từ trong bài, khi làm động từ 距离 mang tân ngữ địa điểm hoặc mốc thời gian tương tự 离.",
+          "examples": [{ "chinese": "我家距离公司只有两公里，骑车十分钟就到。", "pinyin": "Wǒ jiā jùlí gōngsī zhǐ yǒu liǎng gōnglǐ, qí chē shí fēnzhōng jiù dào.", "vietnamese": "Nhà tôi cách công ty chỉ có hai ki-lô-mét, đạp xe mười phút là tới." }]
+        }
+      ],
+      "chinese_explanation": "在空间或时间上相隔的长度；作动词表示相隔。",
+      "collocations": ["保持距离", "拉近距离", "近距离", "距离很远"],
+      "usage_note": "Xem thêm cụm '拉近了人们之间的距离' (kéo gần khoảng cách giữa con người với nhau) ở Bài 10.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l08_w18", "order": 18, "textbook": "HSK 4 上", "lesson": 8,
+      "hanzi": "耐心", "pinyin": "nàixīn",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "lòng kiên nhẫn, sự nhẫn nại",
+        "structure": "没有耐心 / 有耐心 / 失去耐心",
+        "explanation": "Trong bài khóa 3, làm tân ngữ của động từ 没有 (không có lòng kiên nhẫn).",
+        "examples": [{ "chinese": "一遇到堵车，人们就容易变得没有耐心。", "pinyin": "Yí yùdào dǔ chē, rénmen jiù róngyì biànde méiyǒu nàixīn.", "vietnamese": "Hễ gặp kẹt xe là người ta rất dễ trở nên mất kiên nhẫn.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "形容词 (Tính từ)",
+          "meanings": ["kiên nhẫn, nhẫn nại"],
+          "structure": "很耐心 / 耐心地 + 动词 / 耐心等消息",
+          "difference_note": "Khác với bài khóa dùng làm danh từ (没有耐心), 耐心 rất hay dùng làm tính từ vị ngữ hoặc trạng ngữ (ngay trong bài tập 7 tr.107: '耐心等消息').",
+          "examples": [{ "chinese": "老师非常耐心地回答了每一个学生的问题。", "pinyin": "Lǎoshī fēicháng nàixīn de huídá le měi yí ge xuésheng de wèntí.", "vietnamese": "Thầy giáo đã vô cùng kiên nhẫn trả lời câu hỏi của từng học sinh." }]
+        }
+      ],
+      "chinese_explanation": "心里不急躁，不厌烦；也可作名词指这种品质。",
+      "collocations": ["有耐心", "没有耐心", "耐心等待", "耐心地听"],
+      "usage_note": "Rất hay xuất hiện trong đề thi HSK 4 cả hai vai trò: danh từ (有耐心) và trạng ngữ tính từ (耐心等).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l08_w19", "order": 19, "textbook": "HSK 4 上", "lesson": 8,
+      "hanzi": "生命", "pinyin": "shēngmìng",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "sự sống, tính mệnh",
+        "structure": "生命的颜色 / 珍惜生命 / 生命安全",
+        "explanation": "Chỉ sinh mệnh, sức sống của sinh vật hoặc cuộc đời con người.",
+        "examples": [{ "chinese": "草绿了，那是生命的颜色；花开了，那是大自然的礼物。", "pinyin": "Cǎo lǜ le, nà shì shēngmìng de yánsè; huā kāi le, nà shì dàzìrán de lǐwù.", "vietnamese": "Cỏ xanh rồi, đó là màu sắc của sự sống; hoa nở rồi, đó là món quà của thiên nhiên.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "生物体所具有的活动能力；生物生存的期限。",
+      "collocations": ["珍惜生命", "保护生命", "生命力", "生命安全"],
+      "usage_note": "Phân biệt với 生活 (đời sống sinh hoạt hằng ngày); 生命 chỉ sinh mệnh, sự sống.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l08_w20", "order": 20, "textbook": "HSK 4 上", "lesson": 8,
+      "hanzi": "缺少", "pinyin": "quēshǎo",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "thiếu",
+        "structure": "缺少 + 美 / 经验 / 锻炼 / 调查",
+        "explanation": "Chỉ số lượng chưa đủ hoặc không có thứ cần thiết (thường đi với danh từ trừu tượng hoặc vật chất).",
+        "examples": [{ "chinese": "生活中不缺少美，缺少的是发现美的眼睛。", "pinyin": "Shēnghuó zhōng bù quēshǎo měi, quēshǎo de shì fāxiàn měi de yǎnjing.", "vietnamese": "Trong cuộc sống không thiếu cái đẹp, cái thiếu là đôi mắt biết phát hiện ra cái đẹp.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "人或物在数量上不够。",
+      "collocations": ["缺少锻炼", "缺少经验", "缺少调查", "不可缺少"],
+      "usage_note": "Không dùng phủ định với '没' trước trạng thái thường trực; nói '不缺少' hoặc '缺少……'.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l08_w21", "order": 21, "textbook": "HSK 4 上", "lesson": 8,
+      "hanzi": "到处", "pinyin": "dàochù",
+      "lesson_usage": {
+        "part_of_speech": "副词 (Phó từ)", "meaning": "khắp nơi, đâu đâu",
+        "structure": "到处都是…… / 到处 + 动词 (到处乱放 / 到处找)",
+        "explanation": "Biểu thị phạm vi không gian rộng khắp mọi chỗ, thường đi kèm 都.",
+        "examples": [{ "chinese": "只要有心，生活中的美到处都是。", "pinyin": "Zhǐyào yǒuxīn, shēnghuó zhōng de měi dàochù dōu shì.", "vietnamese": "Chỉ cần có tâm để ý, cái đẹp trong cuộc sống đâu đâu cũng có.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "各处、处处。",
+      "collocations": ["到处都是", "到处乱放", "到处旅游", "到处找"],
+      "usage_note": "Tương đương với 处处 (nhưng 到处 thông dụng hơn trong khẩu ngữ và có thể làm chủ ngữ/trạng ngữ).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l08_w22", "order": 22, "textbook": "HSK 4 上", "lesson": 8,
+      "hanzi": "态度", "pinyin": "tàidù",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "thái độ",
+        "structure": "生活的态度 / 对……的态度 / 态度认真",
+        "explanation": "Trong bài khóa 4, chỉ cách nhìn nhận và ứng xử đối với cuộc sống.",
+        "examples": [{ "chinese": "生活的态度要自己选择，因此，遇到烦恼时，你应该想一些办法让自己从不高兴的心情中走出来。", "pinyin": "Shēnghuó de tàidù yào zìjǐ xuǎnzé, yīncǐ, yùdào fánnǎo shí, nǐ yīnggāi xiǎng yìxiē bànfǎ ràng zìjǐ cóng bù gāoxìng de xīnqíng zhōng zǒu chulai.", "vietnamese": "Thái độ sống phải do tự mình lựa chọn, vì vậy, khi gặp phiền muộn, bạn nên nghĩ vài cách để đưa bản thân thoát khỏi tâm trạng không vui.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Lập trường, quan điểm / Cách cư xử giao tiếp)",
+          "meanings": ["1. cách cư xử, phong cách phục vụ (服务态度)", "2. lập trường, quan điểm trước một vấn đề (表明态度)"],
+          "structure": "服务态度很好 / 对这件事的态度",
+          "difference_note": "Ngoài 'thái độ sống' mang tính nội tâm, 态度 còn dùng rộng rãi cho thái độ phục vụ, thái độ làm việc hoặc quan điểm ủng hộ/phản đối.",
+          "examples": [{ "chinese": "这家饭馆的服务员态度特别热情。", "pinyin": "Zhè jiā fànguǎn de fúwùyuán tàidù tèbié rèqíng.", "vietnamese": "Thái độ của nhân viên phục vụ ở nhà hàng này vô cùng nhiệt tình." }]
+        }
+      ],
+      "chinese_explanation": "人的举止神情；对事情的看法和采取的行动。",
+      "collocations": ["生活态度", "工作态度", "服务态度", "改变态度"],
+      "usage_note": "Thường dùng với cấu trúc '对 + sự việc/người + 的态度' (VD: 对困难的态度).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l08_w23", "order": 23, "textbook": "HSK 4 上", "lesson": 8,
+      "hanzi": "因此", "pinyin": "yīncǐ",
+      "lesson_usage": {
+        "part_of_speech": "连词 (Liên từ)", "meaning": "do đó, vì vậy",
+        "structure": "Nguyên nhân，因此，Kết quả",
+        "explanation": "Nghĩa là 'vì điều này' (因为这个), gần nghĩa với 所以 nhưng trang trọng hơn và KHÔNG đi cặp với 因为.",
+        "examples": [{ "chinese": "生活的态度要自己选择，因此，遇到烦恼时，你应该想一些办法让自己从不高兴的心情中走出来。", "pinyin": "Shēnghuó de tàidù yào zìjǐ xuǎnzé, yīncǐ, yùdào fánnǎo shí, nǐ yīnggāi xiǎng yìxiē bànfǎ ràng zìjǐ cóng bù gāoxìng de xīnqíng zhōng zǒu chulai.", "vietnamese": "Thái độ sống phải tự mình lựa chọn, do đó, khi gặp phiền muộn, bạn nên nghĩ cách để thoát khỏi tâm trạng không vui.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "连词，表示“因为这个”，引出结果，不能与“因为”连用。",
+      "collocations": ["因此……", "也正因为如此"],
+      "usage_note": "Chữ 此 đã mang nghĩa 'cái này' nên tuyệt đối không viết '因为……因此……'.",
+      "common_errors": "Sai phổ biến: '因为下雨，因此我没去' → Sửa: '因为下雨，所以我没去' hoặc '下雨了，因此我没去'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l08_w24", "order": 24, "textbook": "HSK 4 上", "lesson": 8,
+      "hanzi": "科学", "pinyin": "kēxué",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "khoa học",
+        "structure": "科学研究 / 科学家 / 自然科学",
+        "explanation": "Trong bài khóa 5, làm danh từ định ngữ trong cụm 科学研究 (nghiên cứu khoa học).",
+        "examples": [{ "chinese": "科学研究证明，女孩子对衣服颜色的选择往往与她们的性格有关。", "pinyin": "Kēxué yánjiū zhèngmíng, nǚháizi duì yīfu yánsè de xuǎnzé wǎngwǎng yǔ tāmen de xìnggé yǒuguān.", "vietnamese": "Nghiên cứu khoa học chứng minh rằng sự lựa chọn màu sắc quần áo của các cô gái thường liên quan đến tính cách của họ.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "形容词 (Tính từ)",
+          "meanings": ["khoa học, hợp lý, đúng quy luật"],
+          "structure": "很科学 / 科学的方法 / 不科学",
+          "difference_note": "Khi làm tính từ, 科学 có thể nhận phó từ mức độ (很科学, 非常科学) để đánh giá một phương pháp hay chế độ có hợp lý hay không.",
+          "examples": [{ "chinese": "不吃早饭来减肥，这种方法一点儿也不科学。", "pinyin": "Bù chī zǎofàn lái jiǎnféi, zhè zhǒng fāngfǎ yìdiǎnr yě bù kēxué.", "vietnamese": "Nhịn ăn sáng để giảm cân, phương pháp này chẳng khoa học chút nào." }]
+        }
+      ],
+      "chinese_explanation": "反映自然、社会、思维等的客观规律的知识体系；也形容合乎科学道理。",
+      "collocations": ["科学研究", "科学家", "科学方法", "不科学"],
+      "usage_note": "Rất hay dùng dạng tính từ trong các chủ đề sức khỏe, học tập (科学地安排时间).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l08_w25", "order": 25, "textbook": "HSK 4 上", "lesson": 8,
+      "hanzi": "证明", "pinyin": "zhèngmíng",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "chứng minh",
+        "structure": "证明 + 事/句子 / 向……证明",
+        "explanation": "Dùng chứng cứ, sự thật để khẳng định điều gì đó là đúng hoặc chân thực.",
+        "examples": [{ "chinese": "科学研究证明，女孩子对衣服颜色的选择往往与她们的性格有关。", "pinyin": "Kēxué yánjiū zhèngmíng, nǚháizi duì yīfu yánsè de xuǎnzé wǎngwǎng yǔ tāmen de xìnggé yǒuguān.", "vietnamese": "Nghiên cứu khoa học chứng minh rằng việc lựa chọn màu áo của các cô gái thường liên quan đến tính cách của họ.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ)",
+          "meanings": ["giấy chứng nhận, chứng từ, bằng chứng"],
+          "structure": "开证明 / 身份证明 / 医院的证明",
+          "difference_note": "Khác với động từ trong bài khóa, khi làm danh từ 证明 chỉ văn bản xác nhận chính thức.",
+          "examples": [{ "chinese": "请假三天以上需要医院开的证明。", "pinyin": "Qǐngjià sān tiān yǐshàng xūyào yīyuàn kāi de zhèngmíng.", "vietnamese": "Xin nghỉ phép từ ba ngày trở lên cần có giấy xác nhận do bệnh viện cấp." }]
+        }
+      ],
+      "chinese_explanation": "用可靠的材料来表明或断定人或事物的真实性；也指证明书、证明信。",
+      "collocations": ["事实证明", "向大家证明", "身份证明", "开证明"],
+      "usage_note": "Trong bài tập 5 tr.107 có cấu trúc rất chuẩn: 向所有人证明自己的选择是对的.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l08_w26", "order": 26, "textbook": "HSK 4 上", "lesson": 8,
+      "hanzi": "往往", "pinyin": "wǎngwǎng",
+      "lesson_usage": {
+        "part_of_speech": "副词 (Phó từ)", "meaning": "thường thường",
+        "structure": "Điều kiện/Tình huống + 往往 + Kết quả có quy luật",
+        "explanation": "Dựa vào kinh nghiệm quá khứ tổng kết lại tình huống có tính quy luật thường xuyên xảy ra trong điều kiện nhất định.",
+        "examples": [{ "chinese": "科学研究证明，女孩子对衣服颜色的选择往往与她们的性格有关。", "pinyin": "Kēxué yánjiū zhèngmíng, nǚháizi duì yīfu yánsè de xuǎnzé wǎngwǎng yǔ tāmen de xìnggé yǒuguān.", "vietnamese": "Nghiên cứu khoa học chứng minh rằng lựa chọn màu áo của các cô gái thường liên quan tới tính cách của họ.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "表示根据过去的经验，某种情况在一定条件下时常存在或经常发生。",
+      "collocations": ["往往会", "往往是", "往往与……有关"],
+      "usage_note": "KHÔNG dùng cho tương lai hay ý muốn chủ quan (sai: '以后我往往去公园'); xem bảng so sánh 往往—经常 ở tab Ngữ pháp.",
+      "common_errors": "Sai: '以后我们可以往往去那家饭馆' → Sửa: '以后我们可以经常去那家饭馆'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l08_w27", "order": 27, "textbook": "HSK 4 上", "lesson": 8,
+      "hanzi": "阳光", "pinyin": "yángguāng",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "lạc quan, vui vẻ",
+        "structure": "性格比较阳光 / 阳光男孩 / 很阳光",
+        "explanation": "Trong bài khóa 5, dùng nghĩa chuyển hiện đại để miêu tả tính cách cởi mở, tích cực, rạng rỡ.",
+        "examples": [{ "chinese": "喜欢穿白色衣服的女孩子性格比较阳光，生活态度积极向上是她们的共同特点。", "pinyin": "Xǐhuan chuān báisè yīfu de nǚháizi xìnggé bǐjiào yángguāng, shēnghuó tàidù jījí xiàngshàng shì tāmen de gòngtóng tèdiǎn.", "vietnamese": "Các cô gái thích mặc quần áo màu trắng tính cách khá lạc quan vui vẻ, thái độ sống tích cực hướng lên là đặc điểm chung của họ.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ – nghĩa gốc)",
+          "meanings": ["ánh nắng mặt trời, ánh dương"],
+          "structure": "阳光明媚 / 晒阳光 / 阳光总在风雨后",
+          "difference_note": "Đây là nghĩa gốc phổ biến nhất của 阳光 (chính là từ trong tiêu đề Bài 9: '阳光总在风雨后').",
+          "examples": [{ "chinese": "今天阳光很好，我们出去晒晒太阳吧。", "pinyin": "Jīntiān yángguāng hěn hǎo, wǒmen chūqù shàishai tàiyáng ba.", "vietnamese": "Hôm nay nắng rất đẹp, chúng ta ra ngoài phơi nắng đi." }]
+        }
+      ],
+      "chinese_explanation": "形容性格开朗乐观、积极向上；本义指日光、太阳光。",
+      "collocations": ["性格阳光", "阳光灿烂", "阳光明媚", "阳光总在风雨后"],
+      "usage_note": "Cẩn thận phân biệt từ loại tùy ngữ cảnh: '性格很阳光' (tính từ) vs '窗外的阳光' (danh từ).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l08_w28", "order": 28, "textbook": "HSK 4 上", "lesson": 8,
+      "hanzi": "积极", "pinyin": "jījí",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "tích cực",
+        "structure": "积极向上 / 积极参加 / 态度很积极",
+        "explanation": "Chỉ thái độ, tinh thần hướng thiện, chủ động, nhiệt tình (trái nghĩa với 消极).",
+        "examples": [{ "chinese": "生活态度积极向上是她们的共同特点。", "pinyin": "Shēnghuó tàidù jījí xiàngshàng shì tāmen de gòngtóng tèdiǎn.", "vietnamese": "Thái độ sống tích cực hướng lên là đặc điểm chung của họ.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "形容词 (Làm trạng ngữ trước động từ / chỉ tác dụng tốt)",
+          "meanings": ["1. hăng hái, chủ động (积极参加、积极准备)", "2. có tác dụng thúc đẩy tốt đẹp (积极的影响/作用)"],
+          "structure": "积极(地) + 动词 / 积极的作用",
+          "difference_note": "Ngoài làm vị ngữ miêu tả thái độ, 积极 rất hay đứng trước động từ như trạng ngữ (bài tập 3 tr.107: 请同学们积极参加) hoặc làm định ngữ cho 影响/作用.",
+          "examples": [{ "chinese": "这次招聘会提供了差不多1000个工作机会，请同学们积极参加。", "pinyin": "Zhè cì zhāopìnhuì tígōng le chàbuduō yìqiān ge gōngzuò jīhuì, qǐng tóngxuémen jījí cānjiā.", "vietnamese": "Hội chợ việc làm lần này cung cấp gần 1000 cơ hội việc làm, mời các bạn sinh viên tích cực tham gia." }]
+        }
+      ],
+      "chinese_explanation": "正面的、促进发展的；也指进取的、热心的（跟“消极”相对）。",
+      "collocations": ["积极向上", "积极参加", "积极影响", "积极态度"],
+      "usage_note": "Trái nghĩa trực tiếp là 消极 (tiêu cực).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l08_w29", "order": 29, "textbook": "HSK 4 上", "lesson": 8,
+      "hanzi": "特点", "pinyin": "tèdiǎn",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "đặc điểm",
+        "structure": "共同特点 / 性格特点 / 有特点",
+        "explanation": "Chỉ điểm nổi bật, đặc trưng riêng của người hoặc sự vật.",
+        "examples": [{ "chinese": "生活态度积极向上是她们的共同特点。", "pinyin": "Shēnghuó tàidù jījí xiàngshàng shì tāmen de gòngtóng tèdiǎn.", "vietnamese": "Thái độ sống tích cực hướng lên là đặc điểm chung của họ.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "人或事物所具有的独特的地方。",
+      "collocations": ["共同特点", "主要特点", "根据……的特点", "很有特点"],
+      "usage_note": "Phân biệt với 优点 (ưu điểm – luôn mang nghĩa tốt); 特点 là từ trung tính, chỉ nét đặc trưng nói chung.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    }
+  ],
+  "proper_nouns": [],
+  "same_char_expansion": {
+    "char": "要",
+    "words": [
+      { "hanzi": "重要", "pinyin": "zhòngyào", "meaning": "quan trọng" },
+      { "hanzi": "主要", "pinyin": "zhǔyào", "meaning": "chủ yếu" },
+      { "hanzi": "只要", "pinyin": "zhǐyào", "meaning": "chỉ cần, miễn là" },
+      { "hanzi": "要是", "pinyin": "yàoshi", "meaning": "nếu như" }
+    ],
+    "examples": [
+      { "chinese": "年轻人最重要的是要对自己有信心。", "vietnamese": "Điều quan trọng nhất với người trẻ là phải có lòng tin vào bản thân." },
+      { "chinese": "这本书主要介绍了中国的文化和历史。", "vietnamese": "Cuốn sách này chủ yếu giới thiệu văn hóa và lịch sử Trung Quốc." },
+      { "chinese": "只要你打开电视，总能看到那么多的广告，真是浪费时间。", "vietnamese": "Chỉ cần bạn mở ti vi là lúc nào cũng thấy bao nhiêu quảng cáo, thật lãng phí thời gian." },
+      { "chinese": "那个电视节目特别有意思，你要是有时间也看看吧。", "vietnamese": "Chương trình truyền hình đó đặc biệt thú vị, nếu bạn có thời gian thì cũng xem thử đi." }
+    ]
+  },
+  "grammar": [
+    {
+      "title": "使",
+      "formula": "Chủ ngữ (Nguyên nhân/Sự việc) + 使 + Đối tượng (Người/Vật) + Động từ / Tính từ (Kết quả)",
+      "meaning": "Khiến cho, làm cho (tương tự 让, thường dùng trong văn viết).",
+      "usage": "Động từ khiến động 使 dùng trong câu kiêm ngữ, nêu rõ sự vật/tình huống phía trước gây ra sự thay đổi trạng thái hoặc cảm xúc cho đối tượng phía sau.",
+      "context": "Thường dùng trong văn viết, bài nghị luận, phát biểu trang trọng; ít dùng để ra lệnh trực tiếp cho người khác.",
+      "examples": [
+        { "chinese": "她看都没看过我一眼，怎么样才能使她喜欢我呢？", "pinyin": "Tā kàn dōu méi kànguo wǒ yì yǎn, zěnmeyàng cái néng shǐ tā xǐhuan wǒ ne?", "vietnamese": "Cô ấy nhìn cũng chẳng thèm nhìn tôi lấy một cái, làm thế nào mới có thể khiến cô ấy thích tôi đây?" },
+        { "chinese": "在中国生活的三年使他在音乐方面有了很多新的想法。", "pinyin": "Zài Zhōngguó shēnghuó de sān nián shǐ tā zài yīnyuè fāngmiàn yǒu le hěn duō xīn de xiǎngfǎ.", "vietnamese": "Ba năm sống ở Trung Quốc đã khiến anh ấy có rất nhiều ý tưởng mới trong lĩnh vực âm nhạc." },
+        { "chinese": "听说伤心难过的时候吃块儿巧克力，还能使人的心情变得愉快。", "pinyin": "Tīngshuō shāng xīn nánguò de shíhou chī kuàir qiǎokèlì, hái néng shǐ rén de xīnqíng biàn de yúkuài.", "vietnamese": "Nghe nói lúc đau lòng buồn bã ăn một miếng sôcôla còn có thể khiến tâm trạng con người trở nên vui vẻ." }
+      ],
+      "important_notes": "Chủ ngữ của 使 thường là sự việc, hoàn cảnh hoặc cụm động từ; phía sau 使 + đối tượng bắt buộc có thành phần vị ngữ chỉ kết quả.",
+      "common_errors": "Dùng 使 để ra lệnh/cho phép trong khẩu ngữ đời thường (Sai: '老师使我回去' → Đúng: '老师让我回去').",
+      "comparison": "让 dùng được cả khẩu ngữ lẫn văn viết, cả nguyên nhân lẫn cho phép/ra lệnh; 使 thiên về văn viết và nguyên nhân – kết quả.",
+      "mini_practice": [
+        { "prompt": "房间里应该多放一些绿色植物，______________________________。（使）", "sample_answer": "这样可以使房间看起来更舒服 / 可以使我们的眼睛得到休息", "explanation": "Dùng '使 + đối tượng + kết quả' để nêu tác dụng tích cực của việc đặt cây xanh." },
+        { "prompt": "听完这件事，______________________________。（使）", "sample_answer": "他的话使我非常感动 / 这件事使我明白了一个道理", "explanation": "Đặt nguyên nhân trước 使 và kết quả tâm lý phía sau." }
+      ]
+    },
+    {
+      "title": "只要",
+      "formula": "只要 + Điều kiện đủ，(Chủ ngữ) + 就 / 一定 / 都 + Kết quả",
+      "meaning": "Chỉ cần..., miễn là... thì...",
+      "usage": "Liên từ 只要 đặt ở vế đầu nêu ra một điều kiện cần thiết/đủ để dẫn tới kết quả; vế sau phối hợp với 就 (hoặc 一定, 都) chỉ kết quả sinh ra từ điều kiện đó.",
+      "context": "Dùng rộng rãi trong cả văn nói lẫn văn viết để khuyến khích, khẳng định mối quan hệ điều kiện – kết quả dễ đạt được.",
+      "examples": [
+        { "chinese": "只要这次你好好儿准备，一定能把比赛踢好。", "pinyin": "Zhǐyào zhè cì nǐ hǎohāor zhǔnbèi, yídìng néng bǎ bǐsài tīhǎo.", "vietnamese": "Chỉ cần lần này cậu chuẩn bị thật tốt, nhất định có thể đá tốt trận đấu." },
+        { "chinese": "只要你用心就会发现，身边有那么多有意思的事情，有那么多不一样的生活。", "pinyin": "Zhǐyào nǐ yòngxīn jiù huì fāxiàn, shēnbiān yǒu nàme duō yǒu yìsi de shìqing, yǒu nàme duō bù yíyàng de shēnghuó.", "vietnamese": "Chỉ cần bạn để tâm thì sẽ phát hiện ra xung quanh có biết bao chuyện thú vị, có biết bao cuộc sống khác biệt." },
+        { "chinese": "每个人对幸福有不同的理解，对我来说，只要能做自己喜欢的事，就是幸福。", "pinyin": "Měi ge rén duì xìngfú yǒu bù tóng de lǐjiě, duì wǒ láishuō, zhǐyào néng zuò zìjǐ xǐhuan de shì, jiù shì xìngfú.", "vietnamese": "Mỗi người có cách hiểu khác nhau về hạnh phúc, đối với tôi mà nói, chỉ cần được làm việc mình thích thì chính là hạnh phúc." }
+      ],
+      "important_notes": "只要 có thể đặt trước hoặc sau chủ ngữ (只要你努力 / 你只要努力); vế sau luôn đi với 就 (không đi với 才).",
+      "common_errors": "Nhầm cặp liên từ: Sai '只要坚持，才能成功' → Đúng: '只要坚持，就能成功' hoặc '只有坚持，才能成功'.",
+      "comparison": "只要……就…… (điều kiện đủ – chỉ cần A là đủ sinh ra B) vs 只有……才…… (điều kiện cần duy nhất – thiếu A thì tuyệt đối không có B).",
+      "mini_practice": [
+        { "prompt": "______________________________，爸妈一定会支持你。（只要）", "sample_answer": "只要你的决定是对的 / 只要你认真学习", "explanation": "Vế đầu đặt 只要 nêu điều kiện hợp lý dẫn tới sự ủng hộ của bố mẹ." },
+        { "prompt": "只要能取得好的成绩，______________________________。（就）", "sample_answer": "我就很满意了 / 辛苦一点儿就没关系", "explanation": "Vế sau dùng 就 nối kết quả tương ứng." }
+      ]
+    },
+    {
+      "title": "可不是",
+      "formula": "A: Nhận xét / Cảm thán  →  B: 可不是！(Hoặc: 可不！) + Câu bổ sung đồng tình",
+      "meaning": "Đúng thế còn gì! / Chẳng phải thế sao! (tán thành mạnh mẽ).",
+      "usage": "Phó từ 可不是 (cũng nói gọn là 可不) dùng để bày tỏ sự tán thành hoặc đồng cảm sâu sắc với lời người đối diện vừa nói, thường đứng độc lập thành một câu.",
+      "context": "Dùng nhiều trong hội thoại khẩu ngữ tự nhiên (không dùng trong văn viết trang trọng).",
+      "examples": [
+        { "chinese": "A: 没想到咱们毕业都已经十年了。 B: 可不是！时间过得太快了，真想大家。", "pinyin": "A: Méi xiǎngdào zánmen bìyè dōu yǐjīng shí nián le. B: Kěbúshì! Shíjiān guò de tài kuài le, zhēn xiǎng dàjiā.", "vietnamese": "A: Không ngờ chúng mình tốt nghiệp đã mười năm rồi. B: Đúng thế còn gì! Thời gian trôi nhanh quá, thật nhớ mọi người." },
+        { "chinese": "A: 遇到堵车，心情也“堵”。 B: 可不是！上班堵车怕迟到，下班堵车怕回家晚。", "pinyin": "A: Yùdào dǔ chē, xīnqíng yě “dǔ”. B: Kěbúshì! Shàng bān dǔ chē pà chídào, xià bān dǔ chē pà huí jiā wǎn.", "vietnamese": "A: Gặp kẹt xe, tâm trạng cũng “tắc” theo. B: Chẳng phải thế sao! Đi làm kẹt xe sợ muộn giờ, tan làm kẹt xe sợ về nhà trễ." },
+        { "chinese": "A: 这家网球馆的服务不错，给我的印象很好。 B: 可不是！这儿不仅环境好，还免费提供吃的和水，打球打累的时候，可以吃点儿东西休息一下。", "pinyin": "A: Zhè jiā wǎngqiúguǎn de fúwù búcuò, gěi wǒ de yìnxiàng hěn hǎo. B: Kěbúshì! Zhèr bùjǐn huánjìng hǎo, hái miǎnfèi tígōng chī de hé shuǐ, dǎ qiú dǎ lèi de shíhou, kěyǐ chī diǎnr dōngxi xiūxi yíxià.", "vietnamese": "A: Dịch vụ của sân quần vợt này khá tốt, để lại ấn tượng rất tốt cho tôi. B: Đúng thế thật! Ở đây không những môi trường đẹp mà còn miễn phí đồ ăn nước uống, lúc đánh bóng mệt có thể ăn chút gì nghỉ ngơi." }
+      ],
+      "important_notes": "Dù có chữ '不是' nhưng nghĩa lại là KHẲNG ĐỊNH mạnh mẽ ('Chẳng phải thế sao!' = Đúng quá đi chứ!).",
+      "common_errors": "Hiểu nhầm 可不是 là phủ định 'không phải đâu' — hoàn toàn sai nghĩa!",
+      "comparison": "Mạnh mẽ và thân mật hơn 是啊 (Đúng vậy), 对啊 (Đúng rồi).",
+      "mini_practice": [
+        { "prompt": "A: 他每天穿这么少，能不感冒吗？  B: 可不是，______________________________。", "sample_answer": "天气这么冷，他应该多穿点儿衣服。", "explanation": "Dùng 可不是 đồng tình với lời nhận xét của A rồi nói thêm chi tiết." },
+        { "prompt": "A: 最近天气怎么这么干呢！  B: 可不，______________________________。", "sample_answer": "好久没下雨了，你多喝点儿水吧。", "explanation": "可不 là dạng rút gọn tự nhiên của 可不是." }
+      ]
+    },
+    {
+      "title": "因此",
+      "formula": "Vế 1 (Nguyên nhân)，因此，Vế 2 (Kết quả)",
+      "meaning": "Do đó, vì vậy (tương đương '因为这个').",
+      "usage": "Liên từ 因此 đứng đầu vế câu sau để dẫn ra kết quả suy từ nguyên nhân ở vế câu trước; gần nghĩa với 所以 nhưng sắc thái văn viết hơn.",
+      "context": "Thường gặp trong bài văn nghị luận, báo chí, thuyết trình; có thể đặt dấu phẩy ngay sau 因此.",
+      "examples": [
+        { "chinese": "我认识他很多年，因此，很了解他的性格。", "pinyin": "Wǒ rènshi tā hěn duō nián, yīncǐ, hěn liǎojiě tā de xìnggé.", "vietnamese": "Tôi quen anh ấy nhiều năm rồi, vì vậy rất hiểu tính cách của anh ấy." },
+        { "chinese": "每个学生的性格、能力不同，因此，老师要根据学生的特点，用不同的方法。", "pinyin": "Měi ge xuésheng de xìnggé, nénglì bùtóng, yīncǐ, lǎoshī yào gēnjù xuésheng de tèdiǎn, yòng bùtóng de fāngfǎ.", "vietnamese": "Tính cách, năng lực của mỗi học sinh khác nhau, do đó giáo viên phải căn cứ vào đặc điểm của học sinh để dùng phương pháp khác nhau." },
+        { "chinese": "生活的态度要自己选择，因此，遇到烦恼时，你应该想一些办法让自己从不高兴的心情中走出来。", "pinyin": "Shēnghuó de tàidù yào zìjǐ xuǎnzé, yīncǐ, yùdào fánnǎo shí, nǐ yīnggāi xiǎng yìxiē bànfǎ ràng zìjǐ cóng bù gāoxìng de xīnqíng zhōng zǒu chulai.", "vietnamese": "Thái độ sống phải do tự mình lựa chọn, vì vậy khi gặp phiền muộn, bạn nên nghĩ cách để bản thân thoát khỏi tâm trạng không vui." }
+      ],
+      "important_notes": "KHÔNG được dùng kết hợp với 因为 (vì chữ 因 trong 因此 đã mang nghĩa 'vì' rồi).",
+      "common_errors": "Sai rất hay gặp trong HSK 4: '因为每个学生的特点不同，因此老师要用不同的方法' → Phải bỏ 因为 hoặc đổi 因此 thành 所以.",
+      "comparison": "因为……所以…… dùng được thành cặp; 因此 đứng độc lập ở vế kết quả (có thể đi sau 由于 trong một số văn bản nhưng không đi với 因为).",
+      "mini_practice": [
+        { "prompt": "小雨最近心情不好，______________________________。（因此）", "sample_answer": "因此，我们决定周末带她出去散散心。", "explanation": "Vế sau dùng 因此 dẫn ra hành động kết quả, tuyệt đối không thêm 因为 ở vế đầu." },
+        { "prompt": "做好小事是完成大事的第一步，______________________________。（因此）", "sample_answer": "因此，我们要认真做好每一件小事。", "explanation": "Kết nối nguyên nhân và kết luận tự nhiên bằng 因此." }
+      ]
+    },
+    {
+      "title": "往往",
+      "formula": "Điều kiện / Hoàn cảnh / Chủ ngữ + 往往 + Vị ngữ (Tình huống có tính quy luật)",
+      "meaning": "Thường thường, thường hay (mang tính quy luật đúc kết từ kinh nghiệm).",
+      "usage": "Phó từ 往往 biểu thị dựa theo kinh nghiệm quá khứ, một tình huống nào đó thường xuyên xảy ra dưới điều kiện nhất định.",
+      "context": "Dùng để nêu nhận định, quy luật chung hoặc tổng kết thực tế đã quan sát được.",
+      "examples": [
+        { "chinese": "女孩子对衣服颜色的选择往往与她们的性格有关。", "pinyin": "Nǚháizi duì yīfu yánsè de xuǎnzé wǎngwǎng yǔ tāmen de xìnggé yǒuguān.", "vietnamese": "Sự lựa chọn màu sắc quần áo của các cô gái thường liên quan tới tính cách của họ." },
+        { "chinese": "有经验的出租车司机往往对道路情况都非常熟悉，他们知道一天的每个时段什么地方可能堵车。", "pinyin": "Yǒu jīngyàn de chūzūchē sījī wǎngwǎng duì dàolù qíngkuàng dōu fēicháng shúxī, tāmen zhīdào yì tiān de měi ge shíduàn shénme dìfang kěnéng dǔ chē.", "vietnamese": "Những tài xế taxi có kinh nghiệm thường rất rành tình hình đường sá, họ biết từng khung giờ trong ngày chỗ nào có khả năng kẹt xe." },
+        { "chinese": "除了正式的名字，中国人一般都有个小名。在家里，父母往往只叫孩子的小名。", "pinyin": "Chúle zhèngshì de míngzi, Zhōngguórén yìbān dōu yǒu ge xiǎomíng. Zài jiā li, fùmǔ wǎngwǎng zhǐ jiào háizi de xiǎomíng.", "vietnamese": "Ngoài tên chính thức, người Trung Quốc nói chung đều có tên ở nhà. Ở nhà, bố mẹ thường chỉ gọi tên ở nhà của con." }
+      ],
+      "important_notes": "Chỉ dùng cho điều đã xảy ra mang tính quy luật; không dùng cho nguyện vọng chủ quan hoặc dự định tương lai; không rút gọn thành '往'.",
+      "common_errors": "Sai: '以后我往往锻炼身体' (nguyện vọng tương lai phải dùng 经常).",
+      "comparison": "Xem chi tiết bảng So sánh '往往—经常' ngay bên dưới.",
+      "mini_practice": [
+        { "prompt": "一到节日，______________________________。（往往）", "sample_answer": "商场里往往人特别多 / 火车票往往很难买", "explanation": "Có điều kiện rõ ràng '一到节日' nên dùng 往往 nêu quy luật thường xảy ra rất chuẩn." },
+        { "prompt": "眼睛看到的不一定是真的，但是______________________________。（往往）", "sample_answer": "人们往往只相信自己眼睛看到的", "explanation": "Tổng kết một hiện tượng mang tính quy luật tâm lý." }
+      ]
+    }
+  ],
+  "comparison_section": {
+    "label": "比一比 So sánh",
+    "pair": "往往 — 经常",
+    "term_a": "往往 (wǎngwǎng)",
+    "term_b": "经常 (jīngcháng)",
+    "similarity": "Cả hai đều có thể làm phó từ để chỉ tình huống nào đó xuất hiện nhiều lần. VD: 要是缺少调查、不听别人说明情况，不理解往往/经常就可能发生。",
+    "differences": [
+      { "criterion": "Tính quy luật & Thời điểm/Ý chí chủ quan", "a": "Tổng kết tình huống tính đến hiện tại, có tính quy luật, KHÔNG dùng cho ý muốn chủ quan nên chỉ dùng cho tình huống đã xảy ra (吃完晚饭，他们一家往往去附近的公园散散步).", "b": "Chỉ nói hành động xuất hiện nhiều lần, không nhất thiết có quy luật, CÓ THỂ dùng cho nguyện vọng chủ quan và tình huống chưa xảy ra (我们以后也经常去公园散散步吧)." },
+      { "criterion": "Điều kiện/Tình huống/Kết quả đi kèm", "a": "Câu có 往往 thường phải nêu rõ tình huống, điều kiện hoặc kết quả liên quan đến hành động (上大学时我很喜欢运动，往往在周末打篮球、踢足球).", "b": "Câu có 经常 không có hạn chế này, không cần nêu điều kiện cụ thể (上大学时我很喜欢运动，经常打篮球、踢足球)." },
+      { "criterion": "Khả năng rút gọn", "a": "KHÔNG thể rút gọn thành '往'.", "b": "Thường tương đương và có thể rút gọn thành '常' (有的人(经)常会买一些自己本来不需要的东西)." }
+    ]
+  },
+  "texts": [
+    {
+      "id": "t1", "title_zh": "李老师和高老师聊关于巧克力的事情", "title_vi": "Thầy Lý và cô Cao nói chuyện về sôcôla",
+      "lines": [
+        { "speaker": "李老师", "chinese": "这种巧克力味道不错，你在哪儿买的？", "pinyin": "Zhè zhǒng qiǎokèlì wèidào búcuò, nǐ zài nǎr mǎi de?", "vietnamese": "Loại sôcôla này vị khá ngon đấy, chị mua ở đâu thế?" },
+        { "speaker": "高老师", "chinese": "不是我买的，是我女儿给我从国外带回来的礼物。", "pinyin": "Bú shì wǒ mǎi de, shì wǒ nǚ'ér gěi wǒ cóng guówài dài huilai de lǐwù.", "vietnamese": "Không phải tôi mua đâu, là quà con gái tôi mang từ nước ngoài về cho tôi đấy." },
+        { "speaker": "李老师", "chinese": "很多人出国后常常会买外国的巧克力，回来送给亲戚朋友。", "pinyin": "Hěn duō rén chū guó hòu chángcháng huì mǎi wàiguó de qiǎokèlì, huílai sònggěi qīnqi péngyou.", "vietnamese": "Nhiều người sau khi ra nước ngoài thường mua sôcôla nước ngoài mang về tặng họ hàng bạn bè." },
+        { "speaker": "高老师", "chinese": "是啊，因为很多人都爱吃巧克力，尤其是女性。", "pinyin": "Shì a, yīnwèi hěn duō rén dōu ài chī qiǎokèlì, yóuqí shì nǚxìng.", "vietnamese": "Đúng vậy, vì rất nhiều người thích ăn sôcôla, đặc biệt là phụ nữ." },
+        { "speaker": "李老师", "chinese": "这是为什么呢？", "pinyin": "Zhè shì wèi shénme ne?", "vietnamese": "Tại sao lại thế nhỉ?" },
+        { "speaker": "高老师", "chinese": "巧克力大多是甜的，而很多女性都喜欢吃甜的。而且，听说伤心难过的时候吃块儿巧克力，还能使人的心情变得愉快。", "pinyin": "Qiǎokèlì dàduō shì tián de, ér hěn duō nǚxìng dōu xǐhuan chī tián de. Érqiě, tīngshuō shāng xīn nánguò de shíhou chī kuàir qiǎokèlì, hái néng shǐ rén de xīnqíng biàn de yúkuài.", "vietnamese": "Sôcôla đa phần là vị ngọt, mà nhiều phụ nữ đều thích ăn đồ ngọt. Hơn nữa, nghe nói lúc đau lòng buồn bã ăn một miếng sôcôla còn có thể khiến tâm trạng con người trở nên vui vẻ." }
+      ]
+    },
+    {
+      "id": "t2", "title_zh": "小夏和马克聊关于上次足球比赛的事情", "title_vi": "Tiểu Hạ và Mark nói chuyện về trận bóng đá lần trước",
+      "lines": [
+        { "speaker": "小夏", "chinese": "这里的景色真美，空气也好。", "pinyin": "Zhèlǐ de jǐngsè zhēn měi, kōngqì yě hǎo.", "vietnamese": "Phong cảnh ở đây thật đẹp, không khí cũng trong lành." },
+        { "speaker": "马克", "chinese": "怎么样，心情好些了吗？", "pinyin": "Zěnmeyàng, xīnqíng hǎoxiē le ma?", "vietnamese": "Thế nào, tâm trạng khá hơn chút nào chưa?" },
+        { "speaker": "小夏", "chinese": "好多了，上次足球比赛后，好久都没这么放松了。", "pinyin": "Hǎoduō le, shàng cì zúqiú bǐsài hòu, háojiǔ dōu méi zhème fàngsōng le.", "vietnamese": "Đỡ nhiều rồi, từ sau trận bóng đá lần trước, lâu lắm rồi mới được thư giãn như thế này." },
+        { "speaker": "马克", "chinese": "你不要有压力，好好儿准备下次比赛就好了。", "pinyin": "Nǐ búyào yǒu yālì, hǎohāor zhǔnbèi xià cì bǐsài jiù hǎo le.", "vietnamese": "Cậu đừng có áp lực, chuẩn bị thật tốt cho trận đấu lần tới là được rồi." },
+        { "speaker": "小夏", "chinese": "这段时间我总是一个人坐在房间里回忆那次比赛。如果我们能再努力一点儿，就一定会多进一个球。", "pinyin": "Zhè duàn shíjiān wǒ zǒngshì yí ge rén zuò zài fángjiān li huíyì nà cì bǐsài. Rúguǒ wǒmen néng zài nǔlì yìdiǎnr, jiù yídìng huì duō jìn yí ge qiú.", "vietnamese": "Thời gian qua mình cứ ngồi một mình trong phòng nhớ lại trận đấu đó. Nếu bọn mình cố gắng thêm chút nữa thì chắc chắn đã ghi thêm được một bàn." },
+        { "speaker": "马克", "chinese": "事情已经发生了，过去的就让它成为过去吧。只要这次你好好儿准备，一定能把比赛踢好。", "pinyin": "Shìqing yǐjīng fāshēng le, guòqù de jiù ràng tā chéngwéi guòqù ba. Zhǐyào zhè cì nǐ hǎohāor zhǔnbèi, yídìng néng bǎ bǐsài tīhǎo.", "vietnamese": "Chuyện đã xảy ra rồi, cái gì đã qua hãy để nó trở thành quá khứ đi. Chỉ cần lần này cậu chuẩn bị thật kỹ, nhất định có thể đá tốt trận đấu." }
+      ]
+    },
+    {
+      "id": "t3", "title_zh": "马克和司机聊关于堵车的事情", "title_vi": "Mark và tài xế nói chuyện về việc kẹt xe",
+      "lines": [
+        { "speaker": "马克", "chinese": "师傅，我去大使馆，你是不是走错了？", "pinyin": "Shīfu, wǒ qù dàshǐguǎn, nǐ shì bu shì zǒucuò le?", "vietnamese": "Bác tài ơi, tôi đi đại sứ quán, bác có đi nhầm đường không ạ?" },
+        { "speaker": "师傅", "chinese": "现在是上班时间，前面有点儿堵车，我们走另外一条路，距离差不多。", "pinyin": "Xiànzài shì shàng bān shíjiān, qiánmiàn yǒudiǎnr dǔ chē, wǒmen zǒu lìngwài yì tiáo lù, jùlí chàbuduō.", "vietnamese": "Bây giờ là giờ đi làm, phía trước hơi kẹt xe, chúng ta đi con đường khác, khoảng cách gần như nhau." },
+        { "speaker": "马克", "chinese": "那就好，堵车浪费时间，遇到堵车，心情也“堵”。", "pinyin": "Nà jiù hǎo, dǔ chē làngfèi shíjiān, yùdào dǔ chē, xīnqíng yě “dǔ”.", "vietnamese": "Thế thì tốt, kẹt xe vừa tốn thời gian, gặp kẹt xe tâm trạng cũng “tắc” theo." },
+        { "speaker": "师傅", "chinese": "可不是！上班堵车怕迟到，下班堵车怕回家晚。每天在马路上开车，要想不遇到堵车，还真难。", "pinyin": "Kěbúshì! Shàng bān dǔ chē pà chídào, xià bān dǔ chē pà huí jiā wǎn. Měi tiān zài mǎlù shang kāi chē, yào xiǎng bú yùdào dǔ chē, hái zhēn nán.", "vietnamese": "Đúng thế còn gì! Đi làm kẹt xe sợ muộn giờ, tan làm kẹt xe sợ về nhà muộn. Ngày nào cũng lái xe trên đường, muốn không gặp kẹt xe thì thật sự rất khó." },
+        { "speaker": "马克", "chinese": "一遇到堵车，人们就容易变得没有耐心。长期这样，还会影响脾气甚至性格。但是您的心情为什么这么好呢？", "pinyin": "Yí yùdào dǔ chē, rénmen jiù róngyì biànde méiyǒu nàixīn. Chángqī zhèyàng, hái huì yǐngxiǎng píqi shènzhì xìnggé. Dànshì nín de xīnqíng wèi shénme zhème hǎo ne?", "vietnamese": "Hễ gặp kẹt xe là người ta rất dễ trở nên mất kiên nhẫn. Lâu dài như thế còn ảnh hưởng đến tính khí thậm chí cả tính cách. Nhưng tại sao tâm trạng của bác lại tốt như vậy?" },
+        { "speaker": "师傅", "chinese": "我们改变不了堵车，但是可以试着改变自己的心情。堵车时正好可以休息一下，还可以听听自己喜欢的音乐。", "pinyin": "Wǒmen gǎibiàn bu liǎo dǔ chē, dànshì kěyǐ shìzhe gǎibiàn zìjǐ de xīnqíng. Dǔ chē shí zhènghǎo kěyǐ xiūxi yíxià, hái kěyǐ tīngting zìjǐ xǐhuan de yīnyuè.", "vietnamese": "Chúng ta không thay đổi được việc kẹt xe, nhưng có thể thử thay đổi tâm trạng của chính mình. Lúc kẹt xe vừa hay có thể nghỉ ngơi một chút, lại còn có thể nghe bản nhạc mình yêu thích." }
+      ]
+    },
+    {
+      "id": "t4", "title_zh": "生活中不缺少美", "title_vi": "Cuộc sống không thiếu cái đẹp",
+      "lines": [
+        { "speaker": "", "chinese": "草绿了，那是生命的颜色；花开了，那是大自然的礼物。生活中不缺少美，缺少的是发现美的眼睛。只要有心，生活中的美到处都是。", "pinyin": "Cǎo lǜ le, nà shì shēngmìng de yánsè; huā kāi le, nà shì dàzìrán de lǐwù. Shēnghuó zhōng bù quēshǎo měi, quēshǎo de shì fāxiàn měi de yǎnjing. Zhǐyào yǒuxīn, shēnghuó zhōng de měi dàochù dōu shì.", "vietnamese": "Cỏ xanh rồi, đó là màu sắc của sự sống; hoa nở rồi, đó là món quà của thiên nhiên. Trong cuộc sống không thiếu cái đẹp, điều thiếu là đôi mắt biết phát hiện ra cái đẹp. Chỉ cần có tâm để ý, vẻ đẹp trong đời sống đâu đâu cũng có." },
+        { "speaker": "", "chinese": "生活的态度要自己选择，因此，遇到烦恼时，你应该想一些办法让自己从不高兴的心情中走出来。", "pinyin": "Shēnghuó de tàidù yào zìjǐ xuǎnzé, yīncǐ, yùdào fánnǎo shí, nǐ yīnggāi xiǎng yìxiē bànfǎ ràng zìjǐ cóng bù gāoxìng de xīnqíng zhōng zǒu chulai.", "vietnamese": "Thái độ sống phải do tự mình lựa chọn, do đó, khi gặp phiền muộn, bạn nên nghĩ một số cách để bản thân bước ra khỏi tâm trạng không vui." },
+        { "speaker": "", "chinese": "窗外是什么样子，我们无法改变，但我们可以选择站在哪个窗户前。选择一个能够带给我们快乐的窗户，这样才能选对心情，选对生活的态度。", "pinyin": "Chuāng wài shì shénme yàngzi, wǒmen wúfǎ gǎibiàn, dàn wǒmen kěyǐ xuǎnzé zhàn zài nǎ ge chuānghu qián. Xuǎnzé yí ge nénggòu dàigěi wǒmen kuàilè de chuānghu, zhèyàng cái néng xuǎnduì xīnqíng, xuǎnduì shēnghuó de tàidù.", "vietnamese": "Ngoài cửa sổ có dáng vẻ ra sao, chúng ta không thể thay đổi, nhưng chúng ta có thể chọn đứng trước ô cửa sổ nào. Chọn một ô cửa sổ có thể mang lại niềm vui cho mình, như vậy mới chọn đúng tâm trạng và chọn đúng thái độ sống." }
+      ]
+    },
+    {
+      "id": "t5", "title_zh": "颜色与性格、心情的关系", "title_vi": "Mối liên hệ giữa màu sắc với tính cách và tâm trạng",
+      "lines": [
+        { "speaker": "", "chinese": "科学研究证明，女孩子对衣服颜色的选择往往与她们的性格有关。喜欢穿白色衣服的女孩子性格比较阳光，生活态度积极向上是她们的共同特点；而喜欢穿红色衣服的女孩子性格比较浪漫。", "pinyin": "Kēxué yánjiū zhèngmíng, nǚháizi duì yīfu yánsè de xuǎnzé wǎngwǎng yǔ tāmen de xìnggé yǒuguān. Xǐhuan chuān báisè yīfu de nǚháizi xìnggé bǐjiào yángguāng, shēnghuó tàidù jījí xiàngshàng shì tāmen de gòngtóng tèdiǎn; ér xǐhuan chuān hóngsè yīfu de nǚháizi xìnggé bǐjiào làngmàn.", "vietnamese": "Nghiên cứu khoa học chứng minh rằng việc lựa chọn màu sắc quần áo của các cô gái thường liên quan tới tính cách của họ. Những cô gái thích mặc đồ trắng tính cách khá lạc quan vui vẻ, thái độ sống tích cực hướng lên là đặc điểm chung của họ; còn những cô gái thích mặc đồ đỏ tính cách tương đối lãng mạn." },
+        { "speaker": "", "chinese": "颜色也会影响人的心情，不同的颜色会给我们带来不同的感情变化。红色让人变得热情；黄色和白色让人心情愉快；黑色却容易让人感到伤心；人们在看到蓝色时会觉得很舒服，变得安静下来；绿色让我们的眼睛得到休息。", "pinyin": "Yánsè yě huì yǐngxiǎng rén de xīnqíng, bù tóng de yánsè huì gěi wǒmen dàilái bù tóng de gǎnqíng biànhuà. Hóngsè ràng rén biànde rèqíng; huángsè hé báisè ràng rén xīnqíng yúkuài; hēisè què róngyì ràng rén gǎndào shāng xīn; rénmen zài kàndào lánsè shí huì juéde hěn shūfu, biànde ānjìng xialai; lǜsè ràng wǒmen de yǎnjing dédào xiūxi.", "vietnamese": "Màu sắc cũng ảnh hưởng đến tâm trạng con người, những màu sắc khác nhau sẽ mang lại cho chúng ta những biến đổi cảm xúc khác nhau. Màu đỏ khiến con người trở nên nhiệt tình; màu vàng và màu trắng khiến tâm trạng vui vẻ; màu đen lại dễ làm người ta cảm thấy đau lòng; khi nhìn thấy màu xanh lam người ta sẽ thấy rất dễ chịu, trở nên bình tĩnh lại; màu xanh lá cây giúp đôi mắt chúng ta được nghỉ ngơi." }
+      ]
+    }
+  ],
+  "reading_questions": [
+    { "question_zh": "说一说为什么很多人在考试前喜欢吃巧克力。", "question_vi": "Hãy nói xem vì sao nhiều người thích ăn sôcôla trước kỳ thi.", "answer_zh": "因为巧克力大多是甜的，能给人提供能量，而且听说吃块儿巧克力能使人的心情变得愉快、减少紧张。", "answer_vi": "Vì sôcôla phần lớn có vị ngọt, giúp bổ sung năng lượng, hơn nữa ăn một miếng sôcôla có thể làm tâm trạng vui vẻ hơn, bớt căng thẳng." },
+    { "question_zh": "吃巧克力对人的心情有哪些影响？", "question_vi": "Ăn sôcôla có những ảnh hưởng gì tới tâm trạng con người?", "answer_zh": "在伤心难过的时候吃块儿巧克力，能使人的心情变得愉快。", "answer_vi": "Lúc đau lòng buồn bã ăn một miếng sôcôla có thể khiến tâm trạng trở nên vui vẻ." },
+    { "question_zh": "马克可能因为什么原因带小夏去看那里的景色？", "question_vi": "Mark có thể đã đưa Tiểu Hạ đi ngắm phong cảnh ở đó vì nguyên nhân gì?", "answer_zh": "因为小夏上次足球比赛后一直心情不好、压力很大，马克带他去看美丽的景色，让他放松一下。", "answer_vi": "Vì sau trận bóng đá lần trước Tiểu Hạ luôn buồn bã và áp lực, nên Mark đưa cậu đi ngắm cảnh đẹp để thư giãn." },
+    { "question_zh": "小夏认为上次足球比赛他们踢得怎么样？", "question_vi": "Tiểu Hạ cho rằng trận bóng đá lần trước họ đá như thế nào?", "answer_zh": "他觉得他们还不够努力，如果能再努力一点儿，就一定会多进一个球。", "answer_vi": "Cậu ấy thấy họ vẫn chưa đủ nỗ lực, nếu cố gắng thêm chút nữa thì chắc chắn đã ghi thêm một bàn." },
+    { "question_zh": "出租车司机走错路了吗？为什么？", "question_vi": "Bác tài xế taxi có đi nhầm đường không? Tại sao?", "answer_zh": "没有走错路。因为现在是上班时间，前面有点儿堵车，司机改走另外一条路，距离差不多。", "answer_vi": "Không đi nhầm đường. Vì đang là giờ đi làm, phía trước hơi kẹt xe nên tài xế đi con đường khác có khoảng cách tương đương." },
+    { "question_zh": "堵车是一件很麻烦的事情，遇到堵车，你会做什么让自己心情变好？", "question_vi": "Kẹt xe là một chuyện rất phiền phức, khi gặp kẹt xe bạn sẽ làm gì để tâm trạng tốt hơn?", "answer_zh": "可以像出租车司机那样，趁堵车时休息一下，听听自己喜欢的音乐，试着改变自己的心情。", "answer_vi": "Có thể giống như bác tài xế taxi, tranh thủ lúc kẹt xe nghỉ ngơi một chút, nghe bản nhạc mình thích và thử thay đổi tâm trạng của mình." },
+    { "question_zh": "怎么理解“生活中的美到处都是”这句话？", "question_vi": "Hiểu câu “Cái đẹp trong cuộc sống đâu đâu cũng có” như thế nào?", "answer_zh": "只要我们用心去观察和感受，像变绿的小草、开放的花朵这样平常的事物里，都藏着生活中的美。", "answer_vi": "Chỉ cần chúng ta để tâm quan sát và cảm nhận, ngay trong những điều bình dị như ngọn cỏ xanh hay bông hoa nở đều ẩn chứa vẻ đẹp của cuộc sống." },
+    { "question_zh": "说一说“选择站在哪个窗户前”里的“窗户”指的是什么。", "question_vi": "Hãy nói xem chữ “cửa sổ” trong câu “chọn đứng trước ô cửa sổ nào” ám chỉ điều gì.", "answer_zh": "“窗户”指的是我们看待生活的角度和选择的心情、生活态度。", "answer_vi": "“Cửa sổ” ẩn dụ cho góc nhìn của chúng ta đối với cuộc sống cũng như tâm trạng và thái độ sống mà ta lựa chọn." },
+    { "question_zh": "从课文可以知道，哪种方法可以让我们了解一个人的性格？", "question_vi": "Từ bài khóa có thể biết phương pháp nào giúp chúng ta hiểu được tính cách của một người?", "answer_zh": "可以通过观察一个人对衣服颜色的选择来了解她的性格。", "answer_vi": "Có thể thông qua việc quan sát sự lựa chọn màu sắc quần áo của một người để hiểu phần nào tính cách của họ." },
+    { "question_zh": "如果你觉得紧张，眼睛一直跳，你可以做什么让自己放松一下？", "question_vi": "Nếu bạn thấy căng thẳng, mắt cứ giật liên tục, bạn có thể làm gì để tự thư giãn?", "answer_zh": "可以看看蓝色让自己觉得舒服、安静下来，还可以看看绿色让眼睛得到休息。", "answer_vi": "Có thể nhìn màu xanh lam để cảm thấy dễ chịu và bình tĩnh lại, đồng thời nhìn màu xanh lá cây để đôi mắt được nghỉ ngơi." }
+  ],
+  "exercises": [
+    {
+      "id": "h4s8_ex1", "type": "meaning_mc", "level": "Nhận biết", "origin_tag": "Bài 8 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Trong bài khóa 5 (“喜欢穿白色衣服的女孩子性格比较阳光”), từ “阳光” được dùng với từ loại và nghĩa nào?",
+      "options": ["Tính từ: lạc quan, vui vẻ, rạng rỡ", "Danh từ: ánh nắng mặt trời", "Động từ: phơi nắng, tỏa sáng", "Phó từ: một cách tích cực"],
+      "answer": "Tính từ: lạc quan, vui vẻ, rạng rỡ",
+      "explanation": "Trong bài 8, 阳光 đứng sau 比较 làm vị ngữ cho 性格, mang nghĩa chuyển là tính từ 'lạc quan, vui vẻ'.",
+      "review_tip": "Ôn cả 2 chức năng của từ #27 阳光 (tính từ trong bài 8 & danh từ nghĩa gốc 'ánh nắng')."
+    },
+    {
+      "id": "h4s8_ex2", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.107", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ thích hợp điền vào chỗ trống: “他现在已经成为一个有名的律师，终于向所有人______自己的选择是对的。”",
+      "options": ["证明", "发生", "放松", "缺少"],
+      "answer": "证明",
+      "explanation": "Cụm cố định: 向所有人证明…… (chứng minh với tất cả mọi người rằng...).",
+      "review_tip": "Ôn từ #25 证明 (động từ chứng minh & danh từ giấy chứng nhận)."
+    },
+    {
+      "id": "h4s8_ex3", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.107", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ điền vào chỗ trống: “A: 终于爬上来了，累死我了，这山太高了！ B: 看来你真的是______锻炼，以后每天跟我一块儿跑步吧。”",
+      "options": ["缺少", "到处", "积极", "发生"],
+      "answer": "缺少",
+      "explanation": "缺少锻炼 = thiếu rèn luyện thể thao (động từ 缺少 mang tân ngữ 锻炼).",
+      "review_tip": "Ôn từ #20 缺少."
+    },
+    {
+      "id": "h4s8_ex4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "比一比 tr.106", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ ĐÚNG cho câu: “那个饭馆的菜不仅好吃，而且价格不贵，以后咱们可以______去。”",
+      "options": ["经常", "往往", "Cả 往往 và 经常 đều đúng", "从来"],
+      "answer": "经常",
+      "explanation": "Câu nói về dự định/ý muốn chủ quan trong tương lai ('以后咱们可以……'). 往往 chỉ dùng cho tình huống có quy luật đã xảy ra, KHÔNG dùng cho ý muốn chủ quan tương lai — do đó chỉ dùng 经常!",
+      "review_tip": "Xem lại Điểm khác nhau #1 trong bảng So sánh 往往—经常."
+    },
+    {
+      "id": "h4s8_ex5", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "比一比 tr.106", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ ĐÚNG cho câu: “很多30岁左右的年轻人，平时工作紧张，他们______是饿了才吃饭，渴了才喝水。”",
+      "options": ["Cả 往往 và 经常 đều đúng", "Chỉ dùng 经常", "Chỉ dùng 往往", "Không từ nào đúng"],
+      "answer": "Cả 往往 và 经常 đều đúng",
+      "explanation": "Câu có sẵn điều kiện rõ ràng ('30岁左右的年轻人，平时工作紧张') và tổng kết hiện tượng đã xảy ra có quy luật, nên dùng 往往 rất chuẩn (và 经常 cũng chấp nhận được để chỉ tần suất cao).",
+      "review_tip": "Ôn điều kiện dùng chung của 往往 và 经常 trong bảng 比一比 tr.106."
+    },
+    {
+      "id": "h4s8_ex6", "type": "context_mc", "level": "Phân biệt", "origin_tag": "同字词 tr.108", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ nhóm đồng tự '要' phù hợp: “A: 上次的事太谢谢你了，______别人，估计就办不成了。 B: 你太客气了。”",
+      "options": ["要是", "只要", "主要", "重要"],
+      "answer": "要是",
+      "explanation": "要是 = nếu như (giả thiết 'nếu là người khác thì e rằng đã không làm xong được').",
+      "review_tip": "Ôn nhóm đồng tự 要 (重要 / 主要 / 只要 / 要是)."
+    },
+    {
+      "id": "h4s8_ex7", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Bài 8 & Ôn tập (30%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Câu nào sau đây ĐÚNG hoàn toàn về mặt ngữ pháp?",
+      "options": [
+        "每个学生的特点不同，因此，老师要用不同的方法。",
+        "因为每个学生的特点不同，因此老师要用不同的方法。",
+        "只要好好儿准备，才能把比赛踢好。",
+        "虽然天气很冷，但是他即使穿得少也不冷。"
+      ],
+      "answer": "每个学生的特点不同，因此，老师要用不同的方法。",
+      "explanation": "因此 không được dùng cặp với 因为 (loại B); 只要 phải đi với 就/一定 chứ không đi với 才 (loại C); câu D trộn sai 虽然...但是 với 即使.",
+      "review_tip": "Ôn quy tắc cấm đi cặp của 因此 (Bài 8) và phân biệt 只要……就 vs 只有……才 (Bài 1 & Bài 8)."
+    },
+    {
+      "id": "h4s8_ex8", "type": "error_fix", "level": "Vận dụng", "origin_tag": "Ôn tập Bài 1–7 (30%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Phát hiện lỗi sai và chọn cách sửa ĐÚNG cho câu: “A: 今天堵车真严重！ B: 可不是，其实今天一点儿也不堵车。”",
+      "options": [
+        "B dùng sai '可不是' vì 可不是 mang nghĩa đồng tình ('Đúng thế còn gì!'), không phải phủ định; nếu muốn phản bác phải bỏ 可不是 hoặc đổi thành '不是吧 / 没有啊'.",
+        "Đổi '严重' thành '紧张'",
+        "Đổi '堵车' thành '车堵'",
+        "Câu đối thoại trên hoàn toàn đúng"
+      ],
+      "answer": "B dùng sai '可不是' vì 可不是 mang nghĩa đồng tình ('Đúng thế còn gì!'), không phải phủ định; nếu muốn phản bác phải bỏ 可不是 hoặc đổi thành '不是吧 / 没有啊'.",
+      "explanation": "可不是 (可不) biểu thị sự tán đồng mạnh mẽ với lời người nói trước, nên mâu thuẫn hoàn toàn với vế '其实今天一点儿也不堵车'.",
+      "review_tip": "Ôn Chú thích 3 可不是 (Bài 8 tr.102)."
+    },
+    {
+      "id": "h4s8_ex9", "type": "reorder", "level": "Vận dụng", "origin_tag": "Bài 8 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Sắp xếp các từ sau thành câu hoàn chỉnh theo đúng ngữ pháp:",
+      "tokens": ["吃块儿巧克力，", "的时候", "伤心难过", "变得愉快。", "能使人的心情"],
+      "answer": "伤心难过的时候吃块儿巧克力，能使人的心情变得愉快。",
+      "explanation": "Cụm thời gian '伤心难过的时候' + hành động '吃块儿巧克力' làm chủ ngữ, tiếp theo là cấu trúc khiến động '能使人的心情变得愉快'.",
+      "review_tip": "Ôn cấu trúc câu kiêm ngữ với động từ 使."
+    },
+    {
+      "id": "h4s8_ex10", "type": "reading_mc", "level": "Phân biệt", "origin_tag": "Bài khóa 5", "mistake_category": "Đọc hiểu",
+      "passage": "红色让人变得热情；黄色和白色让人心情愉快；黑色却容易让人感到伤心；人们在看到蓝色时会觉得很舒服，变得安静下来；绿色让我们的眼睛得到休息。",
+      "prompt": "Theo đoạn văn trên, khi muốn đôi mắt được nghỉ ngơi và khi muốn tâm trạng bình tĩnh lại, ta lần lượt nên nhìn hai màu nào?",
+      "options": [
+        "Màu xanh lá cây (绿色) và màu xanh lam (蓝色)",
+        "Màu vàng (黄色) và màu trắng (白色)",
+        "Màu đỏ (红色) và màu xanh lá cây (绿色)",
+        "Màu xanh lam (蓝色) và màu đen (黑色)"
+      ],
+      "answer": "Màu xanh lá cây (绿色) và màu xanh lam (蓝色)",
+      "explanation": "Đoạn văn viết: '人们在看到蓝色时会觉得很舒服，变得安静下来；绿色让我们的眼睛得到休息。'",
+      "review_tip": "Đọc kỹ bài khóa 5 về tác động của từng màu sắc lên cảm xúc."
+    },
+    {
+      "id": "h4s8_ex11", "type": "translate_zh_vi", "level": "Vận dụng", "origin_tag": "Dịch Trung – Việt", "mistake_category": "Dịch thuật",
+      "prompt": "Dịch sang tiếng Việt: “生活中不缺少美，缺少的是发现美的眼睛。”",
+      "hint": "Chú ý cụm 缺少 và định ngữ 发现美的.",
+      "keywords": ["cuộc sống", "không thiếu", "cái đẹp", "phát hiện"],
+      "answer": "Trong cuộc sống không thiếu cái đẹp, cái thiếu là đôi mắt biết phát hiện ra cái đẹp.",
+      "explanation": "生活中 = trong cuộc sống; 不缺少美 = không thiếu cái đẹp; 缺少的是…… = điều thiếu là...",
+      "review_tip": "Ôn câu chủ đề bài khóa 4 và từ #20 缺少."
+    }
+  ]
+}

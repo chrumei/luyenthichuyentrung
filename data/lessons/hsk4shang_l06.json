@@ -1,0 +1,863 @@
+{
+  "id": "hsk4shang_l06",
+  "book_id": "hsk4shang",
+  "textbook": "HSK 4 上",
+  "lesson_number": 6,
+  "title_zh": "一分钱一分货",
+  "title_vi": "Tiền nào của nấy",
+  "pdf_pages": "Trang 75–84 (Chuẩn HSK 4上 .pdf)",
+  "source_status": "verified_textbook",
+  "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"],
+  "vocabulary": [
+    {
+      "id": "hsk4s_l06_w01", "order": 1, "textbook": "HSK 4 上", "lesson": 6,
+      "hanzi": "果汁", "pinyin": "guǒzhī",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "nước trái cây, nước ép hoa quả",
+        "structure": "喝果汁 / 买果汁 / 一杯/瓶果汁",
+        "explanation": "Nước ép từ các loại trái cây tươi hoặc đóng chai.",
+        "examples": [{ "chinese": "昨天妻子让我陪她去超市买果汁。", "pinyin": "Zuótiān qīzi ràng wǒ péi tā qù chāoshì mǎi guǒzhī.", "vietnamese": "Hôm qua vợ bảo mình đi cùng cô ấy tới siêu thị mua nước trái cây.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "用水果压榨或调配而成的饮料。",
+      "collocations": ["喝果汁", "鲜榨果汁", "一杯果汁", "苹果汁"],
+      "usage_note": "Chữ 汁 (zhī) kết hợp với tên trái cây: 橙汁 (nước cam), 西瓜汁 (nước dưa hấu).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l06_w02", "order": 2, "textbook": "HSK 4 上", "lesson": 6,
+      "hanzi": "售货员", "pinyin": "shòuhuòyuán",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "nhân viên bán hàng",
+        "structure": "一位售货员 / 问售货员",
+        "explanation": "Người phụ trách giới thiệu và bán hàng hóa trong cửa hàng, trung tâm thương mại.",
+        "examples": [{ "chinese": "一进门，售货员就热情地为我们介绍这、介绍那。", "pinyin": "Yí jìn mén, shòuhuòyuán jiù rèqíng de wèi wǒmen jièshào zhè, jièshào nà.", "vietnamese": "Vừa bước vào cửa, nhân viên bán hàng đã nhiệt tình giới thiệu cái này cái kia cho chúng mình.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "在商店里负责出售商品的工作人员。",
+      "collocations": ["热情的售货员", "问售货员", "当售货员"],
+      "usage_note": "Phân biệt: 售货员 (nhân viên bán hàng ở cửa hàng/siêu thị) vs 服务员 (nhân viên phục vụ ở nhà hàng, khách sạn).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l06_w03", "order": 3, "textbook": "HSK 4 上", "lesson": 6,
+      "hanzi": "袜子", "pinyin": "wàzi",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "tất, vớ",
+        "structure": "一双袜子 / 穿袜子 / 脱袜子",
+        "explanation": "Đồ mặc ở bàn chân; lượng từ chuẩn là 双 (đôi) hoặc 只 (chiếc).",
+        "examples": [{ "chinese": "她买了一条裤子、一件衬衫、两双袜子，然后我们就高高兴兴地回家了。", "pinyin": "Tā mǎi le yì tiáo kùzi, yí jiàn chènshān, liǎng shuāng wàzi, ránhòu wǒmen jiù gāogāoxìngxìng de huí jiā le.", "vietnamese": "Cô ấy mua một chiếc quần, một chiếc áo sơ mi, hai đôi tất, rồi chúng mình vui vẻ đi về nhà.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "穿在脚上的针织用品。",
+      "collocations": ["两双袜子", "穿袜子", "洗袜子", "棉袜子"],
+      "usage_note": "Chữ 子 đọc thanh nhẹ (wàzi).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l06_w04", "order": 4, "textbook": "HSK 4 上", "lesson": 6,
+      "hanzi": "打扰", "pinyin": "dǎrǎo",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "quấy rầy, làm phiền",
+        "structure": "打扰 + 某人 / 被别人打扰 / 不好意思打扰您",
+        "explanation": "Làm gián đoạn, gây phiền phức cho công việc hoặc thời gian nghỉ ngơi của người khác; cũng dùng làm lời khách sáo khi nhờ vả.",
+        "examples": [{ "chinese": "买东西时我只看自己想买的，而且喜欢自己看、自己选，不希望被别人打扰。", "pinyin": "Mǎi dōngxi shí wǒ zhǐ kàn zìjǐ xiǎng mǎi de, érqiě xǐhuan zìjǐ kàn, zìjǐ xuǎn, bù xīwàng bèi biérén dǎrǎo.", "vietnamese": "Khi mua đồ mình chỉ xem thứ mình muốn mua, hơn nữa thích tự xem tự chọn, không muốn bị người khác làm phiền.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "扰乱、妨碍别人（常用作客套话）。",
+      "collocations": ["打扰一下", "不好意思打扰您", "别打扰他", "请勿打扰"],
+      "usage_note": "Cụm giao tiếp rất lịch sự: '打扰一下' (Xin lỗi cho tôi làm phiền một chút) và biển treo cửa phòng khách sạn '请勿打扰' (Xin đừng làm phiền).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l06_w05", "order": 5, "textbook": "HSK 4 上", "lesson": 6,
+      "hanzi": "竟然", "pinyin": "jìngrán",
+      "lesson_usage": {
+        "part_of_speech": "副词 (Phó từ)", "meaning": "không ngờ, mà, vậy mà (diễn tả sự bất ngờ)",
+        "structure": "主语 + 竟然 + 动词/形容词",
+        "explanation": "Đứng trước động từ hoặc tính từ biểu thị kết quả hoàn toàn nằm ngoài dự đoán, khiến người nói kinh ngạc.",
+        "examples": [{ "chinese": "回家以后，我才发现，竟然忘了去商场的超市买果汁！", "pinyin": "Huí jiā yǐhòu, wǒ cái fāxiàn, jìngrán wàng le qù shāngchǎng de chāoshì mǎi guǒzhī!", "vietnamese": "Sau khi về nhà mình mới phát hiện ra, không ngờ lại quên béng vào siêu thị của trung tâm thương mại mua nước trái cây!", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "副词，表示出乎意料、没想到。",
+      "collocations": ["竟然忘了", "竟然不知道", "竟然这么多"],
+      "usage_note": "Trọng tâm Chú thích 1 (tr.77). Phân biệt với 果然 (quả nhiên – đúng như dự đoán) và 居然 (đồng nghĩa với 竟然 nhưng khẩu ngữ hơn).",
+      "common_errors": "Sai: dùng 竟然 cho việc đúng như dự kiến (phải dùng 果然).",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l06_w06", "order": 6, "textbook": "HSK 4 上", "lesson": 6,
+      "hanzi": "西红柿", "pinyin": "xīhóngshì",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "cà chua",
+        "structure": "买西红柿 / 西红柿炒鸡蛋",
+        "explanation": "Tên gọi phổ biến nhất của quả cà chua trong tiếng phổ thông Trung Quốc (ở miền Nam hoặc Đài Loan còn gọi là 番茄 fānqié).",
+        "examples": [{ "chinese": "西红柿新鲜吗？怎么卖？", "pinyin": "Xīhóngshì xīnxiān ma? Zěnme mài?", "vietnamese": "Cà chua có tươi không? Bán thế nào ạ?", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "番茄，常见蔬菜/水果。",
+      "collocations": ["西红柿炒鸡蛋", "新鲜的西红柿", "西红柿汤"],
+      "usage_note": "Món ăn quốc dân nổi tiếng của Trung Quốc: 西红柿炒鸡蛋 (trứng xào cà chua).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l06_w07", "order": 7, "textbook": "HSK 4 上", "lesson": 6,
+      "hanzi": "百分之", "pinyin": "bǎi fēn zhī",
+      "lesson_usage": {
+        "part_of_speech": "固定结构 (Cấu trúc biểu thị phần trăm)", "meaning": "phần trăm (%)",
+        "structure": "百分之 + 数字 (百分之百 = 100%, 百分之六十四 = 64%)",
+        "explanation": "Cách đọc và viết tỷ lệ phần trăm trong tiếng Trung (tương ứng mẫu số 100 trong cấu trúc phân số 分母 + 分之 + 分子).",
+        "examples": [{ "chinese": "七块钱一斤，您放心，保证百分之百新鲜。", "pinyin": "Qī kuài qián yì jīn, nín fàng xīn, bǎozhèng bǎi fēn zhī bǎi xīnxiān.", "vietnamese": "Bảy tệ một cân, cô yên tâm, đảm bảo tươi 100%.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "表示百分比的固定格式，后接数字。",
+      "collocations": ["百分之百", "百分之五十", "百分之八十"],
+      "usage_note": "Chú ý trật tự ngược với tiếng Việt: '64%' đọc là '百分之六十四' (không nói 六十四百分之).",
+      "common_errors": "Sai: '一百百分之' → Đúng: '百分之百' (hoặc 百分之一百).",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l06_w08", "order": 8, "textbook": "HSK 4 上", "lesson": 6,
+      "hanzi": "倍", "pinyin": "bèi",
+      "lesson_usage": {
+        "part_of_speech": "量词 (Lượng từ độc lập)", "meaning": "lần, gấp (bội số)",
+        "structure": "A 是 B 的 + Số + 倍 / 比 B 多/高 + Số + 倍",
+        "explanation": "Lượng từ độc lập biểu thị bội số; thông thường không có danh từ đứng ngay phía sau.",
+        "examples": [{ "chinese": "我记得昨天才三块五一斤，今天的价格是昨天的两倍。", "pinyin": "Wǒ jìde zuótiān cái sān kuài wǔ yì jīn, jīntiān de jiàgé shì zuótiān de liǎng bèi.", "vietnamese": "Tôi nhớ hôm qua mới ba tệ rưỡi một cân, giá hôm nay gấp đôi hôm qua rồi.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "副词 (Văn viết: gấp bội, càng thêm)",
+          "meanings": ["càng thêm, gấp bội (thường trong cụm 4 chữ hoặc văn viết)"],
+          "structure": "加倍努力 / 倍感亲切",
+          "difference_note": "Không dùng để tính toán bội số mà nhấn mạnh mức độ tăng lên gấp bội.",
+          "examples": [{ "chinese": "为了考上理想的大学，他加倍努力地学习。", "pinyin": "Wèile kǎoshàng lǐxiǎng de dàxué, tā jiābèi nǔlì de xuéxí.", "vietnamese": "Để thi đỗ vào trường đại học mơ ước, cậu ấy học tập nỗ lực gấp bội." }]
+        }
+      ],
+      "chinese_explanation": "量词，表示照原数增加的同等数量；也可表示更加、加倍。",
+      "collocations": ["两倍", "三倍", "加倍努力", "事半功倍"],
+      "usage_note": "Trọng tâm Chú thích 2 (tr.77). LƯU Ý: 'A 是 B 的两倍' = A gấp 2 lần B (200%); nhưng 'A 比 B 多两倍' = A nhiều hơn B 2 lần (tức gấp 3 lần B!). Chỉ dùng 倍 cho tăng lên, không dùng cho giảm xuống.",
+      "common_errors": "Sai: '今年人数比去年减少了一倍' (giảm 100% là về 0) → Đúng: '减少了一半 / 50%'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l06_w09", "order": 9, "textbook": "HSK 4 上", "lesson": 6,
+      "hanzi": "皮肤", "pinyin": "pífū",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "da (người, động vật)",
+        "structure": "皮肤很好 / 对皮肤有好处 / 保护皮肤",
+        "explanation": "Lớp biểu bì bên ngoài cơ thể người hoặc động vật.",
+        "examples": [{ "chinese": "每天吃一两个这种新鲜的西红柿，对皮肤有好处。", "pinyin": "Měi tiān chī yì liǎng ge zhè zhǒng xīnxiān de xīhóngshì, duì pífū yǒu hǎochu.", "vietnamese": "Mỗi ngày ăn một hai quả cà chua tươi loại này rất có lợi cho da.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "包在身体表面的一层组织。",
+      "collocations": ["保护皮肤", "皮肤白", "皮肤干燥", "皮肤过敏"],
+      "usage_note": "Vỏ trái cây chỉ dùng 皮 (苹果皮、香蕉皮), không dùng 皮肤.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l06_w10", "order": 10, "textbook": "HSK 4 上", "lesson": 6,
+      "hanzi": "好处", "pinyin": "hǎochu",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "lợi ích, điều tốt",
+        "structure": "对……有好处 / 没好处 / 很多好处",
+        "explanation": "Tác dụng tích cực, lợi ích mang lại; trái nghĩa với 坏处 (tác hại).",
+        "examples": [{ "chinese": "每天吃一两个这种新鲜的西红柿，对皮肤有好处。", "pinyin": "Měi tiān chī yì liǎng ge zhè zhǒng xīnxiān de xīhóngshì, duì pífū yǒu hǎochu.", "vietnamese": "Mỗi ngày ăn một hai quả cà chua tươi loại này rất tốt cho da.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "有益的地方、利益（跟“坏处”相对）。",
+      "collocations": ["对身体有好处", "对皮肤有好处", "好处和坏处"],
+      "usage_note": "Chữ 处 đọc thanh nhẹ (hǎochu).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l06_w11", "order": 11, "textbook": "HSK 4 上", "lesson": 6,
+      "hanzi": "尝", "pinyin": "cháng",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "thưởng thức, nếm",
+        "structure": "尝尝 / 尝一下 / 尝一尝",
+        "explanation": "Ăn hoặc uống một chút để thử mùi vị.",
+        "examples": [{ "chinese": "好，那我先买几个尝尝。", "pinyin": "Hǎo, nà wǒ xiān mǎi jǐ ge chángchang.", "vietnamese": "Được, vậy tôi mua trước mấy quả ăn thử xem sao.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Nghĩa bóng: nếm trải, trải nghiệm)",
+          "meanings": ["nếm trải, trải qua (sự ngọt bùi, cay đắng, thành công)"],
+          "structure": "尝到甜头 / 尝过苦头 / 尝到失败的滋味",
+          "difference_note": "Không dùng vị giác mà diễn tả việc đích thân trải nghiệm một kết quả/cảm xúc.",
+          "examples": [{ "chinese": "经过多年努力，他终于尝到了成功的滋味。", "pinyin": "Jīngguò duō nián nǔlì, tā zhōngyú chángdào le chénggōng de zīwèi.", "vietnamese": "Trải qua nhiều năm nỗ lực, anh ấy cuối cùng đã nếm được hương vị thành công." }]
+        }
+      ],
+      "chinese_explanation": "辨别滋味；比喻经历、体验。",
+      "collocations": ["尝尝", "品尝", "尝一下", "尝到甜头"],
+      "usage_note": "Rất hay dùng dạng lặp lại 尝尝 (nếm thử chút).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l06_w12", "order": 12, "textbook": "HSK 4 上", "lesson": 6,
+      "hanzi": "轻", "pinyin": "qīng",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "nhẹ (trọng lượng)",
+        "structure": "轻一点儿 / 很轻 (đối lập với 重)",
+        "explanation": "Trong bài khóa 3, chỉ trọng lượng nhỏ (vali nhẹ).",
+        "examples": [{ "chinese": "我想买一个轻一点儿的。", "pinyin": "Wǒ xiǎng mǎi yí ge qīng yìdiǎnr de.", "vietnamese": "Tôi muốn mua một chiếc nhẹ hơn một chút.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "形容词 (Động tác / Mức độ / Tuổi tác)",
+          "meanings": ["1. nhẹ nhàng, khẽ khàng (lực tác động: 搬的时候轻一点儿)", "2. nhẹ, không nghiêm trọng (病轻了)", "3. trẻ (tuổi tác: 年轻、年纪轻轻)"],
+          "structure": "轻一点儿 / 轻轻地 / 年纪轻轻",
+          "difference_note": "Mở rộng từ trọng lượng sang lực tay (như bài tập tr.83: '搬的时候轻一点儿'), mức độ bệnh tật hoặc độ tuổi.",
+          "examples": [{ "chinese": "这个纸箱里面是酒，麻烦您搬的时候轻一点儿。", "pinyin": "Zhège zhǐxiāng lǐmiàn shì jiǔ, máfan nín bān de shíhou qīng yìdiǎnr.", "vietnamese": "Trong thùng giấy này là rượu, phiền anh khi bê nhẹ tay một chút." }]
+        }
+      ],
+      "chinese_explanation": "分量小（跟“重”相对）；也指用力小、程度浅或年纪小。",
+      "collocations": ["轻一点儿", "轻松", "轻轻地", "年轻"],
+      "usage_note": "Trái nghĩa với 重 (nặng).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l06_w13", "order": 13, "textbook": "HSK 4 上", "lesson": 6,
+      "hanzi": "方面", "pinyin": "fāngmiàn",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "khía cạnh, phương diện, mặt",
+        "structure": "从……方面看 / 在……方面 / 各方面 / 一方面……另一方面……",
+        "explanation": "Chỉ một mặt, một góc độ trong nhiều yếu tố của sự vật hay công việc.",
+        "examples": [{ "chinese": "您看看这个，不管从价格方面看，还是从质量上看，都是值得考虑的。", "pinyin": "Nín kànkan zhège, bùguǎn cóng jiàgé fāngmiàn kàn, háishi cóng zhìliàng shang kàn, dōu shì zhídé kǎolǜ de.", "vietnamese": "Ông xem chiếc này đi, bất kể xét từ phương diện giá cả hay xét về mặt chất lượng thì đều rất đáng cân nhắc.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "相对的或并列的几个人或事物中的一部分叫一个方面。",
+      "collocations": ["价格方面", "各方面", "这方面", "一方面……另一方面……"],
+      "usage_note": "Cụm kết nối rất hay dùng trong văn nghị luận HSK 4: 一方面……，另一方面…… (một mặt..., mặt khác...).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l06_w14", "order": 14, "textbook": "HSK 4 上", "lesson": 6,
+      "hanzi": "值得", "pinyin": "zhídé",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "đáng, xứng đáng",
+        "structure": "值得 + 动词/小句 (值得考虑 / 值得学习 / 值得买)  |  不值得",
+        "explanation": "Biểu thị làm việc gì đó có giá trị, có ý nghĩa và mang lại kết quả tốt đẹp.",
+        "examples": [{ "chinese": "不管从价格方面看，还是从质量上看，都是值得考虑的。", "pinyin": "Bùguǎn cóng jiàgé fāngmiàn kàn, háishi cóng zhìliàng shang kàn, dōu shì zhídé kǎolǜ de.", "vietnamese": "Bất kể nhìn từ phương diện giá cả hay chất lượng thì đều đáng để cân nhắc.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Dùng độc lập làm vị ngữ / Đánh giá xứng đáng giá tiền – 比一比 tr.79)",
+          "meanings": ["1. đáng giá, hợp lý với số tiền bỏ ra (值得买 / 不值得花两千块)", "2. đáng (đứng cuối câu không cần tân ngữ: 花再多时间也值得)"],
+          "structure": "花再多时间也值得 / 不值得为小事生气",
+          "difference_note": "Xem kỹ bảng So sánh '值得—值' (tr.78–79): 值得 đứng trước động từ/cụm động từ, KHÔNG đứng trực tiếp trước số tiền (sai: 值得五千块 → đúng: 值五千块).",
+          "examples": [{ "chinese": "这个沙发价钱不贵，质量又好，值得买。", "pinyin": "Zhège shāfā jiàqian bú guì, zhìliàng yòu hǎo, zhídé mǎi.", "vietnamese": "Chiếc sôpha này giá không đắt, chất lượng lại tốt, rất đáng mua." }]
+        }
+      ],
+      "chinese_explanation": "做某事有价值、有意义，或价钱合算。",
+      "collocations": ["值得考虑", "值得学习", "值得一看", "不值得"],
+      "usage_note": "Trọng tâm Chú thích 3 và bảng So sánh '值得—值' (tr.78–79).",
+      "common_errors": "Sai: '这瓶葡萄酒值得1000块' (trước số tiền phải dùng 值) → Đúng: '这瓶葡萄酒值1000块' hoặc '值得花1000块买'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l06_w15", "order": 15, "textbook": "HSK 4 上", "lesson": 6,
+      "hanzi": "活动", "pinyin": "huódòng",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "hoạt động, sự kiện, chương trình",
+        "structure": "打折活动 / 举行/举办活动 / 参加活动",
+        "explanation": "Chỉ các chương trình, sự kiện được tổ chức với mục đích chung (khuyến mãi, văn nghệ, thể thao...).",
+        "examples": [{ "chinese": "现在我们商场正好有打折活动，打完折是999。", "pinyin": "Xiànzài wǒmen shāngchǎng zhènghǎo yǒu dǎ zhé huódòng, dǎwán zhé shì jiǔbǎi jiǔshí jiǔ.", "vietnamese": "Hiện nay trung tâm thương mại chúng tôi vừa hay có chương trình giảm giá, giảm xong còn 999 tệ.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Động từ)",
+          "meanings": ["1. vận động, cử động (cơ thể cho đỡ mỏi)", "2. lung lay, xê dịch được (răng, khớp nối)"],
+          "structure": "活动一下身体 / 出去活动活动 / 牙齿活动了",
+          "difference_note": "Làm động từ chỉ hành động cử động thân thể hoặc trạng thái không cố định.",
+          "examples": [{ "chinese": "在电脑前坐久了，应该站起来活动活动身体。", "pinyin": "Zài diànnǎo qián zuò jiǔ le, yīnggāi zhàn qilai huódòng huódòng shēntǐ.", "vietnamese": "Ngồi lâu trước máy tính rồi thì nên đứng dậy vận động cơ thể chút." }]
+        }
+      ],
+      "chinese_explanation": "为达到某种目的而采取的行动或集体项目；作动词指运动身体或动摇不稳。",
+      "collocations": ["打折活动", "举办活动", "参加活动", "活动身体"],
+      "usage_note": "Đi kèm lượng từ 次 hoặc 项 (一次活动).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l06_w16", "order": 16, "textbook": "HSK 4 上", "lesson": 6,
+      "hanzi": "内", "pinyin": "nèi",
+      "lesson_usage": {
+        "part_of_speech": "名词 / 方位词 (Danh từ / Phương vị từ)", "meaning": "(bên) trong, trong vòng",
+        "structure": "Thời gian + 内 (一年内 / 三日内 / 一个月内)",
+        "explanation": "Trong bài khóa 3, đặt sau từ chỉ khoảng thời gian biểu thị 'trong phạm vi thời gian đó' (tương đương 以内).",
+        "examples": [{ "chinese": "另外，一年内我们都负责免费修理。", "pinyin": "Lìngwài, yì nián nèi wǒmen dōu fùzé miǎn fèi xiūlǐ.", "vietnamese": "Ngoài ra, trong vòng một năm chúng tôi đều chịu trách nhiệm sửa chữa miễn phí.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "方位词 (Không gian / Phạm vi – đối lập với 外)",
+          "meanings": ["bên trong (không gian hoặc phạm vi nhất định)"],
+          "structure": "室内 / 国内 / 校内 / 包括在内",
+          "difference_note": "Khác với phạm vi thời gian trong bài, 内 còn ghép với danh từ không gian để chỉ bên trong.",
+          "examples": [{ "chinese": "室内禁止抽烟。", "pinyin": "Shìnèi jìnzhǐ chōu yān.", "vietnamese": "Cấm hút thuốc trong nhà." }]
+        }
+      ],
+      "chinese_explanation": "里面（跟“外”相对），用于表示时间、空间或数量范围以内。",
+      "collocations": ["一年内", "三日内", "国内", "室内", "以内"],
+      "usage_note": "Mang sắc thái hơi trang trọng/văn viết hơn 里.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l06_w17", "order": 17, "textbook": "HSK 4 上", "lesson": 6,
+      "hanzi": "免费", "pinyin": "miǎn fèi",
+      "lesson_usage": {
+        "part_of_speech": "动词 / 离合词 (Động từ / Cụm động-tân)", "meaning": "miễn phí, không thu tiền",
+        "structure": "免费 + 动词 (免费修理 / 免费办会员卡 / 免费送货) / 是免费的",
+        "explanation": "Không phải trả phí; thường đứng trực tiếp trước động từ làm trạng ngữ.",
+        "examples": [
+          { "chinese": "另外，一年内我们都负责免费修理。", "pinyin": "Lìngwài, yì nián nèi wǒmen dōu fùzé miǎn fèi xiūlǐ.", "vietnamese": "Ngoài ra, trong vòng một năm chúng tôi đều chịu trách nhiệm sửa chữa miễn phí.", "from_text": true },
+          { "chinese": "如果购书满500元可免费办会员卡。", "pinyin": "Rúguǒ gòu shū mǎn wǔbǎi yuán kě miǎn fèi bàn huìyuánkǎ.", "vietnamese": "Nếu mua sách đủ 500 tệ có thể làm thẻ hội viên miễn phí.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "定语 (Dùng như tính từ làm định ngữ)",
+          "meanings": ["miễn phí (mô tả dịch vụ, đồ vật không tốn tiền)"],
+          "structure": "免费的 + 名词 (免费服务 / 免费的午餐 / 免费Wi-Fi)",
+          "difference_note": "Đứng trước danh từ (có hoặc không có 的) chỉ đồ vật/dịch vụ được cung cấp không tính phí.",
+          "examples": [{ "chinese": "这家咖啡馆提供免费的网络服务。", "pinyin": "Zhè jiā kāfēiguǎn tígōng miǎn fèi de wǎngluò fúwù.", "vietnamese": "Quán cà phê này cung cấp dịch vụ mạng miễn phí." }]
+        }
+      ],
+      "chinese_explanation": "免缴费用，不收钱。",
+      "collocations": ["免费修理", "免费送货", "免费参观", "免费提供"],
+      "usage_note": "Đặt trước động từ (免费修理), không đặt sau động từ (tránh nói '修理免费').",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l06_w18", "order": 18, "textbook": "HSK 4 上", "lesson": 6,
+      "hanzi": "修理", "pinyin": "xiūlǐ",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "sửa chữa",
+        "structure": "修理 + 电脑/手机/汽车/行李箱",
+        "explanation": "Khắc phục hư hỏng của máy móc, đồ dùng để khôi phục chức năng ban đầu.",
+        "examples": [{ "chinese": "另外，一年内我们都负责免费修理。", "pinyin": "Lìngwài, yì nián nèi wǒmen dōu fùzé miǎn fèi xiūlǐ.", "vietnamese": "Ngoài ra, trong vòng một năm chúng tôi đều chịu trách nhiệm sửa chữa miễn phí.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "使损坏的东西恢复原来的形状或作用。",
+      "collocations": ["免费修理", "修理汽车", "修理电脑", "修理费"],
+      "usage_note": "Sửa bài văn, sửa lỗi sai dùng 修改 (xiūgǎi) hoặc 改正 (gǎizhèng); sửa đồ vật/máy móc dùng 修理.",
+      "common_errors": "Sai: '请老师帮我修理作文' → Đúng: '请老师帮我修改作文'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l06_w19", "order": 19, "textbook": "HSK 4 上", "lesson": 6,
+      "hanzi": "支持", "pinyin": "zhīchí",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "ủng hộ",
+        "structure": "支持 + 某人/决定 / 感谢大家的支持",
+        "explanation": "Bày tỏ thái độ đồng tình, cổ vũ hoặc giúp đỡ; trong bài khóa 4 dùng như danh từ sau '大家的'.",
+        "examples": [{ "chinese": "顾客朋友们，为了感谢大家的支持，我们书店今天举行“购书送好礼”活动。", "pinyin": "Gùkè péngyoumen, wèile gǎnxiè dàjiā de zhīchí, wǒmen shūdiàn jīntiān jǔxíng “Gòu shū sòng hǎo lǐ” huódòng.", "vietnamese": "Kính thưa quý khách hàng, để cảm ơn sự ủng hộ của mọi người, hiệu sách chúng tôi hôm nay tổ chức chương trình “Mua sách tặng quà hay”.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Chống đỡ, cầm cự / Hỗ trợ kỹ thuật)",
+          "meanings": ["1. chống đỡ, gắng gượng (支持不住)", "2. hỗ trợ (công nghệ, thiết bị: 支持中文)"],
+          "structure": "支持不住 / 这款软件支持中文",
+          "difference_note": "Mở rộng sang nghĩa vật lý/thể lực (gắng chịu) hoặc khả năng tương thích của phần mềm, thiết bị.",
+          "examples": [{ "chinese": "这个网站支持信用卡和微信支付。", "pinyin": "Zhège wǎngzhàn zhīchí xìnyòngkǎ hé Wēixìn zhīfù.", "vietnamese": "Trang web này hỗ trợ thanh toán bằng thẻ tín dụng và WeChat." }]
+        }
+      ],
+      "chinese_explanation": "给以鼓励或赞助；也指勉强维持或技术兼容。",
+      "collocations": ["感谢支持", "大力支持", "支持和帮助", "相互支持"],
+      "usage_note": "Có thể nhận phó từ mức độ: 非常支持、很支持.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l06_w20", "order": 20, "textbook": "HSK 4 上", "lesson": 6,
+      "hanzi": "举行", "pinyin": "jǔxíng",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "tổ chức (hội họp, thi đấu, sự kiện...)",
+        "structure": "举行 + 活动 / 会议 / 比赛 / 婚礼",
+        "explanation": "Tiến hành tổ chức một sự kiện, nghi lễ, cuộc họp hay trận đấu trang trọng.",
+        "examples": [{ "chinese": "我们书店今天举行“购书送好礼”活动。", "pinyin": "Wǒmen shūdiàn jīntiān jǔxíng “Gòu shū sòng hǎo lǐ” huódòng.", "vietnamese": "Hiệu sách chúng tôi hôm nay tổ chức chương trình “Mua sách tặng quà hay”.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "进行（集会、比赛、仪式等）。",
+      "collocations": ["举行活动", "举行会议", "举行比赛", "举行婚礼"],
+      "usage_note": "Phân biệt với 举办 (#29): 举行 nhấn mạnh vào việc tiến hành diễn ra (thường đi với 会议、婚礼、仪式、比赛); 举办 nhấn mạnh vào việc đứng ra lập kế hoạch và tổ chức thực hiện (举办展览、举办学习班、举办活动).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l06_w21", "order": 21, "textbook": "HSK 4 上", "lesson": 6,
+      "hanzi": "满", "pinyin": "mǎn",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "(đạt đến một chỉ tiêu hay giới hạn) đủ, đầy, tròn",
+        "structure": "满 + Số lượng / Mốc (购书满100元 / 满十八岁 / 满一年)",
+        "explanation": "Trong bài khóa 4, làm động từ chỉ đạt đủ mức tiền hoặc thời hạn quy định.",
+        "examples": [{ "chinese": "购书满100元送一个笔记本，满200元送一本词典。", "pinyin": "Gòu shū mǎn yìbǎi yuán sòng yí ge bǐjìběn, mǎn èrbǎi yuán sòng yì běn cídiǎn.", "vietnamese": "Mua sách đủ 100 tệ tặng một quyển sổ tay, đủ 200 tệ tặng một quyển từ điển.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "形容词 (Tính từ / Bổ ngữ kết quả)",
+          "meanings": ["1. đầy, chật kín (trái nghĩa 空)", "2. toàn bộ, khắp cả (满脸、满地、满身)"],
+          "structure": "装满了 / 坐满了 / 满身大汗",
+          "difference_note": "Khác với nghĩa 'đạt hạn mức' trong bài, đây là nghĩa phổ biến chỉ dung tích đã đầy tràn hoặc bao phủ toàn bề mặt.",
+          "examples": [{ "chinese": "教室里已经坐满了学生。", "pinyin": "Jiàoshì li yǐjīng zuòmǎn le xuésheng.", "vietnamese": "Trong phòng học đã ngồi kín sinh viên rồi." }]
+        }
+      ],
+      "chinese_explanation": "达到一定期限或限度；作形容词指全部充实、没有余地，或全、整个。",
+      "collocations": ["满100元", "坐满", "满意", "满头大汗"],
+      "usage_note": "Trong mua sắm Trung Quốc rất hay gặp: 满减 (mua đủ mức tiền thì được giảm giá).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l06_w22", "order": 22, "textbook": "HSK 4 上", "lesson": 6,
+      "hanzi": "其中", "pinyin": "qízhōng",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "trong đó, trong số đó",
+        "structure": "Phạm vi tổng thể，其中，…… / 其中的 + 名词",
+        "explanation": "Chỉ phạm vi hoặc một bộ phận nằm bên trong tập hợp vừa nhắc tới trước đó.",
+        "examples": [{ "chinese": "另外，一些图书还有打折活动，其中，小说7.5折，地图8折，留学考试用书6折。", "pinyin": "Lìngwài, yìxiē túshū hái yǒu dǎ zhé huódòng, qízhōng, xiǎoshuō qīwǔ zhé, dìtú bā zhé, liúxué kǎoshì yòngshū liù zhé.", "vietnamese": "Ngoài ra, một số đầu sách còn có chương trình giảm giá, trong đó tiểu thuyết giảm còn 75%, bản đồ còn 80%, sách luyện thi du học còn 60%.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "名词，表示“那个里面、那些里面”。",
+      "collocations": ["其中的好书", "乐在其中", "忙在其中"],
+      "usage_note": "Trọng tâm Chú thích 4 (tr.81) và nhóm đồng tự 其 (tr.83–84). Bắt buộc phải có văn cảnh nêu tổng thể đi trước rồi mới dùng 其中.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l06_w23", "order": 23, "textbook": "HSK 4 上", "lesson": 6,
+      "hanzi": "小说", "pinyin": "xiǎoshuō",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "tiểu thuyết",
+        "structure": "看小说 / 写小说 / 一本/部小说",
+        "explanation": "Thể loại tác phẩm văn học tự sự có cốt truyện và nhân vật.",
+        "examples": [{ "chinese": "其中，小说7.5折，地图8折，留学考试用书6折。", "pinyin": "Qízhōng, xiǎoshuō qīwǔ zhé, dìtú bā zhé, liúxué kǎoshì yòngshū liù zhé.", "vietnamese": "Trong đó, tiểu thuyết giảm 25% (7.5折), bản đồ giảm 20% (8折), sách luyện thi du học giảm 40% (6折).", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "一种以刻画人物形象、叙述故事情节为主的文学体裁。",
+      "collocations": ["看小说", "爱情小说", "写小说", "长篇小说"],
+      "usage_note": "Lượng từ thường dùng là 本 (quyển) hoặc 部 (bộ).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l06_w24", "order": 24, "textbook": "HSK 4 上", "lesson": 6, "is_out_of_syllabus": true,
+      "hanzi": "会员卡", "pinyin": "huìyuánkǎ",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "thẻ hội viên, thẻ thành viên",
+        "structure": "办会员卡 / 一张会员卡 / 刷会员卡",
+        "explanation": "Từ đánh dấu * (ngoài khung HSK 4); thẻ tích điểm hoặc giảm giá dành cho khách hàng thân thiết.",
+        "examples": [{ "chinese": "如果购书满500元可免费办会员卡，以后购书可打8折。", "pinyin": "Rúguǒ gòu shū mǎn wǔbǎi yuán kě miǎn fèi bàn huìyuánkǎ, yǐhòu gòu shū kě dǎ bā zhé.", "vietnamese": "Nếu mua sách đủ 500 tệ có thể làm thẻ hội viên miễn phí, sau này mua sách được giảm 20% (8折).", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "商家发给会员用于享受优惠或积分的卡片。",
+      "collocations": ["办会员卡", "一张会员卡", "使用会员卡"],
+      "usage_note": "Động từ đi cùng các loại thẻ (thẻ ngân hàng, thẻ hội viên) là 办 (làm thẻ).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l06_w25", "order": 25, "textbook": "HSK 4 上", "lesson": 6,
+      "hanzi": "所有", "pinyin": "suǒyǒu",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ – khu biệt từ)", "meaning": "tất cả, toàn bộ",
+        "structure": "所有(的) + 名词 + 都……",
+        "explanation": "Đứng trước danh từ làm định ngữ biểu thị toàn thể không trừ một ai/vật nào, phía sau thường phối hợp với 都.",
+        "examples": [{ "chinese": "今天过生日的朋友和所有的小朋友还可以获得一份小礼物。", "pinyin": "Jīntiān guò shēngrì de péngyou hé suǒyǒu de xiǎopéngyou hái kěyǐ huòdé yí fèn xiǎo lǐwù.", "vietnamese": "Những bạn có sinh nhật hôm nay và tất cả các em nhỏ còn có thể nhận được một phần quà nhỏ.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Động từ – pháp lý/sở hữu)",
+          "meanings": ["sở hữu, thuộc về quyền sở hữu của ai"],
+          "structure": "归……所有 / 所有权",
+          "difference_note": "Trong văn bản chính thức, 归A所有 nghĩa là thuộc quyền sở hữu của A.",
+          "examples": [{ "chinese": "这些图书全部归学校图书馆所有。", "pinyin": "Zhèxiē túshū quánbù guī xuéxiào túshūguǎn suǒyǒu.", "vietnamese": "Toàn bộ số sách này đều thuộc quyền sở hữu của thư viện trường." }]
+        }
+      ],
+      "chinese_explanation": "一切、全部；也表示占有、归属。",
+      "collocations": ["所有人", "所有的小朋友", "所有的东西", "所有权"],
+      "usage_note": "所有 KHÔNG thể làm vị ngữ hay trạng ngữ độc lập (sai: 我们所有都去 → đúng: 我们所有人都去 hoặc 我们都去).",
+      "common_errors": "Sai: '他们所有喜欢喝茶' → Đúng: '他们所有人都喜欢喝茶'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l06_w26", "order": 26, "textbook": "HSK 4 上", "lesson": 6,
+      "hanzi": "获得", "pinyin": "huòdé",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "được, lấy được, giành được",
+        "structure": "获得 + 礼物 / 成功 / 成绩 / 冠军 / 机会",
+        "explanation": "Trang trọng hơn 得到, thường đi với các danh từ mang giá trị lớn hoặc thành quả (giải thưởng, thành công, quà tặng, kinh nghiệm).",
+        "examples": [{ "chinese": "今天过生日的朋友和所有的小朋友还可以获得一份小礼物。", "pinyin": "Jīntiān guò shēngrì de péngyou hé suǒyǒu de xiǎopéngyou hái kěyǐ huòdé yí fèn xiǎo lǐwù.", "vietnamese": "Những bạn có sinh nhật hôm nay và tất cả các bạn nhỏ còn có thể nhận được một phần quà nhỏ.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "取得、得到（多用于抽象事物或荣誉、奖品）。",
+      "collocations": ["获得成功", "获得冠军", "获得礼物", "获得好成绩"],
+      "usage_note": "Không dùng 获得 cho các vật mua bán thường ngày (không nói '获得一杯水').",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l06_w27", "order": 27, "textbook": "HSK 4 上", "lesson": 6,
+      "hanzi": "情况", "pinyin": "qíngkuàng",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "tình hình, tình huống",
+        "structure": "一般情况下 / 在……情况下 / 了解情况",
+        "explanation": "Trạng thái, diễn biến của sự vật, hoàn cảnh thực tế tại một thời điểm.",
+        "examples": [{ "chinese": "一般情况下，你花的钱越多，买的东西也就越好。", "pinyin": "Yìbān qíngkuàng xia, nǐ huā de qián yuè duō, mǎi de dōngxi yě jiù yuè hǎo.", "vietnamese": "Trong tình huống thông thường, bạn tiêu càng nhiều tiền thì đồ mua được cũng càng tốt.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "情形、状况。",
+      "collocations": ["一般情况下", "实际情况", "了解情况", "特殊情况"],
+      "usage_note": "Thường xuất hiện trong cấu trúc (在)……下 (Chú thích 5 tr.82): 一般情况下 (trong trường hợp bình thường).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l06_w28", "order": 28, "textbook": "HSK 4 上", "lesson": 6,
+      "hanzi": "例如", "pinyin": "lìrú",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "lấy ví dụ, ví dụ như",
+        "structure": "……，例如，…… / 例如：……",
+        "explanation": "Dùng để dẫn ra ví dụ minh họa cụ thể cho luận điểm vừa nêu; sắc thái trang trọng hơn 比如.",
+        "examples": [{ "chinese": "例如，春天来了，冬天的衣服就会打折，质量很好，还很便宜。", "pinyin": "Lìrú, chūntiān lái le, dōngtiān de yīfu jiù huì dǎ zhé, zhìliàng hěn hǎo, hái hěn piányi.", "vietnamese": "Ví dụ, mùa xuân đến thì quần áo mùa đông sẽ giảm giá, chất lượng rất tốt mà lại rất rẻ.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "举例用语，表示下面举出例子来说明（比“比如”更书面）。",
+      "collocations": ["例如……"],
+      "usage_note": "Sau 例如 thường có dấu phẩy hoặc dấu hai chấm. Phía sau chỉ đưa ví dụ, không dùng 例如 để nói 'ví như' kiểu so sánh ẩn dụ.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l06_w29", "order": 29, "textbook": "HSK 4 上", "lesson": 6,
+      "hanzi": "举办", "pinyin": "jǔbàn",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "tổ chức, tiến hành",
+        "structure": "举办 + 活动 / 展览 / 晚会 / 比赛 / 演唱会",
+        "explanation": "Đứng ra chuẩn bị và tổ chức các hoạt động, sự kiện, triển lãm, khóa học.",
+        "examples": [{ "chinese": "一到节日，商场也会举办各种各样的活动，降低价格。", "pinyin": "Yí dào jiérì, shāngchǎng yě huì jǔbàn gè zhǒng gè yàng de huódòng, jiàngdī jiàgé.", "vietnamese": "Cứ đến dịp lễ, trung tâm thương mại cũng sẽ tổ chức đủ loại hoạt động, hạ giá bán.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "举行、办理（事业、活动、展览等）。",
+      "collocations": ["举办活动", "举办展览", "举办晚会", "举办比赛"],
+      "usage_note": "Phân biệt với 举行 (#20): 举办 thiên về 'đăng cai/mở ra tổ chức', đi tốt với 展览, 音乐会, 奥运会, 活动; không dùng cho 会谈/婚礼 (dùng 举行).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l06_w30", "order": 30, "textbook": "HSK 4 上", "lesson": 6,
+      "hanzi": "各", "pinyin": "gè",
+      "lesson_usage": {
+        "part_of_speech": "代词 (Đại từ)", "meaning": "các, mọi, mỗi",
+        "structure": "各 + 量词/名词 (各种各样 / 各方面 / 各地 / 各位)",
+        "explanation": "Chỉ từng cá thể hoặc từng loại khác nhau trong một tổng thể.",
+        "examples": [{ "chinese": "一到节日，商场也会举办各种各样的活动，降低价格。", "pinyin": "Yí dào jiérì, shāngchǎng yě huì jǔbàn gè zhǒng gè yàng de huódòng, jiàngdī jiàgé.", "vietnamese": "Cứ đến dịp lễ, trung tâm thương mại cũng sẽ tổ chức đủ loại hoạt động, giảm giá cả.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "指示代词，指不止一个，并且彼此不同。",
+      "collocations": ["各种各样", "各方面", "各位", "全国各地", "各有各的"],
+      "usage_note": "Cụm từ cố định cực hay gặp: 各种各样 (đủ mọi chủng loại), 各方面 (mọi phương diện).",
+      "common_errors": "Không đứng độc lập làm chủ ngữ hay tân ngữ; phải kết hợp với danh từ hoặc lượng từ.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l06_w31", "order": 31, "textbook": "HSK 4 上", "lesson": 6,
+      "hanzi": "降低", "pinyin": "jiàngdī",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "giảm, hạ, giảm thấp",
+        "structure": "降低 + 价格 / 温度 / 标准 / 成本 / 速度",
+        "explanation": "Làm cho mức độ, giá cả, tiêu chuẩn hay nhiệt độ hạ xuống thấp hơn trước; trái nghĩa với 提高 (nâng cao).",
+        "examples": [{ "chinese": "一到节日，商场也会举办各种各样的活动，降低价格。", "pinyin": "Yí dào jiérì, shāngchǎng yě huì jǔbàn gè zhǒng gè yàng de huódòng, jiàngdī jiàgé.", "vietnamese": "Cứ đến dịp lễ, trung tâm thương mại cũng sẽ tổ chức đủ loại hoạt động, hạ giá bán.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "下降、使变低（跟“提高”相对）。",
+      "collocations": ["降低价格", "降低标准", "降低温度", "降低速度"],
+      "usage_note": "Phân biệt với 减少 (giảm về SỐ LƯỢNG như 减少人数/减少浪费); 降低 dùng cho MỨC ĐỘ/GIÁ TRỊ đo bằng cao-thấp (价格、温度、水平、标准).",
+      "common_errors": "Sai: '降低人数' → Đúng: '减少人数'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    }
+  ],
+  "proper_nouns": [],
+  "same_char_expansion": {
+    "char": "其",
+    "words": [
+      { "hanzi": "其次", "pinyin": "qícì", "meaning": "thứ hai, tiếp theo" },
+      { "hanzi": "其中", "pinyin": "qízhōng", "meaning": "trong đó, trong số đó" },
+      { "hanzi": "其实", "pinyin": "qíshí", "meaning": "thực ra, thật ra" },
+      { "hanzi": "其他", "pinyin": "qítā", "meaning": "khác, những thứ/người khác" },
+      { "hanzi": "尤其", "pinyin": "yóuqí", "meaning": "đặc biệt là, nhất là" }
+    ],
+    "examples": [
+      { "chinese": "A: 能谈谈你为什么会选择这份工作吗？ B: 首先，我对这份工作很感兴趣，其次，我学的也是这个专业，比较熟悉。", "vietnamese": "A: Bạn có thể chia sẻ vì sao chọn công việc này không? B: Thứ nhất, tôi rất hứng thú với công việc này; thứ hai, tôi cũng học đúng chuyên ngành này nên khá quen thuộc." },
+      { "chinese": "这个电影讲的是一个浪漫的爱情故事，但是我觉得其中人与动物之间的友谊更感人，给我的印象更深。", "vietnamese": "Bộ phim này kể một câu chuyện tình yêu lãng mạn, nhưng tôi thấy tình bạn giữa con người và động vật trong đó còn cảm động hơn, để lại ấn tượng sâu hơn với tôi." },
+      { "chinese": "生活中有这样两种人：一种总是看别人怎么生活，另一种喜欢生活给别人看。其实，各人有各人的生活，不用羡慕别人。", "vietnamese": "Trong cuộc sống có hai kiểu người thế này: một kiểu luôn nhìn xem người khác sống ra sao, kiểu kia lại thích sống cho người khác xem. Thật ra, mỗi người có cuộc sống riêng, không cần ngưỡng mộ người khác." },
+      { "chinese": "A: 饭店的工作，我想请你来负责，你看有问题没？ B: 对不起，我最近在忙另一件事，您还是考虑其他人吧。", "vietnamese": "A: Công việc ở nhà hàng tôi muốn mời cậu phụ trách, cậu xem có vấn đề gì không? B: Xin lỗi, dạo này tôi đang bận một việc khác, anh vẫn nên cân nhắc người khác đi." },
+      { "chinese": "不管做什么事情，都要注意方法，学习尤其是这样。如果方法对了，就会取得很好的效果；如果方法错了，不管你怎么努力，也很难取得成功。", "vietnamese": "Bất kể làm việc gì cũng phải chú ý phương pháp, việc học đặc biệt là như vậy. Nếu đúng phương pháp sẽ đạt hiệu quả rất tốt; nếu sai phương pháp thì dù bạn nỗ lực thế nào cũng khó thành công." }
+    ]
+  },
+  "grammar": [
+    {
+      "title": "竟然",
+      "formula": "S + 竟然 + V / Adj",
+      "meaning": "Không ngờ, vậy mà, lại (nằm ngoài dự đoán).",
+      "usage": "Phó từ 竟然 đặt trước động từ hoặc tính từ để biểu thị sự việc xảy ra hoàn toàn bất ngờ, vượt ngoài dự liệu của người nói.",
+      "context": "Dùng trong cả văn nói và văn viết khi thể hiện sự ngạc nhiên (có thể tích cực hoặc tiêu cực).",
+      "examples": [
+        { "chinese": "这个歌特别好听，最近很流行，你竟然没听过？", "pinyin": "Zhège gē tèbié hǎotīng, zuìjìn hěn liúxíng, nǐ jìngrán méi tīngguo?", "vietnamese": "Bài hát này cực kỳ hay, gần đây rất thịnh hành, cậu vậy mà chưa nghe qua à?" },
+        { "chinese": "来这家饭馆吃饭的人竟然这么多，排队都排到门口外边去了！", "pinyin": "Lái zhè jiā fànguǎn chī fàn de rén jìngrán zhème duō, páiduì dōu páidào ménkǒu wàibian qù le!", "vietnamese": "Người đến nhà hàng này ăn cơm không ngờ lại đông thế này, xếp hàng kéo dài ra tận ngoài cửa luôn!" },
+        { "chinese": "回家以后，我才发现，竟然忘了去商场的超市买果汁！", "pinyin": "Huí jiā yǐhòu, wǒ cái fāxiàn, jìngrán wàng le qù shāngchǎng de chāoshì mǎi guǒzhī!", "vietnamese": "Sau khi về nhà tôi mới phát hiện, không ngờ lại quên vào siêu thị của trung tâm thương mại mua nước trái cây!" }
+      ],
+      "important_notes": "Thường dùng cho việc ĐÃ xảy ra hoặc hiện trạng đang chứng kiến, không dùng cho dự đoán tương lai.",
+      "common_errors": "Nhầm với 果然 (quả nhiên – đúng như đoán trước). VD: Trời nhiều mây rồi mưa thì dùng 果然, trời đang nắng đẹp bỗng mưa thì dùng 竟然.",
+      "comparison": "竟然 ≈ 居然 (đều là 'không ngờ', 竟然 hơi trang trọng hơn một chút); đối lập hoàn toàn với 果然 (quả nhiên).",
+      "mini_practice": [
+        { "prompt": "在我听来，上海话和北京话几乎完全不同，_______________________。（竟然）", "sample_answer": "他竟然两种话都会说", "explanation": "Đặt 竟然 trước động từ để bày tỏ sự ngạc nhiên." },
+        { "prompt": "真是没想到，_______________________，我几乎没认出你来。（竟然）", "sample_answer": "你竟然变化这么大 / 你竟然瘦了这么多", "explanation": "Phối hợp với '真是没想到' để nhấn mạnh bất ngờ." },
+        { "prompt": "A: 这么远的路，_______________________？（竟然）  B: 今天天气好，而且我喜欢骑自行车，又能锻炼身体，不好吗？", "sample_answer": "你竟然骑自行车来", "explanation": "Dựa vào câu trả lời của B về việc đi xe đạp để đặt câu hỏi ngạc nhiên với 竟然." }
+      ]
+    },
+    {
+      "title": "倍",
+      "formula": "(1) A 是 B 的 + Số + 倍  |  (2) A 比 B + 多/贵/大 + Số + 倍",
+      "meaning": "Gấp ... lần (bội số).",
+      "usage": "倍 là lượng từ độc lập (自主量词) chỉ bội số, phía sau thông thường KHÔNG mang danh từ trực tiếp.",
+      "context": "Dùng khi so sánh tỷ lệ tăng lên gấp nhiều lần về giá cả, thu nhập, số lượng.",
+      "examples": [
+        { "chinese": "二的五倍是十。", "pinyin": "Èr de wǔ bèi shì shí.", "vietnamese": "Năm lần của hai là mười." },
+        { "chinese": "我的工资是每月5000块，他的工资是我的两倍。", "pinyin": "Wǒ de gōngzī shì měi yuè wǔqiān kuài, tā de gōngzī shì wǒ de liǎng bèi.", "vietnamese": "Lương của tôi là 5000 tệ mỗi tháng, lương của anh ấy gấp đôi tôi." },
+        { "chinese": "我记得昨天才三块五一斤，今天的价格是昨天的两倍。", "pinyin": "Wǒ jìde zuótiān cái sān kuài wǔ yì jīn, jīntiān de jiàgé shì zuótiān de liǎng bèi.", "vietnamese": "Tôi nhớ hôm qua mới 3 tệ rưỡi một cân, giá hôm nay gấp đôi hôm qua rồi." }
+      ],
+      "important_notes": "Phân biệt chuẩn toán học: '是……的两倍' = gấp 2 lần (×2); '比……多一倍' cũng = gấp 2 lần (×2); '增加了两倍' = tăng thêm 2 lần (thành ×3). Chỉ dùng cho sự TĂNG, không dùng cho sự GIẢM.",
+      "common_errors": "Thêm danh từ ngay sau 倍 (Sai: 两倍价格 → Đúng: 价格的两倍).",
+      "comparison": "Số lần hành động lặp lại dùng 次 (去两次); tỷ lệ nhân lên dùng 倍 (两倍).",
+      "mini_practice": [
+        { "prompt": "200是_______________________。（倍）", "sample_answer": "100的两倍 / 50的四倍", "explanation": "Cấu trúc A 是 B 的 + số + 倍." },
+        { "prompt": "每年七八月，有很多游客来这儿玩儿，最多的时候_______________________。（倍）", "sample_answer": "游客人数是平时的三倍", "explanation": "So sánh lượng khách mùa cao điểm với ngày thường." },
+        { "prompt": "A: 今年咱们公司的收入怎么样？  B: _______________________。（倍）", "sample_answer": "很好，是去年的两倍。", "explanation": "Dùng 是去年的两倍 trả lời về doanh thu công ty." }
+      ]
+    },
+    {
+      "title": "值得",
+      "formula": "Chủ ngữ + 值得 + (某人) + 动词 / 小句  |  不值得",
+      "meaning": "Đáng, xứng đáng (có giá trị, mang lại kết quả tốt).",
+      "usage": "Động từ 值得 diễn tả làm một việc gì đó là có ý nghĩa, đáng giá hoặc đáng để đầu tư thời gian, tiền bạc, công sức.",
+      "context": "Đứng trước động từ hoặc cụm động từ (值得考虑、值得学习、值得一看), có thể nhận phó từ mức độ như 很值得、非常值得、更值得.",
+      "examples": [
+        { "chinese": "您看看这个，不管从价格方面看，还是从质量上看，都是值得考虑的。", "pinyin": "Nín kànkan zhège, bùguǎn cóng jiàgé fāngmiàn kàn, háishi cóng zhìliàng shang kàn, dōu shì zhídé kǎolǜ de.", "vietnamese": "Ông xem chiếc này đi, bất kể xét từ giá cả hay chất lượng đều đáng cân nhắc." },
+        { "chinese": "你应该改改自己的脾气，别总是为一点儿小事生气，不值得。", "pinyin": "Nǐ yīnggāi gǎigai zìjǐ de píqi, bié zǒngshì wèi yìdiǎnr xiǎoshì shēng qì, bù zhídé.", "vietnamese": "Cậu nên sửa bớt tính khí của mình đi, đừng lúc nào cũng nổi giận vì chuyện nhỏ nhặt, không đáng đâu." },
+        { "chinese": "我们总是很容易看到一个人的缺点，但是别忘了，他身上的优点更值得我们去发现、去学习。", "pinyin": "Wǒmen zǒngshì hěn róngyì kàndào yí ge rén de quēdiǎn, dànshì bié wàng le, tā shēn shang de yōudiǎn gèng zhídé wǒmen qù fāxiàn, qù xuéxí.", "vietnamese": "Chúng ta luôn rất dễ nhìn thấy khuyết điểm của một người, nhưng đừng quên ưu điểm trên người họ càng đáng để chúng ta khám phá và học hỏi." }
+      ],
+      "important_notes": "Xem kỹ bảng So sánh '值得—值' ngay bên dưới để không nhầm khi đi với số tiền.",
+      "common_errors": "Đặt số tiền trực tiếp sau 值得 (Sai: 这台电脑值得五千块 → Đúng: 这台电脑值五千块).",
+      "comparison": "值得 + động từ/mệnh đề; 值 + số tiền (hoặc đứng độc lập làm tính từ).",
+      "mini_practice": [
+        { "prompt": "这件衣服_______________________。（值得）", "sample_answer": "质量很好，价格又不贵，很值得买", "explanation": "值得 + động từ 买." },
+        { "prompt": "A: 你觉得这个办法怎么样？会有效果吗？  B: _______________________。（值得）", "sample_answer": "我觉得不错，值得一试 / 值得试试", "explanation": "值得 + động từ 试试/一试 (đáng để thử)." },
+        { "prompt": "A: 你学法律一定很苦很累吧？  B: 是，不过_______________________。（值得）", "sample_answer": "学到了很多有用的知识，我觉得很值得", "explanation": "Dùng 很值得 ở cuối câu khẳng định công sức bỏ ra là xứng đáng." }
+      ]
+    },
+    {
+      "title": "其中",
+      "formula": "(1) Tổng thể，其中，Phần cụ thể  |  (2) 其中的 + N  |  (3) 动词 + 在其中",
+      "meaning": "Trong đó, trong số đó (chỉ phạm vi, vị trí).",
+      "usage": "Danh từ 其中 mang nghĩa 'bên trong cái đó / những cái đó', dùng để tách hoặc nhấn mạnh một bộ phận nằm trong tổng thể đã nhắc tới ở câu trước.",
+      "context": "Dùng khi liệt kê chi tiết, thống kê tỷ lệ, hoặc trong cụm cố định '乐在其中' (tìm thấy niềm vui trong đó).",
+      "examples": [
+        { "chinese": "我们不仅要会读书，还要会选择其中的好书来读。", "pinyin": "Wǒmen bùjǐn yào huì dúshū, hái yào huì xuǎnzé qízhōng de hǎoshū lái dú.", "vietnamese": "Chúng ta không những phải biết đọc sách, mà còn phải biết chọn những quyển sách hay trong số đó để đọc." },
+        { "chinese": "虽然妻子工作很忙，但是她忙在其中也乐在其中。", "pinyin": "Suīrán qīzi gōngzuò hěn máng, dànshì tā máng zài qízhōng yě lè zài qízhōng.", "vietnamese": "Tuy vợ công việc rất bận, nhưng cô ấy bận rộn trong đó và cũng tìm thấy niềm vui trong đó." },
+        { "chinese": "一些图书还有打折活动，其中，小说7.5折，地图8折，留学考试用书6折。", "pinyin": "Yìxiē túshū hái yǒu dǎ zhé huódòng, qízhōng, xiǎoshuō qīwǔ zhé, dìtú bā zhé, liúxué kǎoshì yòngshū liù zhé.", "vietnamese": "Một số sách còn có hoạt động giảm giá, trong đó tiểu thuyết 7.5折, bản đồ 8折, sách thi du học 6折." }
+      ],
+      "important_notes": "Luôn phải có phạm vi/tập hợp được nêu ra trước đó; không dùng 其中 mở đầu một đoạn hội thoại đột ngột.",
+      "common_errors": "Nhầm 其中 (trong số đó) với 其实 (thực ra) hoặc 其次 (thứ hai).",
+      "comparison": "Xem nhóm đồng tự 其 (其次 / 其中 / 其实 / 其他 / 尤其) ở phần Mở rộng.",
+      "mini_practice": [
+        { "prompt": "很多人能取得成功，_______________________。（其中）", "sample_answer": "其中一个重要原因就是他们从不放弃", "explanation": "Dùng 其中 nêu một yếu tố nổi bật trong tập hợp nguyên nhân." },
+        { "prompt": "我有很多爱好，_______________________。（其中）", "sample_answer": "其中最喜欢的是旅游和拍照", "explanation": "Thu hẹp từ tập hợp '很多爱好' xuống sở thích nhất." },
+        { "prompt": "虽然联系老同学聚会比较麻烦，_______________________。（其中）", "sample_answer": "但我很享受其中的快乐 / 但我也乐在其中", "explanation": "Dùng 其中的…… hoặc thành ngữ 乐在其中." }
+      ]
+    },
+    {
+      "title": "(在)……下",
+      "formula": "(在) + Định ngữ + Danh từ/Động từ 2 âm tiết + 下，……",
+      "meaning": "Trong tình huống..., dưới sự..., trong điều kiện...",
+      "usage": "Thành phần đứng giữa (在)……下 thường là danh từ hoặc động từ hai âm tiết có định ngữ bổ nghĩa đứng trước (như 一般情况、老师和同学们的帮助、这种条件), biểu thị điều kiện hoặc hoàn cảnh tiền đề.",
+      "context": "Đặt ở đầu câu làm trạng ngữ chỉ điều kiện/hoàn cảnh dẫn tới kết quả ở vế sau.",
+      "examples": [
+        { "chinese": "一般情况下，你花的钱越多，买的东西也就越好。", "pinyin": "Yìbān qíngkuàng xia, nǐ huā de qián yuè duō, mǎi de dōngxi yě jiù yuè hǎo.", "vietnamese": "Trong tình huống thông thường, bạn tiêu càng nhiều tiền thì đồ mua được cũng càng tốt." },
+        { "chinese": "在冬天比较冷的情况下，吃碗热面条会让人觉得很舒服。", "pinyin": "Zài dōngtiān bǐjiào lěng de qíngkuàng xia, chī wǎn rè miàntiáo huì ràng rén juéde hěn shūfu.", "vietnamese": "Trong điều kiện mùa đông khá lạnh, ăn một bát mì nóng sẽ khiến người ta thấy rất dễ chịu." },
+        { "chinese": "在老师和同学们的帮助下，他的汉语提高得非常快。", "pinyin": "Zài lǎoshī hé tóngxuémen de bāngzhù xia, tā de Hànyǔ tígāo de fēicháng kuài.", "vietnamese": "Dưới sự giúp đỡ của thầy cô và các bạn học, tiếng Hán của cậu ấy tiến bộ vô cùng nhanh." }
+      ],
+      "important_notes": "Từ đứng trước 下 thường là 情况 (tình huống), 条件 (điều kiện), 帮助 (sự giúp đỡ), 影响 (ảnh hưởng), 领导 (sự lãnh đạo), 支持 (sự ủng hộ). Không đặt một từ đơn không có định ngữ (nói 一般情况下, không nói 在情况下).",
+      "common_errors": "Quên từ định ngữ trước 情况/帮助 (Sai: '在帮助下，我成功了' → Đúng: '在大家的帮助下，我成功了').",
+      "comparison": "So với (在)……上 (Bài 1 – xét về phương diện/phạm vi): (在)……下 nhấn mạnh điều kiện, hoàn cảnh hoặc sự trợ lực bên ngoài.",
+      "mini_practice": [
+        { "prompt": "考试时别紧张，_______________________。（在……下）", "sample_answer": "在紧张的情况下容易出错", "explanation": "Cấu trúc 在 + định ngữ + 情况下." },
+        { "prompt": "A: 我今年已经换了三次工作了。  B: _______________________。（……下）", "sample_answer": "一般情况下，经常换工作不太好", "explanation": "Dùng 一般情况下 (lược 在) đưa ra nhận xét chung." },
+        { "prompt": "A: 游戏教学不仅让学生学到了知识，更重要的是提供了快乐的学习环境。  B: 是啊，_______________________。（在……下）", "sample_answer": "在这样快乐的环境下，学生学得更好", "explanation": "Dùng 在……环境下 chỉ điều kiện học tập thuận lợi." }
+      ]
+    }
+  ],
+  "comparison_section": {
+    "label": "比一比 So sánh",
+    "pair": "值得 — 值",
+    "term_a": "值得 (zhídé)",
+    "term_b": "值 (zhí)",
+    "similarity": "Cả hai đều có thể biểu thị làm việc gì đó có ý nghĩa hoặc có giá trị. VD: 这个调查对今后的工作很有用，花再多时间也值得/值。",
+    "differences": [
+      { "criterion": "Từ loại & Thành phần phía sau (khi chỉ 'có ý nghĩa')", "a": "Động từ: phía sau CÓ THỂ mang động từ hoặc mệnh đề (咱们不值得为这么点儿小事生气 / 这本书值得一看).", "b": "Tính từ: phía sau THƯỜNG KHÔNG mang thêm thành phần khác (为这么点儿小事生气，一点儿也不值)." },
+      { "criterion": "Khi làm động từ liên quan giá cả", "a": "Biểu thị 'đáng tiền, hợp lý' — phía sau cộng ĐỘNG TỪ hoặc cụm động từ (值得买 / 不值得花两千块).", "b": "Biểu thị 'hàng hóa tương đương với giá tiền (đáng giá bao nhiêu)' — phía sau cộng SỐ TIỀN (这个手机值五千块 / 这瓶葡萄酒值一千块)." }
+    ]
+  },
+  "texts": [
+    {
+      "id": "t1", "title_zh": "张远和李进聊李进昨晚的购物经历", "title_vi": "Trương Viễn và Lý Tiến nói chuyện về chuyện đi mua sắm tối qua của Lý Tiến",
+      "lines": [
+        { "speaker": "张远", "chinese": "昨天晚上我给你打电话一直没人接，你忙什么呢？", "pinyin": "Zuótiān wǎnshang wǒ gěi nǐ dǎ diànhuà yìzhí méi rén jiē, nǐ máng shénme ne?", "vietnamese": "Tối hôm qua mình gọi điện cho cậu mãi chẳng ai nghe máy, cậu bận gì thế?" },
+        { "speaker": "李进", "chinese": "昨天妻子让我陪她去超市买果汁。我把手机忘在家里了。", "pinyin": "Zuótiān qīzi ràng wǒ péi tā qù chāoshì mǎi guǒzhī. Wǒ bǎ shǒujī wàng zài jiā li le.", "vietnamese": "Hôm qua vợ bảo mình đi cùng cô ấy tới siêu thị mua nước trái cây. Mình để quên điện thoại ở nhà rồi." },
+        { "speaker": "张远", "chinese": "买这么点儿东西也用不了那么长时间啊！", "pinyin": "Mǎi zhème diǎnr dōngxi yě yòng bu liǎo nàme cháng shíjiān a!", "vietnamese": "Mua có chút đồ thế cũng đâu mất lâu thời gian vậy chứ!" },
+        { "speaker": "李进", "chinese": "我们先去逛了会儿商场。一进门，售货员就热情地为我们介绍这、介绍那，她买了一条裤子、一件衬衫、两双袜子，然后我们就高高兴兴地回家了。", "pinyin": "Wǒmen xiān qù guàngle huìr shāngchǎng. Yí jìn mén, shòuhuòyuán jiù rèqíng de wèi wǒmen jièshào zhè, jièshào nà, tā mǎi le yì tiáo kùzi, yí jiàn chènshān, liǎng shuāng wàzi, ránhòu wǒmen jiù gāogāoxìngxìng de huí jiā le.", "vietnamese": "Bọn mình đi dạo trung tâm thương mại một lát trước. Vừa vào cửa, nhân viên bán hàng đã nhiệt tình giới thiệu cái này cái kia cho chúng mình, cô ấy mua một chiếc quần, một chiếc áo sơ mi, hai đôi tất, rồi bọn mình vui vẻ về nhà." },
+        { "speaker": "张远", "chinese": "买东西时我只看自己想买的，而且喜欢自己看、自己选，不希望被别人打扰。", "pinyin": "Mǎi dōngxi shí wǒ zhǐ kàn zìjǐ xiǎng mǎi de, érqiě xǐhuan zìjǐ kàn, zìjǐ xuǎn, bù xīwàng bèi biérén dǎrǎo.", "vietnamese": "Lúc mua đồ mình chỉ xem thứ mình muốn mua, hơn nữa thích tự xem tự chọn, không muốn bị người khác làm phiền." },
+        { "speaker": "李进", "chinese": "是啊！回家以后，我才发现，竟然忘了去商场的超市买果汁！", "pinyin": "Shì a! Huí jiā yǐhòu, wǒ cái fāxiàn, jìngrán wàngle qù shāngchǎng de chāoshì mǎi guǒzhī!", "vietnamese": "Đúng đấy! Về đến nhà rồi mình mới phát hiện ra, không ngờ lại quên vào siêu thị của trung tâm thương mại mua nước trái cây!" }
+      ]
+    },
+    {
+      "id": "t2", "title_zh": "王静在商店买西红柿", "title_vi": "Vương Tịnh mua cà chua ở cửa hàng",
+      "lines": [
+        { "speaker": "王静", "chinese": "西红柿新鲜吗？怎么卖？", "pinyin": "Xīhóngshì xīnxiān ma? Zěnme mài?", "vietnamese": "Cà chua có tươi không? Bán thế nào ạ?" },
+        { "speaker": "售货员", "chinese": "七块钱一斤，您放心，保证百分之百新鲜。", "pinyin": "Qī kuài qián yì jīn, nín fàng xīn, bǎozhèng bǎi fēn zhī bǎi xīnxiān.", "vietnamese": "Bảy tệ một cân, cô yên tâm, đảm bảo tươi 100%." },
+        { "speaker": "王静", "chinese": "怎么这么贵啊！我记得昨天才三块五一斤，今天的价格是昨天的两倍。", "pinyin": "Zěnme zhème guì a! Wǒ jìde zuótiān cái sān kuài wǔ yì jīn, jīntiān de jiàgé shì zuótiān de liǎng bèi.", "vietnamese": "Sao đắt thế ạ! Tôi nhớ hôm qua mới ba tệ rưỡi một cân, giá hôm nay gấp đôi hôm qua rồi." },
+        { "speaker": "售货员", "chinese": "您问的这种是“绿色”的。一分钱一分货。每天吃一两个这种新鲜的西红柿，对皮肤有好处。", "pinyin": "Nín wèn de zhè zhǒng shì “lǜsè” de. Yì fēn qián yì fēn huò. Měi tiān chī yì liǎng ge zhè zhǒng xīnxiān de xīhóngshì, duì pífū yǒu hǎochu.", "vietnamese": "Loại cô hỏi này là thực phẩm “xanh” (hữu cơ). Tiền nào của nấy. Mỗi ngày ăn một hai quả cà chua tươi loại này rất tốt cho da." },
+        { "speaker": "王静", "chinese": "好，那我先买几个尝尝。", "pinyin": "Hǎo, nà wǒ xiān mǎi jǐ ge chángchang.", "vietnamese": "Được, vậy tôi mua trước mấy quả ăn thử xem sao." },
+        { "speaker": "售货员", "chinese": "好的，给您西红柿，一共两斤，十四块。", "pinyin": "Hǎo de, gěi nín xīhóngshì, yígòng liǎng jīn, shísì kuài.", "vietnamese": "Vâng, cà chua của cô đây, tổng cộng hai cân, mười bốn tệ." }
+      ]
+    },
+    {
+      "id": "t3", "title_zh": "李进在商场买行李箱", "title_vi": "Lý Tiến mua vali ở trung tâm thương mại",
+      "lines": [
+        { "speaker": "售货员", "chinese": "先生，我们店的行李箱都在这里，请问您要什么样的？", "pinyin": "Xiānsheng, wǒmen diàn de xínglixiāng dōu zài zhèlǐ, qǐngwèn nín yào shénmeyàng de?", "vietnamese": "Thưa anh, vali của cửa hàng chúng tôi đều ở đây, xin hỏi anh muốn loại như thế nào ạ?" },
+        { "speaker": "李进", "chinese": "我想买一个轻一点儿的。", "pinyin": "Wǒ xiǎng mǎi yí ge qīng yìdiǎnr de.", "vietnamese": "Tôi muốn mua một chiếc nhẹ hơn một chút." },
+        { "speaker": "售货员", "chinese": "您看看这个，不管从价格方面看，还是从质量上看，都是值得考虑的。", "pinyin": "Nín kànkan zhège, bùguǎn cóng jiàgé fāngmiàn kàn, háishi cóng zhìliàng shang kàn, dōu shì zhídé kǎolǜ de.", "vietnamese": "Anh xem chiếc này xem, bất kể xét từ phương diện giá cả hay từ chất lượng thì đều đáng để cân nhắc." },
+        { "speaker": "李进", "chinese": "质量是不错。请问这个多少钱？", "pinyin": "Zhìliàng shì búcuò. Qǐngwèn zhège duōshao qián?", "vietnamese": "Chất lượng đúng là tốt. Xin hỏi chiếc này bao nhiêu tiền?" },
+        { "speaker": "售货员", "chinese": "现在我们商场正好有打折活动，打完折是999。另外，一年内我们都负责免费修理。", "pinyin": "Xiànzài wǒmen shāngchǎng zhènghǎo yǒu dǎ zhé huódòng, dǎwán zhé shì jiǔbǎi jiǔshí jiǔ. Lìngwài, yì nián nèi wǒmen dōu fùzé miǎn fèi xiūlǐ.", "vietnamese": "Hiện tại trung tâm thương mại chúng tôi vừa hay có chương trình giảm giá, giảm xong còn 999 tệ. Ngoài ra, trong vòng một năm chúng tôi đều chịu trách nhiệm sửa chữa miễn phí." },
+        { "speaker": "李进", "chinese": "你们的服务不错，价格也可以，就买这个吧。", "pinyin": "Nǐmen de fúwù búcuò, jiàgé yě kěyǐ, jiù mǎi zhège ba.", "vietnamese": "Dịch vụ của các bạn rất tốt, giá cả cũng ổn, mua chiếc này đi." }
+      ]
+    },
+    {
+      "id": "t4", "title_zh": "书店“购书送好礼”活动", "title_vi": "Chương trình “Mua sách tặng quà hay” của hiệu sách",
+      "lines": [
+        { "speaker": "", "chinese": "顾客朋友们，为了感谢大家的支持，我们书店今天举行“购书送好礼”活动，购书满100元送一个笔记本，满200元送一本词典。", "pinyin": "Gùkè péngyoumen, wèile gǎnxiè dàjiā de zhīchí, wǒmen shūdiàn jīntiān jǔxíng “Gòu shū sòng hǎo lǐ” huódòng, gòu shū mǎn yìbǎi yuán sòng yí ge bǐjìběn, mǎn èrbǎi yuán sòng yì běn cídiǎn.", "vietnamese": "Kính thưa quý khách hàng, để cảm ơn sự ủng hộ của mọi người, hiệu sách chúng tôi hôm nay tổ chức hoạt động “Mua sách tặng quà hay”, mua sách đủ 100 tệ tặng một quyển sổ tay, đủ 200 tệ tặng một quyển từ điển." },
+        { "speaker": "", "chinese": "另外，一些图书还有打折活动，其中，小说7.5折，地图8折，留学考试用书6折。如果购书满500元可免费办会员卡，以后购书可打8折。今天过生日的朋友和所有的小朋友还可以获得一份小礼物。欢迎大家选购！", "pinyin": "Lìngwài, yìxiē túshū hái yǒu dǎ zhé huódòng, qízhōng, xiǎoshuō qīwǔ zhé, dìtú bā zhé, liúxué kǎoshì yòngshū liù zhé. Rúguǒ gòu shū mǎn wǔbǎi yuán kě miǎn fèi bàn huìyuánkǎ, yǐhòu gòu shū kě dǎ bā zhé. Jīntiān guò shēngrì de péngyou hé suǒyǒu de xiǎopéngyou hái kěyǐ huòdé yí fèn xiǎo lǐwù. Huānyíng dàjiā xuǎngòu!", "vietnamese": "Ngoài ra, một số đầu sách còn có chương trình giảm giá, trong đó tiểu thuyết giảm còn 75% (7.5折), bản đồ còn 80% (8折), sách luyện thi du học còn 60% (6折). Nếu mua sách đủ 500 tệ có thể làm thẻ hội viên miễn phí, sau này mua sách được giảm còn 80%. Những khách có sinh nhật hôm nay và tất cả các bạn nhỏ còn nhận được một phần quà nhỏ. Hoan nghênh mọi người chọn mua!" }
+      ]
+    },
+    {
+      "id": "t5", "title_zh": "“一分钱一分货”", "title_vi": "“Tiền nào của nấy”",
+      "lines": [
+        { "speaker": "", "chinese": "人们常说“一分钱一分货”，意思是东西的质量和价格有很大的关系，也可以说“便宜没好货，好货不便宜”，一般情况下，你花的钱越多，买的东西也就越好。", "pinyin": "Rénmen cháng shuō “yì fēn qián yì fēn huò”, yìsi shì dōngxi de zhìliàng hé jiàgé yǒu hěn dà de guānxi, yě kěyǐ shuō “piányi méi hǎo huò, hǎo huò bù piányi”, yìbān qíngkuàng xia, nǐ huā de qián yuè duō, mǎi de dōngxi yě jiù yuè hǎo.", "vietnamese": "Người ta thường nói “tiền nào của nấy”, ý là chất lượng và giá cả của đồ vật có mối quan hệ rất lớn, cũng có thể nói “của rẻ là của ôi, hàng tốt thì không rẻ”, trong trường hợp bình thường, bạn bỏ càng nhiều tiền thì đồ mua được cũng càng tốt." },
+        { "speaker": "", "chinese": "其实也不一定都是这样的。有的时候，质量很好的东西也会很便宜。例如，春天来了，冬天的衣服就会打折，质量很好，还很便宜，花很少的钱就可以买到。一到节日，商场也会举办各种各样的活动，降低价格，这个时候我们也可以买到又便宜又好的东西。", "pinyin": "Qíshí yě bù yídìng dōu shì zhèyàng de. Yǒu de shíhou, zhìliàng hěn hǎo de dōngxi yě huì hěn piányi. Lìrú, chūntiān lái le, dōngtiān de yīfu jiù huì dǎ zhé, zhìliàng hěn hǎo, hái hěn piányi, huā hěn shǎo de qián jiù kěyǐ mǎidào. Yí dào jiérì, shāngchǎng yě huì jǔbàn gè zhǒng gè yàng de huódòng, jiàngdī jiàgé, zhège shíhou wǒmen yě kěyǐ mǎidào yòu piányi yòu hǎo de dōngxi.", "vietnamese": "Thật ra cũng không nhất định lúc nào cũng như vậy. Đôi khi đồ chất lượng rất tốt cũng sẽ rất rẻ. Ví dụ, mùa xuân đến thì quần áo mùa đông sẽ giảm giá, chất lượng rất tốt mà lại rẻ, bỏ rất ít tiền là mua được. Cứ đến ngày lễ, trung tâm thương mại cũng tổ chức đủ loại hoạt động, hạ giá bán, lúc này chúng ta cũng có thể mua được đồ vừa rẻ vừa tốt." }
+      ]
+    }
+  ],
+  "reading_questions": [
+    { "question_zh": "昨天晚上李进为什么没接张远的电话？李进夫妻俩都买什么了？", "question_vi": "Vì sao tối qua Lý Tiến không nghe điện thoại của Trương Viễn? Hai vợ chồng Lý Tiến đã mua những gì?", "answer_zh": "因为李进陪妻子去买果汁，把手机忘在家里了。他们买了一条裤子、一件衬衫和两双袜子，却竟然忘了买果汁。", "answer_vi": "Vì Lý Tiến đi cùng vợ mua nước trái cây và để quên điện thoại ở nhà. Họ mua một chiếc quần, một áo sơ mi và hai đôi tất, nhưng lại quên mua nước trái cây." },
+    { "question_zh": "昨天西红柿多少钱一斤？今天呢？王静买的西红柿怎么样？", "question_vi": "Hôm qua cà chua bao nhiêu tiền một cân? Hôm nay thì sao? Cà chua Vương Tịnh mua như thế nào?", "answer_zh": "昨天三块五一斤，今天七块钱一斤（是昨天的两倍）。她买的是“绿色”的新鲜西红柿，对皮肤有好处。", "answer_vi": "Hôm qua 3,5 tệ một cân, hôm nay 7 tệ một cân (gấp đôi hôm qua). Loại cô mua là cà chua hữu cơ (“xanh”) tươi ngon, rất tốt cho da." },
+    { "question_zh": "李进想买什么样的行李箱？花了多少钱买的？这个店的售后服务怎么样？", "question_vi": "Lý Tiến muốn mua vali loại nào? Tốn bao nhiêu tiền? Dịch vụ hậu mãi của cửa hàng thế nào?", "answer_zh": "他想买一个轻一点儿的，打完折花了999元。售后服务很好，一年内负责免费修理。", "answer_vi": "Anh muốn mua chiếc nhẹ một chút, giảm giá xong còn 999 tệ. Dịch vụ hậu mãi rất tốt, sửa chữa miễn phí trong vòng một năm." },
+    { "question_zh": "书店今天有什么活动？怎么才能免费办会员卡？", "question_vi": "Hiệu sách hôm nay có hoạt động gì? Làm thế nào để được làm thẻ hội viên miễn phí?", "answer_zh": "举行“购书送好礼”和打折活动：满100送笔记本，满200送词典；小说7.5折、地图8折、留学考试用书6折；过生日的朋友和小朋友可得小礼物。购书满500元即可免费办会员卡。", "answer_vi": "Có chương trình “Mua sách tặng quà hay” và giảm giá sách (đủ 100 tệ tặng sổ, đủ 200 tệ tặng từ điển; tiểu thuyết 7.5折, bản đồ 8折, sách thi du học 6折; khách sinh nhật và trẻ em nhận quà nhỏ). Mua đủ 500 tệ được làm thẻ hội viên miễn phí." },
+    { "question_zh": "“一分钱一分货”是什么意思？一般什么时候商场会降价？", "question_vi": "“Tiền nào của nấy” nghĩa là gì? Thông thường khi nào trung tâm thương mại sẽ hạ giá?", "answer_zh": "意思是东西的质量和价格有很大关系，一般情况下花钱越多，东西越好。一般在换季（如春天卖冬衣）或到节日时，商场会举办活动降低价格。", "answer_vi": "Nghĩa là chất lượng và giá cả có quan hệ mật thiết, thường bỏ càng nhiều tiền hàng càng tốt. Trung tâm thương mại hay giảm giá khi chuyển mùa (xuân bán đồ đông) hoặc vào các dịp lễ." }
+  ],
+  "exercises": [
+    {
+      "id": "h4s6_ex1", "type": "meaning_mc", "level": "Nhận biết", "origin_tag": "Bài 6 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Trong bài khóa 6, phó từ “竟然” (jìngrán) diễn tả sắc thái nào?",
+      "options": ["Không ngờ, vậy mà (nằm ngoài dự đoán)", "Quả nhiên (đúng như dự đoán)", "Nhân tiện, tiện thể", "Nhất định, chắc chắn"],
+      "answer": "Không ngờ, vậy mà (nằm ngoài dự đoán)",
+      "explanation": "竟然 (phó từ) đứng trước động từ/tính từ để diễn tả sự việc xảy ra hoàn toàn bất ngờ, nằm ngoài dự liệu.",
+      "review_tip": "Ôn Chú thích 1 (#5 竟然) và phân biệt với 果然."
+    },
+    {
+      "id": "h4s6_ex2", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.83", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ thích hợp điền vào chỗ trống: “喂，孙阿姨吗？我是小周。不好意思这么晚______您。”",
+      "options": ["打扰", "支持", "修理", "获得"],
+      "answer": "打扰",
+      "explanation": "不好意思这么晚打扰您 = Xin lỗi muộn thế này còn làm phiền cô.",
+      "review_tip": "Ôn động từ #4 打扰."
+    },
+    {
+      "id": "h4s6_ex3", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.83", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ thích hợp điền vào chỗ trống: “今天购物______四百元的顾客可以免费获得一份小礼物。”",
+      "options": ["满", "倍", "内", "各"],
+      "answer": "满",
+      "explanation": "满 + mức tiền (购物满四百元) nghĩa là mua sắm đạt đủ mức 400 tệ.",
+      "review_tip": "Ôn động từ #21 满."
+    },
+    {
+      "id": "h4s6_ex4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "比一比 tr.79", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ ĐÚNG cho câu: “这瓶葡萄酒______一千块。”",
+      "options": ["值", "值得", "Cả 值得 và 值 đều đúng", "Không từ nào đúng"],
+      "answer": "值",
+      "explanation": "Phía sau chỗ trống là SỐ TIỀN trực tiếp ('一千块'). Theo quy tắc 比一比 tr.79: biểu thị hàng hóa đáng giá bao nhiêu tiền thì chỉ dùng 值 + số tiền, KHÔNG dùng 值得.",
+      "review_tip": "Xem lại 2 điểm khác biệt của cặp 值得—值 ở tab Ngữ pháp."
+    },
+    {
+      "id": "h4s6_ex5", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "比一比 tr.79", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ ĐÚNG cho câu: “一件毛衣不______花两千块。”",
+      "options": ["值得", "值", "应该", "竟然"],
+      "answer": "值得",
+      "explanation": "Phía sau chỗ trống là cụm ĐỘNG TỪ '花两千块' (tiêu hai nghìn tệ), vì vậy dùng 值得 (không dùng 值 vì 值 không mang cụm động từ phía sau).",
+      "review_tip": "Ôn quy tắc 值得 + cụm động từ (值得买 / 不值得花两千块)."
+    },
+    {
+      "id": "h4s6_ex6", "type": "context_mc", "level": "Phân biệt", "origin_tag": "同字词 tr.84", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ nhóm đồng tự '其' phù hợp: “大学毕业前找工作时，首先，要知道自己想干什么；______，还要知道自己能干什么。”",
+      "options": ["其次", "其中", "其实", "尤其"],
+      "answer": "其次",
+      "explanation": "Cặp kết nối trình tự kinh điển: 首先……，其次…… (Thứ nhất..., thứ hai...).",
+      "review_tip": "Ôn 5 từ nhóm đồng tự 其 (tr.83–84): 其次 / 其中 / 其实 / 其他 / 尤其."
+    },
+    {
+      "id": "h4s6_ex7", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Ôn tập (30% Bài 1–5)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn câu ĐÚNG ngữ pháp khi sử dụng cấu trúc “(在)……下” và “(在)……上”:",
+      "options": [
+        "在老师和同学们的帮助下，他的汉语提高得非常快。",
+        "在帮助下，他的汉语提高得非常快。",
+        "在老师和同学们的帮助上，他的汉语提高得非常快。",
+        "一般情况上，你花的钱越多，买的东西就越好。"
+      ],
+      "answer": "在老师和同学们的帮助下，他的汉语提高得非常快。",
+      "explanation": "Cấu trúc (在)……下 cần có định ngữ bổ nghĩa trước danh/động từ hai âm tiết (老师和同学们的帮助 + 下); '一般情况' cũng đi với 下 (一般情况下), không đi với 上.",
+      "review_tip": "Ôn Chú thích 5 Bài 6 ((在)……下) và so sánh với Chú thích 5 Bài 1 ((在)……上)."
+    },
+    {
+      "id": "h4s6_ex8", "type": "reorder", "level": "Vận dụng", "origin_tag": "Bài 6 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Sắp xếp các từ sau thành câu hoàn chỉnh đúng ngữ pháp:",
+      "tokens": ["今天的", "昨天的", "价格", "是", "两倍。"],
+      "answer": "今天的价格是昨天的两倍。",
+      "explanation": "Cấu trúc bội số: A (今天的价格) + 是 + B (昨天的) + Số lượng + 倍 (两倍).",
+      "review_tip": "Ôn Chú thích 2 về lượng từ độc lập 倍."
+    },
+    {
+      "id": "h4s6_ex9", "type": "error_fix", "level": "Vận dụng", "origin_tag": "Ôn lỗi dễ mắc (30%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Tìm lỗi sai và chọn cách sửa ĐÚNG cho câu: “这个商店的商品降低了人数，而且所有东西都打折。”",
+      "options": [
+        "Không dùng '降低' với '人数' (số người); giảm số lượng phải dùng '减少' (如: 减少了成本 / 降低了价格).",
+        "Sửa '所有' thành '一切'",
+        "Sửa '打折' thành '折扣'",
+        "Câu trên hoàn toàn đúng"
+      ],
+      "answer": "Không dùng '降低' với '人数' (số người); giảm số lượng phải dùng '减少' (如: 减少了成本 / 降低了价格).",
+      "explanation": "降低 dùng cho mức độ cao-thấp (价格、温度、标准); còn số lượng đếm được như 人数 phải dùng 减少.",
+      "review_tip": "Ôn cách kết hợp của #31 降低 vs 减少."
+    },
+    {
+      "id": "h4s6_ex10", "type": "reading_mc", "level": "Phân biệt", "origin_tag": "Bài khóa 4", "mistake_category": "Đọc hiểu",
+      "passage": "我们书店今天举行“购书送好礼”活动，购书满100元送一个笔记本，满200元送一本词典。另外，一些图书还有打折活动，其中，小说7.5折，地图8折，留学考试用书6折。如果购书满500元可免费办会员卡，以后购书可打8折。",
+      "prompt": "Theo thông báo trên, loại sách nào được giảm giá nhiều nhất hôm nay?",
+      "options": [
+        "Sách luyện thi du học (6折 – giảm 40%)",
+        "Tiểu thuyết (7.5折 – giảm 25%)",
+        "Bản đồ (8折 – giảm 20%)",
+        "Từ điển (tặng kèm khi mua đủ 100 tệ)"
+      ],
+      "answer": "Sách luyện thi du học (6折 – giảm 40%)",
+      "explanation": "6折 là trả 60% giá gốc (giảm 40%), rẻ nhất so với 7.5折 (giảm 25%) và 8折 (giảm 20%).",
+      "review_tip": "Ôn lại cách tính 折 (Bài 5) kết hợp đọc hiểu Bài khóa 4 Bài 6."
+    },
+    {
+      "id": "h4s6_ex11", "type": "translate_zh_vi", "level": "Vận dụng", "origin_tag": "Dịch Trung – Việt", "mistake_category": "Dịch thuật",
+      "prompt": "Dịch sang tiếng Việt: “不管从价格方面看，还是从质量上看，都是值得考虑的。”",
+      "hint": "Chú ý cặp liên từ 不管……还是…… và động từ 值得.",
+      "keywords": ["bất kể", "đáng"],
+      "answer": "Bất kể xét từ phương diện giá cả hay xét về mặt chất lượng, thì đều rất đáng để cân nhắc.",
+      "explanation": "不管……还是…… = bất kể... hay là...; 从……方面看 = nhìn từ phương diện...; 值得考虑 = đáng cân nhắc.",
+      "review_tip": "Ôn từ #13 方面, #14 值得 và mẫu câu 不管……还是……."
+    }
+  ]
+}

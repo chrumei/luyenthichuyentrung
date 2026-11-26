@@ -1,0 +1,1108 @@
+{
+  "id": "hsk4xia_l18",
+  "book_id": "hsk4xia",
+  "textbook": "HSK 4 下",
+  "lesson_number": 18,
+  "title_zh": "科技与世界",
+  "title_vi": "Khoa học kỹ thuật và thế giới",
+  "pdf_pages": "Trang 109–120 (Chuẩn HSK4 下.pdf)",
+  "source_status": "verified_textbook",
+  "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"],
+  "vocabulary": [
+    {
+      "id": "hsk4x_l18_w01", "order": 1, "textbook": "HSK 4 下", "lesson": 18,
+      "hanzi": "降落", "pinyin": "jiàngluò",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "đáp xuống, hạ cánh",
+        "structure": "飞机降落 / 降落在 + Địa điểm",
+        "explanation": "Chỉ máy bay hoặc vật thể từ trên không hạ xuống mặt đất (trái nghĩa: 起飞 - cất cánh).",
+        "examples": [
+          { "chinese": "上次女儿问我飞机是怎么起飞和降落的，真不知道该怎么回答她。", "pinyin": "Shàng cì nǚ'ér wèn wǒ fēijī shì zěnme qǐfēi hé jiàngluò de, zhēn bù zhīdào gāi zěnme huídá tā.", "vietnamese": "Lần trước con gái hỏi mình máy bay cất cánh và hạ cánh như thế nào, thật không biết phải trả lời con bé ra sao.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "落下；飞机等从空中落到地面。",
+      "collocations": ["起飞和降落", "安全降落", "降落在机场"],
+      "usage_note": "Cặp từ trái nghĩa thường đi cùng nhau: 起飞 (cất cánh) — 降落 (hạ cánh).",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l18_w02", "order": 2, "textbook": "HSK 4 下", "lesson": 18,
+      "hanzi": "火", "pinyin": "huǒ",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)",
+        "meaning": "chạy, đắt, được nhiều người ưa chuộng",
+        "structure": "卖得非常火 / 很火 / 火起来",
+        "explanation": "Trong bài khóa 1, dùng như tính từ khẩu ngữ chỉ sản phẩm, sách, phim hoặc người đang cực kỳ nổi tiếng, bán chạy, thịnh hành.",
+        "examples": [
+          { "chinese": "有一本书叫《新十万个为什么》，现在卖得非常火。", "pinyin": "Yǒu yì běn shū jiào 《Xīn Shíwàn Ge Wèi Shénme》, xiànzài mài de fēicháng huǒ.", "vietnamese": "Có một quyển sách tên là “Mười vạn câu hỏi vì sao mới”, hiện nay bán cực kỳ chạy.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ - nghĩa gốc)",
+          "meanings": ["lửa, ngọn lửa", "cơn giận, nóng trong người"],
+          "structure": "生火 / 着火 / 发火 / 上火",
+          "difference_note": "Nghĩa gốc chỉ lửa (着火 cháy, 火车 tàu hỏa); nghĩa mở rộng chỉ sự tức giận (发火 nổi cáu) hoặc nóng trong người theo Đông y (上火).",
+          "examples": [
+            { "chinese": "你别发火，有话好好说。", "pinyin": "Nǐ bié fāhuǒ, yǒu huà hǎohāo shuō.", "vietnamese": "Cậu đừng nổi nóng, có chuyện gì từ từ nói." }
+          ]
+        }
+      ],
+      "chinese_explanation": "形容词，指兴旺、流行、受欢迎；名词本义指物体燃烧时发出的光和焰，也指怒气。",
+      "collocations": ["卖得非常火", "很火的电影", "发火", "着火"],
+      "usage_note": "Ở HSK 4, nghĩa tính từ 'hot/bán chạy' (很火, 卖得火) rất hay xuất hiện trong đề thi.",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l18_w03", "order": 3, "textbook": "HSK 4 下", "lesson": 18,
+      "hanzi": "作者", "pinyin": "zuòzhě",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "tác giả",
+        "structure": "作者是谁 / 这本书的作者",
+        "explanation": "Người viết bài văn, sách hoặc sáng tác tác phẩm nghệ thuật.",
+        "examples": [
+          { "chinese": "难道它和我们小时候看的《十万个为什么》不一样吗？作者是谁啊？", "pinyin": "Nándào tā hé wǒmen xiǎoshíhou kàn de 《Shíwàn Ge Wèi Shénme》 bù yíyàng ma? Zuòzhě shì shéi a?", "vietnamese": "Chẳng lẽ nó khác với cuốn “Mười vạn câu hỏi vì sao” hồi nhỏ tụi mình đọc sao? Tác giả là ai vậy?", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "文章、书籍或艺术作品的创作者。",
+      "collocations": ["本书作者", "著名作者", "作者的名字"],
+      "usage_note": "Phân biệt với 作家 (nhà văn chuyên nghiệp); 作者 dùng chung cho bất kỳ ai viết một bài viết, cuốn sách hay tác phẩm cụ thể.",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l18_w04", "order": 4, "textbook": "HSK 4 下", "lesson": 18,
+      "hanzi": "交通", "pinyin": "jiāotōng",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "giao thông, thông tin liên lạc",
+        "structure": "交通方便 / 交通工具 / 交通安全",
+        "explanation": "Chỉ hoạt động đi lại, vận tải hành khách hàng hóa hoặc liên lạc giữa các nơi.",
+        "examples": [
+          { "chinese": "《新十万个为什么》的内容更新，介绍了各种科学知识，包括地球、动物、植物、交通、科学技术、社会和文化等很多方面。", "pinyin": "《Xīn Shíwàn Ge Wèi Shénme》 de nèiróng gèng xīn, jièshào le gè zhǒng kēxué zhīshi, bāokuò dìqiú, dòngwù, zhíwù, jiāotōng, kēxué jìshù, shèhuì hé wénhuà děng hěn duō fāngmiàn.", "vietnamese": "Nội dung cuốn “Mười vạn câu hỏi vì sao mới” cập nhật hơn, giới thiệu đủ loại kiến thức khoa học, bao gồm Trái Đất, động vật, thực vật, giao thông, khoa học kỹ thuật, xã hội và văn hóa cùng nhiều phương diện khác.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "各种运输和邮电事业的总称，常指往来通达的运输情况。",
+      "collocations": ["交通方便", "交通工具", "公共交通", "交通安全"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l18_w05", "order": 5, "textbook": "HSK 4 下", "lesson": 18,
+      "hanzi": "技术", "pinyin": "jìshù",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "kỹ thuật, công nghệ",
+        "structure": "科学技术 / 互联网技术 / 技术的发展",
+        "explanation": "Trong bài khóa 1, 2, 5, chỉ tri thức khoa học ứng dụng, công nghệ hiện đại.",
+        "examples": [
+          { "chinese": "电脑和互联网技术的发展使学生们的学习方式发生了很多变化。", "pinyin": "Diànnǎo hé hùliánwǎng jìshù de fāzhǎn shǐ xuéshengmen de xuéxí fāngshì fāshēng le hěn duō biànhuà.", "vietnamese": "Sự phát triển của máy tính và công nghệ Internet đã khiến phương thức học tập của học sinh có nhiều thay đổi.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Nghĩa: tay nghề, kỹ năng chuyên môn)",
+          "meanings": ["tay nghề, kỹ thuật thao tác cá nhân"],
+          "structure": "理发师技术不错 / 开车技术很好",
+          "difference_note": "Như câu 7 bài tập tr.119, dùng để khen kỹ năng/tay nghề thành thạo của người làm nghề (thợ cắt tóc, lái xe, vận động viên).",
+          "examples": [
+            { "chinese": "对面那条街上新开了一家理发店，听说那儿的理发师技术还不错。", "pinyin": "Duìmiàn nà tiáo jiē shang xīn kāi le yì jiā lǐfàdiàn, tīngshuō nàr de lǐfàshī jìshù hái búcuò.", "vietnamese": "Bên con phố đối diện mới mở một tiệm cắt tóc, nghe nói tay nghề thợ cắt tóc ở đó khá ổn." }
+          ]
+        }
+      ],
+      "chinese_explanation": "人类在利用自然和改造自然过程中积累起来的生产经验与工艺知识；也指个人的操作技巧与手艺。",
+      "collocations": ["科学技术", "互联网技术", "技术水平", "开车技术"],
+      "usage_note": "科学技术 thường gọi tắt là 科技 (như tựa đề bài 18: 科技与世界).",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l18_w06", "order": 6, "textbook": "HSK 4 下", "lesson": 18,
+      "hanzi": "是否", "pinyin": "shìfǒu",
+      "lesson_usage": {
+        "part_of_speech": "副词 (Phó từ)",
+        "meaning": "hay không",
+        "structure": "S + 是否 + V / Adj (thường dùng trong văn viết)",
+        "explanation": "Phó từ văn viết tương đương 是不是 (có phải... không / ...hay không).",
+        "examples": [
+          { "chinese": "不过她这么小，我不知道她是否能读懂。", "pinyin": "Búguò tā zhème xiǎo, wǒ bù zhīdào tā shìfǒu néng dúdǒng.", "vietnamese": "Nhưng con bé còn nhỏ thế này, mình không biết nó có thể đọc hiểu hay không.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "副词 (Trong câu hỏi/tường thuật đứng trước vị ngữ tính từ hoặc làm chủ ngữ mệnh đề)",
+          "meanings": ["có... hay không (trong mệnh đề chủ ngữ/tân ngữ)"],
+          "structure": "……是否…… + 跟……没有关系 / 很重要",
+          "difference_note": "Như ví dụ 2 chú thích 1 tr.112, cụm 'S + 是否 + V/Adj' có thể làm chủ ngữ cho cả câu dài trong văn nghị luận.",
+          "examples": [
+            { "chinese": "实际上，婚姻是否幸福跟这个没有关系。", "pinyin": "Shíjì shang, hūnyīn shìfǒu xìngfú gēn zhège méiyǒu guānxi.", "vietnamese": "Trên thực tế, hôn nhân có hạnh phúc hay không chẳng liên quan gì đến điều này." }
+          ]
+        }
+      ],
+      "chinese_explanation": "副词，表示“是不是”，一般用于书面语。",
+      "collocations": ["是否能", "是否喜欢", "是否同意", "无论是否"],
+      "usage_note": "Không dùng đồng thời 是否 và trợ từ nghi vấn 吗 trong cùng một câu hỏi (Sai: '你是否去吗？').",
+      "common_errors": "Sai: '我不知道他是否来不来' → Đúng: '我不知道他是否来' (vì 否 bản thân đã mang nghĩa phủ định).",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l18_w07", "order": 7, "textbook": "HSK 4 下", "lesson": 18,
+      "hanzi": "秒", "pinyin": "miǎo",
+      "lesson_usage": {
+        "part_of_speech": "量词 (Lượng từ)",
+        "meaning": "giây",
+        "structure": "几秒钟 / 一秒 / 一分十秒",
+        "explanation": "Đơn vị đo thời gian (1 phút = 60 giây).",
+        "examples": [
+          { "chinese": "几秒钟就把问题解决了，这比我们上学的时候方便多了。", "pinyin": "Jǐ miǎo zhōng jiù bǎ wèntí jiějué le, zhè bǐ wǒmen shàng xué de shíhou fāngbiàn duō le.", "vietnamese": "Mấy giây là giải quyết xong vấn đề rồi, tiện hơn hồi tụi mình đi học nhiều.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "时间单位，一分钟的六十分之一。",
+      "collocations": ["几秒钟", "每一秒", "争分夺秒"],
+      "usage_note": "Lưu ý: Không thêm 个 trước 秒 (nói 几秒 hoặc 几秒钟, không nói 几个秒).",
+      "common_errors": "Sai: '三个秒' → Đúng: '三秒 / 三秒钟'.",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l18_w08", "order": 8, "textbook": "HSK 4 下", "lesson": 18,
+      "hanzi": "方式", "pinyin": "fāngshì",
+      "is_out_of_syllabus": true,
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "phương thức, cách thức",
+        "structure": "学习方式 / 生活方式 / 联系方式",
+        "explanation": "Cách thức, kiểu dáng tiến hành một hoạt động hoặc lối sống, học tập (từ ngoài đề cương HSK 4 có dấu *).",
+        "examples": [
+          { "chinese": "不仅是学习方式，而且连生活方式也发生了很大改变。", "pinyin": "Bùjǐn shì xuéxí fāngshì, érqiě lián shēnghuó fāngshì yě fāshēng le hěn dà gǎibiàn.", "vietnamese": "Không chỉ phương thức học tập, mà ngay cả lối sống cũng có sự thay đổi rất lớn.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "说话做事所采取的方法和形式。",
+      "collocations": ["生活方式", "学习方式", "联系方式", "付款方式"],
+      "usage_note": "Phân biệt với 方法: 方法 thiên về cách làm cụ thể giải quyết vấn đề; 方式 nhấn mạnh hình thức, phong cách tổng thể (生活方式, 思维方式).",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l18_w09", "order": 9, "textbook": "HSK 4 下", "lesson": 18,
+      "hanzi": "受不了", "pinyin": "shòubuliǎo",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ / Kết cấu khả năng)",
+        "meaning": "chịu không nổi, chịu không được",
+        "structure": "S + (实在/真)受不了 (+ Danh từ / Cụm danh từ)",
+        "explanation": "Biểu thị không thể chịu đựng nổi đau đớn, áp lực, thời tiết, thái độ, tính khí... Dạng khẳng định là 受得了 (shòudeliǎo).",
+        "examples": [
+          { "chinese": "不过天天对着电脑看，眼睛实在受不了。", "pinyin": "Búguò tiāntiān duìzhe diànnǎo kàn, yǎnjing shízài shòubuliǎo.", "vietnamese": "Nhưng ngày nào cũng nhìn chằm chằm vào máy tính, mắt thật sự chịu không nổi.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "不能忍受（疼痛、痛苦、压力、态度、脾气、天气等）。",
+      "collocations": ["实在受不了", "真受不了", "受不了这种天气", "受得了"],
+      "usage_note": "Có thể đứng cuối câu làm vị ngữ hoặc mang tân ngữ phía sau (受不了你了, 受不了这样的老师).",
+      "common_errors": "Chữ 了 ở đây đọc là liǎo (chứ không phải le).",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l18_w10", "order": 10, "textbook": "HSK 4 下", "lesson": 18,
+      "hanzi": "日记", "pinyin": "rìjì",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "nhật ký",
+        "structure": "写日记 / 一篇日记 / 日记本",
+        "explanation": "Ghi chép lại những sự việc, cảm nghĩ hằng ngày.",
+        "examples": [
+          { "chinese": "现在越来越多的学生喜欢在网上写日记，他们说这样可以让朋友及时了解自己的生活。", "pinyin": "Xiànzài yuè lái yuè duō de xuésheng xǐhuan zài wǎngshang xiě rìjì, tāmen shuō zhèyàng kěyǐ ràng péngyou jíshí liǎojiě zìjǐ de shēnghuó.", "vietnamese": "Hiện nay ngày càng nhiều học sinh thích viết nhật ký trên mạng, các em nói như vậy có thể giúp bạn bè kịp thời hiểu cuộc sống của mình.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "每天所遇到的和所做的事情的记录。",
+      "collocations": ["写日记", "一篇日记", "日记本"],
+      "usage_note": "Lượng từ cho một bài nhật ký là 篇 (yì piān rìjì), cho cuốn sổ nhật ký là 本 (yì běn rìjìběn).",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l18_w11", "order": 11, "textbook": "HSK 4 下", "lesson": 18,
+      "hanzi": "安全", "pinyin": "ānquán",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)",
+        "meaning": "an toàn",
+        "structure": "很安全 / 不安全 / 安全降落",
+        "explanation": "Không có nguy hiểm, không bị đe dọa hoặc xảy ra sự cố (trái nghĩa: 危险).",
+        "examples": [
+          { "chinese": "但是如果别人都能看到我的日记的话，多不安全啊！", "pinyin": "Dànshì rúguǒ biérén dōu néng kàndào wǒ de rìjì de huà, duō bù ānquán a!", "vietnamese": "Nhưng nếu người khác đều có thể xem nhật ký của tôi thì mất an toàn biết bao!", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ)",
+          "meanings": ["sự an toàn"],
+          "structure": "注意安全 / 保证……的安全 / 交通安全",
+          "difference_note": "Làm tân ngữ cho động từ 注意, 保证, 保护... khi chỉ khái niệm sự an toàn.",
+          "examples": [
+            { "chinese": "外出旅游时一定要注意安全。", "pinyin": "Wàichū lǚyóu shí yídìng yào zhùyì ānquán.", "vietnamese": "Khi đi du lịch bên ngoài nhất định phải chú ý an toàn." }
+          ]
+        }
+      ],
+      "chinese_explanation": "没有危险；不受威胁；不出事故。",
+      "collocations": ["注意安全", "不安全", "安全感", "安全带"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l18_w12", "order": 12, "textbook": "HSK 4 下", "lesson": 18,
+      "hanzi": "密码", "pinyin": "mìmǎ",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "mật mã, mật khẩu",
+        "structure": "加密码 / 银行卡密码 / 忘记密码",
+        "explanation": "Chuỗi ký tự hoặc con số bí mật dùng để khóa, bảo mật tài khoản, thẻ ngân hàng, nhật ký điện tử.",
+        "examples": [
+          { "chinese": "放心吧，可以给网上的日记加密码，那样只有得到了允许，别人才能看到。", "pinyin": "Fàng xīn ba, kěyǐ gěi wǎngshang de rìjì jiā mìmǎ, nàyàng zhǐyǒu dédàole yǔnxǔ, biérén cái néng kàndào.", "vietnamese": "Yên tâm đi, có thể đặt mật khẩu cho nhật ký trên mạng, như thế chỉ khi được cho phép người khác mới xem được.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "按特定法则编成、用以对通信信息进行明密变换的符号，现常指登录账户或银行卡的口令。",
+      "collocations": ["加密码", "设置密码", "输入密码", "银行卡密码"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l18_w13", "order": 13, "textbook": "HSK 4 下", "lesson": 18,
+      "hanzi": "允许", "pinyin": "yǔnxǔ",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "cho phép",
+        "structure": "允许 + Ai + Làm gì / 得到允许",
+        "explanation": "Đồng ý, chấp thuận cho phép làm việc gì đó.",
+        "examples": [
+          { "chinese": "那样只有得到了允许，别人才能看到。", "pinyin": "Nàyàng zhǐyǒu dédàole yǔnxǔ, biérén cái néng kàndào.", "vietnamese": "Như vậy chỉ khi nhận được sự cho phép thì người khác mới có thể xem được.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Chuyển làm tân ngữ mang tính danh từ)",
+          "meanings": ["sự cho phép"],
+          "structure": "得到(了)允许 / 经过……的允许",
+          "difference_note": "Ngay trong bài khóa 2, 允许 đứng sau 得到 để mang tính danh từ hóa ('nhận được sự cho phép').",
+          "examples": [
+            { "chinese": "图书馆里不允许大声说话。", "pinyin": "Túshūguǎn li bù yǔnxǔ dàshēng shuōhuà.", "vietnamese": "Trong thư viện không cho phép nói chuyện lớn tiếng." }
+          ]
+        }
+      ],
+      "chinese_explanation": "许可，同意别人做某事。",
+      "collocations": ["得到允许", "不允许", "允许进入", "条件允许"],
+      "usage_note": "Trang trọng hơn 让; thường dùng trong quy định, nội quy (不允许吸烟).",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l18_w14", "order": 14, "textbook": "HSK 4 下", "lesson": 18,
+      "hanzi": "座", "pinyin": "zuò",
+      "lesson_usage": {
+        "part_of_speech": "量词 (Lượng từ)",
+        "meaning": "(được dùng cho cây cầu, núi, cao ốc...) tòa, hòn, cây",
+        "structure": "一座桥 / 一座山 / 一座城市 / 一座大楼",
+        "explanation": "Lượng từ dùng cho những vật thể lớn và cố định như núi, cầu, tòa nhà, thành phố.",
+        "examples": [
+          { "chinese": "梦到自己正在一座桥上走，走着走着，突然开过来一辆车，非常危险。", "pinyin": "Mèngdào zìjǐ zhèngzài yí zuò qiáo shang zǒu, zǒuzhe zǒuzhe, tūrán kāi guolai yí liàng chē, fēicháng wēixiǎn.", "vietnamese": "Mơ thấy mình đang đi trên một cây cầu, đang đi thì đột nhiên có một chiếc xe lao tới, vô cùng nguy hiểm.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ)",
+          "meanings": ["chỗ ngồi, ghế ngồi", "chòm sao (星座)"],
+          "structure": "让座 / 满座 / 座位",
+          "difference_note": "Khi là danh từ có nghĩa là chỗ ngồi (khác với lượng từ 座 cho núi, cầu, tòa nhà).",
+          "examples": [
+            { "chinese": "在公交车上应该给老人让座。", "pinyin": "Zài gōngjiāochē shang yīnggāi gěi lǎorén ràngzuò.", "vietnamese": "Trên xe buýt nên nhường ghế cho người lớn tuổi." }
+          ]
+        }
+      ],
+      "chinese_explanation": "量词，多用于较大或固定的物体（山、桥、楼、城市等）；作名词指座位。",
+      "collocations": ["一座桥", "一座山", "一座城市", "让座"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l18_w15", "order": 15, "textbook": "HSK 4 下", "lesson": 18,
+      "hanzi": "桥", "pinyin": "qiáo",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "cầu",
+        "structure": "一座桥 / 过桥 / 在桥上",
+        "explanation": "Công trình bắc qua sông, hồ hoặc đường để người và xe cộ qua lại.",
+        "examples": [
+          { "chinese": "梦到自己正在一座桥上走。", "pinyin": "Mèngdào zìjǐ zhèngzài yí zuò qiáo shang zǒu.", "vietnamese": "Mơ thấy mình đang đi trên một cây cầu.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "架在水上或空中便于通行的建筑物。",
+      "collocations": ["一座桥", "大桥", "过桥", "天桥"],
+      "usage_note": "Lượng từ chuẩn là 座 (一座桥).",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l18_w16", "order": 16, "textbook": "HSK 4 下", "lesson": 18,
+      "hanzi": "危险", "pinyin": "wēixiǎn",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)",
+        "meaning": "nguy hiểm",
+        "structure": "非常危险 / 极其危险 / 危险的动作",
+        "explanation": "Có khả năng gây tổn hại, tai nạn (trái nghĩa: 安全).",
+        "examples": [
+          { "chinese": "突然开过来一辆车，非常危险。", "pinyin": "Tūrán kāi guolai yí liàng chē, fēicháng wēixiǎn.", "vietnamese": "Đột nhiên có một chiếc xe chạy tới, vô cùng nguy hiểm.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ)",
+          "meanings": ["mối nguy hiểm, hiểm nguy"],
+          "structure": "遇到危险 / 脱离危险 / 冒着危险",
+          "difference_note": "Làm tân ngữ cho động từ 遇到, 面临, 脱离 khi chỉ tình huống nguy hiểm.",
+          "examples": [
+            { "chinese": "遇到危险的时候一定要保持冷静。", "pinyin": "Yùdào wēixiǎn de shíhou yídìng yào bǎochí lěngjìng.", "vietnamese": "Khi gặp nguy hiểm nhất định phải giữ bình tĩnh." }
+          ]
+        }
+      ],
+      "chinese_explanation": "有遭到损害或失败的可能；名词指危险的境地。",
+      "collocations": ["非常危险", "极其危险", "遇到危险", "脱离危险"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l18_w17", "order": 17, "textbook": "HSK 4 下", "lesson": 18,
+      "hanzi": "接着", "pinyin": "jiēzhe",
+      "lesson_usage": {
+        "part_of_speech": "副词 (Phó từ)",
+        "meaning": "ngay sau đó",
+        "structure": "Vế 1，(S) 接着 + Vế 2",
+        "explanation": "Biểu thị một tình huống khác xảy ra nối tiếp ngay lập tức về mặt thời gian sau tình huống vừa nhắc; có thể có cùng hoặc khác chủ ngữ.",
+        "examples": [
+          { "chinese": "接着又梦见我跳到车上，跟警察一起抓住了一个坏人。", "pinyin": "Jiēzhe yòu mèngjiàn wǒ tiàodào chē shang, gēn jǐngchá yìqǐ zhuāzhùle yí ge huàirén.", "vietnamese": "Ngay sau đó lại mơ thấy mình nhảy lên xe, cùng cảnh sát bắt giữ một tên xấu.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "副词/动词 (Nghĩa: tiếp tục hành động bị ngắt quãng)",
+          "meanings": ["tiếp tục (làm tiếp việc đang dở)", "đang đón/đỡ (động từ 接 + 着)"],
+          "structure": "下节课接着讲 / 你看完我接着看 / 用手接着",
+          "difference_note": "Xem bảng 比一比 '接着—然后': 接着 có thể mang nghĩa 'làm tiếp tục việc trước đó' (khác chủ ngữ hoặc tiếp nối buổi sau), trong khi 然后 không thay thế được ở nghĩa này.",
+          "examples": [
+            { "chinese": "今天的课就到这儿，下节课接着讲这个问题。", "pinyin": "Jīntiān de kè jiù dào zhèr, xià jié kè jiēzhe jiǎng zhège wèntí.", "vietnamese": "Buổi học hôm nay đến đây thôi, tiết sau giảng tiếp vấn đề này." }
+          ]
+        }
+      ],
+      "chinese_explanation": "副词，表示时间上紧跟着发生另一情况，或继续做未完的事；也可是动词“接”加“着”。",
+      "collocations": ["接着说", "接着看", "接着又", "接着讲"],
+      "usage_note": "Xem chi tiết mục 比一比: 接着 — 然后 ở tab Ngữ pháp.",
+      "common_errors": "Sai khi dùng với 先……再…… thay cho 然后 trong kết cấu đối xứng 先……然后…….",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l18_w18", "order": 18, "textbook": "HSK 4 下", "lesson": 18,
+      "hanzi": "警察", "pinyin": "jǐngchá",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "cảnh sát",
+        "structure": "一位警察 / 交通警察",
+        "explanation": "Người thực thi pháp luật, giữ gìn trật tự an ninh xã hội.",
+        "examples": [
+          { "chinese": "跟警察一起抓住了一个坏人。", "pinyin": "Gēn jǐngchá yìqǐ zhuāzhùle yí ge huàirén.", "vietnamese": "Cùng cảnh sát bắt giữ một kẻ xấu.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "国家维持社会秩序和治安的武装力量或人员。",
+      "collocations": ["当警察", "找警察", "交通警察"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l18_w19", "order": 19, "textbook": "HSK 4 下", "lesson": 18,
+      "hanzi": "抓", "pinyin": "zhuā",
+      "is_out_of_syllabus": true,
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "bắt, túm",
+        "structure": "抓住 + Tân ngữ / 抓坏人",
+        "explanation": "Bắt giữ, túm chặt lấy ai hoặc vật gì (từ ngoài đề cương HSK 4 có dấu *).",
+        "examples": [
+          { "chinese": "跟警察一起抓住了一个坏人。", "pinyin": "Gēn jǐngchá yìqǐ zhuāzhùle yí ge huàirén.", "vietnamese": "Cùng cảnh sát bắt giữ một tên xấu.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Nghĩa mở rộng: nắm bắt, tranh thủ)",
+          "meanings": ["nắm bắt (cơ hội), tranh thủ (thời gian)", "gãi (bằng móng tay)"],
+          "structure": "抓住机会 / 抓紧时间",
+          "difference_note": "Dùng cho khái niệm trừu tượng như 机会 (cơ hội), 时间 (thời gian), 重点 (trọng điểm).",
+          "examples": [
+            { "chinese": "机会难得，你一定要抓住这次机会。", "pinyin": "Jīhuì nándé, nǐ yídìng yào zhuāzhù zhè cì jīhuì.", "vietnamese": "Cơ hội hiếm có, bạn nhất định phải nắm bắt lấy lần này." }
+          ]
+        }
+      ],
+      "chinese_explanation": "用手或爪拿取、捉捕；引申为把握、紧握（机会、时间、重点）。",
+      "collocations": ["抓住坏人", "抓住机会", "抓紧时间", "抓重点"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l18_w20", "order": 20, "textbook": "HSK 4 下", "lesson": 18,
+      "hanzi": "咸", "pinyin": "xián",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)",
+        "meaning": "mặn",
+        "structure": "吃得太咸 / 有点儿咸 / 咸菜",
+        "explanation": "Vị của muối ăn (trong nhóm vị giác: 酸 chua, 甜 ngọt, 苦 đắng, 辣 cay, 咸 mặn).",
+        "examples": [
+          { "chinese": "记得有一次，我晚饭吃得太咸，那天晚上就梦见自己到处找商店买矿泉水。", "pinyin": "Jìde yǒu yí cì, wǒ wǎnfàn chī de tài xián, nà tiān wǎnshang jiù mèngjiàn zìjǐ dàochù zhǎo shāngdiàn mǎi kuàngquánshuǐ.", "vietnamese": "Nhớ có một lần bữa tối mình ăn mặn quá, tối hôm đó liền mơ thấy bản thân đi khắp nơi tìm cửa hàng mua nước suối.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "像盐一样的味道。",
+      "collocations": ["太咸了", "有点儿咸", "咸菜", "酸甜苦辣咸"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l18_w21", "order": 21, "textbook": "HSK 4 下", "lesson": 18,
+      "hanzi": "矿泉水", "pinyin": "kuàngquánshuǐ",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "nước suối, nước khoáng",
+        "structure": "一瓶矿泉水 / 买矿泉水",
+        "explanation": "Nước khoáng đóng chai thiên nhiên.",
+        "examples": [
+          { "chinese": "那天晚上就梦见自己到处找商店买矿泉水。", "pinyin": "Nà tiān wǎnshang jiù mèngjiàn zìjǐ dàochù zhǎo shāngdiàn mǎi kuàngquánshuǐ.", "vietnamese": "Tối hôm đó liền mơ thấy mình đi khắp nơi tìm cửa hàng mua nước suối.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "含有矿物质或二氧化碳等的天然泉水，常指瓶装饮用矿泉水。",
+      "collocations": ["一瓶矿泉水", "买矿泉水", "喝矿泉水"],
+      "usage_note": "Lượng từ phổ biến là 瓶 (yì píng kuàngquánshuǐ).",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l18_w22", "order": 22, "textbook": "HSK 4 下", "lesson": 18,
+      "hanzi": "付款", "pinyin": "fù kuǎn",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ ly hợp)",
+        "meaning": "trả tiền, thanh toán",
+        "structure": "付款购物 / 手机付款 / 付了款",
+        "explanation": "Chi trả khoản tiền khi mua hàng hoặc dùng dịch vụ.",
+        "examples": [
+          { "chinese": "除此以外，你还可以用它来听音乐、看电影、阅读、玩儿游戏、付款购物等，这大大方便了人们的生活。", "pinyin": "Chú cǐ yǐwài, nǐ hái kěyǐ yòng tā lái tīng yīnyuè, kàn diànyǐng, yuèdú, wánr yóuxì, fù kuǎn gòuwù děng, zhè dàdà fāngbiànle rénmen de shēnghuó.", "vietnamese": "Ngoài điều này ra, bạn còn có thể dùng nó để nghe nhạc, xem phim, đọc sách, chơi game, thanh toán mua sắm..., điều này giúp cuộc sống mọi người thuận tiện hơn rất nhiều.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "支付钱款。",
+      "collocations": ["付款购物", "网上付款", "付款方式", "手机付款"],
+      "usage_note": "Là động từ ly hợp (fù kuǎn), có thể tách thành 付了款, 付完款; không mang trực tiếp tân ngữ số tiền sau 付款.",
+      "common_errors": "Sai: '付款100元' → Đúng: '付100元' hoặc '用手机付款'.",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l18_w23", "order": 23, "textbook": "HSK 4 下", "lesson": 18,
+      "hanzi": "举", "pinyin": "jǔ",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "nêu, đưa ra",
+        "structure": "举例子 / 举一个例子",
+        "explanation": "Trong bài khóa 4, dùng với nghĩa đưa ra, liệt kê ví dụ để minh họa.",
+        "examples": [
+          { "chinese": "举一个例子，迷路时，只要用手机地图查一下地址，马上就能知道怎么去那个地点。", "pinyin": "Jǔ yí ge lìzi, mí lù shí, zhǐyào yòng shǒujī dìtú chá yíxià dìzhǐ, mǎshàng jiù néng zhīdào zěnme qù nàge dìdiǎn.", "vietnamese": "Nêu một ví dụ nhé, khi bị lạc đường, chỉ cần dùng bản đồ điện thoại tra địa chỉ một chút là lập tức biết cách đi tới địa điểm đó.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Nghĩa gốc: giơ lên, nâng lên)",
+          "meanings": ["giơ lên (tay), nhấc/nâng lên (vật nặng)"],
+          "structure": "举手 / 举起来 / 举重",
+          "difference_note": "Nghĩa gốc chỉ động tác đưa tay hoặc đồ vật hướng lên cao (khác với 举例子 nêu ví dụ).",
+          "examples": [
+            { "chinese": "谁知道这个问题的答案，请举手。", "pinyin": "Shéi zhīdào zhège wèntí de dá'àn, qǐng jǔshǒu.", "vietnamese": "Ai biết đáp án câu hỏi này thì hãy giơ tay." }
+          ]
+        }
+      ],
+      "chinese_explanation": "提出、列举（例子）；本义指向上托、抬起（举手）。",
+      "collocations": ["举个例子", "举例说明", "举手", "举办"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l18_w24", "order": 24, "textbook": "HSK 4 下", "lesson": 18,
+      "hanzi": "迷路", "pinyin": "mí lù",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ ly hợp)",
+        "meaning": "lạc đường",
+        "structure": "迷路了 / 迷路时 / 迷了路",
+        "explanation": "Không nhận ra phương hướng, đi lạc mất đường.",
+        "examples": [
+          { "chinese": "迷路时，只要用手机地图查一下地址，马上就能知道怎么去那个地点。", "pinyin": "Mí lù shí, zhǐyào yòng shǒujī dìtú chá yíxià dìzhǐ, mǎshàng jiù néng zhīdào zěnme qù nàge dìdiǎn.", "vietnamese": "Khi lạc đường, chỉ cần dùng bản đồ điện thoại tra địa chỉ một chút là lập tức biết cách đến địa điểm đó.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "走错了路，分辨不清方向。",
+      "collocations": ["迷路了", "容易迷路", "在山里迷路"],
+      "usage_note": "Động từ ly hợp, không mang tân ngữ phía sau; có thể nói 在……迷路 (bị lạc ở đâu).",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l18_w25", "order": 25, "textbook": "HSK 4 下", "lesson": 18,
+      "hanzi": "地址", "pinyin": "dìzhǐ",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "địa chỉ",
+        "structure": "查地址 / 家庭地址 / 邮箱地址 / 联系地址",
+        "explanation": "Thông tin cụ thể về nơi cư trú, trụ sở cơ quan (số nhà, tên đường...) hoặc địa chỉ email/web.",
+        "examples": [
+          { "chinese": "只要用手机地图查一下地址，马上就能知道怎么去那个地点。", "pinyin": "Zhǐyào yòng shǒujī dìtú chá yíxià dìzhǐ, mǎshàng jiù néng zhīdào zěnme qù nàge dìdiǎn.", "vietnamese": "Chỉ cần dùng bản đồ điện thoại tra địa chỉ một chút là lập tức biết cách đến địa điểm đó.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "个人居住或单位所在的详细位置信息；也指电子邮箱或网页地址。",
+      "collocations": ["查地址", "家庭地址", "邮箱地址", "联系地址"],
+      "usage_note": "Phân biệt với 地点: 地址 là địa chỉ chi tiết ghi trên thư/email/bản đồ (邮箱地址, 家庭地址); 地点 là địa điểm diễn ra hoạt động (集合地点, 会议地点).",
+      "common_errors": "Sai: '邮箱地点' → Đúng: '邮箱地址'.",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l18_w26", "order": 26, "textbook": "HSK 4 下", "lesson": 18,
+      "hanzi": "地点", "pinyin": "dìdiǎn",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "địa điểm, nơi",
+        "structure": "会议地点 / 集合地点 / 地点改在……",
+        "explanation": "Nơi chốn cụ thể nơi một sự kiện, cuộc họp hay hoạt động diễn ra.",
+        "examples": [
+          { "chinese": "马上就能知道怎么去那个地点。", "pinyin": "Mǎshàng jiù néng zhīdào zěnme qù nàge dìdiǎn.", "vietnamese": "Lập tức có thể biết đi đến địa điểm đó như thế nào.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "所在的地方，常指活动、会议等举行的场所。",
+      "collocations": ["会议地点", "集合地点", "时间和地点", "工作地点"],
+      "usage_note": "Xem nhóm 同字词 chữ 点 tr.119: 地点, 特点, 优点, 缺点, 重点.",
+      "common_errors": "Không dùng 地点 cho email hay số nhà cụ thể (phải dùng 地址).",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l18_w27", "order": 27, "textbook": "HSK 4 下", "lesson": 18,
+      "hanzi": "世纪", "pinyin": "shìjì",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "thế kỷ",
+        "structure": "21世纪 / 上个世纪 / 一个世纪",
+        "explanation": "Đơn vị tính thời gian gồm 100 năm.",
+        "examples": [
+          { "chinese": "21世纪，我们的生活发生了巨大变化。", "pinyin": "Èrshíyī shìjì, wǒmen de shēnghuó fāshēngle jùdà biànhuà.", "vietnamese": "Thế kỷ 21, cuộc sống của chúng ta đã xảy ra những thay đổi to lớn.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "计年单位，一百年为一个世纪。",
+      "collocations": ["21世纪", "上个世纪", "半个世纪"],
+      "usage_note": "Chú ý phát âm thanh 4 cho cả hai chữ: shìjì (dễ nhầm với 世界 shìjiè - thế giới!).",
+      "common_errors": "Nhầm lẫn giữa 世纪 (shìjì - thế kỷ) và 世界 (shìjiè - thế giới).",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l18_w28", "order": 28, "textbook": "HSK 4 下", "lesson": 18,
+      "hanzi": "邮局", "pinyin": "yóujú",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "bưu điện",
+        "structure": "去邮局 / 在邮局寄信",
+        "explanation": "Cơ quan chuyên nhận gửi thư từ, bưu phẩm.",
+        "examples": [
+          { "chinese": "原来寄信需要好几天，现在连邮局都不用去，只要在家里上网发个电子邮件，用不了一分钟，远处的朋友就能收到。", "pinyin": "Yuánlái jì xìn xūyào hǎojǐ tiān, xiànzài lián yóujú dōu búyòng qù, zhǐyào zài jiāli shàng wǎng fā ge diànzǐ yóujiàn, yòng bu liǎo yì fēnzhōng, yuǎnchù de péngyou jiù néng shōudào.", "vietnamese": "Trước đây gửi thư cần mấy ngày liền, bây giờ ngay cả bưu điện cũng chẳng cần đi, chỉ cần ở nhà lên mạng gửi một bức email, chưa đầy một phút là bạn ở xa đã nhận được.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "办理邮政业务的机构。",
+      "collocations": ["去邮局", "寄信", "邮局门口"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l18_w29", "order": 29, "textbook": "HSK 4 下", "lesson": 18,
+      "hanzi": "收", "pinyin": "shōu",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "nhận",
+        "structure": "收到 + 邮件/信/礼物",
+        "explanation": "Trong bài khóa 5, dùng với nghĩa nhận được thư từ, email, bưu phẩm, quà tặng.",
+        "examples": [
+          { "chinese": "用不了一分钟，远处的朋友就能收到，比写信封用的时间都短。", "pinyin": "Yòng bu liǎo yì fēnzhōng, yuǎnchù de péngyou jiù néng shōudào, bǐ xiě xìnfēng yòng de shíjiān dōu duǎn.", "vietnamese": "Chưa đầy một phút bạn ở xa đã có thể nhận được, còn ngắn hơn cả thời gian viết phong bì thư.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Nghĩa mở rộng: thu lại, cất đi, thu phí)",
+          "meanings": ["thu hồi lại (lời nói, đồ vật)", "cất dọn vào", "thu tiền/phí"],
+          "structure": "收回 / 收起来 / 收费 / 收衣服",
+          "difference_note": "Như câu 4 bài tập tr.118 ('说出去的话很难收回'), 收 kết hợp bổ ngữ 回 mang nghĩa thu hồi lại; kết hợp 起来 nghĩa là cất đi.",
+          "examples": [
+            { "chinese": "说出去的话很难收回。因此，生气时不要随便说话。", "pinyin": "Shuō chūqù de huà hěn nán shōuhuí. Yīncǐ, shēngqì shí búyào suíbiàn shuōhuà.", "vietnamese": "Lời đã nói ra rất khó thu lại. Vì thế lúc tức giận đừng nói bừa." }
+          ]
+        }
+      ],
+      "chinese_explanation": "接到、接受；也指把放开或散开的东西聚拢、拿回来或收取费用。",
+      "collocations": ["收到邮件", "收回", "收拾", "收费", "收入"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l18_w30", "order": 30, "textbook": "HSK 4 下", "lesson": 18,
+      "hanzi": "信封", "pinyin": "xìnfēng",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "phong thư, bì thư",
+        "structure": "写信封 / 一个信封",
+        "explanation": "Bao giấy dùng để đựng thư khi gửi qua bưu điện.",
+        "examples": [
+          { "chinese": "用不了一分钟，远处的朋友就能收到，比写信封用的时间都短。", "pinyin": "Yòng bu liǎo yì fēnzhōng, yuǎnchù de péngyou jiù néng shōudào, bǐ xiě xìnfēng yòng de shíjiān dōu duǎn.", "vietnamese": "Chưa đầy một phút là bạn ở xa nhận được ngay, còn ngắn hơn cả thời gian viết địa chỉ lên phong thư.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "用来装信的纸袋。",
+      "collocations": ["一个信封", "写信封", "买信封"],
+      "usage_note": "Lượng từ cho phong thư là 个 (一个信封), còn lượng từ cho bức thư là 封 (一封信).",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l18_w31", "order": 31, "textbook": "HSK 4 下", "lesson": 18,
+      "hanzi": "网站", "pinyin": "wǎngzhàn",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "trang web",
+        "structure": "打开网站 / 新闻网站 / 购物网站",
+        "explanation": "Trang thông tin trên mạng Internet.",
+        "examples": [
+          { "chinese": "现在只要打开网站，任何信息都可以在第一时间获得。", "pinyin": "Xiànzài zhǐyào dǎkāi wǎngzhàn, rènhé xìnxī dōu kěyǐ zài dì-yī shíjiān huòdé.", "vietnamese": "Bây giờ chỉ cần mở trang web là bất kỳ thông tin nào cũng có thể nhận được ngay tức thì.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "因特网上提供信息或服务的站点。",
+      "collocations": ["打开网站", "购物网站", "官方网站", "新闻网站"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l18_w32", "order": 32, "textbook": "HSK 4 下", "lesson": 18,
+      "hanzi": "信息", "pinyin": "xìnxī",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "tin tức, thông tin",
+        "structure": "任何信息 / 获得信息 / 个人信息 / 发信息",
+        "explanation": "Dữ liệu, tin tức, thông điệp được truyền tải qua mạng, báo chí, điện thoại.",
+        "examples": [
+          { "chinese": "现在只要打开网站，任何信息都可以在第一时间获得。", "pinyin": "Xiànzài zhǐyào dǎkāi wǎngzhàn, rènhé xìnxī dōu kěyǐ zài dì-yī shíjiān huòdé.", "vietnamese": "Bây giờ chỉ cần mở trang web, bất kỳ thông tin nào cũng có thể thu nhận ngay ở thời điểm đầu tiên.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "音信、消息；也指通过语言、文字、网络等传递的数据和内容。",
+      "collocations": ["获得信息", "个人信息", "信息时代", "发信息"],
+      "usage_note": "Lượng từ phổ biến là 条 (一条信息).",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    }
+  ],
+  "proper_nouns": [
+    { "hanzi": "王静", "pinyin": "Wáng Jìng", "meaning": "Vương Tĩnh (tên người)" },
+    { "hanzi": "孙月", "pinyin": "Sūn Yuè", "meaning": "Tôn Nguyệt (tên người)" },
+    { "hanzi": "《新十万个为什么》", "pinyin": "《Xīn Shíwàn Ge Wèi Shénme》", "meaning": "Mười vạn câu hỏi vì sao (bản mới)" }
+  ],
+  "same_char_expansion": {
+    "char": "点",
+    "words": [
+      { "hanzi": "地点", "pinyin": "dìdiǎn", "meaning": "địa điểm, nơi chốn" },
+      { "hanzi": "特点", "pinyin": "tèdiǎn", "meaning": "đặc điểm" },
+      { "hanzi": "优点", "pinyin": "yōudiǎn", "meaning": "ưu điểm" },
+      { "hanzi": "缺点", "pinyin": "quēdiǎn", "meaning": "khuyết điểm" },
+      { "hanzi": "重点", "pinyin": "zhòngdiǎn", "meaning": "trọng điểm, phần chính" }
+    ],
+    "examples": [
+      { "chinese": "A：你联系马记者了吗？ B：联系过了，我已经通知他会议地点改到首都饭店了。", "vietnamese": "A: Bạn đã liên hệ nhà báo Mã chưa? B: Liên hệ rồi, tôi đã báo anh ấy địa điểm họp đổi sang khách sạn Thủ Đô." },
+      { "chinese": "A：你对我们国家的文化了解多少？ B：我知道中国功夫很厉害，京剧也很有特点。", "vietnamese": "A: Bạn hiểu bao nhiêu về văn hóa nước chúng tôi? B: Tôi biết võ công Trung Quốc rất lợi hại, Kinh kịch cũng rất có đặc điểm riêng." },
+      { "chinese": "人应该学会认识自己。不仅要看到自己的优点，也要了解自己的缺点，并且要努力改掉缺点。只有这样，才会逐渐变得成熟起来。", "vietnamese": "Con người nên học cách nhận thức bản thân. Không chỉ thấy ưu điểm mà còn phải hiểu khuyết điểm của mình, đồng thời nỗ lực sửa bỏ khuyết điểm. Chỉ có như vậy mới dần trở nên trưởng thành." },
+      { "chinese": "A：材料这么厚，我估计看不完了。 B：复习要注意方法，复习重点内容应该来得及。", "vietnamese": "A: Tài liệu dày thế này, tôi đoán đọc không hết mất. B: Ôn tập phải chú ý phương pháp, ôn những nội dung trọng điểm chắc sẽ kịp." }
+    ]
+  },
+  "grammar": [
+    {
+      "title": "是否",
+      "formula": "S + 是否 + V / Adj (văn viết = 是不是)",
+      "meaning": "Hay không / có phải... không.",
+      "usage": "Phó từ 是否 biểu thị ý lựa chọn khẳng định hay phủ định, tương đương 是不是 nhưng mang sắc thái văn viết rõ nét.",
+      "context": "Thường dùng trong mệnh đề tường thuật gián tiếp (不知道……是否……, 查一下……是否……) hoặc mệnh đề chủ ngữ trong văn nghị luận.",
+      "examples": [
+        { "chinese": "不过她这么小，这本书我不知道她是否能读懂。", "pinyin": "Búguò tā zhème xiǎo, zhè běn shū wǒ bù zhīdào tā shìfǒu néng dúdǒng.", "vietnamese": "Nhưng con bé nhỏ thế này, cuốn sách này tôi không biết nó có đọc hiểu hay không." },
+        { "chinese": "有人认为有“夫妻相”的夫妻家庭生活幸福，实际上，婚姻是否幸福跟这个没有关系。", "pinyin": "Yǒurén rènwéi yǒu “fūqīxiàng” de fūqī jiātíng shēnghuó xìngfú, shíjì shang, hūnyīn shìfǒu xìngfú gēn zhège méiyǒu guānxi.", "vietnamese": "Có người cho rằng vợ chồng có “tướng phu thê” thì gia đình hạnh phúc, thực tế hôn nhân có hạnh phúc hay không chẳng liên quan gì tới điều này." },
+        { "chinese": "现在，如果要问人们选择职业时主要考虑的是什么，不少人会以收入多少作为标准。当然，也有人主要看自己是否喜欢这份工作。", "pinyin": "Xiànzài, rúguǒ yào wèn rénmen xuǎnzé zhíyè shí zhǔyào kǎolǜ de shì shénme, bùshǎo rén huì yǐ shōurù duōshǎo zuòwéi biāozhǔn. Dāngrán, yě yǒurén zhǔyào kàn zìjǐ shìfǒu xǐhuan zhè fèn gōngzuò.", "vietnamese": "Hiện nay nếu hỏi mọi người chọn nghề chủ yếu cân nhắc điều gì, không ít người lấy mức thu nhập làm tiêu chuẩn. Tất nhiên cũng có người chủ yếu xem mình có thích công việc đó hay không." }
+      ],
+      "important_notes": "Bản thân 否 đã mang nghĩa phủ định nên không dùng kèm dạng chính phản (A不A) hay trợ từ 吗.",
+      "common_errors": "Sai: '我查一下后天是否还有没有票' → Đúng: '我查一下后天是否还有票'.",
+      "comparison": "是不是 dùng nhiều trong khẩu ngữ; 是否 trang trọng, phổ biến trong văn viết và đề thi HSK.",
+      "mini_practice": [
+        { "prompt": "A：麻烦你帮我改签到后天的同一航班。 B：您稍等，我查一下______________________。（是否）", "sample_answer": "后天的同一航班是否还有座位", "explanation": "Đặt 是否 ngay trước động từ 有 để hỏi gián tiếp." },
+        { "prompt": "当我们听到批评时，应该冷静地想想他们提出的意见或者建议______________________。（是否）", "sample_answer": "是否有道理", "explanation": "是否 đứng trước cụm vị ngữ 有道理/正确." }
+      ]
+    },
+    {
+      "title": "受不了",
+      "formula": "S + (真/实在)受不了 (+ Danh từ / Cụm danh từ)",
+      "meaning": "Chịu không nổi, không thể chịu đựng được.",
+      "usage": "Biểu thị không thể nhẫn nhịn hoặc chịu đựng nổi (cơn đau, nỗi khổ, áp lực, bất hạnh, thái độ, tính khí, thời tiết...). Thường đặt trước danh từ hoặc cụm danh từ, hoặc đứng độc lập làm vị ngữ.",
+      "context": "Dùng rất phổ biến trong giao tiếp hằng ngày khi than phiền hoặc nhấn mạnh mức độ quá sức chịu đựng.",
+      "examples": [
+        { "chinese": "A：我们再去对面的商店看看吧。 B：我真的受不了你了，你到底还要逛多久？", "pinyin": "A: Wǒmen zài qù duìmiàn de shāngdiàn kànkan ba. B: Wǒ zhēn de shòubuliǎo nǐ le, nǐ dàodǐ hái yào guàng duōjiǔ?", "vietnamese": "A: Mình sang cửa hàng đối diện xem tiếp đi. B: Mình chịu hết nổi cậu rồi, rốt cuộc cậu còn muốn đi dạo bao lâu nữa?" },
+        { "chinese": "不过天天对着电脑看，眼睛实在受不了。", "pinyin": "Búguò tiāntiān duìzhe diànnǎo kàn, yǎnjing shízài shòubuliǎo.", "vietnamese": "Nhưng ngày nào cũng nhìn máy tính, mắt thật sự chịu không nổi." },
+        { "chinese": "A：真受不了这样的老师！一个简单的动作让我们练二三十遍。 B：他对你们严格些好，这样可以让你打好基础。", "pinyin": "A: Zhēn shòubuliǎo zhèyàng de lǎoshī! Yí ge jiǎndān de dòngzuò ràng wǒmen liàn èr sānshí biàn. B: Tā duì nǐmen yángé xiē hǎo, zhèyàng kěyǐ ràng nǐmen dǎhǎo jīchǔ.", "vietnamese": "A: Thật chịu không nổi thầy giáo như vậy! Một động tác đơn giản bắt tụi mình tập hai ba chục lần. B: Thầy nghiêm khắc với các bạn một chút thì tốt, như vậy giúp các bạn xây nền tảng vững chắc." }
+      ],
+      "important_notes": "Thường đi kèm phó từ mức độ như 真, 实在, 简直 để tăng sắc thái cảm thán.",
+      "common_errors": "Phát âm 了 là liǎo (shòubuliǎo), không đọc le.",
+      "comparison": "Dạng khẳng định là 受得了 (chịu đựng được).",
+      "mini_practice": [
+        { "prompt": "A：______________________，你桌子上太乱了，找时间好好儿整理一下。 B：好的，我现在就收拾，一定弄得整整齐齐。（受不了）", "sample_answer": "我实在受不了了", "explanation": "Dùng 受不了 bày tỏ sự khó chịu trước bàn làm việc quá bừa bộn." },
+        { "prompt": "A：开一下窗户吧，______________________。（受不了） B：是你穿得太多了，把外面那件衣服脱了吧。", "sample_answer": "屋子里太热了，我真受不了", "explanation": "受不了 diễn tả không chịu nổi cái nóng." }
+      ]
+    },
+    {
+      "title": "接着",
+      "formula": "Vế 1，(S) 接着 + Vế 2",
+      "meaning": "Ngay sau đó / tiếp tục (làm tiếp).",
+      "usage": "Phó từ chỉ hai sự việc nối tiếp sát nhau về thời gian (sự việc sau xảy ra ngay lập tức sau sự việc trước), hoặc nối tiếp làm tiếp công việc trước đó.",
+      "context": "Dùng nhiều trong kể chuyện, miêu tả chuỗi hành động liên tiếp hoặc phân công nối tiếp giữa nhiều người.",
+      "examples": [
+        { "chinese": "这本书的内容非常有趣，你看完以后先不要还，我接着看。", "pinyin": "Zhè běn shū de nèiróng fēicháng yǒuqù, nǐ kànwán yǐhòu xiān búyào huán, wǒ jiēzhe kàn.", "vietnamese": "Nội dung cuốn sách này cực kỳ thú vị, cậu đọc xong khoan trả vội, để mình đọc tiếp." },
+        { "chinese": "我昨天晚上做了一个特别奇怪的梦，梦到自己正在一座桥上走，走着走着，突然开过来一辆车，非常危险，接着又梦见我跳到车上，跟警察一起抓住了一个坏人。", "pinyin": "Wǒ zuótiān wǎnshang zuòle yí ge tèbié qíguài de mèng, mèngdào zìjǐ zhèngzài yí zuò qiáo shang zǒu, zǒuzhe zǒuzhe, tūrán kāi guolai yí liàng chē, fēicháng wēixiǎn, jiēzhe yòu mèngjiàn wǒ tiàodào chē shang, gēn jǐngchá yìqǐ zhuāzhùle yí ge huàirén.", "vietnamese": "Tối qua mình mơ một giấc mơ kỳ lạ, mơ đang đi trên cầu thì có xe lao tới rất nguy hiểm, ngay sau đó lại mơ nhảy lên xe cùng cảnh sát bắt kẻ xấu." },
+        { "chinese": "“当然不愿意。我明白了，”妻子接着说，“老王也不愿意跟这样的人打。”", "pinyin": "“Dāngrán bú yuànyì. Wǒ míngbai le,” qīzi jiēzhe shuō, “Lǎo Wáng yě bú yuànyì gēn zhèyàng de rén dǎ.”", "vietnamese": "“Đương nhiên không muốn. Em hiểu rồi,” người vợ nói tiếp, “Ông Vương cũng không muốn đánh với người như vậy.”" }
+      ],
+      "important_notes": "Chủ ngữ của 接着 có thể giống hoặc khác với chủ ngữ vế trước (我说完了，你接着说吧).",
+      "common_errors": "Không thay thế 然后 trong cấu trúc cố định 先……然后(再)…….",
+      "comparison": "Xem bảng 比一比 '接着 — 然后' ngay bên dưới.",
+      "mini_practice": [
+        { "prompt": "他每天很早起床去锻炼，______________________。（接着）", "sample_answer": "接着回家吃早饭去上班", "explanation": "Hành động nối tiếp ngay sau khi tập thể dục." }
+      ]
+    },
+    {
+      "title": "除此以外",
+      "formula": "Vế 1。除此以外，(S) 还/也 + Vế 2",
+      "meaning": "Ngoài điều này ra.",
+      "usage": "Tương đương “除了这个（指代前面所说的内容）以外”, dùng để bổ sung thêm thông tin hoặc loại trừ phần đã nêu ở câu trước.",
+      "context": "Chủ yếu dùng trong văn viết, bài thuyết trình hoặc đoạn văn liệt kê lợi ích, nguyên nhân.",
+      "examples": [
+        { "chinese": "他和弟弟同一天出生，兄弟俩长得很像，但除此以外几乎再找不到其他共同点。", "pinyin": "Tā hé dìdi tóng yì tiān chūshēng, xiōngdì liǎ zhǎng de hěn xiàng, dàn chú cǐ yǐwài jīhū zài zhǎo bu dào qítā gòngtóngdiǎn.", "vietnamese": "Anh ấy và em trai sinh cùng ngày, hai anh em trông rất giống nhau, nhưng ngoài điều này ra hầu như không tìm thấy điểm chung nào khác." },
+        { "chinese": "北方人过年时爱吃饺子，是因为饺子味道鲜美，除此以外，还因为人们忙了一年，过年时全家人坐在一起包饺子，是很好的交流机会。", "pinyin": "Běifāng rén guònián shí ài chī jiǎozi, shì yīnwèi jiǎozi wèidào xiānměi, chú cǐ yǐwài, hái yīnwèi rénmen mángle yì nián, guònián shí quánjiārén zuò zài yìqǐ bāo jiǎozi, shì hěn hǎo de jiāoliú jīhuì.", "vietnamese": "Người phương Bắc dịp Tết thích ăn sủi cảo vì vị tươi ngon, ngoài ra còn vì bận rộn cả năm, Tết cả nhà ngồi quây quần gói sủi cảo là cơ hội trò chuyện tuyệt vời." },
+        { "chinese": "……打电话、发短信已经成了人们普遍使用的联系方法。除此以外，你还可以用它来听音乐、看电影、阅读、玩儿游戏、付款购物等，这大大方便了人们的生活。", "pinyin": "……dǎ diànhuà, fā duǎnxìn yǐjīng chéngle rénmen pǔbiàn shǐyòng de liánxì fāngfǎ. Chú cǐ yǐwài, nǐ hái kěyǐ yòng tā lái tīng yīnyuè, kàn diànyǐng, yuèdú, wánr yóuxì, fù kuǎn gòuwù děng, zhè dàdà fāngbiànle rénmen de shēnghuó.", "vietnamese": "...gọi điện, nhắn tin đã trở thành cách liên lạc phổ biến. Ngoài ra, bạn còn có thể dùng nó nghe nhạc, xem phim, đọc sách, chơi game, thanh toán mua sắm..., giúp cuộc sống thuận tiện hơn nhiều." }
+      ],
+      "important_notes": "Chữ 此 nghĩa là 'này/điều này', chỉ toàn bộ nội dung vừa nói ở câu trước.",
+      "common_errors": "Không lặp thừa thành '除了除此以外' (vì bản thân 除 đã là 除了).",
+      "comparison": "Gần nghĩa với 另外, nhưng 除此以外 nhấn mạnh hơn tính 'ngoài điểm vừa nhắc đó ra' (có thể dùng cả ý loại trừ lẫn ý bổ sung).",
+      "mini_practice": [
+        { "prompt": "骑自行车是一种很好的、锻炼身体的方式。______________________。（除此以外）", "sample_answer": "除此以外，骑自行车还可以节约能源、保护环境", "explanation": "Dùng 除此以外 nối tiếp bổ sung lợi ích khác của việc đi xe đạp." }
+      ]
+    },
+    {
+      "title": "把……叫作……",
+      "formula": "Chủ ngữ + 把 + Đối tượng (Danh từ/Đại từ/Cụm danh từ) + 叫作 + Tên gọi",
+      "meaning": "Gọi ... là ...",
+      "usage": "Thành phần sau 叫作 là tên gọi, danh xưng của thành phần đứng sau 把. Sau 把 thường là danh từ, đại từ hoặc cụm danh từ.",
+      "context": "Dùng khi giải thích tên gọi phổ biến, biệt danh, khái niệm văn hóa hoặc thuật ngữ.",
+      "examples": [
+        { "chinese": "现代科学技术的发展让世界变得越来越小，所以现在人们都把地球叫作“地球村”。", "pinyin": "Xiàndài kēxué jìshù de fāzhǎn ràng shìjiè biànde yuè lái yuè xiǎo, suǒyǐ xiànzài rénmen dōu bǎ dìqiú jiàozuò “Dìqiú cūn”.", "vietnamese": "Sự phát triển của khoa học công nghệ hiện đại làm thế giới ngày càng nhỏ lại, nên ngày nay mọi người đều gọi Trái Đất là “Làng toàn cầu”." },
+        { "chinese": "黄河是中国第二大河，从中国西部流向东部，全长5464公里，人们把它叫作“母亲河”。", "pinyin": "Huánghé shì Zhōngguó dì-èr dà hé, cóng Zhōngguó xībù liúxiàng dōngbù, quáncháng wǔqiān sìbǎi liùshísì gōnglǐ, rénmen bǎ tā jiàozuò “Mǔqīnhé”.", "vietnamese": "Hoàng Hà là con sông lớn thứ hai Trung Quốc, chảy từ tây sang đông, dài 5464 km, người ta gọi nó là “Sông Mẹ”." },
+        { "chinese": "中国人搬了新家后，一般都会邀请亲戚朋友到家里来吃顿饭，热闹一下。人们把这个习惯叫作“暖房”。", "pinyin": "Zhōngguó rén bānle xīnjiā hòu, yìbān dōu huì yāoqǐng qīnqi péngyou dào jiāli lái chī dùn fàn, rènao yíxià. Rénmen bǎ zhège xíguàn jiàozuò “nuǎnfáng”.", "vietnamese": "Người Trung Quốc sau khi chuyển sang nhà mới thường mời họ hàng bạn bè tới nhà ăn bữa cơm cho vui vẻ. Người ta gọi phong tục này là “làm ấm nhà” (tân gia)." }
+      ],
+      "important_notes": "Tên gọi đặt sau 叫作 thường đặt trong dấu ngoặc kép “ ” khi là danh xưng ví von hoặc thuật ngữ.",
+      "common_errors": "Tránh nhầm thành 把……叫作是…… (bản thân 叫作 đã có nghĩa là 'gọi là', không cần thêm 是).",
+      "comparison": "Gần với 把……称为…… (trang trọng hơn).",
+      "mini_practice": [
+        { "prompt": "在汉语里，像“海”“河”这些字左边的部分是一样的，______________________。（把……叫作……）", "sample_answer": "人们把这个部分叫作“三点水”", "explanation": "Dùng 把 + đối tượng + 叫作 + tên gọi." },
+        { "prompt": "中国有56个民族，其中汉族人的数量最多，汉族以外的55个民族由于人数较少，______________________。（把……叫作……）", "sample_answer": "人们把他们叫作“少数民族”", "explanation": "Tên gọi '少数民族' đặt sau 叫作." }
+      ]
+    }
+  ],
+  "comparison_section": {
+    "label": "比一比 So sánh",
+    "pair": "接着 — 然后",
+    "term_a": "接着 (jiēzhe)",
+    "term_b": "然后 (ránhòu)",
+    "similarity": "Cả hai đều biểu thị sau tình huống xảy ra trước đó lại phát sinh thêm một tình huống khác (他毕业后在老家工作了一年，接着/然后又考上了北京大学，读研究生).",
+    "differences": [
+      {
+        "criterion": "Từ loại & cấu trúc kết hợp",
+        "a": "Là phó từ (副词), nhấn mạnh sự nối tiếp NGAY LẬP TỨC sát nhau về mặt thời gian (大学毕业后，他接着又考上了研究生).",
+        "b": "Là liên từ (连词), thường dùng trong cấu trúc cố định “先……然后（再）……” (咱们先去吃晚饭，然后看电影，好不好？)."
+      },
+      {
+        "criterion": "Chủ ngữ hai vế & nghĩa 'làm tiếp'",
+        "a": "Chủ ngữ có thể GIỐNG hoặc KHÁC vế trước (这本书你看完了我接着看吧 / 我说完了，你接着说吧); còn mang nghĩa làm tiếp tục việc còn dở (下节课接着讲).",
+        "b": "Chủ ngữ hai vế thường GIỐNG nhau (遇到不认识的词语，我会马上查词典，然后写在本子上); không dùng để nói người khác làm tiếp việc của người trước."
+      }
+    ]
+  },
+  "texts": [
+    {
+      "id": "t1",
+      "title_zh": "王静给孙月推荐一本书",
+      "title_vi": "Vương Tĩnh giới thiệu cho Tôn Nguyệt một cuốn sách",
+      "lines": [
+        { "speaker": "孙月", "chinese": "上次女儿问我飞机是怎么起飞和降落的，真不知道该怎么回答她，她现在总是有各种各样的“为什么”。", "pinyin": "Shàng cì nǚ'ér wèn wǒ fēijī shì zěnme qǐfēi hé jiàngluò de, zhēn bù zhīdào gāi zěnme huídá tā, tā xiànzài zǒngshì yǒu gè zhǒng gè yàng de “wèi shénme”.", "vietnamese": "Lần trước con gái hỏi mình máy bay cất cánh và hạ cánh như thế nào, thật chẳng biết trả lời con bé ra sao, giờ nó lúc nào cũng có đủ thứ câu hỏi “tại sao”." },
+        { "speaker": "王静", "chinese": "孩子眼中的世界是美丽和奇特的。有一本书叫《新十万个为什么》，现在卖得非常火。书里的内容都是儿童想知道的科学知识，相信你女儿一定喜欢读。", "pinyin": "Háizi yǎnzhōng de shìjiè shì měilì hé qítè de. Yǒu yì běn shū jiào 《Xīn Shíwàn Ge Wèi Shénme》, xiànzài mài de fēicháng huǒ. Shū li de nèiróng dōu shì értóng xiǎng zhīdào de kēxué zhīshi, xiāngxìn nǐ nǚ'ér yídìng xǐhuan dú.", "vietnamese": "Thế giới trong mắt trẻ con thật tươi đẹp và kỳ diệu. Có một cuốn sách tên là “Mười vạn câu hỏi vì sao mới”, hiện đang bán cực kỳ chạy. Nội dung trong sách toàn là kiến thức khoa học mà trẻ em muốn biết, tin chắc con gái cậu sẽ thích đọc." },
+        { "speaker": "孙月", "chinese": "难道它和我们小时候看的《十万个为什么》不一样吗？作者是谁啊？", "pinyin": "Nándào tā hé wǒmen xiǎoshíhou kàn de 《Shíwàn Ge Wèi Shénme》 bù yíyàng ma? Zuòzhě shì shéi a?", "vietnamese": "Chẳng lẽ nó khác với cuốn “Mười vạn câu hỏi vì sao” hồi nhỏ tụi mình đọc à? Tác giả là ai thế?" },
+        { "speaker": "王静", "chinese": "作者的名字我没记住。《新十万个为什么》的内容更新，介绍了各种科学知识，包括地球、动物、植物、交通、科学技术、社会和文化等很多方面。", "pinyin": "Zuòzhě de míngzi wǒ méi jìzhù. 《Xīn Shíwàn Ge Wèi Shénme》 de nèiróng gèng xīn, jièshàole gè zhǒng kēxué zhīshi, bāokuò dìqiú, dòngwù, zhíwù, jiāotōng, kēxué jìshù, shèhuì hé wénhuà děng hěn duō fāngmiàn.", "vietnamese": "Tên tác giả mình không nhớ rõ. Nội dung cuốn “Mười vạn câu hỏi vì sao mới” mới hơn, giới thiệu đủ loại kiến thức khoa học, gồm Trái Đất, động vật, thực vật, giao thông, khoa học kỹ thuật, xã hội và văn hóa cùng rất nhiều lĩnh vực khác." },
+        { "speaker": "孙月", "chinese": "太好了！不过她这么小，我不知道她是否能读懂。", "pinyin": "Tài hǎo le! Búguò tā zhème xiǎo, wǒ bù zhīdào tā shìfǒu néng dúdǒng.", "vietnamese": "Hay quá! Nhưng con bé nhỏ như vậy, mình không biết nó có đọc hiểu hay không." },
+        { "speaker": "王静", "chinese": "放心吧，这本书的语言简单易懂，一定能增长孩子的科学知识。", "pinyin": "Fàngxīn ba, zhè běn shū de yǔyán jiǎndān yìdǒng, yídìng néng zēngzhǎng háizi de kēxué zhīshi.", "vietnamese": "Yên tâm đi, ngôn ngữ cuốn sách này đơn giản dễ hiểu, chắc chắn sẽ giúp tăng thêm kiến thức khoa học cho bé." }
+      ]
+    },
+    {
+      "id": "t2",
+      "title_zh": "李老师和高老师在聊电脑和互联网技术的发展",
+      "title_vi": "Thầy Lý và thầy Cao đang trò chuyện về sự phát triển của máy tính và công nghệ Internet",
+      "lines": [
+        { "speaker": "李老师", "chinese": "现在的大学生一遇到不明白的问题，可以马上在网上查找答案，几秒钟就把问题解决了，这比我们上学的时候方便多了。", "pinyin": "Xiànzài de dàxuéshēng yí yùdào bù míngbai de wèntí, kěyǐ mǎshàng zài wǎngshang cházhǎo dá'àn, jǐ miǎo zhōng jiù bǎ wèntí jiějué le, zhè bǐ wǒmen shàng xué de shíhou fāngbiàn duō le.", "vietnamese": "Sinh viên đại học ngày nay hễ gặp vấn đề chưa hiểu là có thể lên mạng tra đáp án ngay, vài giây đã giải quyết xong, tiện hơn hồi chúng ta đi học nhiều." },
+        { "speaker": "高老师", "chinese": "现在的人们，尤其是大学生开始普遍使用电脑，他们的生活已经离不开电脑。据调查，70%的人遇到问题时，首先想到的就是上网找答案。", "pinyin": "Xiànzài de rénmen, yóuqí shì dàxuéshēng kāishǐ pǔbiàn shǐyòng diànnǎo, tāmen de shēnghuó yǐjīng lí bu kāi diànnǎo. Jù diàochá, bǎi fēnzhī qīshí de rén yùdào wèntí shí, shǒuxiān xiǎngdào de jiù shì shàng wǎng zhǎo dá'àn.", "vietnamese": "Mọi người hiện nay, đặc biệt là sinh viên đã bắt đầu sử dụng máy tính phổ biến, cuộc sống của họ không thể tách rời máy tính nữa. Theo điều tra, 70% số người khi gặp vấn đề thì việc đầu tiên nghĩ tới chính là lên mạng tìm đáp án." },
+        { "speaker": "李老师", "chinese": "电脑和互联网技术的发展使学生们的学习方式发生了很多变化，不过天天对着电脑看，眼睛实在受不了。", "pinyin": "Diànnǎo hé hùliánwǎng jìshù de fāzhǎn shǐ xuéshengmen de xuéxí fāngshì fāshēngle hěn duō biànhuà, búguò tiāntiān duìzhe diànnǎo kàn, yǎnjing shízài shòubuliǎo.", "vietnamese": "Sự phát triển của máy tính và công nghệ Internet khiến cách học của sinh viên thay đổi rất nhiều, nhưng ngày nào cũng nhìn chằm chằm vào máy tính thì mắt thật sự chịu không nổi." },
+        { "speaker": "高老师", "chinese": "不仅是学习方式，而且连生活方式也发生了很大改变。现在越来越多的学生喜欢在网上写日记，他们说这样可以让朋友及时了解自己的生活。", "pinyin": "Bùjǐn shì xuéxí fāngshì, érqiě lián shēnghuó fāngshì yě fāshēngle hěn dà gǎibiàn. Xiànzài yuè lái yuè duō de xuésheng xǐhuan zài wǎngshang xiě rìjì, tāmen shuō zhèyàng kěyǐ ràng péngyou jíshí liǎojiě zìjǐ de shēnghuó.", "vietnamese": "Không chỉ cách học, mà ngay cả lối sống cũng thay đổi rất lớn. Bây giờ ngày càng nhiều học sinh thích viết nhật ký trên mạng, các em nói làm thế giúp bạn bè kịp thời nắm bắt cuộc sống của mình." },
+        { "speaker": "李老师", "chinese": "这个办法不错，既能方便大家的交流，还能节约用纸，保护环境。但是如果别人都能看到我的日记的话，多不安全啊！", "pinyin": "Zhège bànfǎ búcuò, jì néng fāngbiàn dàjiā de jiāoliú, hái néng jiéyuē yòng zhǐ, bǎohù huánjìng. Dànshì rúguǒ biérén dōu néng kàndào wǒ de rìjì de huà, duō bù ānquán a!", "vietnamese": "Cách này hay đấy, vừa tiện cho mọi người giao lưu lại vừa tiết kiệm giấy, bảo vệ môi trường. Nhưng nếu người khác ai cũng xem được nhật ký của tôi thì mất an toàn quá!" },
+        { "speaker": "高老师", "chinese": "放心吧，可以给网上的日记加密码，那样只有得到了允许，别人才能看到。", "pinyin": "Fàng xīn ba, kěyǐ gěi wǎngshang de rìjì jiā mìmǎ, nàyàng zhǐyǒu dédàole yǔnxǔ, biérén cái néng kàndào.", "vietnamese": "Yên tâm đi, có thể đặt mật khẩu cho nhật ký trên mạng, như vậy chỉ khi được cho phép thì người khác mới xem được." }
+      ]
+    },
+    {
+      "id": "t3",
+      "title_zh": "王静和孙月在聊关于梦的情况",
+      "title_vi": "Vương Tĩnh và Tôn Nguyệt trò chuyện về giấc mơ",
+      "lines": [
+        { "speaker": "王静", "chinese": "我昨天晚上做了一个特别奇怪的梦，梦到自己正在一座桥上走，走着走着，突然开过来一辆车，非常危险，接着又梦见我跳到车上，跟警察一起抓住了一个坏人。", "pinyin": "Wǒ zuótiān wǎnshang zuòle yí ge tèbié qíguài de mèng, mèngdào zìjǐ zhèngzài yí zuò qiáo shang zǒu, zǒuzhe zǒuzhe, tūrán kāi guolai yí liàng chē, fēicháng wēixiǎn, jiēzhe yòu mèngjiàn wǒ tiàodào chē shang, gēn jǐngchá yìqǐ zhuāzhùle yí ge huàirén.", "vietnamese": "Tối qua mình mơ một giấc mơ cực kỳ lạ lùng, mơ thấy bản thân đang đi trên một cây cầu, đang đi thì bất ngờ có chiếc xe lao tới, vô cùng nguy hiểm, ngay sau đó lại mơ mình nhảy lên xe cùng cảnh sát tóm được một kẻ xấu." },
+        { "speaker": "孙月", "chinese": "奇怪，你怎么总能记住自己做了什么梦？我好像从来没做过梦。", "pinyin": "Qíguài, nǐ zěnme zǒng néng jìzhù zìjǐ zuòle shénme mèng? Wǒ hǎoxiàng cónglái méi zuòguo mèng.", "vietnamese": "Lạ thật, sao cậu lúc nào cũng nhớ mình đã mơ gì thế? Mình dường như chưa bao giờ nằm mơ." },
+        { "speaker": "王静", "chinese": "每个人都会做梦，区别只是有多有少。有的人睡醒之后还记得梦里的事情，有的人却记不清楚了。你之所以觉得从来没做过梦，只不过是忘记了。", "pinyin": "Měi ge rén dōu huì zuò mèng, qūbié zhǐshì yǒu duō yǒu shǎo. Yǒude rén shuì xǐng zhīhòu hái jìde mèng li de shìqing, yǒude rén què jì bu qīngchu le. Nǐ zhī suǒyǐ juéde cónglái méi zuòguo mèng, zhǐ búguò shì wàngjì le.", "vietnamese": "Ai cũng nằm mơ cả, khác biệt chỉ là nhiều hay ít thôi. Có người tỉnh dậy vẫn nhớ chuyện trong mơ, có người lại không nhớ rõ nữa. Cậu sở dĩ thấy mình chưa từng mơ chẳng qua là đã quên mất rồi." },
+        { "speaker": "孙月", "chinese": "你说的有道理，我一般都是一觉睡到天亮。很多人认为做梦是上天要告诉他们将来会发生的一些事情，可能上天不想让我知道吧。", "pinyin": "Nǐ shuō de yǒu dàolǐ, wǒ yìbān dōu shì yí jiào shuìdào tiānliàng. Hěn duō rén rènwéi zuò mèng shì shàngtiān yào gàosu tāmen jiānglái huì fāshēng de yìxiē shìqing, kěnéng shàngtiān bù xiǎng ràng wǒ zhīdào ba.", "vietnamese": "Cậu nói có lý, mình thường ngủ một mạch tới sáng. Nhiều người cho rằng nằm mơ là ông trời muốn báo cho họ một số chuyện sẽ xảy ra trong tương lai, chắc ông trời không muốn cho mình biết đâu." },
+        { "speaker": "王静", "chinese": "一般晚上睡觉时，身体感觉到什么，人就容易梦到什么内容。记得有一次，我晚饭吃得太咸，那天晚上就梦见自己到处找商店买矿泉水。", "pinyin": "Yìbān wǎnshang shuì jiào shí, shēntǐ gǎnjuédào shénme, rén jiù róngyì mèngdao shénme nèiróng. Jìde yǒu yí cì, wǒ wǎnfàn chī de tài xián, nà tiān wǎnshang jiù mèngjiàn zìjǐ dàochù zhǎo shāngdiàn mǎi kuàngquánshuǐ.", "vietnamese": "Thường thì lúc tối ngủ cơ thể cảm nhận thấy gì thì con người dễ mơ nội dung đó. Nhớ có lần bữa tối mình ăn mặn quá, tối hôm đó mơ thấy chạy khắp nơi tìm tiệm mua nước suối." },
+        { "speaker": "孙月", "chinese": "很多人都试着对梦进行解释，有些人甚至专门写过这方面的书，可惜到现在仍然没有一个科学的说法。", "pinyin": "Hěn duō rén dōu shìzhe duì mèng jìnxíng jiěshì, yǒuxiē rén shènzhì zhuānmén xiěguo zhè fāngmiàn de shū, kěxī dào xiànzài réngrán méiyǒu yí ge kēxué de shuōfǎ.", "vietnamese": "Rất nhiều người từng thử giải thích giấc mơ, một số người thậm chí còn viết riêng sách về lĩnh vực này, tiếc là tới nay vẫn chưa có một lời giải khoa học nào." }
+      ]
+    },
+    {
+      "id": "t4",
+      "title_zh": "手机在现代生活中的作用",
+      "title_vi": "Vai trò của điện thoại di động trong đời sống hiện đại",
+      "lines": [
+        { "speaker": "", "chinese": "现在手机不但价格降低了，而且作用也越来越大，打电话、发短信已经成了人们普遍使用的联系方法。除此以外，你还可以用它来听音乐、看电影、阅读、玩儿游戏、付款购物等，这大大方便了人们的生活。", "pinyin": "Xiànzài shǒujī búdàn jiàgé jiàngdī le, érqiě zuòyòng yě yuè lái yuè dà, dǎ diànhuà, fā duǎnxìn yǐjīng chéngle rénmen pǔbiàn shǐyòng de liánxì fāngfǎ. Chú cǐ yǐwài, nǐ hái kěyǐ yòng tā lái tīng yīnyuè, kàn diànyǐng, yuèdú, wánr yóuxì, fù kuǎn gòuwù děng, zhè dàdà fāngbiànle rénmen de shēnghuó.", "vietnamese": "Ngày nay điện thoại không chỉ giảm giá mà công dụng cũng ngày càng lớn, gọi điện, nhắn tin đã trở thành cách liên lạc được mọi người dùng phổ biến. Ngoài ra, bạn còn có thể dùng nó để nghe nhạc, xem phim, đọc sách, chơi game, thanh toán mua sắm..., điều này mang lại vô vàn tiện ích cho cuộc sống." },
+        { "speaker": "", "chinese": "举一个例子，迷路时，只要用手机地图查一下地址，马上就能知道怎么去那个地点。现在的手机更像是一部可以拿在手中的电脑，现代人的生活已经越来越离不开手机了。", "pinyin": "Jǔ yí ge lìzi, mí lù shí, zhǐyào yòng shǒujī dìtú chá yíxià dìzhǐ, mǎshàng jiù néng zhīdào zěnme qù nàge dìdiǎn. Xiànzài de shǒujī gèng xiàng shì yí bù kěyǐ ná zài shǒu zhōng de diànnǎo, xiàndài rén de shēnghuó yǐjīng yuè lái yuè lí bu kāi shǒujī le.", "vietnamese": "Lấy một ví dụ, khi bị lạc đường, chỉ cần dùng bản đồ điện thoại tra địa chỉ một chút là biết ngay cách đi đến địa điểm đó. Điện thoại bây giờ càng giống một chiếc máy tính cầm tay hơn, cuộc sống người hiện đại ngày càng không thể thiếu điện thoại nữa." }
+      ]
+    },
+    {
+      "id": "t5",
+      "title_zh": "科技发展与“地球村”",
+      "title_vi": "Phát triển khoa học kỹ thuật và “Làng toàn cầu”",
+      "lines": [
+        { "speaker": "", "chinese": "21世纪，我们的生活发生了巨大变化。几千公里以外的国家，以前坐船需要几个月，现在乘坐飞机不过十几个小时。原来寄信需要好几天，现在连邮局都不用去，只要在家里上网发个电子邮件，用不了一分钟，远处的朋友就能收到，比写信封用的时间都短。", "pinyin": "Èrshíyī shìjì, wǒmen de shēnghuó fāshēngle jùdà biànhuà. Jǐqiān gōnglǐ yǐwài de guójiā, yǐqián zuò chuán xūyào jǐ ge yuè, xiànzài chéngzuò fēijī bú guò shíjǐ ge xiǎoshí. Yuánlái jì xìn xūyào hǎojǐ tiān, xiànzài lián yóujú dōu búyòng qù, zhǐyào zài jiāli shàng wǎng fā ge diànzǐ yóujiàn, yòng bu liǎo yì fēnzhōng, yuǎnchù de péngyou jiù néng shōudào, bǐ xiě xìnfēng yòng de shíjiān dōu duǎn.", "vietnamese": "Thế kỷ 21, cuộc sống của chúng ta đã có sự biến đổi to lớn. Những quốc gia cách hàng nghìn ki-lô-mét, trước đây đi tàu thủy mất mấy tháng, nay ngồi máy bay chỉ mười mấy tiếng. Xưa gửi thư cần mấy ngày, nay ngay cả bưu điện cũng chẳng cần đi, chỉ cần ở nhà lên mạng gửi email, chưa đầy một phút bạn ở xa đã nhận được, ngắn hơn cả thời gian viết phong thư." },
+        { "speaker": "", "chinese": "以前外地的新闻要几天后才能知道，现在只要打开网站，任何信息都可以在第一时间获得。现代科学技术的发展让世界变得越来越小，所以现在人们都把地球叫作“地球村”。", "pinyin": "Yǐqián wàidì de xīnwén yào jǐ tiān hòu cái néng zhīdào, xiànzài zhǐyào dǎ kāi wǎngzhàn, rènhé xìnxī dōu kěyǐ zài dì-yī shíjiān huòdé. Xiàndài kēxué jìshù de fāzhǎn ràng shìjiè biànde yuè lái yuè xiǎo, suǒyǐ xiànzài rénmen dōu bǎ dìqiú jiàozuò “Dìqiú cūn”.", "vietnamese": "Trước kia tin tức nơi khác phải vài ngày sau mới biết, nay chỉ cần mở trang web, bất cứ thông tin nào cũng nắm được ngay lập tức. Sự phát triển của khoa học công nghệ hiện đại làm thế giới ngày càng thu nhỏ lại, nên ngày nay mọi người đều gọi Trái Đất là “Làng toàn cầu”." }
+      ]
+    }
+  ],
+  "reading_questions": [
+    { "question_zh": "王静给孙月推荐了一本什么书？为什么给她推荐这本书？", "question_vi": "Vương Tĩnh giới thiệu cho Tôn Nguyệt cuốn sách gì? Vì sao lại giới thiệu cuốn đó?", "answer_zh": "王静推荐了《新十万个为什么》。因为孙月的女儿总是有各种各样的“为什么”，而这本书卖得非常火，内容都是儿童想知道的科学知识。", "answer_vi": "Vương Tĩnh giới thiệu cuốn “Mười vạn câu hỏi vì sao mới”, vì con gái Tôn Nguyệt có đủ loại câu hỏi “tại sao”, còn cuốn sách bán rất chạy và chứa toàn kiến thức khoa học trẻ em muốn biết." },
+    { "question_zh": "这本书都有哪些内容？孙月担心什么？王静觉得这本书怎么样？", "question_vi": "Cuốn sách gồm những nội dung gì? Tôn Nguyệt lo lắng điều gì? Vương Tĩnh đánh giá sách ra sao?", "answer_zh": "内容包括地球、动物、植物、交通、科学技术、社会和文化等很多方面。孙月担心女儿太小不知道是否能读懂；王静觉得这本书语言简单易懂，一定能增长孩子的科学知识。", "answer_vi": "Nội dung gồm Trái Đất, động vật, thực vật, giao thông, khoa học kỹ thuật, xã hội và văn hóa... Tôn Nguyệt lo con quá nhỏ không đọc hiểu; Vương Tĩnh cho rằng ngôn ngữ đơn giản dễ hiểu, chắc chắn giúp tăng kiến thức khoa học cho bé." },
+    { "question_zh": "现在的大学生遇到不明白的问题怎么办？调查结果是什么？", "question_vi": "Sinh viên ngày nay gặp vấn đề chưa hiểu thì làm sao? Kết quả điều tra là gì?", "answer_zh": "可以马上在网上查找答案，几秒钟就把问题解决了。据调查，70%的人遇到问题时，首先想到的就是上网找答案。", "answer_vi": "Có thể lên mạng tra đáp án ngay, vài giây là xong. Theo điều tra, 70% số người khi gặp vấn đề trước tiên đều nghĩ đến việc lên mạng tìm đáp án." },
+    { "question_zh": "电脑和互联网技术的发展带来了哪些变化？网上写日记有哪些好处？", "question_vi": "Sự phát triển của máy tính và Internet mang lại những thay đổi nào? Viết nhật ký trên mạng có lợi ích gì?", "answer_zh": "使学习方式和生活方式都发生了很大改变。网上写日记可以让朋友及时了解自己的生活，既方便大家交流，还能节约用纸、保护环境，加密码后也安全。", "answer_vi": "Làm thay đổi lớn cả phương thức học tập lẫn lối sống. Viết nhật ký trên mạng giúp bạn bè kịp thời hiểu cuộc sống của mình, vừa tiện giao lưu, vừa tiết kiệm giấy, bảo vệ môi trường và có thể đặt mật khẩu cho an toàn." },
+    { "question_zh": "王静昨天晚上做了个什么样的梦？会有人从来没做过梦吗？", "question_vi": "Tối qua Vương Tĩnh mơ giấc mơ gì? Có ai chưa từng nằm mơ không?", "answer_zh": "她梦到在桥上走时突然开过来一辆车，非常危险，接着跳到车上跟警察一起抓住了一个坏人。不会，每个人都会做梦，区别只是有多有少，觉得没做梦只是忘记了。", "answer_vi": "Cô mơ đi trên cầu có xe lao tới rất nguy hiểm, sau đó nhảy lên xe cùng cảnh sát bắt kẻ xấu. Không có ai chưa từng mơ; ai cũng mơ chỉ là nhiều hay ít, tưởng không mơ chỉ vì đã quên." },
+    { "question_zh": "人们对梦进行过哪些解释？目前的研究结果是什么？", "question_vi": "Mọi người từng có những cách giải thích nào về giấc mơ? Kết quả nghiên cứu hiện tại ra sao?", "answer_zh": "很多人认为做梦是上天要告诉他们将来会发生的事；王静认为晚上睡觉时身体感觉到什么就容易梦到什么。目前仍然没有一个科学的说法。", "answer_vi": "Nhiều người cho rằng mơ là ông trời báo trước chuyện tương lai; Vương Tĩnh cho rằng ngủ cơ thể cảm nhận gì dễ mơ nấy. Hiện vẫn chưa có kết luận khoa học." },
+    { "question_zh": "手机都有哪些作用？迷路时怎么用手机帮忙？", "question_vi": "Điện thoại có những công dụng gì? Khi lạc đường dùng điện thoại giúp thế nào?", "answer_zh": "手机可以打电话、发短信、听音乐、看电影、阅读、玩儿游戏、付款购物等。迷路时只要用手机地图查一下地址，马上就能知道怎么去那个地点。", "answer_vi": "Điện thoại giúp gọi điện, nhắn tin, nghe nhạc, xem phim, đọc sách, chơi game, thanh toán mua sắm... Khi lạc đường chỉ cần dùng bản đồ điện thoại tra địa chỉ là biết cách tới địa điểm đó ngay." },
+    { "question_zh": "为什么说现代人的生活越来越离不开手机了？", "question_vi": "Vì sao nói cuộc sống người hiện đại ngày càng không thể thiếu điện thoại?", "answer_zh": "因为现在手机价格降低了、作用越来越大，大大方便了人们的生活，更像是一部可以拿在手中的电脑。", "answer_vi": "Vì giá điện thoại đã giảm, công dụng ngày càng lớn, mang lại nhiều tiện lợi cho đời sống và giống như một chiếc máy tính cầm tay." },
+    { "question_zh": "我们的生活发生了哪些变化？请举例说明。", "question_vi": "Cuộc sống của chúng ta đã xảy ra những thay đổi nào? Hãy nêu ví dụ.", "answer_zh": "例如：去几千公里以外的国家从坐船几个月变成坐飞机十几个小时；寄信从好几天变成上网发电子邮件用不了一分钟；外地新闻从几天后才知道变成打开网站第一时间获得。", "answer_vi": "Ví dụ: đi nước cách vài nghìn km từ đi tàu mấy tháng thành bay mười mấy tiếng; gửi thư từ mấy ngày thành gửi email chưa đầy một phút; tin tức nơi xa từ vài ngày sau mới biết thành mở web nắm được ngay." },
+    { "question_zh": "为什么人们把地球叫作“地球村”？", "question_vi": "Tại sao mọi người gọi Trái Đất là “Làng toàn cầu”?", "answer_zh": "因为现代科学技术的发展让交通、通信和信息获取都变得非常迅速，让世界变得越来越小。", "answer_vi": "Vì sự phát triển của khoa học công nghệ hiện đại khiến giao thông, liên lạc và tiếp nhận thông tin vô cùng nhanh chóng, làm thế giới ngày càng nhỏ lại." }
+  ],
+  "exercises": [
+    {
+      "id": "h4x18_ex1", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.118 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ thích hợp điền vào chỗ trống: “各位乘客，大家好，感谢大家乘坐此次航班，我们的飞机将于20分钟后______在北京首都国际机场。”",
+      "options": ["降落", "安全", "危险", "收"],
+      "answer": "降落",
+      "explanation": "降落在 + sân bay = hạ cánh xuống sân bay (trái nghĩa 起飞).",
+      "review_tip": "Ôn cặp động từ 起飞 — 降落."
+    },
+    {
+      "id": "h4x18_ex2", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.118 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Điền từ thích hợp: “说出去的话很难______回。因此，生气时不要随便说话，这时候说的一般都是气话，会给别人留下不好的印象，甚至会伤害别人。”",
+      "options": ["收", "举", "抓", "火"],
+      "answer": "收",
+      "explanation": "收回 = thu hồi lại (lời nói đã nói ra rất khó thu lại).",
+      "review_tip": "Ôn nghĩa mở rộng của động từ 收 (收到 nhận / 收回 thu lại)."
+    },
+    {
+      "id": "h4x18_ex3", "type": "meaning_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.119 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Điền đúng cặp Địa chỉ / Địa điểm vào hai câu sau:\n(1) 没问题，把你的邮箱______告诉我，我整理好了就发给你。\n(2) 时间不变，______改在西门了。",
+      "options": ["(1) 地址 / (2) 地点", "(1) 地点 / (2) 地址", "(1) 地点 / (2) 地点", "(1) 地址 / (2) 地址"],
+      "answer": "(1) 地址 / (2) 地点",
+      "explanation": "邮箱地址 = địa chỉ email; 集合/活动地点 = địa điểm tập trung/tổ chức.",
+      "review_tip": "Phân biệt 地址 (địa chỉ chi tiết/email) vs 地点 (địa điểm hoạt động)."
+    },
+    {
+      "id": "h4x18_ex4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "比一比 tr.114 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ ĐÚNG cho câu: “你先上网看看吧，多比较比较，______再做决定。”",
+      "options": ["然后", "接着", "是否", "除此以外"],
+      "answer": "然后",
+      "explanation": "Trong cấu trúc cố định “先……然后（再）……”, phải dùng liên từ 然后.",
+      "review_tip": "Ôn mục 比一比: 接着 — 然后."
+    },
+    {
+      "id": "h4x18_ex5", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "比一比 tr.114 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ ĐÚNG: “今天的课就到这儿，下节课______讲这个问题。”",
+      "options": ["接着", "然后", "否则", "然而"],
+      "answer": "接着",
+      "explanation": "Biểu thị 'tiếp tục làm phần việc dang dở trước đó' dùng phó từ 接着, không dùng 然后.",
+      "review_tip": "接着 có nghĩa 'làm tiếp' và dùng được khi hai vế khác chủ ngữ."
+    },
+    {
+      "id": "h4x18_ex6", "type": "fill_blank", "level": "Phân biệt", "origin_tag": "同字词 tr.119–120 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Điền từ cùng chữ 点: “A：你对小李的印象怎么样？ B：他的______是有礼貌，诚实，能吃苦，______是太马虎、太粗心了，不适合我们的工作。”",
+      "options": ["优点 / 缺点", "特点 / 重点", "优点 / 特点", "重点 / 缺点"],
+      "answer": "优点 / 缺点",
+      "explanation": "Có lễ phép, thành thật, chịu khó là 优点 (ưu điểm); quá cẩu thả, bất cẩn là 缺点 (khuyết điểm).",
+      "review_tip": "Ôn nhóm 同字词 chữ 点: 地点, 特点, 优点, 缺点, 重点."
+    },
+    {
+      "id": "h4x18_ex7", "type": "error_fix", "level": "Vận dụng", "origin_tag": "Bài 18 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Câu sau mắc lỗi ngữ pháp nào: “我不知道明天他是否来不来参加会议。”",
+      "options": [
+        "Thừa '不来' sau 是否 → sửa thành “我不知道明天他是否来参加会议。”",
+        "Đổi 是否 thành 受不了",
+        "Đổi 不知道 thành 没知道",
+        "Thêm 吗 ở cuối câu"
+      ],
+      "answer": "Thừa '不来' sau 是否 → sửa thành “我不知道明天他是否来参加会议。”",
+      "explanation": "Bản thân 是否 đã hàm chứa khẳng định + phủ định (是不是), nên không đi cùng dạng chính phản 来不来 và không thêm 吗.",
+      "review_tip": "是否 + V/Adj (không dùng kèm A不A hay 吗)."
+    },
+    {
+      "id": "h4x18_ex8", "type": "reorder", "level": "Vận dụng", "origin_tag": "Bài 18 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Sắp xếp thành câu hoàn chỉnh theo cấu trúc 把……叫作……:",
+      "tokens": ["把地球", "现在", "“地球村”。", "人们都", "叫作"],
+      "answer": "现在人们都把地球叫作“地球村”。",
+      "explanation": "Trật tự chuẩn: Thời gian (现在) + Chủ ngữ (人们) + Phó từ (都) + 把 + Tân ngữ (地球) + 叫作 + Tên gọi (“地球村”).",
+      "review_tip": "Ôn cấu trúc 把……叫作…… (tr.117)."
+    },
+    {
+      "id": "h4x18_ex9", "type": "reading_mc", "level": "Vận dụng", "origin_tag": "Bài khóa 4 & 5 (70%)", "mistake_category": "Đọc hiểu",
+      "prompt": "Theo Bài khóa 5, vì sao tác giả nhắc tới việc “比写信封用的时间都短”?",
+      "options": [
+        "Để nhấn mạnh gửi email qua Internet cực kỳ nhanh chóng nhờ công nghệ hiện đại.",
+        "Để khuyên mọi người không nên học viết chữ Hán nữa.",
+        "Để chứng minh bưu điện ngày nay không còn làm việc.",
+        "Để giải thích vì sao phong thư ngày nay đắt hơn trước."
+      ],
+      "answer": "Để nhấn mạnh gửi email qua Internet cực kỳ nhanh chóng nhờ công nghệ hiện đại.",
+      "explanation": "Gửi email chưa đầy 1 phút bạn ở xa đã nhận được — nhanh hơn cả thời gian viết một chiếc phong thư giấy.",
+      "review_tip": "Đọc kỹ câu so sánh trong Bài khóa 5."
+    },
+    {
+      "id": "h4x18_ex10", "type": "context_mc", "level": "Phân biệt", "origin_tag": "Ôn kiến thức cũ (30%)", "mistake_category": "Ngữ pháp",
+      "prompt": "[Ôn tập HSK 4 下 Bài 11] Chọn liên từ đúng: “无论是工作还是学习，______遇到了什么困难，都不应该轻易放弃。”",
+      "options": ["不管", "否则", "然而", "同时"],
+      "answer": "不管",
+      "explanation": "Cả 无论 và 不管 đều phối hợp với 都 biểu thị điều kiện bất kể; trước đại từ nghi vấn 什么 dùng 不管 tự nhiên, chuẩn xác.",
+      "review_tip": "Ôn lại cặp 无论 — 不管 từ Bài 11."
+    },
+    {
+      "id": "h4x18_ex11", "type": "translate_zh_vi", "level": "Vận dụng", "origin_tag": "Ôn kiến thức cũ (30%)", "mistake_category": "Dịch thuật",
+      "prompt": "[Ôn tập tổng hợp] Chọn bản dịch tự nhiên và sát nghĩa nhất cho câu: “电脑和互联网技术的发展不仅改变了学习方式，而且连生活方式也发生了很大改变。”",
+      "options": [
+        "Sự phát triển của máy tính và công nghệ Internet không chỉ thay đổi cách học, mà ngay cả lối sống cũng xảy ra thay đổi rất lớn.",
+        "Máy tính và Internet chỉ thay đổi cách học, còn lối sống thì vẫn giữ nguyên không đổi.",
+        "Sự phát triển của công nghệ làm sinh viên không thể tách rời sách giấy và lối sống cũ.",
+        "Mặc dù máy tính rất phát triển nhưng lối sống của mọi người lại ít khi thay đổi."
+      ],
+      "answer": "Sự phát triển của máy tính và công nghệ Internet không chỉ thay đổi cách học, mà ngay cả lối sống cũng xảy ra thay đổi rất lớn.",
+      "explanation": "Ôn kết hợp cấu trúc 不仅……而且…… với giới từ 连……也…… (Bài 11) cùng từ mới 方式, 技术 (Bài 18).",
+      "review_tip": "Ôn lại cấu trúc 不仅……而且…… và 连……也/都……."
+    }
+  ]
+}

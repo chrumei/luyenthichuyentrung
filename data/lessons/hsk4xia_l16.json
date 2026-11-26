@@ -1,0 +1,533 @@
+{
+  "id": "hsk4xia_l16",
+  "book_id": "hsk4xia",
+  "textbook": "HSK 4 下",
+  "lesson_number": 16,
+  "title_zh": "生活可以更美好",
+  "title_vi": "Cuộc sống có thể tươi đẹp hơn",
+  "pdf_pages": "Trang 81–92 (Chuẩn HSK4 下.pdf)",
+  "source_status": "verified_textbook",
+  "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"],
+  "vocabulary": [
+    {
+      "id": "hsk4x_l16_w01", "order": 1, "textbook": "HSK 4 下", "lesson": 16,
+      "hanzi": "博士", "pinyin": "bóshì",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "tiến sĩ", "structure": "读博士 / 博士学位 / 博士生", "explanation": "Học vị cao nhất sau thạc sĩ (硕士).", "examples": [{ "chinese": "我想出国读博士，一直在准备办签证需要的材料。", "pinyin": "Wǒ xiǎng chū guó dú bóshì, yìzhí zài zhǔnbèi bàn qiānzhèng xūyào de cáiliào.", "vietnamese": "Mình muốn ra nước ngoài học tiến sĩ, vẫn luôn chuẩn bị tài liệu cần để làm visa.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "学位的最高一级，也指获得博士学位的人。", "collocations": ["读博士", "博士毕业", "博士生"], "usage_note": "Hệ thống học vị tiếng Trung: 学士 (cử nhân) → 硕士 (thạc sĩ) → 博士 (tiến sĩ).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l16_w02", "order": 2, "textbook": "HSK 4 下", "lesson": 16,
+      "hanzi": "签证", "pinyin": "qiānzhèng",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "thị thực, visa", "structure": "办签证 / 旅游签证 / 留学签证", "explanation": "Giấy phép xuất nhập cảnh do đại sứ quán/lãnh sự quán nước ngoài cấp trên hộ chiếu.", "examples": [{ "chinese": "下个星期我就要去使馆办签证了，这可怎么办？", "pinyin": "Xià ge xīngqī wǒ jiù yào qù shǐguǎn bàn qiānzhèng le, zhè kě zěnme bàn?", "vietnamese": "Tuần sau mình đã phải đến đại sứ quán làm visa rồi, giờ biết làm sao đây?", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "一国政府机关在护照上签注的准许出入境的证明。", "collocations": ["办签证", "拿签证", "学生签证"], "usage_note": "Phân biệt với 护照 (hộ chiếu – nước mình cấp) và 签证 (visa – nước đến cấp).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l16_w03", "order": 3, "textbook": "HSK 4 下", "lesson": 16,
+      "hanzi": "报名", "pinyin": "bào míng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ ly hợp)", "meaning": "ghi danh, đăng ký", "structure": "报名参加…… / 报名表格 / 报了名", "explanation": "Đăng ký tên tham gia thi cử, khóa học, cuộc thi hoặc hoạt động.", "examples": [{ "chinese": "另外，还跟国外的大学取得了联系，填写了报名表格。", "pinyin": "Lìngwài, hái gēn guówài de dàxué qǔdéle liánxì, tiánxiěle bào míng biǎogé.", "vietnamese": "Ngoài ra, mình còn liên hệ với trường đại học nước ngoài và điền mẫu đơn đăng ký rồi.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "向有关机构报告姓名，表示愿意参加某种活动或考试。", "collocations": ["报名参加", "报名表", "网上报名"], "usage_note": "Động từ ly hợp: không mang tân ngữ trực tiếp (nói 报名参加比赛, không nói 报名比赛).", "common_errors": "Sai: '我报名汉语课' → Đúng: '我报名参加汉语课'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l16_w04", "order": 4, "textbook": "HSK 4 下", "lesson": 16,
+      "hanzi": "表格", "pinyin": "biǎogé",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "bản kê khai, mẫu đơn", "structure": "填写表格 / 一张表格 / 报名表格", "explanation": "Mẫu giấy hoặc biểu mẫu chia ô sẵn để điền thông tin.", "examples": [{ "chinese": "另外，还跟国外的大学取得了联系，填写了报名表格。", "pinyin": "Lìngwài, hái gēn guówài de dàxué qǔdéle liánxì, tiánxiěle bào míng biǎogé.", "vietnamese": "Ngoài ra, mình còn liên hệ với trường đại học nước ngoài và điền mẫu đơn đăng ký rồi.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "按项目画成格子，分别填写文字或数字的书面材料。", "collocations": ["填表格", "报名表格", "一张表格"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l16_w05", "order": 5, "textbook": "HSK 4 下", "lesson": 16,
+      "hanzi": "传真", "pinyin": "chuánzhēn",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "gửi fax", "structure": "把……传真给……", "explanation": "Truyền tải văn bản, hình ảnh qua đường dây máy fax.", "examples": [{ "chinese": "他们把邀请信传真给你了吗？", "pinyin": "Tāmen bǎ yāoqǐngxìn chuánzhēn gěi nǐ le ma?", "vietnamese": "Họ đã gửi fax thư mời cho cậu chưa?", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["bản fax, máy fax"], "structure": "发传真 / 收传真 / 传真机", "difference_note": "Khi dùng làm danh từ chỉ bản fax hoặc thiết bị gửi fax.", "examples": [{ "chinese": "请把这份合同通过传真发到我们办公室。", "pinyin": "Qǐng bǎ zhè fèn hétong tōngguò chuánzhēn fā dào wǒmen bàngōngshì.", "vietnamese": "Xin hãy gửi bản hợp đồng này qua fax tới văn phòng chúng tôi." }] }
+      ],
+      "chinese_explanation": "利用电信号把文字、图表传送到远方；也指传真文件或传真机。", "collocations": ["发传真", "传真给……", "传真号码"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l16_w06", "order": 6, "textbook": "HSK 4 下", "lesson": 16,
+      "hanzi": "号码", "pinyin": "hàomǎ",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "số", "structure": "电话号码 / 手机号码 / 房间号码", "explanation": "Dãy chữ số dùng để đánh dấu, định danh (điện thoại, chứng minh thư, vé, phòng).", "examples": [{ "chinese": "我帮你查一下学校的电话号码，你打电话问一下吧。", "pinyin": "Wǒ bāng nǐ chá yíxià xuéxiào de diànhuà hàomǎ, nǐ dǎ diànhuà wèn yíxià ba.", "vietnamese": "Mình giúp cậu tra số điện thoại của trường, cậu gọi điện hỏi thử xem.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "代表一定顺序或编号的数字。", "collocations": ["电话号码", "手机号码", "身份证号码"], "usage_note": "Phân biệt với 数字 (con số toán học nói chung).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l16_w07", "order": 7, "textbook": "HSK 4 下", "lesson": 16,
+      "hanzi": "参观", "pinyin": "cānguān",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "tham quan, đi thăm", "structure": "参观 + Địa điểm (公司 / 博物馆 / 大学)", "explanation": "Đến tận nơi xem thực tế để tham khảo, học hỏi hoặc du lịch (thường là công ty, bảo tàng, triển lãm, danh thắng).", "examples": [{ "chinese": "谢谢您带我参观您的公司。", "pinyin": "Xièxie nín dài wǒ cānguān nín de gōngsī.", "vietnamese": "Cảm ơn ngài đã dẫn tôi đi tham quan công ty của ngài.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "实地观察（工作成绩、事业、设施、名胜古迹等）。", "collocations": ["参观公司", "参观博物馆", "参观学习"], "usage_note": "Không dùng 参观 để nói thăm người ốm/thăm bạn bè (thăm người dùng 看望 hoặc 拜访).", "common_errors": "Sai: '参观奶奶' → Đúng: '看望奶奶'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l16_w08", "order": 8, "textbook": "HSK 4 下", "lesson": 16,
+      "hanzi": "激动", "pinyin": "jīdòng",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "cảm động, xúc động", "structure": "很激动 / 非常激动 / 激动地说", "explanation": "Tình cảm dâng trào mạnh mẽ vì phấn khởi, hồi hộp hoặc xúc động.", "examples": [{ "chinese": "在参观过程中我很激动，有个问题一直想问您。", "pinyin": "Zài cānguān guòchéng zhōng wǒ hěn jīdòng, yǒu ge wèntí yìzhí xiǎng wèn nín.", "vietnamese": "Trong quá trình tham quan tôi rất xúc động, có một câu hỏi vẫn luôn muốn hỏi ngài.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ)", "meanings": ["làm xúc động, khuấy động lòng người"], "structure": "激动人心", "difference_note": "Làm động từ gây khiến trong thành ngữ cố định '激动人心' (xúc động lòng người).", "examples": [{ "chinese": "这是一场非常激动人心的比赛。", "pinyin": "Zhè shì yì chǎng fēicháng jīdòng rénxīn de bǐsài.", "vietnamese": "Đây là một trận đấu vô cùng sôi động, làm nức lòng người." }] }
+      ],
+      "chinese_explanation": "（感情）因受刺激而冲动；使感情冲动。", "collocations": ["心情激动", "激动地说", "激动人心"], "usage_note": "Phân biệt với 感动 (cảm động vì tình cảm/sự giúp đỡ); 激动 thiên về cảm xúc dâng trào mạnh, phấn khích, hồi hộp.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l16_w09", "order": 9, "textbook": "HSK 4 下", "lesson": 16,
+      "hanzi": "小伙子", "pinyin": "xiǎohuǒzi",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "chàng trai", "structure": "好啊！小伙子 / 帅气的小伙子", "explanation": "Cách gọi thân mật của người lớn tuổi đối với thanh niên nam trẻ tuổi.", "examples": [{ "chinese": "好啊！小伙子，咱们一边吃西瓜，一边聊。", "pinyin": "Hǎo a! Xiǎohuǒzi, zánmen yìbiān chī xīguā, yìbiān liáo.", "vietnamese": "Được thôi! Chàng trai, chúng ta vừa ăn dưa hấu vừa trò chuyện nhé.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "年轻男子。", "collocations": ["年轻小伙子", "精神的小伙子"], "usage_note": "Tương ứng với nữ thanh niên là 姑娘 (gūniang).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l16_w10", "order": 10, "textbook": "HSK 4 下", "lesson": 16,
+      "hanzi": "记者", "pinyin": "jìzhě",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "phóng viên, nhà báo", "structure": "一个记者 / 采访记者", "explanation": "Người chuyên thu thập, viết tin bài cho báo chí, đài phát thanh, truyền hình.", "examples": [{ "chinese": "这个问题以前一个记者也问过我。", "pinyin": "Zhège wèntí yǐqián yí ge jìzhě yě wènguo wǒ.", "vietnamese": "Câu hỏi này trước đây một phóng viên cũng từng hỏi tôi rồi.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "报社、通讯社、广播电台、电视台负责采访和报道新闻的专业人员。", "collocations": ["新闻记者", "记者会", "当记者"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l16_w11", "order": 11, "textbook": "HSK 4 下", "lesson": 16,
+      "hanzi": "代表", "pinyin": "dàibiǎo",
+      "is_out_of_syllabus": true,
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "đại diện, thay mặt", "structure": "用 A 代表 B / 代表公司", "explanation": "Từ ngoài đề cương (*). Thay mặt cho tập thể, cá nhân hoặc tượng trưng cho ý nghĩa nào đó.", "examples": [{ "chinese": "这里有三块大小不同的西瓜，我们用西瓜的大小代表钱的多少。", "pinyin": "Zhèlǐ yǒu sān kuài dà xiǎo bù tóng de xīguā, wǒmen yòng xīguā de dà xiǎo dàibiǎo qián de duō shǎo.", "vietnamese": "Ở đây có ba miếng dưa hấu lớn nhỏ khác nhau, chúng ta dùng kích thước miếng dưa để đại diện cho số tiền nhiều hay ít.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["người đại biểu, đại diện"], "structure": "学生代表 / 会议代表 / 代表团", "difference_note": "Chỉ cá nhân hoặc đoàn thể được cử ra đại diện cho tổ chức.", "examples": [{ "chinese": "她作为学生代表在毕业典礼上发了言。", "pinyin": "Tā zuòwéi xuésheng dàibiǎo zài bìyè diǎnlǐ shang fā le yán.", "vietnamese": "Cô ấy với tư cách đại diện sinh viên đã phát biểu tại lễ tốt nghiệp." }] }
+      ],
+      "chinese_explanation": "代替个人或集体办事、表达意见；显示某种意义；也指被推举出来的代表人。", "collocations": ["代表大家", "用……代表……", "学生代表"], "usage_note": "Từ có dấu * trong sách gốc nhưng xuất hiện dày đặc ở HSK 4–5.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l16_w12", "order": 12, "textbook": "HSK 4 下", "lesson": 16,
+      "hanzi": "恐怕", "pinyin": "kǒngpà",
+      "lesson_usage": { "part_of_speech": "副词 (Phó từ)", "meaning": "e rằng, có lẽ", "structure": "恐怕 + S + V / S + 恐怕 + V", "explanation": "Biểu thị sự ước đoán, phỏng đoán (có thể kèm chút lo lắng hoặc không, gần với 大概、也许).", "examples": [{ "chinese": "听完我的回答，恐怕你已经知道我的答案了吧。", "pinyin": "Tīngwán wǒ de huídá, kǒngpà nǐ yǐjīng zhīdào wǒ de dá'àn le ba.", "vietnamese": "Nghe xong câu trả lời của tôi, có lẽ cậu đã biết đáp án của tôi rồi chứ.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ — nêu ngay trong Chú thích 2 tr.84)", "meanings": ["lo lắng, e ngại (担心)"], "structure": "我恐怕 + V (không đặt trực tiếp trước danh từ)", "difference_note": "Theo mục 比一比 tr.85, khi làm động từ nghĩa 'lo lắng', 恐怕 chỉ đặt trước ĐỘNG TỪ, còn 怕 đặt được trước cả động từ lẫn danh từ.", "examples": [{ "chinese": "我的工作经验还比较少，那份工作我恐怕完成不了。", "pinyin": "Wǒ de gōngzuò jīngyàn hái bǐjiào shǎo, nà fèn gōngzuò wǒ kǒngpà wánchéng bu liǎo.", "vietnamese": "Kinh nghiệm làm việc của tôi còn khá ít, tôi e rằng không hoàn thành nổi công việc đó." }] }
+      ],
+      "chinese_explanation": "副词，表示估计兼担心，或单纯推测（也许、大概）；动词，表示担心。", "collocations": ["恐怕不行", "恐怕来不及了", "恐怕已经"], "usage_note": "Xem kỹ bảng 比一比 '恐怕 — 怕' ở tr.85–86.", "common_errors": "Sai: '我恐怕他们吃不了' (trước đại từ/danh từ '他们' phải dùng 怕: '我怕他们吃不了').", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l16_w13", "order": 13, "textbook": "HSK 4 下", "lesson": 16,
+      "hanzi": "失望", "pinyin": "shīwàng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "thất vọng", "structure": "对……失望 / 让……失望 / 又要失望了", "explanation": "Cảm thấy hụt hẫng vì hy vọng không thành hiện thực.", "examples": [{ "chinese": "今年放假我又回不了家了，这次我父母又要失望了。", "pinyin": "Jīnnián fàng jià wǒ yòu huí bu liǎo jiā le, zhè cì wǒ fùmǔ yòu yào shīwàng le.", "vietnamese": "Kỳ nghỉ năm nay mình lại không về nhà được rồi, lần này bố mẹ mình lại thất vọng nữa đây.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "形容词 (Tính từ)", "meanings": ["cảm thấy thất vọng, chán nản"], "structure": "很失望 / 十分失望 / 失望的表情", "difference_note": "Có thể nhận phó từ mức độ đứng trước (很失望) hoặc làm định ngữ (失望的眼神).", "examples": [{ "chinese": "比赛输了，大家心里都很失望。", "pinyin": "Bǐsài shū le, dàjiā xīnli dōu hěn shīwàng.", "vietnamese": "Trận đấu thua rồi, trong lòng mọi người đều rất thất vọng." }] }
+      ],
+      "chinese_explanation": "感到没有希望，失去信心；希望落空而不愉快。", "collocations": ["很失望", "让父母失望", "对……感到失望"], "usage_note": "Không mang tân ngữ trực tiếp (dùng 对 + Đối tượng + 失望).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l16_w14", "order": 14, "textbook": "HSK 4 下", "lesson": 16,
+      "hanzi": "郊区", "pinyin": "jiāoqū",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "vùng ngoại ô", "structure": "去郊区 / 住在郊区 / 北京郊区", "explanation": "Khu vực nằm xung quanh ngoại vi thành phố (đối lập với 市区 – nội thành).", "examples": [{ "chinese": "我计划去郊区住一个月。", "pinyin": "Wǒ jìhuà qù jiāoqū zhù yí ge yuè.", "vietnamese": "Mình dự định ra vùng ngoại ô ở một tháng.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "城市周围靠近农村的区域。", "collocations": ["去郊区", "郊区空气新鲜", "市区和郊区"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l16_w15", "order": 15, "textbook": "HSK 4 下", "lesson": 16,
+      "hanzi": "到底", "pinyin": "dàodǐ",
+      "lesson_usage": { "part_of_speech": "副词 (Phó từ)", "meaning": "(được dùng trong câu hỏi để nhấn mạnh) rốt cuộc", "structure": "S + 到底 + Câu hỏi (không có 吗) / 到底 + Đại từ nghi vấn (chủ ngữ)", "explanation": "Đặt trong câu hỏi (trừ câu hỏi có 吗) hoặc câu trần thuật chứa đại từ nghi vấn để truy vấn sâu hơn.", "examples": [{ "chinese": "你不是已经买好火车票了吗？你到底怎么打算的呀？", "pinyin": "Nǐ bú shì yǐjīng mǎihǎo huǒchēpiào le ma? Nǐ dàodǐ zěnme dǎsuàn de ya?", "vietnamese": "Không phải cậu đã mua sẵn vé tàu rồi sao? Rốt cuộc cậu tính thế nào đấy?", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ — nêu ngay trong Chú thích 3 tr.86)", "meanings": ["đến cùng, đến tận điểm cuối"], "structure": "V + 到底 (逛到底 / 进行到底 / 坚持到底)", "difference_note": "Nghĩa gốc động từ chỉ làm một việc tới cùng, không bỏ dở giữa chừng.", "examples": [{ "chinese": "今天我一定陪你逛街逛到底，保证让你买到合适的衣服。", "pinyin": "Jīntiān wǒ yídìng péi nǐ guàngjiē guàng dàodǐ, bǎozhèng ràng nǐ mǎidào héshì de yīfu.", "vietnamese": "Hôm nay mình nhất định đi dạo phố cùng cậu đến cùng, đảm bảo cho cậu mua được bộ quần áo ưng ý." }] },
+        { "part_of_speech": "副词 (Nghĩa: cuối cùng thì cũng / dù sao đi nữa)", "meanings": ["cuối cùng thì cũng", "dù sao vẫn là (nhấn mạnh nguyên nhân thực chất)"], "structure": "经过努力，到底成功了", "difference_note": "Dùng trong câu trần thuật (không có đại từ nghi vấn) để nhấn mạnh kết quả cuối cùng sau quá trình dài.", "examples": [{ "chinese": "经过多年的努力，他到底实现了自己的梦想。", "pinyin": "Jīngguò duōnián de nǔlì, tā dàodǐ shíxiàn le zìjǐ de mèngxiǎng.", "vietnamese": "Trải qua nhiều năm nỗ lực, cuối cùng anh ấy cũng thực hiện được ước mơ của mình." }] }
+      ],
+      "chinese_explanation": "副词，用在疑问句中表示深究；也指终于、毕竟；动词表示一直到终点。", "collocations": ["到底怎么回事", "到底是谁", "坚持到底"], "usage_note": "KHÔNG dùng trong câu hỏi có 吗 (Sai: '你到底去吗？' → Đúng: '你到底去不去？'). Nếu chủ ngữ là đại từ nghi vấn (谁/什么), 到底 đặt TRƯỚC chủ ngữ.", "common_errors": "Sai: '谁到底去参加比赛？' → Đúng: '到底谁去参加比赛？'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l16_w16", "order": 16, "textbook": "HSK 4 下", "lesson": 16,
+      "hanzi": "呀", "pinyin": "ya",
+      "lesson_usage": { "part_of_speech": "助词 (Trợ từ ngữ khí)", "meaning": "(biến thể của 啊, đặt cuối câu hỏi làm giọng điệu nhẹ nhàng hơn)", "structure": "Câu hỏi / Câu cảm thán + 呀", "explanation": "Biến âm tự nhiên của 啊 khi đứng sau âm tiết kết thúc bằng a, e, i, o, ü, giúp câu nói mềm mại, thân mật hơn.", "examples": [{ "chinese": "你到底怎么打算的呀？", "pinyin": "Nǐ dàodǐ zěnme dǎsuàn de ya?", "vietnamese": "Rốt cuộc cậu định tính thế nào đấy hả?", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "语气助词，“啊”受前一字韵母影响产生的变音。", "collocations": ["怎么了呀", "好呀", "快走呀"], "usage_note": "Đọc thanh nhẹ (ya).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l16_w17", "order": 17, "textbook": "HSK 4 下", "lesson": 16,
+      "hanzi": "导游", "pinyin": "dǎoyóu",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "hướng dẫn viên du lịch", "structure": "当导游 / 一位导游", "explanation": "Người dẫn đường và giới thiệu danh lam thắng cảnh cho khách du lịch.", "examples": [{ "chinese": "昨天一个外地的好朋友打电话说要来旅游，让我当导游，我实在不好意思拒绝。", "pinyin": "Zuótiān yí ge wàidì de hǎo péngyou dǎ diànhuà shuō yào lái lǚyóu, ràng wǒ dāng dǎoyóu, wǒ shízài bù hǎo yìsi jùjué.", "vietnamese": "Hôm qua một người bạn thân ở tỉnh khác gọi điện nói sắp đến du lịch, nhờ mình làm hướng dẫn viên, mình thực sự ngại từ chối.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "带领游客游览并进行讲解的人。", "collocations": ["当导游", "导游图", "导游词"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l16_w18", "order": 18, "textbook": "HSK 4 下", "lesson": 16,
+      "hanzi": "礼貌", "pinyin": "lǐmào",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "lễ phép, lịch sự", "structure": "既合适又礼貌 / 很礼貌", "explanation": "Lời nói và cử chỉ nhã nhặn, tôn trọng người khác.", "examples": [{ "chinese": "如果你用一个既合适又礼貌的方法告诉朋友，他一定会原谅你的。", "pinyin": "Rúguǒ nǐ yòng yí ge jì héshì yòu lǐmào de fāngfǎ gàosu péngyou, tā yídìng huì yuánliàng nǐ de.", "vietnamese": "Nếu cậu dùng một cách vừa thích hợp vừa lịch sự để nói với bạn, chắc chắn bạn ấy sẽ thông cảm cho cậu.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["phép lịch sự, lễ nghĩa"], "structure": "有礼貌 / 讲礼貌 / 表示礼貌", "difference_note": "Rất hay làm tân ngữ cho 有 (有礼貌 – có phép lịch sự) hoặc 表示 (tr.91: 表示对客人的尊重和礼貌).", "examples": [{ "chinese": "这个孩子很有礼貌，见到长辈总是主动问好。", "pinyin": "Zhège háizi hěn yǒu lǐmào, jiàndào zhǎngbèi zǒngshì zhǔdòng wènhǎo.", "vietnamese": "Đứa trẻ này rất lễ phép, gặp người lớn tuổi luôn chủ động chào hỏi." }] }
+      ],
+      "chinese_explanation": "言语动作谦虚恭敬的表现。", "collocations": ["有礼貌", "讲礼貌", "不礼貌"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l16_w19", "order": 19, "textbook": "HSK 4 下", "lesson": 16,
+      "hanzi": "原谅", "pinyin": "yuánliàng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "tha thứ", "structure": "原谅 + Người / 错误 (请原谅我)", "explanation": "Bỏ qua lỗi lầm hoặc sự sơ suất của người khác.", "examples": [{ "chinese": "他一定会原谅你的。", "pinyin": "Tā yídìng huì yuánliàng nǐ de.", "vietnamese": "Anh ấy nhất định sẽ tha thứ cho cậu.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["sự tha thứ, lòng bao dung"], "structure": "得到别人的原谅 / 请求原谅", "difference_note": "Như câu 1 bài tập tr.90 ('虽然得到别人的原谅很容易……'), dùng như danh từ làm tân ngữ.", "examples": [{ "chinese": "虽然得到别人的原谅很容易，但要重新让别人再相信你却很难。", "pinyin": "Suīrán dédào biérén de yuánliàng hěn róngyì, dàn yào chóngxīn ràng biérén zài xiāngxìn nǐ què hěn nán.", "vietnamese": "Tuy có được sự tha thứ của người khác rất dễ, nhưng để người ta tin tưởng lại bạn thì rất khó." }] }
+      ],
+      "chinese_explanation": "对过失、错误等宽恕、谅解。", "collocations": ["请原谅", "得到原谅", "原谅别人"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l16_w20", "order": 20, "textbook": "HSK 4 下", "lesson": 16,
+      "hanzi": "挂", "pinyin": "guà",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "treo, móc", "structure": "把……挂在嘴边 / 挂在墙上", "explanation": "Treo vật lên cao; trong bài khóa 4 dùng nghĩa bóng cố định '挂在嘴边' (hay nói cửa miệng).", "examples": [{ "chinese": "有些同学经常把“明天”和“将来”挂在嘴边。", "pinyin": "Yǒuxiē tóngxué jīngcháng bǎ “míngtiān” hé “jiānglái” guà zài zuǐ biān.", "vietnamese": "Một số bạn học thường xuyên treo hai chữ “ngày mai” và “tương lai” trên cửa miệng.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Nghĩa mở rộng: cúp máy / lấy số khám bệnh)", "meanings": ["cúp máy điện thoại (挂电话)", "đăng ký lấy số khám bệnh (挂号)"], "structure": "挂电话 / 挂号", "difference_note": "Rất phổ biến trong giao tiếp đời sống hằng ngày tại Trung Quốc.", "examples": [{ "chinese": "他话还没说完就把电话挂了。", "pinyin": "Tā huà hái méi shuōwán jiù bǎ diànhuà guà le.", "vietnamese": "Anh ấy nói còn chưa xong đã cúp máy rồi." }] }
+      ],
+      "chinese_explanation": "借助绳子、钩子等悬在高处；也用于挂电话、挂号、挂在嘴边。", "collocations": ["挂在嘴边", "挂地图", "挂电话", "挂号"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l16_w21", "order": 21, "textbook": "HSK 4 下", "lesson": 16,
+      "hanzi": "同情", "pinyin": "tóngqíng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "thông cảm, đồng tình", "structure": "同情 + Người / 遭遇 (得到别人的同情)", "explanation": "Cảm thấy xót thương, sẻ chia trước hoàn cảnh khó khăn hoặc nỗi đau của người khác.", "examples": [{ "chinese": "不但会让你到最后什么事情都做不成，而且还得不到别人的同情。", "pinyin": "Búdàn huì ràng nǐ dào zuìhòu shénme shìqing dōu zuò bu chéng, érqiě hái dé bu dào biérén de tóngqíng.", "vietnamese": "Không những khiến bạn cuối cùng chẳng làm nên trò trống gì mà còn không nhận được sự thông cảm của người khác.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["lòng thương cảm, sự đồng cảm"], "structure": "同情心 / 充满同情 / 得到同情", "difference_note": "Ngay trong bài khóa 4 ('得到别人的同情') và bài tập tr.90 ('没有同情心') đều dùng với chức năng danh từ.", "examples": [{ "chinese": "爱批评人或者没有同情心的人是最不受欢迎的。", "pinyin": "Ài pīpíng rén huòzhě méiyǒu tóngqíngxīn de rén shì zuì bú shòu huānyíng de.", "vietnamese": "Người hay phê bình người khác hoặc thiếu lòng đồng cảm là người ít được chào đón nhất." }] }
+      ],
+      "chinese_explanation": "对别人的遭遇在感情上发生共鸣；赞成、支持。", "collocations": ["同情他", "同情心", "得到同情"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l16_w22", "order": 22, "textbook": "HSK 4 下", "lesson": 16,
+      "hanzi": "推", "pinyin": "tuī",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "hoãn lại, đẩy, triển khai", "structure": "把……推到明天 / 推出活动", "explanation": "Trong bài khóa 4 mang nghĩa 'đẩy lùi, trì hoãn thời gian'; trong bài tập tr.91 còn kết hợp thành '推出' (tung ra, triển khai).", "examples": [{ "chinese": "所以不要把什么事情都推到“明天”，一切从现在做起。", "pinyin": "Suǒyǐ búyào bǎ shénme shìqing dōu tuīdào “míngtiān”, yíqiè cóng xiànzài zuòqǐ.", "vietnamese": "Vì vậy đừng đẩy mọi việc sang “ngày mai”, hãy bắt đầu tất cả từ ngay bây giờ.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Nghĩa gốc: đẩy vật về phía trước)", "meanings": ["đẩy (cửa, xe)", "đẩy mạnh, tung ra (推出)", "hoãn lại (推迟)"], "structure": "推门 / 推车 / 推迟 / 推出", "difference_note": "Nghĩa gốc vật lý là dùng lực đẩy (đối lập với 拉 – kéo); mở rộng sang 推迟 (hoãn), 推出 (ra mắt sản phẩm/hoạt động).", "examples": [{ "chinese": "我们现在推出了“以旧换新”的活动，吸引了不少顾客。", "pinyin": "Wǒmen xiànzài tuīchū le “yǐ jiù huàn xīn” de huódòng, xīyǐn le bù shǎo gùkè.", "vietnamese": "Hiện tại chúng tôi đã triển khai chương trình “đổi cũ lấy mới”, thu hút khá nhiều khách hàng." }] }
+      ],
+      "chinese_explanation": "用力使物体向前移动；使时间向后延；推广、推出。", "collocations": ["推到明天", "推迟", "推出", "推门"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l16_w23", "order": 23, "textbook": "HSK 4 下", "lesson": 16,
+      "hanzi": "预习", "pinyin": "yùxí",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "chuẩn bị bài", "structure": "课前预习 / 预习课文 / 预习生词", "explanation": "Đọc trước, xem trước nội dung bài học mới trước khi lên lớp (tạo thành bộ đôi với 复习 – ôn tập).", "examples": [{ "chinese": "就拿学汉语来说吧，首先要注意课前预习，找出第二天要学习的重点。", "pinyin": "Jiù ná xué Hànyǔ lái shuō ba, shǒuxiān yào zhùyì kè qián yùxí, zhǎochū dì-èr tiān yào xuéxí de zhòngdiǎn.", "vietnamese": "Cứ lấy việc học tiếng Hán mà nói, trước hết phải chú ý chuẩn bị bài trước giờ học, tìm ra trọng điểm cần học ngày hôm sau.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "学生预先自学将要听讲的功课。", "collocations": ["课前预习", "预习课文", "预习和复习"], "usage_note": "Cặp đôi học tập kinh điển: 课前预习 (chuẩn bị trước giờ học) — 课后复习 (ôn tập sau giờ học).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l16_w24", "order": 24, "textbook": "HSK 4 下", "lesson": 16,
+      "hanzi": "重点", "pinyin": "zhòngdiǎn",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "trọng điểm, trọng tâm", "structure": "学习的重点 / 找到重点 / 先讲重点", "explanation": "Phần cốt lõi, quan trọng nhất trong bài học, công việc hoặc phát biểu.", "examples": [{ "chinese": "找出第二天要学习的重点。", "pinyin": "Zhǎochū dì-èr tiān yào xuéxí de zhòngdiǎn.", "vietnamese": "Tìm ra trọng điểm cần học vào ngày hôm sau.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "形容词 / 副词 (Định ngữ / Trạng ngữ)", "meanings": ["trọng điểm, mũi nhọn", "tập trung, chủ yếu"], "structure": "重点大学 / 重点保护", "difference_note": "Làm định ngữ trực tiếp trước danh từ (重点中学/大学) hoặc trạng ngữ nhấn mạnh mức độ ưu tiên.", "examples": [{ "chinese": "她以优异的成绩考上了全国重点大学。", "pinyin": "Tā yǐ yōuyì de chéngjì kǎoshàng le quánguó zhòngdiǎn dàxué.", "vietnamese": "Cô ấy đỗ vào trường đại học trọng điểm quốc gia với thành tích xuất sắc." }] }
+      ],
+      "chinese_explanation": "同类事物中最重要或最主要的部分。", "collocations": ["学习重点", "讲重点", "重点大学"], "usage_note": "Nằm trong nhóm 同字词 chữ 重 (严重、重点、重视、尊重).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l16_w25", "order": 25, "textbook": "HSK 4 下", "lesson": 16,
+      "hanzi": "马虎", "pinyin": "mǎhu",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "cẩu thả, lơ đễnh", "structure": "不能马虎 / 很马虎 / 马马虎虎", "explanation": "Làm việc qua loa, thiếu cẩn thận, không nghiêm túc (gần nghĩa với 粗心 ở Bài 15).", "examples": [{ "chinese": "其次，上课时要认真听，不能马虎。", "pinyin": "Qícì, shàng kè shí yào rènzhēn tīng, bù néng mǎhu.", "vietnamese": "Thứ hai, khi lên lớp phải chăm chú nghe giảng, không được lơ đễnh cẩu thả.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "草率，敷衍，疏忽大意。", "collocations": ["不能马虎", "做事马虎", "马马虎虎"], "usage_note": "Âm tiết thứ hai đọc thanh nhẹ (mǎhu). Hình thức lặp AABB: 马马虎虎 (tàm tạm, qua loa).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l16_w26", "order": 26, "textbook": "HSK 4 下", "lesson": 16,
+      "hanzi": "自信", "pinyin": "zìxìn",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "tự tin", "structure": "越说越自信 / 很自信", "explanation": "Tin tưởng vào năng lực, giá trị của bản thân.", "examples": [{ "chinese": "只要这样，汉语就能越学越好，越说越自信。", "pinyin": "Zhǐyào zhèyàng, Hànyǔ jiù néng yuè xué yuè hǎo, yuè shuō yuè zìxìn.", "vietnamese": "Chỉ cần như vậy, tiếng Hán sẽ càng học càng giỏi, càng nói càng tự tin.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["sự tự tin, lòng tự tin"], "structure": "充满自信 / 自信心", "difference_note": "Có thể làm tân ngữ cho 充满 (tràn đầy), 缺乏 (thiếu), 失去 (đánh mất).", "examples": [{ "chinese": "她站在讲台上，脸上充满了自信。", "pinyin": "Tā zhàn zài jiǎngtái shang, liǎnshang chōngmǎn le zìxìn.", "vietnamese": "Cô ấy đứng trên bục giảng, gương mặt tràn đầy sự tự tin." }] }
+      ],
+      "chinese_explanation": "相信自己。", "collocations": ["很自信", "充满自信", "自信心"], "usage_note": "Phân biệt với 信心 (danh từ: niềm tin – có thể là niềm tin vào bản thân hoặc vào việc gì đó: 对自己有信心).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l16_w27", "order": 27, "textbook": "HSK 4 下", "lesson": 16,
+      "hanzi": "冷静", "pinyin": "lěngjìng",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "bình tĩnh, điềm tĩnh", "structure": "千万要冷静 / 保持冷静 / 冷静思考", "explanation": "Giữ đầu óc tỉnh táo, điềm đạm, không nóng vội hay kiêu ngạo.", "examples": [{ "chinese": "当你认为自己在哪方面很优秀时，千万要冷静，不要骄傲。", "pinyin": "Dāng nǐ rènwéi zìjǐ zài nǎ fāngmiàn hěn yōuxiù shí, qiānwàn yào lěngjìng, búyào jiāo'ào.", "vietnamese": "Khi bạn cho rằng mình rất xuất sắc ở phương diện nào đó, nhất thiết phải bình tĩnh, đừng kiêu ngạo.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ — dạng lặp lại)", "meanings": ["trấn tĩnh lại, bình tâm lại"], "structure": "冷静冷静 / 冷静下来", "difference_note": "Dùng như động từ khi khuyên ai đó hạ hỏa, bình tĩnh trở lại.", "examples": [{ "chinese": "你先别着急，坐下来冷静冷静再说。", "pinyin": "Nǐ xiān bié zháojí, zuò xialai lěngjing lěngjing zài shuō.", "vietnamese": "Cậu khoan hãy vội, ngồi xuống bình tĩnh lại rồi hãy nói." }] }
+      ],
+      "chinese_explanation": "沉着而不感情用事。", "collocations": ["保持冷静", "冷静下来", "头脑冷静"], "usage_note": "Phân biệt với 安静 (yên tĩnh về âm thanh/môi trường); 冷静 chỉ trạng thái tâm lý tỉnh táo, không kích động.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l16_w28", "order": 28, "textbook": "HSK 4 下", "lesson": 16,
+      "hanzi": "输", "pinyin": "shū",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "thua", "structure": "输赢 / 输了比赛 / 没有人会永远输", "explanation": "Thất bại trong cuộc thi, trận đấu (trái nghĩa với 赢 – thắng).", "examples": [{ "chinese": "就像比赛一样，没有人会永远输，也没有人会一直赢。", "pinyin": "Jiù xiàng bǐsài yíyàng, méiyǒu rén huì yǒngyuǎn shū, yě méiyǒu rén huì yìzhí yíng.", "vietnamese": "Giống như thi đấu vậy, chẳng ai mãi mãi thua, cũng chẳng ai thắng suốt được.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Nghĩa: truyền dẫn, vận chuyển)", "meanings": ["vận chuyển (运输)", "nhập liệu (输入)", "truyền dịch/máu (输液/输血)"], "structure": "输入密码 / 运输", "difference_note": "Nghĩa gốc Hán-Việt là 'thâu/chuyển tải' (như 输入 – nhập vào, 输出 – xuất ra).", "examples": [{ "chinese": "请在这里输入您的手机号码和密码。", "pinyin": "Qǐng zài zhèlǐ shūrù nín de shǒujī hàomǎ hé mìmǎ.", "vietnamese": "Xin hãy nhập số điện thoại và mật khẩu của quý khách tại đây." }] }
+      ],
+      "chinese_explanation": "比赛、竞争中失败（与“赢”相对）；也指运送、输入。", "collocations": ["输赢", "认输", "输入"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l16_w29", "order": 29, "textbook": "HSK 4 下", "lesson": 16,
+      "hanzi": "重视", "pinyin": "zhòngshì",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "xem trọng, chú trọng", "structure": "重视 + 积累 / 机会 / 教育 / 问题", "explanation": "Coi trọng và đặt nhiều sự quan tâm vào một việc, vấn đề hay cơ hội nào đó.", "examples": [{ "chinese": "我们应该重视平时的积累，多向周围的人学习。", "pinyin": "Wǒmen yīnggāi zhòngshì píngshí de jīlěi, duō xiàng zhōuwéi de rén xuéxí.", "vietnamese": "Chúng ta nên xem trọng sự tích lũy hằng ngày, học hỏi thêm nhiều từ những người xung quanh.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["sự coi trọng, sự quan tâm đúng mức"], "structure": "引起重视 / 得到重视", "difference_note": "Như câu 3 bài tập 同字词 tr.92 ('如果没有引起重视……'), dùng làm tân ngữ cho 引起/得到.", "examples": [{ "chinese": "有些问题虽然看起来很小，但是如果没有引起重视，很可能会发展成大麻烦。", "pinyin": "Yǒuxiē wèntí suīrán kàn qilai hěn xiǎo, dànshì rúguǒ méiyǒu yǐnqǐ zhòngshì, hěn kěnéng huì fāzhǎn chéng dà máfan.", "vietnamese": "Một số vấn đề tuy trông rất nhỏ, nhưng nếu không được coi trọng rất có thể phát triển thành rắc rối lớn." }] }
+      ],
+      "chinese_explanation": "认为人的德才优良或事物的作用重要而认真对待。", "collocations": ["很重视", "引起重视", "重视教育"], "usage_note": "Phân biệt với 尊重 (tôn trọng con người, lựa chọn, ý kiến, quyền lợi); 重视 thiên về coi trọng sự việc/vấn đề/học tập/cơ hội.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l16_w30", "order": 30, "textbook": "HSK 4 下", "lesson": 16,
+      "hanzi": "敢", "pinyin": "gǎn",
+      "lesson_usage": { "part_of_speech": "能愿动词 (Động từ năng nguyện)", "meaning": "dám", "structure": "敢 / 不敢 + V", "explanation": "Đứng trước động từ, biểu thị có dũng khí hoặc sự tự tin để làm một việc gì đó.", "examples": [{ "chinese": "如果你敢诚实地说出自己对哪方面不了解，并不说明自己比别人差。", "pinyin": "Rúguǒ nǐ gǎn chéngshí de shuōchū zìjǐ duì nǎ fāngmiàn bù liǎojiě, bìng bù shuōmíng zìjǐ bǐ biérén chà.", "vietnamese": "Nếu bạn dám thành thật nói ra mình chưa hiểu ở khía cạnh nào, điều đó không hề chứng tỏ bạn kém hơn người khác.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Dùng trong cụm từ lịch sự / khiêm tốn)", "meanings": ["đâu dám, không dám nhận (khiêm tốn)"], "structure": "不敢当 / 岂敢", "difference_note": "Cụm từ lễ phép đáp lại lời khen quá mức của người khác.", "examples": [{ "chinese": "您过奖了，我真是不敢当！", "pinyin": "Nín guòjiǎng le, wǒ zhēn shì bù gǎndāng!", "vietnamese": "Ngài quá khen rồi, tôi thật sự không dám nhận đâu!" }] }
+      ],
+      "chinese_explanation": "能愿动词，有勇气做某事，有把握做某事。", "collocations": ["敢说真话", "不敢相信", "敢于尝试"], "usage_note": "Xem Chú thích 5 tr.89.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l16_w31", "order": 31, "textbook": "HSK 4 下", "lesson": 16,
+      "hanzi": "尊重", "pinyin": "zūnzhòng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "tôn trọng", "structure": "尊重 + Người / 选择 / 意见 / 文化", "explanation": "Tỏ thái độ kính trọng, coi trọng giá trị và quyền lựa chọn của người khác.", "examples": [{ "chinese": "相反，这样做更能得到别人的尊重。", "pinyin": "Xiāngfǎn, zhèyàng zuò gèng néng dédào biérén de zūnzhòng.", "vietnamese": "Ngược lại, làm vậy càng dễ nhận được sự tôn trọng của người khác hơn.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["sự tôn trọng, lòng kính trọng"], "structure": "得到尊重 / 获得大家的尊重 / 表示对客人的尊重", "difference_note": "Trong Bài khóa 5 ('得到别人的尊重') và 同字词 tr.91–92 ('获得大家的尊重') dùng rất tự nhiên như danh từ.", "examples": [{ "chinese": "他拿出一大部分钱帮助经济有困难的人，所以获得了大家的尊重。", "pinyin": "Tā náchū yí dà bùfen qián bāngzhù jīngjì yǒu kùnnan de rén, suǒyǐ huòdé le dàjiā de zūnzhòng.", "vietnamese": "Ông ấy trích một phần lớn tiền giúp đỡ những người khó khăn về kinh tế nên nhận được sự tôn trọng của mọi người." }] }
+      ],
+      "chinese_explanation": "尊敬、重视（多用于人、意见、选择、习俗等）。", "collocations": ["尊重选择", "尊重老人", "互相尊重", "获得尊重"], "usage_note": "Nằm trong nhóm 同字词 chữ 重 (严重、重点、重视、尊重).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    }
+  ],
+  "proper_nouns": [],
+  "same_char_expansion": {
+    "char": "重",
+    "words": [
+      { "hanzi": "严重", "pinyin": "yánzhòng", "meaning": "nghiêm trọng" },
+      { "hanzi": "重点", "pinyin": "zhòngdiǎn", "meaning": "trọng điểm, trọng tâm" },
+      { "hanzi": "重视", "pinyin": "zhòngshì", "meaning": "coi trọng, chú trọng" },
+      { "hanzi": "尊重", "pinyin": "zūnzhòng", "meaning": "tôn trọng" }
+    ],
+    "examples": [
+      { "chinese": "塑料袋确实很方便，但是它的大量使用也带来了严重的环境污染问题。", "vietnamese": "Túi ni-lông quả thực rất tiện lợi, nhưng việc sử dụng số lượng lớn cũng gây ra vấn đề ô nhiễm môi trường nghiêm trọng." },
+      { "chinese": "解决这个任务没有那么困难，但关键是我们要弄清楚工作的主要目的，找到重点。", "vietnamese": "Giải quyết nhiệm vụ này không khó đến thế, nhưng mấu chốt là chúng ta phải làm rõ mục đích chính và tìm ra trọng điểm." },
+      { "chinese": "她一直都很重视这个机会，最后竟然放弃了，这让我们非常吃惊。", "vietnamese": "Cô ấy vẫn luôn rất coi trọng cơ hội này, cuối cùng lại bất ngờ từ bỏ, điều này khiến chúng tôi vô cùng kinh ngạc." },
+      { "chinese": "如果是十分重要的朋友，中国人往往会请他们去饭店或餐厅吃，以表示对客人的尊重和礼貌。", "vietnamese": "Nếu là bạn bè vô cùng quan trọng, người Trung Quốc thường mời họ đi ăn ở nhà hàng để bày tỏ sự tôn trọng và lịch sự đối với khách." }
+    ]
+  },
+  "grammar": [
+    {
+      "title": "可 (Phó từ nhấn mạnh)",
+      "formula": "S + 可 + Vị ngữ  |  这可怎么办？",
+      "meaning": "Thật là / Quả thật / (Nhấn mạnh ngữ khí câu hỏi hoặc trần thuật)",
+      "usage": "Phó từ 可 dùng để nhấn mạnh mức độ/tính chất sự việc, đồng thời có thể dùng trong câu nghi vấn để làm ngữ khí trở nên mạnh mẽ, cấp bách hơn.",
+      "context": "Cực phổ biến trong khẩu ngữ sinh động hằng ngày.",
+      "examples": [
+        { "chinese": "这可是个大问题，我也不太清楚。", "pinyin": "Zhè kě shì ge dà wèntí, wǒ yě bú tài qīngchu.", "vietnamese": "Đây đúng là một vấn đề lớn đấy, mình cũng không rõ lắm." },
+        { "chinese": "下个星期我就要去使馆办签证了，这可怎么办？", "pinyin": "Xià ge xīngqī wǒ jiù yào qù shǐguǎn bàn qiānzhèng le, zhè kě zěnme bàn?", "vietnamese": "Tuần sau mình đã phải đến đại sứ quán làm visa rồi, giờ biết làm sao đây?" },
+        { "chinese": "我办了一张那个理发店的会员卡，理发可节约了不少钱。", "pinyin": "Wǒ bàn le yì zhāng nàge lǐfàdiàn de huìyuánkǎ, lǐfà kě jiéyuē le bù shǎo qián.", "vietnamese": "Mình làm một thẻ hội viên ở tiệm cắt tóc kia, cắt tóc tiết kiệm được khối tiền đấy." }
+      ],
+      "important_notes": "Phân biệt với liên từ 可 (= 可是 'nhưng mà') đặt đầu vế câu; phó từ 可 đặt sau chủ ngữ để nhấn mạnh.",
+      "common_errors": "",
+      "comparison": "Gần với 真/实在 về sắc thái nhấn mạnh, nhưng 可 dùng được trong câu hỏi cảm thán (这可怎么办？).",
+      "mini_practice": [{ "prompt": "他房间这么乱，______________________。（可）", "sample_answer": "这可怎么住人啊", "explanation": "Dùng 这可怎么…… tăng cường ngữ khí cảm thán/nghi vấn." }]
+    },
+    {
+      "title": "恐怕 (Động từ & Phó từ)",
+      "formula": "(1) Động từ: S + 恐怕 + V  |  (2) Phó từ: 恐怕 + S + V / S + 恐怕 + V",
+      "meaning": "(1) Lo lắng  |  (2) E rằng (ước đoán kèm lo lắng)  |  (3) Có lẽ, đại khái",
+      "usage": "Làm động từ có nghĩa 'lo lắng' (担心). Làm phó từ biểu thị sự phỏng đoán kèm lo lắng (e rằng), hoặc đơn thuần suy đoán tương đương 大概、也许 (có lẽ).",
+      "context": "Dùng nhiều để đưa ra dự đoán thận trọng hoặc từ chối khéo.",
+      "examples": [
+        { "chinese": "我的工作经验还比较少，那份工作我恐怕完成不了。", "pinyin": "Wǒ de gōngzuò jīngyàn hái bǐjiào shǎo, nà fèn gōngzuò wǒ kǒngpà wánchéng bu liǎo.", "vietnamese": "Kinh nghiệm làm việc của tôi còn ít, tôi lo mình không hoàn thành nổi công việc đó." },
+        { "chinese": "这个会议室的座位恐怕不够，还是换到旁边那个大的吧。", "pinyin": "Zhège huìyìshì de zuòwèi kǒngpà bú gòu, háishi huàndào pángbiān nàge dà de ba.", "vietnamese": "Chỗ ngồi phòng họp này e rằng không đủ, hay là đổi sang phòng lớn bên cạnh đi." },
+        { "chinese": "听完我的回答，恐怕你已经知道我的答案了吧。", "pinyin": "Tīngwán wǒ de huídá, kǒngpà nǐ yǐjīng zhīdào wǒ de dá'àn le ba.", "vietnamese": "Nghe xong câu trả lời của tôi, có lẽ cậu đã biết đáp án rồi chứ." },
+        { "chinese": "京剧演出7点就开始了，现在恐怕已经结束了。", "pinyin": "Jīngjù yǎnchū qī diǎn jiù kāishǐ le, xiànzài kǒngpà yǐjīng jiéshù le.", "vietnamese": "Buổi diễn Kinh kịch bắt đầu từ 7 giờ, giờ có lẽ đã kết thúc rồi." }
+      ],
+      "important_notes": "Xem bảng 比一比 '恐怕 — 怕' bên dưới để tránh lỗi đặt 恐怕 trước danh từ!",
+      "common_errors": "Sai: '我恐怕他们吃不了' → Đúng: '我怕他们吃不了' hoặc '他们恐怕吃不了'.",
+      "comparison": "恐怕 không mang tân ngữ danh từ chỉ nỗi sợ như 怕 (怕黑, 怕打针).",
+      "mini_practice": [{ "prompt": "这个行李箱有点儿小，______________________。（恐怕）", "sample_answer": "恐怕装不下这么多东西", "explanation": "Dùng phó từ 恐怕 ước đoán kèm lo lắng." }]
+    },
+    {
+      "title": "到底 (Động từ & Phó từ)",
+      "formula": "(1) V + 到底 (đến cùng)  |  (2) S + 到底 + Câu hỏi / 到底 + 谁/什么……",
+      "meaning": "(1) Đến cùng, đến tận cuối  |  (2) Rốt cuộc (truy vấn trong câu hỏi)",
+      "usage": "Làm động từ nghĩa là 'làm tới cùng, đến điểm cuối'. Làm phó từ dùng trong câu hỏi (hoặc câu trần thuật có đại từ nghi vấn) để truy vấn sâu hơn; KHÔNG dùng trong câu hỏi đúng/sai có 吗. Nếu chủ ngữ là đại từ nghi vấn (谁/什么), 到底 BẮT BUỘC đặt trước chủ ngữ.",
+      "context": "Thường dùng khi sốt ruột muốn biết câu trả lời rõ ràng.",
+      "examples": [
+        { "chinese": "今天我一定陪你逛街逛到底，保证让你买到合适的衣服。", "pinyin": "Jīntiān wǒ yídìng péi nǐ guàngjiē guàng dàodǐ, bǎozhèng ràng nǐ mǎidào héshì de yīfu.", "vietnamese": "Hôm nay mình nhất định đi dạo phố cùng cậu đến cùng, đảm bảo mua được quần áo ưng ý." },
+        { "chinese": "你不是已经买好火车票了吗？你到底怎么打算的呀？", "pinyin": "Nǐ bú shì yǐjīng mǎihǎo huǒchēpiào le ma? Nǐ dàodǐ zěnme dǎsuàn de ya?", "vietnamese": "Không phải cậu mua sẵn vé tàu rồi sao? Rốt cuộc cậu tính sao đây?" },
+        { "chinese": "我给他打了好几次电话了，可是一直没人接，也不知道他到底是怎么回事。", "pinyin": "Wǒ gěi tā dǎ le hǎo jǐ cì diànhuà le, kěshì yìzhí méi rén jiē, yě bù zhīdào tā dàodǐ shì zěnme huí shì.", "vietnamese": "Mình gọi anh ấy mấy lần mà không ai nghe, chẳng biết rốt cuộc có chuyện gì nữa." },
+        { "chinese": "到底谁去参加比赛，大家还没决定。", "pinyin": "Dàodǐ shéi qù cānjiā bǐsài, dàjiā hái méi juédìng.", "vietnamese": "Rốt cuộc ai đi thi đấu thì mọi người vẫn chưa quyết định." }
+      ],
+      "important_notes": "Nhớ 2 quy tắc vàng của 到底: (1) Cấm đi với câu hỏi 吗; (2) Chủ ngữ là 谁/什么 thì 到底 đứng ĐẦU (到底谁…… / 到底什么是……).",
+      "common_errors": "Sai: '你到底喜欢他吗？' → Đúng: '你到底喜不喜欢他？'.",
+      "comparison": "Gần với 究竟 (văn viết hơn), trong khi 到底 thông dụng hơn trong khẩu ngữ.",
+      "mini_practice": [{ "prompt": "明天就是报名的最后一天了，______________________。（到底）", "sample_answer": "你到底参加不参加呀", "explanation": "Dùng câu hỏi chính phản (参加不参加) với 到底, không dùng 吗." }]
+    },
+    {
+      "title": "拿……来说",
+      "formula": "(就) 拿 + Sự vật / Tình huống + 来说(吧)，……",
+      "meaning": "Lấy... mà nói / Nói về... mà xem",
+      "usage": "Trong kết cấu '拿……来说', giới từ 拿 đưa ra một sự vật, con người hoặc tình huống tiêu biểu để làm ví dụ minh họa, giải thích rõ luận điểm vừa nêu.",
+      "context": "Cấu trúc cực kỳ hữu ích khi viết văn nghị luận hoặc trình bày dẫn chứng.",
+      "examples": [
+        { "chinese": "这次招聘很多人符合公司的要求，拿他来说，他不仅专业符合职业要求，而且还有工作经验。", "pinyin": "Zhè cì zhāopìn hěn duō rén fúhé gōngsī de yāoqiú, ná tā lái shuō, tā bùjǐn zhuānyè fúhé zhíyè yāoqiú, érqiě hái yǒu gōngzuò jīngyàn.", "vietnamese": "Đợt tuyển dụng này nhiều người đáp ứng yêu cầu công ty, lấy anh ấy mà nói, không chỉ đúng chuyên ngành mà còn có kinh nghiệm làm việc." },
+        { "chinese": "如果一个汉字中有“氵”这个部分，说明这个字的意思很可能和水有关系，拿“河、流、洗、汁”这几个字来说，它们都跟水有关。", "pinyin": "Rúguǒ yí ge Hànzì zhōng yǒu “氵” zhège bùfen, shuōmíng zhège zì de yìsi hěn kěnéng hé shuǐ yǒu guānxi, ná “hé, liú, xǐ, zhī” zhè jǐ ge zì lái shuō, tāmen dōu gēn shuǐ yǒuguān.", "vietnamese": "Nếu một chữ Hán có bộ “氵”, nghĩa chữ đó rất có thể liên quan đến nước; lấy các chữ “河, 流, 洗, 汁” mà nói, chúng đều liên quan tới nước." },
+        { "chinese": "就拿学汉语来说吧，首先要注意课前预习，找出第二天要学习的重点……", "pinyin": "Jiù ná xué Hànyǔ lái shuō ba, shǒuxiān yào zhùyì kè qián yùxí, zhǎochū dì-èr tiān yào xuéxí de zhòngdiǎn……", "vietnamese": "Cứ lấy việc học tiếng Hán mà nói, trước hết cần chú ý chuẩn bị bài trước giờ học, tìm ra trọng điểm ngày hôm sau..." }
+      ],
+      "important_notes": "Thường thêm 就 phía trước và 吧 phía sau (就拿……来说吧) để lời dẫn tự nhiên.",
+      "common_errors": "",
+      "comparison": "Phân biệt với 对……来说 (đối với ai đó mà nói — chỉ góc nhìn/lập trường); 拿……来说 dùng để ĐƯA RA VÍ DỤ minh họa.",
+      "mini_practice": [{ "prompt": "保护环境应该从小事做起，______________________。（拿……来说）", "sample_answer": "就拿少用塑料袋来说吧", "explanation": "Đưa ví dụ cụ thể bằng 就拿……来说吧." }]
+    },
+    {
+      "title": "敢",
+      "formula": "S + (不)敢 + V",
+      "meaning": "Dám / Không dám (có dũng khí, tự tin làm gì)",
+      "usage": "Động từ năng nguyện 敢 đứng trước động từ biểu thị có sự tự tin, mạnh dạn, dũng khí để thực hiện hành động nào đó.",
+      "context": "Dùng rộng rãi trong cả văn nói và văn viết.",
+      "examples": [
+        { "chinese": "我们应该把那些敢说真话的人当成“镜子”，这样才能及时发现自己的缺点。", "pinyin": "Wǒmen yīnggāi bǎ nàxiē gǎn shuō zhēnhuà de rén dàngchéng “jìngzi”, zhèyàng cái néng jíshí fāxiàn zìjǐ de quēdiǎn.", "vietnamese": "Chúng ta nên coi những người dám nói lời thật là “tấm gương”, như vậy mới kịp thời phát hiện khuyết điểm của mình." },
+        { "chinese": "小时候我总喜欢躺在床上看书，结果眼睛越来越不好，所以从那儿以后我就不敢再躺着看书了。", "pinyin": "Xiǎoshíhou wǒ zǒng xǐhuan tǎng zài chuáng shang kàn shū, jiéguǒ yǎnjing yuèláiyuè bù hǎo, suǒyǐ cóng nàr yǐhòu wǒ jiù bù gǎn zài tǎngzhe kàn shū le.", "vietnamese": "Hồi nhỏ mình cứ thích nằm trên giường đọc sách, kết quả mắt ngày càng kém, nên từ đó về sau không dám nằm đọc sách nữa." },
+        { "chinese": "如果你敢诚实地说出自己对哪方面不了解，并不说明自己比别人差，相反，这样做更能得到别人的尊重。", "pinyin": "Rúguǒ nǐ gǎn chéngshí de shuōchū zìjǐ duì nǎ fāngmiàn bù liǎojiě, bìng bù shuōmíng zìjǐ bǐ biérén chà, xiāngfǎn, zhèyàng zuò gèng néng dédào biérén de zūnzhòng.", "vietnamese": "Nếu bạn dám thành thật nói ra mình chưa hiểu chỗ nào, điều đó chẳng hề chứng tỏ mình kém hơn người khác, trái lại làm thế càng dễ nhận được sự tôn trọng." }
+      ],
+      "important_notes": "Phủ định là 不敢; có thể hỏi chính phản 敢不敢 (你敢不敢试一试？).",
+      "common_errors": "",
+      "comparison": "",
+      "mini_practice": [{ "prompt": "老师应该为学生提供一种愉快的学习环境，______________________。（敢）", "sample_answer": "让他们敢在课堂上发表自己的意见", "explanation": "敢 + V = dám phát biểu ý kiến." }]
+    }
+  ],
+  "comparison_section": {
+    "label": "比一比 So sánh",
+    "pair": "恐怕 — 怕",
+    "term_a": "恐怕 (kǒngpà)",
+    "term_b": "怕 (pà)",
+    "similarity": "(1) Đều là động từ mang nghĩa 'lo lắng' (马克恐怕/怕来不及了). (2) Đều là phó từ chỉ sự phỏng đoán kèm hàm ý lo lắng (那问题恐怕/怕就大了).",
+    "differences": [
+      { "criterion": "Vị trí khi là động từ 'lo lắng' (①)", "a": "CHỈ đặt trước ĐỘNG TỪ, KHÔNG đặt trước danh từ/đại từ (我恐怕忘了这件事 — đúng; KHÔNG nói '我恐怕你忘了').", "b": "Đặt được trước cả ĐỘNG TỪ lẫn DANH TỪ/ĐẠI TỪ (我怕忘了这件事 / 我怕你忘了这件事)." },
+      { "criterion": "Vị trí so với chủ ngữ khi là phó từ (②)", "a": "Đặt được cả TRƯỚC hoặc SAU chủ ngữ (恐怕足球比赛不能举行了 / 足球比赛恐怕不能举行了).", "b": "CHỈ đặt SAU chủ ngữ (足球比赛怕不能举行了)." },
+      { "criterion": "Nghĩa 'sợ hãi' mang tân ngữ (害怕)", "a": "KHÔNG có cách dùng này.", "b": "CÓ THỂ làm động từ chỉ nỗi sợ hãi người/vật/tình huống (不怕找不到好工作 / 遇到任何困难都不要怕)." },
+      { "criterion": "Phỏng đoán thuần túy (= 也许、大概)", "a": "CÓ THỂ chỉ ước đoán thuần túy không kèm lo lắng (他离开这里恐怕有二十天了).", "b": "KHÔNG có cách dùng này." }
+    ]
+  },
+  "texts": [
+    {
+      "id": "t1", "title_zh": "小夏出国留学遇到了问题", "title_vi": "Tiểu Hạ gặp rắc rối khi chuẩn bị du học",
+      "lines": [
+        { "speaker": "小雨", "chinese": "你马上就要硕士毕业了吧？将来有什么打算？", "pinyin": "Nǐ mǎshàng jiù yào shuòshì bì yè le ba? Jiānglái yǒu shénme dǎsuàn?", "vietnamese": "Cậu sắp tốt nghiệp thạc sĩ rồi nhỉ? Tương lai có dự định gì chưa?" },
+        { "speaker": "小夏", "chinese": "我想出国读博士，一直在准备办签证需要的材料。", "pinyin": "Wǒ xiǎng chū guó dú bóshì, yìzhí zài zhǔnbèi bàn qiānzhèng xūyào de cáiliào.", "vietnamese": "Mình muốn ra nước ngoài học tiến sĩ, vẫn luôn chuẩn bị giấy tờ cần để xin visa." },
+        { "speaker": "小雨", "chinese": "现在材料准备得怎么样了？", "pinyin": "Xiànzài cáiliào zhǔnbèi de zěnmeyàng le?", "vietnamese": "Giờ tài liệu chuẩn bị đến đâu rồi?" },
+        { "speaker": "小夏", "chinese": "成绩证明和护照已经准备好了，另外，还跟国外的大学取得了联系，填写了报名表格。", "pinyin": "Chéngjì zhèngmíng hé hùzhào yǐjīng zhǔnbèihǎo le, lìngwài, hái gēn guówài de dàxué qǔdéle liánxì, tiánxiěle bào míng biǎogé.", "vietnamese": "Bảng điểm và hộ chiếu đều chuẩn bị xong rồi, ngoài ra còn liên hệ được với trường đại học nước ngoài và điền đơn đăng ký rồi." },
+        { "speaker": "小雨", "chinese": "还应该有国外大学给你的邀请信吧？他们把邀请信传真给你了吗？", "pinyin": "Hái yīnggāi yǒu guówài dàxué gěi nǐ de yāoqǐngxìn ba? Tāmen bǎ yāoqǐngxìn chuánzhēn gěi nǐ le ma?", "vietnamese": "Chắc còn phải có thư mời của trường nước ngoài nữa chứ? Họ gửi fax thư mời cho cậu chưa?" },
+        { "speaker": "小夏", "chinese": "没有啊，下个星期我就要去使馆办签证了，这可怎么办？", "pinyin": "Méiyǒu a, xià ge xīngqī wǒ jiù yào qù shǐguǎn bàn qiānzhèng le, zhè kě zěnme bàn?", "vietnamese": "Chưa có đâu, tuần sau mình đã phải đến đại sứ quán làm visa rồi, giờ biết làm sao đây?" },
+        { "speaker": "小雨", "chinese": "这可是个大问题，我也不太清楚。我帮你查一下学校的电话号码，你打电话问一下吧。", "pinyin": "Zhè kě shì ge dà wèntí, wǒ yě bú tài qīngchu. Wǒ bāng nǐ chá yíxià xuéxiào de diànhuà hàomǎ, nǐ dǎ diànhuà wèn yíxià ba.", "vietnamese": "Đây đúng là vấn đề lớn đấy, mình cũng không rõ lắm. Để mình tra hộ cậu số điện thoại trường rồi cậu gọi điện hỏi xem." }
+      ]
+    },
+    {
+      "id": "t2", "title_zh": "王老板告诉李进自己成功的经验", "title_vi": "Ông chủ Vương chia sẻ kinh nghiệm thành công với Lý Tiến",
+      "lines": [
+        { "speaker": "李进", "chinese": "谢谢您带我参观您的公司。在参观过程中我很激动，有个问题一直想问您。", "pinyin": "Xièxie nín dài wǒ cānguān nín de gōngsī. Zài cānguān guòchéng zhōng wǒ hěn jīdòng, yǒu ge wèntí yìzhí xiǎng wèn nín.", "vietnamese": "Cảm ơn ngài đã dẫn cháu đi tham quan công ty. Trong quá trình tham quan cháu rất xúc động, có một câu hỏi vẫn luôn muốn hỏi ngài." },
+        { "speaker": "王老板", "chinese": "好啊！小伙子，咱们一边吃西瓜，一边聊。", "pinyin": "Hǎo a! Xiǎohuǒzi, zánmen yìbiān chī xīguā, yìbiān liáo.", "vietnamese": "Được thôi! Chàng trai, chúng ta vừa ăn dưa hấu vừa trò chuyện." },
+        { "speaker": "李进", "chinese": "您从大学毕业开始工作，到现在才十年时间，怎么给公司赚了这么多钱？这让我非常吃惊。我想向您学习一下成功的经验。", "pinyin": "Nín cóng dàxué bì yè kāishǐ gōngzuò, dào xiànzài cái shí nián shíjiān, zěnme gěi gōngsī zhuànle zhème duō qián? Zhè ràng wǒ fēicháng chī jīng. Wǒ xiǎng xiàng nín xuéxí yíxià chénggōng de jīngyàn.", "vietnamese": "Ngài tốt nghiệp đại học đi làm đến nay mới mười năm, sao kiếm được nhiều tiền cho công ty đến thế? Cháu vô cùng kinh ngạc, muốn học hỏi kinh nghiệm thành công của ngài." },
+        { "speaker": "王老板", "chinese": "这个问题以前一个记者也问过我。做生意时虽然会遇到各种压力和困难，但是大家的机会都是相同的。你看，这里有三块大小不同的西瓜，我们用西瓜的大小代表钱的多少，要是我们一起开始吃，你会先选哪块？", "pinyin": "Zhège wèntí yǐqián yí ge jìzhě yě wènguo wǒ. Zuò shēngyi shí suīrán huì yùdào gè zhǒng yālì hé kùnnan, dànshì dàjiā de jīhuì dōu shì xiāngtóng de. Nǐ kàn, zhèlǐ yǒu sān kuài dà xiǎo bù tóng de xīguā, wǒmen yòng xīguā de dà xiǎo dàibiǎo qián de duō shǎo, yàoshi wǒmen yìqǐ kāishǐ chī, nǐ huì xiān xuǎn nǎ kuài?", "vietnamese": "Câu hỏi này trước đây một nhà báo cũng từng hỏi tôi. Làm kinh doanh tuy gặp đủ loại áp lực và khó khăn nhưng cơ hội của mọi người là như nhau. Cậu xem, ở đây có ba miếng dưa hấu to nhỏ khác nhau tượng trưng cho số tiền nhiều ít, nếu cùng bắt đầu ăn, cậu chọn miếng nào trước?" },
+        { "speaker": "李进", "chinese": "我肯定先吃最大的一块了，难道您会先吃小的，放弃吃大块的机会吗？", "pinyin": "Wǒ kěndìng xiān chī zuì dà de yí kuài le, nándào nín huì xiān chī xiǎo de, fàngqì chī dà kuài de jīhuì ma?", "vietnamese": "Cháu chắc chắn ăn miếng to nhất trước rồi, lẽ nào ngài lại ăn miếng nhỏ trước, bỏ qua cơ hội ăn miếng to sao?" },
+        { "speaker": "王老板", "chinese": "我会先吃最小的一块，因为在你没吃完最大的那块时，我还有时间再多吃一块，最后一定比你吃的西瓜多。听完我的回答，恐怕你已经知道我的答案了吧。", "pinyin": "Wǒ huì xiān chī zuì xiǎo de yí kuài, yīnwèi zài nǐ méi chīwán zuì dà de nà kuài shí, wǒ hái yǒu shíjiān zài duō chī yí kuài, zuìhòu yídìng bǐ nǐ chī de xīguā duō. Tīngwán wǒ de huídá, kǒngpà nǐ yǐjīng zhīdào wǒ de dá'àn le ba.", "vietnamese": "Tôi sẽ ăn miếng nhỏ nhất trước, vì trong lúc cậu chưa ăn xong miếng to nhất thì tôi còn thời gian ăn thêm một miếng nữa, cuối cùng nhất định ăn được nhiều dưa hơn cậu. Nghe xong chắc cậu đã hiểu đáp án của tôi rồi chứ." }
+      ]
+    },
+    {
+      "id": "t3", "title_zh": "小林不好意思拒绝朋友", "title_vi": "Tiểu Lâm ngại từ chối bạn bè",
+      "lines": [
+        { "speaker": "小林", "chinese": "今年放假我又回不了家了，这次我父母又要失望了。你有什么计划？", "pinyin": "Jīnnián fàng jià wǒ yòu huí bu liǎo jiā le, zhè cì wǒ fùmǔ yòu yào shīwàng le. Nǐ yǒu shénme jìhuà?", "vietnamese": "Kỳ nghỉ năm nay mình lại không về nhà được rồi, lần này bố mẹ lại thất vọng nữa đây. Cậu có kế hoạch gì?" },
+        { "speaker": "小李", "chinese": "我计划去郊区住一个月。你不是已经买好火车票了吗？你到底怎么打算的呀？", "pinyin": "Wǒ jìhuà qù jiāoqū zhù yí ge yuè. Nǐ bú shì yǐjīng mǎihǎo huǒchēpiào le ma? Nǐ dàodǐ zěnme dǎsuàn de ya?", "vietnamese": "Mình định ra ngoại ô ở một tháng. Không phải cậu mua sẵn vé tàu rồi sao? Rốt cuộc cậu tính thế nào đấy?" },
+        { "speaker": "小林", "chinese": "昨天一个外地的好朋友打电话说要来旅游，让我当导游，我实在不好意思拒绝。", "pinyin": "Zuótiān yí ge wàidì de hǎo péngyou dǎ diànhuà shuō yào lái lǚyóu, ràng wǒ dāng dǎoyóu, wǒ shízài bù hǎo yìsi jùjué.", "vietnamese": "Hôm qua một bạn thân ở tỉnh khác gọi nói muốn tới du lịch, nhờ mình làm hướng dẫn viên, mình thực sự ngại từ chối." },
+        { "speaker": "小李", "chinese": "其实拒绝并不表示不愿意帮忙。遇到解决不了的问题或者无法完成的任务时，拒绝正好说明你对朋友负责。这也是对你父母负责的态度。", "pinyin": "Qíshí jùjué bìng bù biǎoshì bú yuànyì bāng máng. Yùdào jiějué bu liǎo de wèntí huòzhě wúfǎ wánchéng de rènwu shí, jùjué zhènghǎo shuōmíng nǐ duì péngyou fùzé. Zhè yě shì duì nǐ fùmǔ fùzé de tàidù.", "vietnamese": "Thật ra từ chối không có nghĩa là không muốn giúp. Khi gặp việc không giải quyết nổi hay nhiệm vụ không thể hoàn thành, từ chối lại chứng tỏ cậu có trách nhiệm với bạn. Đó cũng là thái độ có trách nhiệm với bố mẹ cậu." },
+        { "speaker": "小林", "chinese": "既然别人找我帮忙，说明他真的很需要我的帮助。我担心要是说“不”的话，会让他误会和伤心。", "pinyin": "Jìrán biérén zhǎo wǒ bāng máng, shuōmíng tā zhēn de hěn xūyào wǒ de bāngzhù. Wǒ dānxīn yàoshi shuō “bù” dehuà, huì ràng tā wùhuì hé shāngxīn.", "vietnamese": "Đã có người tìm mình nhờ giúp tức là bạn ấy thật sự rất cần mình. Mình lo nếu nói “không” sẽ khiến bạn ấy hiểu lầm và buồn lòng." },
+        { "speaker": "小李", "chinese": "别担心！如果你用一个既合适又礼貌的方法告诉朋友，他一定会原谅你的。", "pinyin": "Bié dānxīn! Rúguǒ nǐ yòng yí ge jì héshì yòu lǐmào de fāngfǎ gàosu péngyou, tā yídìng huì yuánliàng nǐ de.", "vietnamese": "Đừng lo! Nếu cậu dùng một cách vừa thích hợp vừa lịch sự để nói với bạn, chắc chắn bạn ấy sẽ thông cảm cho cậu." }
+      ]
+    },
+    {
+      "id": "t4", "title_zh": "不要把事情都推到“明天”", "title_vi": "Đừng trì hoãn mọi việc sang “ngày mai”",
+      "lines": [
+        { "speaker": "", "chinese": "有些同学经常把“明天”和“将来”挂在嘴边，常说作业明天再完成，下次考试一定好好儿复习，等等。这种态度会浪费时间，不但会让你到最后什么事情都做不成，而且还得不到别人的同情。所以不要把什么事情都推到“明天”，一切从现在做起。就拿学汉语来说吧，首先要注意课前预习，找出第二天要学习的重点；其次，上课时要认真听，不能马虎；最后，课后要记得复习。只要这样，汉语就能越学越好，越说越自信。", "pinyin": "Yǒuxiē tóngxué jīngcháng bǎ “míngtiān” hé “jiānglái” guà zài zuǐ biān, cháng shuō zuòyè míngtiān zài wánchéng, xià cì kǎoshì yídìng hǎohāor fùxí, děngděng. Zhè zhǒng tàidù huì làngfèi shíjiān, búdàn huì ràng nǐ dào zuìhòu shénme shìqing dōu zuò bu chéng, érqiě hái dé bu dào biérén de tóngqíng. Suǒyǐ búyào bǎ shénme shìqing dōu tuīdào “míngtiān”, yíqiè cóng xiànzài zuòqǐ. Jiù ná xué Hànyǔ lái shuō ba, shǒuxiān yào zhùyì kè qián yùxí, zhǎochū dì-èr tiān yào xuéxí de zhòngdiǎn; qícì, shàng kè shí yào rènzhēn tīng, bù néng mǎhu; zuìhòu, kè hòu yào jìde fùxí. Zhǐyào zhèyàng, Hànyǔ jiù néng yuè xué yuè hǎo, yuè shuō yuè zìxìn.", "vietnamese": "Một số bạn học thường hay nói cửa miệng hai chữ “ngày mai” và “tương lai”, hay bảo bài tập để mai làm, kỳ thi sau nhất định ôn kỹ... Thái độ ấy làm lãng phí thời gian, không chỉ khiến bạn cuối cùng chẳng làm được việc gì mà còn không nhận được sự đồng cảm của người khác. Vậy nên đừng đẩy mọi việc sang “ngày mai”, hãy bắt đầu từ bây giờ. Cứ lấy việc học tiếng Hán mà nói: trước hết cần chuẩn bị bài trước giờ học để tìm ra trọng điểm ngày hôm sau; thứ hai lên lớp nghe giảng nghiêm túc, không cẩu thả; cuối cùng sau giờ học nhớ ôn tập. Chỉ cần thế, tiếng Hán sẽ càng học càng giỏi, càng nói càng tự tin." }
+      ]
+    },
+    {
+      "id": "t5", "title_zh": "天外有天，人外有人", "title_vi": "Ngoài trời còn có trời, ngoài người còn có người",
+      "lines": [
+        { "speaker": "", "chinese": "当你认为自己在哪方面很优秀时，千万要冷静，不要骄傲。因为这个世界很大，“天外有天，人外有人”，很可能有人在这方面比你更厉害。你现在是第一，并不表示你永远都是第一。就像比赛一样，没有人会永远输，也没有人会一直赢。我们知道的越多，就会发现自己不懂的也越多。我们应该重视平时的积累，多向周围的人学习。如果你敢诚实地说出自己对哪方面不了解，并不说明自己比别人差，相反，这样做更能得到别人的尊重。", "pinyin": "Dāng nǐ rènwéi zìjǐ zài nǎ fāngmiàn hěn yōuxiù shí, qiānwàn yào lěngjìng, búyào jiāo'ào. Yīnwèi zhège shìjiè hěn dà, “tiān wài yǒu tiān, rén wài yǒu rén”, hěn kěnéng yǒu rén zài zhè fāngmiàn bǐ nǐ gèng lìhai. Nǐ xiànzài shì dì-yī, bìng bù biǎoshì nǐ yǒngyuǎn dōu shì dì-yī. Jiù xiàng bǐsài yíyàng, méiyǒu rén huì yǒngyuǎn shū, yě méiyǒu rén huì yìzhí yíng. Wǒmen zhīdào de yuè duō, jiù huì fāxiàn zìjǐ bù dǒng de yě yuè duō. Wǒmen yīnggāi zhòngshì píngshí de jīlěi, duō xiàng zhōuwéi de rén xuéxí. Rúguǒ nǐ gǎn chéngshí de shuōchū zìjǐ duì nǎ fāngmiàn bù liǎojiě, bìng bù shuōmíng zìjǐ bǐ biérén chà, xiāngfǎn, zhèyàng zuò gèng néng dédào biérén de zūnzhòng.", "vietnamese": "Khi bạn cho rằng mình rất giỏi ở mặt nào đó, nhất thiết phải bình tĩnh, chớ kiêu ngạo. Bởi thế giới này rất rộng lớn, “núi cao còn có núi cao hơn”, rất có thể có người giỏi hơn bạn ở lĩnh vực đó. Hôm nay bạn đứng nhất không có nghĩa mãi mãi đứng nhất. Như thi đấu vậy, chẳng ai mãi thua cũng chẳng ai thắng mãi. Biết càng nhiều ta càng thấy những điều chưa biết cũng nhiều hơn. Hãy coi trọng sự tích lũy hằng ngày, chăm học hỏi mọi người xung quanh. Dám thành thật thừa nhận điều mình chưa biết chẳng hề chứng tỏ mình kém cỏi, trái lại càng được người khác tôn trọng." }
+      ]
+    }
+  ],
+  "reading_questions": [
+    { "question_zh": "小夏毕业后计划做什么？顺利吗？根据课文，出国留学需要准备哪些材料？", "question_vi": "Sau khi tốt nghiệp Tiểu Hạ dự định làm gì? Có thuận lợi không? Theo bài khóa, đi du học cần chuẩn bị những tài liệu gì?", "answer_zh": "她计划出国读博士，不太顺利，因为下周就要去使馆办签证却还没收到国外大学的邀请信。需要准备成绩证明、护照、报名表格和国外大学的邀请信。", "answer_vi": "Cô ấy định ra nước ngoài học tiến sĩ, chưa thuận lợi lắm vì tuần sau đi xin visa rồi mà vẫn chưa nhận được thư mời của trường nước ngoài. Cần chuẩn bị bảng điểm, hộ chiếu, mẫu đơn đăng ký và thư mời." },
+    { "question_zh": "王老板怎么介绍自己的成功经验的？他赚这么多钱的原因是什么？", "question_vi": "Ông chủ Vương giới thiệu kinh nghiệm thành công của mình như thế nào? Vì sao ông kiếm được nhiều tiền như vậy?", "answer_zh": "他用三块大小不同的西瓜作比喻，先吃最小的一块，趁别人没吃完最大的一块时再多吃一块。这说明他懂得从小机会做起、积少成多，不放弃小生意。", "answer_vi": "Ông ví với ba miếng dưa hấu to nhỏ khác nhau: ăn miếng nhỏ trước, tranh thủ lúc người khác chưa ăn xong miếng to thì ăn thêm miếng nữa — tức là biết trân trọng cơ hội nhỏ, tích tiểu thành đại." },
+    { "question_zh": "小林放假后本来有什么打算？小李和小林对“拒绝别人”有什么不同的理解？", "question_vi": "Tiểu Lâm vốn định làm gì khi nghỉ lễ? Tiểu Lý và Tiểu Lâm hiểu khác nhau thế nào về việc “từ chối người khác”?", "answer_zh": "小林本来买好火车票打算回家看父母，但外地朋友要来旅游请他当导游。小林担心拒绝会让朋友误会伤心；小李认为遇到无法完成的任务时，礼貌拒绝反而是对朋友和父母负责的表现。", "answer_vi": "Tiểu Lâm vốn mua vé tàu về thăm bố mẹ nhưng bạn tỉnh khác nhờ làm hướng dẫn viên. Tiểu Lâm sợ từ chối sẽ làm bạn buồn và hiểu lầm; Tiểu Lý cho rằng khi không làm xuể, khéo léo từ chối mới là có trách nhiệm với bạn và bố mẹ." },
+    { "question_zh": "对于“有什么事情明天再说”这句话，你认为正确吗？根据课文，学汉语应该注意哪些方面？", "question_vi": "Bạn có thấy câu “Có việc gì để mai tính” đúng không? Theo bài khóa, học tiếng Hán cần chú ý những mặt nào?", "answer_zh": "不正确，因为拖延会浪费时间、一事无成，还得不到别人同情。学汉语要注意：课前预习找重点、上课认真听不马虎、课后记得复习。", "answer_vi": "Không đúng, vì trì hoãn sẽ lãng phí thời gian, chẳng làm nên việc gì và không được ai đồng cảm. Học tiếng Hán cần: chuẩn bị bài trước tìm trọng điểm, lên lớp nghe kỹ không cẩu thả, sau buổi học nhớ ôn tập." },
+    { "question_zh": "怎么理解“天外有天，人外有人”？别人问你不会的问题时，诚实说不了解好吗？", "question_vi": "Hiểu câu “Thiên ngoại hữu thiên, nhân ngoại hữu nhân” thế nào? Khi không biết câu trả lời, thành thật nói không biết có tốt không?", "answer_zh": "意思是世界很大，永远有比自己更厉害的人，所以要保持冷静谦虚、重视积累。敢诚实说出自己不了解的地方并不丢人，反而更能得到别人的尊重。", "answer_vi": "Nghĩa là thế giới rộng lớn, luôn có người giỏi hơn mình nên phải bình tĩnh khiêm tốn, chăm tích lũy. Dám thành thật thừa nhận chỗ chưa hiểu không hề kém cỏi mà càng được tôn trọng." }
+  ],
+  "exercises": [
+    {
+      "id": "h4x16_ex1", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.90 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Điền từ thích hợp: “虽然得到别人的______很容易，但要重新让别人再相信你却很难。”",
+      "options": ["原谅", "郊区", "参观", "输"],
+      "answer": "原谅",
+      "explanation": "得到别人的原谅 = có được sự tha thứ của người khác.",
+      "review_tip": "Ôn cụm 得到别人的原谅."
+    },
+    {
+      "id": "h4x16_ex2", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.91 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Điền từ thích hợp: “现在城市里越来越多的人喜欢到______过周末。他们想找一个空气新鲜、安静的地方好好放松一下。”",
+      "options": ["郊区", "号码", "表格", "签证"],
+      "answer": "郊区",
+      "explanation": "Vùng ngoại ô (郊区) có không khí trong lành, yên tĩnh thích hợp nghỉ cuối tuần.",
+      "review_tip": "Phân biệt 郊区 (ngoại ô) vs 市区 (nội thành)."
+    },
+    {
+      "id": "h4x16_ex3", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.91 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Điền từ thích hợp: “A：你们这个月空调卖得怎么样？ B：不错，我们现在______出了‘以旧换新’的活动，吸引了不少顾客。”",
+      "options": ["推", "挂", "敢", "输"],
+      "answer": "推",
+      "explanation": "推出 (tuīchū) = tung ra, triển khai (chương trình, sản phẩm mới).",
+      "review_tip": "Ôn nghĩa mở rộng của 推: 推到明天 (hoãn), 推出 (triển khai)."
+    },
+    {
+      "id": "h4x16_ex4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "比一比 tr.86 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ ĐÚNG cho câu: “这次聚会你们怎么准备了这么多菜呢？我______他们吃不了。”",
+      "options": ["怕", "恐怕", "到底", "千万"],
+      "answer": "怕",
+      "explanation": "Sau chỗ trống là đại từ/danh từ '他们' (không phải động từ trực tiếp): theo mục 比一比 tr.85–86, chỉ dùng 怕, KHÔNG dùng 恐怕!",
+      "review_tip": "恐怕 không đứng trước danh từ/đại từ khi làm động từ 'lo lắng'."
+    },
+    {
+      "id": "h4x16_ex5", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "比一比 tr.86 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ ĐÚNG: “遇到任何困难都不要______，只要你努力，成功就离你越来越近。”",
+      "options": ["怕", "恐怕", "尊重", "马虎"],
+      "answer": "怕",
+      "explanation": "Nghĩa 'sợ hãi' (đừng sợ khó khăn) chỉ dùng 怕, 恐怕 không có nghĩa sợ hãi.",
+      "review_tip": "怕 = sợ hãi / lo lắng; 恐怕 = e rằng / có lẽ."
+    },
+    {
+      "id": "h4x16_ex6", "type": "context_mc", "level": "Phân biệt", "origin_tag": "同字词 tr.92 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn cặp từ 同字词 chữ 重 cho 2 câu: (1) 讲话应先讲____。(2) 有些小问题如果没有引起____，可能会发展成大麻烦。",
+      "options": ["重点 / 重视", "严重 / 尊重", "重视 / 重点", "尊重 / 严重"],
+      "answer": "重点 / 重视",
+      "explanation": "先讲重点 = nói trọng điểm trước; 引起重视 = thu hút sự coi trọng.",
+      "review_tip": "Ôn nhóm 同字词 chữ 重: 严重, 重点, 重视, 尊重."
+    },
+    {
+      "id": "h4x16_ex7", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Bài 16 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn câu DÙNG ĐÚNG từ “到底”:",
+      "options": [
+        "到底谁去参加比赛，大家还没决定。",
+        "谁到底去参加比赛，大家还没决定。",
+        "明天就是报名的最后一天了，你到底去吗？",
+        "你到底买好火车票了吗？"
+      ],
+      "answer": "到底谁去参加比赛，大家还没决定。",
+      "explanation": "Khi chủ ngữ là đại từ nghi vấn (谁), 到底 bắt buộc đứng trước chủ ngữ; và 到底 KHÔNG dùng trong câu hỏi 吗!",
+      "review_tip": "Ghi nhớ 2 quy tắc vàng của 到底 ở Chú thích 3 tr.86."
+    },
+    {
+      "id": "h4x16_ex8", "type": "reorder", "level": "Vận dụng", "origin_tag": "Bài 16 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Sắp xếp thành câu hoàn chỉnh:",
+      "tokens": ["来说吧，", "就拿", "首先要注意", "课前预习。", "学汉语"],
+      "answer": "就拿学汉语来说吧，首先要注意课前预习。",
+      "explanation": "Cấu trúc dẫn ví dụ: 就拿 + X + 来说吧，……",
+      "review_tip": "Ôn cấu trúc 拿……来说."
+    },
+    {
+      "id": "h4x16_ex9", "type": "error_fix", "level": "Phân biệt", "origin_tag": "Ôn kiến thức cũ (30%)", "mistake_category": "Ngữ pháp",
+      "prompt": "[Ôn tập Bài 15] Chọn câu ĐÚNG về cặp “千万—一定”:",
+      "options": [
+        "当你认为自己很优秀时，千万不要骄傲。",
+        "我千万会努力学习，不让父母失望。",
+        "比赛输了并不千万是件坏事。",
+        "如果你用礼貌的方法告诉他，他千万会原谅你的。"
+      ],
+      "answer": "当你认为自己很优秀时，千万不要骄傲。",
+      "explanation": "千万 chỉ dùng để dặn dò/khuyên nhủ (thường ở thể phủ định 千万不要); biểu thị quyết tâm ngôi thứ nhất (我一定会) hay phủ định (不一定) phải dùng 一定.",
+      "review_tip": "Ôn lại 比一比 Bài 15: 千万—一定."
+    },
+    {
+      "id": "h4x16_ex10", "type": "reading_mc", "level": "Vận dụng", "origin_tag": "Ôn đọc hiểu (30%)", "mistake_category": "Đọc hiểu",
+      "prompt": "Theo Bài khóa 2, vì sao ông chủ Vương lại chọn ăn miếng dưa hấu nhỏ nhất trước?",
+      "options": [
+        "Vì ăn nhanh xong miếng nhỏ sẽ còn thời gian ăn thêm miếng nữa, tổng lượng ăn được nhiều hơn",
+        "Vì ông không thích ăn dưa hấu và muốn nhường miếng to cho Lý Tiến",
+        "Vì miếng to nhất chưa chín kỹ nên ăn không ngon",
+        "Vì nhà báo từng khuyên ông chỉ nên làm những việc nhỏ"
+      ],
+      "answer": "Vì ăn nhanh xong miếng nhỏ sẽ còn thời gian ăn thêm miếng nữa, tổng lượng ăn được nhiều hơn",
+      "explanation": "Ông chủ Vương nói: trong lúc đối phương chưa ăn xong miếng to nhất thì mình ăn xong miếng nhỏ và kịp ăn thêm một miếng nữa → ẩn dụ biết nắm bắt từng cơ hội nhỏ, tích tiểu thành đại.",
+      "review_tip": "Đọc kỹ câu chuyện ẩn dụ 3 miếng dưa hấu ở Bài khóa 2."
+    },
+    {
+      "id": "h4x16_ex11", "type": "translate_zh_vi", "level": "Vận dụng", "origin_tag": "Ôn tập tích hợp (30%)", "mistake_category": "Dịch thuật",
+      "prompt": "Chọn bản dịch đúng nhất: “如果你敢诚实地说出自己对哪方面不了解，并不说明自己比别人差，相反，这样做更能得到别人的尊重。”",
+      "options": [
+        "Nếu bạn dám thành thật nói ra mình chưa hiểu ở khía cạnh nào, điều đó không chứng tỏ bạn kém hơn người khác, trái lại làm vậy càng nhận được sự tôn trọng của người khác.",
+        "Nếu bạn không dám nói ra điều mình chưa hiểu thì chứng tỏ bạn thua kém người khác và sẽ bị mất lòng tin.",
+        "Nếu bạn bình tĩnh nhận lỗi với người khác, mọi người sẽ lập tức tha thứ và giúp đỡ bạn giải quyết vấn đề.",
+        "Nếu bạn muốn được người khác tôn trọng thì nhất thiết không được để lộ điểm yếu của bản thân."
+      ],
+      "answer": "Nếu bạn dám thành thật nói ra mình chưa hiểu ở khía cạnh nào, điều đó không chứng tỏ bạn kém hơn người khác, trái lại làm vậy càng nhận được sự tôn trọng của người khác.",
+      "explanation": "Kết hợp động từ năng nguyện 敢 + 并不 + 相反 + 尊重.",
+      "review_tip": "Ôn cách chuyển ý bằng 相反 (ngược lại)."
+    }
+  ]
+}

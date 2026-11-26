@@ -1,0 +1,1075 @@
+{
+  "id": "hsk4xia_l20",
+  "book_id": "hsk4xia",
+  "textbook": "HSK 4 下",
+  "lesson_number": 20,
+  "title_zh": "路上的风景",
+  "title_vi": "Phong cảnh trên đường đi",
+  "pdf_pages": "Trang 136–147 (Chuẩn HSK4 下.pdf)",
+  "source_status": "verified_textbook",
+  "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"],
+  "vocabulary": [
+    {
+      "id": "hsk4x_l20_w01", "order": 1, "textbook": "HSK 4 下", "lesson": 20,
+      "hanzi": "加油站", "pinyin": "jiāyóuzhàn",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "trạm xăng dầu",
+        "structure": "去加油站 / 加油站禁止抽烟",
+        "explanation": "Nơi bán và đổ xăng dầu cho xe cộ dọc đường.",
+        "examples": [
+          { "chinese": "该加油了，去机场的路上有加油站吗？", "pinyin": "Gāi jiā yóu le, qù jīchǎng de lùshang yǒu jiāyóuzhàn ma?", "vietnamese": "Đến lúc đổ xăng rồi, trên đường ra sân bay có trạm xăng không?", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "为汽车等交通工具添加燃油的站点。",
+      "collocations": ["去加油站", "加油站附近", "给车加油"],
+      "usage_note": "Lưu ý: 加油 (jiā yóu) nghĩa gốc là đổ xăng, nghĩa bóng là 'cố lên!'.",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l20_w02", "order": 2, "textbook": "HSK 4 下", "lesson": 20,
+      "hanzi": "航班", "pinyin": "hángbān",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "chuyến bay",
+        "structure": "去北京的航班 / 航班推迟 / 乘坐航班",
+        "explanation": "Chuyến máy bay (hoặc tàu thủy) chạy theo tuyến và lịch trình cố định.",
+        "examples": [
+          { "chinese": "你去北京的航班是几点的？时间来得及吗？", "pinyin": "Nǐ qù Běijīng de hángbān shì jǐ diǎn de? Shíjiān láidejí ma?", "vietnamese": "Chuyến bay đi Bắc Kinh của cậu là mấy giờ? Thời gian có kịp không?", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "定期航行的飞机或轮船的班次。",
+      "collocations": ["航班推迟", "航班取消", "同一航班", "乘坐航班"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l20_w03", "order": 3, "textbook": "HSK 4 下", "lesson": 20,
+      "hanzi": "推迟", "pinyin": "tuīchí",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "hoãn lại, lùi lại",
+        "structure": "推迟了一个小时 / 推迟起飞 / 推迟到 + Thời gian",
+        "explanation": "Dời thời điểm đã định lùi về sau (trái nghĩa: 提前 - sớm hơn/trước thời hạn).",
+        "examples": [
+          { "chinese": "航班本来是十点的，后来机场网站上通知推迟了一个小时，所以九点半以前到就应该没问题。", "pinyin": "Hángbān běnlái shì shí diǎn de, hòulái jīchǎng wǎngzhàn shang tōngzhī tuīchíle yí ge xiǎoshí, suǒyǐ jiǔ diǎn bàn yǐqián dào jiù yīnggāi méi wèntí.", "vietnamese": "Chuyến bay vốn là 10 giờ, sau đó trên trang web sân bay thông báo hoãn một tiếng, nên trước 9 giờ rưỡi tới chắc sẽ không sao.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "把预定时间向后改动（反义词：提前）。",
+      "collocations": ["推迟起飞", "推迟出发", "推迟时间", "推迟到明天"],
+      "usage_note": "Cặp trái nghĩa thường thi: 提前 (làm sớm hơn) — 推迟 (lùi/hoãn lại).",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l20_w04", "order": 4, "textbook": "HSK 4 下", "lesson": 20,
+      "hanzi": "高速公路", "pinyin": "gāosù gōnglù",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "đường cao tốc",
+        "structure": "上高速公路 / 走高速公路",
+        "explanation": "Tuyến đường lớn chuyên dụng cho ô tô chạy tốc độ cao, không có giao cắt đồng mức.",
+        "examples": [
+          { "chinese": "一会儿加完油，往西走五百米就能上高速公路。走高速公路大约半个小时就到了。", "pinyin": "Yíhuìr jiāwán yóu, wǎng xī zǒu wǔbǎi mǐ jiù néng shàng gāosù gōnglù. Zǒu gāosù gōnglù dàyuē bàn ge xiǎoshí jiù dào le.", "vietnamese": "Lát nữa đổ xăng xong, đi về phía tây 500 mét là lên được đường cao tốc. Đi đường cao tốc khoảng nửa tiếng là tới.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "专供汽车高速行驶的现代化公路。",
+      "collocations": ["上高速公路", "走高速公路", "高速公路入口"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l20_w05", "order": 5, "textbook": "HSK 4 下", "lesson": 20,
+      "hanzi": "登机牌", "pinyin": "dēngjīpái",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "thẻ lên máy bay",
+        "structure": "换登机牌 / 打印登机牌 / 一张登机牌",
+        "explanation": "Thẻ hành khách nhận được sau khi làm thủ tục check-in để lên máy bay.",
+        "examples": [
+          { "chinese": "一会儿我自己进去换登机牌，你就不用送我了，等我到了首都机场再给你发短信。", "pinyin": "Yíhuìr wǒ zìjǐ jìnqu huàn dēngjīpái, nǐ jiù búyòng sòng wǒ le, děng wǒ dàole Shǒudū Jīchǎng zài gěi nǐ fā duǎnxìn.", "vietnamese": "Lát nữa mình tự vào đổi thẻ lên máy bay, cậu không cần tiễn mình đâu, đợi tới sân bay Thủ Đô mình nhắn tin cho cậu.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "机场为乘坐飞机的旅客提供的登机凭证。",
+      "collocations": ["换登机牌", "一张登机牌", "拿着登机牌"],
+      "usage_note": "Lượng từ là 张 (一张登机牌).",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l20_w06", "order": 6, "textbook": "HSK 4 下", "lesson": 20,
+      "hanzi": "首都", "pinyin": "shǒudū",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "thủ đô",
+        "structure": "中国的首都 / 首都机场",
+        "explanation": "Thành phố trung tâm chính trị, nơi đặt trụ sở cơ quan lãnh đạo tối cao của một quốc gia.",
+        "examples": [
+          { "chinese": "等我到了首都机场再给你发短信。", "pinyin": "Děng wǒ dàole Shǒudū Jīchǎng zài gěi nǐ fā duǎnxìn.", "vietnamese": "Đợi mình tới sân bay Thủ Đô sẽ nhắn tin cho cậu.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "国家最高政权机关所在地。",
+      "collocations": ["中国的首都", "首都机场", "首都北京"],
+      "usage_note": "Chữ 都 ở đây đọc là dū (thành phố lớn/thủ đô), không đọc dōu!",
+      "common_errors": "Đọc nhầm 首都 thành shǒudōu (đúng là shǒudū).",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l20_w07", "order": 7, "textbook": "HSK 4 下", "lesson": 20,
+      "hanzi": "旅行", "pinyin": "lǚxíng",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "du lịch, đi xa",
+        "structure": "去旅行 / 去丽江旅行 / 旅行社",
+        "explanation": "Đi xa khỏi nơi cư trú để tham quan, trải nghiệm, nghỉ dưỡng.",
+        "examples": [
+          { "chinese": "平时女儿那么多课，总是说想去旅行，但是没时间，怪可怜的。", "pinyin": "Píngshí nǚ'ér nàme duō kè, zǒngshì shuō xiǎng qù lǚxíng, dànshì méi shíjiān, guài kělián de.", "vietnamese": "Ngày thường con gái nhiều tiết học như vậy, lúc nào cũng bảo muốn đi du lịch nhưng chẳng có thời gian, thật đáng thương.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ)",
+          "meanings": ["chuyến du lịch, hành trình"],
+          "structure": "一次旅行 / 旅行中 / 每次旅行结束后",
+          "difference_note": "Làm danh từ chỉ một chuyến đi cụ thể (như câu 3 bài tập tr.145: '旅行中有任何事您都可以找我商量' và Bài khóa 5: '每次旅行结束后').",
+          "examples": [
+            { "chinese": "每次旅行结束后，我都会精神百倍地开始我的工作。", "pinyin": "Měi cì lǚxíng jiéshù hòu, wǒ dōu huì jīngshén bǎibèi de kāishǐ wǒ de gōngzuò.", "vietnamese": "Mỗi lần kết thúc chuyến du lịch, tôi đều bắt đầu công việc với tinh thần tràn đầy gấp bội." }
+          ]
+        }
+      ],
+      "chinese_explanation": "为了办事或游览从一个地方去到另一个地方（多指路程较远的）；也作名词指旅途。",
+      "collocations": ["去旅行", "旅行社", "一次难忘的旅行", "旅行中"],
+      "usage_note": "Phân biệt nhẹ: 旅游 thiên về tham quan vui chơi nghỉ dưỡng; 旅行 nhấn mạnh quá trình di chuyển, trải nghiệm trên đường đi.",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l20_w08", "order": 8, "textbook": "HSK 4 下", "lesson": 20,
+      "hanzi": "怪", "pinyin": "guài",
+      "is_out_of_syllabus": true,
+      "lesson_usage": {
+        "part_of_speech": "副词 (Phó từ)",
+        "meaning": "rất, vô cùng, khá là",
+        "structure": "怪 + Tính từ + 的 (怪可怜的 / 怪冷的 / 怪不好意思的)",
+        "explanation": "Phó từ mức độ khẩu ngữ, tương đương 很/挺, thường dùng trong khung 怪……的 (từ ngoài đề cương HSK 4 có dấu *).",
+        "examples": [
+          { "chinese": "总是说想去旅行，但是没时间，怪可怜的。", "pinyin": "Zǒngshì shuō xiǎng qù lǚxíng, dànshì méi shíjiān, guài kělián de.", "vietnamese": "Lúc nào cũng nói muốn đi du lịch nhưng chẳng có thời gian, trông tội nghiệp quá đi.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Trách móc) & 形容词 (Kỳ lạ)",
+          "meanings": ["trách móc, đổ lỗi (别怪我, 怪不得)", "kỳ lạ, khác thường (奇怪, 怪事)"],
+          "structure": "不能怪他 / 怪不得 / 奇怪",
+          "difference_note": "Đây là 2 từ loại cực kỳ phổ biến khác của chữ 怪: làm động từ là 'trách móc', làm tính từ là 'kỳ lạ'.",
+          "examples": [
+            { "chinese": "这件事是我自己没做好，不能怪别人。", "pinyin": "Zhè jiàn shì shì wǒ zìjǐ méi zuòhǎo, bù néng guài biérén.", "vietnamese": "Việc này là tự tôi làm chưa tốt, không thể trách người khác được." }
+          ]
+        }
+      ],
+      "chinese_explanation": "副词，表示“很、非常”（口语）；作动词指责备、怨恨；作形容词指奇异、不寻常。",
+      "collocations": ["怪可怜的", "怪冷的", "别怪我", "奇怪"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l20_w09", "order": 9, "textbook": "HSK 4 下", "lesson": 20,
+      "hanzi": "可怜", "pinyin": "kělián",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)",
+        "meaning": "đáng thương, tội nghiệp",
+        "structure": "真可怜 / 怪可怜的 / 一只可怜的小狗",
+        "explanation": "Gợi lên lòng thương cảm, xót xa.",
+        "examples": [
+          { "chinese": "平时女儿那么多课，总是说想去旅行，但是没时间，怪可怜的。", "pinyin": "Píngshí nǚ'ér nàme duō kè, zǒngshì shuō xiǎng qù lǚxíng, dànshì méi shíjiān, guài kělián de.", "vietnamese": "Ngày thường con gái học nhiều tiết thế, cứ bảo muốn đi du lịch mà không có thời gian, thật đáng thương.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Động từ)",
+          "meanings": ["thương hại, thương xót ai"],
+          "structure": "可怜 + Tân ngữ (可怜他 / 不需要别人可怜)",
+          "difference_note": "Có thể mang trực tiếp tân ngữ phía sau khi biểu thị thái độ thương hại ai đó.",
+          "examples": [
+            { "chinese": "他不需要别人可怜，他只想靠自己努力。", "pinyin": "Tā bù xūyào biérén kělián, tā zhǐ xiǎng kào zìjǐ nǔlì.", "vietnamese": "Anh ấy không cần người khác thương hại, anh chỉ muốn tự mình nỗ lực." }
+          ]
+        }
+      ],
+      "chinese_explanation": "值得怜悯；也作动词表示怜悯。",
+      "collocations": ["怪可怜的", "很可怜", "可怜的小狗"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l20_w10", "order": 10, "textbook": "HSK 4 下", "lesson": 20,
+      "hanzi": "对面", "pinyin": "duìmiàn",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ phương vị)",
+        "meaning": "đối diện, trước mặt",
+        "structure": "对面的饭店 / 在……对面",
+        "explanation": "Phía đối diện, mặt đối mặt với một địa điểm hoặc người nào đó.",
+        "examples": [
+          { "chinese": "中午我们不是要去对面的饭店吃烤鸭，祝贺她考试成绩都合格吗？", "pinyin": "Zhōngwǔ wǒmen bú shì yào qù duìmiàn de fàndiàn chī kǎoyā, zhùhè tā kǎoshì chéngjì dōu hégé ma?", "vietnamese": "Trưa nay chẳng phải chúng ta định sang nhà hàng đối diện ăn vịt quay, chúc mừng con bé thi đạt hết các môn sao?", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "正前方；面对着的地方。",
+      "collocations": ["对面的商店", "学校对面", "面对面"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l20_w11", "order": 11, "textbook": "HSK 4 下", "lesson": 20,
+      "hanzi": "烤鸭", "pinyin": "kǎoyā",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "vịt quay",
+        "structure": "北京烤鸭 / 吃烤鸭",
+        "explanation": "Món vịt quay nổi tiếng, đặc biệt là vịt quay Bắc Kinh (北京烤鸭).",
+        "examples": [
+          { "chinese": "中午我们不是要去对面的饭店吃烤鸭，祝贺她考试成绩都合格吗？", "pinyin": "Zhōngwǔ wǒmen bú shì yào qù duìmiàn de fàndiàn chī kǎoyā, zhùhè tā kǎoshì chéngjì dōu hégé ma?", "vietnamese": "Trưa nay chẳng phải chúng ta định tới nhà hàng đối diện ăn vịt quay, chúc mừng kết quả thi của con bé đều đạt hay sao?", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "用火烤熟的鸭子，北京烤鸭最为著名。",
+      "collocations": ["北京烤鸭", "吃烤鸭", "一只烤鸭"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l20_w12", "order": 12, "textbook": "HSK 4 下", "lesson": 20,
+      "hanzi": "祝贺", "pinyin": "zhùhè",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "chúc mừng",
+        "structure": "祝贺 + Ai (+ Thành tích/Việc vui đã xảy ra)",
+        "explanation": "Chúc mừng ai đó nhân dịp họ đạt thành công, thắng lợi hoặc có tin vui.",
+        "examples": [
+          { "chinese": "祝贺她考试成绩都合格吗？", "pinyin": "Zhùhè tā kǎoshì chéngjì dōu hégé ma?", "vietnamese": "Chúc mừng thành tích thi cử của con bé đều đạt tiêu chuẩn sao?", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "庆贺别人的喜事或成功。",
+      "collocations": ["祝贺你", "热烈祝贺", "表示祝贺"],
+      "usage_note": "Phân biệt với 祝: 祝 dùng chúc điều tốt đẹp sắp tới/ngày lễ (祝你生日快乐, 祝你成功); 祝贺 dùng chúc mừng thành công/tin vui ĐÃ ĐẠT ĐƯỢC (祝贺你考试合格, 祝贺你们完成任务)!",
+      "common_errors": "Sai: '祝贺你身体健康' → Đúng: '祝你身体健康'; Đúng: '祝贺你取得好成绩'.",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l20_w13", "order": 13, "textbook": "HSK 4 下", "lesson": 20,
+      "hanzi": "合格", "pinyin": "hégé",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)",
+        "meaning": "đạt tiêu chuẩn, đạt yêu cầu",
+        "structure": "成绩合格 / 产品合格 / 一个合格的 + Danh từ",
+        "explanation": "Đáp ứng đủ tiêu chuẩn, yêu cầu đặt ra về chất lượng, năng lực hoặc điểm số.",
+        "examples": [
+          { "chinese": "祝贺她考试成绩都合格吗？", "pinyin": "Zhùhè tā kǎoshì chéngjì dōu hégé ma?", "vietnamese": "Chúc mừng kết quả thi của con bé đều đạt yêu cầu sao?", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "符合规定的标准或要求。",
+      "collocations": ["考试合格", "质量合格", "合格的管理者", "不合格"],
+      "usage_note": "Xem nhóm 同字词 chữ 格 tr.146: 性格, 价格, 表格, 合格, 严格.",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l20_w14", "order": 14, "textbook": "HSK 4 下", "lesson": 20,
+      "hanzi": "干杯", "pinyin": "gān bēi",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ ly hợp)",
+        "meaning": "cạn ly, nâng ly",
+        "structure": "和……干杯 / 来，干一杯！/ 为……干杯",
+        "explanation": "Chạm cốc uống cạn rượu hoặc đồ uống để chúc mừng, tỏ lòng hiếu khách.",
+        "examples": [
+          { "chinese": "这张照片上和你干杯的那个人是少数民族吗？", "pinyin": "Zhè zhāng zhàopiàn shang hé nǐ gān bēi de nàge rén shì shǎoshù mínzú ma?", "vietnamese": "Người cụng ly với cậu trong bức ảnh này là người dân tộc thiểu số à?", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "喝干杯中的酒，常用作举杯祝贺的礼节用语。",
+      "collocations": ["干一杯", "为友谊干杯", "和你干杯"],
+      "usage_note": "Chữ 干 ở đây đọc thanh 1 (gān - khô, cạn); là động từ ly hợp nên chen số lượng từ vào giữa: 干一杯.",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l20_w15", "order": 15, "textbook": "HSK 4 下", "lesson": 20,
+      "hanzi": "民族", "pinyin": "mínzú",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "dân tộc",
+        "structure": "少数民族 / 中华民族 / 56个民族",
+        "explanation": "Cộng đồng người ổn định có chung ngôn ngữ, lãnh thổ, lịch sử và bản sắc văn hóa.",
+        "examples": [
+          { "chinese": "她是我们的导游，不是少数民族。", "pinyin": "Tā shì wǒmen de dǎoyóu, bú shì shǎoshù mínzú.", "vietnamese": "Cô ấy là hướng dẫn viên du lịch của tụi mình, không phải người dân tộc thiểu số.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "历史上形成的具有共同语言、地域、经济生活和文化心理的人群共同体。",
+      "collocations": ["少数民族", "民族文化", "民族舞蹈", "56个民族"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l20_w16", "order": 16, "textbook": "HSK 4 下", "lesson": 20,
+      "hanzi": "打扮", "pinyin": "dǎban",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "trang điểm, ăn diện, chải chuốt",
+        "structure": "打扮得真漂亮 / 好好打扮一下",
+        "explanation": "Trang điểm khuôn mặt, chọn trang phục và phụ kiện để trông gọn gàng, xinh đẹp hơn.",
+        "examples": [
+          { "chinese": "她打扮得真漂亮。", "pinyin": "Tā dǎban de zhēn piàoliang.", "vietnamese": "Cô ấy ăn diện thật xinh đẹp.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ)",
+          "meanings": ["cách ăn mặc, phong cách trang điểm"],
+          "structure": "这种打扮 / 一身漂亮的打扮",
+          "difference_note": "Như câu 7 bài tập tr.145 ('不过我觉得这种打扮参加正式的舞会可能还是不太合适'), dùng làm danh từ chỉ kiểu phục sức/ăn mặc.",
+          "examples": [
+            { "chinese": "很漂亮，不过我觉得这种打扮参加正式的舞会可能还是不太合适。", "pinyin": "Hěn piàoliang, búguò wǒ juéde zhè zhǒng dǎban cānjiā zhèngshì de wǔhuì kěnéng háishi bú tài héshì.", "vietnamese": "Rất đẹp, nhưng mình thấy kiểu ăn mặc này đi dự tiệc khiêu vũ trang trọng có lẽ vẫn chưa hợp lắm." }
+          ]
+        }
+      ],
+      "chinese_explanation": "装饰容貌和衣着；也作名词指装束、穿戴的样子。",
+      "collocations": ["打扮得漂亮", "这种打扮", "精心打扮"],
+      "usage_note": "Âm tiết thứ hai đọc thanh nhẹ: dǎban.",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l20_w17", "order": 17, "textbook": "HSK 4 下", "lesson": 20,
+      "hanzi": "笑话", "pinyin": "xiàohua",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "truyện cười, chuyện đùa",
+        "structure": "讲笑话 / 有趣的笑话 / 一个笑话",
+        "explanation": "Câu chuyện ngắn dí dỏm, hài hước khiến mọi người bật cười.",
+        "examples": [
+          { "chinese": "一路上她给我们讲了很多有趣的笑话。", "pinyin": "Yí lù shang tā gěi wǒmen jiǎngle hěn duō yǒuqù de xiàohua.", "vietnamese": "Suốt dọc đường cô ấy kể cho tụi mình nghe rất nhiều truyện cười thú vị.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Động từ)",
+          "meanings": ["cười nhạo, chê cười ai"],
+          "structure": "笑话 + Ai (别笑话我 / 怕被人笑话)",
+          "difference_note": "Khi làm động từ mang nghĩa chế giễu, cười cợt lỗi sai hoặc khuyết điểm của người khác.",
+          "examples": [
+            { "chinese": "我的汉语说得还不太流利，请你不要笑话我。", "pinyin": "Wǒ de Hànyǔ shuō de hái bú tài liúlì, qǐng nǐ búyào xiàohua wǒ.", "vietnamese": "Tiếng Hán của mình nói vẫn chưa lưu loát lắm, xin cậu đừng cười mình nhé." }
+          ]
+        }
+      ],
+      "chinese_explanation": "能引人发笑的话或故事；作动词指嘲笑、讥笑。",
+      "collocations": ["讲笑话", "有趣的笑话", "别笑话人", "一肚子的笑话"],
+      "usage_note": "Âm tiết thứ hai đọc thanh nhẹ: xiàohua.",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l20_w18", "order": 18, "textbook": "HSK 4 下", "lesson": 20,
+      "hanzi": "存", "pinyin": "cún",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "gửi (đồ đạc)",
+        "structure": "存包 / 存行李",
+        "explanation": "Trong bài khóa 3, chỉ việc gửi tạm túi xách, hành lý vào tủ hoặc quầy giữ đồ.",
+        "examples": [
+          { "chinese": "有一次我把存包的钥匙丢了，最后还是她帮我找到的。", "pinyin": "Yǒu yí cì wǒ bǎ cún bāo de yàoshi diū le, zuìhòu háishi tā bāng wǒ zhǎodào de.", "vietnamese": "Có một lần mình làm mất chìa khóa tủ gửi túi, cuối cùng vẫn là cô ấy giúp mình tìm lại được.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Nghĩa: gửi tiền ngân hàng, lưu trữ, tồn tại)",
+          "meanings": ["gửi tiền tiết kiệm (存钱)", "lưu trữ/bảo quản (保存, 存电话号码)", "tồn tại (存在)"],
+          "structure": "去银行存钱 / 存一下号码",
+          "difference_note": "Rất hay dùng trong giao dịch ngân hàng (存钱 gửi tiền vs 取钱 rút tiền) và công nghệ (存文件 lưu tệp).",
+          "examples": [
+            { "chinese": "每个月发工资后，她都会把一部分钱存进银行。", "pinyin": "Měi ge yuè fā gōngzī hòu, tā dōu huì bǎ yí bùfen qián cún jìn yínháng.", "vietnamese": "Mỗi tháng sau khi nhận lương, cô ấy đều gửi một phần tiền vào ngân hàng." }
+          ]
+        }
+      ],
+      "chinese_explanation": "寄放、储蓄、保留、存在。",
+      "collocations": ["存包", "存钱", "保存", "存在"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l20_w19", "order": 19, "textbook": "HSK 4 下", "lesson": 20,
+      "hanzi": "钥匙", "pinyin": "yàoshi",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "chìa khóa",
+        "structure": "一把钥匙 / 存包的钥匙 / 钥匙丢了",
+        "explanation": "Vật dụng bằng kim loại dùng để mở hoặc khóa cửa, tủ, xe.",
+        "examples": [
+          { "chinese": "有一次我把存包的钥匙丢了，最后还是她帮我找到的。这张照片就是找到钥匙后，我们一起照的。", "pinyin": "Yǒu yí cì wǒ bǎ cún bāo de yàoshi diū le, zuìhòu háishi tā bāng wǒ zhǎodào de. Zhè zhāng zhàopiàn jiù shì zhǎodào yàoshi hòu, wǒmen yìqǐ zhào de.", "vietnamese": "Có một lần mình làm mất chìa khóa gửi đồ, cuối cùng cô ấy giúp mình tìm lại. Bức ảnh này chính là chụp chung sau khi tìm được chìa khóa.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "开锁的工具。",
+      "collocations": ["一把钥匙", "带钥匙", "丢钥匙", "车钥匙"],
+      "usage_note": "Lượng từ chuẩn là 把 (一把钥匙); âm tiết 2 đọc thanh nhẹ: yàoshi.",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l20_w20", "order": 20, "textbook": "HSK 4 下", "lesson": 20,
+      "hanzi": "究竟", "pinyin": "jiūjìng",
+      "lesson_usage": {
+        "part_of_speech": "副词 (Phó từ)",
+        "meaning": "(dùng trong câu hỏi để nhấn mạnh) rốt cuộc, rốt cục",
+        "structure": "究竟 + Chủ ngữ nghi vấn / S + 究竟 + Câu hỏi",
+        "explanation": "Phó từ văn viết dùng trong câu hỏi hoặc câu chứa đại từ nghi vấn nhằm nhấn mạnh ngữ khí truy vấn tìm hiểu đến cùng.",
+        "examples": [
+          { "chinese": "究竟哪个季节去丽江旅游比较好呢？", "pinyin": "Jiūjìng nǎge jìjié qù Lìjiāng lǚyóu bǐjiào hǎo ne?", "vietnamese": "Rốt cuộc mùa nào đi du lịch Lệ Giang thì tốt hơn nhỉ?", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ)",
+          "meanings": ["đầu đuôi sự tình, kết quả thực sự"],
+          "structure": "看个究竟 / 问个究竟 / 查个究竟",
+          "difference_note": "Đứng sau động từ 看/问/查 + 个 tạo thành cụm cố định mang nghĩa 'xem/hỏi cho ra lẽ'.",
+          "examples": [
+            { "chinese": "外面声音那么大，我们出去看个究竟吧。", "pinyin": "Wàimiàn shēngyīn nàme dà, wǒmen chūqù kàn ge jiūjìng ba.", "vietnamese": "Bên ngoài tiếng ồn lớn quá, chúng ta ra xem rốt cuộc có chuyện gì đi." }
+          ]
+        }
+      ],
+      "chinese_explanation": "副词，用在问句或带疑问代词的句中表示追究；作名词指结果、原委。",
+      "collocations": ["究竟怎么回事", "究竟为什么", "看个究竟"],
+      "usage_note": "Xem bảng 比一比 '究竟 — 到底' ở tab Ngữ pháp (到底 dùng được làm động từ 坚持到底, còn 究竟 thì KHÔNG!).",
+      "common_errors": "Sai: '一定要坚持究竟' → Đúng: '一定要坚持到底'.",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l20_w21", "order": 21, "textbook": "HSK 4 下", "lesson": 20,
+      "hanzi": "棵", "pinyin": "kē",
+      "lesson_usage": {
+        "part_of_speech": "量词 (Lượng từ)",
+        "meaning": "(dùng cho thực vật) cây, ngọn",
+        "structure": "一棵树 / 一棵棵 / 一棵草",
+        "explanation": "Lượng từ chuyên dùng cho cây cối và các loài thực vật (chữ có bộ mộc 木 bên trái).",
+        "examples": [
+          { "chinese": "窗外的树一棵一棵地变绿，北方也许还下着雪，南方却已经到处都是绿色了。", "pinyin": "Chuāngwài de shù yì kē yì kē de biàn lǜ, běifāng yěxǔ hái xiàzhe xuě, nánfāng què yǐjīng dàochù dōu shì lǜsè le.", "vietnamese": "Hàng cây ngoài cửa sổ từng cây từng cây xanh lên, miền Bắc có lẽ tuyết vẫn đang rơi nhưng miền Nam đã khắp nơi phủ một màu xanh rồi.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "量词，多用于植物。",
+      "collocations": ["一棵树", "一棵草", "一棵一棵地"],
+      "usage_note": "Phân biệt với 颗 (kē - bộ quả/huyết 页, dùng cho vật nhỏ tròn như ngọc trai, sao, tim, răng: 一颗星, 一颗心).",
+      "common_errors": "Nhầm 棵 (cây cối, bộ 木) với 颗 (hạt nhỏ, ngôi sao, trái tim).",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l20_w22", "order": 22, "textbook": "HSK 4 下", "lesson": 20,
+      "hanzi": "汤", "pinyin": "tāng",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "canh, súp",
+        "structure": "喝汤 / 一碗汤 / 鸡蛋汤",
+        "explanation": "Món nước canh, súp dùng trong bữa ăn.",
+        "examples": [
+          { "chinese": "南方菜很有特点，特别是汤，味道鲜美，很多北方人都喜欢喝。", "pinyin": "Nánfāng cài hěn yǒu tèdiǎn, tèbié shì tāng, wèidào xiānměi, hěn duō běifāng rén dōu xǐhuan hē.", "vietnamese": "Món ăn miền Nam rất có nét đặc trưng, đặc biệt là canh, hương vị tươi ngon, rất nhiều người miền Bắc đều thích uống.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "食物煮后所得的汁水；汤菜。",
+      "collocations": ["喝汤", "一碗汤", "鸡蛋汤", "做汤"],
+      "usage_note": "Trong tiếng Trung nói '喝汤' (uống canh), không nói 吃汤.",
+      "common_errors": "Sai: '吃汤' → Đúng: '喝汤'.",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l20_w23", "order": 23, "textbook": "HSK 4 下", "lesson": 20,
+      "hanzi": "对话", "pinyin": "duìhuà",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "đối thoại, tiếp xúc trò chuyện",
+        "structure": "跟/和 + Ai + 对话",
+        "explanation": "Hai bên trao đổi, nói chuyện qua lại với nhau.",
+        "examples": [
+          { "chinese": "比如你跟上海人对话时，会发现上海话听起来就像外语一样。", "pinyin": "Bǐrú nǐ gēn Shànghǎi rén duì huà shí, huì fāxiàn Shànghǎi huà tīng qilai jiù xiàng wàiyǔ yíyàng.", "vietnamese": "Ví dụ khi bạn trò chuyện với người Thượng Hải, bạn sẽ thấy tiếng Thượng Hải nghe hệt như ngoại ngữ vậy.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ)",
+          "meanings": ["cuộc đối thoại, đoạn hội thoại"],
+          "structure": "一段对话 / 和他的对话",
+          "difference_note": "Như câu 5 bài tập tr.145 ('通过面试时和他的对话，感觉他的性格也不错'), dùng làm danh từ chỉ cuộc trò chuyện/hội thoại.",
+          "examples": [
+            { "chinese": "通过面试时和他的对话，感觉他的性格也不错。", "pinyin": "Tōngguò miànshì shí hé tā de duìhuà, gǎnjué tā de xìnggé yě búcuò.", "vietnamese": "Thông qua cuộc trò chuyện với anh ấy khi phỏng vấn, tôi cảm thấy tính cách anh ấy cũng rất khá." }
+          ]
+        }
+      ],
+      "chinese_explanation": "两个或更多的人之间谈话；也指谈话的内容或形式。",
+      "collocations": ["跟……对话", "一段对话", "直接对话"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l20_w24", "order": 24, "textbook": "HSK 4 下", "lesson": 20,
+      "hanzi": "普通话", "pinyin": "pǔtōnghuà",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "tiếng phổ thông, tiếng Quan thoại",
+        "structure": "讲普通话 / 说普通话 / 普通话水平考试",
+        "explanation": "Ngôn ngữ chuẩn chung của Trung Quốc hiện đại (lấy ngữ âm Bắc Kinh làm tiêu chuẩn).",
+        "examples": [
+          { "chinese": "虽然上海人也会讲普通话，可是仔细听，还是有上海味儿。", "pinyin": "Suīrán Shànghǎi rén yě huì jiǎng pǔtōnghuà, kěshì zǐxì tīng, háishi yǒu Shànghǎi wèir.", "vietnamese": "Tuy người Thượng Hải cũng biết nói tiếng phổ thông, nhưng nghe kỹ thì vẫn có âm hưởng Thượng Hải.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "以北京语音为标准音、以北方话为基础方言的现代汉民族共同语。",
+      "collocations": ["讲普通话", "说普通话", "普通话很标准", "普通话水平考试"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l20_w25", "order": 25, "textbook": "HSK 4 下", "lesson": 20,
+      "hanzi": "小吃", "pinyin": "xiǎochī",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)",
+        "meaning": "món ăn vặt, đồ ăn nhẹ địa phương",
+        "structure": "各地有名的小吃 / 当地小吃 / 特色小吃",
+        "explanation": "Các món ăn nhẹ đặc sản địa phương bán phổ biến ở quán nhỏ, chợ đêm hoặc khu phố ẩm thực.",
+        "examples": [
+          { "chinese": "但对我来说，最重要的是旅行能让我有机会尝到各地有名的小吃。", "pinyin": "Dàn duì wǒ lái shuō, zuì zhòngyào de shì lǚxíng néng ràng wǒ yǒu jīhuì chángdào gè dì yǒumíng de xiǎochī.", "vietnamese": "Nhưng đối với tôi, điều quan trọng nhất là du lịch giúp tôi có cơ hội thưởng thức các món ăn đặc sản nổi tiếng khắp nơi.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "各地区具有风味特色的简易食品、点心。",
+      "collocations": ["有名的小吃", "特色小吃", "小吃街", "尝小吃"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l20_w26", "order": 26, "textbook": "HSK 4 下", "lesson": 20,
+      "hanzi": "收拾", "pinyin": "shōushi",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "thu dọn, thu xếp",
+        "structure": "收拾行李 / 收拾房间 / 收拾桌子",
+        "explanation": "Dọn dẹp cho gọn gàng hoặc xếp đồ đạc chuẩn bị lên đường.",
+        "examples": [
+          { "chinese": "放假的时候，我会收拾好行李，带上地图，买张火车票，向目的地出发。", "pinyin": "Fàng jià de shíhou, wǒ huì shōushi hǎo xíngli, dàishang dìtú, mǎi zhāng huǒchēpiào, xiàng mùdìdì chūfā.", "vietnamese": "Vào kỳ nghỉ, tôi sẽ thu xếp xong hành lý, mang theo bản đồ, mua một tấm vé tàu hỏa rồi xuất phát hướng về điểm đến.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Nghĩa khẩu ngữ: sửa chữa; dạy dỗ/trừng trị)",
+          "meanings": ["sửa chữa đồ hư hỏng", "trừng trị, xử lý (khẩu ngữ)"],
+          "structure": "收拾一下坏了的桌子 / 看我怎么收拾你",
+          "difference_note": "Trong khẩu ngữ có thể mang nghĩa sửa lại đồ vật hoặc răn đe/xử lý ai đó.",
+          "examples": [
+            { "chinese": "房间太乱了，你抽时间好好收拾一下吧。", "pinyin": "Fángjiān tài luàn le, nǐ chōu shíjiān hǎohāo shōushi yíxià ba.", "vietnamese": "Phòng bừa bộn quá rồi, cậu tranh thủ thời gian dọn dẹp tử tế đi nhé." }
+          ]
+        }
+      ],
+      "chinese_explanation": "整理、整顿；口语中也指修理或整治。",
+      "collocations": ["收拾行李", "收拾房间", "收拾东西", "收拾桌子"],
+      "usage_note": "Âm tiết thứ hai đọc thanh nhẹ: shōushi.",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l20_w27", "order": 27, "textbook": "HSK 4 下", "lesson": 20,
+      "hanzi": "出发", "pinyin": "chūfā",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)",
+        "meaning": "xuất phát, khởi hành",
+        "structure": "向 + Điểm đến + 出发 / 马上出发 / 几点出发",
+        "explanation": "Rời khỏi nơi hiện tại để bắt đầu chuyến đi tới một nơi khác.",
+        "examples": [
+          { "chinese": "买张火车票，向目的地出发。", "pinyin": "Mǎi zhāng huǒchēpiào, xiàng mùdìdì chūfā.", "vietnamese": "Mua một tấm vé tàu, xuất phát hướng tới điểm đến.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Nghĩa bóng: xuất phát từ góc độ/lập trường)",
+          "meanings": ["xuất phát từ (góc độ, thực tế, lợi ích)"],
+          "structure": "从实际出发 / 从……的角度出发",
+          "difference_note": "Dùng nhiều trong văn nghị luận để chỉ điểm khởi đầu của tư duy hoặc hành động.",
+          "examples": [
+            { "chinese": "做任何决定都要从实际情况出发。", "pinyin": "Zuò rènhé juédìng dōu yào cóng shíjì qíngkuàng chūfā.", "vietnamese": "Đưa ra bất kỳ quyết định nào cũng cần xuất phát từ tình hình thực tế." }
+          ]
+        }
+      ],
+      "chinese_explanation": "离开原来的地方到别的地方去；也比喻从某种立场或前提开始考虑问题。",
+      "collocations": ["向目的地出发", "马上出发", "从实际出发"],
+      "usage_note": "Không mang tân ngữ địa điểm trực tiếp (Sai: '出发北京' → Đúng: '向北京出发' hoặc '去北京').",
+      "common_errors": "Sai: '我们明天出发上海' → Đúng: '我们明天去上海' hoặc '我们明天向上海出发'.",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l20_w28", "order": 28, "textbook": "HSK 4 下", "lesson": 20,
+      "hanzi": "辣", "pinyin": "là",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)",
+        "meaning": "cay",
+        "structure": "咸辣 / 香辣 / 酸辣 / 太辣了",
+        "explanation": "Vị cay nồng của ớt, gừng, hạt tiêu.",
+        "examples": [
+          { "chinese": "湖南菜的特点就是辣，与其他地方的辣不同，湖南菜的辣主要是咸辣、香辣和酸辣。", "pinyin": "Húnán cài de tèdiǎn jiù shì là, yǔ qítā dìfang de là bù tóng, Húnán cài de là zhǔyào shì xián là, xiāng là hé suān là.", "vietnamese": "Đặc điểm của món Hồ Nam chính là cay, khác với vị cay nơi khác, cay của món Hồ Nam chủ yếu là cay mặn, cay thơm và cay chua.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "像姜、蒜、辣椒等带刺激性的味道。",
+      "collocations": ["很辣", "香辣", "酸辣", "吃辣"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l20_w29", "order": 29, "textbook": "HSK 4 下", "lesson": 20,
+      "hanzi": "香", "pinyin": "xiāng",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)",
+        "meaning": "thơm",
+        "structure": "香辣 / 真香 / 饺子很香",
+        "explanation": "Có mùi thơm dễ chịu, kích thích vị giác hoặc khứu giác.",
+        "examples": [
+          { "chinese": "湖南菜的辣主要是咸辣、香辣和酸辣。", "pinyin": "Húnán cài de là zhǔyào shì xián là, xiāng là hé suān là.", "vietnamese": "Vị cay của món Hồ Nam chủ yếu là cay mặn, cay thơm và cay chua.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "形容词 (Nghĩa mở rộng: ngon miệng / ngủ ngon giấc)",
+          "meanings": ["ăn ngon miệng (吃得香)", "ngủ say/ngon giấc (睡得香)"],
+          "structure": "吃得很香 / 睡得很香",
+          "difference_note": "Rất hay dùng làm bổ ngữ trạng thái cho 吃 và 睡 để diễn tả cảm giác ngon lành, say sưa.",
+          "examples": [
+            { "chinese": "孩子玩儿累了，晚上睡得特别香。", "pinyin": "Háizi wánr lèi le, wǎnshang shuì de tèbié xiāng.", "vietnamese": "Đứa trẻ chơi mệt rồi, buổi tối ngủ cực kỳ say." }
+          ]
+        }
+      ],
+      "chinese_explanation": "气味好闻；也形容饭菜可口或睡眠酣畅。",
+      "collocations": ["香辣", "很香", "吃得很香", "睡得很香", "香水"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l20_w30", "order": 30, "textbook": "HSK 4 下", "lesson": 20,
+      "hanzi": "酸", "pinyin": "suān",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)",
+        "meaning": "chua",
+        "structure": "酸辣 / 酸甜 / 有点儿酸",
+        "explanation": "Vị chua như giấm, chanh.",
+        "examples": [
+          { "chinese": "湖南菜的辣主要是咸辣、香辣和酸辣。", "pinyin": "Húnán cài de là zhǔyào shì xián là, xiāng là hé suān là.", "vietnamese": "Vị cay của món Hồ Nam chủ yếu là cay mặn, cay thơm và cay chua.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "形容词 (Nghĩa: đau mỏi cơ bắp; xót xa)",
+          "meanings": ["mỏi, nhức mỏi (chân, lưng, tay)", "xót xa, cay mũi (chực khóc)"],
+          "structure": "腰酸背痛 / 腿有点儿酸 / 鼻子一酸",
+          "difference_note": "Dùng rất phổ biến khi tả cảm giác nhức mỏi sau khi đi bộ/vận động nhiều (腿酸).",
+          "examples": [
+            { "chinese": "爬了一天山，现在两条腿特别酸。", "pinyin": "Pále yì tiān shān, xiànzài liǎng tiáo tuǐ tèbié suān.", "vietnamese": "Leo núi cả ngày rồi, bây giờ hai chân mỏi nhừ." }
+          ]
+        }
+      ],
+      "chinese_explanation": "像醋一样的气味或味道；也指因疲劳引起的微痛无力感或悲痛感。",
+      "collocations": ["酸辣", "酸奶", "酸甜", "腰酸腿疼"],
+      "usage_note": "",
+      "common_errors": "",
+      "audio": null,
+      "source_status": "verified_textbook",
+      "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    }
+  ],
+  "proper_nouns": [
+    { "hanzi": "长江", "pinyin": "Chángjiāng", "meaning": "sông Trường Giang (sông dài nhất ở Trung Quốc)" },
+    { "hanzi": "长江大桥", "pinyin": "Chángjiāng Dàqiáo", "meaning": "cầu Trường Giang (ở Nam Kinh)" },
+    { "hanzi": "首都机场", "pinyin": "Shǒudū Jīchǎng", "meaning": "sân bay Thủ Đô" },
+    { "hanzi": "广西", "pinyin": "Guǎngxī", "meaning": "Quảng Tây (địa danh)" },
+    { "hanzi": "丽江", "pinyin": "Lìjiāng", "meaning": "Lệ Giang (địa danh ở Vân Nam)" },
+    { "hanzi": "湖南", "pinyin": "Húnán", "meaning": "Hồ Nam (địa danh)" }
+  ],
+  "same_char_expansion": {
+    "char": "格",
+    "words": [
+      { "hanzi": "性格", "pinyin": "xìnggé", "meaning": "tính cách" },
+      { "hanzi": "价格", "pinyin": "jiàgé", "meaning": "giá cả" },
+      { "hanzi": "表格", "pinyin": "biǎogé", "meaning": "bảng biểu, mẫu đơn" },
+      { "hanzi": "合格", "pinyin": "hégé", "meaning": "đạt tiêu chuẩn, đạt yêu cầu" },
+      { "hanzi": "严格", "pinyin": "yángé", "meaning": "nghiêm khắc, nghiêm ngặt" }
+    ],
+    "examples": [
+      { "chinese": "我的性格很像我父亲，我的理想就是做一个像父亲那样的医生。", "vietnamese": "Tính cách tôi rất giống bố, lý tưởng của tôi là trở thành một bác sĩ giống như bố." },
+      { "chinese": "我想租一个窗户向南、阳光好的房间，附近最好有超市和医院。当然，价格也要合适。", "vietnamese": "Tôi muốn thuê một căn phòng cửa sổ hướng Nam, ánh sáng tốt, gần đó tốt nhất có siêu thị và bệnh viện. Tất nhiên giá cả cũng phải hợp lý." },
+      { "chinese": "如果您想办信用卡的话，得先填一下这张表格。", "vietnamese": "Nếu bạn muốn làm thẻ tín dụng thì phải điền tờ biểu mẫu này trước." },
+      { "chinese": "一个合格的公司管理者，一定要允许其他人有反对意见。", "vietnamese": "Một nhà quản lý công ty đạt chuẩn nhất định phải cho phép người khác có ý kiến phản đối." },
+      { "chinese": "严格地说，地球应该叫“水球”，这是因为从地图上看，大约71%的地方都是蓝色的海洋。", "vietnamese": "Nói một cách nghiêm ngặt, Trái Đất nên gọi là “Thủy cầu”, vì nhìn từ bản đồ khoảng 71% diện tích là đại dương xanh." }
+    ]
+  },
+  "grammar": [
+    {
+      "title": "动词+着+动词+着",
+      "formula": "V + 着 + V + 着 + (就) + Hành động / Tình huống mới",
+      "meaning": "Đang (làm gì đó) thì (bỗng nhiên xảy ra việc khác).",
+      "usage": "Lặp lại cùng một động từ (thường là động từ đơn âm tiết như 走, 开, 讲, 躺, 看, 吃) kèm 着, theo sau là động từ khác để diễn tả một hành động khác bất ngờ hoặc tự nhiên xuất hiện trong lúc hành động trước đang tiếp diễn.",
+      "context": "Rất sinh động khi kể chuyện, tường thuật trải nghiệm hoặc đưa lời nhắc nhở.",
+      "examples": [
+        { "chinese": "好，那我就放心了，别开着开着没油了。", "pinyin": "Hǎo, nà wǒ jiù fàng xīn le, bié kāizhe kāizhe méi yóu le.", "vietnamese": "Tốt, vậy mình yên tâm rồi, đừng đang lái xe lại hết xăng nhé." },
+        { "chinese": "她讲着讲着自己就先笑了，而大家却不明白她到底为什么笑。", "pinyin": "Tā jiǎngzhe jiǎngzhe zìjǐ jiù xiān xiào le, ér dàjiā què bù míngbai tā dàodǐ wèi shénme xiào.", "vietnamese": "Cô ấy đang kể thì tự bật cười trước, còn mọi người lại chẳng hiểu rốt cuộc cô ấy cười vì chuyện gì." },
+        { "chinese": "晚上躺在草地上看星星的感觉非常棒，有时候躺着躺着就安静地睡着了。", "pinyin": "Wǎnshang tǎng zài cǎodì shang kàn xīngxing de gǎnjué fēicháng bàng, yǒu shíhou tǎngzhe tǎngzhe jiù ānjìng de shuìzháo le.", "vietnamese": "Buổi tối nằm trên bãi cỏ ngắm sao cảm giác thật tuyệt, có khi đang nằm thì yên ả ngủ thiếp đi mất." }
+      ],
+      "important_notes": "Động từ trong cấu trúc này gần như luôn là động từ đơn âm tiết (走着走着, 看着看着, 想着想着).",
+      "common_errors": "Không lặp động từ song âm tiết theo kiểu này (ít nói '讨论着讨论着', thường dùng '说着说着').",
+      "comparison": "Gần với 正在……的时候, nhưng V着V着 mang sắc thái chuyển biến tự nhiên, bất ngờ hoặc vô thức.",
+      "mini_practice": [
+        { "prompt": "这篇小说写得太无聊了，______________________。（动词+着+动词+着）", "sample_answer": "我看着看着就睡着了", "explanation": "Động từ đơn âm 看 lặp thành 看着看着 + 就睡着了." }
+      ]
+    },
+    {
+      "title": "一……就……",
+      "formula": "(1) Nối tiếp ngay: S1 + 一 + V1，(S2) + 就 + V2  |  (2) Điều kiện: S1 + 一 + Điều kiện，(S2) + 就 + Kết quả",
+      "meaning": "(1) Vừa ... thì/đã ...  |  (2) Hễ ... là/thì ...",
+      "usage": "Dùng cho 2 chức năng: (1) Hai sự việc xảy ra sát nối tiếp nhau; (2) Điều kiện (tương đương 要是……就……): hễ có điều kiện sau 一 thì dẫn ngay đến tình huống sau 就. Chủ ngữ hai vế có thể giống hoặc khác nhau.",
+      "context": "Cấu trúc nền tảng xuất hiện cực dày trong hội thoại và bài đọc HSK.",
+      "examples": [
+        { "chinese": "100年前，塑料一出现就受到人们的普遍欢迎。", "pinyin": "Yìbǎi nián qián, sùliào yì chūxiàn jiù shòudào rénmen de pǔbiàn huānyíng.", "vietnamese": "100 năm trước, nhựa vừa xuất hiện đã nhận được sự hoan nghênh rộng rãi của mọi người." },
+        { "chinese": "等女儿一回来我就告诉她这个好消息。", "pinyin": "Děng nǚ'ér yì huílai wǒ jiù gàosu tā zhège hǎo xiāoxi.", "vietnamese": "Đợi con gái vừa về là anh báo ngay tin vui này cho con bé." },
+        { "chinese": "儿子小时候一说话就脸红，回答老师问题的时候声音也很小。", "pinyin": "Érzi xiǎoshíhou yì shuōhuà jiù liǎnhóng, huídá lǎoshī wèntí de shíhou shēngyīn yě hěn xiǎo.", "vietnamese": "Con trai hồi nhỏ hễ nói chuyện là đỏ mặt, lúc trả lời câu hỏi cô giáo giọng cũng rất nhỏ." },
+        { "chinese": "妈妈一进房间，他就把手机装了起来。", "pinyin": "Māma yí jìn fángjiān, tā jiù bǎ shǒujī zhuāngle qǐlái.", "vietnamese": "Mẹ vừa bước vào phòng, cậu ta đã cất điện thoại ngay." }
+      ],
+      "important_notes": "Khi hai vế khác chủ ngữ, đặt S1 trước 一 và S2 trước 就 (妈妈一进房间，他就……).",
+      "common_errors": "Đặt sai vị trí chủ ngữ thứ hai sau 就 (Sai: '一进房间，就妈妈看见了' → Đúng: '我一进房间，妈妈就看见了').",
+      "comparison": "",
+      "mini_practice": [
+        { "prompt": "马经理上午去开会了，______________________。（一……就……）", "sample_answer": "他一回来我就告诉他给你回电话", "explanation": "Hai chủ ngữ 他 và 我 đặt lần lượt trước 一 và 就." }
+      ]
+    },
+    {
+      "title": "究竟",
+      "formula": "S + 究竟 + Câu hỏi?  |  究竟 + Chủ ngữ nghi vấn (谁/什么/哪个) + ……?",
+      "meaning": "Rốt cuộc, rốt cục.",
+      "usage": "Phó từ văn viết dùng trong câu hỏi hoặc câu tường thuật có đại từ nghi vấn nhằm truy cứu đến cùng và tăng mạnh ngữ khí nghi vấn. Nếu chủ ngữ là đại từ nghi vấn (谁, 什么, 哪个), 究竟 BẮT BUỘC đặt trước chủ ngữ.",
+      "context": "Dùng nhiều trong văn viết, bài phân tích, bài đọc hiểu HSK 4–5.",
+      "examples": [
+        { "chinese": "究竟哪个季节去丽江旅游比较好呢？", "pinyin": "Jiūjìng nǎge jìjié qù Lìjiāng lǚyóu bǐjiào hǎo ne?", "vietnamese": "Rốt cuộc mùa nào đi du lịch Lệ Giang thì tốt hơn nhỉ?" },
+        { "chinese": "随着科学技术的发展，很多问题已经得到解决。但有些问题我们仍然无法回答，例如，生命究竟从哪里来？", "pinyin": "Suízhe kēxué jìshù de fāzhǎn, hěn duō wèntí yǐjīng dédào jiějué. Dàn yǒuxiē wèntí wǒmen réngrán wúfǎ huídá, lìrú, shēngmìng jiūjìng cóng nǎlǐ lái?", "vietnamese": "Cùng với sự phát triển của khoa học công nghệ, nhiều vấn đề đã được giải quyết. Nhưng có những câu hỏi ta vẫn chưa thể trả lời, ví dụ: sự sống rốt cuộc đến từ đâu?" },
+        { "chinese": "学习时，不仅要知道答案是什么，还要弄清楚答案究竟是怎么得来的。", "pinyin": "Xuéxí shí, bùjǐn yào zhīdào dá'àn shì shénme, hái yào nòng qīngchu dá'àn jiūjìng shì zěnme délái de.", "vietnamese": "Khi học không chỉ phải biết đáp án là gì mà còn phải làm rõ rốt cuộc đáp án đó có được từ đâu." }
+      ],
+      "important_notes": "Xem bảng so sánh 比一比 '究竟 — 到底' ngay bên dưới.",
+      "common_errors": "Không đặt 究竟 sau chủ ngữ là đại từ nghi vấn (Sai: '谁究竟拿了我的钥匙？' → Đúng: '究竟谁拿了我的钥匙？').",
+      "comparison": "So với 到底: cả hai đều là phó từ truy vấn, nhưng 到底 còn làm động từ mang nghĩa 'đến cùng/tới cuối' (坚持到底), còn 究竟 thì không.",
+      "mini_practice": [
+        { "prompt": "最近每天来店里的顾客不超过20个，______________________。（究竟）", "sample_answer": "我们得找找究竟是什么原因", "explanation": "究竟 tăng ngữ khí truy tìm nguyên nhân." }
+      ]
+    },
+    {
+      "title": "起来 (Làm bổ ngữ xu hướng & đánh giá phương diện)",
+      "formula": "(1) V + 起来 (từ dưới lên trên)  |  (2) V/Adj + 起来 (bắt đầu và tiếp diễn)  |  (3) V giác quan + 起来 (đánh giá từ góc độ nào đó)",
+      "meaning": "(1) Lên trên  |  (2) Bắt đầu...  |  (3) Nghe/nhìn/ăn/nói có vẻ...",
+      "usage": "Động từ 起来 đặt sau động từ làm bổ ngữ xu hướng có 3 nét nghĩa quan trọng: (1) Hướng từ dưới lên trên (拿起来, 站起来); (2) Hành động/trạng thái bắt đầu và tiếp diễn (唱起来了, 热起来); (3) Đánh giá người/vật từ một phương diện cảm giác hay thao tác (听起来, 看起来, 吃起来, 做起来).",
+      "context": "Nét nghĩa (3) — V + 起来 (nghe có vẻ..., trông có vẻ..., làm thì thấy...) — là trọng điểm lớn của Bài 20!",
+      "examples": [
+        { "chinese": "你先把桌子上的东西拿起来，我擦完之后你再放下来。", "pinyin": "Nǐ xiān bǎ zhuōzi shang de dōngxi ná qǐlái, wǒ cāwán zhīhòu nǐ zài fàng xiàlái.", "vietnamese": "Cậu nhấc đồ trên bàn lên trước đi, mình lau xong cậu hãy đặt xuống lại." },
+        { "chinese": "邻居小王最近一定遇到了很多开心的事，你听，他又唱起来了。", "pinyin": "Línjū Xiǎo Wáng zuìjìn yídìng yùdàole hěn duō kāixīn de shì, nǐ tīng, tā yòu chàng qǐlái le.", "vietnamese": "Hàng xóm Tiểu Vương dạo này chắc chắn gặp nhiều chuyện vui, cậu nghe kìa, anh ấy lại bắt đầu hát rồi." },
+        { "chinese": "比如你跟上海人对话时，会发现上海话听起来就像外语一样。", "pinyin": "Bǐrú nǐ gēn Shànghǎi rén duì huà shí, huì fāxiàn Shànghǎi huà tīng qilai jiù xiàng wàiyǔ yíyàng.", "vietnamese": "Ví dụ khi trò chuyện với người Thượng Hải, bạn sẽ thấy tiếng Thượng Hải nghe lên giống hệt ngoại ngữ." }
+      ],
+      "important_notes": "Mẫu câu đánh giá phổ biến: 看起来 (trông có vẻ), 听起来 (nghe có vẻ), 说起来 (nói thì dễ), 做起来 (bắt tay vào làm thì khó).",
+      "common_errors": "",
+      "comparison": "Đã đối chiếu với 出来 ở Bài 19 (比一比: 出来 — 起来).",
+      "mini_practice": [
+        { "prompt": "我本来以为做生意很简单，______________________。（起来）", "sample_answer": "没想到做起来这么难", "explanation": "做起来 đánh giá mức độ khi thực sự bắt tay vào làm." }
+      ]
+    },
+    {
+      "title": "动词+起",
+      "formula": "说 / 谈 / 讲 / 问 / 提 / 聊 / 回忆 + 起 + Danh từ / Cụm danh từ",
+      "meaning": "Nhắc tới / nói tới / hỏi tới / nhớ tới (một sự việc/chủ đề nào đó).",
+      "usage": "Cấu trúc “Động từ + 起” biểu thị hành động đề cập, liên quan tới một sự vật nào đó; chỉ kết hợp với một số ít ngoại động từ như 说, 谈, 讲, 问, 提, 聊, 回忆, phía sau thường có danh từ đi kèm.",
+      "context": "Thường đặt ở đầu câu (说起……, 聊起……, 提起……) để dẫn nhập chủ đề câu chuyện.",
+      "examples": [
+        { "chinese": "说起吃的东西，给我印象最深的是湖南菜。", "pinyin": "Shuōqǐ chī de dōngxi, gěi wǒ yìnxiàng zuì shēn de shì Húnán cài.", "vietnamese": "Nói đến chuyện ăn uống, điều để lại ấn tượng sâu sắc nhất cho tôi là món Hồ Nam." },
+        { "chinese": "聊起那场网球比赛，他们俩就兴奋得停不下来了。", "pinyin": "Liáoqǐ nà chǎng wǎngqiú bǐsài, tāmen liǎ jiù xīngfèn de tíng bu xiàlái le.", "vietnamese": "Nhắc tới trận đấu quần vợt đó, hai người họ phấn khích nói mãi không dừng được." },
+        { "chinese": "要是有人问起那件事，你就告诉他你还没接到通知，也不清楚怎么回事。", "pinyin": "Yàoshi yǒurén wènqǐ nà jiàn shì, nǐ jiù gàosu tā nǐ hái méi jiēdào tōngzhī, yě bù qīngchu zěnme huí shì.", "vietnamese": "Nếu có ai hỏi đến chuyện đó, cậu cứ bảo chưa nhận được thông báo và cũng không rõ ra sao." }
+      ],
+      "important_notes": "Sau 动词+起 thường là chủ đề/sự việc cụ thể (说起吃的东西, 提起这件事, 回忆起小时候).",
+      "common_errors": "",
+      "comparison": "",
+      "mini_practice": [
+        { "prompt": "______________________，大家总是有说不完的话。（动词+起）", "sample_answer": "说起旅行的经历", "explanation": "Dùng 说起 / 聊起 + danh từ ở đầu câu dẫn dắt chủ đề." }
+      ]
+    }
+  ],
+  "comparison_section": {
+    "label": "比一比 So sánh",
+    "pair": "究竟 — 到底",
+    "term_a": "究竟 (jiūjìng)",
+    "term_b": "到底 (dàodǐ)",
+    "similarity": "Cả hai đều là phó từ, dùng trong câu nghi vấn hoặc câu phi nghi vấn có đại từ nghi vấn để truy vấn, tăng mạnh ngữ khí nghi vấn (无论做什么事情，只有试过才知道究竟/到底能不能成功). Nếu chủ ngữ là đại từ nghi vấn thì cả 究竟 và 到底 đều phải đặt trước chủ ngữ (究竟谁能先进球？).",
+    "differences": [
+      {
+        "criterion": "Khả năng làm động từ (nghĩa: đến cùng / tới điểm cuối)",
+        "a": "KHÔNG có cách dùng làm động từ (không thể nói '坚持究竟' hay '进行究竟').",
+        "b": "CÓ THỂ làm động từ (hoặc bổ ngữ kết quả) mang nghĩa “一直到结束、到终点 — liên tục đến chỗ kết thúc/đến điểm cuối” (这个电影得看到底 / 坚持到底 / 将减肥进行到底)."
+      },
+      {
+        "criterion": "Sắc thái văn phong",
+        "a": "Thiên về văn viết, trang trọng hơn một chút.",
+        "b": "Dùng rất linh hoạt trong cả khẩu ngữ lẫn văn viết."
+      }
+    ]
+  },
+  "texts": [
+    {
+      "id": "t1",
+      "title_zh": "小张去北京，朋友送小张去机场",
+      "title_vi": "Tiểu Trương đi Bắc Kinh, bạn tiễn Tiểu Trương ra sân bay",
+      "lines": [
+        { "speaker": "朋友", "chinese": "该加油了，去机场的路上有加油站吗？", "pinyin": "Gāi jiā yóu le, qù jīchǎng de lùshang yǒu jiāyóuzhàn ma?", "vietnamese": "Đến lúc đổ xăng rồi, trên đường ra sân bay có trạm xăng không?" },
+        { "speaker": "小张", "chinese": "我记得过了长江大桥往右一拐就有一个，大概有四五公里远。", "pinyin": "Wǒ jìde guòle Chángjiāng Dàqiáo wǎng yòu yì guǎi jiù yǒu yí ge, dàgài yǒu sì-wǔ gōnglǐ yuǎn.", "vietnamese": "Mình nhớ qua cầu Trường Giang rẽ phải một cái là có một trạm, cách chừng bốn năm cây số." },
+        { "speaker": "朋友", "chinese": "好，那我就放心了，别开着开着没油了。你去北京的航班是几点的？时间来得及吗？", "pinyin": "Hǎo, nà wǒ jiù fàng xīn le, bié kāizhe kāizhe méi yóu le. Nǐ qù Běijīng de hángbān shì jǐ diǎn de? Shíjiān láidejí ma?", "vietnamese": "Được, thế thì yên tâm rồi, đừng đang lái lại hết xăng. Chuyến bay đi Bắc Kinh của cậu mấy giờ? Thời gian có kịp không?" },
+        { "speaker": "小张", "chinese": "航班本来是十点的，后来机场网站上通知推迟了一个小时，所以九点半以前到就应该没问题。", "pinyin": "Hángbān běnlái shì shí diǎn de, hòulái jīchǎng wǎngzhàn shang tōngzhī tuīchíle yí ge xiǎoshí, suǒyǐ jiǔ diǎn bàn yǐqián dào jiù yīnggāi méi wèntí.", "vietnamese": "Chuyến bay vốn 10 giờ, sau đó trang web sân bay báo hoãn một tiếng, nên trước 9 giờ rưỡi tới chắc không sao." },
+        { "speaker": "朋友", "chinese": "刚才我还有点儿担心来不及呢。一会儿加完油，往西走五百米就能上高速公路。走高速公路大约半个小时就到了。", "pinyin": "Gāngcái wǒ hái yǒudiǎnr dānxīn láibují ne. Yíhuìr jiāwán yóu, wǎng xī zǒu wǔbǎi mǐ jiù néng shàng gāosù gōnglù. Zǒu gāosù gōnglù dàyuē bàn ge xiǎoshí jiù dào le.", "vietnamese": "Vừa nãy mình còn hơi lo không kịp chứ. Lát đổ xăng xong, đi về phía tây 500 mét là lên đường cao tốc. Đi cao tốc khoảng nửa tiếng là tới." },
+        { "speaker": "小张", "chinese": "一会儿我自己进去换登机牌，你就不用送我了，等我到了首都机场再给你发短信。", "pinyin": "Yíhuìr wǒ zìjǐ jìnqu huàn dēngjīpái, nǐ jiù búyòng sòng wǒ le, děng wǒ dàole Shǒudū Jīchǎng zài gěi nǐ fā duǎnxìn.", "vietnamese": "Lát nữa mình tự vào đổi thẻ lên máy bay, cậu không cần tiễn đâu, đợi tới sân bay Thủ Đô mình nhắn tin cho cậu." }
+      ]
+    },
+    {
+      "id": "t2",
+      "title_zh": "孙月和丈夫计划放寒假带女儿去旅行",
+      "title_vi": "Tôn Nguyệt và chồng lên kế hoạch nghỉ đông đưa con gái đi du lịch",
+      "lines": [
+        { "speaker": "孙月", "chinese": "女儿下个星期就要放寒假了，到时候咱们带她去旅游，放松放松，怎么样？", "pinyin": "Nǚ'ér xià ge xīngqī jiù yào fàng hánjià le, dào shíhou zánmen dài tā qù lǚyóu, fàngsōng fàngsōng, zěnmeyàng?", "vietnamese": "Tuần sau con gái được nghỉ đông rồi, lúc đó tụi mình đưa con đi du lịch thư giãn một chút, anh thấy sao?" },
+        { "speaker": "丈夫", "chinese": "平时女儿那么多课，总是说想去旅行，但是没时间，怪可怜的。这次放假咱们带她去哪儿玩儿比较好呢？", "pinyin": "Píngshí nǚ'ér nàme duō kè, zǒngshì shuō xiǎng qù lǚxíng, dànshì méi shíjiān, guài kělián de. Zhè cì fàng jià zánmen dài tā qù nǎr wánr bǐjiào hǎo ne?", "vietnamese": "Ngày thường con gái nhiều tiết học vậy, lúc nào cũng kêu muốn đi du lịch mà không có thời gian, tội nghiệp quá. Kỳ nghỉ này mình đưa con đi đâu chơi thì hay nhỉ?" },
+        { "speaker": "孙月", "chinese": "去年我同事带她儿子去广西玩儿了一趟，听说很不错，我们就去广西吧。", "pinyin": "Qùnián wǒ tóngshì dài tā érzi qù Guǎngxī wánrle yí tàng, tīngshuō hěn búcuò, wǒmen jiù qù Guǎngxī ba.", "vietnamese": "Năm ngoái đồng nghiệp em đưa con trai đi Quảng Tây chơi một chuyến, nghe bảo tuyệt lắm, mình đi Quảng Tây đi." },
+        { "speaker": "丈夫", "chinese": "好啊，那里的气候和北方很不同，即使是冬天，也非常暖和，还能吃到许多新鲜的水果。等女儿一回来我就告诉她这个好消息。", "pinyin": "Hǎo a, nàli de qìhòu hé běifāng hěn bù tóng, jíshǐ shì dōngtiān, yě fēicháng nuǎnhuo, hái néng chīdào xǔduō xīnxiān de shuǐguǒ. Děng nǚ'ér yì huílai wǒ jiù gàosu tā zhège hǎo xiāoxi.", "vietnamese": "Được đấy, khí hậu ở đó rất khác miền Bắc, dù là mùa đông cũng rất ấm áp, còn ăn được nhiều trái cây tươi. Đợi con gái vừa về anh sẽ báo ngay tin vui này." },
+        { "speaker": "孙月", "chinese": "先别着急说。中午我们不是要去对面的饭店吃烤鸭，祝贺她考试成绩都合格吗？那时候再告诉她，不是更好？", "pinyin": "Xiān bié zháojí shuō. Zhōngwǔ wǒmen bú shì yào qù duìmiàn de fàndiàn chī kǎoyā, zhùhè tā kǎoshì chéngjì dōu hégé ma? Nà shíhou zài gàosu tā, bú shì gèng hǎo?", "vietnamese": "Khoan hãy vội nói. Trưa nay chẳng phải mình sẽ sang nhà hàng đối diện ăn vịt quay, chúc mừng con bé thi môn nào cũng đạt sao? Lúc đó mới nói chẳng phải hay hơn à?" },
+        { "speaker": "丈夫", "chinese": "好主意，到时她知道了肯定特别开心。", "pinyin": "Hǎo zhǔyì, dào shí tā zhīdàole kěndìng tèbié kāixīn.", "vietnamese": "Ý kiến hay, đến lúc đó con bé biết chắc chắn sẽ cực kỳ vui." }
+      ]
+    },
+    {
+      "id": "t3",
+      "title_zh": "安娜向马克介绍去丽江旅行的经验",
+      "title_vi": "Anna chia sẻ với Mark kinh nghiệm đi du lịch Lệ Giang",
+      "lines": [
+        { "speaker": "马克", "chinese": "这么多照片，都是你这次去丽江旅行时照的？那里的自然风景可真美！", "pinyin": "Zhème duō zhàopiàn, dōu shì nǐ zhè cì qù Lìjiāng lǚxíng shí zhào de? Nàli de zìrán fēngjǐng kě zhēn měi!", "vietnamese": "Nhiều ảnh thế này, đều là cậu chụp chuyến đi du lịch Lệ Giang lần này à? Phong cảnh thiên nhiên ở đó đẹp thật đấy!" },
+        { "speaker": "安娜", "chinese": "是啊，小城四季的风景都很美，而且环境保护得也很好，因此每年都吸引着成千上万的游客去那儿旅游。", "pinyin": "Shì a, xiǎo chéng sìjì de fēngjǐng dōu hěn měi, érqiě huánjìng bǎohù de yě hěn hǎo, yīncǐ měi nián dōu xīyǐnzhe chéngqiān-shàngwàn de yóukè qù nàr lǚyóu.", "vietnamese": "Đúng vậy, cảnh sắc bốn mùa ở thị trấn nhỏ ấy đều đẹp, hơn nữa môi trường được bảo vệ rất tốt nên mỗi năm thu hút hàng nghìn hàng vạn du khách tới du lịch." },
+        { "speaker": "马克", "chinese": "这张照片上和你干杯的那个人是少数民族吗？她打扮得真漂亮。", "pinyin": "Zhè zhāng zhàopiàn shang hé nǐ gān bēi de nàge rén shì shǎoshù mínzú ma? Tā dǎban de zhēn piàoliang.", "vietnamese": "Người cụng ly với cậu trong tấm ảnh này là người dân tộc thiểu số à? Cô ấy ăn diện đẹp quá." },
+        { "speaker": "安娜", "chinese": "她是我们的导游，不是少数民族。一路上她给我们讲了很多有趣的笑话。有一次我把存包的钥匙丢了，最后还是她帮我找到的。这张照片就是找到钥匙后，我们一起照的。", "pinyin": "Tā shì wǒmen de dǎoyóu, bú shì shǎoshù mínzú. Yí lù shang tā gěi wǒmen jiǎngle hěn duō yǒuqù de xiàohua. Yǒu yí cì wǒ bǎ cún bāo de yàoshi diū le, zuìhòu háishi tā bāng wǒ zhǎodào de. Zhè zhāng zhàopiàn jiù shì zhǎodào yàoshi hòu, wǒmen yìqǐ zhào de.", "vietnamese": "Cô ấy là hướng dẫn viên của tụi mình, không phải dân tộc thiểu số đâu. Suốt đường cô ấy kể bao nhiêu truyện cười hay. Có lần mình đánh mất chìa khóa gửi đồ, cuối cùng vẫn nhờ cô ấy tìm hộ. Ảnh này chụp chung ngay sau khi tìm thấy chìa khóa đó." },
+        { "speaker": "马克", "chinese": "明年我有机会也去那儿看看，到时把你的导游介绍给我吧。究竟哪个季节去丽江旅游比较好呢？", "pinyin": "Míngnián wǒ yǒu jīhuì yě qù nàr kànkan, dào shí bǎ nǐ de dǎoyóu jièshào gěi wǒ ba. Jiūjìng nǎge jìjié qù Lìjiāng lǚyóu bǐjiào hǎo ne?", "vietnamese": "Sang năm có dịp mình cũng qua đó xem thử, lúc đó giới thiệu hướng dẫn viên của cậu cho mình nhé. Rốt cuộc mùa nào đi Lệ Giang là đẹp nhất?" },
+        { "speaker": "安娜", "chinese": "那儿最美的季节是春天和秋天，不过那时候人比较多。稍微好一点儿的时间是每年12月到第二年3月。这段时间去丽江的话，无论交通还是吃、住都很便宜。", "pinyin": "Nàr zuì měi de jìjié shì chūntiān hé qiūtiān, búguò nà shíhou rén bǐjiào duō. Shāowēi hǎo yì diǎnr de shíjiān shì měinián shí'èryuè dào dì-èr nián sānyuè. Zhè duàn shíjiān qù Lìjiāng de huà, wúlùn jiāotōng háishi chī, zhù dōu hěn piányi.", "vietnamese": "Mùa đẹp nhất ở đó là xuân và thu, nhưng lúc ấy khá đông người. Thời điểm đỡ đông và hợp lý hơn chút là từ tháng 12 đến tháng 3 năm sau. Đi Lệ Giang dịp này dù là đi lại hay ăn ở đều rất rẻ." }
+      ]
+    },
+    {
+      "id": "t4",
+      "title_zh": "中国南北方的差异",
+      "title_vi": "Sự khác biệt giữa miền Nam và miền Bắc Trung Quốc",
+      "lines": [
+        { "speaker": "", "chinese": "中国南北距离约5500公里，因此南北气候有很大区别。每年三四月份的时候，如果从北方坐火车到南方去旅游，一路上你会发现，不同的地方有不同的风景：窗外的树一棵一棵地变绿，北方也许还下着雪，南方却已经到处都是绿色了。南方菜很有特点，特别是汤，味道鲜美，很多北方人都喜欢喝。另外，南方和北方的语言也有很大不同。比如你跟上海人对话时，会发现上海话听起来就像外语一样。虽然上海人也会讲普通话，可是仔细听，还是有上海味儿。", "pinyin": "Zhōngguó nán běi jùlí yuē wǔqiān wǔbǎi gōnglǐ, yīncǐ nán běi qìhòu yǒu hěn dà qūbié. Měi nián sān-sì yuèfèn de shíhou, rúguǒ cóng běifāng zuò huǒchē dào nánfāng qù lǚyóu, yí lù shang nǐ huì fāxiàn, bù tóng de dìfang yǒu bù tóng de fēngjǐng: chuāngwài de shù yì kē yì kē de biàn lǜ, běifāng yěxǔ hái xiàzhe xuě, nánfāng què yǐjīng dàochù dōu shì lǜsè le. Nánfāng cài hěn yǒu tèdiǎn, tèbié shì tāng, wèidào xiānměi, hěn duō běifāng rén dōu xǐhuan hē. Lìngwài, nánfāng hé běifāng de yǔyán yě yǒu hěn dà bù tóng. Bǐrú nǐ gēn Shànghǎi rén duì huà shí, huì fāxiàn Shànghǎi huà tīng qilai jiù xiàng wàiyǔ yíyàng. Suīrán Shànghǎi rén yě huì jiǎng pǔtōnghuà, kěshì zǐxì tīng, háishi yǒu Shànghǎi wèir.", "vietnamese": "Khoảng cách Nam – Bắc Trung Quốc khoảng 5500 km, vì vậy khí hậu hai miền khác biệt rất lớn. Vào khoảng tháng 3, tháng 4 hằng năm, nếu đi tàu hỏa từ Bắc vào Nam du lịch, dọc đường bạn sẽ thấy mỗi nơi một cảnh sắc khác nhau: cây ngoài cửa sổ từng cây một hóa xanh, miền Bắc có lẽ vẫn đang rơi tuyết nhưng miền Nam đã ngập tràn sắc xanh. Món ăn miền Nam rất đặc trưng, nhất là canh vị tươi ngon, nhiều người miền Bắc đều thích. Ngoài ra ngôn ngữ hai miền cũng khác nhau nhiều; ví dụ nói chuyện với người Thượng Hải sẽ thấy tiếng Thượng Hải nghe như ngoại ngữ, dù họ biết nói tiếng phổ thông nhưng nghe kỹ vẫn mang âm hưởng Thượng Hải." }
+      ]
+    },
+    {
+      "id": "t5",
+      "title_zh": "旅行与各地小吃",
+      "title_vi": "Du lịch và món ngon các vùng miền",
+      "lines": [
+        { "speaker": "", "chinese": "一个人有时间一定要去旅行，旅行不仅能丰富一个人的经历，而且是很好的减压方法。但对我来说，最重要的是旅行能让我有机会尝到各地有名的小吃。放假的时候，我会收拾好行李，带上地图，买张火车票，向目的地出发。说起吃的东西，给我印象最深的是湖南菜。湖南菜的特点就是辣，与其他地方的辣不同，湖南菜的辣主要是咸辣、香辣和酸辣。虽然全国各地都有湖南饭馆儿，但最好还是直接去那里尝一尝。每次旅行结束后，我都会精神百倍地开始我的工作。", "pinyin": "Yí ge rén yǒu shíjiān yídìng yào qù lǚxíng, lǚxíng bùjǐn néng fēngfù yí ge rén de jīnglì, érqiě shì hěn hǎo de jiǎnyā fāngfǎ. Dàn duì wǒ lái shuō, zuì zhòngyào de shì lǚxíng néng ràng wǒ yǒu jīhuì chángdào gè dì yǒumíng de xiǎochī. Fàng jià de shíhou, wǒ huì shōushi hǎo xíngli, dàishang dìtú, mǎi zhāng huǒchēpiào, xiàng mùdìdì chūfā. Shuōqǐ chī de dōngxi, gěi wǒ yìnxiàng zuì shēn de shì Húnán cài. Húnán cài de tèdiǎn jiù shì là, yǔ qítā dìfang de là bù tóng, Húnán cài de là zhǔyào shì xián là, xiāng là hé suān là. Suīrán quánguó gè dì dōu yǒu Húnán fànguǎnr, dàn zuìhǎo háishi zhíjiē qù nàli cháng yi cháng. Měi cì lǚxíng jiéshù hòu, wǒ dōu huì jīngshén bǎibèi de kāishǐ wǒ de gōngzuò.", "vietnamese": "Một người khi có thời gian nhất định phải đi du lịch, du lịch không chỉ làm giàu trải nghiệm mà còn là phương pháp giảm áp lực rất tốt. Nhưng với tôi, quan trọng nhất là du lịch cho tôi cơ hội nếm thử các món ăn vặt nổi tiếng khắp nơi. Dịp nghỉ tôi sẽ thu xếp hành lý, mang bản đồ, mua vé tàu xuất phát tới điểm đến. Nhắc đến chuyện ăn uống, ấn tượng sâu sắc nhất với tôi là món Hồ Nam. Đặc trưng của món Hồ Nam là cay, khác với vị cay nơi khác, cay Hồ Nam chủ yếu là cay mặn, cay thơm và cay chua. Tuy khắp cả nước đều có nhà hàng Hồ Nam nhưng tốt nhất vẫn nên tới tận nơi nếm thử. Mỗi lần kết thúc chuyến du lịch, tôi đều bắt đầu công việc với tinh thần tràn đầy gấp bội." }
+      ]
+    }
+  ],
+  "reading_questions": [
+    { "question_zh": "朋友因为什么事情担心？他和小张是怎么解决的？", "question_vi": "Người bạn lo lắng về chuyện gì? Anh ấy và Tiểu Trương giải quyết thế nào?", "answer_zh": "朋友担心车快没油了，也担心时间来不及。小张说过了长江大桥往右一拐就有加油站，而且航班推迟了一个小时，加完油上高速公路半小时就能到机场。", "answer_vi": "Người bạn lo xe sắp hết xăng và sợ không kịp giờ. Tiểu Trương nói qua cầu Trường Giang rẽ phải là có trạm xăng, hơn nữa chuyến bay hoãn một tiếng, đổ xăng xong lên cao tốc nửa tiếng là tới sân bay." },
+    { "question_zh": "小张坐的航班时间发生了什么变化？她和朋友大约多长时间能到达机场？", "question_vi": "Giờ chuyến bay của Tiểu Trương có thay đổi gì? Cô và bạn mất khoảng bao lâu để tới sân bay?", "answer_zh": "航班本来是十点的，后来推迟了一个小时（变成十一点）。加完油走高速公路大约半个小时就能到机场。", "answer_vi": "Chuyến bay vốn lúc 10 giờ, sau hoãn 1 tiếng (thành 11 giờ). Đổ xăng xong đi cao tốc mất khoảng nửa tiếng là tới sân bay." },
+    { "question_zh": "孙月和丈夫为什么想带女儿去旅行？他们准备去哪儿旅行？", "question_vi": "Vì sao Tôn Nguyệt và chồng muốn đưa con gái đi du lịch? Họ định đi đâu?", "answer_zh": "因为女儿平时课多、没时间旅行，怪可怜的，下星期放寒假想带她去放松放松。他们准备去广西。", "answer_vi": "Vì ngày thường con gái nhiều tiết học không có thời gian đi chơi nên rất thương, tuần sau nghỉ đông muốn đưa con đi thư giãn. Họ định đi Quảng Tây." },
+    { "question_zh": "他们想在什么时候告诉女儿去旅行这个消息？为什么？", "question_vi": "Họ định báo tin đi du lịch cho con gái vào lúc nào? Tại sao?", "answer_zh": "想在中午去对面的饭店吃烤鸭、祝贺女儿考试成绩都合格的时候再告诉她，这样女儿会更开心。", "answer_vi": "Định đợi trưa nay sang nhà hàng đối diện ăn vịt quay chúc mừng con thi đạt hết các môn rồi mới báo, như thế con bé sẽ càng vui hơn." },
+    { "question_zh": "安娜这次去丽江找的那个导游怎么样？", "question_vi": "Người hướng dẫn viên Anna thuê trong chuyến đi Lệ Giang thế nào?", "answer_zh": "她打扮得很漂亮，一路上讲了很多有趣的笑话，还热心帮安娜找到了丢失的存包钥匙。", "answer_vi": "Cô ấy ăn diện rất đẹp, dọc đường kể nhiều truyện cười thú vị và còn nhiệt tình giúp Anna tìm lại chìa khóa tủ gửi đồ bị mất." },
+    { "question_zh": "为什么丽江值得去旅游？什么时候去那里旅游最好？", "question_vi": "Vì sao Lệ Giang đáng để đi du lịch? Đi vào lúc nào là tốt nhất?", "answer_zh": "因为丽江四季风景都很美，环境保护得也很好。最美是春天和秋天（但人多）；稍微好一点儿的时间是每年12月到第二年3月，吃住交通都便宜。", "answer_vi": "Vì bốn mùa Lệ Giang đều đẹp và môi trường bảo vệ rất tốt. Đẹp nhất là xuân và thu (nhưng đông); thời điểm dễ chịu và tiết kiệm hơn là tháng 12 đến tháng 3 năm sau." },
+    { "question_zh": "要是你三四月份从北方坐火车到南方旅行，路上的风景会有哪些变化？为什么？", "question_vi": "Nếu tháng 3–4 bạn đi tàu hỏa từ Bắc vào Nam du lịch, cảnh dọc đường sẽ biến đổi ra sao? Vì sao?", "answer_zh": "窗外的树会一棵一棵地变绿，北方也许还下着雪，南方却已经到处都是绿色了。因为中国南北距离约5500公里，南北气候有很大区别。", "answer_vi": "Hàng cây ngoài cửa sổ từng cây một xanh lên, miền Bắc có khi tuyết vẫn rơi nhưng miền Nam đã xanh mướt khắp nơi. Vì Nam – Bắc cách nhau khoảng 5500 km, khí hậu khác biệt rất lớn." },
+    { "question_zh": "一个北方人跟上海人对话时，可能会遇到什么问题？", "question_vi": "Một người miền Bắc khi trò chuyện với người Thượng Hải có thể gặp vấn đề gì?", "answer_zh": "会发现上海话听起来就像外语一样听不懂；就算上海人讲普通话，仔细听还是有上海味儿。", "answer_vi": "Sẽ thấy tiếng Thượng Hải nghe giống như ngoại ngữ khó hiểu; dù người Thượng Hải nói tiếng phổ thông nhưng nghe kỹ vẫn còn âm hưởng địa phương." },
+    { "question_zh": "对“我”来说，旅行有哪些好处？", "question_vi": "Đối với “tôi”, du lịch có những lợi ích nào?", "answer_zh": "不仅能丰富经历，是很好的减压方法，最重要的是有机会尝到各地有名的小吃，而且旅行结束后能精神百倍地开始工作。", "answer_vi": "Không chỉ làm giàu trải nghiệm, là cách xả stress tuyệt vời, mà quan trọng nhất là được nếm món ăn vặt nổi tiếng các vùng miền, kết thúc chuyến đi lại tràn đầy năng lượng làm việc." },
+    { "question_zh": "旅行中什么东西给“我”的印象最深？它有哪些特点？", "question_vi": "Trong các chuyến đi, thứ gì để lại ấn tượng sâu nhất với “tôi”? Nó có đặc điểm gì?", "answer_zh": "印象最深的是湖南菜。特点是辣，主要是咸辣、香辣和酸辣。", "answer_vi": "Ấn tượng sâu nhất là món ăn Hồ Nam. Đặc điểm là cay, chủ yếu gồm cay mặn, cay thơm và cay chua." }
+  ],
+  "exercises": [
+    {
+      "id": "h4x20_ex1", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.145 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ thích hợp điền vào chỗ trống: “乘客，您好！我们很抱歉地通知您，由于天气原因，您乘坐的CA1864______推迟起飞。”",
+      "options": ["航班", "旅行", "对话", "合格"],
+      "answer": "航班",
+      "explanation": "CA1864航班 = chuyến bay mang số hiệu CA1864; 航班推迟起飞 = chuyến bay hoãn cất cánh.",
+      "review_tip": "Ôn cặp từ 航班 (chuyến bay) và 推迟 (hoãn lại)."
+    },
+    {
+      "id": "h4x20_ex2", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.145 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Điền từ thích hợp: “A：今晚我穿这条裙子怎么样？今年最流行的。 B：很漂亮，不过我觉得这种______参加正式的舞会可能还是不太合适。”",
+      "options": ["打扮", "笑话", "祝贺", "普通话"],
+      "answer": "打扮",
+      "explanation": "这种打扮 (danh từ) = kiểu ăn mặc/trang điểm như thế này.",
+      "review_tip": "Ôn cả 2 từ loại (động từ & danh từ) của 打扮."
+    },
+    {
+      "id": "h4x20_ex3", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.146 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Điền từ thích hợp: “A：这次活动非常成功，我们顺利完成了公司交给的任务。 B：辛苦了，______你们！来，干一杯！”",
+      "options": ["祝贺", "推迟", "可怜", "出发"],
+      "answer": "祝贺",
+      "explanation": "祝贺你们 = chúc mừng các bạn (vì đã hoàn thành xuất sắc nhiệm vụ).",
+      "review_tip": "Phân biệt 祝贺 (chúc mừng thành quả đạt được) vs 祝 (chúc điều tốt đẹp)."
+    },
+    {
+      "id": "h4x20_ex4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "比一比 tr.141 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ ĐÚNG cho câu: “无论做什么事情都不会很容易就成功，只有坚持______，才会有希望。”",
+      "options": ["到底", "究竟", "起来", "出来"],
+      "answer": "到底",
+      "explanation": "坚持到底 = kiên trì đến cùng. Chỉ có 到底 làm được động từ/bổ ngữ mang nghĩa 'đến điểm cuối'; 究竟 không dùng được ở đây!",
+      "review_tip": "Ôn kỹ mục 比一比: 究竟 — 到底 (tr.140–141)."
+    },
+    {
+      "id": "h4x20_ex5", "type": "fill_blank", "level": "Phân biệt", "origin_tag": "同字词 tr.146 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn cặp từ cùng chữ 格 điền vào hai câu sau:\n(1) 抱歉，这张______您填得不对，请稍等一下，我再拿一张新的给您。\n(2) 他平时就对自己要求很______，尤其是赛前那个星期。",
+      "options": ["(1) 表格 / (2) 严格", "(1) 价格 / (2) 合格", "(1) 表格 / (2) 性格", "(1) 合格 / (2) 严格"],
+      "answer": "(1) 表格 / (2) 严格",
+      "explanation": "填表格 = điền biểu mẫu/đơn; 对自己要求很严格 = yêu cầu bản thân rất nghiêm khắc.",
+      "review_tip": "Ôn nhóm 同字词 chữ 格: 性格, 价格, 表格, 合格, 严格."
+    },
+    {
+      "id": "h4x20_ex6", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Bài 20 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Điền kết cấu phù hợp nhất: “晚上躺在草地上看星星的感觉非常棒，有时候______就安静地睡着了。”",
+      "options": ["躺着躺着", "躺起来", "躺起", "躺不了"],
+      "answer": "躺着躺着",
+      "explanation": "Cấu trúc 动词+着+动词+着 biểu thị hành động mới (ngủ thiếp đi) xảy ra tự nhiên trong khi hành động 躺 đang tiếp diễn.",
+      "review_tip": "Ôn cấu trúc 动词+着+动词+着 (tr.139)."
+    },
+    {
+      "id": "h4x20_ex7", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Bài 20 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Điền từ đúng để dẫn nhập chủ đề: “______吃的东西，给我印象最深的是湖南菜。”",
+      "options": ["说起", "起来", "究竟", "在于"],
+      "answer": "说起",
+      "explanation": "Cấu trúc 动词+起 + Danh từ (说起吃的东西 = nhắc đến đồ ăn) dùng để mở đầu chủ đề muốn bàn.",
+      "review_tip": "Ôn cấu trúc 动词+起 (说起, 聊起, 问起, 提起 — tr.144)."
+    },
+    {
+      "id": "h4x20_ex8", "type": "error_fix", "level": "Vận dụng", "origin_tag": "Bài 20 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Câu sau mắc lỗi trật tự từ nào: “这场比赛太精彩了，你猜谁究竟能先进球？”",
+      "options": [
+        "Khi chủ ngữ là đại từ nghi vấn (谁), 究竟 phải đặt trước chủ ngữ → “你猜究竟谁能先进球？”",
+        "Phải bỏ 猜 đi mới đúng",
+        "Đổi 究竟 thành 起来",
+        "Đổi 能 thành 是否"
+      ],
+      "answer": "Khi chủ ngữ là đại từ nghi vấn (谁), 究竟 phải đặt trước chủ ngữ → “你猜究竟谁能先进球？”",
+      "explanation": "Quy tắc sách giáo khoa tr.140: 主语如果是疑问代词，“究竟、到底”只能放在主语前 (究竟谁, 究竟什么, 究竟哪个季节).",
+      "review_tip": "Nhớ quy tắc vị trí 究竟 / 到底 trước chủ ngữ nghi vấn."
+    },
+    {
+      "id": "h4x20_ex9", "type": "reorder", "level": "Vận dụng", "origin_tag": "Bài 20 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Sắp xếp thành câu hoàn chỉnh theo cấu trúc 看起来/听起来:",
+      "tokens": ["就像", "上海话", "外语一样。", "听起来"],
+      "answer": "上海话听起来就像外语一样。",
+      "explanation": "听起来 diễn tả đánh giá qua thính giác ('nghe có vẻ như...'), kết hợp với 像……一样.",
+      "review_tip": "Ôn cách dùng mở rộng đánh giá của 起来 (tr.143)."
+    },
+    {
+      "id": "h4x20_ex10", "type": "context_mc", "level": "Phân biệt", "origin_tag": "Ôn kiến thức cũ (30%)", "mistake_category": "Ngữ pháp",
+      "prompt": "[Ôn tập Bài 18 & 19] Chọn câu ĐÚNG kết hợp ngữ pháp đã học:",
+      "options": [
+        "总的来说，冬天去丽江旅行无论交通还是吃、住都很便宜。",
+        "总的来说，冬天去丽江旅行无论交通或者吃、住都很便宜。",
+        "总的来说，冬天去丽江旅行无论去不去都很便宜。",
+        "总的来说，冬天去丽江旅行是否交通还是吃、住都很便宜。"
+      ],
+      "answer": "总的来说，冬天去丽江旅行无论交通还是吃、住都很便宜。",
+      "explanation": "Kết hợp thành phần xen kẽ 总的来说 (Bài 19) + cấu trúc 无论……还是……都…… (Bài 11, xuất hiện lại ở Bài 20 Bài khóa 3).",
+      "review_tip": "Ôn lại Tổng hợp 无论……还是……都…… và 总的来说."
+    },
+    {
+      "id": "h4x20_ex11", "type": "translate_zh_vi", "level": "Vận dụng", "origin_tag": "Ôn kiến thức cũ + Bài 20 (30%)", "mistake_category": "Dịch thuật",
+      "prompt": "[Ôn tập tổng hợp] Chọn bản dịch chính xác nhất: “旅行不仅能丰富一个人的经历，而且是很好的减压方法。”",
+      "options": [
+        "Du lịch không chỉ có thể làm phong phú trải nghiệm của một người, mà còn là phương pháp giảm áp lực rất tốt.",
+        "Du lịch chỉ giúp giảm áp lực chứ không làm tăng thêm kinh nghiệm sống.",
+        "Nếu có áp lực thì mọi người nhất định phải đi du lịch nhiều nơi.",
+        "Du lịch vừa tốn kém vừa khiến công việc bị ảnh hưởng."
+      ],
+      "answer": "Du lịch không chỉ có thể làm phong phú trải nghiệm của một người, mà còn là phương pháp giảm áp lực rất tốt.",
+      "explanation": "Ôn cấu trúc 不仅……而且…… kết hợp với từ mới 旅行 và cụm 丰富经历, 减压方法 trong Bài khóa 5.",
+      "review_tip": "Ôn cấu trúc tăng tiến 不仅……而且……."
+    }
+  ]
+}

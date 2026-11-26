@@ -1,0 +1,930 @@
+{
+  "id": "hsk4shang_l09",
+  "book_id": "hsk4shang",
+  "textbook": "HSK 4 上",
+  "lesson_number": 9,
+  "title_zh": "阳光总在风雨后",
+  "title_vi": "Ánh nắng luôn đến sau cơn mưa",
+  "pdf_pages": "Trang 111–121 (Chuẩn HSK 4上 .pdf)",
+  "source_status": "verified_textbook",
+  "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"],
+  "vocabulary": [
+    {
+      "id": "hsk4s_l09_w01", "order": 1, "textbook": "HSK 4 上", "lesson": 9,
+      "hanzi": "饼干", "pinyin": "bǐnggān",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "bánh quy",
+        "structure": "吃饼干 / 买饼干 / 一块饼干 / 一包饼干",
+        "explanation": "Loại bánh nướng giòn đóng gói; dùng với lượng từ 块 (miếng), 包 (gói), 盒 (hộp).",
+        "examples": [{ "chinese": "怎么又买了这么多饼干和巧克力？难道你不减肥了？", "pinyin": "Zěnme yòu mǎile zhème duō bǐnggān hé qiǎokèlì? Nándào nǐ bù jiǎn féi le?", "vietnamese": "Sao lại mua nhiều bánh quy và sôcôla thế này? Lẽ nào cậu không giảm cân nữa à?", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "用面粉、糖、油等烤制而成的片状或块状干点心。",
+      "collocations": ["苏打饼干", "巧克力饼干", "一包饼干", "吃饼干"],
+      "usage_note": "Lượng từ hay dùng: 一块饼干 (một miếng), 一包/一袋饼干 (một gói).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l09_w02", "order": 2, "textbook": "HSK 4 上", "lesson": 9,
+      "hanzi": "难道", "pinyin": "nándào",
+      "lesson_usage": {
+        "part_of_speech": "副词 (Phó từ)", "meaning": "được dùng trong câu hỏi tu từ để nhấn mạnh (lẽ nào, chả nhẽ)",
+        "structure": "难道 + (Chủ ngữ) + …… (吗)?",
+        "explanation": "Tăng cường ngữ khí phản vấn: câu khẳng định có 难道 mang nghĩa phủ định; câu phủ định có 难道 mang nghĩa khẳng định.",
+        "examples": [{ "chinese": "怎么又买了这么多饼干和巧克力？难道你不减肥了？", "pinyin": "Zěnme yòu mǎile zhème duō bǐnggān hé qiǎokèlì? Nándào nǐ bù jiǎn féi le?", "vietnamese": "Sao lại mua nhiều bánh quy và sôcôla thế này? Lẽ nào cậu không giảm cân nữa à?", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "副词，加强反问的语气。",
+      "collocations": ["难道不是吗", "难道你忘了", "难道真的"],
+      "usage_note": "Có thể đặt trước hoặc sau chủ ngữ; cuối câu có thể có 吗 hoặc không (dùng dấu hỏi ?).",
+      "common_errors": "Dùng 难道 trong câu hỏi tìm thông tin bình thường (Sai: '难道你叫什么名字？' → 难道 chỉ dùng cho câu hỏi tu từ/ngạc nhiên).",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l09_w03", "order": 3, "textbook": "HSK 4 上", "lesson": 9,
+      "hanzi": "得", "pinyin": "děi",
+      "lesson_usage": {
+        "part_of_speech": "助动词 / 能愿动词 (Động từ năng nguyện)", "meaning": "phải",
+        "structure": "得 + Động từ (phủ định: 不用 / 不必)",
+        "explanation": "Biểu thị sự cần thiết, bắt buộc theo yêu cầu thực tế (khẩu ngữ hơn 必须).",
+        "examples": [{ "chinese": "如果你想减肥，就得少吃东西，而且要多运动。", "pinyin": "Rúguǒ nǐ xiǎng jiǎn féi, jiù děi shǎo chī dōngxi, érqiě yào duō yùndòng.", "vietnamese": "Nếu cậu muốn giảm cân thì phải ăn ít đi, hơn nữa phải vận động nhiều.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Đọc dé – đạt được, nhận được, mắc bệnh)",
+          "meanings": ["1. đạt được, giành được (得奖、得到)", "2. mắc phải (得感冒、得病)"],
+          "structure": "得 + 奖 / 病 / 分 / 到",
+          "difference_note": "Khác hoàn toàn âm đọc (dé thanh 2) và từ loại với děi (thanh 3, 'phải') trong bài khóa 1 (nhưng chính trong bài khóa 2 lại gặp '还得过那么多国际大奖' đọc dé!).",
+          "examples": [{ "chinese": "你网球打得真好，还得过那么多国际大奖！", "pinyin": "Nǐ wǎngqiú dǎ de zhēn hǎo, hái déguo nàme duō guójì dà jiǎng!", "vietnamese": "Cậu đánh quần vợt giỏi thật đấy, lại còn từng giành bao nhiêu giải thưởng lớn quốc tế nữa!" }]
+        },
+        {
+          "part_of_speech": "结构助词 (Đọc de thanh nhẹ – trợ từ kết cấu)",
+          "meanings": ["nối động từ/tính từ với bổ ngữ trạng thái hoặc bổ ngữ khả năng"],
+          "structure": "V/Adj + 得 + Bổ ngữ (打得很好 / 买得到 / 走不动)",
+          "difference_note": "Đọc thanh nhẹ 'de', dùng cực kỳ phổ biến trong cấu trúc bổ ngữ.",
+          "examples": [{ "chinese": "他写汉字写得又快又好看。", "pinyin": "Tā xiě Hànzì xiě de yòu kuài yòu hǎokàn.", "vietnamese": "Anh ấy viết chữ Hán vừa nhanh vừa đẹp." }]
+        }
+      ],
+      "chinese_explanation": "读 děi 时表示必须、需要；读 dé 时表示获取、得到；读 de 时作结构助词。",
+      "collocations": ["就得", "还得", "得到 (dé)", "打得好 (de)"],
+      "usage_note": "Phủ định của 得 (děi = phải) là 不用 hoặc 不必 (KHÔNG nói '不得').",
+      "common_errors": "Sai: '明天周末，我不得去上班' → Sửa: '明天周末，我不用去上班'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l09_w04", "order": 4, "textbook": "HSK 4 上", "lesson": 9,
+      "hanzi": "坚持", "pinyin": "jiānchí",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "kiên trì, khăng khăng giữ",
+        "structure": "坚持 + Động từ / 坚持下来 / 坚持自己的选择",
+        "explanation": "Bền bỉ giữ vững hành động, mục tiêu hoặc lập trường không bỏ dở giữa chừng.",
+        "examples": [{ "chinese": "要想减肥成功，只能坚持，才会慢慢有效果。", "pinyin": "Yào xiǎng jiǎn féi chénggōng, zhǐ néng jiānchí, cái huì mànmàn yǒu xiàoguǒ.", "vietnamese": "Muốn giảm cân thành công thì chỉ có thể kiên trì, mới dần dần có hiệu quả.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Ngoại động từ mang tân ngữ trừu tượng)",
+          "meanings": ["giữ vững, kiên quyết bảo vệ (nguyên tắc, lựa chọn, ý kiến)"],
+          "structure": "坚持 + 原则 / 意见 / 自己的选择",
+          "difference_note": "Ngay ở bài khóa 3 ('可是她坚持自己的选择'), 坚持 mang tân ngữ danh từ chỉ quan điểm/lựa chọn chứ không chỉ hành động lặp lại.",
+          "examples": [{ "chinese": "当时她的父母和亲戚都不支持她，可是她坚持自己的选择。", "pinyin": "Dāngshí tā de fùmǔ hé qīnqi dōu bù zhīchí tā, kěshì tā jiānchí zìjǐ de xuǎnzé.", "vietnamese": "Lúc đó bố mẹ và họ hàng cô ấy đều không ủng hộ, nhưng cô ấy vẫn kiên trì với lựa chọn của mình." }]
+        }
+      ],
+      "chinese_explanation": "坚决保持、维护或进行，不改变、不放弃。",
+      "collocations": ["坚持练习", "坚持下来", "坚持到底", "坚持原则"],
+      "usage_note": "Rất hay kết hợp bổ ngữ xu hướng '下来' (坚持下来 = kiên trì trụ vững đến cùng, như ở bài khóa 5).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l09_w05", "order": 5, "textbook": "HSK 4 上", "lesson": 9,
+      "hanzi": "放弃", "pinyin": "fàngqì",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "từ bỏ, bỏ",
+        "structure": "放弃 + 机会 / 工作 / 计划 / 打算放弃了",
+        "explanation": "Bỏ cuộc hoặc chủ động từ bỏ quyền lợi, cơ hội, ý định ban đầu.",
+        "examples": [{ "chinese": "我本来已经打算放弃了，但是你刚才的话让我改变了主意。", "pinyin": "Wǒ běnlái yǐjīng dǎsuàn fàngqì le, dànshì nǐ gāngcái de huà ràng wǒ gǎibiànle zhǔyi.", "vietnamese": "Vốn dĩ mình đã định từ bỏ rồi, nhưng lời cậu vừa nói đã khiến mình đổi ý.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Mang tân ngữ danh từ hoặc làm chủ ngữ)",
+          "meanings": ["từ bỏ (công việc, cơ hội, quyền lợi); sự buông bỏ"],
+          "structure": "放弃了律师的工作 / 放弃是一种聪明的选择",
+          "difference_note": "Ngoài dùng độc lập 'bỏ cuộc' ở bài khóa 1, 放弃 trong bài khóa 3 còn mang tân ngữ cụ thể (放弃了律师的工作) và làm chủ ngữ trừu tượng (放弃是一种聪明的选择).",
+          "examples": [{ "chinese": "听说她毕业后放弃了律师的工作，开始专门写小说。", "pinyin": "Tīngshuō tā bì yè hòu fàngqìle lǜshī de gōngzuò, kāishǐ zhuānmén xiě xiǎoshuō.", "vietnamese": "Nghe nói sau khi tốt nghiệp cô ấy đã từ bỏ công việc luật sư, bắt đầu chuyên tâm viết tiểu thuyết." }]
+        }
+      ],
+      "chinese_explanation": "丢掉（原有的权利、主张、意见等）；停止进行。",
+      "collocations": ["放弃机会", "轻易放弃", "学会放弃", "不要放弃"],
+      "usage_note": "Trái nghĩa với 坚持 (kiên trì).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l09_w06", "order": 6, "textbook": "HSK 4 上", "lesson": 9,
+      "hanzi": "主意", "pinyin": "zhǔyi",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "ý định, ý kiến",
+        "structure": "改变主意 / 好主意 / 出主意 / 拿主意",
+        "explanation": "Chỉ ý tưởng, cách giải quyết hoặc quyết định trong đầu; chữ 意 đọc thanh nhẹ (yi).",
+        "examples": [{ "chinese": "但是你刚才的话让我改变了主意。", "pinyin": "Dànshì nǐ gāngcái de huà ràng wǒ gǎibiànle zhǔyi.", "vietnamese": "Nhưng lời cậu vừa nói đã khiến mình thay đổi ý định.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "办法、决定。",
+      "collocations": ["好主意", "改变主意", "出主意", "打主意"],
+      "usage_note": "Cẩn thận phân biệt thanh điệu và chữ viết với 注意 (zhùyì – chú ý)!",
+      "common_errors": "Nhầm viết/đọc giữa 主意 (zhǔyi – ý kiến) và 注意 (zhùyì – chú ý).",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l09_w07", "order": 7, "textbook": "HSK 4 上", "lesson": 9,
+      "hanzi": "网球", "pinyin": "wǎngqiú",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "quần vợt",
+        "structure": "打网球 / 网球比赛 / 网球馆",
+        "explanation": "Môn thể thao quần vợt (tennis); động từ đi kèm luôn là 打 (打网球).",
+        "examples": [{ "chinese": "你网球打得真好，还得过那么多国际大奖！", "pinyin": "Nǐ wǎngqiú dǎ de zhēn hǎo, hái déguo nàme duō guójì dà jiǎng!", "vietnamese": "Cậu đánh quần vợt giỏi thật đấy, lại còn từng giành nhiều giải thưởng lớn quốc tế nữa!", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "球类运动项目之一，也指这种运动使用的球。",
+      "collocations": ["打网球", "网球拍", "网球运动员", "网球场"],
+      "usage_note": "Các môn dùng tay cầm vợt đều dùng động từ 打: 打网球, 打羽毛球, 打乒乓球.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l09_w08", "order": 8, "textbook": "HSK 4 上", "lesson": 9,
+      "hanzi": "国际", "pinyin": "guójì",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "quốc tế",
+        "structure": "国际大奖 / 国际机场 / 国际关系",
+        "explanation": "Chỉ phạm vi giữa các quốc gia trên thế giới; thường làm định ngữ đứng trực tiếp trước danh từ.",
+        "examples": [{ "chinese": "你网球打得真好，还得过那么多国际大奖！", "pinyin": "Nǐ wǎngqiú dǎ de zhēn hǎo, hái déguo nàme duō guójì dà jiǎng!", "vietnamese": "Cậu đánh quần vợt giỏi thật, lại còn từng giành biết bao giải thưởng lớn quốc tế!", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "国与国之间；世界范围内。",
+      "collocations": ["国际机场", "国际比赛", "国际贸易", "国际标准"],
+      "usage_note": "Không làm vị ngữ với 很 (không nói '这个机场很国际' → nói '很国际化').",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l09_w09", "order": 9, "textbook": "HSK 4 上", "lesson": 9,
+      "hanzi": "轻松", "pinyin": "qīngsōng",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "nhẹ nhàng, dễ dàng",
+        "structure": "很轻松 / 轻轻松松 (AABB) / 轻松的工作",
+        "explanation": "Trong bài khóa 2 dùng dạng láy AABB (轻轻松松) để nhấn mạnh cảm giác thắng rất nhẹ nhàng, không tốn sức.",
+        "examples": [{ "chinese": "每次看你比赛，感觉你轻轻松松就赢了。", "pinyin": "Měi cì kàn nǐ bǐsài, gǎnjué nǐ qīngqīngsōngsōng jiù yíng le.", "vietnamese": "Mỗi lần xem cậu thi đấu, mình đều thấy cậu thắng thật nhẹ nhàng dễ dàng.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "形容词 (Miêu tả tâm trạng / bầu không khí thoải mái)",
+          "meanings": ["thư thái, thoải mái, không nặng nề áp lực"],
+          "structure": "心情很轻松 / 轻松的气氛 / 轻松的音乐",
+          "difference_note": "Ngoài nghĩa 'việc dễ làm, không tốn sức', 轻松 còn miêu tả cảm giác trút bỏ được gánh nặng tâm lý.",
+          "examples": [{ "chinese": "考完试以后，我觉得全身都轻松多了。", "pinyin": "Kǎowán shì yǐhòu, wǒ juéde quánshēn dōu qīngsōng duō le.", "vietnamese": "Sau khi thi xong, tôi cảm thấy toàn thân nhẹ nhõm hơn hẳn." }]
+        }
+      ],
+      "chinese_explanation": "不感到有负担；不紧张；容易完成。",
+      "collocations": ["轻轻松松", "轻松愉快", "工作轻松", "气氛轻松"],
+      "usage_note": "Dạng láy tính từ song âm tiết là AABB: 轻轻松松.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l09_w10", "order": 10, "textbook": "HSK 4 上", "lesson": 9,
+      "hanzi": "赢", "pinyin": "yíng",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "thắng",
+        "structure": "赢了 / 赢比赛 / 赢得 + 胜利/尊重",
+        "explanation": "Giành chiến thắng trong thi đấu, cạnh tranh (trái nghĩa với 输 – thua).",
+        "examples": [{ "chinese": "每次看你比赛，感觉你轻轻松松就赢了。", "pinyin": "Měi cì kàn nǐ bǐsài, gǎnjué nǐ qīngqīngsōngsōng jiù yíng le.", "vietnamese": "Mỗi lần xem cậu thi đấu, cảm giác cậu thắng thật nhẹ nhàng.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Giành được, thu được lợi ích/tình cảm)",
+          "meanings": ["giành được (tiền, niềm tin, sự tôn trọng, thời gian)"],
+          "structure": "赢得 + 信任 / 掌声 / 时间 / 赢钱",
+          "difference_note": "Khi kết hợp thành 赢得 hoặc mang tân ngữ như 钱/机会, 赢 mang nghĩa 'thu được, giành lấy'.",
+          "examples": [{ "chinese": "他诚实的态度赢得了大家的信任。", "pinyin": "Tā chéngshí de tàidù yíngdé le dàjiā de xìnrèn.", "vietnamese": "Thái độ chân thành của anh ấy đã giành được sự tin tưởng của mọi người." }]
+        }
+      ],
+      "chinese_explanation": "比赛或博弈中获胜（跟“输”相对）；也指获利、博得。",
+      "collocations": ["赢球", "赢得胜利", "赢得掌声", "输赢"],
+      "usage_note": "Chữ 赢 gồm 5 bộ phận dễ nhớ: 亡 + 口 + 月 + 贝 + 凡.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l09_w11", "order": 11, "textbook": "HSK 4 上", "lesson": 9,
+      "hanzi": "随便", "pinyin": "suíbiàn",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "tình cờ, tùy tiện",
+        "structure": "随随便便 (AABB) / 别随便 + 动词",
+        "explanation": "Trong bài khóa 2 dùng dạng láy 随随便便, mang nghĩa qua loa, tùy tiện, dễ dàng mà không cần nỗ lực.",
+        "examples": [{ "chinese": "那是你没看到我辛苦练习的一面，没有人随随便便就能成功的。", "pinyin": "Nà shì nǐ méi kàndào wǒ xīnkǔ liànxí de yí miàn, méiyǒu rén suísuíbiànbiàn jiù néng chénggōng de.", "vietnamese": "Đó là vì cậu chưa thấy mặt luyện tập vất vả của mình thôi, không có ai cứ tùy tiện qua loa mà thành công được đâu.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "形容词 / 副词 (Nghĩa trung tính/lịch sự: thoải mái, tự nhiên, tùy ý)",
+          "meanings": ["1. tự nhiên, đừng khách sáo (请随便坐、请随便吃)", "2. tùy ý, thế nào cũng được (随便你、随便看看)"],
+          "structure": "请随便 + 动词 / 随便你",
+          "difference_note": "Không mang nghĩa chê trách 'tùy tiện' như trong bài khóa; trong giao tiếp mời khách, '请随便' thể hiện sự hiếu khách, thân thiện.",
+          "examples": [{ "chinese": "到了这儿就像在自己家一样，请随便坐吧！", "pinyin": "Dào le zhèr jiù xiàng zài zìjǐ jiā yíyàng, qǐng suíbiàn zuò ba!", "vietnamese": "Đến đây cứ như ở nhà mình vậy, xin mời cứ ngồi tự nhiên nhé!" }]
+        }
+      ],
+      "chinese_explanation": "不加限制、怎么方便就怎么做；也指不认真、马虎。",
+      "collocations": ["随随便便", "请随便", "随便看看", "随便你"],
+      "usage_note": "Chú ý sắc thái ngữ cảnh: '你别随便乱说' (chê trách: tùy tiện) vs '我随便看看' (thoải mái: xem qua thôi).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l09_w12", "order": 12, "textbook": "HSK 4 上", "lesson": 9,
+      "hanzi": "汗", "pinyin": "hàn",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "mồ hôi",
+        "structure": "流汗 / 汗水 / 出汗 / 满头大汗",
+        "explanation": "Nước mồ hôi tiết ra khi nóng hoặc lao động vất vả; trong bài dùng dạng 汗水 (mồ hôi công sức).",
+        "examples": [{ "chinese": "看来我只看到了你成功时获得的鲜花，却没注意到你成功前流下的汗水。", "pinyin": "Kànlái wǒ zhǐ kàndàole nǐ chénggōng shí huòdé de xiānhuā, què méi zhùyì dào nǐ chénggōng qián liúxia de hànshuǐ.", "vietnamese": "Xem ra mình chỉ nhìn thấy hoa tươi cậu nhận được lúc thành công, mà không để ý tới mồ hôi cậu đổ xuống trước khi thành công.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "由皮肤汗腺分泌出来的液体。",
+      "collocations": ["出汗", "流汗", "汗水", "满头大汗"],
+      "usage_note": "Thành ngữ rất hay gặp (có ngay ở bài tập 8 tr.120): 满头大汗 (mồ hôi nhễ nhại đầy đầu).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l09_w13", "order": 13, "textbook": "HSK 4 上", "lesson": 9,
+      "hanzi": "通过", "pinyin": "tōngguò",
+      "lesson_usage": {
+        "part_of_speech": "介词 (Giới từ)", "meaning": "qua, nhờ vào",
+        "structure": "通过 + Phương tiện/Cách thức + Động từ",
+        "explanation": "Biểu thị lấy người hoặc sự vật, hành động làm phương tiện/cách thức để đạt được mục đích.",
+        "examples": [{ "chinese": "任何成功都要通过努力才能得到。", "pinyin": "Rènhé chénggōng dōu yào tōngguò nǔlì cái néng dédào.", "vietnamese": "Bất kỳ thành công nào cũng phải thông qua nỗ lực mới có thể đạt được.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Đi xuyên qua không gian)",
+          "meanings": ["đi qua, xuyên qua (từ đầu này/phía này sang đầu kia/phía kia)"],
+          "structure": "步行通过 / 汽车无法通过 / 通过大桥",
+          "difference_note": "Chính sách gốc ghi rõ ở Chú thích 2 tr.114: khi làm động từ chỉ di chuyển, 通过 mang nghĩa xuyên qua từ bên này sang bên kia (khác với 经过 chỉ đi ngang qua).",
+          "examples": [{ "chinese": "这条街只能步行通过。", "pinyin": "Zhè tiáo jiē zhǐ néng bùxíng tōngguò.", "vietnamese": "Con phố này chỉ có thể đi bộ qua." }]
+        },
+        {
+          "part_of_speech": "动词 (Vượt qua / Được thông qua)",
+          "meanings": ["đạt tiêu chuẩn, vượt qua (kỳ thi, phỏng vấn), được phê duyệt thông qua"],
+          "structure": "通过 + 面试 / 考试 / 审查 / 计划",
+          "difference_note": "Ngoại động từ chỉ việc đáp ứng yêu cầu hoặc được chấp thuận (Chú thích 2 ví dụ 4 tr.114).",
+          "examples": [{ "chinese": "我通过那家公司的面试了。", "pinyin": "Wǒ tōngguò nà jiā gōngsī de miànshì le.", "vietnamese": "Tôi đã vượt qua buổi phỏng vấn của công ty đó rồi." }]
+        }
+      ],
+      "chinese_explanation": "作介词表示以人或事物为媒介或手段达到目的；作动词表示穿过或符合标准、获准。",
+      "collocations": ["通过努力", "通过面试", "通过考试", "步行通过"],
+      "usage_note": "Xem kỹ bảng So sánh '通过—经过' ở tab Ngữ pháp (3 điểm khác biệt trọng tâm HSK 4).",
+      "common_errors": "Sai: '我不了解这件事的通过' (通过 không làm danh từ) → Đúng: '我不了解这件事的经过'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l09_w14", "order": 14, "textbook": "HSK 4 上", "lesson": 9,
+      "hanzi": "篇", "pinyin": "piān",
+      "lesson_usage": {
+        "part_of_speech": "量词 (Lượng từ)", "meaning": "(được dùng cho bài văn, giấy...) bài, tờ...",
+        "structure": "一篇 + 文章 / 新闻 / 小说 / 日记 / 论文",
+        "explanation": "Lượng từ chuyên dùng cho các tác phẩm viết, bài báo, bài văn, tờ giấy.",
+        "examples": [{ "chinese": "我在报纸上看到一篇关于她的新闻，她现在已经是一个有名的作家了。", "pinyin": "Wǒ zài bàozhǐ shang kàndào yì piān guānyú tā de xīnwén, tā xiànzài yǐjīng shì yí ge yǒumíng de zuòjiā le.", "vietnamese": "Mình thấy một bài báo về cô ấy trên báo, bây giờ cô ấy đã là một nhà văn nổi tiếng rồi.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "量词，用于文章、新闻、日记、纸张等。",
+      "collocations": ["一篇文章", "一篇新闻", "一篇日记", "一篇论文"],
+      "usage_note": "Phân biệt: 一本书 (một quyển sách), 一篇文章/新闻 (một bài viết/bài báo), 一份报纸 (một tờ báo).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l09_w15", "order": 15, "textbook": "HSK 4 上", "lesson": 9,
+      "hanzi": "作家", "pinyin": "zuòjiā",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "nhà văn",
+        "structure": "有名的作家 / 一位作家 / 当作家",
+        "explanation": "Người chuyên sáng tác văn học (tiểu thuyết, tản văn...).",
+        "examples": [{ "chinese": "她现在已经是一个有名的作家了。", "pinyin": "Tā xiànzài yǐjīng shì yí ge yǒumíng de zuòjiā le.", "vietnamese": "Bây giờ cô ấy đã là một nhà văn nổi tiếng rồi.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "从事文学创作并有成就的人。",
+      "collocations": ["著名作家", "一位作家", "成为作家", "青年作家"],
+      "usage_note": "Hậu tố 家 chỉ chuyên gia một lĩnh vực: 作家 (nhà văn), 画家 (họa sĩ), 科学家 (nhà khoa học), 音乐家 (nhạc sĩ).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l09_w16", "order": 16, "textbook": "HSK 4 上", "lesson": 9,
+      "hanzi": "当时", "pinyin": "dāngshí",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "lúc đó",
+        "structure": "当时 + Chủ ngữ + Vị ngữ / Chủ ngữ + 当时 + Vị ngữ",
+        "explanation": "Danh từ thời gian chỉ thời điểm đã nhắc tới trong quá khứ (tương đương 那时候).",
+        "examples": [{ "chinese": "当时她的父母和亲戚都不支持她，可是她坚持自己的选择。", "pinyin": "Dāngshí tā de fùmǔ hé qīnqi dōu bù zhīchí tā, kěshì tā jiānchí zìjǐ de xuǎnzé.", "vietnamese": "Lúc đó bố mẹ và họ hàng cô ấy đều không ủng hộ cô ấy, nhưng cô ấy vẫn kiên trì với lựa chọn của mình.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "时间名词 (Đọc dàngshí – ngay lập tức, tại chỗ)",
+          "meanings": ["ngay lúc đó, lập tức (trong khẩu ngữ miền Bắc đôi khi đọc thanh 4)"],
+          "structure": "当时就答应了",
+          "difference_note": "Chủ yếu trong HSK 4 đọc dāngshí (thanh 1) nghĩa là 'lúc ấy' (quá khứ); không dùng để chỉ tương lai.",
+          "examples": [{ "chinese": "听到这个消息，他当时就高兴得跳了起来。", "pinyin": "Tīngdào zhège xiāoxi, tā dāngshí jiù gāoxìng de tiào le qǐlái.", "vietnamese": "Nghe tin này, ngay lúc đó anh ấy đã vui mừng nhảy cẫng lên." }]
+        }
+      ],
+      "chinese_explanation": "指过去发生某件事的时候。",
+      "collocations": ["当时情况", "我当时", "就在当时"],
+      "usage_note": "Chỉ dùng cho thời điểm trong quá khứ (không dùng cho tương lai).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l09_w17", "order": 17, "textbook": "HSK 4 上", "lesson": 9,
+      "hanzi": "可是", "pinyin": "kěshì",
+      "lesson_usage": {
+        "part_of_speech": "连词 (Liên từ)", "meaning": "nhưng",
+        "structure": "(虽然)……，可是……",
+        "explanation": "Liên từ chuyển ngoặt đặt ở đầu vế sau, thường phối hợp với 虽然 ở vế trước (khẩu ngữ hơn 但是 một chút).",
+        "examples": [{ "chinese": "当时她的父母和亲戚都不支持她，可是她坚持自己的选择，现在终于向所有人证明了她的选择是正确的。", "pinyin": "Dāngshí tā de fùmǔ hé qīnqi dōu bù zhīchí tā, kěshì tā jiānchí zìjǐ de xuǎnzé, xiànzài zhōngyú xiàng suǒyǒu rén zhèngmíngle tā de xuǎnzé shì zhèngquè de.", "vietnamese": "Lúc đó bố mẹ và họ hàng cô ấy đều không ủng hộ, nhưng cô ấy kiên trì lựa chọn của mình, giờ cuối cùng đã chứng minh với mọi người rằng lựa chọn của cô là đúng đắn.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "连词，表示转折，常与“虽然”搭配。",
+      "collocations": ["虽然……可是……"],
+      "usage_note": "Gần nghĩa với 但是 và 不过 (不过 nhẹ nhàng, uyển chuyển nhất).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l09_w18", "order": 18, "textbook": "HSK 4 上", "lesson": 9,
+      "hanzi": "正确", "pinyin": "zhèngquè",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "đúng, chính xác",
+        "structure": "正确的选择 / 正确的方法 / 回答得很正确",
+        "explanation": "Phù hợp với sự thật, quy luật hoặc tiêu chuẩn khách quan (trái nghĩa với 错误).",
+        "examples": [{ "chinese": "现在终于向所有人证明了她的选择是正确的。", "pinyin": "Xiànzài zhōngyú xiàng suǒyǒu rén zhèngmíngle tā de xuǎnzé shì zhèngquè de.", "vietnamese": "Bây giờ cuối cùng đã chứng minh với mọi người rằng lựa chọn của cô ấy là đúng đắn.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "符合事实、道理或某种公认的标准（跟“错误”相对）。",
+      "collocations": ["正确答案", "正确的方法", "正确的选择", "非常正确"],
+      "usage_note": "Trang trọng và cụ thể hơn 对; thường làm định ngữ cho 答案, 方法, 选择, 态度.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l09_w19", "order": 19, "textbook": "HSK 4 上", "lesson": 9,
+      "hanzi": "理想", "pinyin": "lǐxiǎng",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "lý tưởng",
+        "structure": "自己的理想 / 实现理想 / 远大的理想",
+        "explanation": "Trong bài khóa 3, làm danh từ chỉ ước mơ, mục tiêu cao đẹp hướng tới trong tương lai.",
+        "examples": [{ "chinese": "看来为了自己的理想，放弃一些东西也是值得的。", "pinyin": "Kànlái wèile zìjǐ de lǐxiǎng, fàngqì yìxiē dōngxi yě shì zhídé de.", "vietnamese": "Xem ra vì lý tưởng của bản thân mà từ bỏ một vài thứ cũng rất đáng giá.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "形容词 (Tính từ)",
+          "meanings": ["lý tưởng, vừa ý, như mong đợi"],
+          "structure": "不太理想 / 很理想 / 理想的工作",
+          "difference_note": "Khác với danh từ 'ước mơ/lý tưởng' trong bài khóa 3, tính từ 理想 đánh giá mức độ hài lòng về kết quả, điều kiện (xuất hiện ngay trong bài tập 10 tr.121: '数学可能考得不太理想').",
+          "examples": [{ "chinese": "A: 你研究生考试考得怎么样？ B: 数学可能考得不太理想。", "pinyin": "A: Nǐ yánjiūshēng kǎoshì kǎo de zěnmeyàng? B: Shùxué kěnéng kǎo de bú tài lǐxiǎng.", "vietnamese": "A: Kỳ thi cao học của cậu thi thế nào? B: Môn Toán có lẽ làm bài không được như ý lắm." }]
+        }
+      ],
+      "chinese_explanation": "对未来事物的想象或希望；也形容符合希望的、使人满意的。",
+      "collocations": ["实现理想", "为了理想", "不太理想", "理想的工作"],
+      "usage_note": "Cực hay kiểm tra chức năng tính từ '考得不太理想 / 效果很理想' trong đề HSK 4.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l09_w20", "order": 20, "textbook": "HSK 4 上", "lesson": 9,
+      "hanzi": "勇敢", "pinyin": "yǒnggǎn",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "dũng cảm, gan dạ",
+        "structure": "勇敢地去做 / 勇敢面对困难 / 很勇敢",
+        "explanation": "Không sợ khó khăn, nguy hiểm hay thất bại.",
+        "examples": [{ "chinese": "如果你想做什么事情，那就勇敢地去做，不要担心结果，不要考虑会不会失败。", "pinyin": "Rúguǒ nǐ xiǎng zuò shénme shìqing, nà jiù yǒnggǎn de qù zuò, búyào dān xīn jiéguǒ, búyào kǎolǜ huì bu huì shībài.", "vietnamese": "Nếu bạn muốn làm việc gì đó thì cứ dũng cảm mà làm, đừng lo lắng kết quả, đừng băn khoăn xem có thất bại hay không.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "不怕危险和困难；有胆量。",
+      "collocations": ["勇敢面对", "勇敢地去做", "非常勇敢", "勇敢的孩子"],
+      "usage_note": "Khi làm trạng ngữ đứng trước động từ thường kèm trợ từ 地 (勇敢地面对困难).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l09_w21", "order": 21, "textbook": "HSK 4 上", "lesson": 9,
+      "hanzi": "结果", "pinyin": "jiéguǒ",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "kết quả",
+        "structure": "担心结果 / 调查结果 / 比赛结果",
+        "explanation": "Trong bài khóa 4, làm danh từ chỉ trạng thái cuối cùng trong diễn biến của sự việc.",
+        "examples": [{ "chinese": "不要担心结果，不要考虑会不会失败。", "pinyin": "Búyào dān xīn jiéguǒ, búyào kǎolǜ huì bu huì shībài.", "vietnamese": "Đừng lo lắng kết quả, đừng băn khoăn xem có thất bại hay không.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "连词 (Liên từ – Chú thích 4 tr.118)",
+          "meanings": ["kết quả là, rốt cuộc (biểu thị quan hệ nhân quả)"],
+          "structure": "Nguyên nhân，结果(，) + Kết quả xảy ra",
+          "difference_note": "Đứng đầu vế câu sau để thuật lại hậu quả/kết quả (thường là kết quả bất ngờ hoặc không như ý) của tình huống ở vế trước.",
+          "examples": [{ "chinese": "我妻子想减肥，所以她每天早上都去骑马。结果马竟然在一个月之内瘦了二十斤。", "pinyin": "Wǒ qīzi xiǎng jiǎnféi, suǒyǐ tā měi tiān zǎoshang dōu qù qímǎ. Jiéguǒ mǎ jìngrán zài yí ge yuè zhīnèi shòule èrshí jīn.", "vietnamese": "Vợ tôi muốn giảm cân nên sáng nào cũng đi cưỡi ngựa. Kết quả là con ngựa lại bất ngờ gầy đi hai mươi cân trong một tháng." }]
+        }
+      ],
+      "chinese_explanation": "事物发展达到的最后状态；作连词表示因果关系。",
+      "collocations": ["调查结果", "比赛结果", "看重结果", "结果竟然"],
+      "usage_note": "Xem thêm nhóm đồng tự 果 (如果 / 结果 / 效果) ở cuối bài tr.121.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l09_w22", "order": 22, "textbook": "HSK 4 上", "lesson": 9,
+      "hanzi": "失败", "pinyin": "shībài",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "thất bại",
+        "structure": "失败了 / 会不会失败 / 试验失败",
+        "explanation": "Không đạt được mục đích dự định trong công việc hay thi đấu (trái nghĩa với 成功).",
+        "examples": [{ "chinese": "即使最后失败了也没有关系，因为至少你已经努力过。", "pinyin": "Jíshǐ zuìhòu shībàile yě méiyǒu guānxi, yīnwèi zhìshǎo nǐ yǐjīng nǔlìguo.", "vietnamese": "Cho dù cuối cùng thất bại cũng không sao, vì ít nhất bạn đã từng nỗ lực rồi.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ)",
+          "meanings": ["sự thất bại, lần thất bại"],
+          "structure": "从失败中总结经验 / 经历过许多失败 / 一次失败",
+          "difference_note": "Ngay trong bài khóa 4 & 5, 失败 cũng đóng vai trò danh từ làm tân ngữ cho giới từ 从 và động từ 经历.",
+          "examples": [{ "chinese": "取得成功的人往往都经历过许多失败。", "pinyin": "Qǔdé chénggōng de rén wǎngwǎng dōu jīnglìguo xǔduō shībài.", "vietnamese": "Những người đạt được thành công thường đều từng trải qua rất nhiều thất bại." }]
+        }
+      ],
+      "chinese_explanation": "在斗争或竞赛中被对方打败；工作没有达到预定的目的（跟“成功”相对）。",
+      "collocations": ["失败的经验", "从失败中学习", "经历失败", "不怕失败"],
+      "usage_note": "Câu tục ngữ nổi tiếng: 失败是成功之母 (Thất bại là mẹ thành công).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l09_w23", "order": 23, "textbook": "HSK 4 上", "lesson": 9,
+      "hanzi": "过程", "pinyin": "guòchéng",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "quá trình",
+        "structure": "在……的过程中 / 做事情的过程 / 过程和结果",
+        "explanation": "Tiến trình phát triển hoặc trải qua của một sự việc.",
+        "examples": [{ "chinese": "我们应该把注意力放在做事情的过程上，这样你会在做的过程中发现解决问题的快乐。", "pinyin": "Wǒmen yīnggāi bǎ zhùyìlì fàngzài zuò shìqing de guòchéng shang, zhèyàng nǐ huì zài zuò de guòchéng zhōng fāxiàn jiějué wèntí de kuàilè.", "vietnamese": "Chúng ta nên đặt sự chú ý vào quá trình làm việc, như vậy bạn sẽ phát hiện ra niềm vui giải quyết vấn đề ngay trong quá trình làm.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "事情进行或事物发展所经过的程序。",
+      "collocations": ["在……过程中", "成长的过程", "学习过程", "过程和结果"],
+      "usage_note": "Cấu trúc cực kỳ thông dụng trong HSK 4: 在 + Động từ/Danh từ + 的过程中 (trong quá trình...).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l09_w24", "order": 24, "textbook": "HSK 4 上", "lesson": 9,
+      "hanzi": "至少", "pinyin": "zhìshǎo",
+      "lesson_usage": {
+        "part_of_speech": "副词 (Phó từ)", "meaning": "ít nhất",
+        "structure": "至少 + Số lượng / Hành động",
+        "explanation": "Biểu thị mức độ hoặc số lượng tối thiểu (đối lập với 至多 – nhiều nhất).",
+        "examples": [{ "chinese": "即使最后失败了也没有关系，因为至少你已经努力过。", "pinyin": "Jíshǐ zuìhòu shībàile yě méiyǒu guānxi, yīnwèi zhìshǎo nǐ yǐjīng nǔlìguo.", "vietnamese": "Cho dù cuối cùng thất bại cũng không sao, vì ít nhất bạn đã từng nỗ lực rồi.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "副词，表示最小的限度。",
+      "collocations": ["至少要", "至少有", "至少半个小时"],
+      "usage_note": "Thường dùng với số lượng (至少要三十分钟) hoặc để an ủi, nhấn mạnh điểm tối thiểu đã đạt được (至少你已经努力过).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l09_w25", "order": 25, "textbook": "HSK 4 上", "lesson": 9,
+      "hanzi": "总结", "pinyin": "zǒngjié",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "tổng kết",
+        "structure": "总结 + 经验 / 总结出…… / 做总结",
+        "explanation": "Trong bài khóa 4, làm động từ chỉ việc đúc rút, khái quát lại kinh nghiệm sau một giai đoạn.",
+        "examples": [{ "chinese": "而且我们还可以从失败中总结出有用的经验。", "pinyin": "Érqiě wǒmen hái kěyǐ cóng shībài zhōng zǒngjié chū yǒuyòng de jīngyàn.", "vietnamese": "Hơn nữa chúng ta còn có thể đúc kết ra những kinh nghiệm hữu ích từ thất bại.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ)",
+          "meanings": ["bản tổng kết, báo cáo tổng kết"],
+          "structure": "写一份总结 / 年终总结 / 工作总结",
+          "difference_note": "Khi làm danh từ, 总结 chỉ văn bản hay bài phát biểu tổng kết công việc/học tập.",
+          "examples": [{ "chinese": "年底前每个人都要交一份工作总结。", "pinyin": "Niándǐ qián měi ge rén dōu yào jiāo yí fèn gōngzuò zǒngjié.", "vietnamese": "Trước cuối năm mỗi người đều phải nộp một bản tổng kết công việc." }]
+        }
+      ],
+      "chinese_explanation": "把一阶段内的工作、学习或思想中的各种经验或情况分析研究，做出带有规律性的结论；也指总结出来的结论或报告。",
+      "collocations": ["总结经验", "总结教训", "工作总结", "年终总结"],
+      "usage_note": "Rất hay đi với bổ ngữ kết quả '出': 总结出有用的经验 (đúc kết ra kinh nghiệm hữu ích).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l09_w26", "order": 26, "textbook": "HSK 4 上", "lesson": 9,
+      "hanzi": "取", "pinyin": "qǔ",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "đạt được",
+        "structure": "取得 + 成功 / 成绩 / 进步",
+        "explanation": "Trong bài khóa 5 xuất hiện trong động từ ghép 取得 (đạt được, giành được thành công/thành tích).",
+        "examples": [{ "chinese": "取得成功的人往往都经历过许多失败。", "pinyin": "Qǔdé chénggōng de rén wǎngwǎng dōu jīnglìguo xǔduō shībài.", "vietnamese": "Những người đạt được thành công thường đều từng trải qua rất nhiều thất bại.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Nghĩa gốc đời sống: lấy, rút, nhận đồ)",
+          "meanings": ["lấy (hành lý, bưu kiện, đồ giặt), rút (tiền ở ngân hàng/ATM)"],
+          "structure": "取钱 / 取行李箱 / 取快递 / 取票",
+          "difference_note": "Cực kỳ thông dụng trong khẩu ngữ hằng ngày và xuất hiện ngay ở bài tập 7 tr.120 ('他还得去取行李箱').",
+          "examples": [{ "chinese": "我先去银行取点儿钱，一会儿就回来。", "pinyin": "Wǒ xiān qù yínháng qǔ diǎnr qián, yíhuìr jiù huílai.", "vietnamese": "Tôi ra ngân hàng rút ít tiền trước đã, lát nữa về ngay." }]
+        }
+      ],
+      "chinese_explanation": "得到、获取（如取得）；也指拿走、领取（如取钱、取行李）。",
+      "collocations": ["取得成功", "取得成绩", "取钱", "取行李"],
+      "usage_note": "Phân biệt với 拿 (cầm/lấy đồ bất kỳ); 取 nhấn mạnh việc lấy lại thứ vốn thuộc về mình hoặc đã gửi/đặt trước (取钱, 取票, 取行李).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l09_w27", "order": 27, "textbook": "HSK 4 上", "lesson": 9,
+      "hanzi": "经历", "pinyin": "jīnglì",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "trải qua",
+        "structure": "经历 + 失败 / 困难 / 经历过……",
+        "explanation": "Trong bài khóa 5, làm động từ chỉ việc đích thân nếm trải sự việc, biến cố nào đó.",
+        "examples": [{ "chinese": "取得成功的人往往都经历过许多失败。", "pinyin": "Qǔdé chénggōng de rén wǎngwǎng dōu jīnglìguo xǔduō shībài.", "vietnamese": "Những người đạt được thành công thường đều từng trải qua nhiều thất bại.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ)",
+          "meanings": ["trải nghiệm, quá trình từng trải, kinh nghiệm sống"],
+          "structure": "成功经历 / 生活经历 / 一段难忘的经历",
+          "difference_note": "Ngay tiêu đề bài khóa 2 & 3 tr.111–112 đã dùng chức năng danh từ ('张远的成功经历', '王红的成功经历').",
+          "examples": [{ "chinese": "那次出国留学是我人生中非常宝贵的经历。", "pinyin": "Nà cì chū guó liúxué shì wǒ rénshēng zhōng fēicháng bǎoguì de jīnglì.", "vietnamese": "Lần du học nước ngoài đó là trải nghiệm vô cùng quý giá trong cuộc đời tôi." }]
+        }
+      ],
+      "chinese_explanation": "亲身见过、做过或遭受过；也指亲身经历过的事。",
+      "collocations": ["经历失败", "成功经历", "生活经历", "亲身经历"],
+      "usage_note": "Phân biệt với 经验 (kinh nghiệm/kiến thức đúc kết được); 经历 chỉ bản thân sự việc đã trải qua (xem Bài 10 tr.135).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l09_w28", "order": 28, "textbook": "HSK 4 上", "lesson": 9,
+      "hanzi": "许多", "pinyin": "xǔduō",
+      "lesson_usage": {
+        "part_of_speech": "数词 (Số từ / Từ chỉ lượng)", "meaning": "rất nhiều",
+        "structure": "许多 + (量词) + 名词",
+        "explanation": "Chỉ số lượng lớn (gần nghĩa với 很多 nhưng trang trọng, văn viết hơn và không dùng làm vị ngữ).",
+        "examples": [{ "chinese": "取得成功的人往往都经历过许多失败。", "pinyin": "Qǔdé chénggōng de rén wǎngwǎng dōu jīnglìguo xǔduō shībài.", "vietnamese": "Những người đạt được thành công thường đều từng trải qua rất nhiều thất bại.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "很多（多用于书面语）。",
+      "collocations": ["许多人", "许多失败", "许多困难", "好许多"],
+      "usage_note": "KHÔNG đặt phó từ mức độ 很 trước 许多 (sai: 很许多) và không đứng một mình làm vị ngữ (sai: 人许多 → đúng: 人很多 / 有许多人).",
+      "common_errors": "Sai: '今天来的人许多' → Đúng: '今天来的人很多' hoặc '今天来了许多人'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l09_w29", "order": 29, "textbook": "HSK 4 上", "lesson": 9,
+      "hanzi": "区别", "pinyin": "qūbié",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "sự khác biệt",
+        "structure": "A 和 B 的区别 / 有什么区别 / 区别很大",
+        "explanation": "Trong bài khóa 5, làm danh từ chỉ điểm khác nhau giữa hai đối tượng.",
+        "examples": [{ "chinese": "他们和普通人的区别就是他们都坚持了下来。", "pinyin": "Tāmen hé pǔtōng rén de qūbié jiù shì tāmen dōu jiānchíle xialai.", "vietnamese": "Sự khác biệt giữa họ và người bình thường chính là họ đều đã kiên trì đến cùng.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Động từ)",
+          "meanings": ["phân biệt, tách biệt rõ ràng"],
+          "structure": "区别 A 和 B / 区别对待",
+          "difference_note": "Khi làm động từ, 区别 mang nghĩa chủ động nhận diện hoặc tách riêng sự khác nhau.",
+          "examples": [{ "chinese": "我们要学会区别这两种不同的用法。", "pinyin": "Wǒmen yào xuéhuì qūbié zhè liǎng zhǒng bù tóng de yòngfǎ.", "vietnamese": "Chúng ta cần học cách phân biệt hai cách dùng khác nhau này." }]
+        }
+      ],
+      "chinese_explanation": "彼此不同的地方；作动词指把两个以上的对象加以比较，认识它们不同的地方。",
+      "collocations": ["有什么区别", "区别很大", "没有区别", "区别对待"],
+      "usage_note": "Câu hỏi kinh điển HSK 4: 'A' 和 'B' 有什么区别？ (A và B có gì khác nhau?).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l09_w30", "order": 30, "textbook": "HSK 4 上", "lesson": 9,
+      "hanzi": "暂时", "pinyin": "zànshí",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ thời gian)", "meaning": "tạm thời, nhất thời",
+        "structure": "是暂时的 / 暂时的困难 / 暂时 + Động từ",
+        "explanation": "Chỉ khoảng thời gian ngắn, không lâu dài; trong bài khóa 5 dùng trong cấu trúc '只是暂时的'.",
+        "examples": [{ "chinese": "困难只是暂时的，“阳光总在风雨后”。", "pinyin": "Kùnnan zhǐ shì zànshí de, “Yángguāng zǒng zài fēngyǔ hòu”.", "vietnamese": "Khó khăn chỉ là tạm thời, “ánh nắng luôn đến sau cơn mưa”.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "副词 / 状语 (Làm trạng ngữ trước động từ)",
+          "meanings": ["tạm thời (làm việc gì đó trong thời gian trước mắt)"],
+          "structure": "暂时 + 不/没 + Động từ / 暂时住在……",
+          "difference_note": "Ngoài làm định ngữ/vị ngữ ('暂时的困难', '是暂时的'), 暂时 rất hay đứng trực tiếp trước động từ làm trạng ngữ.",
+          "examples": [{ "chinese": "这件事我暂时还没有决定，过两天再告诉你吧。", "pinyin": "Zhè jiàn shì wǒ zànshí hái méiyǒu juédìng, guò liǎng tiān zài gàosu nǐ ba.", "vietnamese": "Chuyện này tạm thời tôi vẫn chưa quyết định, qua hai hôm nữa rồi báo bạn nhé." }]
+        }
+      ],
+      "chinese_explanation": "短时间内；非长久的。",
+      "collocations": ["暂时的困难", "暂时不", "暂时没有", "只是暂时的"],
+      "usage_note": "Trái nghĩa với 永远 (vĩnh viễn – học ở Bài 10) hoặc 长期 (lâu dài).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l09_w31", "order": 31, "textbook": "HSK 4 上", "lesson": 9, "is_out_of_syllabus": true,
+      "hanzi": "面对", "pinyin": "miànduì",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "đương đầu, đối mặt",
+        "structure": "勇敢地面对 + 困难 / 现实 / 失败",
+        "explanation": "Từ đánh dấu * (ngoài khung HSK 4) trong bài khóa 5; chỉ thái độ trực diện đón nhận khó khăn, thử thách.",
+        "examples": [{ "chinese": "只有我们勇敢地面对困难，才能有希望取得成功。", "pinyin": "Zhǐyǒu wǒmen yǒnggǎn de miànduì kùnnan, cái néng yǒu xīwàng qǔdé chénggōng.", "vietnamese": "Chỉ khi chúng ta dũng cảm đối mặt với khó khăn mới có thể có hy vọng đạt được thành công.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Nghĩa không gian vật lý)",
+          "meanings": ["đối diện với, quay mặt về phía"],
+          "structure": "面对面 / 面对大海",
+          "difference_note": "Chỉ hướng mặt đối diện trực tiếp về mặt không gian.",
+          "examples": [{ "chinese": "我们最好面对面好好儿谈一次。", "pinyin": "Wǒmen zuìhǎo miànduìmiàn hǎohāor tán yí cì.", "vietnamese": "Tốt nhất chúng ta nên nói chuyện trực tiếp mặt đối mặt một lần." }]
+        }
+      ],
+      "chinese_explanation": "正对着；直面承受（困难、挑战等）。",
+      "collocations": ["面对困难", "面对现实", "面对面", "勇敢面对"],
+      "usage_note": "Mang tân ngữ trực tiếp phía sau, không thêm giới từ 对 (sai: 面对对困难).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    }
+  ],
+  "proper_nouns": [
+    { "hanzi": "王红", "pinyin": "Wáng Hóng", "meaning": "Vương Hồng (tên người)" },
+    { "hanzi": "爱迪生", "pinyin": "Àidíshēng", "meaning": "Thomas Alva Edison (1847–1931), nhà phát minh người Mỹ" }
+  ],
+  "same_char_expansion": {
+    "char": "果",
+    "words": [
+      { "hanzi": "如果", "pinyin": "rúguǒ", "meaning": "nếu như" },
+      { "hanzi": "结果", "pinyin": "jiéguǒ", "meaning": "kết quả" },
+      { "hanzi": "效果", "pinyin": "xiàoguǒ", "meaning": "hiệu quả" }
+    ],
+    "examples": [
+      { "chinese": "现在朋友之间流行发各种幽默短信，这给我们的生活带来一些快乐。但是如果同样的短信你收到了三四遍，再幽默的短信你也笑不出来了。", "vietnamese": "Hiện nay giữa bạn bè thịnh hành gửi đủ loại tin nhắn hài hước, điều này mang lại chút niềm vui cho cuộc sống. Nhưng nếu cùng một tin nhắn mà bạn nhận tới ba bốn lần thì tin nhắn có hài hước đến mấy bạn cũng không cười nổi nữa." },
+      { "chinese": "A: 没有你的帮助，我肯定不能按时完成任务，真是太谢谢你了！ B: 你太客气了，我不过是说了一点儿想法，这一切都是你自己辛苦努力的结果。", "vietnamese": "A: Không có sự giúp đỡ của bạn, tôi chắc chắn không thể hoàn thành nhiệm vụ đúng hạn, thật sự cảm ơn bạn quá! B: Bạn khách sáo quá, tôi chẳng qua chỉ góp chút ý kiến thôi, tất cả đều là kết quả của sự nỗ lực vất vả của chính bạn." },
+      { "chinese": "尽管很辛苦，但他还是坚持每天做运动，几个月下来，减肥的效果很不错。", "vietnamese": "Dù rất vất vả nhưng anh ấy vẫn kiên trì tập thể dục mỗi ngày, qua vài tháng, hiệu quả giảm cân rất khá." }
+    ]
+  },
+  "grammar": [
+    {
+      "title": "难道",
+      "formula": "难道 + (Chủ ngữ) + Khẳng định (+ 吗)? [Nghĩa phủ định]  |  难道 + (Chủ ngữ) + Phủ định (+ 吗)? [Nghĩa khẳng định]",
+      "meaning": "Lẽ nào... sao? / Chẳng nhẽ...?",
+      "usage": "Phó từ 难道 nhấn mạnh ngữ khí của câu hỏi tu từ. Khi dùng trong câu khẳng định thì cả câu hàm ý phủ định, và ngược lại khi dùng trong câu phủ định thì hàm ý khẳng định.",
+      "context": "Dùng trong khẩu ngữ và văn viết để bày tỏ sự ngạc nhiên, bất bình hoặc nhấn mạnh điều hiển nhiên.",
+      "examples": [
+        { "chinese": "怎么又买了这么多饼干和巧克力？难道你不减肥了？", "pinyin": "Zěnme yòu mǎile zhème duō bǐnggān hé qiǎokèlì? Nándào nǐ bù jiǎn féi le?", "vietnamese": "Sao lại mua nhiều bánh quy và sôcôla thế? Lẽ nào cậu không giảm cân nữa à?" },
+        { "chinese": "A: 喂，都十点了，你怎么还不来？ B: 难道你没看短信？我今天有事去不了了。", "pinyin": "A: Wéi, dōu shí diǎn le, nǐ zěnme hái bù lái? B: Nándào nǐ méi kàn duǎnxìn? Wǒ jīntiān yǒu shì qù bu liǎo le.", "vietnamese": "A: Alo, đã mười giờ rồi sao cậu vẫn chưa tới? B: Chẳng nhẽ cậu chưa xem tin nhắn à? Hôm nay mình có việc không đi được." },
+        { "chinese": "A: 你不是两点就出发了吗？难道路上花了两个多小时？ B: 我那辆车出了点儿问题，刚才把车送去修了。", "pinyin": "A: Nǐ bú shì liǎng diǎn jiù chūfā le ma? Nándào lùshang huā le liǎng ge duō xiǎoshí? B: Wǒ nà liàng chē chūle diǎnr wèntí, gāngcái bǎ chē sòngqù xiū le.", "vietnamese": "A: Chẳng phải anh xuất phát từ hai giờ rồi sao? Lẽ nào trên đường mất hơn hai tiếng à? B: Xe tôi gặp chút trục trặc, vừa mang xe đi sửa rồi." }
+      ],
+      "important_notes": "Ví dụ trong sách: '难道汉语真的这么难吗？' (khẳng định) → hàm ý nhấn mạnh tiếng Hán KHÔNG khó. Ngược lại '难道你没看短信？' (phủ định) → hàm ý lẽ ra bạn phải xem tin nhắn rồi.",
+      "common_errors": "Dùng 难道 cùng đại từ nghi vấn (什么, 哪儿, 谁) trong câu hỏi thông thường — sai ngữ pháp!",
+      "comparison": "难道 nhấn mạnh phản vấn mạnh mẽ hơn 不是……吗 một chút.",
+      "mini_practice": [
+        { "prompt": "你别再喝这么多酒了！______________________________？（难道）", "sample_answer": "难道你忘了医生说的话吗？ / 难道你不知道喝酒对身体不好吗？", "explanation": "Dùng 难道 + vế phủ định để nhấn mạnh lời nhắc nhở." },
+        { "prompt": "A: 你又咳嗽了？______________________________？（难道）  B: 感冒早好了，我咳嗽是因为空气太干。", "sample_answer": "难道你的感冒还没好吗？", "explanation": "Hỏi tu từ bày tỏ sự ngạc nhiên trước việc B vẫn ho." }
+      ]
+    },
+    {
+      "title": "通过",
+      "formula": "(1) Giới từ: 通过 + Người/Sự vật/Cách thức + V  |  (2) Động từ: 通过 + Địa điểm / Tiêu chuẩn (面试/考试)",
+      "meaning": "(1) Thông qua, nhờ vào; (2) Đi xuyên qua; (3) Vượt qua, đạt yêu cầu.",
+      "usage": "通过 có 3 cách dùng chính: (1) Giới từ chỉ phương tiện/cách thức đạt mục đích; (2) Động từ chỉ việc đi xuyên từ đầu này sang đầu kia; (3) Động từ chỉ đạt tiêu chuẩn/yêu cầu nhất định.",
+      "context": "Rất phổ biến trong cả văn nói và văn viết trang trọng (học tập, tuyển dụng, giao thông).",
+      "examples": [
+        { "chinese": "任何成功都要通过努力才能得到。", "pinyin": "Rènhé chénggōng dōu yào tōngguò nǔlì cái néng dédào.", "vietnamese": "Bất kỳ thành công nào cũng phải thông qua nỗ lực mới đạt được." },
+        { "chinese": "这个节目我一直在看，它介绍了很多生活中的小知识。很多以前我没有注意到的问题，现在通过它了解了不少。", "pinyin": "Zhège jiémù wǒ yìzhí zài kàn, tā jièshào le hěn duō shēnghuó zhōng de xiǎo zhīshi. Hěn duō yǐqián wǒ méiyǒu zhùyì dào de wèntí, xiànzài tōngguò tā liǎojiě le bùshǎo.", "vietnamese": "Chương trình này tôi xem suốt, nó giới thiệu rất nhiều kiến thức nhỏ trong đời sống. Nhiều vấn đề trước đây tôi không để ý, giờ nhờ nó mà hiểu biết thêm không ít." },
+        { "chinese": "这条街只能步行通过。", "pinyin": "Zhè tiáo jiē zhǐ néng bùxíng tōngguò.", "vietnamese": "Con phố này chỉ có thể đi bộ qua." },
+        { "chinese": "我通过那家公司的面试了。经理对我印象不错，他要我明天就正式去上班。", "pinyin": "Wǒ tōngguò nà jiā gōngsī de miànshì le. Jīnglǐ duì wǒ yìnxiàng búcuò, tā yào wǒ míngtiān jiù zhèngshì qù shàngbān.", "vietnamese": "Tôi đã vượt qua buổi phỏng vấn của công ty đó rồi. Giám đốc có ấn tượng khá tốt về tôi, bảo ngày mai tôi đi làm chính thức luôn." }
+      ],
+      "important_notes": "KHÔNG dùng 通过 làm danh từ (không nói '事情的通过').",
+      "common_errors": "Nhầm lẫn giữa 通过 và 经过 khi chỉ quá trình sự việc hoặc làm danh từ.",
+      "comparison": "Xem chi tiết bảng So sánh '通过—经过' ngay bên dưới.",
+      "mini_practice": [
+        { "prompt": "《人与自然》这个节目一直很受欢迎，______________________________。（通过）", "sample_answer": "通过这个节目，人们了解了很多关于自然的知识。", "explanation": "Dùng giới từ 通过 chỉ phương tiện giúp người xem tiếp thu kiến thức." },
+        { "prompt": "A: 这次HSK考试你考得怎么样？  B: ______________________________。（通过）", "sample_answer": "我顺利通过考试了！", "explanation": "Dùng động từ 通过 mang nghĩa 'đỗ, vượt qua kỳ thi'." }
+      ]
+    },
+    {
+      "title": "可是",
+      "formula": "(虽然) + Vế 1，可是 + Vế 2 (Chuyển ý)",
+      "meaning": "Nhưng, nhưng mà.",
+      "usage": "Liên từ 可是 đặt ở vế sau của câu phức để biểu thị sự chuyển ý; vế trước thường có 虽然 kết hợp cùng.",
+      "context": "Dùng rất tự nhiên trong giao tiếp hằng ngày cũng như bài văn kể chuyện.",
+      "examples": [
+        { "chinese": "A: 你怎么又想换工作了，这儿的收入不是挺高的吗？ B: 虽然收入高，可是经常要加班，很少有时间和家人在一起。", "pinyin": "A: Nǐ zěnme yòu xiǎng huàn gōngzuò le, zhèr de shōurù bú shì tǐng gāo de ma? B: Suīrán shōurù gāo, kěshì jīngcháng yào jiābān, hěn shǎo yǒu shíjiān hé jiārén zài yìqǐ.", "vietnamese": "A: Sao anh lại muốn đổi việc nữa rồi, thu nhập ở đây chẳng phải khá cao sao? B: Tuy thu nhập cao, nhưng thường xuyên phải tăng ca, rất ít thời gian ở bên gia đình." },
+        { "chinese": "小时候，大家都说我像我妈，尤其是性格。可是长大后，他们说我更像爸爸。", "pinyin": "Xiǎoshíhou, dàjiā dōu shuō wǒ xiàng wǒ mā, yóuqí shì xìnggé. Kěshì zhǎngdà hòu, tāmen shuō wǒ gèng xiàng bàba.", "vietnamese": "Hồi nhỏ ai cũng nói tôi giống mẹ, nhất là tính cách. Nhưng lớn lên rồi họ lại bảo tôi giống bố hơn." },
+        { "chinese": "当时她的父母和亲戚都不支持她，可是她坚持自己的选择，现在终于向所有人证明了她的选择是正确的。", "pinyin": "Dāngshí tā de fùmǔ hé qīnqi dōu bù zhīchí tā, kěshì tā jiānchí zìjǐ de xuǎnzé, xiànzài zhōngyú xiàng suǒyǒu rén zhèngmíngle tā de xuǎnzé shì zhèngquè de.", "vietnamese": "Lúc đó bố mẹ và họ hàng cô ấy đều không ủng hộ, nhưng cô ấy kiên trì lựa chọn của mình, giờ cuối cùng đã chứng minh với mọi người lựa chọn của cô là đúng." }
+      ],
+      "important_notes": "Có thể bỏ 虽然 ở vế đầu mà chỉ dùng 可是 ở vế sau.",
+      "common_errors": "Không dùng đồng thời cả 可是 và 但是 ngay cạnh nhau.",
+      "comparison": "Gần nghĩa với 但是 (ngữ khí chuyển ý mạnh, trang trọng) và 不过 (uyển chuyển, nhẹ nhàng hơn).",
+      "mini_practice": [
+        { "prompt": "他虽然写得比较慢，______________________________。（可是）", "sample_answer": "可是写得非常认真/好看。", "explanation": "Vế sau dùng 可是 đảo ngược sắc thái từ hạn chế sang ưu điểm." }
+      ]
+    },
+    {
+      "title": "结果",
+      "formula": "(1) Danh từ: ……的结果  |  (2) Liên từ: Vế 1 (Nguyên nhân)，结果(，) + Vế 2 (Kết quả thực tế)",
+      "meaning": "(1) Kết quả; (2) Kết quả là, rốt cuộc.",
+      "usage": "结果 vừa làm danh từ chỉ trạng thái cuối cùng của sự việc, vừa làm liên từ đứng đầu vế sau để biểu thị quan hệ nhân quả (thuật lại kết quả thực tế phát sinh từ vế trước).",
+      "context": "Khi làm liên từ, 结果 thường dẫn ra tình huống đã xảy ra (đôi khi bất ngờ hoặc trái dự tính).",
+      "examples": [
+        { "chinese": "小张，你这份计划书写得不错，就按照这个计划去做市场调查吧。下个月把调查结果交上来。", "pinyin": "Xiǎo Zhāng, nǐ zhè fèn jìhuàshū xiě de búcuò, jiù ànzhào zhège jìhuà qù zuò shìchǎng diàochá ba. Xià ge yuè bǎ diàochá jiéguǒ jiāo shanglai.", "vietnamese": "Tiểu Trương, bản kế hoạch này cậu viết khá tốt, cứ theo kế hoạch này mà làm khảo sát thị trường nhé. Tháng sau nộp kết quả khảo sát lên." },
+        { "chinese": "如果你想做什么事情，那就勇敢地去做，不要担心结果，不要考虑会不会失败。", "pinyin": "Rúguǒ nǐ xiǎng zuò shénme shìqing, nà jiù yǒnggǎn de qù zuò, búyào dān xīn jiéguǒ, búyào kǎolǜ huì bu huì shībài.", "vietnamese": "Nếu bạn muốn làm việc gì thì cứ dũng cảm mà làm, đừng lo lắng kết quả, đừng băn khoăn xem có thất bại hay không." },
+        { "chinese": "我妻子想减肥，所以她每天早上都去骑马。结果马竟然在一个月之内瘦了二十斤。", "pinyin": "Wǒ qīzi xiǎng jiǎnféi, suǒyǐ tā měi tiān zǎoshang dōu qù qímǎ. Jiéguǒ mǎ jìngrán zài yí ge yuè zhīnèi shòule èrshí jīn.", "vietnamese": "Vợ tôi muốn giảm cân nên sáng nào cũng đi cưỡi ngựa. Kết quả là con ngựa lại bất ngờ gầy đi hai mươi cân trong một tháng." },
+        { "chinese": "有些人爱说“差不多”。例如，每天的工作都是完成得差不多，结果，积累下来，就变成差很多了。", "pinyin": "Yǒuxiē rén ài shuō “chàbuduō”. Lìrú, měi tiān de gōngzuò dōu shì wánchéng de chàbuduō, jiéguǒ, jīlěi xialai, jiù biànchéng chà hěn duō le.", "vietnamese": "Có người thích nói “xấp xỉ/tạm được”. Ví dụ công việc mỗi ngày đều làm tạm tạm, kết quả là tích lũy lại liền biến thành kém rất nhiều." }
+      ],
+      "important_notes": "Liên từ 结果 chỉ dùng thuật lại sự việc đã/đang xảy ra hoặc quy luật tất yếu, không dùng để suy đoán kế hoạch như 所以.",
+      "common_errors": "Nhầm lẫn giữa 结果 (kết quả nói chung) và 效果 (hiệu quả tốt xấu của một biện pháp).",
+      "comparison": "所以 mang tính suy luận logic (có thể dùng cho lời khuyên/dự định tương lai); liên từ 结果 thiên về kể lại hậu quả thực tế đã xảy ra.",
+      "mini_practice": [
+        { "prompt": "没有人能随随便便成功，成功都是______________________________。（结果）", "sample_answer": "辛苦努力的结果", "explanation": "Dùng danh từ 结果 sau định ngữ '辛苦努力的'." },
+        { "prompt": "昨天晚上我一直工作到很晚才睡，______________________________。（结果）", "sample_answer": "结果今天早上迟到了", "explanation": "Dùng liên từ 结果 dẫn ra hậu quả thực tế xảy ra sáng hôm nay." }
+      ]
+    },
+    {
+      "title": "上 (Động từ chỉ đạt đến số lượng)",
+      "formula": "上 + Số lượng ước chừng lớn (上百年 / 上千种 / 上万人 / 成千上万)",
+      "meaning": "Đạt đến, đủ tới, lên tới (một số lượng hoặc mức độ nhất định).",
+      "usage": "Động từ 上 đặt trực tiếp trước cụm số lượng lớn (百, 千, 万...) mang nghĩa 'lên đến, đạt tới mức...'.",
+      "context": "Thường dùng để nhấn mạnh số lượng lớn, quy mô rộng hoặc thời gian dài lâu.",
+      "examples": [
+        { "chinese": "这个城市的地铁已经有上百年的历史了。", "pinyin": "Zhège chéngshì de dìtiě yǐjīng yǒu shàng bǎi nián de lìshǐ le.", "vietnamese": "Tàu điện ngầm của thành phố này đã có lịch sử lên tới hàng trăm năm rồi." },
+        { "chinese": "每年有成千上万的高中毕业生参加艺术考试。", "pinyin": "Měi nián yǒu chéngqiān-shàngwàn de gāozhōng bìyèshēng cānjiā yìshù kǎoshì.", "vietnamese": "Mỗi năm có hàng nghìn hàng vạn học sinh tốt nghiệp trung học phổ thông tham gia kỳ thi nghệ thuật." },
+        { "chinese": "爱迪生就是在找了上千种材料后才找到了能点亮电灯的材料。", "pinyin": "Àidíshēng jiù shì zài zhǎole shàng qiān zhǒng cáiliào hòu cái zhǎodàole néng diǎnliàng diàndēng de cáiliào.", "vietnamese": "Edison chính là sau khi tìm tới hàng nghìn loại vật liệu mới tìm được vật liệu có thể thắp sáng bóng đèn điện." }
+      ],
+      "important_notes": "Ở đây 上 đọc thanh 4 (shàng) với vai trò động từ, hoàn toàn khác với phương vị từ thanh nhẹ (shang) học ở Bài 1 ('在……上').",
+      "common_errors": "Không thêm '一' vào giữa 上 và 百/千/万 (Nói: 上百人, 上千种 — không nói '上一百人').",
+      "comparison": "Gần nghĩa với 达到 (đạt tới), nhưng 上 + 百/千/万 ngắn gọn và chỉ con số ước lượng lớn.",
+      "mini_practice": [
+        { "prompt": "这件事发生在1914年，______________________________。（上）", "sample_answer": "到现在已经有上百年的历史了。", "explanation": "Dùng 上百年 để diễn đạt khoảng thời gian đạt tới hàng trăm năm." },
+        { "prompt": "这个电影很有名，______________________________。（上）", "sample_answer": "有上百万人看过这部电影 / 吸引了成千上万的观众。", "explanation": "Dùng 上 + số lượng lớn để nhấn mạnh độ nổi tiếng." }
+      ]
+    }
+  ],
+  "comparison_section": {
+    "label": "比一比 So sánh",
+    "pair": "通过 — 经过",
+    "term_a": "通过 (tōngguò)",
+    "term_b": "经过 (jīngguò)",
+    "similarity": "Cả hai đều có thể biểu thị dùng người hoặc sự vật làm phương tiện, cách thức để đạt được mục đích nào đó. VD: 通过/经过大家的努力，公司的生意越做越大。",
+    "differences": [
+      { "criterion": "Từ loại & Trọng tâm nghĩa", "a": "Là GIỚI TỪ, nhấn mạnh phương pháp, cách thức, phương tiện (希望通过这次活动引起大家的兴趣).", "b": "Là ĐỘNG TỪ, nhấn mạnh quá trình diễn ra của sự việc (经过一次次失败之后，他终于成功了)." },
+      { "criterion": "Khi làm động từ chỉ di chuyển", "a": "Đi XUYÊN QUA từ đầu này/phía này sang đầu kia/phía kia (这里正在修路，汽车无法通过).", "b": "Chỉ đi NGANG QUA nơi nào đó, không mang nghĩa đi xuyên từ đầu này sang đầu kia (我正好经过这儿，顺便过来看看你)." },
+      { "criterion": "Chức năng danh từ", "a": "KHÔNG thể làm danh từ.", "b": "CÓ THỂ làm danh từ chỉ diễn biến, quá trình sự việc (小王把事情的经过告诉我了)." }
+    ]
+  },
+  "texts": [
+    {
+      "id": "t1", "title_zh": "王静和孙月聊孙月减肥的事情", "title_vi": "Vương Tịnh và Tôn Nguyệt nói chuyện về việc Tôn Nguyệt giảm cân",
+      "lines": [
+        { "speaker": "王静", "chinese": "怎么又买了这么多饼干和巧克力？难道你不减肥了？", "pinyin": "Zěnme yòu mǎile zhème duō bǐnggān hé qiǎokèlì? Nándào nǐ bù jiǎn féi le?", "vietnamese": "Sao lại mua nhiều bánh quy và sôcôla thế này? Lẽ nào cậu không giảm cân nữa à?" },
+        { "speaker": "孙月", "chinese": "减了一个月都没瘦下来，我实在没有信心了。", "pinyin": "Jiǎnle yí ge yuè dōu méi shòu xialai, wǒ shízài méiyǒu xìnxīn le.", "vietnamese": "Giảm suốt một tháng rồi mà chẳng gầy đi chút nào, mình thực sự hết tự tin rồi." },
+        { "speaker": "王静", "chinese": "如果你想减肥，就得少吃东西，而且要多运动。", "pinyin": "Rúguǒ nǐ xiǎng jiǎn féi, jiù děi shǎo chī dōngxi, érqiě yào duō yùndòng.", "vietnamese": "Nếu cậu muốn giảm cân thì phải ăn ít đi, hơn nữa phải vận động nhiều." },
+        { "speaker": "孙月", "chinese": "我就是这么做的，但这一个月下来，我只轻了一公斤。", "pinyin": "Wǒ jiù shì zhème zuò de, dàn zhè yí ge yuè xialai, wǒ zhǐ qīngle yì gōngjīn.", "vietnamese": "Mình làm đúng như vậy đấy, nhưng cả tháng trời trôi qua, mình chỉ nhẹ đi có một ký." },
+        { "speaker": "王静", "chinese": "一个月太短了。要想减肥成功，只能坚持，才会慢慢有效果。", "pinyin": "Yí ge yuè tài duǎn le. Yào xiǎng jiǎn féi chénggōng, zhǐ néng jiānchí, cái huì mànmàn yǒu xiàoguǒ.", "vietnamese": "Một tháng ngắn quá. Muốn giảm cân thành công thì chỉ có thể kiên trì, mới dần dần thấy hiệu quả." },
+        { "speaker": "孙月", "chinese": "我本来已经打算放弃了，但是你刚才的话让我改变了主意。这些饼干和巧克力送给你了。", "pinyin": "Wǒ běnlái yǐjīng dǎsuàn fàngqì le, dànshì nǐ gāngcái de huà ràng wǒ gǎibiànle zhǔyi. Zhèxiē bǐnggān hé qiǎokèlì sònggěi nǐ le.", "vietnamese": "Vốn dĩ mình đã định bỏ cuộc rồi, nhưng lời cậu vừa nói khiến mình đổi ý. Chỗ bánh quy và sôcôla này tặng hết cho cậu đấy." }
+      ]
+    },
+    {
+      "id": "t2", "title_zh": "李进和张远聊张远的成功经历", "title_vi": "Lý Tiến và Trương Viễn trò chuyện về quá trình thành công của Trương Viễn",
+      "lines": [
+        { "speaker": "李进", "chinese": "你网球打得真好，还得过那么多国际大奖！每次看你比赛，感觉你轻轻松松就赢了。", "pinyin": "Nǐ wǎngqiú dǎ de zhēn hǎo, hái déguo nàme duō guójì dà jiǎng! Měi cì kàn nǐ bǐsài, gǎnjué nǐ qīngqīngsōngsōng jiù yíng le.", "vietnamese": "Cậu đánh quần vợt giỏi thật đấy, lại còn từng giành bao nhiêu giải thưởng lớn quốc tế! Mỗi lần xem cậu thi đấu, cảm giác cậu thắng thật nhẹ nhàng." },
+        { "speaker": "张远", "chinese": "哪里啊！那是你没看到我辛苦练习的一面，没有人随随便便就能成功的。", "pinyin": "Nǎli a! Nà shì nǐ méi kàndào wǒ xīnkǔ liànxí de yí miàn, méiyǒu rén suísuíbiànbiàn jiù néng chénggōng de.", "vietnamese": "Đâu có! Đó là cậu chưa thấy lúc mình luyện tập vất vả thôi, chẳng ai tùy tiện qua loa mà thành công được đâu." },
+        { "speaker": "李进", "chinese": "我从小也对网球感兴趣，但是到现在还是打得不怎么样。", "pinyin": "Wǒ cóngxiǎo yě duì wǎngqiú gǎn xìngqù, dànshì dào xiànzài hái shì dǎ de bù zěnmeyàng.", "vietnamese": "Từ nhỏ mình cũng thích quần vợt, nhưng đến tận bây giờ vẫn đánh chẳng ra sao." },
+        { "speaker": "张远", "chinese": "你知道吗？不管春夏秋冬，我练球从来没有休息过一天。", "pinyin": "Nǐ zhīdào ma? Bùguǎn chūn xià qiū dōng, wǒ liàn qiú cónglái méiyǒu xiūxiguo yì tiān.", "vietnamese": "Cậu biết không? Bất kể xuân hạ thu đông, mình luyện bóng từ trước tới nay chưa từng nghỉ một ngày nào." },
+        { "speaker": "李进", "chinese": "真是不容易啊！看来我只看到了你成功时获得的鲜花，却没注意到你成功前流下的汗水。", "pinyin": "Zhēn shì bù róngyì a! Kànlái wǒ zhǐ kàndàole nǐ chénggōng shí huòdé de xiānhuā, què méi zhùyì dào nǐ chénggōng qián liúxia de hànshuǐ.", "vietnamese": "Thật sự chẳng dễ dàng gì! Xem ra mình chỉ thấy hoa tươi cậu nhận được lúc thành công, mà không để ý đến những giọt mồ hôi cậu đổ xuống trước đó." },
+        { "speaker": "张远", "chinese": "任何成功都要通过努力才能得到。只要你坚持练习，我相信你也会越打越好的。", "pinyin": "Rènhé chénggōng dōu yào tōngguò nǔlì cái néng dédào. Zhǐyào nǐ jiānchí liànxí, wǒ xiāngxìn nǐ yě huì yuè dǎ yuè hǎo de.", "vietnamese": "Bất kỳ thành công nào cũng phải thông qua nỗ lực mới có thể đạt được. Chỉ cần cậu kiên trì luyện tập, mình tin cậu cũng sẽ đánh ngày càng giỏi." }
+      ]
+    },
+    {
+      "id": "t3", "title_zh": "小林和小李谈王红的成功经历", "title_vi": "Tiểu Lâm và Tiểu Lý nói về quá trình thành công của Vương Hồng",
+      "lines": [
+        { "speaker": "小林", "chinese": "你还记得王红吗？我在报纸上看到一篇关于她的新闻，她现在已经是一个有名的作家了。", "pinyin": "Nǐ hái jìde Wáng Hóng ma? Wǒ zài bàozhǐ shang kàndào yì piān guānyú tā de xīnwén, tā xiànzài yǐjīng shì yí ge yǒumíng de zuòjiā le.", "vietnamese": "Cậu còn nhớ Vương Hồng không? Mình thấy trên báo có một bài viết về cô ấy, giờ cô ấy đã là một nhà văn nổi tiếng rồi." },
+        { "speaker": "小李", "chinese": "听说她毕业后放弃了律师的工作，开始专门写小说，没想到她竟然成功了。", "pinyin": "Tīngshuō tā bì yè hòu fàngqìle lǜshī de gōngzuò, kāishǐ zhuānmén xiě xiǎoshuō, méi xiǎngdào tā jìngrán chénggōng le.", "vietnamese": "Nghe nói sau khi tốt nghiệp cô ấy từ bỏ công việc luật sư để chuyên tâm viết tiểu thuyết, không ngờ cô ấy lại thành công thật." },
+        { "speaker": "小林", "chinese": "当时她的父母和亲戚都不支持她，可是她坚持自己的选择，现在终于向所有人证明了她的选择是正确的。", "pinyin": "Dāngshí tā de fùmǔ hé qīnqi dōu bù zhīchí tā, kěshì tā jiānchí zìjǐ de xuǎnzé, xiànzài zhōngyú xiàng suǒyǒu rén zhèngmíngle tā de xuǎnzé shì zhèngquè de.", "vietnamese": "Lúc đó bố mẹ và họ hàng cô ấy đều không ủng hộ, nhưng cô ấy vẫn kiên trì với lựa chọn của mình, giờ cuối cùng đã chứng minh với tất cả mọi người rằng lựa chọn của cô là đúng đắn." },
+        { "speaker": "小李", "chinese": "看来为了自己的理想，放弃一些东西也是值得的。", "pinyin": "Kànlái wèile zìjǐ de lǐxiǎng, fàngqì yìxiē dōngxi yě shì zhídé de.", "vietnamese": "Xem ra vì lý tưởng của bản thân mà từ bỏ một vài thứ cũng rất xứng đáng." },
+        { "speaker": "小林", "chinese": "一个人只有两只手，不可能得到所有想要的东西，所以有时候放弃是一种聪明的选择。", "pinyin": "Yí ge rén zhǐyǒu liǎng zhī shǒu, bù kěnéng dédào suǒyǒu xiǎng yào de dōngxi, suǒyǐ yǒu shíhou fàngqì shì yì zhǒng cōngming de xuǎnzé.", "vietnamese": "Một người chỉ có hai bàn tay, không thể có được tất cả những thứ mình muốn, nên đôi khi từ bỏ là một sự lựa chọn thông minh." },
+        { "speaker": "小李", "chinese": "是啊，只有学会放弃，才能把自己的能力用到最该做的事情上，最后获得成功。", "pinyin": "Shì a, zhǐyǒu xuéhuì fàngqì, cái néng bǎ zìjǐ de nénglì yòngdào zuì gāi zuò de shìqing shang, zuìhòu huòdé chénggōng.", "vietnamese": "Đúng vậy, chỉ khi học được cách từ bỏ mới có thể dồn năng lực của mình vào việc đáng làm nhất, cuối cùng gặt hái thành công." }
+      ]
+    },
+    {
+      "id": "t4", "title_zh": "重视过程，勇敢去尝试", "title_vi": "Coi trọng quá trình, dũng cảm thử sức",
+      "lines": [
+        { "speaker": "", "chinese": "如果你想做什么事情，那就勇敢地去做，不要担心结果，不要考虑会不会失败。要是太看重结果，失败就会给人们带来很多烦恼。", "pinyin": "Rúguǒ nǐ xiǎng zuò shénme shìqing, nà jiù yǒnggǎn de qù zuò, búyào dān xīn jiéguǒ, búyào kǎolǜ huì bu huì shībài. Yàoshi tài kànzhòng jiéguǒ, shībài jiù huì gěi rénmen dàilai hěn duō fánnǎo.", "vietnamese": "Nếu bạn muốn làm việc gì đó thì cứ dũng cảm mà làm, đừng lo lắng kết quả, đừng băn khoăn xem có thất bại không. Nếu quá coi trọng kết quả, thất bại sẽ mang đến cho người ta rất nhiều phiền muộn." },
+        { "speaker": "", "chinese": "我们应该把注意力放在做事情的过程上，这样你会在做的过程中发现解决问题的快乐，这是其他任何东西都给不了的。", "pinyin": "Wǒmen yīnggāi bǎ zhùyìlì fàngzài zuò shìqing de guòchéng shang, zhèyàng nǐ huì zài zuò de guòchéng zhōng fāxiàn jiějué wèntí de kuàilè, zhè shì qítā rènhé dōngxi dōu gěi bu liǎo de.", "vietnamese": "Chúng ta nên đặt sự chú ý vào quá trình làm việc, như vậy bạn sẽ phát hiện ra niềm vui giải quyết vấn đề trong quá trình làm, đây là điều không thứ gì khác có thể mang lại." },
+        { "speaker": "", "chinese": "即使最后失败了也没有关系，因为至少你已经努力过，而且我们还可以从失败中总结出有用的经验，有了这些积累，成功自然离我们越来越近。", "pinyin": "Jíshǐ zuìhòu shībàile yě méiyǒu guānxi, yīnwèi zhìshǎo nǐ yǐjīng nǔlìguo, érqiě wǒmen hái kěyǐ cóng shībài zhōng zǒngjié chū yǒuyòng de jīngyàn, yǒule zhèxiē jīlěi, chénggōng zìrán lí wǒmen yuè lái yuè jìn.", "vietnamese": "Cho dù cuối cùng thất bại cũng không sao, vì ít nhất bạn đã từng nỗ lực rồi, hơn nữa chúng ta còn có thể đúc kết kinh nghiệm hữu ích từ thất bại, có những tích lũy này rồi, thành công tự nhiên sẽ ngày càng đến gần chúng ta hơn." }
+      ]
+    },
+    {
+      "id": "t5", "title_zh": "阳光总在风雨后", "title_vi": "Ánh nắng luôn đến sau cơn mưa",
+      "lines": [
+        { "speaker": "", "chinese": "每一个人都希望成功，可是很多时候，在成功之前会遇到很多困难。有些人遇到困难就放弃，而有些人遇到困难却想办法解决它。对困难的态度不同，结果也是不一样的。", "pinyin": "Měi yí ge rén dōu xīwàng chénggōng, kěshì hěn duō shíhou, zài chénggōng zhīqián huì yùdào hěn duō kùnnan. Yǒuxiē rén yùdào kùnnan jiù fàngqì, ér yǒuxiē rén yùdào kùnnan què xiǎng bànfǎ jiějué tā. Duì kùnnan de tàidù bù tóng, jiéguǒ yě shì bù yíyàng de.", "vietnamese": "Mỗi người đều mong muốn thành công, nhưng nhiều khi trước khi thành công sẽ gặp rất nhiều khó khăn. Có người gặp khó khăn liền bỏ cuộc, còn có người gặp khó khăn lại tìm cách giải quyết. Thái độ trước khó khăn khác nhau thì kết quả cũng không giống nhau." },
+        { "speaker": "", "chinese": "爱迪生就是在找了上千种材料后才找到了能点亮电灯的材料。取得成功的人往往都经历过许多失败，他们和普通人的区别就是他们都坚持了下来。", "pinyin": "Àidíshēng jiù shì zài zhǎole shàng qiān zhǒng cáiliào hòu cái zhǎodàole néng diǎnliàng diàndēng de cáiliào. Qǔdé chénggōng de rén wǎngwǎng dōu jīnglìguo xǔduō shībài, tāmen hé pǔtōng rén de qūbié jiù shì tāmen dōu jiānchíle xialai.", "vietnamese": "Edison chính là sau khi tìm hàng nghìn loại vật liệu mới tìm được chất liệu có thể thắp sáng bóng đèn điện. Những người đạt được thành công thường đều trải qua rất nhiều thất bại, sự khác biệt giữa họ và người bình thường chính là họ đều đã kiên trì đến cùng." },
+        { "speaker": "", "chinese": "所以就算只有1%的希望，我们也要做出100%的努力。困难只是暂时的，“阳光总在风雨后”，只有我们勇敢地面对困难，才能有希望取得成功。", "pinyin": "Suǒyǐ jiù suàn zhǐyǒu bǎi fēn zhī yī de xīwàng, wǒmen yě yào zuòchū bǎi fēn zhī bǎi de nǔlì. Kùnnan zhǐ shì zànshí de, “Yángguāng zǒng zài fēngyǔ hòu”, zhǐyǒu wǒmen yǒnggǎn de miànduì kùnnan, cái néng yǒu xīwàng qǔdé chénggōng.", "vietnamese": "Vì thế cho dù chỉ có 1% hy vọng, chúng ta cũng phải bỏ ra 100% nỗ lực. Khó khăn chỉ là tạm thời, “ánh nắng luôn đến sau cơn mưa”, chỉ khi chúng ta dũng cảm đối mặt với khó khăn mới có hy vọng đạt được thành công." }
+      ]
+    }
+  ],
+  "reading_questions": [
+    { "question_zh": "孙月买了些什么？她为什么不想减肥了？", "question_vi": "Tôn Nguyệt đã mua những gì? Vì sao cô ấy không muốn giảm cân nữa?", "answer_zh": "她买了很多饼干和巧克力。因为她减了一个月只轻了一公斤，没瘦下来，所以没有信心，打算放弃了。", "answer_vi": "Cô ấy mua rất nhiều bánh quy và sôcôla. Vì giảm suốt một tháng mà chỉ nhẹ đi một cân, chưa gầy được nên cô mất tự tin và định bỏ cuộc." },
+    { "question_zh": "怎样减肥才能有效果？", "question_vi": "Giảm cân thế nào mới có hiệu quả?", "answer_zh": "要少吃东西、多运动，而且必须坚持下去，才会慢慢有效果。", "answer_vi": "Phải ăn ít đi, vận động nhiều hơn và phải kiên trì bền bỉ thì mới dần có hiệu quả." },
+    { "question_zh": "张远的网球为什么打得那么好？", "question_vi": "Vì sao Trương Viễn đánh quần vợt giỏi đến vậy?", "answer_zh": "因为他非常辛苦地练习，不管春夏秋冬，从来没有休息过一天。", "answer_vi": "Vì anh ấy luyện tập vô cùng chăm chỉ, bất kể xuân hạ thu đông chưa từng nghỉ một ngày nào." },
+    { "question_zh": "为什么说没有人能随随便便成功？", "question_vi": "Tại sao nói không ai có thể tùy tiện dễ dàng mà thành công được?", "answer_zh": "因为任何成功背后都有辛苦的汗水，都要通过努力和坚持才能得到。", "answer_vi": "Vì đằng sau bất kỳ thành công nào cũng có mồ hôi vất vả, đều phải thông qua nỗ lực và sự kiên trì mới đạt được." },
+    { "question_zh": "王红是干什么的？她是怎样获得成功的？", "question_vi": "Vương Hồng làm nghề gì? Cô ấy đã đạt được thành công như thế nào?", "answer_zh": "她现在是一个有名的作家。毕业后她放弃了律师的工作，专门写小说，面对家人不支持也坚持自己的选择，最后获得了成功。", "answer_vi": "Hiện tại cô ấy là một nhà văn nổi tiếng. Sau khi tốt nghiệp cô bỏ nghề luật sư để chuyên viết tiểu thuyết, kiên trì với lựa chọn của mình dù gia đình không ủng hộ và cuối cùng đã thành công." },
+    { "question_zh": "为什么说有时候放弃是一种聪明的选择？", "question_vi": "Vì sao nói đôi khi từ bỏ là một sự lựa chọn thông minh?", "answer_zh": "因为一个人不可能得到所有想要的东西，只有学会放弃，才能把能力用到最该做的事情上，最终获得成功。", "answer_vi": "Vì một người không thể có tất cả những gì mình muốn, chỉ khi biết từ bỏ mới dồn được năng lực vào việc đáng làm nhất để thành công." },
+    { "question_zh": "过程和结果，哪个更重要？要是太看重结果会怎么样？", "question_vi": "Giữa quá trình và kết quả, cái nào quan trọng hơn? Nếu quá coi trọng kết quả thì sẽ thế nào?", "answer_zh": "过程更重要。要是太看重结果，一旦失败就会给人们带来很多烦恼。", "answer_vi": "Quá trình quan trọng hơn. Nếu quá đặt nặng kết quả, khi thất bại sẽ mang lại rất nhiều phiền muộn." },
+    { "question_zh": "为什么说失败了也没关系？", "question_vi": "Tại sao nói dù thất bại cũng không sao?", "answer_zh": "因为至少已经努力过，而且还能从失败中总结出有用的经验，积累下来离成功就会越来越近。", "answer_vi": "Vì ít nhất ta đã nỗ lực rồi, hơn nữa còn rút ra được kinh nghiệm hữu ích từ thất bại, tích lũy dần sẽ ngày càng gần thành công." },
+    { "question_zh": "人们对困难的态度有什么不同？在这一点上，取得成功的人和普通人的区别是什么？", "question_vi": "Thái độ của mọi người trước khó khăn khác nhau thế nào? Ở điểm này, sự khác biệt giữa người thành công và người bình thường là gì?", "answer_zh": "有些人遇到困难就放弃，有些人却想办法解决。取得成功的人和普通人的区别就是他们经历了许多失败后依然坚持了下来。", "answer_vi": "Có người gặp khó khăn thì bỏ cuộc, có người lại tìm cách giải quyết. Điểm khác biệt của người thành công với người thường là sau nhiều thất bại họ vẫn kiên trì đến cùng." },
+    { "question_zh": "爱迪生是怎样成功发明电灯的？“阳光总在风雨后”是什么意思？", "question_vi": "Edison đã phát minh ra bóng đèn điện thành công như thế nào? “Ánh nắng luôn đến sau cơn mưa” có nghĩa là gì?", "answer_zh": "爱迪生找了上千种材料后才找到能点亮电灯的材料。“阳光总在风雨后”意思是困难只是暂时的，只要勇敢面对并坚持下去，就一定能迎来成功。", "answer_vi": "Edison đã tìm hàng nghìn loại vật liệu mới tìm ra chất liệu thắp sáng đèn điện. Câu “Ánh nắng luôn đến sau cơn mưa” có nghĩa là khó khăn chỉ tạm thời, chỉ cần dũng cảm đối mặt và kiên trì thì nhất định sẽ đón được thành công." }
+  ],
+  "exercises": [
+    {
+      "id": "h4s9_ex1", "type": "meaning_mc", "level": "Nhận biết", "origin_tag": "Bài 9 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Trong câu “你研究生考试考得怎么样？— 数学可能考得不太理想” (Bài tập tr.121), từ “理想” mang từ loại và nghĩa gì?",
+      "options": ["Tính từ: lý tưởng, vừa ý, như mong đợi", "Danh từ: ước mơ, lý tưởng sống", "Động từ: suy nghĩ, tưởng tượng", "Phó từ: rất tốt"],
+      "answer": "Tính từ: lý tưởng, vừa ý, như mong đợi",
+      "explanation": "Đứng sau phó từ mức độ '不太' làm bổ ngữ trình độ, 理想 là tính từ mang nghĩa 'vừa ý, như kỳ vọng'.",
+      "review_tip": "Ôn cả 2 từ loại (danh từ & tính từ) của #19 理想."
+    },
+    {
+      "id": "h4s9_ex2", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.120", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ thích hợp điền vào chỗ trống: “我住的地方离地铁站有点儿远，走路______要三十分钟。”",
+      "options": ["至少", "暂时", "过程", "区别"],
+      "answer": "至少",
+      "explanation": "至少要三十分钟 = ít nhất cũng phải mất ba mươi phút.",
+      "review_tip": "Ôn phó từ #24 至少."
+    },
+    {
+      "id": "h4s9_ex3", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.120", "mistake_category": "Từ vựng",
+      "prompt": "Điền từ đúng: “A: 你哥不是说三点到吗？都过去半个小时了，怎么还没出来？ B: 他还得去______行李箱，您别担心。”",
+      "options": ["取", "放弃", "得", "汗"],
+      "answer": "取",
+      "explanation": "取行李箱 = đi lấy vali hành lý (nghĩa phổ biến của động từ #26 取 trong đời sống).",
+      "review_tip": "Ôn cả 2 nghĩa của #26 取 (取得成功 vs 取行李/取钱)."
+    },
+    {
+      "id": "h4s9_ex4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "比一比 tr.115", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ ĐÚNG cho câu: “我不了解这件事情的______，你问问其他人吧。”",
+      "options": ["经过", "通过", "Cả 通过 và 经过 đều đúng", "过程"],
+      "answer": "经过",
+      "explanation": "Chỗ trống cần một DANH TỪ chỉ diễn biến sự việc ('这件事情的……'). 经过 có thể làm danh từ, còn 通过 KHÔNG có chức năng danh từ!",
+      "review_tip": "Xem lại Điểm khác nhau #3 của bảng So sánh 通过—经过 (tr.115)."
+    },
+    {
+      "id": "h4s9_ex5", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "比一比 tr.115", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ ĐÚNG cho câu: “这是保修卡，遇到什么问题，您可以______上面的电话联系我们。”",
+      "options": ["通过", "经过", "Cả 通过 và 经过 đều đúng", "难道"],
+      "answer": "通过",
+      "explanation": "Nhấn mạnh phương tiện/cách thức liên lạc (thông qua số điện thoại trên phiếu bảo hành) → chỉ dùng giới từ 通过, không dùng 经过.",
+      "review_tip": "Xem lại Điểm khác nhau #1 của bảng So sánh 通过—经过."
+    },
+    {
+      "id": "h4s9_ex6", "type": "context_mc", "level": "Phân biệt", "origin_tag": "同字词 tr.121", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ nhóm đồng tự '果' phù hợp: “水果减肥法是指通过每天只吃水果而不再吃别的东西来减肥的一种方法。这样减肥虽然有一定的______，却很不健康。”",
+      "options": ["效果", "结果", "如果", "水果"],
+      "answer": "效果",
+      "explanation": "一定的效果 = hiệu quả nhất định (nói về tác dụng thực tế của một phương pháp giảm cân).",
+      "review_tip": "Ôn nhóm đồng tự 果 (如果 / 结果 / 效果) ở tr.121."
+    },
+    {
+      "id": "h4s9_ex7", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Bài 9 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Câu “难道你没看短信？” (Chú thích 1 tr.113) thực chất hàm ý điều gì?",
+      "options": [
+        "Người nói ngạc nhiên, hàm ý lẽ ra đối phương phải xem tin nhắn rồi",
+        "Người nói tin rằng đối phương chắc chắn không cần xem tin nhắn",
+        "Người nói hỏi thăm tin nhắn đó viết nội dung gì",
+        "Người nói khuyên đối phương đừng xem tin nhắn"
+      ],
+      "answer": "Người nói ngạc nhiên, hàm ý lẽ ra đối phương phải xem tin nhắn rồi",
+      "explanation": "Quy tắc 难道: dùng trong câu hỏi tu từ phủ định ('没看') thì biểu thị ý khẳng định ('lẽ ra phải xem rồi chứ!').",
+      "review_tip": "Ôn Chú thích 1 难道 (khẳng định ↔ phủ định)."
+    },
+    {
+      "id": "h4s9_ex8", "type": "error_fix", "level": "Vận dụng", "origin_tag": "Ôn tập Bài 8 & 9 (30%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Tìm lỗi sai và chọn cách sửa ĐÚNG cho câu: “这个城市的地铁已经有上一百年的历史了，而且每年游客往常都很多。”",
+      "options": [
+        "Sửa '上一百年' thành '上百年' (上 không đi kèm 一 trước 百/千/万) và dùng '往往' thay '往常' khi nêu quy luật chung.",
+        "Sửa '上百年' thành '在百年上'",
+        "Sửa '而且' thành '因此'",
+        "Câu trên hoàn toàn đúng"
+      ],
+      "answer": "Sửa '上一百年' thành '上百年' (上 không đi kèm 一 trước 百/千/万) và dùng '往往' thay '往常' khi nêu quy luật chung.",
+      "explanation": "Cấu trúc động từ 上 chỉ đạt đến số lượng lớn là 上百年 / 上千种 / 成千上万 (không chèn 一 vào giữa).",
+      "review_tip": "Ôn Chú thích 5 上 (Bài 9) và phó từ 往往 (Bài 8)."
+    },
+    {
+      "id": "h4s9_ex9", "type": "reorder", "level": "Vận dụng", "origin_tag": "Bài 9 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Sắp xếp các cụm từ sau thành câu hoàn chỉnh đúng ngữ pháp:",
+      "tokens": ["得到。", "才能", "任何成功", "努力", "都要通过"],
+      "answer": "任何成功都要通过努力才能得到。",
+      "explanation": "Chủ ngữ '任何成功' + '都要通过努力' (giới từ 通过 + phương tiện) + '才能得到' (kết quả).",
+      "review_tip": "Ôn cấu trúc 任何……都…… và giới từ 通过."
+    },
+    {
+      "id": "h4s9_ex10", "type": "reading_mc", "level": "Phân biệt", "origin_tag": "Bài khóa 4", "mistake_category": "Đọc hiểu",
+      "passage": "我们应该把注意力放在做事情的过程上，这样你会在做的过程中发现解决问题的快乐，这是其他任何东西都给不了的。即使最后失败了也没有关系，因为至少你已经努力过，而且我们还可以从失败中总结出有用的经验。",
+      "prompt": "Theo đoạn văn trên, tác giả khuyên chúng ta nên làm gì?",
+      "options": [
+        "Tập trung vào quá trình làm việc và biết rút kinh nghiệm từ thất bại",
+        "Chỉ làm những việc chắc chắn thành công",
+        "Đừng bao giờ quan tâm đến kinh nghiệm cũ",
+        "Nếu thấy khó khăn thì nên từ bỏ ngay lập tức"
+      ],
+      "answer": "Tập trung vào quá trình làm việc và biết rút kinh nghiệm từ thất bại",
+      "explanation": "Đoạn văn nhấn mạnh '把注意力放在做事情的过程上' và '从失败中总结出有用的经验'.",
+      "review_tip": "Ôn bài khóa 4 và các từ 过程, 总结, 至少."
+    },
+    {
+      "id": "h4s9_ex11", "type": "translate_zh_vi", "level": "Vận dụng", "origin_tag": "Dịch Trung – Việt", "mistake_category": "Dịch thuật",
+      "prompt": "Dịch sang tiếng Việt: “只有我们勇敢地面对困难，才能有希望取得成功。”",
+      "hint": "Chú ý cặp 只有……才……, 勇敢地面对 và 取得成功.",
+      "keywords": ["chỉ khi", "dũng cảm", "đối mặt", "khó khăn", "thành công"],
+      "answer": "Chỉ khi chúng ta dũng cảm đối mặt với khó khăn mới có hy vọng đạt được thành công.",
+      "explanation": "只有……才…… = chỉ khi... mới...; 勇敢地面对困难 = dũng cảm đối mặt khó khăn; 取得成功 = đạt được thành công.",
+      "review_tip": "Ôn câu kết bài khóa 5 và từ #20 勇敢, #26 取, #31 面对."
+    }
+  ]
+}

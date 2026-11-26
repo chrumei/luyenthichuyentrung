@@ -1,0 +1,1046 @@
+{
+  "id": "hsk4shang_l03",
+  "book_id": "hsk4shang",
+  "textbook": "HSK 4 上",
+  "lesson_number": 3,
+  "title_zh": "经理对我印象不错",
+  "title_vi": "Giám đốc có ấn tượng rất tốt về tôi",
+  "pdf_pages": "Trang 35–45 (Chuẩn HSK 4上 .pdf)",
+  "source_status": "verified_textbook",
+  "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"],
+  "vocabulary": [
+    {
+      "id": "hsk4s_l03_w01", "order": 1, "textbook": "HSK 4 上", "lesson": 3,
+      "hanzi": "挺", "pinyin": "tǐng",
+      "lesson_usage": {
+        "part_of_speech": "副词 (Phó từ)", "meaning": "rất, khá",
+        "structure": "挺 + 形容词/心理动词 + 的",
+        "explanation": "Phó từ chỉ mức độ trong khẩu ngữ (tương đương 很), rất hay dùng trong kết cấu '挺……的'.",
+        "examples": [
+          { "chinese": "还可以，他们问的问题都挺容易的，就是我有点儿紧张。", "pinyin": "Hái kěyǐ, tāmen wèn de wèntí dōu tǐng róngyì de, jiùshì wǒ yǒudiǎnr jǐnzhāng.", "vietnamese": "Cũng tạm được, các câu hỏi họ hỏi đều khá dễ, chỉ là mình hơi hồi hộp chút.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Động từ)",
+          "meanings": ["1. ưỡn thẳng, vươn thẳng (挺胸)", "2. cố gắng trụ vững, chịu đựng vượt qua (挺过去)"],
+          "structure": "挺胸 / 挺直 / 挺过去",
+          "difference_note": "Khác hoàn toàn với phó từ mức độ trong khẩu ngữ, khi làm động từ 挺 biểu thị động tác duỗi thẳng hoặc kiên trì chịu đựng.",
+          "examples": [
+            { "chinese": "再坚持一下，困难很快就能挺过去了。", "pinyin": "Zài jiānchí yíxià, kùnnan hěn kuài jiù néng tǐng guòqù le.", "vietnamese": "Cố gắng thêm chút nữa, khó khăn sẽ nhanh chóng vượt qua thôi." }
+          ]
+        }
+      ],
+      "chinese_explanation": "副词，表示“很”（多用于口语）；作动词表示直立、勉强支撑。",
+      "collocations": ["挺容易的", "挺好的", "挺喜欢的", "挺不错"],
+      "usage_note": "Trọng tâm Chú thích 1 (tr.37): thiên về khẩu ngữ, cuối câu thường có trợ từ 的.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l03_w02", "order": 2, "textbook": "HSK 4 上", "lesson": 3,
+      "hanzi": "紧张", "pinyin": "jǐnzhāng",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "hồi hộp, căng thẳng",
+        "structure": "有点儿紧张 / 不要紧张 / 紧张得……",
+        "explanation": "Trong bài khóa 1 & 4, diễn tả trạng thái tâm lý lo lắng, hồi hộp (như khi phỏng vấn).",
+        "examples": [
+          { "chinese": "还可以，他们问的问题都挺容易的，就是我有点儿紧张。", "pinyin": "Hái kěyǐ, tāmen wèn de wèntí dōu tǐng róngyì de, jiùshì wǒ yǒudiǎnr jǐnzhāng.", "vietnamese": "Cũng ổn, các câu hỏi họ hỏi đều khá dễ, chỉ là mình hơi căng thẳng chút.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "形容词 (Nghĩa: gấp rút, sát sao, eo hẹp)",
+          "meanings": ["gấp gáp, sít sao (thời gian); thiếu hụt, căng (nguồn cung, kinh phí)"],
+          "structure": "时间安排得很紧张 / 资金紧张 / 学习很紧张",
+          "difference_note": "Ngay trong bài khóa 3 ('时间安排得很紧张') và bài tập tr.44–45, 紧张 không chỉ tâm lý hồi hộp mà chỉ quỹ thời gian hoặc nguồn lực rất gấp rút, chật hẹp.",
+          "examples": [
+            { "chinese": "虽然这次来北京，时间安排得很紧张，但我一定借这次机会去跟大家见见面。", "pinyin": "Suīrán zhè cì lái Běijīng, shíjiān ānpái de hěn jǐnzhāng, dàn wǒ yídìng jiè zhè cì jīhuì qù gēn dàjiā jiànjian miàn.", "vietnamese": "Tuy lần này đến Bắc Kinh lịch trình sắp xếp rất gấp rút, nhưng mình nhất định sẽ nhân dịp này đến gặp gỡ mọi người." }
+          ]
+        }
+      ],
+      "chinese_explanation": "精神处于高度准备状态，兴奋不安；也指激烈、急迫或供应不足。",
+      "collocations": ["有点儿紧张", "时间紧张", "学习紧张", "气氛紧张"],
+      "usage_note": "Nắm vững cả 2 sắc thái: tâm lý hồi hộp (面试别紧张) và thời gian/tình thế gấp rút (时间很紧张).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l03_w03", "order": 3, "textbook": "HSK 4 上", "lesson": 3,
+      "hanzi": "信心", "pinyin": "xìnxīn",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "lòng tin, sự tự tin",
+        "structure": "对……有信心 / 充满信心 / 失去信心",
+        "explanation": "Niềm tin rằng bản thân hoặc điều gì đó nhất định sẽ thành công.",
+        "examples": [
+          { "chinese": "面试的时候，一定要对自己有信心，要相信自己的能力。", "pinyin": "Miànshì de shíhou, yídìng yào duì zìjǐ yǒu xìnxīn, yào xiāngxìn zìjǐ de nénglì.", "vietnamese": "Khi phỏng vấn nhất định phải có lòng tin vào bản thân, phải tin vào năng lực của mình.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "相信自己的愿望或预料一定能够实现的心理。",
+      "collocations": ["有信心", "对自己有信心", "充满信心", "增加信心"],
+      "usage_note": "Là danh từ, KHÔNG dùng trực tiếp như tính từ (sai: '我很信心' → đúng: '我很有信心').",
+      "common_errors": "Sai: '我很信心通过考试' → Đúng: '我对通过考试很有信心'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l03_w04", "order": 4, "textbook": "HSK 4 上", "lesson": 3,
+      "hanzi": "能力", "pinyin": "nénglì",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "năng lực, khả năng",
+        "structure": "有能力 + 做某事 / 提高能力 / 工作能力",
+        "explanation": "Khả năng, trình độ để đảm nhiệm và hoàn thành một công việc nhất định.",
+        "examples": [
+          { "chinese": "面试的时候，一定要对自己有信心，要相信自己的能力。", "pinyin": "Miànshì de shíhou, yídìng yào duì zìjǐ yǒu xìnxīn, yào xiāngxìn zìjǐ de nénglì.", "vietnamese": "Khi phỏng vấn nhất định phải tự tin vào bản thân, phải tin vào năng lực của mình.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "能胜任某项任务的主观条件。",
+      "collocations": ["工作能力", "适应能力", "有能力做好", "提高能力"],
+      "usage_note": "Hay dùng với động từ 相信 (tin vào), 提高 (nâng cao), 培养 (bồi dưỡng).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l03_w05", "order": 5, "textbook": "HSK 4 上", "lesson": 3,
+      "hanzi": "招聘", "pinyin": "zhāopìn",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "tuyển dụng",
+        "structure": "招聘 + 员工/人才 / 招聘会 / 招聘通知",
+        "explanation": "Doanh nghiệp/cơ quan đăng tin tuyển chọn nhân sự vào làm việc.",
+        "examples": [
+          { "chinese": "3月15号上午8点在学校体育馆还有一个招聘会，你去吗？", "pinyin": "Sānyuè shíwǔ hào shàngwǔ bā diǎn zài xuéxiào tǐyùguǎn hái yǒu yí ge zhāopìnhuì, nǐ qù ma?", "vietnamese": "8 giờ sáng ngày 15 tháng 3 ở nhà thi đấu trường còn có một hội chợ việc làm (tuyển dụng), cậu có đi không?", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "通过公告招收聘用工作人员。",
+      "collocations": ["招聘会", "招聘通知", "招聘员工", "负责招聘"],
+      "usage_note": "Đối ứng với 应聘 (#9): công ty là bên 招聘 (tuyển dụng), người tìm việc là bên 应聘 (ứng tuyển, xin việc).",
+      "common_errors": "Tránh nhầm chiều giữa 招聘 (công ty tuyển) và 应聘 (ứng viên đi xin việc).",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l03_w06", "order": 6, "textbook": "HSK 4 上", "lesson": 3,
+      "hanzi": "提供", "pinyin": "tígōng",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "cung cấp",
+        "structure": "提供 + 工作机会/帮助/材料/信息 / 给/为……提供……",
+        "explanation": "Đưa ra, cung cấp nguồn lực, cơ hội, tài liệu hoặc sự hỗ trợ cho người khác sử dụng.",
+        "examples": [
+          { "chinese": "听说这次招聘会提供的工作机会很多，我们一起去看看吧。", "pinyin": "Tīngshuō zhè cì zhāopìnhuì tígōng de gōngzuò jīhuì hěn duō, wǒmen yìqǐ qù kànkan ba.", "vietnamese": "Nghe nói cơ hội việc làm mà hội chợ tuyển dụng lần này cung cấp rất nhiều, chúng ta cùng đi xem nhé.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "供给，提出可供参考或利用的意见、资料、物资、条件等。",
+      "collocations": ["提供机会", "提供帮助", "提供材料", "提供信息"],
+      "usage_note": "Tân ngữ đi kèm đa phần là danh từ trừu tượng hoặc nguồn lực (机会, 帮助, 资料, 服务, 条件).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l03_w07", "order": 7, "textbook": "HSK 4 上", "lesson": 3,
+      "hanzi": "负责", "pinyin": "fùzé",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "phụ trách, chịu trách nhiệm",
+        "structure": "负责 + 工作/招聘 / 是……负责的",
+        "explanation": "Trong bài khóa 2, làm động từ chỉ việc đảm nhiệm, phụ trách công tác tuyển dụng.",
+        "examples": [
+          { "chinese": "小林，这次招聘不是小李负责吗？", "pinyin": "Xiǎo Lín, zhè cì zhāopìn bú shì Xiǎo Lǐ fùzé ma?", "vietnamese": "Tiểu Lâm, đợt tuyển dụng lần này chẳng phải do Tiểu Lý phụ trách sao?", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "形容词 (Tính từ)",
+          "meanings": ["có trách nhiệm, tận tâm (trong thái độ làm việc)"],
+          "structure": "对……很负责 / 非常负责的老师",
+          "difference_note": "Khi làm tính từ, 负责 nhận phó từ mức độ (很负责, 非常负责) để đánh giá phẩm chất tận tụy, không mang tân ngữ trực tiếp phía sau.",
+          "examples": [
+            { "chinese": "王老师对每一个学生都非常负责。", "pinyin": "Wáng lǎoshī duì měi yí ge xuésheng dōu fēicháng fùzé.", "vietnamese": "Thầy Vương vô cùng có trách nhiệm với từng học sinh." }
+          ]
+        }
+      ],
+      "chinese_explanation": "担负责任（动词）；也指尽职尽责（形容词）。",
+      "collocations": ["负责工作", "负责招聘", "对学生很负责", "负责人"],
+      "usage_note": "Cấu trúc: 负责 + việc (động từ) vs 对 + người/việc + 很负责 (tính từ).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l03_w08", "order": 8, "textbook": "HSK 4 上", "lesson": 3,
+      "hanzi": "本来", "pinyin": "běnlái",
+      "lesson_usage": {
+        "part_of_speech": "副词 (Phó từ)", "meaning": "lúc đầu, trước đây; đáng lẽ",
+        "structure": "本来 + 是/会/应该……（但/可是……）",
+        "explanation": "Trong bài khóa 2, biểu thị tình huống ban đầu ('lúc đầu là do Tiểu Lý phụ trách'), hàm ý sau đó đã thay đổi.",
+        "examples": [
+          { "chinese": "本来是小李负责的，但是他突然生病住院了，所以就交给我来做了。", "pinyin": "Běnlái shì Xiǎo Lǐ fùzé de, dànshì tā tūrán shēng bìng zhù yuàn le, suǒyǐ jiù jiāogěi wǒ lái zuò le.", "vietnamese": "Lúc đầu là do Tiểu Lý phụ trách, nhưng anh ấy đột nhiên ốm nhập viện nên đã giao cho tôi làm.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "副词 (Nghĩa: đáng lẽ, theo lý phải vậy – Chú thích 2 tr.37)",
+          "meanings": ["đáng lẽ ra, vốn dĩ theo lý phải như vậy"],
+          "structure": "本来 + 就应该 / 本来 + 可以",
+          "difference_note": "Đây là điểm khác biệt cốt lõi so với 原来 (học ở Bài 4): 本来 biểu thị điều hợp lý đáng lẽ nên thế, còn 原来 thì không.",
+          "examples": [
+            { "chinese": "这件事本来应该听他的。", "pinyin": "Zhè jiàn shì běnlái yīnggāi tīng tā de.", "vietnamese": "Chuyện này đáng lẽ phải nghe theo anh ấy." }
+          ]
+        },
+        {
+          "part_of_speech": "形容词 (Tính từ phi vị ngữ)",
+          "meanings": ["vốn có, ban đầu, nguyên bản"],
+          "structure": "本来的 + 名词 (本来的颜色 / 本来的计划)",
+          "difference_note": "Làm định ngữ trước danh từ (bắt buộc có 的), không đứng một mình làm vị ngữ.",
+          "examples": [
+            { "chinese": "这是它本来的颜色，不过现在已经穿了好几年，颜色都变了。", "pinyin": "Zhè shì tā běnlái de yánsè, búguò xiànzài yǐjīng chuānle hǎo jǐ nián, yánsè dōu biàn le.", "vietnamese": "Đây là màu ban đầu của nó, nhưng giờ đã mặc mấy năm rồi nên màu đã phai hết." }
+          ]
+        }
+      ],
+      "chinese_explanation": "作副词表示原先、原来，或按道理应该这样；作形容词表示原有的。",
+      "collocations": ["本来应该", "本来是", "本来的样子", "本来打算"],
+      "usage_note": "Trọng tâm Chú thích 2 (tr.37) và sẽ được so sánh trực tiếp với 原来 trong Bài 4.",
+      "common_errors": "Không dùng 本来 để diễn tả sự phát hiện bất ngờ ('hóa ra là bạn à') → trường hợp đó dùng 原来 (原来是你啊!).",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l03_w09", "order": 9, "textbook": "HSK 4 上", "lesson": 3,
+      "hanzi": "应聘", "pinyin": "yìngpìn",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "xin việc, ứng tuyển",
+        "structure": "来应聘 / 应聘 + 职位 / 参加应聘 / 应聘时",
+        "explanation": "Nộp hồ sơ, tham gia phỏng vấn để ứng tuyển vào vị trí do đơn vị tuyển dụng đưa ra.",
+        "examples": [
+          { "chinese": "哦，这次应聘的人多吗？", "pinyin": "Ò, zhè cì yìngpìn de rén duō ma?", "vietnamese": "Ồ, lần này người đến ứng tuyển có đông không?", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "接受聘请，报名参加招聘单位的选拔。",
+      "collocations": ["应聘者", "来应聘", "应聘工作", "应聘时"],
+      "usage_note": "Chú ý thanh 4 ở chữ 应: yìngpìn (không đọc yīngpìn).",
+      "common_errors": "Đọc nhầm 应 thành thanh 1 (yīng) như trong 应该.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l03_w10", "order": 10, "textbook": "HSK 4 上", "lesson": 3,
+      "hanzi": "材料", "pinyin": "cáiliào",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "tư liệu, tài liệu",
+        "structure": "一份材料 / 他们的材料 / 准备材料",
+        "explanation": "Trong bài khóa 2, chỉ hồ sơ, tài liệu, văn bản dùng để xem xét hoặc tham khảo.",
+        "examples": [
+          { "chinese": "经过笔试和面试，有两个不错。这是他们的材料，您看看。", "pinyin": "Jīngguò bǐshì hé miànshì, yǒu liǎng ge búcuò. Zhè shì tāmen de cáiliào, nín kànkan.", "vietnamese": "Qua thi viết và phỏng vấn, có hai người khá ổn. Đây là hồ sơ tài liệu của họ, mời giám đốc xem qua.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Nghĩa: vật liệu, nguyên liệu)",
+          "meanings": ["nguyên vật liệu dùng để chế tạo, xây dựng hoặc nấu ăn"],
+          "structure": "建筑材料 / 做菜的材料 / 原材料",
+          "difference_note": "Ngoài nghĩa 'hồ sơ/tài liệu' (一份材料), 材料 còn chỉ vật liệu vật chất dùng sản xuất hay nấu nướng.",
+          "examples": [
+            { "chinese": "做这道菜需要准备哪些材料？", "pinyin": "Zuò zhè dào cài xūyào zhǔnbèi nǎxiē cáiliào?", "vietnamese": "Làm món ăn này cần chuẩn bị những nguyên liệu nào?" }
+          ]
+        }
+      ],
+      "chinese_explanation": "可供参考的资料、文件；也指可以直接造成成品的东西（如原料、建材）。",
+      "collocations": ["一份材料", "学习材料", "准备材料", "建筑材料"],
+      "usage_note": "Lượng từ cho tài liệu/hồ sơ là 份 (一份材料).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l03_w11", "order": 11, "textbook": "HSK 4 上", "lesson": 3,
+      "hanzi": "符合", "pinyin": "fúhé",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "phù hợp, đáp ứng đúng",
+        "structure": "符合 + 要求/条件/标准/规定/事实",
+        "explanation": "Khớp đúng, đáp ứng với một tiêu chuẩn, yêu cầu hay sự thật nào đó.",
+        "examples": [
+          { "chinese": "这两个人的能力都比较符合我们的要求。", "pinyin": "Zhè liǎng ge rén de nénglì dōu bǐjiào fúhé wǒmen de yāoqiú.", "vietnamese": "Năng lực của cả hai người này đều khá phù hợp với yêu cầu của chúng ta.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "（数量、形状、情节等）相合，一致。",
+      "collocations": ["符合要求", "符合条件", "符合标准", "符合实际"],
+      "usage_note": "Phân biệt với 适合 (Bài 1): 符合 đi với tiêu chuẩn/yêu cầu/quy định (符合要求/条件); 适合 đi với người hoặc mục đích sử dụng (适合你/适合穿).",
+      "common_errors": "Sai: '这件衣服很符合你' → Đúng: '这件衣服很适合你'; Sai: '他的条件很适合要求' → Đúng: '他的条件很符合要求'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l03_w12", "order": 12, "textbook": "HSK 4 上", "lesson": 3,
+      "hanzi": "通知", "pinyin": "tōngzhī",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "báo tin, thông báo",
+        "structure": "通知 + 某人 + 做某事 / 通知 + 某事",
+        "explanation": "Báo tin chính thức để người khác biết lịch trình, kết quả hoặc sự việc quan trọng.",
+        "examples": [
+          { "chinese": "你通知他们下周一上午九点来我办公室吧。", "pinyin": "Nǐ tōngzhī tāmen xià zhōuyī shàngwǔ jiǔ diǎn lái wǒ bàngōngshì ba.", "vietnamese": "Cậu thông báo cho họ 9 giờ sáng thứ Hai tuần sau đến văn phòng tôi nhé.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ)",
+          "meanings": ["bản thông báo, giấy thông báo"],
+          "structure": "发通知 / 招聘通知 / 接到通知 / 一份通知",
+          "difference_note": "Dùng làm danh từ ngay trong bài tập 2 câu 5 (tr.44: '在上面发招聘通知').",
+          "examples": [
+            { "chinese": "每天都有很多公司在上面发招聘通知。", "pinyin": "Měi tiān dōu yǒu hěn duō gōngsī zài shàngmian fā zhāopìn tōngzhī.", "vietnamese": "Mỗi ngày đều có rất nhiều công ty đăng thông báo tuyển dụng trên đó." }
+          ]
+        }
+      ],
+      "chinese_explanation": "把事项告诉人知道（动词）；也指通知事项的文书或口信（名词）。",
+      "collocations": ["通知他们", "发通知", "招聘通知", "接到通知"],
+      "usage_note": "Có thể mang trực tiếp tân ngữ chỉ người rồi kèm động từ (通知我明天上班).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l03_w13", "order": 13, "textbook": "HSK 4 上", "lesson": 3,
+      "hanzi": "律师", "pinyin": "lǜshī",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "luật sư",
+        "structure": "当律师 / 一名律师 / 法律专业",
+        "explanation": "Người hành nghề tư vấn và đại diện pháp luật.",
+        "examples": [
+          { "chinese": "我一毕业就去上海当律师了。", "pinyin": "Wǒ yí bì yè jiù qù Shànghǎi dāng lǜshī le.", "vietnamese": "Mình vừa tốt nghiệp liền đi Thượng Hải làm luật sư rồi.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "依法取得执业证书，为当事人提供法律服务的专业人员。",
+      "collocations": ["当律师", "一名律师", "请律师", "律师事务所"],
+      "usage_note": "Lượng từ trang trọng cho nghề nghiệp là 位 hoặc 名 (一位律师, 一名律师).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l03_w14", "order": 14, "textbook": "HSK 4 上", "lesson": 3,
+      "hanzi": "专业", "pinyin": "zhuānyè",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "chuyên ngành",
+        "structure": "法律专业 / 新闻专业 / 学……专业",
+        "explanation": "Trong bài khóa 3, chỉ ngành học chuyên môn ở đại học hoặc trường nghề.",
+        "examples": [
+          { "chinese": "我很喜欢现在的工作，因为我学的就是法律专业。", "pinyin": "Wǒ hěn xǐhuan xiànzài de gōngzuò, yīnwèi wǒ xué de jiù shì fǎlǜ zhuānyè.", "vietnamese": "Mình rất thích công việc hiện tại, vì chuyên ngành mình học chính là luật.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "形容词 (Tính từ)",
+          "meanings": ["chuyên nghiệp, có trình độ chuyên môn cao"],
+          "structure": "很专业 / 专业的 + 知识/训练/服务",
+          "difference_note": "Làm tính từ đánh giá mức độ bài bản, tinh thông trong một lĩnh vực.",
+          "examples": [
+            { "chinese": "他的摄影技术非常专业。", "pinyin": "Tā de shèyǐng jìshù fēicháng zhuānyè.", "vietnamese": "Kỹ thuật chụp ảnh của anh ấy vô cùng chuyên nghiệp." }
+          ]
+        }
+      ],
+      "chinese_explanation": "高等学校或中等专业学校根据社会分工分成的学业门类（名词）；也指专门从事某种工作或职业的、高水平的（形容词）。",
+      "collocations": ["法律专业", "专业知识", "换专业", "非常专业"],
+      "usage_note": "Chú ý phân biệt với 专门 (Bài 2: phó từ 'đặc biệt, dành riêng').",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l03_w15", "order": 15, "textbook": "HSK 4 上", "lesson": 3,
+      "hanzi": "另外", "pinyin": "lìngwài",
+      "lesson_usage": {
+        "part_of_speech": "连词 (Liên từ)", "meaning": "ngoài ra",
+        "structure": "……，另外，…… / ……。另外，还……",
+        "explanation": "Trong bài khóa 3, dùng làm liên từ (nghĩa là 'ngoài ra, thêm vào đó') để bổ sung thêm ý mới.",
+        "examples": [
+          { "chinese": "而且同事们都很喜欢我。另外，收入也不错。", "pinyin": "Érqiě tóngshìmen dōu hěn xǐhuan wǒ. Lìngwài, shōurù yě búcuò.", "vietnamese": "Hơn nữa các đồng nghiệp đều rất quý mình. Ngoài ra, thu nhập cũng rất khá.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "代词 (Đại từ – Chú thích 3 tr.38)",
+          "meanings": ["cái khác, người khác (ngoài phạm vi đã nêu)"],
+          "structure": "另外(的) + 数量(+名词) / 另外的(+名词)",
+          "difference_note": "Đứng trước số lượng từ hoặc danh từ để chỉ đối tượng khác (khác với 另 không đi kèm 的).",
+          "examples": [
+            { "chinese": "前面车有点儿多，我们走另外一条路，不会迟到的。", "pinyin": "Qiánmian chē yǒudiǎnr duō, wǒmen zǒu lìngwài yì tiáo lù, bú huì chídào de.", "vietnamese": "Phía trước hơi đông xe, chúng ta đi con đường khác đi, sẽ không bị muộn đâu." }
+          ]
+        },
+        {
+          "part_of_speech": "副词 (Phó từ – Chú thích 3 tr.38)",
+          "meanings": ["riêng thêm, ngoài ra (thường đi với 还 / 再 / 又)"],
+          "structure": "另外 + 还/再/又 + 动词",
+          "difference_note": "Đứng trước động từ làm trạng ngữ để bổ sung hành động ngoài phạm vi trước đó.",
+          "examples": [
+            { "chinese": "家里的空调坏了，咱们另外再买一个吧。", "pinyin": "Jiā li de kōngtiáo huài le, zánmen lìngwài zài mǎi yí ge ba.", "vietnamese": "Điều hòa ở nhà hỏng rồi, chúng mình mua thêm một chiếc khác đi." }
+          ]
+        }
+      ],
+      "chinese_explanation": "作连词表示“除此以外”；作代词或副词表示上文所说范围以外的人、事或动作。",
+      "collocations": ["另外一条路", "另外再买", "另外，还……", "另外的"],
+      "usage_note": "Xem kỹ Chú thích 3 (tr.38) và bảng So sánh '另外 — 另' (tr.39–40).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l03_w16", "order": 16, "textbook": "HSK 4 上", "lesson": 3,
+      "hanzi": "收入", "pinyin": "shōurù",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "thu nhập",
+        "structure": "收入不错 / 收入高 / 收入太少了 / 增加收入",
+        "explanation": "Khoản tiền kiếm được từ công việc, kinh doanh hay các nguồn khác.",
+        "examples": [
+          { "chinese": "另外，收入也不错。", "pinyin": "Lìngwài, shōurù yě búcuò.", "vietnamese": "Ngoài ra, thu nhập cũng khá ổn.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "收进来的钱财（与“支出”相对）。",
+      "collocations": ["收入高", "收入不错", "增加收入", "家庭收入"],
+      "usage_note": "Trái nghĩa là 支出 (chi tiêu, khoản chi). Hay kết hợp với 高/低/多/少/不错.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l03_w17", "order": 17, "textbook": "HSK 4 上", "lesson": 3,
+      "hanzi": "咱们", "pinyin": "zánmen",
+      "lesson_usage": {
+        "part_of_speech": "代词 (Đại từ)", "meaning": "chúng ta; chúng mình (gồm cả người nghe)",
+        "structure": "咱们 + 动词/名词 (咱们一起去 / 咱们同学聚会)",
+        "explanation": "Đại từ nhân xưng ngôi thứ nhất số nhiều mang sắc thái thân mật, LUÔN bao gồm cả người nói lẫn người nghe.",
+        "examples": [
+          { "chinese": "星期天咱们同学聚会，你能来参加吗？", "pinyin": "Xīngqītiān zánmen tóngxué jùhuì, nǐ néng lái cānjiā ma?", "vietnamese": "Chủ nhật lớp chúng mình họp lớp, cậu có thể đến tham gia không?", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "代词，指包括说话人和听话人在内的“我们”，多用于口语。",
+      "collocations": ["咱们俩", "咱们一起", "咱们班", "咱们走吧"],
+      "usage_note": "Phân biệt với 我们: 我们 có thể gồm hoặc không gồm người nghe ('chúng tôi' hoặc 'chúng ta'); 咱们 luôn bao gồm cả người nghe ('chúng mình / chúng ta') và thân mật hơn.",
+      "common_errors": "Không dùng 咱们 khi người nghe không thuộc nhóm đó (VD: nói với người ngoài công ty phải dùng 我们公司, không dùng 咱们公司).",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l03_w18", "order": 18, "textbook": "HSK 4 上", "lesson": 3,
+      "hanzi": "安排", "pinyin": "ānpái",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "sắp xếp, bố trí",
+        "structure": "安排 + 时间/工作/活动 / 时间安排得很紧张",
+        "explanation": "Sắp đặt có trật tự công việc, thời gian, nhân sự hoặc lịch trình.",
+        "examples": [
+          { "chinese": "虽然这次来北京，时间安排得很紧张，但我一定借这次机会去跟大家见见面。", "pinyin": "Suīrán zhè cì lái Běijīng, shíjiān ānpái de hěn jǐnzhāng, dàn wǒ yídìng jiè zhè cì jīhuì qù gēn dàjiā jiànjian miàn.", "vietnamese": "Tuy lần này đến Bắc Kinh thời gian sắp xếp rất gấp gáp, nhưng mình nhất định sẽ nhân dịp này gặp gỡ mọi người.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ)",
+          "meanings": ["sự sắp xếp, kế hoạch, lịch hẹn"],
+          "structure": "有安排 / 另有安排 / 听从安排",
+          "difference_note": "Xuất hiện ngay trong mục 比一比 tr.39 ('我今天晚上另外/另有安排').",
+          "examples": [
+            { "chinese": "我今天晚上另有安排，我们明天再一起吃饭吧。", "pinyin": "Wǒ jīntiān wǎnshang lìng yǒu ānpái, wǒmen míngtiān zài yìqǐ chīfàn ba.", "vietnamese": "Tối nay tôi có lịch sắp xếp khác rồi, ngày mai chúng ta cùng ăn cơm nhé." }
+          ]
+        }
+      ],
+      "chinese_explanation": "有条理、分先后地处理事物或安置人员；也指规划好的事项。",
+      "collocations": ["安排时间", "安排工作", "另有安排", "合理安排"],
+      "usage_note": "Rất hay đi cùng 时间, 工作, 行程, 住宿.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l03_w19", "order": 19, "textbook": "HSK 4 上", "lesson": 3,
+      "hanzi": "首先", "pinyin": "shǒuxiān",
+      "lesson_usage": {
+        "part_of_speech": "代词 (Đại từ)", "meaning": "trước hết, trước tiên",
+        "structure": "首先……，其次……",
+        "explanation": "Trong bài khóa 4, làm đại từ liệt kê luận điểm đầu tiên theo trình tự, phối hợp với 其次 ở ý tiếp theo.",
+        "examples": [
+          { "chinese": "首先，要穿正式的衣服，这会给面试者留下一个好的印象，让他觉得你是一个认真的人。", "pinyin": "Shǒuxiān, yào chuān zhèngshì de yīfu, zhè huì gěi miànshìzhě liúxià yí ge hǎo de yìnxiàng, ràng tā juéde nǐ shì yí ge rènzhēn de rén.", "vietnamese": "Trước hết, phải mặc trang phục trang trọng, điều này sẽ để lại ấn tượng tốt cho người phỏng vấn, khiến họ thấy bạn là người nghiêm túc.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "副词 (Phó từ – Chú thích 4 tr.42)",
+          "meanings": ["đầu tiên, sớm nhất (tương đương 最先, 最早)"],
+          "structure": "主语 + 首先 + 动词 (首先想到 / 首先应该)",
+          "difference_note": "Không cần đi kèm 其次; đứng trước động từ làm trạng ngữ chỉ điều xảy ra hoặc cần làm sớm nhất.",
+          "examples": [
+            { "chinese": "很多人遇到不明白的地方，首先想到的是上网查一查。", "pinyin": "Hěn duō rén yùdào bù míngbai de dìfang, shǒuxiān xiǎngdào de shì shàngwǎng chá yi chá.", "vietnamese": "Nhiều người khi gặp chỗ chưa hiểu, điều đầu tiên nghĩ tới là lên mạng tra thử." }
+          ]
+        }
+      ],
+      "chinese_explanation": "作代词表示列举事项的第一项（常与“其次”搭配）；作副词表示最先、最早。",
+      "collocations": ["首先……其次……", "首先想到", "首先应该"],
+      "usage_note": "Trọng tâm Chú thích 4 (tr.42).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l03_w20", "order": 20, "textbook": "HSK 4 上", "lesson": 3,
+      "hanzi": "正式", "pinyin": "zhèngshì",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "chính thức, trang trọng",
+        "structure": "正式的 + 衣服/场合/通知 / 很正式",
+        "explanation": "Chỉ sự trang trọng, quy chuẩn, đúng nghi thức (trang phục, văn bản, buổi lễ).",
+        "examples": [
+          { "chinese": "首先，要穿正式的衣服，这会给面试者留下一个好的印象。", "pinyin": "Shǒuxiān, yào chuān zhèngshì de yīfu, zhè huì gěi miànshìzhě liúxià yí ge hǎo de yìnxiàng.", "vietnamese": "Trước hết, cần mặc quần áo trang trọng, điều này sẽ để lại ấn tượng tốt cho người phỏng vấn.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "副词 (Phó từ / Trạng ngữ)",
+          "meanings": ["chính thức (bắt đầu, thông báo, đi làm)"],
+          "structure": "正式 + 动词 (正式开始 / 正式上班 / 正式决定)",
+          "difference_note": "Đứng trực tiếp trước động từ hai âm tiết để chỉ hành động có hiệu lực chính thức.",
+          "examples": [
+            { "chinese": "从下个星期一开始，我就正式在这家公司上班了。", "pinyin": "Cóng xià ge xīngqīyī kāishǐ, wǒ jiù zhèngshì zài zhè jiā gōngsī shàngbān le.", "vietnamese": "Bắt đầu từ thứ Hai tuần sau, tôi sẽ chính thức đi làm ở công ty này." }
+          ]
+        }
+      ],
+      "chinese_explanation": "合乎一般公认标准的或合乎一定手续的；庄重规范。",
+      "collocations": ["正式的衣服", "正式场合", "正式开始", "正式通知"],
+      "usage_note": "Trái nghĩa thường dùng là 非正式 (không chính thức) hoặc 随便 (tùy tiện, thường ngày).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l03_w21", "order": 21, "textbook": "HSK 4 上", "lesson": 3,
+      "hanzi": "留", "pinyin": "liú",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "để lại, lưu lại",
+        "structure": "给 + 某人 + 留下 + 印象 / 留 + 电话/字条",
+        "explanation": "Trong bài khóa 4 & 5, kết hợp với bổ ngữ xu hướng 下 tạo thành '留下……印象' (để lại ấn tượng).",
+        "examples": [
+          { "chinese": "这会给面试者留下一个好的印象，让他觉得你是一个认真的人。", "pinyin": "Zhè huì gěi miànshìzhě liúxià yí ge hǎo de yìnxiàng, ràng tā juéde nǐ shì yí ge rènzhēn de rén.", "vietnamese": "Điều này sẽ để lại một ấn tượng tốt cho người phỏng vấn, khiến họ thấy bạn là người nghiêm túc.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Nghĩa: ở lại, lưu lại một nơi)",
+          "meanings": ["ở lại, dừng lại không rời đi"],
+          "structure": "留在 + 地点 (留在家里 / 留在北京)",
+          "difference_note": "Xuất hiện ngay trong bài tập 2 câu 9 (tr.45: '现在只好留在家里上网了') và bài tập Bài 4 ('一直留在北京').",
+          "examples": [
+            { "chinese": "外面刮大风了，现在只好留在家里上网了。", "pinyin": "Wàimian guā dàfēng le, xiànzài zhǐhǎo liú zài jiā li shàngwǎng le.", "vietnamese": "Bên ngoài nổi gió lớn rồi, giờ đành ở lại nhà lên mạng thôi." }
+          ]
+        }
+      ],
+      "chinese_explanation": "保存、遗留；也指停留在某个地方不走。",
+      "collocations": ["留下印象", "留在家里", "留作业", "留学生"],
+      "usage_note": "Hai kết cấu cực kỳ phổ biến ở HSK 4: 给……留下……印象 và 留在 + địa điểm.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l03_w22", "order": 22, "textbook": "HSK 4 上", "lesson": 3,
+      "hanzi": "其次", "pinyin": "qícì",
+      "lesson_usage": {
+        "part_of_speech": "代词 (Đại từ)", "meaning": "thứ hai, sau đó, kế đến",
+        "structure": "首先……，其次……",
+        "explanation": "Dùng sau 首先 để liệt kê ý thứ hai hoặc điều kém quan trọng hơn một bậc.",
+        "examples": [
+          { "chinese": "其次，应聘时不要紧张。", "pinyin": "Qícì, yìngpìn shí búyào jǐnzhāng.", "vietnamese": "Thứ hai, khi ứng tuyển đừng căng thẳng.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "代词，指排列在第二的、次要的，常与“首先”搭配使用。",
+      "collocations": ["首先……其次……", "价格是其次的"],
+      "usage_note": "Thường dùng trong văn viết hoặc bài trình bày mạch lạc có thứ tự.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l03_w23", "order": 23, "textbook": "HSK 4 上", "lesson": 3,
+      "hanzi": "诚实", "pinyin": "chéngshí",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "thành thật, trung thực",
+        "structure": "很诚实 / 诚实的人 / 回答问题要诚实",
+        "explanation": "Nói đúng sự thật, không giả dối, không lừa gạt.",
+        "examples": [
+          { "chinese": "当然，最重要的是回答问题要诚实。", "pinyin": "Dāngrán, zuì zhòngyào de shì huídá wèntí yào chéngshí.", "vietnamese": "Đương nhiên, điều quan trọng nhất là trả lời câu hỏi phải trung thực.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "言行跟内心思想一致，不虚假。",
+      "collocations": ["很诚实", "诚实的孩子", "诚实守信"],
+      "usage_note": "Có thể lặp lại dạng AABB: 诚诚实实 (thật thà, ngay thẳng).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l03_w24", "order": 24, "textbook": "HSK 4 上", "lesson": 3,
+      "hanzi": "改变", "pinyin": "gǎibiàn",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "thay đổi",
+        "structure": "改变 + 印象/计划/看法/生活 / 想改变",
+        "explanation": "Làm cho sự vật, trạng thái hoặc suy nghĩ biến đổi khác đi so với trước.",
+        "examples": [
+          { "chinese": "虽然第一印象不总是对的，但如果想改变却很困难。", "pinyin": "Suīrán dì yī yìnxiàng bù zǒng shì duì de, dàn rúguǒ xiǎng gǎibiàn què hěn kùnnan.", "vietnamese": "Tuy ấn tượng đầu tiên không phải lúc nào cũng đúng, nhưng nếu muốn thay đổi thì lại rất khó khăn.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ)",
+          "meanings": ["sự thay đổi, biến đổi"],
+          "structure": "做出改变 / 很大的改变 / 发生改变",
+          "difference_note": "Ngay trong Bài 4 (tr.53: '及时对原来的计划做出改变'), 改变 làm danh từ tân ngữ cho 做出 hoặc 有.",
+          "examples": [
+            { "chinese": "事情总是变化着的，我们需要及时对原来的计划做出改变。", "pinyin": "Shìqing zǒngshì biànhuàzhe de, wǒmen xūyào jíshí duì yuánlái de jìhuà zuòchū gǎibiàn.", "vietnamese": "Sự việc luôn luôn biến đổi, chúng ta cần kịp thời thực hiện sự thay đổi đối với kế hoạch ban đầu." }
+          ]
+        }
+      ],
+      "chinese_explanation": "事物发生显著的差别，或使事物发生变化。",
+      "collocations": ["改变计划", "改变看法", "改变生活", "做出改变"],
+      "usage_note": "Khác với 变化 (tự biến đổi, không mang tân ngữ): 改变 có thể mang tân ngữ trực tiếp (改变计划, 改变自己).",
+      "common_errors": "Sai: '我要变化我的计划' → Đúng: '我要改变我的计划'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l03_w25", "order": 25, "textbook": "HSK 4 上", "lesson": 3,
+      "hanzi": "感觉", "pinyin": "gǎnjué",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "cảm giác, cảm nghĩ",
+        "structure": "对你的感觉 / 有一种感觉 / 感觉不错",
+        "explanation": "Trong bài khóa 5, làm danh từ chỉ cảm nhận chủ quan của người khác về bạn.",
+        "examples": [
+          { "chinese": "你给别人的第一印象会影响他们以后对你的感觉和判断。", "pinyin": "Nǐ gěi biérén de dì yī yìnxiàng huì yǐngxiǎng tāmen yǐhòu duì nǐ de gǎnjué hé pànduàn.", "vietnamese": "Ấn tượng đầu tiên bạn để lại cho người khác sẽ ảnh hưởng đến cảm giác và đánh giá sau này của họ về bạn.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Động từ)",
+          "meanings": ["cảm thấy, thấy (tương tự 觉得 nhưng thiên về giác quan hoặc trực giác)"],
+          "structure": "感觉 + 形容词/小句 (感觉很难 / 感觉时间过得很快)",
+          "difference_note": "Ngay trong bài tập 2 câu 7 (tr.44: '但是感觉不是很难') và tr.45 ('总是感觉时间过得很快'), 感觉 làm động từ mang mệnh đề.",
+          "examples": [
+            { "chinese": "他特别幽默，跟他在一起的时候，总是感觉时间过得很快。", "pinyin": "Tā tèbié yōumò, gēn tā zài yìqǐ de shíhou, zǒngshì gǎnjué shíjiān guò de hěn kuài.", "vietnamese": "Anh ấy đặc biệt hài hước, lúc ở bên anh ấy luôn cảm thấy thời gian trôi qua rất nhanh." }
+          ]
+        }
+      ],
+      "chinese_explanation": "客观事物的个别特性在人脑中引起的直接反映（名词）；也指觉得、感到（动词）。",
+      "collocations": ["第一感觉", "感觉不错", "感觉很累", "对你的感觉"],
+      "usage_note": "Khác với 觉得 (chỉ là động từ, không làm danh từ), 感觉 vừa là danh từ vừa là động từ.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l03_w26", "order": 26, "textbook": "HSK 4 上", "lesson": 3,
+      "hanzi": "判断", "pinyin": "pànduàn",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "nhận xét, đánh giá, phán đoán",
+        "structure": "判断 + 问题/情况 / 判断出……",
+        "explanation": "Dựa vào biểu hiện, chứng cứ để đưa ra kết luận, đánh giá.",
+        "examples": [
+          { "chinese": "你给别人的第一印象会影响他们以后对你的感觉和判断。", "pinyin": "Nǐ gěi biérén de dì yī yìnxiàng huì yǐngxiǎng tāmen yǐhòu duì nǐ de gǎnjué hé pànduàn.", "vietnamese": "Ấn tượng đầu tiên bạn để lại cho người khác sẽ ảnh hưởng đến cảm nhận và phán đoán sau này của họ về bạn.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ)",
+          "meanings": ["sự phán đoán, nhận định, đánh giá"],
+          "structure": "做出判断 / 我的判断 / 对你的判断",
+          "difference_note": "Chính trong bài khóa 5 ('对你的感觉和判断'), 判断 hoạt động ở vị trí danh từ song song với 感觉; còn ở bài tập tr.44 ('比较容易地判断出他是一个什么样的人') là động từ.",
+          "examples": [
+            { "chinese": "事实证明，你当时的判断是完全正确的。", "pinyin": "Shìshí zhèngmíng, nǐ dāngshí de pànduàn shì wánquán zhèngquè de.", "vietnamese": "Thực tế chứng minh, nhận định lúc đó của bạn là hoàn toàn chính xác." }
+          ]
+        }
+      ],
+      "chinese_explanation": "断定、分析裁决（动词）；也指断定的结论（名词）。",
+      "collocations": ["判断出", "判断能力", "做出判断", "正确判断"],
+      "usage_note": "Hay dùng với bổ ngữ xu hướng 出: 判断出 (phán đoán ra được).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l03_w27", "order": 27, "textbook": "HSK 4 上", "lesson": 3,
+      "hanzi": "顾客", "pinyin": "gùkè",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "khách hàng",
+        "structure": "一位顾客 / 服务顾客 / 第一次见面的顾客",
+        "explanation": "Người đến mua hàng hóa hoặc sử dụng dịch vụ tại cửa hàng, doanh nghiệp.",
+        "examples": [
+          { "chinese": "给第一次见面的顾客留下好的印象，你可能会卖出更多的东西。", "pinyin": "Gěi dì yī cì jiàn miàn de gùkè liúxià hǎo de yìnxiàng, nǐ kěnéng huì màichū gèng duō de dōngxi.", "vietnamese": "Để lại ấn tượng tốt cho khách hàng gặp lần đầu, bạn có thể sẽ bán được nhiều hàng hơn.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "商店或服务行业称来买东西的人或服务对象。",
+      "collocations": ["老顾客", "一位顾客", "吸引顾客", "为顾客服务"],
+      "usage_note": "Phân biệt với 客人 (khách đến chơi nhà, khách ở nhà hàng/khách sạn nói chung); 顾客 chuyên chỉ khách mua hàng/khách sử dụng dịch vụ.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l03_w28", "order": 28, "textbook": "HSK 4 上", "lesson": 3,
+      "hanzi": "准时", "pinyin": "zhǔnshí",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "đúng giờ",
+        "structure": "很准时 / 不准时 / 特别准时的人",
+        "explanation": "Tuân thủ chuẩn xác thời gian đã hẹn hoặc quy định, không đến trễ.",
+        "examples": [
+          { "chinese": "所以不管是上课、上班，还是与别人约会，准时都非常重要。", "pinyin": "Suǒyǐ bùguǎn shì shàng kè, shàng bān, háishì yǔ biérén yuēhuì, zhǔnshí dōu fēicháng zhòngyào.", "vietnamese": "Vì vậy bất kể là đi học, đi làm hay hẹn gặp người khác, đúng giờ đều vô cùng quan trọng.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "副词 (Trạng ngữ trước động từ)",
+          "meanings": ["đúng giờ (làm một hành động đúng lịch)"],
+          "structure": "准时 + 动词 (准时出发 / 准时起飞 / 准时到达)",
+          "difference_note": "Xuất hiện ngay trong mục 同字词 tr.45 ('9点咱们准时出发', '飞机不仅准时起飞').",
+          "examples": [
+            { "chinese": "上个星期去北京，飞机不仅准时起飞，而且还早到了十分钟。", "pinyin": "Shàng ge xīngqī qù Běijīng, fēijī bùjǐn zhǔnshí qǐfēi, érqiě hái zǎo dàole shí fēnzhōng.", "vietnamese": "Tuần trước đi Bắc Kinh, máy bay không những cất cánh đúng giờ mà còn đến sớm mười phút." }
+          ]
+        }
+      ],
+      "chinese_explanation": "严格遵守规定的时间，不早不晚（尤指不迟到）。",
+      "collocations": ["准时出发", "准时起飞", "准时到达", "不准时"],
+      "usage_note": "Thuộc nhóm đồng tự 时 (tr.45): phân biệt 准时 (đúng giờ theo mốc lịch) với 及时 (kịp thời, kịp lúc cần thiết).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l03_w29", "order": 29, "textbook": "HSK 4 上", "lesson": 3,
+      "hanzi": "不管", "pinyin": "bùguǎn",
+      "lesson_usage": {
+        "part_of_speech": "连词 (Liên từ)", "meaning": "bất kể, bất luận",
+        "structure": "不管 + 疑问词 / A还是B / 正反形式，……都/也……",
+        "explanation": "Biểu thị trong mọi điều kiện giả định khác nhau, kết luận ở vế sau vẫn không hề thay đổi.",
+        "examples": [
+          { "chinese": "所以不管是上课、上班，还是与别人约会，准时都非常重要。", "pinyin": "Suǒyǐ bùguǎn shì shàng kè, shàng bān, háishì yǔ biérén yuēhuì, zhǔnshí dōu fēicháng zhòngyào.", "vietnamese": "Cho nên bất luận là đi học, đi làm hay hẹn hò với người khác, đúng giờ đều vô cùng quan trọng.", "from_text": true }
+        ]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "连词，表示在任何条件或情况下结果都不会改变，后分句常有“都、总、也”呼应。",
+      "collocations": ["不管是……还是……都……", "不管什么……都……", "不管多忙……都……"],
+      "usage_note": "Trọng tâm Chú thích 5 (tr.43): sau 不管 BẮT BUỘC phải là tình huống mang tính lựa chọn/bất định (từ nghi vấn, 还是, hoặc chính phản A不A).",
+      "common_errors": "Sai: '不管天气冷，他都去跑步' (thiếu tính lựa chọn/bất định) → Đúng: '不管天气多冷 / 不管冷不冷，他都去跑步'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l03_w30", "order": 30, "textbook": "HSK 4 上", "lesson": 3,
+      "hanzi": "与", "pinyin": "yǔ",
+      "lesson_usage": {
+        "part_of_speech": "介词 (Giới từ)", "meaning": "với, cùng với",
+        "structure": "与 + 某人 + 动词 (与别人约会 / 与人交流)",
+        "explanation": "Tương đương 跟/和 nhưng mang sắc thái văn viết, trang trọng hơn.",
+        "examples": [
+          { "chinese": "所以不管是上课、上班，还是与别人约会，准时都非常重要。", "pinyin": "Suǒyǐ bùguǎn shì shàng kè, shàng bān, háishì yǔ biérén yuēhuì, zhǔnshí dōu fēicháng zhòngyào.", "vietnamese": "Cho nên bất kể là đi học, đi làm hay hẹn gặp người khác, đúng giờ đều vô cùng quan trọng.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "连词 (Liên từ)",
+          "meanings": ["và (nối hai danh từ trong văn viết, tiêu đề)"],
+          "structure": "A 与 B (人与自然 / 工作与生活)",
+          "difference_note": "Không làm giới từ dẫn đối tượng mà nối trực tiếp hai danh từ đẳng lập (như tên Bài 17 HSK 4 下: 人与自然).",
+          "examples": [
+            { "chinese": "这本书讨论的是工作与生活的关系。", "pinyin": "Zhè běn shū tǎolùn de shì gōngzuò yǔ shēnghuó de guānxi.", "vietnamese": "Cuốn sách này bàn về mối quan hệ giữa công việc và cuộc sống." }
+          ]
+        }
+      ],
+      "chinese_explanation": "介词，跟、同；也作连词，表示并列（“和”），多用于书面语。",
+      "collocations": ["与别人约会", "与此同时", "人与自然", "与众不同"],
+      "usage_note": "Thường dùng trong văn viết; trong khẩu ngữ hàng ngày ưu tiên dùng 跟 hoặc 和.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l03_w31", "order": 31, "textbook": "HSK 4 上", "lesson": 3,
+      "hanzi": "约会", "pinyin": "yuēhuì",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "hẹn gặp, hẹn hò",
+        "structure": "与/跟 + 某人 + 约会",
+        "explanation": "Hẹn trước thời gian, địa điểm để gặp gỡ (có thể là bạn bè, đối tác hoặc người yêu).",
+        "examples": [
+          { "chinese": "所以不管是上课、上班，还是与别人约会，准时都非常重要。", "pinyin": "Suǒyǐ bùguǎn shì shàng kè, shàng bān, háishì yǔ biérén yuēhuì, zhǔnshí dōu fēicháng zhòngyào.", "vietnamese": "Cho nên dù là đi học, đi làm hay hẹn gặp người khác, đúng giờ đều rất quan trọng.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ)",
+          "meanings": ["cuộc hẹn, buổi hẹn hò"],
+          "structure": "有一个约会 / 重要约会",
+          "difference_note": "Làm tân ngữ cho 有, 参加, 取消 để chỉ buổi hẹn đã định.",
+          "examples": [
+            { "chinese": "对不起，我今天晚上有一个重要的约会。", "pinyin": "Duìbuqǐ, wǒ jīntiān wǎnshang yǒu yí ge zhòngyào de yuēhuì.", "vietnamese": "Xin lỗi, tối nay tôi có một cuộc hẹn quan trọng." }
+          ]
+        }
+      ],
+      "chinese_explanation": "预先约定时间地点会面（多指男女恋爱见面，也泛指一般会面）。",
+      "collocations": ["跟朋友约会", "一个约会", "准时约会"],
+      "usage_note": "Không mang trực tiếp tân ngữ chỉ người phía sau (sai: '约会他' → đúng: '跟他约会').",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    }
+  ],
+  "proper_nouns": [
+    { "hanzi": "小雨", "pinyin": "Xiǎoyǔ", "meaning": "Tiểu Vũ (tên người)" },
+    { "hanzi": "马", "pinyin": "Mǎ", "meaning": "Mã (họ)" }
+  ],
+  "same_char_expansion": {
+    "char": "时",
+    "words": [
+      { "hanzi": "时候", "pinyin": "shíhou", "meaning": "lúc, khi" },
+      { "hanzi": "时间", "pinyin": "shíjiān", "meaning": "thời gian" },
+      { "hanzi": "及时", "pinyin": "jíshí", "meaning": "kịp thời, đúng lúc" },
+      { "hanzi": "平时", "pinyin": "píngshí", "meaning": "ngày thường, lúc thường" },
+      { "hanzi": "准时", "pinyin": "zhǔnshí", "meaning": "đúng giờ" }
+    ],
+    "examples": [
+      { "chinese": "他特别幽默，跟他在一起的时候，总是感觉时间过得很快。", "vietnamese": "Anh ấy đặc biệt hài hước, lúc ở bên anh ấy luôn cảm thấy thời gian trôi rất nhanh." },
+      { "chinese": "真不好意思，我和同学约好了去看电影，咱们换个时间吧。", "vietnamese": "Thật ngại quá, mình hẹn bạn học đi xem phim mất rồi, chúng mình đổi thời gian khác nhé." },
+      { "chinese": "在你遇到困难的时候，真正的朋友会站出来，及时给你帮助。", "vietnamese": "Khi bạn gặp khó khăn, người bạn chân chính sẽ đứng ra, kịp thời giúp đỡ bạn." },
+      { "chinese": "平时安娜总是在学校上课，学习很紧张，很少有时间出去玩儿。", "vietnamese": "Ngày thường Anna luôn học ở trường, việc học rất căng thẳng, hiếm khi có thời gian đi chơi." },
+      { "chinese": "明天上午8点50我们在学校西门见，大家可以准备点儿吃的东西和饮料，9点咱们准时出发。", "vietnamese": "8 giờ 50 sáng mai chúng ta gặp nhau ở cổng Tây trường, mọi người có thể chuẩn bị ít đồ ăn và nước uống, 9 giờ chúng mình xuất phát đúng giờ." }
+    ]
+  },
+  "grammar": [
+    {
+      "title": "挺",
+      "formula": "S + 挺 + 形容词 / 心理动词 + 的",
+      "meaning": "Rất, khá (sắc thái khẩu ngữ thân mật, nhẹ nhàng hơn 非常).",
+      "usage": "Phó từ 挺 có nghĩa giống 很, thường kết hợp trong cấu trúc '挺……的' đứng trước tính từ hoặc động từ tâm lý (如: 挺喜欢的).",
+      "context": "Rất phổ biến trong giao tiếp đời thường khi đánh giá, nhận xét sự việc theo hướng tích cực hoặc tự nhiên.",
+      "examples": [
+        { "chinese": "他们问的问题都挺容易的。", "pinyin": "Tāmen wèn de wèntí dōu tǐng róngyì de.", "vietnamese": "Các câu hỏi họ hỏi đều khá dễ." },
+        { "chinese": "这家店的东西挺好的，我经常来这儿买东西。", "pinyin": "Zhè jiā diàn de dōngxi tǐng hǎo de, wǒ jīngcháng lái zhèr mǎi dōngxi.", "vietnamese": "Đồ của tiệm này khá tốt, tôi thường xuyên đến đây mua đồ." },
+        { "chinese": "我挺喜欢这个地方的，周围环境比以前住的地方安静很多。", "pinyin": "Wǒ tǐng xǐhuan zhège dìfang de, zhōuwéi huánjìng bǐ yǐqián zhù de dìfang ānjìng hěn duō.", "vietnamese": "Tôi khá thích nơi này, môi trường xung quanh yên tĩnh hơn chỗ ở trước kia nhiều." }
+      ],
+      "important_notes": "Thường đi kèm trợ từ 的 ở cuối vế câu (挺容易的, 挺好的, 挺喜欢这个地方的).",
+      "common_errors": "Không ghép chung 挺 với các phó từ mức độ khác như 很/非常 (sai: '挺很好').",
+      "comparison": "Gần nghĩa với 很 nhưng 挺 mang sắc thái khẩu ngữ tự nhiên hơn.",
+      "mini_practice": [
+        { "prompt": "这几天______________________________，你不用穿这么多衣服。（挺）", "sample_answer": "天气挺暖和的 / 挺热的", "explanation": "Dùng cấu trúc 挺 + tính từ + 的." },
+        { "prompt": "那个房间又安静又干净，______________________________。（挺）", "sample_answer": "我挺喜欢的 / 住起来挺舒服的", "explanation": "Dùng 挺 + động từ tâm lý / tính từ + 的." },
+        { "prompt": "他们俩的性格差不多，______________________________。（挺）", "sample_answer": "关系挺好的 / 挺适合的", "explanation": "Dùng 挺……的 nhận xét mối quan hệ của hai người." }
+      ]
+    },
+    {
+      "title": "本来",
+      "formula": "(1) S + 本来 + 应该/可以……  |  (2) 本来 + Tình huống cũ，但是/现在 + Tình huống mới",
+      "meaning": "(1) Đáng lẽ ra, theo lý phải như vậy  |  (2) Lúc đầu, trước đây (hàm ý bây giờ đã thay đổi).",
+      "usage": "Phó từ 本来 có hai nghĩa chính: (1) diễn tả tình huống/sự việc theo lẽ thường đáng ra phải vậy; (2) tương đương 原先/原来 chỉ trạng thái trước kia khác với hiện tại.",
+      "context": "Thường dùng để giải thích lý do thay đổi kế hoạch hoặc nhấn mạnh bổn phận/lẽ phải.",
+      "examples": [
+        { "chinese": "这件事本来应该听他的。", "pinyin": "Zhè jiàn shì běnlái yīnggāi tīng tā de.", "vietnamese": "Chuyện này đáng lẽ phải nghe anh ấy." },
+        { "chinese": "我本来不会开车，但现在开得特别好。", "pinyin": "Wǒ běnlái bú huì kāi chē, dàn xiànzài kāi de tèbié hǎo.", "vietnamese": "Trước đây tôi không biết lái xe, nhưng bây giờ lái đặc biệt giỏi." },
+        { "chinese": "（这次招聘）本来是小李负责的。", "pinyin": "(Zhè cì zhāopìn) běnlái shì Xiǎo Lǐ fùzé de.", "vietnamese": "(Đợt tuyển dụng này) lúc đầu là do Tiểu Lý phụ trách." }
+      ],
+      "important_notes": "Khi mang nghĩa 'lúc đầu', vế sau thường có 但是/可是/现在 để nêu sự thay đổi.",
+      "common_errors": "Phân biệt với 原来 (Bài 4): 原来 có nghĩa 'hóa ra là...' (phát hiện điều trước kia chưa biết), 本来 không có nghĩa này.",
+      "comparison": "Sẽ so sánh chi tiết cặp '原来 — 本来' ở Bài 4.",
+      "mini_practice": [
+        { "prompt": "A：你怎么没去爬山呢？  B：______________________________。（本来）", "sample_answer": "我本来打算去的，可是突然下雨了", "explanation": "Dùng 本来 chỉ dự định ban đầu đã bị thay đổi." },
+        { "prompt": "A：附近那家银行5点就下班了！  B：那我不去了，______________________。（本来）", "sample_answer": "我本来想五点半去取钱的", "explanation": "Dùng 本来 giải thích kế hoạch trước khi biết tin." }
+      ]
+    },
+    {
+      "title": "另外",
+      "formula": "(1) Đại từ: 另外(的) + Số lượng(+N) / 另外的(+N)  |  (2) Phó từ: 另外 + 还/再/又 + V  |  (3) Liên từ: ……。另外，……",
+      "meaning": "(1) Khác (ngoài phạm vi đã nêu)  |  (2) Thêm, riêng khác  |  (3) Ngoài ra.",
+      "usage": "另外 đảm nhiệm 3 từ loại: đại từ (chỉ người/vật ngoài phạm vi trước đó), phó từ (thường đi với 还/再/又), và liên từ (nối vế câu/câu mang nghĩa 'ngoài ra').",
+      "context": "Rất hay xuất hiện trong cả khẩu ngữ lẫn văn viết để mở rộng hoặc bổ sung ý.",
+      "examples": [
+        { "chinese": "前面车有点儿多，我们走另外一条路，不会迟到的。", "pinyin": "Qiánmian chē yǒudiǎnr duō, wǒmen zǒu lìngwài yì tiáo lù, bú huì chídào de.", "vietnamese": "Phía trước hơi đông xe, chúng ta đi con đường khác đi, sẽ không bị muộn đâu." },
+        { "chinese": "这件衣服有点儿大，你试试另外的那件吧。", "pinyin": "Zhè jiàn yīfu yǒudiǎnr dà, nǐ shìshi lìngwài de nà jiàn ba.", "vietnamese": "Chiếc áo này hơi rộng, bạn thử chiếc kia xem." },
+        { "chinese": "除了她说的，我另外又补充了几条意见。", "pinyin": "Chúle tā shuō de, wǒ lìngwài yòu bǔchōngle jǐ tiáo yìjiàn.", "vietnamese": "Ngoài những điều cô ấy nói, tôi còn bổ sung thêm vài ý kiến nữa." },
+        { "chinese": "家里的空调坏了，咱们另外再买一个吧。", "pinyin": "Jiā li de kōngtiáo huài le, zánmen lìngwài zài mǎi yí ge ba.", "vietnamese": "Điều hòa ở nhà hỏng rồi, chúng mình mua thêm một chiếc khác đi." },
+        { "chinese": "我学的就是法律专业，而且同事们都很喜欢我。另外，收入也不错。", "pinyin": "Wǒ xué de jiù shì fǎlǜ zhuānyè, érqiě tóngshìmen dōu hěn xǐhuan wǒ. Lìngwài, shōurù yě búcuò.", "vietnamese": "Ngành mình học chính là luật, hơn nữa đồng nghiệp ai cũng quý mình. Ngoài ra, thu nhập cũng rất khá." },
+        { "chinese": "现在上网买东西很方便，卖家可以把你买的东西送到你办公室或者家里。另外，还比较便宜。", "pinyin": "Xiànzài shàngwǎng mǎi dōngxi hěn fāngbiàn, màijiā kěyǐ bǎ nǐ mǎi de dōngxi sòngdào nǐ bàngōngshì huòzhě jiā li. Lìngwài, hái bǐjiào piányi.", "vietnamese": "Bây giờ mua đồ trên mạng rất tiện, người bán có thể giao hàng tới văn phòng hoặc nhà bạn. Ngoài ra, giá còn khá rẻ." }
+      ],
+      "important_notes": "Khi làm liên từ, phía sau 另外 thường có dấu phẩy (另外，……).",
+      "common_errors": "Nhầm lẫn giữa 另外 và 另 khi có trợ từ 的 hoặc động từ 2 âm tiết (xem bảng 比一比 bên dưới).",
+      "comparison": "Xem chi tiết bảng So sánh '另外 — 另' ngay bên dưới.",
+      "mini_practice": [
+        { "prompt": "A：同学们在体育馆做什么？  B：______________________________。（另外）", "sample_answer": "有的在打篮球，另外一些同学在打乒乓球", "explanation": "Dùng đại từ 另外 chỉ nhóm sinh viên còn lại." },
+        { "prompt": "A：你通知小王明天开会的时间了吗？ B：我让小夏告诉他了，____________________。（另外）", "sample_answer": "另外，我还给他发了一条短信", "explanation": "Dùng liên từ 另外 bổ sung thêm một hành động nữa." }
+      ]
+    },
+    {
+      "title": "首先……其次……",
+      "formula": "(1) Liệt kê: 首先……，其次……  |  (2) Phó từ: S + 首先 + V (đầu tiên, sớm nhất)",
+      "meaning": "(1) Trước hết..., thứ hai là...  |  (2) Đầu tiên, sớm nhất (chỉ dùng cho 首先).",
+      "usage": "首先 và 其次 làm đại từ thường kết hợp trong văn viết để liệt kê các sự việc theo trình tự logic hoặc mức độ quan trọng. Ngoài ra, 首先 còn làm phó từ nghĩa là '最先、最早'.",
+      "context": "Rất hữu ích khi thuyết trình, viết luận, trả lời phỏng vấn hoặc đưa ra lời khuyên có cấu trúc rõ ràng.",
+      "examples": [
+        { "chinese": "不管做什么事情，首先应该明白你为什么要做，其次要知道怎么做。", "pinyin": "Bùguǎn zuò shénme shìqing, shǒuxiān yīnggāi míngbai nǐ wèi shénme yào zuò, qícì yào zhīdào zěnme zuò.", "vietnamese": "Bất kể làm việc gì, trước hết phải hiểu rõ vì sao bạn làm, thứ hai phải biết làm như thế nào." },
+        { "chinese": "首先，要穿正式的衣服，这会给面试者留下一个好的印象，让他觉得你是一个认真的人。其次，应聘时不要紧张。", "pinyin": "Shǒuxiān, yào chuān zhèngshì de yīfu, zhè huì gěi miànshìzhě liúxià yí ge hǎo de yìnxiàng, ràng tā juéde nǐ shì yí ge rènzhēn de rén. Qícì, yìngpìn shí búyào jǐnzhāng.", "vietnamese": "Trước hết cần mặc quần áo trang trọng để tạo ấn tượng tốt với người phỏng vấn, khiến họ thấy bạn nghiêm túc. Thứ hai, khi ứng tuyển đừng căng thẳng." },
+        { "chinese": "不管以后做什么工作，你首先应该有一个好身体。", "pinyin": "Bùguǎn yǐhòu zuò shénme gōngzuò, nǐ shǒuxiān yīnggāi yǒu yí ge hǎo shēntǐ.", "vietnamese": "Dù sau này làm công việc gì, trước tiên bạn cần có một sức khỏe tốt." },
+        { "chinese": "很多人遇到不明白的地方，首先想到的是上网查一查。", "pinyin": "Hěn duō rén yùdào bù míngbai de dìfang, shǒuxiān xiǎngdào de shì shàngwǎng chá yi chá.", "vietnamese": "Nhiều người khi gặp chỗ chưa hiểu, điều đầu tiên nghĩ đến là lên mạng tra cứu." }
+      ],
+      "important_notes": "Sau 首先……其次…… có thể tiếp nối bằng 最后…… hoặc 当然，最重要的是…… như trong Bài khóa 4.",
+      "common_errors": "Không đảo thứ tự 其次 lên trước 首先.",
+      "comparison": "Gần nghĩa với 第一……第二…… nhưng 首先……其次…… tự nhiên và mang tính lập luận hơn.",
+      "mini_practice": [
+        { "prompt": "要想学好汉语，____________________，其次，应该常常复习。（首先）", "sample_answer": "首先要认真听课 / 首先要多听多说", "explanation": "Đưa ra điều kiện quan trọng thứ nhất với 首先." },
+        { "prompt": "我不同意你这么做，首先你不了解他，______________________________。（其次）", "sample_answer": "其次，你也没有足够的经验", "explanation": "Dùng 其次 nêu lý do thứ hai." }
+      ]
+    },
+    {
+      "title": "不管",
+      "formula": "不管 + Từ nghi vấn (什么/怎么/谁/哪儿/多么) / A还是B / 正反形式，……都/也 + Kết quả không đổi",
+      "meaning": "Bất kể..., bất luận... (thì kết quả vẫn...)",
+      "usage": "Liên từ 不管 biểu thị trong mọi tình huống giả định khác nhau, kết quả hay kết luận đều không thay đổi. Vế 1 bắt buộc chứa từ nghi vấn, cấu trúc lựa chọn '还是' hoặc dạng chính phản (忙不忙); vế 2 thường có 都 / 也.",
+      "context": "Dùng trong cả khẩu ngữ lẫn văn viết để nhấn mạnh tính kiên định, không bị điều kiện bên ngoài tác động.",
+      "examples": [
+        { "chinese": "山本不管做什么事都非常认真。", "pinyin": "Shānběn bùguǎn zuò shénme shì dōu fēicháng rènzhēn.", "vietnamese": "Yamamoto bất kể làm việc gì cũng đều vô cùng nghiêm túc." },
+        { "chinese": "不管是上课、上班，还是与别人约会，准时都非常重要。", "pinyin": "Bùguǎn shì shàng kè, shàng bān, háishì yǔ biérén yuēhuì, zhǔnshí dōu fēicháng zhòngyào.", "vietnamese": "Bất luận là đi học, đi làm hay hẹn hò với người khác, đúng giờ đều vô cùng quan trọng." },
+        { "chinese": "不管忙不忙，他每天都要锻炼一个小时身体。", "pinyin": "Bùguǎn máng bù máng, tā měi tiān dōu yào duànliàn yí ge xiǎoshí shēntǐ.", "vietnamese": "Bất kể bận hay không bận, mỗi ngày anh ấy đều tập thể dục một tiếng." }
+      ],
+      "important_notes": "Ba mẫu chuẩn đứng sau 不管: (1) đại từ nghi vấn (什么/谁/多), (2) 还是, (3) chính phản (忙不忙/去不去).",
+      "common_errors": "Sai: '不管天气很冷，他都去锻炼' (vế 1 chỉ có 1 tình huống xác định) → Đúng: '不管天气多冷，他都去锻炼' hoặc '即使天气很冷，他也去锻炼'.",
+      "comparison": "Phân biệt với 即使 (Bài 1): sau 即使 là một giả thiết cụ thể (即使下雨); sau 不管 phải là nhiều khả năng/từ nghi vấn (不管下不下雨).",
+      "mini_practice": [
+        { "prompt": "______________________________，他每天都去打篮球。（不管、还是）", "sample_answer": "不管是刮风还是下雨", "explanation": "Dùng 不管……还是…… liệt kê các khả năng đối lập." },
+        { "prompt": "A：这次你一定要帮我！  B：放心吧，______________________________。（不管、多）", "sample_answer": "不管有多困难，我都会帮你的", "explanation": "Kết hợp 不管 + từ nghi vấn 多 + vế sau 都." }
+      ]
+    }
+  ],
+  "comparison_section": {
+    "label": "比一比 So sánh",
+    "pair": "另外 — 另",
+    "term_a": "另外 (lìngwài)",
+    "term_b": "另 (lìng)",
+    "similarity": "Cả hai đều có thể làm đại từ (chỉ người/vật ngoài phạm vi đã nêu: 他一边说谢谢，一边从手里拿出另外/另一本书) và làm phó từ (chỉ hành động ngoài phạm vi trước đó: 我今天晚上另外/另有安排).",
+    "differences": [
+      { "criterion": "Khi làm đại từ (kết hợp với 的)", "a": "Dùng cấu trúc '另外(+的)+数量(+名词)' hoặc '另外+的(+名词)', CÓ THỂ thêm 的 (另外的一辆 / 另外的车).", "b": "Dùng cấu trúc '另+数量(+名词)', KHÔNG BAO GIỜ thêm 的 (chỉ nói 另一辆, không nói 另的)." },
+      { "criterion": "Khi làm phó từ (đứng trước động từ)", "a": "KHÔNG bị hạn chế số âm tiết của động từ; bổ nghĩa được cả động từ 1 âm tiết và 2 âm tiết (另外找 / 另外提供 / 另外再准备).", "b": "Thường CHỈ bổ nghĩa trực tiếp cho động từ ĐƠN ÂM TIẾT (另找 / 另有 / 另换)." },
+      { "criterion": "Chức năng Liên từ ('Ngoài ra')", "a": "CÓ THỂ làm liên từ đứng đầu câu/vế câu (另外，还要记得多喝水 / 另外，给我来杯绿茶).", "b": "KHÔNG có chức năng liên từ." }
+    ]
+  },
+  "texts": [
+    {
+      "id": "t1", "title_zh": "小夏和小雨聊小雨面试的情况", "title_vi": "Tiểu Hạ và Tiểu Vũ nói chuyện về buổi phỏng vấn của Tiểu Vũ",
+      "lines": [
+        { "speaker": "小夏", "chinese": "你上午的面试怎么样？", "pinyin": "Nǐ shàngwǔ de miànshì zěnmeyàng?", "vietnamese": "Buổi phỏng vấn sáng nay của cậu thế nào?" },
+        { "speaker": "小雨", "chinese": "还可以，他们问的问题都挺容易的，就是我有点儿紧张。", "pinyin": "Hái kěyǐ, tāmen wèn de wèntí dōu tǐng róngyì de, jiù shì wǒ yǒudiǎnr jǐnzhāng.", "vietnamese": "Cũng tạm được, các câu hỏi họ hỏi đều khá dễ, chỉ là mình hơi hồi hộp một chút." },
+        { "speaker": "小夏", "chinese": "面试的时候，一定要对自己有信心，要相信自己的能力。", "pinyin": "Miànshì de shíhou, yídìng yào duì zìjǐ yǒu xìnxīn, yào xiāngxìn zìjǐ de nénglì.", "vietnamese": "Khi phỏng vấn nhất định phải có lòng tin vào bản thân, phải tin vào năng lực của chính mình." },
+        { "speaker": "小雨", "chinese": "你说得对！3月15号上午8点在学校体育馆还有一个招聘会，你去吗？", "pinyin": "Nǐ shuō de duì! Sānyuè shíwǔ hào shàngwǔ bā diǎn zài xuéxiào tǐyùguǎn hái yǒu yí ge zhāopìnhuì, nǐ qù ma?", "vietnamese": "Cậu nói đúng lắm! 8 giờ sáng ngày 15 tháng 3 ở nhà thi đấu trường còn có một hội chợ tuyển dụng nữa, cậu có đi không?" },
+        { "speaker": "小夏", "chinese": "我还没决定呢。", "pinyin": "Wǒ hái méi juédìng ne.", "vietnamese": "Mình vẫn chưa quyết định nữa." },
+        { "speaker": "小雨", "chinese": "听说这次招聘会提供的工作机会很多，我们一起去看看吧。", "pinyin": "Tīngshuō zhè cì zhāopìnhuì tígōng de gōngzuò jīhuì hěn duō, wǒmen yìqǐ qù kànkan ba.", "vietnamese": "Nghe nói đợt tuyển dụng lần này cung cấp nhiều cơ hội việc làm lắm, chúng mình cùng đi xem nhé." }
+      ]
+    },
+    {
+      "id": "t2", "title_zh": "马经理和小林聊招聘的事情", "title_vi": "Giám đốc Mã và Tiểu Lâm nói chuyện về việc tuyển dụng",
+      "lines": [
+        { "speaker": "马经理", "chinese": "小林，这次招聘不是小李负责吗？", "pinyin": "Xiǎo Lín, zhè cì zhāopìn bú shì Xiǎo Lǐ fùzé ma?", "vietnamese": "Tiểu Lâm, đợt tuyển dụng lần này chẳng phải do Tiểu Lý phụ trách sao?" },
+        { "speaker": "小林", "chinese": "本来是小李负责的，但是他突然生病住院了，所以就交给我来做了。", "pinyin": "Běnlái shì Xiǎo Lǐ fùzé de, dànshì tā tūrán shēng bìng zhù yuàn le, suǒyǐ jiù jiāogěi wǒ lái zuò le.", "vietnamese": "Lúc đầu là Tiểu Lý phụ trách, nhưng anh ấy đột nhiên ốm nhập viện rồi, nên đã giao lại cho tôi làm." },
+        { "speaker": "马经理", "chinese": "哦，这次应聘的人多吗？", "pinyin": "Ò, zhè cì yìngpìn de rén duō ma?", "vietnamese": "Ồ, lần này người đến ứng tuyển có đông không?" },
+        { "speaker": "小林", "chinese": "经理，这次来应聘的一共有15人。经过笔试和面试，有两个不错。这是他们的材料，您看看。", "pinyin": "Jīnglǐ, zhè cì lái yìngpìn de yígòng yǒu shíwǔ rén. Jīngguò bǐshì hé miànshì, yǒu liǎng ge búcuò. Zhè shì tāmen de cáiliào, nín kànkan.", "vietnamese": "Thưa giám đốc, lần này đến ứng tuyển tổng cộng có 15 người. Qua thi viết và phỏng vấn có hai người khá tốt. Đây là hồ sơ của họ, mời anh xem qua." },
+        { "speaker": "马经理", "chinese": "这两个人的能力都比较符合我们的要求。你通知他们下周一上午九点来我办公室吧。", "pinyin": "Zhè liǎng ge rén de nénglì dōu bǐjiào fúhé wǒmen de yāoqiú. Nǐ tōngzhī tāmen xià zhōuyī shàngwǔ jiǔ diǎn lái wǒ bàngōngshì ba.", "vietnamese": "Năng lực của cả hai người này đều khá phù hợp với yêu cầu của chúng ta. Cậu thông báo cho họ 9 giờ sáng thứ Hai tuần sau đến văn phòng tôi nhé." },
+        { "speaker": "小林", "chinese": "好的，那我马上跟他们联系。", "pinyin": "Hǎo de, nà wǒ mǎshàng gēn tāmen liánxì.", "vietnamese": "Vâng ạ, vậy tôi liên hệ với họ ngay đây." }
+      ]
+    },
+    {
+      "id": "t3", "title_zh": "小林和王静聊王静的工作情况", "title_vi": "Tiểu Lâm và Vương Tịnh trò chuyện về tình hình công việc của Vương Tịnh",
+      "lines": [
+        { "speaker": "小林", "chinese": "王静，好久不见了！大学毕业后就没联系了，你现在在哪儿工作呢？", "pinyin": "Wáng Jìng, hǎojiǔ bú jiàn le! Dàxué bì yè hòu jiù méi liánxì le, nǐ xiànzài zài nǎr gōngzuò ne?", "vietnamese": "Vương Tịnh, lâu lắm không gặp! Sau khi tốt nghiệp đại học là không liên lạc nữa, giờ cậu đang làm việc ở đâu thế?" },
+        { "speaker": "王静", "chinese": "我一毕业就去上海当律师了。", "pinyin": "Wǒ yí bì yè jiù qù Shànghǎi dāng lǜshī le.", "vietnamese": "Mình vừa tốt nghiệp là đi Thượng Hải làm luật sư rồi." },
+        { "speaker": "小林", "chinese": "你对现在的工作一定非常满意吧？", "pinyin": "Nǐ duì xiànzài de gōngzuò yídìng fēicháng mǎnyì ba?", "vietnamese": "Cậu nhất định rất hài lòng với công việc hiện tại phải không?" },
+        { "speaker": "王静", "chinese": "我很喜欢现在的工作，因为我学的就是法律专业，而且同事们都很喜欢我。另外，收入也不错。", "pinyin": "Wǒ hěn xǐhuan xiànzài de gōngzuò, yīnwèi wǒ xué de jiù shì fǎlǜ zhuānyè, érqiě tóngshìmen dōu hěn xǐhuan wǒ. Lìngwài, shōurù yě búcuò.", "vietnamese": "Mình rất thích công việc hiện tại, vì chuyên ngành mình học chính là luật, hơn nữa đồng nghiệp ai cũng quý mình. Ngoài ra, thu nhập cũng khá ổn." },
+        { "speaker": "小林", "chinese": "星期天咱们同学聚会，你能来参加吗？", "pinyin": "Xīngqītiān zánmen tóngxué jùhuì, nǐ néng lái cānjiā ma?", "vietnamese": "Chủ nhật lớp chúng mình họp lớp, cậu có thể đến tham gia không?" },
+        { "speaker": "王静", "chinese": "能来。虽然这次来北京，时间安排得很紧张，但我一定借这次机会去跟大家见见面。", "pinyin": "Néng lái. Suīrán zhè cì lái Běijīng, shíjiān ānpái de hěn jǐnzhāng, dàn wǒ yídìng jiè zhè cì jīhuì qù gēn dàjiā jiànjian miàn.", "vietnamese": "Đến được chứ. Tuy lần này đến Bắc Kinh lịch trình sắp xếp rất gấp gáp, nhưng mình nhất định sẽ nhân dịp này tới gặp mặt mọi người." }
+      ]
+    },
+    {
+      "id": "t4", "title_zh": "面试需要注意什么", "title_vi": "Những điều cần chú ý khi đi phỏng vấn",
+      "lines": [
+        { "speaker": "", "chinese": "面试的时候，经理对我印象不错，还通知我明天就可以上班了。真没想到，找工作这么顺利。", "pinyin": "Miànshì de shíhou, jīnglǐ duì wǒ yìnxiàng búcuò, hái tōngzhī wǒ míngtiān jiù kěyǐ shàng bān le. Zhēn méi xiǎngdào, zhǎo gōngzuò zhème shùnlì.", "vietnamese": "Lúc phỏng vấn, giám đốc có ấn tượng rất tốt về tôi, còn thông báo ngày mai tôi có thể đi làm ngay. Thật không ngờ tìm việc lại thuận lợi như vậy." },
+        { "speaker": "", "chinese": "你想知道面试需要注意什么吗？首先，要穿正式的衣服，这会给面试者留下一个好的印象，让他觉得你是一个认真的人。", "pinyin": "Nǐ xiǎng zhīdào miànshì xūyào zhùyì shénme ma? Shǒuxiān, yào chuān zhèngshì de yīfu, zhè huì gěi miànshìzhě liúxià yí ge hǎo de yìnxiàng, ràng tā juéde nǐ shì yí ge rènzhēn de rén.", "vietnamese": "Bạn có muốn biết khi phỏng vấn cần chú ý điều gì không? Trước hết, phải mặc quần áo trang trọng, điều này sẽ để lại ấn tượng tốt cho người phỏng vấn, khiến họ cảm thấy bạn là người nghiêm túc." },
+        { "speaker": "", "chinese": "其次，应聘时不要紧张。回答问题时，说得不要太快，声音也不要太小，要相信自己有能力做好。当然，最重要的是回答问题要诚实。", "pinyin": "Qícì, yìngpìn shí búyào jǐnzhāng. Huídá wèntí shí, shuō de búyào tài kuài, shēngyīn yě búyào tài xiǎo, yào xiāngxìn zìjǐ yǒu nénglì zuòhǎo. Dāngrán, zuì zhòngyào de shì huídá wèntí yào chéngshí.", "vietnamese": "Thứ hai, khi ứng tuyển đừng căng thẳng. Lúc trả lời câu hỏi đừng nói quá nhanh, giọng cũng đừng quá nhỏ, hãy tin rằng bản thân có năng lực làm tốt. Đương nhiên, quan trọng nhất là trả lời câu hỏi phải trung thực." }
+      ]
+    },
+    {
+      "id": "t5", "title_zh": "第一印象的重要性", "title_vi": "Tầm quan trọng của ấn tượng đầu tiên",
+      "lines": [
+        { "speaker": "", "chinese": "第一印象就是在第一次见面时给别人留下的印象。虽然第一印象不总是对的，但如果想改变却很困难。你给别人的第一印象会影响他们以后对你的感觉和判断。", "pinyin": "Dì yī yìnxiàng jiù shì zài dì yī cì jiàn miàn shí gěi biérén liúxià de yìnxiàng. Suīrán dì yī yìnxiàng bù zǒng shì duì de, dàn rúguǒ xiǎng gǎibiàn què hěn kùnnan. Nǐ gěi biérén de dì yī yìnxiàng huì yǐngxiǎng tāmen yǐhòu duì nǐ de gǎnjué hé pànduàn.", "vietnamese": "Ấn tượng đầu tiên chính là ấn tượng để lại cho người khác trong lần gặp mặt đầu tiên. Tuy ấn tượng đầu tiên không phải lúc nào cũng đúng, nhưng nếu muốn thay đổi thì lại rất khó. Ấn tượng đầu tiên bạn để lại sẽ ảnh hưởng đến cảm nhận và phán đoán sau này của họ về bạn." },
+        { "speaker": "", "chinese": "所以，给第一次见面的同事留下好的印象，以后的工作可能会更顺利；给第一次见面的顾客留下好的印象，你可能会卖出更多的东西。", "pinyin": "Suǒyǐ, gěi dì yī cì jiàn miàn de tóngshì liúxià hǎo de yìnxiàng, yǐhòu de gōngzuò kěnéng huì gèng shùnlì; gěi dì yī cì jiàn miàn de gùkè liúxià hǎo de yìnxiàng, nǐ kěnéng huì màichū gèng duō de dōngxi.", "vietnamese": "Vì vậy, tạo ấn tượng tốt cho đồng nghiệp gặp lần đầu thì công việc sau này có thể sẽ thuận lợi hơn; tạo ấn tượng tốt cho khách hàng gặp lần đầu thì bạn có thể bán được nhiều hàng hơn." },
+        { "speaker": "", "chinese": "但是，如果第一次见面给别人留下像不准时这样的坏印象，那么以后就很难让别人相信你。所以不管是上课、上班，还是与别人约会，准时都非常重要。", "pinyin": "Dànshì, rúguǒ dì yī cì jiàn miàn gěi biérén liúxià xiàng bù zhǔnshí zhèyàng de huài yìnxiàng, nàme yǐhòu jiù hěn nán ràng biérén xiāngxìn nǐ. Suǒyǐ bùguǎn shì shàng kè, shàng bān, háishì yǔ biérén yuēhuì, zhǔnshí dōu fēicháng zhòngyào.", "vietnamese": "Nhưng nếu lần đầu gặp gỡ lại để lại ấn tượng xấu như không đúng giờ, thì sau này rất khó khiến người khác tin tưởng bạn. Cho nên bất kể là đi học, đi làm hay hẹn gặp người khác, đúng giờ đều vô cùng quan trọng." }
+      ]
+    }
+  ],
+  "reading_questions": [
+    { "question_zh": "小雨面试时紧张吗？面试时应该怎样？", "question_vi": "Tiểu Vũ có hồi hộp khi phỏng vấn không? Khi phỏng vấn nên như thế nào?", "answer_zh": "小雨面试时有点儿紧张。面试的时候，一定要对自己有信心，要相信自己的能力。", "answer_vi": "Tiểu Vũ hơi hồi hộp lúc phỏng vấn. Khi phỏng vấn nhất định phải có lòng tin vào bản thân và tin vào năng lực của mình." },
+    { "question_zh": "谁负责过这次招聘工作？参加应聘的两个人适合不适合这个工作？为什么？", "question_vi": "Ai từng phụ trách đợt tuyển dụng này? Hai ứng viên có phù hợp với công việc không? Tại sao?", "answer_zh": "本来是小李负责的，后来因为他突然生病住院了，就交给小林来做。那两个人很适合，因为他们的能力都比较符合公司的要求。", "answer_vi": "Ban đầu Tiểu Lý phụ trách, sau đó anh ấy ốm nhập viện nên giao cho Tiểu Lâm làm. Hai ứng viên đó rất phù hợp vì năng lực của họ khá đáp ứng yêu cầu của công ty." },
+    { "question_zh": "王静为什么很喜欢她现在的工作？", "question_vi": "Vì sao Vương Tịnh rất thích công việc hiện tại của mình?", "answer_zh": "因为她学的就是法律专业，同事们都很喜欢她，另外收入也不错。", "answer_vi": "Vì cô học đúng chuyên ngành luật, các đồng nghiệp đều rất quý mến cô, ngoài ra thu nhập cũng rất khá." },
+    { "question_zh": "面试时如果穿正式的衣服，会给人带来什么好处？回答问题时应该注意哪些问题？", "question_vi": "Mặc quần áo trang trọng khi phỏng vấn mang lại lợi ích gì? Khi trả lời câu hỏi cần chú ý những gì?", "answer_zh": "穿正式的衣服会给面试者留下好印象，让他觉得你是个认真的人。回答问题时不要说得太快，声音不要太小，要相信自己的能力，最重要的是要诚实。", "answer_vi": "Mặc trang phục chính thức tạo ấn tượng tốt rằng bạn là người nghiêm túc. Khi trả lời không nói quá nhanh, giọng không quá nhỏ, tự tin vào năng lực và quan trọng nhất là phải thành thật." },
+    { "question_zh": "第一印象是什么意思？你给别人的第一印象对你有哪些影响？", "question_vi": "Ấn tượng đầu tiên có nghĩa là gì? Ấn tượng đầu tiên bạn để lại có ảnh hưởng gì đến bạn?", "answer_zh": "第一印象就是在第一次见面时给别人留下的印象。它会影响别人以后对你的感觉和判断：留下好印象能让工作更顺利或卖出更多东西，留下坏印象则很难让别人相信你。", "answer_vi": "Ấn tượng đầu tiên là ấn tượng để lại trong lần gặp đầu. Nó ảnh hưởng đến cảm nhận và đánh giá sau này: ấn tượng tốt giúp công việc thuận lợi hơn, bán được nhiều hàng hơn; ấn tượng xấu khiến người khác khó tin tưởng bạn." }
+  ],
+  "exercises": [
+    {
+      "id": "h4s3_ex1", "type": "meaning_mc", "level": "Nhận biết", "origin_tag": "Bài 3 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Trong câu “虽然这次来北京，时间安排得很紧张” (Bài khóa 3), từ “紧张” có nghĩa là gì?",
+      "options": ["gấp rút, sít sao", "hồi hộp, lo sợ", "chính thức, trang trọng", "thành thật, ngay thẳng"],
+      "answer": "gấp rút, sít sao",
+      "explanation": "Ngoài nghĩa tâm lý 'hồi hộp, căng thẳng' ở Bài khóa 1, 紧张 còn mang nghĩa 'gấp gáp, sát sao' khi nói về thời gian/lịch trình.",
+      "review_tip": "Ôn cả 2 nghĩa của #2 紧张."
+    },
+    {
+      "id": "h4s3_ex2", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.44", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ thích hợp điền vào chỗ trống: “他们这次招聘的要求虽然高，但是那些要求你都______，你应该去试试。”",
+      "options": ["符合", "提供", "判断", "安排"],
+      "answer": "符合",
+      "explanation": "符合 + 要求 (đáp ứng/phù hợp với yêu cầu) là cụm kết hợp cố định trọng tâm của bài.",
+      "review_tip": "Ôn cụm kết hợp 符合要求 / 符合条件 (#11 符合)."
+    },
+    {
+      "id": "h4s3_ex3", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.44", "mistake_category": "Từ vựng",
+      "prompt": "Điền từ thích hợp: “看一个人怎么说话，常可以比较容易地______出他是一个什么样的人。”",
+      "options": ["判断", "提供", "符合", "紧张"],
+      "answer": "判断",
+      "explanation": "判断出 = phán đoán ra, nhận xét ra được bản chất một người qua cách nói chuyện.",
+      "review_tip": "Ôn từ #26 判断 và cách dùng bổ ngữ kết quả 出."
+    },
+    {
+      "id": "h4s3_ex4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "比一比 tr.40", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ ĐÚNG cho câu: “上个月经理去上海参加了______的一个重要会议。”",
+      "options": ["另外", "另", "Cả 另外 và 另 đều đúng", "首先"],
+      "answer": "另外",
+      "explanation": "Phía sau chỗ trống có trợ từ '的' (……的一个重要会议). Quy tắc: 另外 có thể đi với 的 (另外的一个), còn 另 TUYỆT ĐỐI không đi với 的.",
+      "review_tip": "Ôn quy tắc 1 trong bảng 比一比 '另外 — 另'."
+    },
+    {
+      "id": "h4s3_ex5", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "比一比 tr.40", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ ĐÚNG cho câu: “等一会儿吧，我先看看菜单。______，给我来杯绿茶。”",
+      "options": ["另外", "另", "Cả hai đều đúng", "其次"],
+      "answer": "另外",
+      "explanation": "Đứng đầu câu sau dấu chấm, nối ý bổ sung mang nghĩa 'Ngoài ra' là chức năng LIÊN TỪ — chỉ có 另外 làm được, 另 không làm liên từ.",
+      "review_tip": "Ôn quy tắc 3 trong bảng 比一比 '另外 — 另'."
+    },
+    {
+      "id": "h4s3_ex6", "type": "context_mc", "level": "Phân biệt", "origin_tag": "同字词 tr.45", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ nhóm đồng tự '时' phù hợp (ôn Bài 2 & Bài 3): “每个人都有缺点，但我们应该努力发现自己的缺点，______去改。”",
+      "options": ["及时", "准时", "平时", "时间"],
+      "answer": "及时",
+      "explanation": "及时去改 = kịp thời sửa đổi (không chậm trễ). 准时 chỉ đúng giờ theo lịch cố định (như 准时起飞), không dùng cho việc sửa khuyết điểm.",
+      "review_tip": "Ôn nhóm đồng tự 时 (时候 / 时间 / 及时 / 平时 / 准时)."
+    },
+    {
+      "id": "h4s3_ex7", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Ôn Bài 1–3 (30%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Câu nào sau đây sử dụng liên từ “不管” ĐÚNG ngữ pháp?",
+      "options": [
+        "不管忙不忙，他每天都要锻炼一个小时身体。",
+        "不管今天很冷，他都要去游泳。",
+        "不管他工作很忙，但是还是去打球。",
+        "不管是下雨，所以他没来。"
+      ],
+      "answer": "不管忙不忙，他每天都要锻炼一个小时身体。",
+      "explanation": "Sau 不管 phải là hình thức lựa chọn/bất định (từ nghi vấn, 还是 hoặc chính phản 忙不忙) và vế sau phối hợp với 都/也.",
+      "review_tip": "Ôn Chú thích 5 不管 và phân biệt với 尽管 (Bài 2), 即使 (Bài 1)."
+    },
+    {
+      "id": "h4s3_ex8", "type": "reorder", "level": "Vận dụng", "origin_tag": "Bài 3 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Sắp xếp các từ sau thành câu hoàn chỉnh đúng ngữ pháp:",
+      "tokens": ["留下", "穿正式的衣服", "面试者", "一个好的印象。", "会给", "面试时"],
+      "answer": "面试时穿正式的衣服会给面试者留下一个好的印象。",
+      "explanation": "Trạng ngữ thời gian 面试时 + chủ ngữ 穿正式的衣服 + động từ năng nguyện 会 + kết cấu 给 + 某人 + 留下 + 印象.",
+      "review_tip": "Ôn cấu trúc 给……留下……印象 (#21 留, và #3 印象 Bài 1)."
+    },
+    {
+      "id": "h4s3_ex9", "type": "error_fix", "level": "Vận dụng", "origin_tag": "Ôn Bài 1–3 (30%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Tìm lỗi sai và chọn cách sửa ĐÚNG cho câu: “这次招聘会上，王静很信心，她的能力也很适合公司的要求。”",
+      "options": [
+        "Sửa '很信心' thành '很有信心' và sửa '适合……要求' thành '符合……要求'",
+        "Chỉ sửa '招聘会上' thành '招聘会里'",
+        "Sửa '很适合' thành '很适应'",
+        "Câu trên hoàn toàn đúng"
+      ],
+      "answer": "Sửa '很信心' thành '很有信心' và sửa '适合……要求' thành '符合……要求'",
+      "explanation": "信心 là danh từ (phải nói 很有信心); đi với 要求/条件/标准 phải dùng 符合 (không dùng 适合).",
+      "review_tip": "Ôn #3 信心 và phân biệt #11 符合 (Bài 3) vs 适合 (Bài 1) vs 适应 (Bài 2)."
+    },
+    {
+      "id": "h4s3_ex10", "type": "reading_mc", "level": "Phân biệt", "origin_tag": "Bài khóa 4", "mistake_category": "Đọc hiểu",
+      "passage": "你想知道面试需要注意什么吗？首先，要穿正式的衣服，这会给面试者留下一个好的印象，让他觉得你是一个认真的人。其次，应聘时不要紧张。回答问题时，说得不要太快，声音也不要太小，要相信自己有能力做好。当然，最重要的是回答问题要诚实。",
+      "prompt": "Theo đoạn văn trên, điều nào được tác giả nhấn mạnh là QUAN TRỌNG NHẤT khi phỏng vấn?",
+      "options": [
+        "Trả lời câu hỏi phải trung thực, thành thật",
+        "Mặc quần áo thật đắt tiền",
+        "Nói chuyện thật nhanh để chứng tỏ tự tin",
+        "Hỏi thật nhiều về mức thu nhập"
+      ],
+      "answer": "Trả lời câu hỏi phải trung thực, thành thật",
+      "explanation": "Câu cuối đoạn văn khẳng định rõ: '当然，最重要的是回答问题要诚实。'",
+      "review_tip": "Đọc lại bài khóa 4 và ôn cấu trúc 首先……其次……当然，最重要的是……"
+    },
+    {
+      "id": "h4s3_ex11", "type": "translate_zh_vi", "level": "Vận dụng", "origin_tag": "Dịch Trung – Việt", "mistake_category": "Dịch thuật",
+      "prompt": "Dịch sang tiếng Việt: “不管是上课、上班，还是与别人约会，准时都非常重要。”",
+      "hint": "Chú ý cặp 不管……还是……都…… và 准时.",
+      "keywords": ["bất kể", "đúng giờ"],
+      "answer": "Bất kể là đi học, đi làm hay hẹn gặp người khác, đúng giờ đều vô cùng quan trọng.",
+      "explanation": "不管……还是……都…… = bất kể... hay... đều...; 与别人约会 = hẹn gặp người khác; 准时 = đúng giờ.",
+      "review_tip": "Ôn #28 准时, #29 不管, #30 与, #31 约会."
+    }
+  ]
+}

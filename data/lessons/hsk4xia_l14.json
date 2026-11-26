@@ -1,0 +1,881 @@
+{
+  "id": "hsk4xia_l14",
+  "book_id": "hsk4xia",
+  "textbook": "HSK 4 下",
+  "lesson_number": 14,
+  "title_zh": "保护地球母亲",
+  "title_vi": "Bảo vệ Mẹ Trái Đất",
+  "pdf_pages": "Trang 51–62 (Chuẩn HSK4 下.pdf)",
+  "source_status": "verified_textbook",
+  "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"],
+  "vocabulary": [
+    {
+      "id": "hsk4x_l14_w01", "order": 1, "textbook": "HSK 4 下", "lesson": 14,
+      "hanzi": "出差", "pinyin": "chū chāi",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ ly hợp)", "meaning": "đi công tác",
+        "structure": "去上海出差 / 出一次差 / 出差三天",
+        "explanation": "Rời nơi làm việc đến địa phương khác để giải quyết công vụ ngắn hạn.",
+        "examples": [{ "chinese": "这是明天你出差要带的毛巾、牙膏和牙刷，把它们放到箱子里吧。", "pinyin": "Zhè shì míngtiān nǐ chū chāi yào dài de máojīn, yágāo hé yáshuā, bǎ tāmen fàngdào xiāngzi li ba.", "vietnamese": "Đây là khăn lau, kem đánh răng và bàn chải ngày mai anh đi công tác cần mang theo, để chúng vào vali đi.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "被派遣到外地办理公务。",
+      "collocations": ["去出差", "出一次差", "出差回来"],
+      "usage_note": "Chú ý chữ 差 ở đây đọc chāi (thanh 1), KHÔNG đọc chà! Là động từ ly hợp (出了一趟差), không mang địa điểm trực tiếp phía sau (phải nói 去北京出差).",
+      "common_errors": "Sai: '出差北京' hoặc đọc 'chū chà' → Đúng: '去北京出差' (chū chāi).",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l14_w02", "order": 2, "textbook": "HSK 4 下", "lesson": 14,
+      "hanzi": "毛巾", "pinyin": "máojīn",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "khăn lau",
+        "structure": "一条毛巾 / 洗脸毛巾",
+        "explanation": "Khăn bông dùng để lau mặt, lau tay hoặc lau người; lượng từ là 条.",
+        "examples": [{ "chinese": "这是明天你出差要带的毛巾、牙膏和牙刷。", "pinyin": "Zhè shì míngtiān nǐ chū chāi yào dài de máojīn, yágāo hé yáshuā.", "vietnamese": "Đây là khăn lau, kem đánh răng và bàn chải đánh răng ngày mai anh đi công tác cần mang.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "用棉纱织成的有毛圈的巾，用于擦脸、擦手等。",
+      "collocations": ["一条毛巾", "湿毛巾", "干毛巾"],
+      "usage_note": "Lượng từ chuẩn: 条 (yì tiáo máojīn).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l14_w03", "order": 3, "textbook": "HSK 4 下", "lesson": 14,
+      "hanzi": "牙膏", "pinyin": "yágāo",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "kem đánh răng",
+        "structure": "一支牙膏 / 牙膏和牙刷",
+        "explanation": "Chất dạng kem dùng với bàn chải để làm sạch răng.",
+        "examples": [{ "chinese": "这是明天你出差要带的毛巾、牙膏和牙刷。", "pinyin": "Zhè shì míngtiān nǐ chū chāi yào dài de máojīn, yágāo hé yáshuā.", "vietnamese": "Đây là khăn lau, kem đánh răng và bàn chải ngày mai anh đi công tác cần mang theo.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "刷牙用的膏状洁齿品。",
+      "collocations": ["一支牙膏", "挤牙膏", "牙膏和牙刷"],
+      "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l14_w04", "order": 4, "textbook": "HSK 4 下", "lesson": 14,
+      "hanzi": "重", "pinyin": "zhòng",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "nặng",
+        "structure": "够重的了 / 超重 / 行李很重",
+        "explanation": "Trọng lượng lớn (trái nghĩa: 轻 qīng).",
+        "examples": [{ "chinese": "再说，箱子已经够重的了！", "pinyin": "Zàishuō, xiāngzi yǐjīng gòu zhòng de le!", "vietnamese": "Hơn nữa, cái vali đã đủ nặng lắm rồi!", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "形容词 (Nghĩa: nghiêm trọng, nặng nề)",
+          "meanings": ["nặng, nghiêm trọng (bệnh tật, mức độ: 严重, 重要)"],
+          "structure": "病得很重 / 责任很重",
+          "difference_note": "Miêu tả mức độ nặng nề về tình trạng, trách nhiệm.",
+          "examples": [{ "chinese": "他这次感冒挺重的，得好好休息几天。", "pinyin": "Tā zhè cì gǎnmào tǐng zhòng de, děi hǎohāor xiūxi jǐ tiān.", "vietnamese": "Đợt cảm này của anh ấy khá nặng, phải nghỉ ngơi kỹ vài ngày." }]
+        },
+        {
+          "part_of_speech": "副词 (Đa âm tự: chóng)",
+          "meanings": ["lại, lặp lại (重新, 重复)"],
+          "structure": "重新开始 / 重复一遍",
+          "difference_note": "Đọc thanh 2 chóng khi mang nghĩa lặp lại lần nữa.",
+          "examples": [{ "chinese": "别灰心，我们可以重新开始。", "pinyin": "Bié huīxīn, wǒmen kěyǐ chóngxīn kāishǐ.", "vietnamese": "Đừng nản lòng, chúng ta có thể bắt đầu lại từ đầu." }]
+        }
+      ],
+      "chinese_explanation": "分量较大（跟“轻”相对）；也指程度深；另读 chóng 表示再、重复。",
+      "collocations": ["很重", "超重", "严重", "重新 (chóngxīn)"],
+      "usage_note": "Trong bài tập tr.60 sách ghi rõ phiên âm 重 (zhòng) cho từ ghép 超重 (quá cân).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l14_w05", "order": 5, "textbook": "HSK 4 下", "lesson": 14,
+      "hanzi": "行", "pinyin": "xíng",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "được, đồng ý",
+        "structure": "行，没问题 / ……就行 / 不行",
+        "explanation": "Biểu thị sự đồng ý, chấp nhận hoặc khả thi trong khẩu ngữ.",
+        "examples": [{ "chinese": "行，没问题。我明天上午10点的飞机，你能开车把我送到机场吗？", "pinyin": "Xíng, méi wèntí. Wǒ míngtiān shàngwǔ shí diǎn de fēijī, nǐ néng kāi chē bǎ wǒ sòngdào jīchǎng ma?", "vietnamese": "Được, không vấn đề gì. Chuyến bay của anh là 10 giờ sáng mai, em lái xe đưa anh ra sân bay được không?", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "形容词 (Khẩu ngữ: giỏi, cừ)",
+          "meanings": ["giỏi giang, có năng lực"],
+          "structure": "你真行！ / 她这方面很行",
+          "difference_note": "Dùng khen ngợi năng lực của ai đó.",
+          "examples": [{ "chinese": "这么难的题你都会做，你真行！", "pinyin": "Zhème nán de tí nǐ dōu huì zuò, nǐ zhēn xíng!", "vietnamese": "Câu khó thế này cậu cũng làm được, cậu giỏi thật!" }]
+        },
+        {
+          "part_of_speech": "名词 (Đa âm tự: háng)",
+          "meanings": ["ngành nghề, hàng lối, ngân hàng (银行, 行业, 第一行)"],
+          "structure": "银行 / 交通银行 / 一行字",
+          "difference_note": "Đọc thanh 2 háng khi là danh từ chỉ hàng ngang hoặc cơ sở kinh doanh.",
+          "examples": [{ "chinese": "请把第一行再读一遍。", "pinyin": "Qǐng bǎ dì-yī háng zài dú yí biàn.", "vietnamese": "Hãy đọc lại dòng thứ nhất một lượt nữa." }]
+        }
+      ],
+      "chinese_explanation": "可以、同意；也指能干、走动；另读 háng 指行列、行业或机构。",
+      "collocations": ["就行", "不行", "行李", "银行 (yínháng)"],
+      "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l14_w06", "order": 6, "textbook": "HSK 4 下", "lesson": 14,
+      "hanzi": "省", "pinyin": "shěng",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "tiết kiệm",
+        "structure": "省油钱 / 省钱 / 省时间 / 省力气",
+        "explanation": "Giảm thiểu sự tiêu hao tiền bạc, thời gian hoặc công sức.",
+        "examples": [{ "chinese": "这样不仅省油钱，而且还不会污染空气。", "pinyin": "Zhèyàng bùjǐn shěng yóuqián, érqiě hái bú huì wūrǎn kōngqì.", "vietnamese": "Như vậy không những tiết kiệm tiền xăng mà còn không làm ô nhiễm không khí.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ – từ mới #32 của Bài 13)",
+          "meanings": ["tỉnh (đơn vị hành chính)"],
+          "structure": "山东省 / 广东省",
+          "difference_note": "Cùng chữ 省 đọc shěng nhưng làm danh từ chỉ tỉnh (xuất hiện ngay trong bài tập 练习2 câu 5 tr.60: 山东省烟台市).",
+          "examples": [{ "chinese": "山东省烟台市是中国著名的“苹果之都”。", "pinyin": "Shāndōng Shěng Yāntái Shì shì Zhōngguó zhùmíng de “píngguǒ zhī dū”.", "vietnamese": "Thành phố Yên Đài tỉnh Sơn Đông là “kinh đô táo” nổi tiếng của Trung Quốc." }]
+        }
+      ],
+      "chinese_explanation": "动词指节约、减少花费；名词指行政区划单位“省”。",
+      "collocations": ["省钱", "省油钱", "省时间", "山东省"],
+      "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l14_w07", "order": 7, "textbook": "HSK 4 下", "lesson": 14,
+      "hanzi": "污染", "pinyin": "wūrǎn",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "làm ô nhiễm",
+        "structure": "污染空气 / 污染环境 / 污染水源",
+        "explanation": "Làm bẩn, gây hại đến môi trường tự nhiên bằng chất thải, khí thải.",
+        "examples": [{ "chinese": "这样不仅省油钱，而且还不会污染空气。", "pinyin": "Zhèyàng bùjǐn shěng yóuqián, érqiě hái bú huì wūrǎn kōngqì.", "vietnamese": "Như vậy không những tiết kiệm tiền xăng mà còn không làm ô nhiễm không khí.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ – xuất hiện trong Bài khóa 4 & 5)",
+          "meanings": ["sự ô nhiễm"],
+          "structure": "环境污染 / 空气污染 / 降低污染 / 减少污染",
+          "difference_note": "Làm danh từ tân ngữ sau 降低, 减少, 产生, 造成.",
+          "examples": [{ "chinese": "少开车，多骑车或者乘坐地铁和公共汽车，这样能降低空气污染。", "pinyin": "Shǎo kāi chē, duō qí chē huòzhě chéngzuò dìtiě hé gōnggòng qìchē, zhèyàng néng jiàngdī kōngqì wūrǎn.", "vietnamese": "Ít lái xe hơi, đi xe đạp nhiều hơn hoặc đi tàu điện ngầm và xe buýt, như vậy có thể giảm thiểu ô nhiễm không khí." }]
+        }
+      ],
+      "chinese_explanation": "沾染有害物质使不清洁；也作名词指污染现象。",
+      "collocations": ["污染空气", "环境污染", "减少污染", "降低空气污染"],
+      "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l14_w08", "order": 8, "textbook": "HSK 4 下", "lesson": 14,
+      "hanzi": "卫生间", "pinyin": "wèishēngjiān",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "nhà vệ sinh",
+        "structure": "去卫生间 / 打扫卫生间",
+        "explanation": "Phòng vệ sinh, phòng tắm (cách gọi lịch sự, phổ biến tương đương 洗手间).",
+        "examples": [{ "chinese": "小王，卫生间怎么那么脏啊？这会给客人留下不好的印象，快去打扫一下。", "pinyin": "Xiǎo Wáng, wèishēngjiān zěnme nàme zāng a? Zhè huì gěi kèrén liúxià bù hǎo de yìnxiàng, kuài qù dǎsǎo yíxià.", "vietnamese": "Tiểu Vương, sao nhà vệ sinh bẩn thế này? Điều này sẽ để lại ấn tượng xấu cho khách, mau đi dọn dẹp một chút đi.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "厕所、洗漱间（较礼貌的说法）。",
+      "collocations": ["去卫生间", "打扫卫生间", "干净卫生"],
+      "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l14_w09", "order": 9, "textbook": "HSK 4 下", "lesson": 14,
+      "hanzi": "脏", "pinyin": "zāng",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "bẩn, bẩn thỉu",
+        "structure": "那么脏 / 弄脏 / 脏衣服",
+        "explanation": "Dơ bẩn, không sạch sẽ (trái nghĩa: 干净).",
+        "examples": [{ "chinese": "小王，卫生间怎么那么脏啊？", "pinyin": "Xiǎo Wáng, wèishēngjiān zěnme nàme zāng a?", "vietnamese": "Tiểu Vương, sao nhà vệ sinh lại bẩn đến thế?", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "有尘土、汗渍、污垢等，不干净（跟“干净”相对）。",
+      "collocations": ["很脏", "弄脏", "脏衣服"],
+      "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l14_w10", "order": 10, "textbook": "HSK 4 下", "lesson": 14,
+      "hanzi": "抱歉", "pinyin": "bàoqiàn",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "xin lỗi",
+        "structure": "实在抱歉 / 真抱歉 / 非常抱歉",
+        "explanation": "Bày tỏ sự áy náy, xin lỗi lịch sự khi làm phiền hoặc chưa làm tốt việc gì.",
+        "examples": [{ "chinese": "经理，实在抱歉。今天店里太忙了，我还没来得及打扫。", "pinyin": "Jīnglǐ, shízài bàoqiàn. Jīntiān diàn li tài máng le, wǒ hái méi láidejí dǎsǎo.", "vietnamese": "Giám đốc, thật sự xin lỗi. Hôm nay trong tiệm bận quá, tôi vẫn chưa kịp dọn dẹp.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "形容词 (Tính từ tâm lý)",
+          "meanings": ["áy náy, cảm thấy có lỗi"],
+          "structure": "感到很抱歉 / 心里很抱歉",
+          "difference_note": "Có thể nhận phó từ chỉ mức độ (很, 实在, 非常) đứng trước, khác với 对不起 (ít nói 很对不起).",
+          "examples": [{ "chinese": "我感到非常抱歉，让你等了这么长时间。", "pinyin": "Wǒ gǎndào fēicháng bàoqiàn, ràng nǐ děng le zhème cháng shíjiān.", "vietnamese": "Tôi cảm thấy vô cùng áy náy vì đã để bạn đợi lâu như vậy." }]
+        }
+      ],
+      "chinese_explanation": "心中不安，觉得对不住别人。",
+      "collocations": ["实在抱歉", "真抱歉", "非常抱歉", "深感抱歉"],
+      "usage_note": "Có thể kết hợp với phó từ mức độ (真抱歉, 实在抱歉, 非常抱歉); mang sắc thái lịch sự, trang trọng hơn 对不起.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l14_w11", "order": 11, "textbook": "HSK 4 下", "lesson": 14,
+      "hanzi": "空", "pinyin": "kōng",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "trống, rỗng, không",
+        "structure": "空饮料瓶子 / 空盒子 / 空房间",
+        "explanation": "Bên trong không chứa gì cả (trái nghĩa: 满 mǎn).",
+        "examples": [{ "chinese": "那张桌子下面还有一些空饮料瓶子和纸盒子。", "pinyin": "Nà zhāng zhuōzi xiàmiàn hái yǒu yìxiē kōng yǐnliào píngzi hé zhǐ hézi.", "vietnamese": "Dưới cái bàn kia vẫn còn mấy chai nước uống rỗng và hộp giấy.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Nghĩa: bầu trời, không trung)",
+          "meanings": ["bầu trời, không khí (天空, 空气, 空调)"],
+          "structure": "天空 / 空气 / 空中",
+          "difference_note": "Đọc thanh 1 kōng trong nhiều từ ghép quen thuộc.",
+          "examples": [{ "chinese": "早上的空气真新鲜！", "pinyin": "Zǎoshang de kōngqì zhēn xīnxiān!", "vietnamese": "Không khí buổi sáng thật trong lành!" }]
+        },
+        {
+          "part_of_speech": "名词 / 动词 (Đa âm tự: kòng)",
+          "meanings": ["chỗ trống, thời gian rảnh (有空儿, 填空, 空位)"],
+          "structure": "有空儿 / 填空题",
+          "difference_note": "Đọc thanh 4 kòng khi chỉ khoảng trống hoặc thời gian rảnh rỗi (đã gặp trong 填空 Bài 11).",
+          "examples": [{ "chinese": "你明天下午有空儿吗？", "pinyin": "Nǐ míngtiān xiàwǔ yǒu kòngr ma?", "vietnamese": "Chiều mai cậu có rảnh không?" }]
+        }
+      ],
+      "chinese_explanation": "不包含什么，没有内容（跟“满”相对）；也指天空；另读 kòng 指闲暇或空隙。",
+      "collocations": ["空瓶子", "空气", "空调", "有空儿 (kòngr)"],
+      "usage_note": "Phân biệt kỹ cách đọc đa âm: kōng (trống rỗng, bầu trời) vs kòng (rảnh rỗi, ô trống).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l14_w12", "order": 12, "textbook": "HSK 4 下", "lesson": 14,
+      "hanzi": "盒子", "pinyin": "hézi",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "hộp",
+        "structure": "纸盒子 / 一个盒子 / 装在盒子里",
+        "explanation": "Vật đựng có nắp bằng giấy, gỗ hoặc nhựa (khác 箱子 là thùng/vali to).",
+        "examples": [{ "chinese": "那张桌子下面还有一些空饮料瓶子和纸盒子。", "pinyin": "Nà zhāng zhuōzi xiàmiàn hái yǒu yìxiē kōng yǐnliào píngzi hé zhǐ hézi.", "vietnamese": "Dưới chiếc bàn đó còn có mấy chai nước rỗng và hộp giấy.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "底盖相合的盛东西的器具（多指较小的）。",
+      "collocations": ["纸盒子", "一个盒子", "礼物盒"],
+      "usage_note": "Phân biệt: 盒子 (hộp nhỏ) vs 箱子 (vali, thùng lớn).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l14_w13", "order": 13, "textbook": "HSK 4 下", "lesson": 14,
+      "hanzi": "扔", "pinyin": "rēng",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "vứt bỏ",
+        "structure": "把它们扔掉 / 扔垃圾 / 乱扔",
+        "explanation": "Ném đi, vứt bỏ thứ không dùng nữa.",
+        "examples": [{ "chinese": "好的，我马上就去把它们扔掉。", "pinyin": "Hǎo de, wǒ mǎshàng jiù qù bǎ tāmen rēngdiào.", "vietnamese": "Vâng, tôi sẽ đi vứt chúng đi ngay lập tức.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "抛弃，丢弃；也指投掷。",
+      "collocations": ["扔掉", "扔垃圾", "乱扔东西"],
+      "usage_note": "Phân biệt với #30 丢 trong bài tập tr.61: 扔 là chủ động ném/vứt rác (扔一下垃圾); 丢 ngoài nghĩa ném (丢进垃圾桶) còn có nghĩa ĐÁNH MẤT không cố ý (我的钥匙丢了 — không dùng 扔 cho nghĩa đánh mất!).",
+      "common_errors": "Sai: '我的钥匙扔了' (khi muốn nói bị mất chìa khóa) → Đúng: '我的钥匙丢了'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l14_w14", "order": 14, "textbook": "HSK 4 下", "lesson": 14,
+      "hanzi": "以", "pinyin": "yǐ",
+      "lesson_usage": {
+        "part_of_speech": "介词 (Giới từ)", "meaning": "dựa vào, bằng",
+        "structure": "以 + Phương thức/Tiêu chuẩn/Tốc độ + Động từ",
+        "explanation": "Tương đương 用, 拿 trong văn viết; trong bài khóa 2 dùng trong cụm '以最快的速度完成'.",
+        "examples": [{ "chinese": "经理您放心，我一定以最快的速度完成。", "pinyin": "Jīnglǐ nín fàngxīn, wǒ yídìng yǐ zuì kuài de sùdù wánchéng.", "vietnamese": "Giám đốc cứ yên tâm, tôi nhất định sẽ hoàn thành với tốc độ nhanh nhất.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "连词 (Liên từ chỉ mục đích – nêu rõ trong Chú thích 2 tr.54)",
+          "meanings": ["để, nhằm (tương đương 用来, 为的是)"],
+          "structure": "Vế 1，以 + Mục đích (cùng chủ ngữ)",
+          "difference_note": "Đặt đầu vế câu sau để nêu mục đích của hành động ở vế 1; hai vế phải cùng chủ ngữ.",
+          "examples": [{ "chinese": "中国人往往会请他们去饭店或餐厅吃饭，以表示对客人的尊重和礼貌。", "pinyin": "Zhōngguó rén wǎngwǎng huì qǐng tāmen qù fàndiàn huò cāntīng chī fàn, yǐ biǎoshì duì kèrén de zūnzhòng hé lǐmào.", "vietnamese": "Người Trung Quốc thường mời họ đến khách sạn hay nhà hàng dùng bữa để bày tỏ sự tôn trọng và lịch sự với khách." }]
+        },
+        {
+          "part_of_speech": "固定结构 (Cấu trúc cố định – nêu trong Chú thích 2 tr.54)",
+          "meanings": ["xem... như..., lấy... làm..."],
+          "structure": "以 A 为 B (以胖为美 / 以……为标准 / 以……为镜子)",
+          "difference_note": "Tương đương 把 A 作为 B hoặc 认为 A 是 B.",
+          "examples": [{ "chinese": "我们应该以那些敢说真话的人为镜子，这样才能及时发现自己的缺点。", "pinyin": "Wǒmen yīnggāi yǐ nàxiē gǎn shuō zhēnhuà de rén wéi jìngzi, zhèyàng cái néng jíshí fāxiàn zìjǐ de quēdiǎn.", "vietnamese": "Chúng ta nên lấy những người dám nói lời thật làm gương soi, như vậy mới kịp thời phát hiện khuyết điểm của mình." }]
+        }
+      ],
+      "chinese_explanation": "介词表示凭借（用、拿）；连词表示目的（用来、以便）；固定搭配“以……为……”。",
+      "collocations": ["以最快的速度", "以……为标准", "以表示尊重", "以适应需要"],
+      "usage_note": "Chú thích 2 tr.54 dạy đầy đủ cả 3 cách dùng quan trọng của 以.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l14_w15", "order": 15, "textbook": "HSK 4 下", "lesson": 14,
+      "hanzi": "速度", "pinyin": "sùdù",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "tốc độ",
+        "structure": "最快的速度 / 速度很快 / 提高速度",
+        "explanation": "Mức độ nhanh hay chậm của chuyển động hoặc tiến độ công việc.",
+        "examples": [{ "chinese": "经理您放心，我一定以最快的速度完成。", "pinyin": "Jīnglǐ nín fàngxīn, wǒ yídìng yǐ zuì kuài de sùdù wánchéng.", "vietnamese": "Giám đốc cứ yên tâm, tôi nhất định hoàn thành với tốc độ nhanh nhất.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "运动或进展的快慢程度。",
+      "collocations": ["以最快的速度", "火车的速度", "提高速度", "加快速度"],
+      "usage_note": "Nằm trong nhóm 同字词 tr.61 với chữ 度: 速度 – 温度 – 态度.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l14_w16", "order": 16, "textbook": "HSK 4 下", "lesson": 14,
+      "hanzi": "地球", "pinyin": "dìqiú",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "trái đất",
+        "structure": "地球一小时 / 保护地球环境 / 地球母亲",
+        "explanation": "Hành tinh nơi loài người sinh sống.",
+        "examples": [{ "chinese": "早上听新闻说明天有一个叫“地球一小时”的活动，你对这个活动了解吗？", "pinyin": "Zǎoshang tīng xīnwén shuō míngtiān yǒu yí ge jiào “Dìqiú Yì Xiǎoshí” de huódòng, nǐ duì zhège huódòng liǎojiě ma?", "vietnamese": "Sáng nay nghe tin tức nói ngày mai có sự kiện tên là “Giờ Trái Đất”, cậu có biết về hoạt động này không?", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "太阳系九大行星（现八大行星）之一，人类居住的星球。",
+      "collocations": ["地球一小时", "保护地球", "地球母亲", "地球环境"],
+      "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l14_w17", "order": 17, "textbook": "HSK 4 下", "lesson": 14,
+      "hanzi": "既然", "pinyin": "jìrán",
+      "lesson_usage": {
+        "part_of_speech": "连词 (Liên từ)", "meaning": "vì, đã... thì...",
+        "structure": "既然 + Sự thật đã có，(那么)就 / 也 / 还 + Kết luận suy ra",
+        "explanation": "Đặt ở vế đầu của câu ghép nêu tiền đề là sự thật đã xảy ra hoặc đã xác định, vế sau thường phối hợp với 就, 也, 还, 那么 để rút ra kết luận hoặc đề nghị.",
+        "examples": [{ "chinese": "既然明天晚上公司会关灯停电，那么我们肯定不用加班了。", "pinyin": "Jìrán míngtiān wǎnshang gōngsī huì guān dēng tíng diàn, nàme wǒmen kěndìng búyòng jiā bān le.", "vietnamese": "Đã vậy — vì tối mai công ty sẽ tắt đèn cắt điện, thế thì chúng ta chắc chắn không phải tăng ca rồi.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "连词，用在复句前半句，提出已经成为现实或已肯定的前提，后半句据以推出结论。",
+      "collocations": ["既然……就……", "既然……那么……", "既然这样"],
+      "usage_note": "Phân biệt với 因为……所以……: 因为 nhấn mạnh nguyên nhân khách quan; 既然 nhấn mạnh suy luận chủ quan, đề nghị, câu hỏi tu từ dựa trên tiền đề sẵn có (không phối hợp với 所以!).",
+      "common_errors": "Sai: '既然下雨了，所以别去了' → Đúng: '既然下雨了，那就别去了'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l14_w18", "order": 18, "textbook": "HSK 4 下", "lesson": 14,
+      "hanzi": "停", "pinyin": "tíng",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "ngừng, cúp, cắt",
+        "structure": "停电 / 停水 / 停止 / 雨停了",
+        "explanation": "Chấm dứt hoạt động, ngừng cung cấp (điện, nước) hoặc ngừng rơi (mưa).",
+        "examples": [{ "chinese": "既然明天晚上公司会关灯停电，那么我们肯定不用加班了。", "pinyin": "Jìrán míngtiān wǎnshang gōngsī huì guān dēng tíng diàn, nàme wǒmen kěndìng búyòng jiā bān le.", "vietnamese": "Vì tối mai công ty sẽ tắt đèn cắt điện, nên chúng ta chắc chắn khỏi phải tăng ca rồi.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Nghĩa: đỗ xe, dừng lại)",
+          "meanings": ["đỗ, đậu (xe, tàu, máy bay)", "dừng bước"],
+          "structure": "停车 / 停在门口 / 不停地",
+          "difference_note": "Rất phổ biến trong giao thông (停车场 = bãi đỗ xe) và cụm phó từ 不停地 (không ngừng).",
+          "examples": [{ "chinese": "请问，这附近哪里可以停车？", "pinyin": "Qǐngwèn, zhè fùjìn nǎlǐ kěyǐ tíng chē?", "vietnamese": "Xin hỏi gần đây chỗ nào có thể đỗ xe ạ?" }]
+        }
+      ],
+      "chinese_explanation": "止住，不动；也指中断（如停电、停水）或停放车辆。",
+      "collocations": ["停电", "停车", "雨停了", "不停地"],
+      "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l14_w19", "order": 19, "textbook": "HSK 4 下", "lesson": 14,
+      "hanzi": "得意", "pinyin": "déyì",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "hể hả, đắc chí",
+        "structure": "得意的样子 / 别太得意 / 因成功而得意",
+        "explanation": "Vẻ mặt, tâm trạng khoái chí, tự mãn khi đạt được điều vừa ý.",
+        "examples": [{ "chinese": "看你得意的样子！还以为你高兴是为了支持环保，原来是因为不用加班啊！", "pinyin": "Kàn nǐ déyì de yàngzi! Hái yǐwéi nǐ gāoxìng shì wèile zhīchí huánbǎo, yuánlái shì yīnwèi búyòng jiā bān a!", "vietnamese": "Nhìn cái vẻ đắc chí của cậu kìa! Cứ tưởng cậu vui là vì ủng hộ bảo vệ môi trường, hóa ra là vì không phải tăng ca!", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "称心如意，感到非常满意（常带轻微调侃或贬义，表示骄傲自满）。",
+      "collocations": ["得意的样子", "得意洋洋", "不要因成功而得意"],
+      "usage_note": "Thường mang sắc thái hơi trêu đùa hoặc chê nhẹ (kiêu ngạo, tự đắc), khác với 满意 (hài lòng trung tính).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l14_w20", "order": 20, "textbook": "HSK 4 下", "lesson": 14,
+      "hanzi": "目的", "pinyin": "mùdì",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "mục đích",
+        "structure": "目的挺简单的 / 达到目的 / 为了……的目的",
+        "explanation": "Kết quả hoặc mục tiêu muốn đạt tới khi thực hiện một hành động.",
+        "examples": [{ "chinese": "其实目的挺简单的，就是提醒人们节约用电，希望引起人们对气候变暖问题的关注。", "pinyin": "Qíshí mùdì tǐng jiǎndān de, jiù shì tíxǐng rénmen jiéyuē yòng diàn, xīwàng yǐnqǐ rénmen duì qìhòu biàn nuǎn wèntí de guānzhù.", "vietnamese": "Thật ra mục đích khá đơn giản, chính là nhắc nhở mọi người tiết kiệm điện, hy vọng thu hút sự quan tâm của mọi người đối với vấn đề biến đổi khí hậu ấm lên.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "想要达到的地点、境地或结果。",
+      "collocations": ["达到目的", "主要目的", "目的地", "有目的"],
+      "usage_note": "目的地 (mùdìdì) = điểm đến (khi du lịch, di chuyển).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l14_w21", "order": 21, "textbook": "HSK 4 下", "lesson": 14,
+      "hanzi": "暖", "pinyin": "nuǎn",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "ấm, ấm áp",
+        "structure": "气候变暖 / 暖和 / 温暖",
+        "explanation": "Nhiệt độ tăng lên hoặc ấm áp dễ chịu (trái nghĩa: 冷).",
+        "examples": [{ "chinese": "希望引起人们对气候变暖问题的关注。", "pinyin": "Xīwàng yǐnqǐ rénmen duì qìhòu biàn nuǎn wèntí de guānzhù.", "vietnamese": "Hy vọng khơi dậy sự quan tâm của mọi người đối với vấn đề khí hậu ấm lên.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "暖和，不冷（跟“冷”相对）。",
+      "collocations": ["气候变暖", "全球变暖", "暖和", "温暖"],
+      "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l14_w22", "order": 22, "textbook": "HSK 4 下", "lesson": 14,
+      "hanzi": "塑料袋", "pinyin": "sùliàodài",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "túi nilông, túi nhựa",
+        "structure": "免费塑料袋 / 使用塑料袋 / 减少塑料袋",
+        "explanation": "Túi làm bằng nhựa tổng hợp, tiện lợi nhưng khó phân hủy và gây ô nhiễm môi trường.",
+        "examples": [{ "chinese": "塑料袋给人们的生活带来方便，受到人们的普遍欢迎，可是，它的大量使用也带来了严重的环境污染问题。", "pinyin": "Sùliàodài gěi rénmen de shēnghuó dàilái fāngbiàn, shòudào rénmen de pǔbiàn huānyíng, kěshì, tā de dàliàng shǐyòng yě dàiláile yánzhòng de huánjìng wūrǎn wèntí.", "vietnamese": "Túi nilông mang lại sự tiện lợi cho cuộc sống con người, được mọi người đón nhận rộng rãi, nhưng việc sử dụng số lượng lớn nó cũng gây ra vấn đề ô nhiễm môi trường nghiêm trọng.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "以塑料为原料制成的袋子。",
+      "collocations": ["免费塑料袋", "环保塑料袋", "拒绝使用塑料袋"],
+      "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l14_w23", "order": 23, "textbook": "HSK 4 下", "lesson": 14,
+      "hanzi": "于是", "pinyin": "yúshì",
+      "lesson_usage": {
+        "part_of_speech": "连词 (Liên từ)", "meaning": "thế là",
+        "structure": "Vế 1。于是，+ Vế 2 (diễn ra ngay tiếp nối sau vế 1)",
+        "explanation": "Đặt ở vế sau của câu ghép để chỉ sự việc xảy ra tiếp nối ngay sau sự việc ở vế trước.",
+        "examples": [{ "chinese": "于是，一些国家规定，超市、商场不能为顾客提供免费塑料袋，并且鼓励大家购买可以多次使用的购物袋。", "pinyin": "Yúshì, yìxiē guójiā guīdìng, chāoshì, shāngchǎng bù néng wèi gùkè tígōng miǎnfèi sùliàodài, bìngqiě gǔlì dàjiā gòumǎi kěyǐ duō cì shǐyòng de gòuwùdài.", "vietnamese": "Thế là một số quốc gia quy định siêu thị, trung tâm thương mại không được phát túi nilông miễn phí cho khách, đồng thời khuyến khích mọi người mua túi mua sắm dùng được nhiều lần.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "连词，表示后一事紧接着前一事发生，后一事往往是由前一事引起的。",
+      "collocations": ["于是就", "于是开始", "于是决定"],
+      "usage_note": "Xem kỹ bảng 比一比 '于是—因此' (tr.58–59): 于是 nhấn mạnh trình tự trước–sau (A xảy ra trước → B xảy ra ngay sau); 因此 nhấn mạnh quan hệ nhân–quả logic.",
+      "common_errors": "Dùng 于是 cho câu suy luận quy luật chung không có trình tự sự kiện (VD: '习惯是不容易改变的，因此，父母要帮孩子养成好习惯' — không dùng 于是).",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l14_w24", "order": 24, "textbook": "HSK 4 下", "lesson": 14,
+      "hanzi": "鼓励", "pinyin": "gǔlì",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "khuyến khích",
+        "structure": "鼓励 + Ai + Làm gì (鼓励大家购买购物袋 / 鼓励少抽烟)",
+        "explanation": "Động viên, khích lệ tinh thần để người khác thêm tự tin hoặc làm điều tích cực.",
+        "examples": [{ "chinese": "并且鼓励大家购买可以多次使用的购物袋。", "pinyin": "Bìngqiě gǔlì dàjiā gòumǎi kěyǐ duō cì shǐyòng de gòuwùdài.", "vietnamese": "Đồng thời khuyến khích mọi người mua túi đi chợ có thể dùng nhiều lần.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ)",
+          "meanings": ["sự khích lệ, lời động viên"],
+          "structure": "谢谢你的鼓励 / 给……很大鼓励",
+          "difference_note": "Làm tân ngữ cho 给, 谢谢, 需要.",
+          "examples": [{ "chinese": "谢谢老师的鼓励，我一定会更加努力的。", "pinyin": "Xièxie lǎoshī de gǔlì, wǒ yídìng huì gèngjiā nǔlì de.", "vietnamese": "Cảm ơn sự động viên của cô giáo, em nhất định sẽ cố gắng hơn nữa." }]
+        }
+      ],
+      "chinese_explanation": "激发，勉励，使人振作。",
+      "collocations": ["鼓励大家", "互相鼓励", "得到鼓励", "感谢鼓励"],
+      "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l14_w25", "order": 25, "textbook": "HSK 4 下", "lesson": 14,
+      "hanzi": "拒绝", "pinyin": "jùjué",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "từ chối",
+        "structure": "拒绝 + Yêu cầu / Lời mời / Động từ (拒绝使用塑料袋 / 拒绝朋友的要求)",
+        "explanation": "Không đồng ý, không tiếp nhận đề nghị, yêu cầu hay sự việc nào đó.",
+        "examples": [{ "chinese": "或者购物时自备购物袋，甚至拒绝使用塑料袋。", "pinyin": "Huòzhě gòuwù shí zìbèi gòuwùdài, shènzhì jùjué shǐyòng sùliàodài.", "vietnamese": "Hoặc tự chuẩn bị túi mua sắm khi đi chợ, thậm chí từ chối sử dụng túi nilông.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "不接受（请求、意见或赠礼等）。",
+      "collocations": ["拒绝使用", "拒绝要求", "礼貌拒绝", "不好意思拒绝"],
+      "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l14_w26", "order": 26, "textbook": "HSK 4 下", "lesson": 14,
+      "hanzi": "减少", "pinyin": "jiǎnshǎo",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "giảm bớt",
+        "structure": "减少 + 数量 / 污染 / 压力 / 浪费",
+        "explanation": "Bớt đi một phần so với ban đầu về số lượng hay mức độ (trái nghĩa: 增加).",
+        "examples": [{ "chinese": "但这样做可以减少塑料袋的使用数量，对环境保护有很大的作用。", "pinyin": "Dàn zhèyàng zuò kěyǐ jiǎnshǎo sùliàodài de shǐyòng shùliàng, duì huánjìng bǎohù yǒu hěn dà de zuòyòng.", "vietnamese": "Nhưng làm như vậy có thể giảm bớt số lượng sử dụng túi nilông, có tác dụng rất lớn đối với việc bảo vệ môi trường.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "减去一部分（跟“增加”相对）。",
+      "collocations": ["减少数量", "减少污染", "减少浪费", "大大减少"],
+      "usage_note": "Phân biệt: 减少 (giảm về số lượng) vs 降低 (hạ thấp về mức độ, giá cả, nhiệt độ, ô nhiễm: 降低价格, 降低空气污染).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l14_w27", "order": 27, "textbook": "HSK 4 下", "lesson": 14,
+      "hanzi": "数量", "pinyin": "shùliàng",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "số lượng",
+        "structure": "使用数量 / 数量不多 / 增加数量 / 减少数量",
+        "explanation": "Con số tổng cộng nhiều hay ít của sự vật (đối chiếu với 质量 = chất lượng).",
+        "examples": [{ "chinese": "但这样做可以减少塑料袋的使用数量，对环境保护有很大的作用。", "pinyin": "Dàn zhèyàng zuò kěyǐ jiǎnshǎo sùliàodài de shǐyòng shùliàng, duì huánjìng bǎohù yǒu hěn dà de zuòyòng.", "vietnamese": "Nhưng làm như vậy có thể giảm bớt số lượng sử dụng túi nilông, có tác dụng lớn đối với bảo vệ môi trường.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "事物的多少。",
+      "collocations": ["使用数量", "数量不多", "数量和质量"],
+      "usage_note": "Nằm trong nhóm 同字词 chữ 量 của Bài 13 (商量 – 数量 – 质量).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l14_w28", "order": 28, "textbook": "HSK 4 下", "lesson": 14,
+      "hanzi": "温度", "pinyin": "wēndù",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "nhiệt độ",
+        "structure": "空调的温度 / 温度高/低",
+        "explanation": "Độ nóng hay lạnh của không khí, nước hoặc vật thể.",
+        "examples": [{ "chinese": "例如，夏天把空调的温度开得高一些，出门时记得关空调和电脑，这样可以节约用电。", "pinyin": "Lìrú, xiàtiān bǎ kōngtiáo de wēndù kāi de gāo yìxiē, chū mén shí jìde guān kōngtiáo hé diànnǎo, zhèyàng kěyǐ jiéyuē yòng diàn.", "vietnamese": "Ví dụ, mùa hè chỉnh nhiệt độ điều hòa cao hơn một chút, lúc ra khỏi nhà nhớ tắt điều hòa và máy tính, như vậy có thể tiết kiệm điện.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "物体的冷热程度。",
+      "collocations": ["空调的温度", "温度较低", "室外温度", "提高温度"],
+      "usage_note": "Nằm trong nhóm 同字词 tr.61 chữ 度: 速度 – 温度 – 态度.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l14_w29", "order": 29, "textbook": "HSK 4 下", "lesson": 14,
+      "hanzi": "乘坐", "pinyin": "chéngzuò",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "đi, đáp (xe buýt...)",
+        "structure": "乘坐 + 地铁 / 公共汽车 / 火车 / 飞机",
+        "explanation": "Ngồi/đi bằng các phương tiện giao thông công cộng hoặc cỡ lớn (trang trọng hơn 坐).",
+        "examples": [{ "chinese": "少开车，多骑车或者乘坐地铁和公共汽车，这样能降低空气污染。", "pinyin": "Shǎo kāi chē, duō qí chē huòzhě chéngzuò dìtiě hé gōnggòng qìchē, zhèyàng néng jiàngdī kōngqì wūrǎn.", "vietnamese": "Ít lái xe hơi, đi xe đạp nhiều hơn hoặc đi tàu điện ngầm và xe buýt, như vậy có thể giảm ô nhiễm không khí.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "搭坐（车、船、飞机等交通工具），多用于书面语或公共广播。",
+      "collocations": ["乘坐地铁", "乘坐公共汽车", "乘坐火车", "乘坐飞机"],
+      "usage_note": "Không dùng 乘坐 cho xe đạp/xe máy (xe đạp phải dùng 骑车).",
+      "common_errors": "Sai: '乘坐自行车' → Đúng: '骑自行车'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l14_w30", "order": 30, "textbook": "HSK 4 下", "lesson": 14,
+      "hanzi": "丢", "pinyin": "diū",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "ném, vứt",
+        "structure": "把垃圾丢进垃圾桶 / 丢掉",
+        "explanation": "Trong bài khóa 5, dùng với nghĩa ném/vứt rác vào thùng rác.",
+        "examples": [{ "chinese": "还有养成把垃圾丢进垃圾桶的习惯什么的。", "pinyin": "Hái yǒu yǎngchéng bǎ lājī diūjìn lājītǒng de xíguàn shénme de.", "vietnamese": "Còn cả việc hình thành thói quen vứt rác vào thùng rác vân vân.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Nghĩa phổ biến nhất: đánh mất, thất lạc)",
+          "meanings": ["làm mất, thất lạc (chìa khóa, ví, hóa đơn)"],
+          "structure": "钥匙丢了 / 丢东西 / 不能丢",
+          "difference_note": "Xuất hiện ngay trong bài tập 练习2 câu 7 tr.61 ('我的钥匙丢了，进不了门'). Lưu ý 扔 KHÔNG có nghĩa đánh mất này!",
+          "examples": [{ "chinese": "喂，你还在逛街吗？我的钥匙丢了，进不了门，你快回来吧。", "pinyin": "Wèi, nǐ hái zài guàng jiē ma? Wǒ de yàoshi diū le, jìn bu liǎo mén, nǐ kuài huílai ba.", "vietnamese": "Alô, em vẫn đang đi dạo phố à? Chìa khóa của anh bị mất rồi, không vào nhà được, em mau về đi." }]
+        }
+      ],
+      "chinese_explanation": "抛、扔；也指遗失、失去。",
+      "collocations": ["丢进垃圾桶", "钥匙丢了", "丢三落四", "丢人"],
+      "usage_note": "Phân biệt rõ với #13 扔: 丢 có cả 2 nghĩa (vứt đi & đánh mất); 扔 chỉ có nghĩa chủ động vứt/ném.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l14_w31", "order": 31, "textbook": "HSK 4 下", "lesson": 14,
+      "hanzi": "垃圾桶", "pinyin": "lājītǒng",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "thùng rác",
+        "structure": "把垃圾丢进垃圾桶 / 垃圾桶又满了",
+        "explanation": "Thùng chuyên dùng để đựng rác thải.",
+        "examples": [{ "chinese": "还有养成把垃圾丢进垃圾桶的习惯什么的。", "pinyin": "Hái yǒu yǎngchéng bǎ lājī diūjìn lājītǒng de xíguàn shénme de.", "vietnamese": "Còn có hình thành thói quen bỏ rác vào thùng rác các thứ.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "用来盛放垃圾的桶。",
+      "collocations": ["丢进垃圾桶", "一个垃圾桶", "垃圾分类"],
+      "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l14_w32", "order": 32, "textbook": "HSK 4 下", "lesson": 14,
+      "hanzi": "美丽", "pinyin": "měilì",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "đẹp",
+        "structure": "变得更美丽 / 美丽的城市 / 美丽的风景",
+        "explanation": "Xinh đẹp, tươi đẹp (thiên về phong cảnh, thiên nhiên, quê hương, tâm hồn; trang trọng hơn 漂亮).",
+        "examples": [{ "chinese": "地球是我们共同的家，只有大家共同努力，减少污染、保护环境，才能使我们的家变得更美丽。", "pinyin": "Dìqiú shì wǒmen gòngtóng de jiā, zhǐyǒu dàjiā gòngtóng nǔlì, jiǎnshǎo wūrǎn, bǎohù huánjìng, cái néng shǐ wǒmen de jiā biànde gèng měilì.", "vietnamese": "Trái Đất là ngôi nhà chung của chúng ta, chỉ có mọi người cùng nhau nỗ lực, giảm ô nhiễm, bảo vệ môi trường, mới có thể khiến ngôi nhà của chúng ta trở nên tươi đẹp hơn.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "好看，漂亮（多用于风景、环境、形象或抽象事物）。",
+      "collocations": ["美丽的地球", "美丽的风景", "变得更美丽"],
+      "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    }
+  ],
+  "proper_nouns": [],
+  "same_char_expansion": {
+    "char": "度",
+    "words": [
+      { "hanzi": "速度", "pinyin": "sùdù", "meaning": "tốc độ" },
+      { "hanzi": "温度", "pinyin": "wēndù", "meaning": "nhiệt độ" },
+      { "hanzi": "态度", "pinyin": "tàidù", "meaning": "thái độ" }
+    ],
+    "examples": [
+      { "chinese": "现在火车的速度非常快，有时乘坐火车甚至比乘坐飞机更节约时间，因为一般来说，去火车站比去机场的距离要近得多。", "vietnamese": "Bây giờ tốc độ tàu hỏa rất nhanh, có lúc đi tàu hỏa thậm chí tiết kiệm thời gian hơn đi máy bay, vì nói chung khoảng cách ra ga tàu gần hơn ra sân bay nhiều." },
+      { "chinese": "很多人习惯在早上锻炼身体，但室外锻炼并不是越早越好，尤其是冬天，日出前温度较低，并不适合运动。", "vietnamese": "Nhiều người quen tập thể dục vào buổi sáng, nhưng tập ngoài trời không phải càng sớm càng tốt, nhất là mùa đông, trước lúc mặt trời mọc nhiệt độ khá thấp, không thích hợp vận động." },
+      { "chinese": "人们都希望生活会向着好的方向变化，当我们开始改变自己的态度时，这种变化就开始发生了。", "vietnamese": "Mọi người đều hy vọng cuộc sống sẽ thay đổi theo hướng tốt đẹp, khi chúng ta bắt đầu thay đổi thái độ của mình thì sự thay đổi ấy bắt đầu diễn ra." }
+    ]
+  },
+  "grammar": [
+    {
+      "title": "够 (Động từ & Phó từ)",
+      "formula": "(1) Động từ: V + 够 (+ Số lượng) / 够 + Dùng  |  (2) Phó từ: 够 + Tính từ + 的 (khẳng định) / 不够 + Tính từ",
+      "meaning": "(1) Đủ (về số lượng)  |  (2) Đủ mức, khá là (đạt tiêu chuẩn mức độ).",
+      "usage": "Động từ 够 chỉ đủ về số lượng (吃够, 睡够八小时). Phó từ 够 chỉ mức độ đã đạt đến tiêu chuẩn nhất định; trong câu khẳng định, cấu trúc '够 + Tính từ' thường thêm 的 ở cuối (够重的了).",
+      "context": "Dùng nhiều trong khẩu ngữ lẫn văn viết.",
+      "examples": [
+        { "chinese": "客人来了，中国人一定要把家里最好吃的东西拿出来请客人吃，并且让客人吃够、吃饱。", "pinyin": "Kèrén lái le, Zhōngguó rén yídìng yào bǎ jiā li zuì hǎochī de dōngxi ná chulai qǐng kèrén chī, bìngqiě ràng kèrén chīgòu, chībǎo.", "vietnamese": "Khách đến nhà, người Trung Quốc nhất định mang món ngon nhất trong nhà ra mời khách, hơn nữa phải để khách ăn đủ, ăn no." },
+        { "chinese": "医生提醒我们，睡觉时间太长并不好，有时甚至会引起头疼，一般睡够八小时就可以了。", "pinyin": "Yīshēng tíxǐng wǒmen, shuìjiào shíjiān tài cháng bìng bù hǎo, yǒushí shènzhì huì yǐnqǐ tóuténg, yìbān shuìgòu bā xiǎoshí jiù kěyǐ le.", "vietnamese": "Bác sĩ nhắc chúng ta ngủ quá lâu không tốt, đôi khi còn gây đau đầu, thông thường ngủ đủ tám tiếng là được." },
+        { "chinese": "不用拿这些，宾馆都会免费提供的。再说，箱子已经够重的了！", "pinyin": "Búyòng ná zhèxiē, bīnguǎn dōu huì miǎnfèi tígōng de. Zàishuō, xiāngzi yǐjīng gòu zhòng de le!", "vietnamese": "Không cần mang mấy thứ này đâu, khách sạn đều cung cấp miễn phí. Hơn nữa vali đã đủ nặng lắm rồi!" },
+        { "chinese": "有的人害怕失败，无法接受失败。这不仅是因为他们不够勇敢，还因为他们对自己要求太高。", "pinyin": "Yǒude rén hàipà shībài, wúfǎ jiēshòu shībài. Zhè bùjǐn shì yīnwèi tāmen bú gòu yǒnggǎn, hái yīnwèi tāmen duì zìjǐ yāoqiú tài gāo.", "vietnamese": "Có người sợ thất bại, không thể chấp nhận thất bại. Điều này không chỉ vì họ chưa đủ dũng cảm, mà còn vì họ yêu cầu bản thân quá cao." }
+      ],
+      "important_notes": "Câu khẳng định '够 + Adj' thường đi kèm 的 (够重的了, 够早的, 够多的了); câu phủ định '不够 + Adj' KHÔNG thêm 的 (不够勇敢, 不够详细).",
+      "common_errors": "",
+      "comparison": "",
+      "mini_practice": [
+        { "prompt": "A: 一共两百三十九块七。您付现金还是刷卡？ B: ______________________，还是刷卡吧。（够）", "sample_answer": "我带的现金不够", "explanation": "Động từ 够 chỉ số lượng tiền mặt không đủ." },
+        { "prompt": "A: 你来得______________________，正好8点。（够……的） B: 那就好，我还以为迟到了。", "sample_answer": "够准时的 / 够早的", "explanation": "Phó từ 够 trong câu khẳng định + Tính từ + 的." }
+      ]
+    },
+    {
+      "title": "以 (Giới từ, Liên từ & 以……为……)",
+      "formula": "(1) Giới từ: 以 + Phương thức/Tiêu chuẩn + V  |  (2) Cấu trúc: 以 A 为 B  |  (3) Liên từ: Vế 1，以 + Mục đích",
+      "meaning": "(1) Dựa vào, bằng, lấy  |  (2) Xem A như B, lấy A làm B  |  (3) Để, nhằm (chỉ mục đích).",
+      "usage": "Giới từ 以 tương đương 用/拿; cấu trúc '以……为……' nghĩa là '把……作为……'; liên từ 以 đứng đầu vế sau chỉ mục đích (cùng chủ ngữ với vế 1), tương đương 用来/为的是.",
+      "context": "Phong cách văn viết trang trọng, rất hay gặp trong bài đọc HSK 4–5.",
+      "examples": [
+        { "chinese": "经理您放心，我一定以最快的速度完成。", "pinyin": "Jīnglǐ nín fàngxīn, wǒ yídìng yǐ zuì kuài de sùdù wánchéng.", "vietnamese": "Giám đốc yên tâm, tôi nhất định hoàn thành với tốc độ nhanh nhất." },
+        { "chinese": "事情做到“差不多”就觉得满意的人往往不会成功，只有以严格的标准来要求自己才会让自己变得更优秀。", "pinyin": "Shìqing zuòdào “chàbuduō” jiù juéde mǎnyì de rén wǎngwǎng bú huì chénggōng, zhǐyǒu yǐ yángé de biāozhǔn lái yāoqiú zìjǐ cái huì ràng zìjǐ biàn de gèng yōuxiù.", "vietnamese": "Người làm việc đến mức “tàm tạm” đã thấy hài lòng thường sẽ không thành công, chỉ khi lấy tiêu chuẩn nghiêm khắc để yêu cầu bản thân mới giúp mình ưu tú hơn." },
+        { "chinese": "我们应该以那些敢说真话的人为镜子，这样才能及时发现自己的缺点。", "pinyin": "Wǒmen yīnggāi yǐ nàxiē gǎn shuō zhēnhuà de rén wéi jìngzi, zhèyàng cái néng jíshí fāxiàn zìjǐ de quēdiǎn.", "vietnamese": "Chúng ta nên lấy những người dám nói lời thật làm gương soi, như vậy mới kịp thời nhận ra khuyết điểm của mình." },
+        { "chinese": "如果是十分重要的朋友，中国人往往会请他们去饭店或餐厅吃饭，以表示对客人的尊重和礼貌。", "pinyin": "Rúguǒ shì shífēn zhòngyào de péngyou, Zhōngguó rén wǎngwǎng huì qǐng tāmen qù fàndiàn huò cāntīng chī fàn, yǐ biǎoshì duì kèrén de zūnzhòng hé lǐmào.", "vietnamese": "Nếu là người bạn rất quan trọng, người Trung Quốc thường mời họ đi ăn ở nhà hàng để bày tỏ sự tôn trọng và lịch sự với khách." }
+      ],
+      "important_notes": "Khi 以 làm liên từ chỉ mục đích, hai vế câu BẮT BUỘC có cùng chủ ngữ.",
+      "common_errors": "",
+      "comparison": "",
+      "mini_practice": [
+        { "prompt": "汉语普通话______________________。（以……为……）", "sample_answer": "以北京语音为标准音", "explanation": "Cấu trúc cố định 以 A 为 B." },
+        { "prompt": "我觉得应该降低公园门票价格，______________________。（以）", "sample_answer": "以吸引更多的游客", "explanation": "Liên từ 以 chỉ mục đích (để thu hút thêm nhiều du khách)." }
+      ]
+    },
+    {
+      "title": "既然",
+      "formula": "既然 + Tiền đề đã xác định，(那么)就 / 也 / 还 + Kết luận / Đề nghị",
+      "meaning": "Vì (sự thật đã là như vậy), đã... thì...",
+      "usage": "Liên từ 既然 đặt ở vế đầu để nêu một sự thật đã xảy ra hoặc đã rõ ràng; vế sau thường phối hợp với 就, 也, 还, 那么 để rút ra kết luận, đề xuất hoặc câu hỏi tu từ.",
+      "context": "Dùng trong cả khẩu ngữ lẫn văn viết khi suy luận hoặc đưa ra lời khuyên từ tình huống sẵn có.",
+      "examples": [
+        { "chinese": "A: 你既然不愿意打球，为什么还要打？ B: 我是不得不打啊，因为这些天我又胖了好几斤。", "pinyin": "A: Nǐ jìrán bú yuànyì dǎ qiú, wèi shénme hái yào dǎ? B: Wǒ shì bùdébù dǎ a, yīnwèi zhèxiē tiān wǒ yòu pàng le hǎo jǐ jīn.", "vietnamese": "A: Bạn đã không thích đánh bóng, sao còn phải đánh? B: Tôi buộc phải đánh thôi, vì mấy hôm nay tôi lại tăng mấy cân rồi." },
+        { "chinese": "A: 真抱歉，明天我得出差，不能参加明天的会议了。 B: 既然这样，就只好安排在下周了。", "pinyin": "A: Zhēn bàoqiàn, míngtiān wǒ děi chū chāi, bù néng cānjiā míngtiān de huìyì le. B: Jìrán zhèyàng, jiù zhǐhǎo ānpái zài xià zhōu le.", "vietnamese": "A: Thật xin lỗi, mai tôi phải đi công tác, không dự họp được. B: Đã vậy thì đành sắp xếp vào tuần sau vậy." },
+        { "chinese": "既然明天晚上公司会关灯停电，那么我们肯定不用加班了。", "pinyin": "Jìrán míngtiān wǎnshang gōngsī huì guān dēng tíng diàn, nàme wǒmen kěndìng búyòng jiā bān le.", "vietnamese": "Vì tối mai công ty sẽ tắt đèn cúp điện nên chúng ta chắc chắn không phải tăng ca rồi." }
+      ],
+      "important_notes": "既然 có thể đứng trước hoặc sau chủ ngữ (既然你不愿意 / 你既然不愿意). Vế sau KHÔNG dùng 所以!",
+      "common_errors": "Ghép nhầm 既然 với 所以 (Sai: '既然这样，所以就下周吧' → Đúng: '既然这样，就只好安排在下周了').",
+      "comparison": "因为……所以…… giải thích nguyên nhân–kết quả khách quan; 既然……就…… suy ra quyết định/đề nghị từ tiền đề đã biết.",
+      "mini_practice": [
+        { "prompt": "A: 这里的景色确实很不错。阳光好，空气新鲜，来这儿散步真舒服。 B: ______________________，以后我们可以常来。（既然）", "sample_answer": "既然你这么喜欢这儿", "explanation": "Lấy sự thật người A vừa nói làm tiền đề sau 既然." },
+        { "prompt": "我刚才看了一下，一共二十个人，有十五个人同意这个计划，______________________，那我们就通过这个计划了。（既然）", "sample_answer": "既然大多数人都同意", "explanation": "Suy luận chấp thuận kế hoạch từ thực tế 15/20 người đồng ý." }
+      ]
+    },
+    {
+      "title": "于是",
+      "formula": "Sự việc A，于是(，) + (就) + Sự việc B",
+      "meaning": "Thế là, bèn...",
+      "usage": "Liên từ 于是 đặt ở vế sau của câu ghép để chỉ sự việc xảy ra tiếp nối ngay sau sự việc đã nêu ở vế trước, thường bao hàm quan hệ thừa tiếp.",
+      "context": "Kể chuyện, tường thuật diễn biến sự việc theo trình tự thời gian.",
+      "examples": [
+        { "chinese": "听爷爷奶奶说，我妹妹出生那天，正好下了一场大雪，于是我爸妈就给她取名叫夏雪。", "pinyin": "Tīng yéye nǎinai shuō, wǒ mèimei chūshēng nà tiān, zhènghǎo xià le yì chǎng dà xuě, yúshì wǒ bàmā jiù gěi tā qǔmíng jiào Xià Xuě.", "vietnamese": "Nghe ông bà kể, hôm em gái tôi chào đời đúng lúc tuyết rơi rất lớn, thế là bố mẹ tôi đặt tên nó là Hạ Tuyết." },
+        { "chinese": "他是一位著名的记者，五年里，他去了亚洲许多国家，尝遍了各地的美食。回国后，他用一年的时间整理材料，于是就有了这本关于亚洲美食的书。", "pinyin": "Tā shì yí wèi zhùmíng de jìzhě, wǔ nián li, tā qùle Yàzhōu xǔduō guójiā, chángbiàn le gèdì de měishí. Huíguó hòu, tā yòng yì nián de shíjiān zhěnglǐ cáiliào, yúshì jiù yǒule zhè běn guānyú Yàzhōu měishí de shū.", "vietnamese": "Ông ấy là nhà báo nổi tiếng, trong 5 năm đã đi nhiều nước châu Á thưởng thức đủ món ngon. Sau khi về nước, ông dành một năm sắp xếp tài liệu, thế là ra đời cuốn sách về ẩm thực châu Á này." },
+        { "chinese": "……可是，它的大量使用也带来了严重的环境污染问题。于是，一些国家规定，超市、商场不能为顾客提供免费塑料袋，并且鼓励大家购买可以多次使用的购物袋。", "pinyin": "……kěshì, tā de dàliàng shǐyòng yě dàiláile yánzhòng de huánjìng wūrǎn wèntí. Yúshì, yìxiē guójiā guīdìng, chāoshì, shāngchǎng bù néng wèi gùkè tígōng miǎnfèi sùliàodài, bìngqiě gǔlì dàjiā gòumǎi kěyǐ duō cì shǐyòng de gòuwùdài.", "vietnamese": "...Nhưng việc sử dụng số lượng lớn túi nilông cũng gây ra ô nhiễm nghiêm trọng. Thế là một số nước quy định siêu thị, trung tâm thương mại không được phát túi miễn phí..." }
+      ],
+      "important_notes": "Xem bảng 比一比 '于是—因此' bên dưới để phân biệt rõ ràng với 因此.",
+      "common_errors": "",
+      "comparison": "于是 nhấn mạnh trình tự diễn ra trước–sau; 因此 nhấn mạnh quan hệ nhân–quả logic.",
+      "mini_practice": [
+        { "prompt": "我约了朋友在商场门口见面，我早到了一会儿，______________________。（于是）", "sample_answer": "于是就先去旁边的书店逛了逛", "explanation": "Diễn tả hành động làm tiếp ngay sau khi đến sớm." },
+        { "prompt": "学习一种语言不是简单的事情，许多人在开始学的时候觉得很困难，______________________。（于是）", "sample_answer": "于是就放弃了", "explanation": "Sự việc tiếp nối tự nhiên sau cảm giác khó khăn ban đầu." }
+      ]
+    },
+    {
+      "title": "什么的",
+      "formula": "Ví dụ 1、(Ví dụ 2……) + 什么的",
+      "meaning": "...vân vân, ...các thứ, ...chẳng hạn.",
+      "usage": "Trợ từ 什么的 đặt ngay sau sự vật hoặc hoạt động được liệt kê để chỉ còn có những trường hợp tương tự chưa kể hết; thường dùng trong khẩu ngữ.",
+      "context": "Giao tiếp tự nhiên hằng ngày khi liệt kê 1–3 ví dụ tiêu biểu.",
+      "examples": [
+        { "chinese": "既然你不喜欢新闻专业，那就考虑考虑其他专业吧，中文、国际关系什么的，我和你爸都不反对。", "pinyin": "Jìrán nǐ bù xǐhuan xīnwén zhuānyè, nà jiù kǎolǜ kǎolǜ qítā zhuānyè ba, Zhōngwén, guójì guānxi shénme de, wǒ hé nǐ bà dōu bù fǎnduì.", "vietnamese": "Đã không thích ngành báo chí thì cân nhắc các ngành khác đi, tiếng Trung, quan hệ quốc tế chẳng hạn, mẹ và bố đều không phản đối." },
+        { "chinese": "A: 我们去趟超市吧，明天出去玩儿得买点儿饼干和面包。 B: 好，还有矿泉水、果汁什么的。", "pinyin": "A: Wǒmen qù tàng chāoshì ba, míngtiān chūqù wánr děi mǎi diǎnr bǐnggān hé miànbāo. B: Hǎo, hái yǒu kuàngquánshuǐ, guǒzhī shénme de.", "vietnamese": "A: Mình ra siêu thị một chuyến đi, mai đi chơi phải mua ít bánh quy và bánh mì. B: Được, còn nước khoáng, nước hoa quả các thứ nữa." },
+        { "chinese": "少开车，多骑车或者乘坐地铁和公共汽车，这样能降低空气污染；还有养成把垃圾丢进垃圾桶的习惯什么的。", "pinyin": "Shǎo kāi chē, duō qí chē huòzhě chéngzuò dìtiě hé gōnggòng qìchē, zhèyàng néng jiàngdī kōngqì wūrǎn; hái yǒu yǎngchéng bǎ lājī diūjìn lājītǒng de xíguàn shénme de.", "vietnamese": "Ít lái xe hơi, đi xe đạp nhiều hơn hoặc đi tàu điện ngầm và xe buýt để giảm ô nhiễm không khí; còn hình thành thói quen bỏ rác vào thùng các thứ nữa." }
+      ],
+      "important_notes": "Trước 什么的 có thể liệt kê một ví dụ (养成……的习惯什么的) hoặc hai ba ví dụ (矿泉水、果汁什么的).",
+      "common_errors": "Không dùng đồng thời cả 等 và 什么的 (Sai: '饼干、面包等什么的').",
+      "comparison": "等 / 等等 thiên về văn viết trang trọng; 什么的 mang sắc thái khẩu ngữ nhẹ nhàng, thân mật.",
+      "mini_practice": [
+        { "prompt": "我们有很多共同的爱好，经常一起______________________。（什么的）", "sample_answer": "打球、看电影、旅游什么的", "explanation": "Liệt kê các hoạt động chung rồi khép bằng 什么的." },
+        { "prompt": "很多东西是用钱买不到的，比如______________________。（什么的）", "sample_answer": "健康、时间、快乐什么的", "explanation": "Liệt kê các giá trị tinh thần kết thúc bằng 什么的." }
+      ]
+    }
+  ],
+  "comparison_section": {
+    "label": "比一比 So sánh",
+    "pair": "于是 — 因此",
+    "term_a": "于是 (yúshì)",
+    "term_b": "因此 (yīncǐ)",
+    "similarity": "Đều là liên từ dùng được trong cấu trúc 'A，于是/因此 B' để diễn tả ý do A dẫn đến B. VD: 小时候，他经常生病，于是/因此每天都去跑步锻炼身体。",
+    "differences": [
+      { "criterion": "Trọng tâm logic (Tiếp nối vs Nhân quả)", "a": "Nhấn mạnh TRÌNH TỰ THỜI GIAN: A xảy ra trước, rồi B tiếp nối xảy ra ngay sau (大家都同意寒假去旅行，于是，我们开始讨论去哪里旅行的问题).", "b": "Nhấn mạnh QUAN HỆ NHÂN – QUẢ: A là nguyên nhân/cơ sở, B là kết quả suy ra; dùng được cho câu quy luật, khuyên nhủ (习惯是不容易改变的，因此，在孩子小的时候，父母要帮他们养成好的生活、学习习惯)." }
+    ]
+  },
+  "texts": [
+    {
+      "id": "t1", "title_zh": "李进要出差，王静和李进在聊天儿", "title_vi": "Lý Tiến sắp đi công tác, Vương Tịnh và Lý Tiến đang trò chuyện",
+      "lines": [
+        { "speaker": "王静", "chinese": "这是明天你出差要带的毛巾、牙膏和牙刷，把它们放到箱子里吧。", "pinyin": "Zhè shì míngtiān nǐ chū chāi yào dài de máojīn, yágāo hé yáshuā, bǎ tāmen fàngdào xiāngzi li ba.", "vietnamese": "Đây là khăn lau, kem đánh răng và bàn chải ngày mai anh đi công tác cần mang theo, cất chúng vào vali đi." },
+        { "speaker": "李进", "chinese": "不用拿这些，宾馆都会免费提供的。再说，箱子已经够重的了！", "pinyin": "Búyòng ná zhèxiē, bīnguǎn dōu huì miǎnfèi tígōng de. Zàishuō, xiāngzi yǐjīng gòu zhòng de le!", "vietnamese": "Không cần mang mấy thứ này đâu, khách sạn đều cung cấp miễn phí cả. Hơn nữa vali đã đủ nặng lắm rồi!" },
+        { "speaker": "王静", "chinese": "我当然知道宾馆里有。你不是一直说要保护环境吗？现在就从身边的小事做起吧。", "pinyin": "Wǒ dāngrán zhīdào bīnguǎn li yǒu. Nǐ bú shì yìzhí shuō yào bǎohù huánjìng ma? Xiànzài jiù cóng shēnbiān de xiǎo shì zuòqǐ ba.", "vietnamese": "Em đương nhiên biết khách sạn có chứ. Chẳng phải anh luôn nói muốn bảo vệ môi trường sao? Bây giờ hãy bắt đầu từ những việc nhỏ bên cạnh mình đi." },
+        { "speaker": "李进", "chinese": "行，没问题。我明天上午10点的飞机，你能开车把我送到机场吗？", "pinyin": "Xíng, méi wèntí. Wǒ míngtiān shàngwǔ shí diǎn de fēijī, nǐ néng kāi chē bǎ wǒ sòngdào jīchǎng ma?", "vietnamese": "Được, không vấn đề gì. Chuyến bay của anh là 10 giờ sáng mai, em lái xe đưa anh ra sân bay được không?" },
+        { "speaker": "王静", "chinese": "那个时间路上堵车多严重啊！你还是坐地铁去机场吧。这样不仅省油钱，而且还不会污染空气。", "pinyin": "Nàge shíjiān lù shang dǔ chē duō yánzhòng a! Nǐ háishi zuò dìtiě qù jīchǎng ba. Zhèyàng bùjǐn shěng yóu qián, érqiě hái bú huì wūrǎn kōngqì.", "vietnamese": "Giờ đó ngoài đường kẹt xe nghiêm trọng biết bao! Anh vẫn nên đi tàu điện ngầm ra sân bay đi. Như vậy không những tiết kiệm tiền xăng mà còn không làm ô nhiễm không khí." },
+        { "speaker": "李进", "chinese": "好，那就听你的。", "pinyin": "Hǎo, nà jiù tīng nǐ de.", "vietnamese": "Được, vậy thì nghe theo em." }
+      ]
+    },
+    {
+      "id": "t2", "title_zh": "经理和服务员在谈工作", "title_vi": "Giám đốc và nhân viên phục vụ đang nói chuyện công việc",
+      "lines": [
+        { "speaker": "经理", "chinese": "小王，卫生间怎么那么脏啊？这会给客人留下不好的印象，快去打扫一下。", "pinyin": "Xiǎo Wáng, wèishēngjiān zěnme nàme zāng a? Zhè huì gěi kèrén liúxià bù hǎo de yìnxiàng, kuài qù dǎsǎo yíxià.", "vietnamese": "Tiểu Vương, sao nhà vệ sinh bẩn thế này? Việc này sẽ để lại ấn tượng xấu cho khách đấy, mau đi dọn dẹp một chút đi." },
+        { "speaker": "服务员", "chinese": "经理，实在抱歉。今天店里太忙了，我还没来得及打扫。", "pinyin": "Jīnglǐ, shízài bàoqiàn. Jīntiān diàn li tài máng le, wǒ hái méi láidejí dǎsǎo.", "vietnamese": "Giám đốc, thật sự xin lỗi. Hôm nay quán đông quá nên tôi vẫn chưa kịp dọn." },
+        { "speaker": "经理", "chinese": "那张桌子下面还有一些空饮料瓶子和纸盒子。", "pinyin": "Nà zhāng zhuōzi xiàmiàn hái yǒu yìxiē kōng yǐnliào píngzi hé zhǐ hézi.", "vietnamese": "Dưới chiếc bàn kia vẫn còn mấy chai nước uống rỗng và hộp giấy nữa." },
+        { "speaker": "服务员", "chinese": "好的，我马上就去把它们扔掉。", "pinyin": "Hǎo de, wǒ mǎshàng jiù qù bǎ tāmen rēngdiào.", "vietnamese": "Vâng, tôi sẽ đi vứt chúng ngay bây giờ." },
+        { "speaker": "经理", "chinese": "以后你一定得注意这个问题，不管客人多多，生意多忙，我们都要保证餐厅干净卫生。", "pinyin": "Yǐhòu nǐ yídìng děi zhùyì zhège wèntí, bùguǎn kèrén duō duō, shēngyi duō máng, wǒmen dōu yào bǎozhèng cāntīng gānjìng wèishēng.", "vietnamese": "Sau này cậu nhất định phải chú ý vấn đề này, bất kể khách đông thế nào, buôn bán bận rộn ra sao, chúng ta đều phải đảm bảo nhà hàng sạch sẽ vệ sinh." },
+        { "speaker": "服务员", "chinese": "经理您放心，我一定以最快的速度完成。不过咱们真的应该再多招聘几个服务员了。", "pinyin": "Jīnglǐ nín fàng xīn, wǒ yídìng yǐ zuì kuài de sùdù wánchéng. Búguò zánmen zhēn de yīnggāi zài duō zhāopìn jǐ ge fúwùyuán le.", "vietnamese": "Giám đốc yên tâm, tôi nhất định hoàn thành với tốc độ nhanh nhất. Nhưng mà chúng ta thật sự nên tuyển thêm mấy nhân viên phục vụ nữa rồi." }
+      ]
+    },
+    {
+      "id": "t3", "title_zh": "孙月和王静在聊关于环保的事情", "title_vi": "Tôn Nguyệt và Vương Tịnh trò chuyện về chuyện bảo vệ môi trường",
+      "lines": [
+        { "speaker": "孙月", "chinese": "早上听新闻说明天有一个叫“地球一小时”的活动，你对这个活动了解吗？", "pinyin": "Zǎoshang tīng xīnwén shuō míngtiān yǒu yí ge jiào “Dìqiú Yì Xiǎoshí” de huódòng, nǐ duì zhège huódòng liǎojiě ma?", "vietnamese": "Sáng nay nghe tin tức nói ngày mai có sự kiện mang tên “Giờ Trái Đất”, cậu có biết về hoạt động này không?" },
+        { "speaker": "王静", "chinese": "这个活动年年都有，最早是从2007年开始的。明天晚上很多人都会关灯一小时，支持这个活动。你没看到门口的通知吗？我们公司也参加。", "pinyin": "Zhège huódòng niánnián dōu yǒu, zuì zǎo shì cóng èr líng líng qī nián kāishǐ de. Míngtiān wǎnshang hěn duō rén dōu huì guān dēng yì xiǎoshí, zhīchí zhège huódòng. Nǐ méi kàndào ménkǒu de tōngzhī ma? Wǒmen gōngsī yě cānjiā.", "vietnamese": "Hoạt động này năm nào cũng có, sớm nhất bắt đầu từ năm 2007. Tối mai rất nhiều người sẽ tắt đèn một tiếng để hưởng ứng. Cậu không thấy thông báo ngoài cửa à? Công ty mình cũng tham gia đấy." },
+        { "speaker": "孙月", "chinese": "真的吗？太好了！既然明天晚上公司会关灯停电，那么我们肯定不用加班了。", "pinyin": "Zhēn de ma? Tài hǎo le! Jìrán míngtiān wǎnshang gōngsī huì guān dēng tíng diàn, nàme wǒmen kěndìng búyòng jiā bān le.", "vietnamese": "Thật sao? Tuyệt quá! Vì tối mai công ty tắt đèn cắt điện, thế thì chúng ta chắc chắn không phải tăng ca rồi." },
+        { "speaker": "王静", "chinese": "看你得意的样子！还以为你高兴是为了支持环保，原来是因为不用加班啊！", "pinyin": "Kàn nǐ déyì de yàngzi! Hái yǐwéi nǐ gāoxìng shì wèile zhīchí huánbǎo, yuánlái shì yīnwèi búyòng jiā bān a!", "vietnamese": "Nhìn cái vẻ đắc chí của cậu kìa! Còn tưởng cậu mừng là vì ủng hộ bảo vệ môi trường, hóa ra vì khỏi phải tăng ca!" },
+        { "speaker": "孙月", "chinese": "环境保护我当然也支持了！对了，为什么会有这么一个活动啊？", "pinyin": "Huánjìng bǎohù wǒ dāngrán yě zhīchí le! Duì le, wèi shénme huì yǒu zhème yí ge huódòng a?", "vietnamese": "Bảo vệ môi trường thì đương nhiên mình cũng ủng hộ chứ! À đúng rồi, sao lại có một hoạt động như thế này?" },
+        { "speaker": "王静", "chinese": "其实目的挺简单的，就是提醒人们节约用电，希望引起人们对气候变暖问题的关注。", "pinyin": "Qíshí mùdì tǐng jiǎndān de, jiù shì tíxǐng rénmen jiéyuē yòng diàn, xīwàng yǐnqǐ rénmen duì qìhòu biàn nuǎn wèntí de guānzhù.", "vietnamese": "Thật ra mục đích khá đơn giản, chính là nhắc nhở mọi người tiết kiệm điện, hy vọng thu hút sự quan tâm của mọi người đối với vấn đề biến đổi khí hậu ấm lên." }
+      ]
+    },
+    {
+      "id": "t4", "title_zh": "减少使用塑料袋", "title_vi": "Giảm thiểu sử dụng túi nilông",
+      "lines": [
+        { "speaker": "", "chinese": "塑料袋给人们的生活带来方便，受到人们的普遍欢迎，可是，它的大量使用也带来了严重的环境污染问题。于是，一些国家规定，超市、商场不能为顾客提供免费塑料袋，并且鼓励大家购买可以多次使用的购物袋。我们每个人都有责任保护环境，因此，请大家节约使用塑料袋，或者购物时自备购物袋，甚至拒绝使用塑料袋。虽然这是一件很小的事，但这样做可以减少塑料袋的使用数量，对环境保护有很大的作用。", "pinyin": "Sùliàodài gěi rénmen de shēnghuó dàilái fāngbiàn, shòudào rénmen de pǔbiàn huānyíng, kěshì, tā de dàliàng shǐyòng yě dàiláile yánzhòng de huánjìng wūrǎn wèntí. Yúshì, yìxiē guójiā guīdìng, chāoshì, shāngchǎng bù néng wèi gùkè tígōng miǎnfèi sùliàodài, bìngqiě gǔlì dàjiā gòumǎi kěyǐ duō cì shǐyòng de gòuwùdài. Wǒmen měi ge rén dōu yǒu zérèn bǎohù huánjìng, yīncǐ, qǐng dàjiā jiéyuē shǐyòng sùliàodài, huòzhě gòuwù shí zì bèi gòuwùdài, shènzhì jùjué shǐyòng sùliàodài. Suīrán zhè shì yí jiàn hěn xiǎo de shì, dàn zhèyàng zuò kěyǐ jiǎnshǎo sùliàodài de shǐyòng shùliàng, duì huánjìng bǎohù yǒu hěn dà de zuòyòng.", "vietnamese": "Túi nilông mang lại sự tiện lợi cho đời sống con người, được đón nhận rộng rãi, nhưng việc dùng nó với số lượng lớn cũng mang lại vấn đề ô nhiễm môi trường nghiêm trọng. Thế là một số quốc gia quy định siêu thị, trung tâm thương mại không được cung cấp túi nilông miễn phí cho khách, đồng thời khuyến khích mọi người mua túi mua sắm dùng nhiều lần. Mỗi chúng ta đều có trách nhiệm bảo vệ môi trường, vì thế xin mọi người tiết kiệm sử dụng túi nilông, hoặc tự mang túi khi mua sắm, thậm chí từ chối dùng túi nilông. Tuy đây là chuyện rất nhỏ nhưng làm vậy có thể giảm số lượng túi nilông tiêu thụ, có tác dụng to lớn với việc bảo vệ môi trường." }
+      ]
+    },
+    {
+      "id": "t5", "title_zh": "从身边的小事保护地球", "title_vi": "Bảo vệ Trái Đất từ những việc nhỏ quanh ta",
+      "lines": [
+        { "speaker": "", "chinese": "保护地球环境，并不是一件离我们很远、很难做到的事情。实际上，我们只需注意一下身边的小事就可以。例如，夏天把空调的温度开得高一些，出门时记得关空调和电脑，这样可以节约用电；少开车，多骑车或者乘坐地铁和公共汽车，这样能降低空气污染；还有养成把垃圾丢进垃圾桶的习惯什么的。这些是我们每个人都能够做到的小事，但却有实实在在的效果。地球是我们共同的家，只有大家共同努力，减少污染、保护环境，才能使我们的家变得更美丽。", "pinyin": "Bǎohù dìqiú huánjìng, bìng bú shì yí jiàn lí wǒmen hěn yuǎn, hěn nán zuòdào de shìqing. Shíjì shang, wǒmen zhǐ xū zhùyì yíxià shēnbiān de xiǎo shì jiù kěyǐ. Lìrú, xiàtiān bǎ kōngtiáo de wēndù kāi de gāo yìxiē, chū mén shí jìde guān kōngtiáo hé diànnǎo, zhèyàng kěyǐ jiéyuē yòng diàn; shǎo kāi chē, duō qí chē huòzhě chéngzuò dìtiě hé gōnggòng qìchē, zhèyàng néng jiàngdī kōngqì wūrǎn; hái yǒu yǎngchéng bǎ lājī diūjìn lājītǒng de xíguàn shénme de. Zhèxiē shì wǒmen měi ge rén dōu nénggòu zuòdào de xiǎo shì, dàn què yǒu shíshízàizài de xiàoguǒ. Dìqiú shì wǒmen gòngtóng de jiā, zhǐyǒu dàjiā gòngtóng nǔlì, jiǎnshǎo wūrǎn, bǎohù huánjìng, cái néng shǐ wǒmen de jiā biànde gèng měilì.", "vietnamese": "Bảo vệ môi trường Trái Đất không hề là việc xa vời hay khó làm. Thực tế, chúng ta chỉ cần chú ý những việc nhỏ bên cạnh mình là được. Ví dụ mùa hè bật nhiệt độ điều hòa cao hơn chút, ra ngoài nhớ tắt điều hòa và máy tính để tiết kiệm điện; ít lái xe hơi, đi xe đạp nhiều hơn hoặc đi tàu điện ngầm, xe buýt để giảm ô nhiễm không khí; còn hình thành thói quen bỏ rác vào thùng rác các thứ nữa. Đây đều là những việc nhỏ ai cũng làm được nhưng lại mang đến hiệu quả thiết thực. Trái Đất là ngôi nhà chung của chúng ta, chỉ khi mọi người cùng nỗ lực giảm ô nhiễm, bảo vệ môi trường thì ngôi nhà chung mới trở nên tươi đẹp hơn." }
+      ]
+    }
+  ],
+  "reading_questions": [
+    { "question_zh": "李进开始为什么不想带毛巾、牙膏和牙刷？后来为什么又带了？", "question_vi": "Ban đầu vì sao Lý Tiến không muốn mang khăn lau, kem và bàn chải đánh răng? Sau đó vì sao anh lại mang?", "answer_zh": "开始他觉得宾馆都会免费提供，而且箱子已经够重的了；后来王静提醒他要从身边的小事做起保护环境，所以他同意带了。", "answer_vi": "Ban đầu anh nghĩ khách sạn đều phát miễn phí mà vali đã đủ nặng; sau đó Vương Tịnh nhắc hãy bắt đầu bảo vệ môi trường từ việc nhỏ nên anh đồng ý mang theo." },
+    { "question_zh": "王静为什么建议李进坐地铁去机场？", "question_vi": "Vì sao Vương Tịnh khuyên Lý Tiến đi tàu điện ngầm ra sân bay?", "answer_zh": "因为那个时间路上堵车非常严重，而且坐地铁不仅省油钱，还不会污染空气。", "answer_vi": "Vì giờ đó đường kẹt xe rất nghiêm trọng, hơn nữa đi tàu điện ngầm không chỉ tiết kiệm tiền xăng mà còn không gây ô nhiễm không khí." },
+    { "question_zh": "经理希望小王做什么？店里哪些地方需要打扫？", "question_vi": "Giám đốc muốn Tiểu Vương làm gì? Những chỗ nào trong quán cần dọn dẹp?", "answer_zh": "经理希望小王快去打扫卫生间，并把桌子下面的一些空饮料瓶子和纸盒子扔掉。", "answer_vi": "Giám đốc muốn Tiểu Vương mau đi dọn nhà vệ sinh và vứt các chai nước rỗng cùng hộp giấy dưới gầm bàn." },
+    { "question_zh": "经理有什么要求？小王打算怎么做？", "question_vi": "Giám đốc có yêu cầu gì? Tiểu Vương định làm thế nào?", "answer_zh": "经理要求不管客人多多、生意多忙，都要保证餐厅干净卫生。小王表示一定以最快的速度完成，同时建议多招聘几个服务员。", "answer_vi": "Giám đốc yêu cầu dù khách đông hay bận mấy cũng phải giữ nhà hàng sạch sẽ. Tiểu Vương hứa hoàn thành nhanh nhất có thể và đề xuất tuyển thêm phục vụ." },
+    { "question_zh": "明天晚上孙月的公司会做什么？孙月为什么很高兴？", "question_vi": "Tối mai công ty Tôn Nguyệt sẽ làm gì? Vì sao Tôn Nguyệt rất vui?", "answer_zh": "公司会参加“地球一小时”活动，关灯停电一小时。孙月高兴原来是因为这样肯定不用加班了。", "answer_vi": "Công ty tham gia “Giờ Trái Đất”, tắt đèn cắt điện một tiếng. Tôn Nguyệt mừng vì như vậy chắc chắn không phải tăng ca." },
+    { "question_zh": "“地球一小时”是个什么活动？这个活动的目的是什么？", "question_vi": "“Giờ Trái Đất” là hoạt động gì? Mục đích của hoạt động này là gì?", "answer_zh": "这是一个从2007年开始、年年都有的环保活动，人们会关灯一小时。目的是提醒人们节约用电，引起人们对气候变暖问题的关注。", "answer_vi": "Là hoạt động bảo vệ môi trường tổ chức hằng năm từ 2007, mọi người tắt đèn một tiếng. Mục đích là nhắc nhở tiết kiệm điện và thu hút sự quan tâm đến biến đổi khí hậu ấm lên." },
+    { "question_zh": "塑料袋有什么好处？有什么坏处？", "question_vi": "Túi nilông có lợi ích gì và tác hại gì?", "answer_zh": "好处是给人们的生活带来方便；坏处是大量使用带来了严重的环境污染问题。", "answer_vi": "Lợi ích là mang lại tiện lợi trong sinh hoạt; tác hại là dùng số lượng lớn gây ô nhiễm môi trường nghiêm trọng." },
+    { "question_zh": "怎样解决使用塑料袋带来的污染问题？", "question_vi": "Làm thế nào để giải quyết vấn đề ô nhiễm do dùng túi nilông gây ra?", "answer_zh": "超市、商场不提供免费塑料袋，鼓励大家购买可多次使用的购物袋，同时每个人节约使用、自备购物袋，甚至拒绝使用塑料袋。", "answer_vi": "Siêu thị không phát túi miễn phí, khuyến khích dùng túi tái sử dụng nhiều lần, mỗi người tiết kiệm, tự mang túi hoặc từ chối dùng túi nilông." },
+    { "question_zh": "我们需要注意哪些事情来保护地球环境？", "question_vi": "Chúng ta cần chú ý những việc nào để bảo vệ môi trường Trái Đất?", "answer_zh": "夏天把空调温度开高一些，出门关空调和电脑；少开车，多骑车或坐地铁、公交车；养成把垃圾丢进垃圾桶的习惯。", "answer_vi": "Mùa hè bật nhiệt độ điều hòa cao hơn, ra ngoài tắt điều hòa và máy tính; ít lái xe hơi, tăng đi xe đạp/tàu điện/xe buýt; bỏ rác vào thùng rác." },
+    { "question_zh": "怎样才能使地球变得更美丽？", "question_vi": "Làm thế nào mới khiến Trái Đất trở nên tươi đẹp hơn?", "answer_zh": "只有大家共同努力，从身边小事做起，减少污染、保护环境，才能使我们的家变得更美丽。", "answer_vi": "Chỉ khi mọi người cùng nỗ lực từ những việc nhỏ, giảm ô nhiễm và bảo vệ môi trường mới khiến Trái Đất ngày càng đẹp hơn." }
+  ],
+  "exercises": [
+    {
+      "id": "h4x14_ex1", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.60 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ thích hợp điền vào chỗ trống: “有的人总是不好意思______朋友的要求，害怕这样会影响两个人的感情。”",
+      "options": ["拒绝", "鼓励", "得意", "省"],
+      "answer": "拒绝",
+      "explanation": "Cụm kết hợp chuẩn: 拒绝……的要求 (từ chối yêu cầu của bạn bè).",
+      "review_tip": "Ôn câu 2 bài tập 练习2 tr.60 (#25 拒绝)."
+    },
+    {
+      "id": "h4x14_ex2", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.60 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ điền vào chỗ trống: “不要因一时的成功而______，也不要因一时的失败而伤心，因为那些都已经过去，重要的是怎样过好将来的生活。”",
+      "options": ["得意", "拒绝", "鼓励", "抱歉"],
+      "answer": "得意",
+      "explanation": "Đừng vì thành công nhất thời mà tự đắc/đắc chí (因成功而得意).",
+      "review_tip": "Ôn câu 4 bài tập 练习2 tr.60 (#19 得意)."
+    },
+    {
+      "id": "h4x14_ex3", "type": "fill_blank", "level": "Phân biệt", "origin_tag": "Sách gốc tr.61 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Điền từ phân biệt 丢 và 扔: A: “喂，你还在逛街吗？我的钥匙______了，进不了门，你快回来吧。” B: “好，我马上就回去。”",
+      "options": ["丢", "扔", "停", "行"],
+      "answer": "丢",
+      "explanation": "Đánh mất chìa khóa phải dùng 丢 (钥匙丢了); 扔 chỉ có nghĩa chủ động ném/vứt đi (như 扔垃圾).",
+      "review_tip": "Phân biệt kỹ câu 7 (丢) và câu 9 (扔) bài tập 练习2 tr.61."
+    },
+    {
+      "id": "h4x14_ex4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "比一比 tr.58 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ ĐÚNG cho câu: “习惯是不容易改变的，______，在孩子小的时候，父母要帮他们养成好的生活、学习习惯。”",
+      "options": ["因此", "于是", "既然", "随着"],
+      "answer": "因此",
+      "explanation": "Câu gốc mục 做一做 (2) tr.58: nêu quy luật chung làm nguyên nhân rồi suy ra lời khuyên/kết luận, không phải trình tự 2 sự kiện xảy ra trước–sau → CHỈ dùng 因此 (于是 ×, 因此 ✓).",
+      "review_tip": "Ôn bảng 比一比 于是—因此 tr.58–59."
+    },
+    {
+      "id": "h4x14_ex5", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "比一比 tr.59 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ ĐÚNG cho câu: “那是1994年的冬天，那场雪下得特别大。大家都很激动，______都跑到外面去玩儿雪了。”",
+      "options": ["于是", "因此", "虽然", "否则"],
+      "answer": "于是",
+      "explanation": "Câu (4) mục 做一做 tr.59: kể diễn biến sự việc xảy ra tiếp nối ngay sau đó (tuyết rơi to → mọi người phấn khích → thế là chạy ra ngoài nghịch tuyết) → chọn 于是.",
+      "review_tip": "于是 nhấn mạnh trình tự A xảy ra trước, B tiếp nối ngay sau."
+    },
+    {
+      "id": "h4x14_ex6", "type": "context_mc", "level": "Phân biệt", "origin_tag": "同字词 tr.61 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ nhóm đồng tự '度' phù hợp: “这个月底，我和丈夫准备开车去长白山，那边______比较低，所以要提前准备几件厚一些的衣服。”",
+      "options": ["温度", "速度", "态度", "程度"],
+      "answer": "温度",
+      "explanation": "Phải chuẩn bị áo dày hơn vì nhiệt độ ở Trường Bạch Sơn khá thấp → chọn 温度.",
+      "review_tip": "Ôn nhóm đồng tự 度 (速度 – 温度 – 态度) tr.61."
+    },
+    {
+      "id": "h4x14_ex7", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Bài 14 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Trong câu “如果是十分重要的朋友，中国人往往会请他们去饭店或餐厅吃饭，以表示对客人的尊重和礼貌”, từ “以” có chức năng ngữ pháp gì?",
+      "options": [
+        "Liên từ chỉ mục đích (để, nhằm)",
+        "Giới từ chỉ tốc độ/tiêu chuẩn (bằng, dựa vào)",
+        "Cấu trúc cố định 以……为…… (xem... là...)",
+        "Phó từ chỉ mức độ"
+      ],
+      "answer": "Liên từ chỉ mục đích (để, nhằm)",
+      "explanation": "Đặt đầu vế câu sau (cùng chủ ngữ) để nêu mục đích mời ăn nhà hàng nhằm bày tỏ sự tôn trọng → liên từ 以.",
+      "review_tip": "Ôn 3 cách dùng của 以 ở Chú thích 2 tr.54."
+    },
+    {
+      "id": "h4x14_ex8", "type": "reorder", "level": "Vận dụng", "origin_tag": "Bài 14 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Sắp xếp thành câu hoàn chỉnh sử dụng liên từ “既然”:",
+      "tokens": ["那么", "明天晚上公司会关灯停电，", "既然", "我们肯定不用加班了。"],
+      "answer": "既然明天晚上公司会关灯停电，那么我们肯定不用加班了。",
+      "explanation": "Cấu trúc 既然 + Tiền đề (明天晚上公司会关灯停电)，那么 + Kết luận (我们肯定不用加班了).",
+      "review_tip": "Ôn Chú thích 3 tr.55 về 既然."
+    },
+    {
+      "id": "h4x14_ex9", "type": "error_fix", "level": "Vận dụng", "origin_tag": "Ôn kiến thức cũ & Bài 14 (30%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Tìm lỗi sai và chọn cách sửa ĐÚNG cho câu: “既然天气这么冷，所以我们还是坐地铁去吧。”",
+      "options": [
+        "Sửa 所以 thành 那(么)/就: 既然天气这么冷，那我们还是坐地铁去吧。",
+        "Sửa 地铁 thành 飞机",
+        "Sửa 还是 thành 并且",
+        "Câu trên hoàn toàn đúng"
+      ],
+      "answer": "Sửa 所以 thành 那(么)/就: 既然天气这么冷，那我们还是坐地铁去吧。",
+      "explanation": "Liên từ 既然 KHÔNG phối hợp với 所以; vế sau phải đi cùng 就, 那(么), 也 hoặc 还!",
+      "review_tip": "Tránh trộn lẫn 既然……就/那么…… với 因为……所以……."
+    },
+    {
+      "id": "h4x14_ex10", "type": "reading_mc", "level": "Phân biệt", "origin_tag": "Bài khóa 5 (70%)", "mistake_category": "Đọc hiểu",
+      "passage": "例如，夏天把空调的温度开得高一些，出门时记得关空调和电脑，这样可以节约用电；少开车，多骑车或者乘坐地铁和公共汽车，这样能降低空气污染；还有养成把垃圾丢进垃圾桶的习惯什么的。",
+      "prompt": "Theo đoạn văn trên, việc làm nào giúp TIẾT KIỆM ĐIỆN?",
+      "options": [
+        "Mùa hè để nhiệt độ điều hòa cao hơn chút và tắt điều hòa, máy tính khi ra ngoài",
+        "Ít lái xe hơi, đi xe đạp nhiều hơn hoặc đi tàu điện ngầm",
+        "Hình thành thói quen vứt rác đúng vào thùng rác",
+        "Mua túi đi chợ bằng vải thay cho túi nilông"
+      ],
+      "answer": "Mùa hè để nhiệt độ điều hòa cao hơn chút và tắt điều hòa, máy tính khi ra ngoài",
+      "explanation": "Đoạn văn viết: '夏天把空调的温度开得高一些，出门时记得关空调和电脑，这样可以节约用电。'",
+      "review_tip": "Đọc kỹ Bài khóa 5 tr.56."
+    },
+    {
+      "id": "h4x14_ex11", "type": "translate_zh_vi", "level": "Vận dụng", "origin_tag": "Ôn tổng hợp Bài 12–14 (30%)", "mistake_category": "Dịch thuật",
+      "prompt": "Dịch sang tiếng Việt: “只有大家共同努力，减少污染、保护环境，才能使我们的家变得更美丽。”",
+      "hint": "Chú ý cặp 只有……才…… (chỉ có... mới...), 减少污染 (giảm ô nhiễm), 保护环境 (bảo vệ môi trường).",
+      "keywords": ["chỉ có", "nỗ lực", "bảo vệ môi trường", "đẹp"],
+      "answer": "Chỉ có mọi người cùng nhau nỗ lực, giảm bớt ô nhiễm, bảo vệ môi trường thì mới có thể khiến ngôi nhà của chúng ta trở nên tươi đẹp hơn.",
+      "explanation": "只有……才…… = chỉ có... mới...; 共同努力 = cùng nỗ lực; 减少污染 = giảm ô nhiễm; 保护环境 = bảo vệ môi trường; 变得更美丽 = trở nên tươi đẹp hơn.",
+      "review_tip": "Ôn cấu trúc 只有……才…… và từ vựng chủ đề môi trường Bài 14."
+    }
+  ]
+}

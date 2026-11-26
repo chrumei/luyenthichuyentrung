@@ -1,0 +1,907 @@
+{
+  "id": "hsk4xia_l13",
+  "book_id": "hsk4xia",
+  "textbook": "HSK 4 下",
+  "lesson_number": 13,
+  "title_zh": "喝着茶看京剧",
+  "title_vi": "Vừa uống trà vừa xem Kinh kịch",
+  "pdf_pages": "Trang 37–48 (Chuẩn HSK4 下.pdf)",
+  "source_status": "verified_textbook",
+  "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"],
+  "vocabulary": [
+    {
+      "id": "hsk4x_l13_w01", "order": 1, "textbook": "HSK 4 下", "lesson": 13,
+      "hanzi": "京剧", "pinyin": "jīngjù",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "Kinh kịch",
+        "structure": "唱京剧 / 看京剧 / 京剧演员",
+        "explanation": "Loại hình kịch hát truyền thống tiêu biểu bậc nhất của Trung Quốc.",
+        "examples": [{ "chinese": "小夏，你爷爷京剧唱得真专业，我还以为他是京剧演员呢。", "pinyin": "Xiǎo Xià, nǐ yéye jīngjù chàng de zhēn zhuānyè, wǒ hái yǐwéi tā shì jīngjù yǎnyuán ne.", "vietnamese": "Tiểu Hạ, ông nội cậu hát Kinh kịch chuyên nghiệp thật đấy, mình còn tưởng ông là diễn viên Kinh kịch cơ.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "中国影响最大的传统戏曲剧种，形成于北京。",
+      "collocations": ["唱京剧", "听京剧", "看京剧", "京剧演员"],
+      "usage_note": "Với Kinh kịch, người Trung Quốc dùng cả 听京剧 (nghe hát) lẫn 看京剧 (xem diễn).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l13_w02", "order": 2, "textbook": "HSK 4 下", "lesson": 13,
+      "hanzi": "演员", "pinyin": "yǎnyuán",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "diễn viên",
+        "structure": "京剧演员 / 电影演员 / 专业的演员",
+        "explanation": "Người chuyên biểu diễn kịch, phim ảnh hoặc nghệ thuật sân khấu.",
+        "examples": [{ "chinese": "对啊，他本来就是京剧演员，年轻时在我们那儿很有名，深受观众们的喜爱。", "pinyin": "Duì a, tā běnlái jiù shì jīngjù yǎnyuán, niánqīng shí zài wǒmen nàr hěn yǒumíng, shēn shòu guānzhòngmen de xǐ'ài.", "vietnamese": "Đúng thế, ông vốn là diễn viên Kinh kịch mà, hồi trẻ rất nổi tiếng ở chỗ mình, vô cùng được khán giả yêu mến.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "参加戏剧、电影、舞蹈、杂技等演出的人。",
+      "collocations": ["京剧演员", "电影演员", "著名演员", "一位演员"],
+      "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l13_w03", "order": 3, "textbook": "HSK 4 下", "lesson": 13,
+      "hanzi": "观众", "pinyin": "guānzhòng",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "khán giả",
+        "structure": "深受观众们的喜爱 / 吸引观众 / 不同年龄的观众",
+        "explanation": "Những người đến xem biểu diễn, phim ảnh, thi đấu hoặc chương trình truyền hình.",
+        "examples": [{ "chinese": "年轻时在我们那儿很有名，深受观众们的喜爱。", "pinyin": "Niánqīng shí zài wǒmen nàr hěn yǒumíng, shēn shòu guānzhòngmen de xǐ'ài.", "vietnamese": "Hồi trẻ ở chỗ chúng mình rất nổi tiếng, nhận được sự yêu mến sâu sắc của khán giả.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "观看节目、演出、比赛等的人。",
+      "collocations": ["电视观众", "吸引观众", "观众们"],
+      "usage_note": "Phân biệt: 观众 (người xem) vs 听众 (thính giả, người nghe đài/diễn thuyết) vs 读者 (độc giả).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l13_w04", "order": 4, "textbook": "HSK 4 下", "lesson": 13,
+      "hanzi": "厚", "pinyin": "hòu",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "dày, sâu nặng",
+        "structure": "深厚的感情 / 很厚",
+        "explanation": "Trong bài khóa 1, dùng trong từ ghép 深厚 để miêu tả tình cảm sâu nặng, gắn bó lâu dài.",
+        "examples": [{ "chinese": "你爷爷一定对京剧有着很深厚的感情。", "pinyin": "Nǐ yéye yídìng duì jīngjù yǒuzhe hěn shēnhòu de gǎnqíng.", "vietnamese": "Ông nội cậu nhất định có tình cảm rất sâu nặng với Kinh kịch.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "形容词 (Nghĩa gốc: dày về bề dày vật lý)",
+          "meanings": ["dày (sách, quần áo, tường, tuyết — trái nghĩa: 薄 báo)"],
+          "structure": "这本小说这么厚 / 厚衣服",
+          "difference_note": "Xuất hiện ngay trong bài tập 练习2 câu 6 tr.47 (这本小说这么厚，什么时候才能看完啊？).",
+          "examples": [{ "chinese": "这本小说这么厚，什么时候才能看完啊？", "pinyin": "Zhè běn xiǎoshuō zhème hòu, shénme shíhou cái néng kànwán a?", "vietnamese": "Quyển tiểu thuyết này dày thế này, bao giờ mới đọc xong đây?" }]
+        }
+      ],
+      "chinese_explanation": "扁平物上下两面之间的距离大（跟“薄”相对）；引申指感情深、浓重。",
+      "collocations": ["深厚的感情", "厚衣服", "这本小说很厚", "厚厚的雪"],
+      "usage_note": "Trái nghĩa về độ dày vật lý là 薄 (báo).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l13_w05", "order": 5, "textbook": "HSK 4 下", "lesson": 13,
+      "hanzi": "演出", "pinyin": "yǎnchū",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "biểu diễn",
+        "structure": "上台演出 / 演出京剧",
+        "explanation": "Lên sân khấu trình diễn nghệ thuật trước công chúng.",
+        "examples": [{ "chinese": "是呀，他8岁就开始上台演出，到现在大概唱了60多年了。", "pinyin": "Shì ya, tā bā suì jiù kāishǐ shàng tái yǎnchū, dào xiànzài dàgài chàngle liùshí duō nián le.", "vietnamese": "Đúng vậy, ông 8 tuổi đã bắt đầu lên sân khấu biểu diễn, đến nay chắc đã hát hơn 60 năm rồi.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ – xuất hiện ngay trong bài khóa 1 & bài tập tr.47)",
+          "meanings": ["buổi biểu diễn, chương trình biểu diễn"],
+          "structure": "看他的演出 / 举办演出 / 一场演出",
+          "difference_note": "Phân biệt với 表演 trong bài tập tr.47: 演出 nhấn mạnh buổi/chương trình biểu diễn chính thức (这次演出举办得非常成功), còn 表演 nhận tân ngữ tiết mục cụ thể (表演中国功夫).",
+          "examples": [{ "chinese": "我小时候经常去看他的演出。", "pinyin": "Wǒ xiǎoshíhou jīngcháng qù kàn tā de yǎnchū.", "vietnamese": "Hồi nhỏ mình thường xuyên đi xem buổi diễn của ông." }]
+        }
+      ],
+      "chinese_explanation": "把戏剧、舞蹈、音乐、杂技等技艺在观众面前表现出来；也作名词指演出的场次或活动。",
+      "collocations": ["上台演出", "看演出", "这次演出", "精彩的演出"],
+      "usage_note": "Phân biệt 演出 (chương trình diễn xuất trước công chúng, thường không nhận tân ngữ kiểu '功夫') vs 表演 (trình diễn một tiết mục, động tác cụ thể: 表演中国功夫, 表演节目).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l13_w06", "order": 6, "textbook": "HSK 4 下", "lesson": 13,
+      "hanzi": "大概", "pinyin": "dàgài",
+      "lesson_usage": {
+        "part_of_speech": "副词 (Phó từ)", "meaning": "khoảng chừng, có lẽ",
+        "structure": "大概 + Số lượng/Thời gian / 大概 + Suy đoán tình huống",
+        "explanation": "Ước lượng gần đúng về số lượng, thời gian hoặc suy đoán tình huống có khả năng xảy ra khá cao.",
+        "examples": [{ "chinese": "他8岁就开始上台演出，到现在大概唱了60多年了，他对这门艺术的喜爱从来没有改变过。", "pinyin": "Tā bā suì jiù kāishǐ shàng tái yǎnchū, dào xiànzài dàgài chàngle liùshí duō nián le, tā duì zhè mén yìshù de xǐ'ài cónglái méiyǒu gǎibiànguo.", "vietnamese": "Ông 8 tuổi đã bắt đầu lên sân khấu biểu diễn, đến nay hát khoảng hơn 60 năm rồi, niềm yêu thích của ông với môn nghệ thuật này chưa bao giờ thay đổi.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "形容词 (Tính từ – nêu rõ trong Chú thích 1 tr.40 & 比一比 tr.41)",
+          "meanings": ["đại khái, chung chung, không thật chi tiết"],
+          "structure": "大概的意思 / 大概的内容 / 有一个大概的想法",
+          "difference_note": "Là tính từ thuộc tính (属性词), thường làm định ngữ trước danh từ; 也许 không có cách dùng này.",
+          "examples": [{ "chinese": "不管做什么事情，最好提前做计划，不用安排得特别详细，但必须有一个大概的想法。", "pinyin": "Bùguǎn zuò shénme shìqing, zuìhǎo tíqián zuò jìhuà, búyòng ānpái de tèbié xiángxì, dàn bìxū yǒu yí ge dàgài de xiǎngfǎ.", "vietnamese": "Bất kể làm việc gì tốt nhất nên lập kế hoạch trước, không cần sắp xếp quá chi tiết, nhưng phải có một ý tưởng đại khái." }]
+        }
+      ],
+      "chinese_explanation": "副词表示对数量、时间的估计或对情况的推测；形容词表示不很精确或详细。",
+      "collocations": ["大概意思", "大概内容", "大概60年", "大概会同意"],
+      "usage_note": "Xem kỹ bảng 比一比 '大概—也许' (tr.40–41) trong tab Ngữ pháp.",
+      "common_errors": "Dùng 大概 để nói về dự định tương lai không chắc của bản thân (nên dùng 也许: 也许以后我会成为一名记者).",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l13_w07", "order": 7, "textbook": "HSK 4 下", "lesson": 13,
+      "hanzi": "来自", "pinyin": "láizì",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "đến từ",
+        "structure": "来自 + Địa danh / Quốc gia / Nguồn gốc",
+        "explanation": "Cho biết xuất xứ, quê quán hoặc nguồn gốc của người hay sự vật.",
+        "examples": [{ "chinese": "真没想到你一个来自美国的外国留学生，能把京剧唱得这么好。", "pinyin": "Zhēn méi xiǎngdào nǐ yí ge láizì Měiguó de wàiguó liúxuéshēng, néng bǎ jīngjù chàng de zhème hǎo.", "vietnamese": "Thật không ngờ một du học sinh nước ngoài đến từ Mỹ như cậu lại có thể hát Kinh kịch hay đến thế.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "从……来；来源于。",
+      "collocations": ["来自美国", "来自世界各地", "来自生活", "压力来自工作"],
+      "usage_note": "Không nói '我来自在美国' — sau 来自 đi trực tiếp địa điểm (来自美国).",
+      "common_errors": "Thêm giới từ 从 hoặc 在 vào cụm 来自 (Sai: '我从来自越南' → Đúng: '我来自越南').",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l13_w08", "order": 8, "textbook": "HSK 4 下", "lesson": 13,
+      "hanzi": "遍", "pinyin": "biàn",
+      "lesson_usage": {
+        "part_of_speech": "量词 (Lượng từ)", "meaning": "(chỉ một hành động từ lúc bắt đầu đến khi kết thúc) lần, lượt",
+        "structure": "一遍一遍地 + V / 看了一遍 / 再检查一遍",
+        "explanation": "Động lượng từ nhấn mạnh toàn bộ quá trình của hành động từ đầu đến cuối.",
+        "examples": [{ "chinese": "我常常跟着电视学唱京剧，然后一遍一遍地练习，偶尔跟中国人一起唱上几句。", "pinyin": "Wǒ chángcháng gēnzhe diànshì xué chàng jīngjù, ránhòu yí biàn yí biàn de liànxí, ǒu'ěr gēn Zhōngguó rén yìqǐ chàngshang jǐ jù.", "vietnamese": "Mình thường học hát Kinh kịch theo tivi, rồi luyện tập hết lượt này đến lượt khác, thỉnh thoảng hát vài câu cùng người Trung Quốc.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "量词，一个动作从开始到结束的整个过程为一遍。",
+      "collocations": ["一遍一遍地", "再说一遍", "检查一遍", "看两遍"],
+      "usage_note": "Phân biệt với 次: 次 chỉ đếm số lần nói chung (去过三次北京); 遍 nhấn mạnh trọn vẹn từ đầu tới cuối (读一遍课文, 检查一遍). Không dùng 遍 cho hành động không có trình tự đầu-cuối như 去北京.",
+      "common_errors": "Sai: '我去过两遍上海' → Đúng: '我去过两次上海'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l13_w09", "order": 9, "textbook": "HSK 4 下", "lesson": 13,
+      "hanzi": "偶尔", "pinyin": "ǒu'ěr",
+      "lesson_usage": {
+        "part_of_speech": "副词 (Phó từ)", "meaning": "thỉnh thoảng",
+        "structure": "偶尔 + Động từ / 偶尔也 + V",
+        "explanation": "Chỉ sự việc xảy ra với tần suất rất thấp, không thường xuyên (trái nghĩa: 经常).",
+        "examples": [{ "chinese": "偶尔跟中国人一起唱上几句。", "pinyin": "Ǒu'ěr gēn Zhōngguó rén yìqǐ chàngshang jǐ jù.", "vietnamese": "Thỉnh thoảng hát vài câu cùng người Trung Quốc.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "间或，有时候，表示情况发生的次数非常少。",
+      "collocations": ["偶尔加班", "偶尔去一次", "偶尔也会"],
+      "usage_note": "Tần suất: 总是 > 经常 > 有时候 > 偶尔 > 很少 > 从来不.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l13_w10", "order": 10, "textbook": "HSK 4 下", "lesson": 13,
+      "hanzi": "吃惊", "pinyin": "chī jīng",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ ly hợp)", "meaning": "kinh ngạc",
+        "structure": "别吃惊 / 让人吃惊 / 吃了一惊",
+        "explanation": "Cảm thấy bất ngờ, sửng sốt trước một sự việc ngoài dự đoán.",
+        "examples": [{ "chinese": "别吃惊，因为我以前学习过音乐，有一些音乐基础。", "pinyin": "Bié chī jīng, yīnwèi wǒ yǐqián xuéxíguo yīnyuè, yǒu yìxiē yīnyuè jīchǔ.", "vietnamese": "Đừng kinh ngạc, vì trước đây mình từng học âm nhạc, có chút nền tảng âm nhạc.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "受惊，感到很意外。",
+      "collocations": ["别吃惊", "吃了一惊", "非常吃惊", "令人吃惊"],
+      "usage_note": "Là động từ ly hợp (吃了一惊, 吃了一大惊), không mang tân ngữ trực tiếp (dùng 对……很吃惊 hoặc 让某人吃惊).",
+      "common_errors": "Sai: '我吃惊这个消息' → Đúng: '我对这个消息很吃惊' hoặc '这个消息让我很吃惊'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l13_w11", "order": 11, "textbook": "HSK 4 下", "lesson": 13,
+      "hanzi": "基础", "pinyin": "jīchǔ",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "nền tảng, căn bản",
+        "structure": "音乐基础 / 有点儿基础 / 打好基础 / 在……的基础上",
+        "explanation": "Kiến thức, kỹ năng bước đầu hoặc cơ sở khởi điểm cho sự phát triển về sau.",
+        "examples": [{ "chinese": "因为我以前学习过音乐，有一些音乐基础。", "pinyin": "Yīnwèi wǒ yǐqián xuéxíguo yīnyuè, yǒu yìxiē yīnyuè jīchǔ.", "vietnamese": "Bởi vì trước đây mình từng học âm nhạc, có một chút nền tảng âm nhạc.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "事物发展的根本或起点。",
+      "collocations": ["打好基础", "有点儿基础", "基础知识", "在……的基础上"],
+      "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l13_w12", "order": 12, "textbook": "HSK 4 下", "lesson": 13,
+      "hanzi": "表演", "pinyin": "biǎoyǎn",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "biểu diễn, trình diễn",
+        "structure": "表演 + 节目 / 中国功夫 / 京剧  |  表演艺术",
+        "explanation": "Thể hiện tài năng, tiết mục nghệ thuật, võ thuật hay vai diễn trước người xem.",
+        "examples": [{ "chinese": "又对京剧这种表演艺术非常感兴趣，所以能比较容易地学会它的唱法。", "pinyin": "Yòu duì jīngjù zhè zhǒng biǎoyǎn yìshù fēicháng gǎn xìngqù, suǒyǐ néng bǐjiào róngyì de xuéhuì tā de chàngfǎ.", "vietnamese": "Lại vô cùng có hứng thú với loại hình nghệ thuật biểu diễn như Kinh kịch, nên có thể học cách hát của nó tương đối dễ dàng.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ)",
+          "meanings": ["màn biểu diễn, tiết mục trình diễn"],
+          "structure": "精彩的表演 / 一场表演",
+          "difference_note": "Có thể làm danh từ sau tính từ khen ngợi như 精彩的表演.",
+          "examples": [{ "chinese": "外国留学生表演的中国功夫非常棒。", "pinyin": "Wàiguó liúxuéshēng biǎoyǎn de Zhōngguó gōngfu fēicháng bàng.", "vietnamese": "Màn võ thuật Trung Hoa do các du học sinh nước ngoài biểu diễn vô cùng xuất sắc." }]
+        }
+      ],
+      "chinese_explanation": "戏剧、舞蹈、杂技等演出；把情节或技艺表现出来。",
+      "collocations": ["表演节目", "表演艺术", "表演中国功夫", "精彩的表演"],
+      "usage_note": "Phân biệt với 演出: 表演 dùng được cho cả biểu diễn chuyên nghiệp lẫn tiết mục văn nghệ, kungfu, trò chơi; 演出 nhấn mạnh buổi biểu diễn/đêm diễn quy mô.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l13_w13", "order": 13, "textbook": "HSK 4 下", "lesson": 13,
+      "hanzi": "正常", "pinyin": "zhèngcháng",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "bình thường, thông thường",
+        "structure": "正常交流 / 正常情况 / 很正常",
+        "explanation": "Phù hợp với quy luật, trạng thái thông thường, không có gì bất thường.",
+        "examples": [{ "chinese": "因为外国留学生不了解中国文化，有时候会影响他们和中国人之间的正常交流。", "pinyin": "Yīnwèi wàiguó liúxuéshēng bù liǎojiě Zhōngguó wénhuà, yǒushíhou huì yǐngxiǎng tāmen hé Zhōngguó rén zhījiān de zhèngcháng jiāoliú.", "vietnamese": "Bởi vì du học sinh nước ngoài chưa hiểu văn hóa Trung Quốc, đôi khi sẽ ảnh hưởng đến giao tiếp bình thường giữa họ và người Trung Quốc.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "符合一般规律和情况的。",
+      "collocations": ["正常交流", "正常生活", "正常工作", "非常正常"],
+      "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l13_w14", "order": 14, "textbook": "HSK 4 下", "lesson": 13,
+      "hanzi": "申请", "pinyin": "shēnqǐng",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "xin",
+        "structure": "申请 + 举办活动 / 留学 / 信用卡 / 奖学金",
+        "explanation": "Đệ trình yêu cầu chính thức lên cấp trên hoặc cơ quan để xin phép, đăng ký.",
+        "examples": [{ "chinese": "所以我们想申请举办一次中国传统文化节活动。", "pinyin": "Suǒyǐ wǒmen xiǎng shēnqǐng jǔbàn yí cì Zhōngguó chuántǒng wénhuà jié huódòng.", "vietnamese": "Vì vậy chúng tôi muốn xin tổ chức một sự kiện Lễ hội Văn hóa Truyền thống Trung Quốc.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ)",
+          "meanings": ["đơn xin, lời đề nghị chính thức"],
+          "structure": "写申请 / 提交申请 / 批准申请",
+          "difference_note": "Làm danh từ chỉ văn bản hoặc yêu cầu đăng ký.",
+          "examples": [{ "chinese": "学校已经同意了你的奖学金申请。", "pinyin": "Xuéxiào yǐjīng tóngyì le nǐ de jiǎngxuéjīn shēnqǐng.", "vietnamese": "Nhà trường đã đồng ý đơn xin học bổng của bạn rồi." }]
+        }
+      ],
+      "chinese_explanation": "向上级或有关机构说明理由，提出请求。",
+      "collocations": ["申请留学", "申请信用卡", "申请学校", "申请举办"],
+      "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l13_w15", "order": 15, "textbook": "HSK 4 下", "lesson": 13,
+      "hanzi": "有趣", "pinyin": "yǒuqù",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "thú vị, lý thú",
+        "structure": "非常有趣 / 有趣的故事 / 办得非常有趣",
+        "explanation": "Hấp dẫn, giàu ý vị, mang lại hứng thú (trang trọng hơn một chút so với 有意思).",
+        "examples": [{ "chinese": "上次的春游活动你们办得非常有趣，大家都玩儿得很开心。", "pinyin": "Shàng cì de chūnyóu huódòng nǐmen bàn de fēicháng yǒuqù, dàjiā dōu wánr de hěn kāixīn.", "vietnamese": "Hoạt động du xuân lần trước các thầy cô tổ chức vô cùng thú vị, mọi người đều chơi rất vui vẻ.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "有兴味，有意思。",
+      "collocations": ["非常有趣", "有趣的故事", "有趣的人"],
+      "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l13_w16", "order": 16, "textbook": "HSK 4 下", "lesson": 13,
+      "hanzi": "开心", "pinyin": "kāixīn",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "vui vẻ",
+        "structure": "玩儿得很开心 / 开心极了 / 开开心心",
+        "explanation": "Lòng dạ thoải mái, phấn khởi, vui mừng (gần nghĩa với 高兴, 快乐).",
+        "examples": [{ "chinese": "大家都玩儿得很开心。", "pinyin": "Dàjiā dōu wánr de hěn kāixīn.", "vietnamese": "Mọi người đều chơi rất vui vẻ.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "心情快乐舒畅。",
+      "collocations": ["玩儿得很开心", "很开心", "笑得很开心"],
+      "usage_note": "Lặp lại theo kiểu AABB: 开开心心.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l13_w17", "order": 17, "textbook": "HSK 4 下", "lesson": 13,
+      "hanzi": "继续", "pinyin": "jìxù",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "tiếp tục",
+        "structure": "继续 + Động từ (继续读书 / 继续进行 / 继续留在北京)",
+        "explanation": "Làm tiếp việc đang tiến hành mà không gián đoạn, hoặc nối lại việc vừa tạm dừng.",
+        "examples": [{ "chinese": "这次活动继续由你负责，相信也一定会很成功。", "pinyin": "Zhè cì huódòng jìxù yóu nǐ fùzé, xiāngxìn yě yídìng huì hěn chénggōng.", "vietnamese": "Hoạt động lần này tiếp tục do cô phụ trách, tin rằng cũng nhất định sẽ rất thành công.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "副词性用法 (Làm trạng ngữ)",
+          "meanings": ["tiếp tục (bổ nghĩa cho động từ/cụm giới từ phía sau)"],
+          "structure": "继续 + V / 继续 + 由某人负责",
+          "difference_note": "Rất thường đứng trước cụm động từ hoặc giới từ như câu bài khóa '继续由你负责' hay '十点半会议继续进行'.",
+          "examples": [{ "chinese": "大家请注意，现在休息十五分钟，十点半会议继续进行。", "pinyin": "Dàjiā qǐng zhùyì, xiànzài xiūxi shíwǔ fēnzhōng, shí diǎn bàn huìyì jìxù jìnxíng.", "vietnamese": "Mọi người chú ý, bây giờ nghỉ giải lao 15 phút, 10 rưỡi cuộc họp tiếp tục tiến hành." }]
+        }
+      ],
+      "chinese_explanation": "连下去，延长下去，不间断。",
+      "collocations": ["继续学习", "继续努力", "继续进行", "继续工作"],
+      "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l13_w18", "order": 18, "textbook": "HSK 4 下", "lesson": 13,
+      "hanzi": "由", "pinyin": "yóu",
+      "lesson_usage": {
+        "part_of_speech": "介词 (Giới từ)", "meaning": "do",
+        "structure": "Sự việc + 由 + Người đảm nhận + 负责 / 组织 / 翻译",
+        "explanation": "Dẫn ra người hoặc đơn vị chịu trách nhiệm thực hiện một công việc nào đó.",
+        "examples": [{ "chinese": "这次活动继续由你负责，相信也一定会很成功。", "pinyin": "Zhè cì huódòng jìxù yóu nǐ fùzé, xiāngxìn yě yídìng huì hěn chénggōng.", "vietnamese": "Hoạt động lần này tiếp tục do cô phụ trách, tin rằng cũng nhất định sẽ rất thành công.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "介词 (Nghĩa: cấu thành từ / bắt đầu từ)",
+          "meanings": ["gồm có, được cấu thành bởi (由……组成)", "từ (điểm xuất phát: 由南向北, 由浅入深)"],
+          "structure": "由 + Các bộ phận + 组成  |  由 A 到 B",
+          "difference_note": "Ngoài chỉ người phụ trách, 由 còn dùng rộng rãi để chỉ thành phần cấu tạo (như câu 2 bài tập tr.43: 由两部分组成).",
+          "examples": [{ "chinese": "这篇文章是由两部分组成的。", "pinyin": "Zhè piān wénzhāng shì yóu liǎng bùfen zǔchéng de.", "vietnamese": "Bài văn này được cấu thành từ hai phần." }]
+        }
+      ],
+      "chinese_explanation": "介词，引出负责做某事的人；也可表示构成成分、起点或原因。",
+      "collocations": ["由……负责", "由……翻译", "由……组成", "由……决定"],
+      "usage_note": "Rất hay đi trong khung nhấn mạnh 是由……的 (是由林语堂先生翻译过来的).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l13_w19", "order": 19, "textbook": "HSK 4 下", "lesson": 13,
+      "hanzi": "讨论", "pinyin": "tǎolùn",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "thảo luận, bàn bạc",
+        "structure": "开会讨论 / 讨论问题 / 讨论一下",
+        "explanation": "Cùng nhau trao đổi, phân tích ý kiến về một đề tài hay kế hoạch.",
+        "examples": [{ "chinese": "我们回去就开会讨论，星期五之前把详细的计划书发给您。", "pinyin": "Wǒmen huíqù jiù kāi huì tǎolùn, xīngqīwǔ zhīqián bǎ xiángxì de jìhuàshū fāgěi nín.", "vietnamese": "Chúng tôi về sẽ họp bàn thảo luận ngay, trước thứ Sáu sẽ gửi bản kế hoạch chi tiết cho thầy.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ)",
+          "meanings": ["cuộc thảo luận, sự bàn luận"],
+          "structure": "参加讨论 / 经过讨论",
+          "difference_note": "Làm danh từ trong các cụm trang trọng.",
+          "examples": [{ "chinese": "经过热烈的讨论，大家终于达成了一致。", "pinyin": "Jīngguò rèliè de tǎolùn, dàjiā zhōngyú dáchéng le yízhì.", "vietnamese": "Trải qua cuộc thảo luận sôi nổi, mọi người cuối cùng đã đạt được thống nhất." }]
+        }
+      ],
+      "chinese_explanation": "就某一问题交换意见或进行辩论。",
+      "collocations": ["开会讨论", "讨论问题", "热烈讨论", "讨论讨论"],
+      "usage_note": "Phân biệt với 商量: 商量 thiên về bàn bạc chuyện riêng/công việc để đi tới thỏa thuận; 讨论 thiên về thảo luận tập thể, hội nghị, học thuật.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l13_w20", "order": 20, "textbook": "HSK 4 下", "lesson": 13,
+      "hanzi": "大约", "pinyin": "dàyuē",
+      "lesson_usage": {
+        "part_of_speech": "副词 (Phó từ)", "meaning": "khoảng chừng, ước chừng",
+        "structure": "大约 + Số lượng / Thời gian (大约3000多年 / 大约20%)",
+        "explanation": "Ước lượng gần đúng về số lượng hoặc thời gian.",
+        "examples": [{ "chinese": "筷子在中国大约已经有3000多年的历史了。", "pinyin": "Kuàizi zài Zhōngguó dàyuē yǐjīng yǒu sānqiān duō nián de lìshǐ le.", "vietnamese": "Đũa ở Trung Quốc ước chừng đã có hơn 3.000 năm lịch sử rồi.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "在数目、时间上大概估计。",
+      "collocations": ["大约3000年", "大约半个小时", "大约20%"],
+      "usage_note": "Phân biệt với 大概: cả hai đều ước lượng số lượng/thời gian, nhưng 大约 thiên về con số/thời gian trong văn viết, ít dùng làm tính từ như 大概 (大概的意思).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l13_w21", "order": 21, "textbook": "HSK 4 下", "lesson": 13,
+      "hanzi": "餐厅", "pinyin": "cāntīng",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "nhà hàng",
+        "structure": "中国餐厅 / 一家餐厅 / 去餐厅吃饭",
+        "explanation": "Quán ăn, nhà hàng lịch sự hoặc phòng ăn tập thể.",
+        "examples": [{ "chinese": "所以，国外的一些中国餐厅在放筷子的纸袋上会提供使用筷子的详细说明。", "pinyin": "Suǒyǐ, guówài de yìxiē Zhōngguó cāntīng zài fàng kuàizi de zhǐdài shang huì tígōng shǐyòng kuàizi de xiángxì shuōmíng.", "vietnamese": "Vì vậy, một số nhà hàng Trung Quốc ở nước ngoài có in hướng dẫn chi tiết cách dùng đũa ngay trên bao giấy đựng đũa.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "公共餐饮场所，或住宅中专门用来吃饭的房间。",
+      "collocations": ["中国餐厅", "西餐厅", "一家餐厅"],
+      "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l13_w22", "order": 22, "textbook": "HSK 4 下", "lesson": 13,
+      "hanzi": "纸袋", "pinyin": "zhǐdài",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "túi giấy",
+        "structure": "放筷子的纸袋 / 一个纸袋",
+        "explanation": "Túi hoặc bao làm bằng giấy để đựng vật dụng, thực phẩm.",
+        "examples": [{ "chinese": "国外的一些中国餐厅在放筷子的纸袋上会提供使用筷子的详细说明。", "pinyin": "Guówài de yìxiē Zhōngguó cāntīng zài fàng kuàizi de zhǐdài shang huì tígōng shǐyòng kuàizi de xiángxì shuōmíng.", "vietnamese": "Một số nhà hàng Trung Quốc ở nước ngoài sẽ cung cấp hướng dẫn chi tiết cách dùng đũa trên túi giấy đựng đũa.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "用纸做成的袋子。",
+      "collocations": ["环保纸袋", "一个纸袋"],
+      "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l13_w22b", "order": 23, "textbook": "HSK 4 下", "lesson": 13,
+      "hanzi": "袋（子）", "pinyin": "dài (zi)",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "túi",
+        "structure": "一个袋子 / 纸袋 / 塑料袋 / 购物袋",
+        "explanation": "Vật dụng dùng để đựng đồ làm từ giấy, vải hoặc nhựa.",
+        "examples": [{ "chinese": "在放筷子的纸袋上会提供使用筷子的详细说明。", "pinyin": "Zài fàng kuàizi de zhǐdài shang huì tígōng shǐyòng kuàizi de xiángxì shuōmíng.", "vietnamese": "Trên túi giấy đựng đũa sẽ cung cấp hướng dẫn chi tiết cách dùng đũa (袋 trong 纸袋).", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "量词 (Lượng từ – dùng chữ đơn 袋)",
+          "meanings": ["túi, bao (đơn vị đếm đồ đựng trong túi)"],
+          "structure": "一袋 + 苹果 / 大米 / 盐",
+          "difference_note": "Khi làm lượng từ chỉ dùng 袋, không thêm 子.",
+          "examples": [{ "chinese": "妈妈从超市买了一袋苹果。", "pinyin": "Māma cóng chāoshì mǎi le yí dài píngguǒ.", "vietnamese": "Mẹ mua một túi táo từ siêu thị." }]
+        }
+      ],
+      "chinese_explanation": "用布、皮、纸或塑料等做成的盛东西的器具；单用可作量词。",
+      "collocations": ["纸袋", "塑料袋", "购物袋", "一袋米"],
+      "usage_note": "Là từ phụ kèm ngay dưới mục 22 (纸袋) trong bảng từ mới tr.43 sách gốc.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l13_w23", "order": 24, "textbook": "HSK 4 下", "lesson": 13,
+      "hanzi": "互联网", "pinyin": "hùliánwǎng",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "mạng Internet",
+        "structure": "在互联网上 / 互联网时代",
+        "explanation": "Mạng lưới máy tính toàn cầu kết nối thông tin (trang trọng hơn 网络/网上).",
+        "examples": [{ "chinese": "有人在互联网上专门进行过调查，结果发现每六个中国人中就有一个使用筷子的方法是错误的。", "pinyin": "Yǒu rén zài hùliánwǎng shang zhuānmén jìnxíngguo diàochá, jiéguǒ fāxiàn měi liù ge Zhōngguó rén zhōng jiù yǒu yí ge shǐyòng kuàizi de fāngfǎ shì cuòwù de.", "vietnamese": "Có người từng chuyên môn tiến hành khảo sát trên mạng Internet, kết quả phát hiện cứ sáu người Trung Quốc thì có một người dùng đũa sai cách.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "由若干计算机网络相互连接而成的全球性网络。",
+      "collocations": ["在互联网上", "互联网时代", "互联网公司"],
+      "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l13_w24", "order": 25, "textbook": "HSK 4 下", "lesson": 13,
+      "hanzi": "进行", "pinyin": "jìnxíng",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "tiến hành, thực hiện",
+        "structure": "进行 + Động từ 2 âm tiết trang trọng (进行调查 / 进行交流 / 进行讨论)",
+        "explanation": "Đứng trước động từ 2 âm tiết biểu thị hoạt động chính thức, nghiêm túc, có tính liên tục.",
+        "examples": [{ "chinese": "有人在互联网上专门进行过调查。", "pinyin": "Yǒu rén zài hùliánwǎng shang zhuānmén jìnxíngguo diàochá.", "vietnamese": "Có người từng chuyên môn tiến hành điều tra trên mạng Internet.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Nội động từ – diễn ra, tiếp diễn)",
+          "meanings": ["diễn ra, tiến triển"],
+          "structure": "会议/比赛/工作 + 正在进行 / 顺利进行 / 继续进行",
+          "difference_note": "Có thể làm vị ngữ trực tiếp không cần tân ngữ (như VD 1 tr.45: 十点半会议继续进行).",
+          "examples": [{ "chinese": "十点半会议继续进行。", "pinyin": "Shí diǎn bàn huìyì jìxù jìnxíng.", "vietnamese": "10 giờ rưỡi cuộc họp tiếp tục diễn ra." }]
+        }
+      ],
+      "chinese_explanation": "从事某种正式、严肃的活动；也指事物持续开展。",
+      "collocations": ["进行调查", "进行交流", "进行讨论", "顺利进行"],
+      "usage_note": "KHÔNG dùng 进行 với hành động sinh hoạt thường ngày hoặc động từ 1 âm tiết (Sai: '进行吃饭', '进行睡觉'). Khi đã dùng 进行 + V thì V phía sau không mang tân ngữ hay 了/过 (了/过 gắn vào sau 进行: 进行过调查).",
+      "common_errors": "Sai: '进行吃饭' / '进行调查了这件事' → Đúng: '吃饭' / '对这件事进行了调查'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l13_w25", "order": 26, "textbook": "HSK 4 下", "lesson": 13,
+      "hanzi": "错误", "pinyin": "cuòwù",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "sai",
+        "structure": "……是错误的 / 错误的方法 / 错误的决定",
+        "explanation": "Không đúng với thực tế hoặc quy chuẩn (trái nghĩa: 正确).",
+        "examples": [{ "chinese": "结果发现每六个中国人中就有一个使用筷子的方法是错误的。", "pinyin": "Jiéguǒ fāxiàn měi liù ge Zhōngguó rén zhōng jiù yǒu yí ge shǐyòng kuàizi de fāngfǎ shì cuòwù de.", "vietnamese": "Kết quả phát hiện cứ mỗi sáu người Trung Quốc thì có một người dùng đũa sai phương pháp.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ)",
+          "meanings": ["lỗi sai, sai lầm"],
+          "structure": "犯错误 / 改正错误 / 语法错误",
+          "difference_note": "Làm danh từ chỉ lỗi sai mắc phải.",
+          "examples": [{ "chinese": "谁都会犯错误，重要的是能及时改正。", "pinyin": "Shéi dōu huì fàn cuòwù, zhòngyào de shì néng jíshí gǎizhèng.", "vietnamese": "Ai cũng có thể mắc sai lầm, quan trọng là biết sửa chữa kịp thời." }]
+        }
+      ],
+      "chinese_explanation": "不正确，与客观实际不符合；也作名词指不正确的行为或认识。",
+      "collocations": ["错误的方法", "犯错误", "改正错误", "语法错误"],
+      "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l13_w26", "order": 27, "textbook": "HSK 4 下", "lesson": 13,
+      "hanzi": "随着", "pinyin": "suízhe",
+      "lesson_usage": {
+        "part_of_speech": "介词 (Giới từ)", "meaning": "cùng với",
+        "structure": "随着 + Định ngữ + Động từ 2 âm tiết (随着社会的发展 / 随着年龄的增长)",
+        "explanation": "Biểu thị một sự việc thay đổi/phát triển làm điều kiện kéo theo sự thay đổi của sự việc khác.",
+        "examples": [{ "chinese": "后来，随着人们对茶的认识的加深，慢慢开始把它当作解渴的饮料，这才慢慢有了中国的茶文化。", "pinyin": "Hòulái, suízhe rénmen duì chá de rènshi de jiāshēn, mànmàn kāishǐ bǎ tā dàngzuò jiě kě de yǐnliào, zhè cái mànmàn yǒule Zhōngguó de chá wénhuà.", "vietnamese": "Về sau, cùng với sự nhận thức ngày càng sâu sắc của con người về trà, người ta dần bắt đầu xem nó là thức uống giải khát, từ đó mới dần hình thành văn hóa trà Trung Hoa.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 + 着 (Nghĩa gốc: đi theo, nương theo)",
+          "meanings": ["theo cùng, hòa theo (nhịp điệu, dòng người)"],
+          "structure": "随着音乐跳舞 / 随着风飘动",
+          "difference_note": "Mang nghĩa cụ thể 'theo nhịp/theo hướng của sự vật vật lý'.",
+          "examples": [{ "chinese": "大家随着音乐开心地跳起舞来。", "pinyin": "Dàjiā suízhe yīnyuè kāixīn de tiàoqǐ wǔ lái.", "vietnamese": "Mọi người vui vẻ nhảy múa theo điệu nhạc." }]
+        }
+      ],
+      "chinese_explanation": "介词，表示一件事是另一件事发生的伴随条件，后常接带修饰语的双音节动词。",
+      "collocations": ["随着社会的发展", "随着时间的推移", "随着年龄的增长", "随着科技的进步"],
+      "usage_note": "Phía sau 随着 thường là cụm danh hóa (A的B): 随着经济的发展, 随着生活水平的提高.",
+      "common_errors": "Chỉ đặt một danh từ tĩnh sau 随着 mà thiếu động từ biến đổi (Sai: '随着时间，我长大了' → Đúng: '随着时间的推移 / 随着年龄的增长，我长大了').",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l13_w27", "order": 28, "textbook": "HSK 4 下", "lesson": 13,
+      "hanzi": "十分", "pinyin": "shífēn",
+      "lesson_usage": {
+        "part_of_speech": "副词 (Phó từ)", "meaning": "rất, vô cùng",
+        "structure": "十分 + Tính từ / Động từ tâm lý (十分普遍 / 十分重要 / 十分满意)",
+        "explanation": "Phó từ chỉ mức độ rất cao, đồng nghĩa với 非常, 特别 (thiên về văn viết hơn 很).",
+        "examples": [{ "chinese": "在中国，喝茶是一种十分普遍的生活习惯。", "pinyin": "Zài Zhōngguó, hē chá shì yì zhǒng shífēn pǔbiàn de shēnghuó xíguàn.", "vietnamese": "Ở Trung Quốc, uống trà là một thói quen sinh hoạt vô cùng phổ biến.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "很，非常，表示程度极高。",
+      "collocations": ["十分普遍", "十分重要", "十分满意", "十分有趣"],
+      "usage_note": "Không dùng 十分 trước động từ hành động cụ thể không mang tính tâm lý (Sai: '十分吃饭').",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l13_w28", "order": 29, "textbook": "HSK 4 下", "lesson": 13,
+      "hanzi": "普遍", "pinyin": "pǔbiàn",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "phổ biến",
+        "structure": "十分普遍 / 普遍现象 / 越来越普遍 / 受到普遍欢迎",
+        "explanation": "Tồn tại rộng rãi, có tính chung và xuất hiện ở nhiều nơi/nhiều người.",
+        "examples": [{ "chinese": "在中国，喝茶是一种十分普遍的生活习惯。", "pinyin": "Zài Zhōngguó, hē chá shì yì zhǒng shífēn pǔbiàn de shēnghuó xíguàn.", "vietnamese": "Ở Trung Quốc, uống trà là một thói quen sinh hoạt rất phổ biến.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "存在的面很广，具有共同性。",
+      "collocations": ["普遍现象", "普遍欢迎", "越来越普遍", "普遍认为"],
+      "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l13_w29", "order": 30, "textbook": "HSK 4 下", "lesson": 13,
+      "hanzi": "部分", "pinyin": "bùfen",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "phần, bộ phận",
+        "structure": "一部分 / 大部分 / 两部分 / 不可缺少的一部分",
+        "explanation": "Một phần trong tổng thể (đối lập với 全部).",
+        "examples": [{ "chinese": "对很多中国人来说，喝茶已成为他们生活中不可缺少的一部分。", "pinyin": "Duì hěn duō Zhōngguó rén lái shuō, hē chá yǐ chéngwéi tāmen shēnghuó zhōng bù kě quēshǎo de yí bùfen.", "vietnamese": "Đối với nhiều người Trung Quốc mà nói, uống trà đã trở thành một phần không thể thiếu trong cuộc sống của họ.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "整体中的局部，整体里的一些个体。",
+      "collocations": ["一部分", "大部分", "超重的部分", "不可缺少的一部分"],
+      "usage_note": "Âm tiết thứ hai đọc thanh nhẹ: bùfen.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l13_w30", "order": 31, "textbook": "HSK 4 下", "lesson": 13,
+      "hanzi": "稍微", "pinyin": "shāowēi",
+      "lesson_usage": {
+        "part_of_speech": "副词 (Phó từ)", "meaning": "hơi",
+        "structure": "稍微 + 有点儿 + Adj / 稍微 + V + 一下 / 稍微 + Adj + 一点儿",
+        "explanation": "Biểu thị mức độ rất nhẹ hoặc số lượng ít, thường phối hợp với 有点儿, 一下, 一点儿.",
+        "examples": [{ "chinese": "比如广东省的人爱喝的“凉茶”，它的味道稍微有点儿苦，其实是一种用中药做成的饮料。", "pinyin": "Bǐrú Guǎngdōng Shěng de rén ài hē de “liángchá”, tā de wèidào shāowēi yǒudiǎnr kǔ, qíshí shì yì zhǒng yòng zhōngyào zuòchéng de yǐnliào.", "vietnamese": "Ví dụ như “trà thảo mộc” mà người tỉnh Quảng Đông thích uống, vị của nó hơi đắng một chút, thật ra là một loại thức uống làm từ thuốc Đông y.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "表示数量不多或程度不深，常与“有点儿、一下、一点儿”搭配。",
+      "collocations": ["稍微有点儿苦", "稍微休息一下", "稍微等一下", "稍微便宜一点儿"],
+      "usage_note": "Ít đứng trơ trước tính từ đơn âm tiết (không nói '稍微苦', phải nói '稍微有点儿苦' hoặc '稍微苦一点儿').",
+      "common_errors": "Sai: '这件衣服稍微贵' → Đúng: '这件衣服稍微有点儿贵 / 稍微贵了一点儿'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l13_w31", "order": 32, "textbook": "HSK 4 下", "lesson": 13,
+      "hanzi": "苦", "pinyin": "kǔ",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "đắng",
+        "structure": "味道有点儿苦 / 苦茶 / 苦药",
+        "explanation": "Vị đắng như trà đặc, cà phê đen, thuốc Bắc (trái nghĩa: 甜).",
+        "examples": [{ "chinese": "它的味道稍微有点儿苦，其实是一种用中药做成的饮料。", "pinyin": "Tā de wèidào shāowēi yǒudiǎnr kǔ, qíshí shì yì zhǒng yòng zhōngyào zuòchéng de yǐnliào.", "vietnamese": "Vị của nó hơi đắng một chút, thật ra là một loại thức uống được làm từ thuốc Đông y.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "形容词 (Nghĩa mở rộng: khổ cực, vất vả)",
+          "meanings": ["khổ, gian khổ, cực nhọc (辛苦, 吃苦, 痛苦)"],
+          "structure": "吃苦 / 日子很苦 / 辛苦",
+          "difference_note": "Miêu tả hoàn cảnh sống hoặc tâm trạng đau khổ, vất vả.",
+          "examples": [{ "chinese": "为了实现梦想，他不怕吃苦，每天都坚持努力。", "pinyin": "Wèile shíxiàn mèngxiǎng, tā bú pà chīkǔ, měi tiān dōu jiānchí nǔlì.", "vietnamese": "Để thực hiện ước mơ, anh ấy không ngại gian khổ, ngày nào cũng kiên trì cố gắng." }]
+        }
+      ],
+      "chinese_explanation": "像胆汁或黄连的味道；引申指难受、艰辛。",
+      "collocations": ["味道苦", "吃苦", "辛苦", "苦瓜"],
+      "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l13_w32", "order": 33, "textbook": "HSK 4 下", "lesson": 13,
+      "hanzi": "省", "pinyin": "shěng",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "tỉnh",
+        "structure": "广东省 / 山东省 / 省会",
+        "explanation": "Đơn vị hành chính cấp tỉnh của Trung Quốc hoặc các quốc gia khác.",
+        "examples": [{ "chinese": "比如广东省的人爱喝的“凉茶”……", "pinyin": "Bǐrú Guǎngdōng Shěng de rén ài hē de “liángchá”……", "vietnamese": "Ví dụ như món “trà thảo mộc” mà người tỉnh Quảng Đông thích uống...", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Động từ – từ mới #6 của Bài 14)",
+          "meanings": ["tiết kiệm, bớt đi (tiền bạc, thời gian, sức lực)"],
+          "structure": "省钱 / 省油钱 / 省时间 / 省力气",
+          "difference_note": "Cùng chữ 省 đọc thanh 3 shěng nhưng làm động từ nghĩa là tiết kiệm (xuất hiện ngay Bài 14: 不仅省油钱).",
+          "examples": [{ "chinese": "坐地铁去机场不仅省油钱，而且还不会污染空气。", "pinyin": "Zuò dìtiě qù jīchǎng bùjǐn shěng yóuqián, érqiě hái bú huì wūrǎn kōngqì.", "vietnamese": "Đi tàu điện ngầm ra sân bay không chỉ tiết kiệm tiền xăng mà còn không làm ô nhiễm không khí." }]
+        }
+      ],
+      "chinese_explanation": "名词指行政区划单位；动词指节约、减少花费。",
+      "collocations": ["广东省", "山东省", "省钱", "省时间"],
+      "usage_note": "Ghi nhớ cả 2 nghĩa rất hay thi của chữ 省: danh từ (tỉnh – Bài 13) và động từ (tiết kiệm – Bài 14).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    }
+  ],
+  "proper_nouns": [
+    { "hanzi": "广东省", "pinyin": "Guǎngdōng Shěng", "meaning": "tỉnh Quảng Đông (Trung Quốc)" }
+  ],
+  "same_char_expansion": {
+    "char": "量",
+    "words": [
+      { "hanzi": "商量", "pinyin": "shāngliang", "meaning": "thương lượng, bàn bạc" },
+      { "hanzi": "数量", "pinyin": "shùliàng", "meaning": "số lượng" },
+      { "hanzi": "质量", "pinyin": "zhìliàng", "meaning": "chất lượng" }
+    ],
+    "examples": [
+      { "chinese": "我认真考虑了一个晚上，也打电话和父母商量过了，最后还是决定不去那家公司了。我想继续留在北京，看看还有没有别的机会。", "vietnamese": "Tôi đã suy nghĩ nghiêm túc cả một tối, cũng gọi điện bàn bạc với bố mẹ rồi, cuối cùng vẫn quyết định không đến công ty đó nữa. Tôi muốn tiếp tục ở lại Bắc Kinh xem còn cơ hội nào khác không." },
+      { "chinese": "广告虽然给我们带来很多方便，但数量太多也会让人觉得讨厌。", "vietnamese": "Quảng cáo tuy mang lại cho chúng ta nhiều tiện lợi, nhưng số lượng quá nhiều cũng sẽ khiến người ta thấy khó chịu." },
+      { "chinese": "如果一个星期内发现有任何质量问题，我们都可以免费为您换货，但是购物小票一定不能丢。", "vietnamese": "Nếu trong vòng một tuần phát hiện có bất kỳ vấn đề chất lượng nào, chúng tôi đều có thể đổi hàng miễn phí cho quý khách, nhưng hóa đơn mua hàng nhất định không được làm mất." }
+    ]
+  },
+  "grammar": [
+    {
+      "title": "大概 (Phó từ & Tính từ)",
+      "formula": "(1) Phó từ: 大概 + Số lượng/Thời gian / Mệnh đề suy đoán  |  (2) Tính từ: 大概的 + Danh từ",
+      "meaning": "(1) Khoảng chừng, có lẽ  |  (2) Đại khái, chung chung.",
+      "usage": "Phó từ 大概 dùng để ước lượng gần đúng số lượng, thời gian hoặc suy đoán tình huống với khả năng xảy ra khá cao. Tính từ 大概 nghĩa là không thật chính xác hay chi tiết (đại khái).",
+      "context": "Dùng rất phổ biến trong giao tiếp và bài đọc hiểu; cần phân biệt kỹ với 也许.",
+      "examples": [
+        { "chinese": "他8岁就开始上台演出，到现在大概唱了60多年了，他对这门艺术的喜爱从来没有改变过。", "pinyin": "Tā bā suì jiù kāishǐ shàng tái yǎnchū, dào xiànzài dàgài chàngle liùshí duō nián le, tā duì zhè mén yìshù de xǐ'ài cónglái méiyǒu gǎibiànguo.", "vietnamese": "Ông 8 tuổi đã lên sân khấu biểu diễn, đến nay hát khoảng hơn 60 năm rồi, tình yêu của ông với nghệ thuật này chưa bao giờ đổi thay." },
+        { "chinese": "你的这个关于举办传统文化节活动的计划，我想校长大概会同意。", "pinyin": "Nǐ de zhège guānyú jǔbàn chuántǒng wénhuà jié huódòng de jìhuà, wǒ xiǎng xiàozhǎng dàgài huì tóngyì.", "vietnamese": "Kế hoạch tổ chức Lễ hội Văn hóa Truyền thống này của bạn, tôi nghĩ hiệu trưởng có lẽ sẽ đồng ý." },
+        { "chinese": "经过这段时间的学习，他的汉语水平提高了不少，不但可以听懂一些较短的句子，还可以进行简单的交流，现在即使不用翻译也能理解大概的意思了。", "pinyin": "Jīngguò zhè duàn shíjiān de xuéxí, tā de Hànyǔ shuǐpíng tígāo le bù shǎo, búdàn kěyǐ tīngdǒng yìxiē jiào duǎn de jùzi, hái kěyǐ jìnxíng jiǎndān de jiāoliú, xiànzài jíshǐ búyòng fānyì yě néng lǐjiě dàgài de yìsi le.", "vietnamese": "Qua thời gian học này, trình độ tiếng Hán của anh ấy nâng cao không ít, không chỉ nghe hiểu được các câu ngắn mà còn giao tiếp đơn giản được, giờ kể cả không cần dịch cũng hiểu được ý đại khái." }
+      ],
+      "important_notes": "Xem kỹ bảng 比一比 '大概—也许' ngay bên dưới.",
+      "common_errors": "Quên chức năng tính từ của 大概 (大概的意思, 大概的内容, 大概的想法).",
+      "comparison": "So với 也许: 大概 phán đoán mạnh hơn, ước lượng được con số và làm được tính từ.",
+      "mini_practice": [
+        { "prompt": "A: 师傅，我去火车站。______________________？（大概） B: 现在不堵车，估计二十分钟就能到。", "sample_answer": "大概需要多长时间", "explanation": "Dùng 大概 hỏi ước lượng thời gian." },
+        { "prompt": "读书应该有选择，有些书只要快速阅读______________________，有些书却需要多花些时间来仔细阅读。（大概）", "sample_answer": "了解大概的内容就可以了", "explanation": "Dùng tính từ 大概 bổ nghĩa cho 内容." }
+      ]
+    },
+    {
+      "title": "偶尔",
+      "formula": "S + 偶尔 + (也/会) + V",
+      "meaning": "Thỉnh thoảng, đôi khi (tần suất rất ít).",
+      "usage": "Phó từ 偶尔 biểu thị sự việc xảy ra với số lần rất ít, không đều đặn.",
+      "context": "Thường dùng tương phản với 经常, 几乎每天, 一般.",
+      "examples": [
+        { "chinese": "我常常跟着电视学唱京剧，然后一遍一遍地练习，偶尔跟中国人一起唱上几句。", "pinyin": "Wǒ chángcháng gēnzhe diànshì xué chàng jīngjù, ránhòu yí biàn yí biàn de liànxí, ǒu'ěr gēn Zhōngguó rén yìqǐ chàngshang jǐ jù.", "vietnamese": "Mình thường học hát Kinh kịch theo tivi, rồi luyện hết lượt này tới lượt khác, thỉnh thoảng hát vài câu cùng người Trung Quốc." },
+        { "chinese": "我们调查的近7000名上班族中，有64%的人经常加班，28%偶尔加班，而每次加班时间超过两小时的竟然有59%。", "pinyin": "Wǒmen diàochá de jìn qīqiān míng shàngbānzú zhōng, yǒu bǎifēnzhī liùshísì de rén jīngcháng jiā bān, bǎifēnzhī èrshíbā ǒu'ěr jiā bān, ér měi cì jiā bān shíjiān chāoguò liǎng xiǎoshí de jìngrán yǒu bǎifēnzhī wǔshíjiǔ.", "vietnamese": "Trong gần 7.000 nhân viên văn phòng chúng tôi khảo sát, 64% thường xuyên tăng ca, 28% thỉnh thoảng tăng ca, mà số người mỗi lần tăng ca quá 2 tiếng lại lên tới 59%." },
+        { "chinese": "三叶草的叶子一般为三个，但偶尔也会出现四个叶子的，这种四个叶子的叫“四叶草”，因为很少见，所以有人说，找到这种“四叶草”的人会得到幸福。", "pinyin": "Sānyècǎo de yèzi yìbān wéi sān ge, dàn ǒu'ěr yě huì chūxiàn sì ge yèzi de, zhè zhǒng sì ge yèzi de jiào “sìyècǎo”, yīnwèi hěn shǎo jiàn, suǒyǐ yǒu rén shuō, zhǎodào zhè zhǒng “sìyècǎo” de rén huì dédào xìngfú.", "vietnamese": "Cỏ ba lá thường có ba lá, nhưng thỉnh thoảng cũng xuất hiện loại bốn lá gọi là “cỏ bốn lá”, vì rất hiếm gặp nên có người nói ai tìm thấy nó sẽ có được hạnh phúc." }
+      ],
+      "important_notes": "偶尔 không dùng với phủ định kiểu '不偶尔'.",
+      "common_errors": "",
+      "comparison": "Tần suất của 偶尔 thấp hơn 有时候.",
+      "mini_practice": [
+        { "prompt": "为了减肥，我几乎每天晚上都坚持跑步，______________________。（偶尔）", "sample_answer": "只是偶尔天气不好才休息一天", "explanation": "Đối chiếu 几乎每天 với 偶尔." },
+        { "prompt": "她和丈夫很少在家吃饭。平时上班的时候两个人都在公司吃，周末不上班的时候就一起去饭馆儿吃，______________________。（偶尔）", "sample_answer": "偶尔才自己做一次饭", "explanation": "Dùng 偶尔 nêu ngoại lệ rất hiếm khi tự nấu cơm." }
+      ]
+    },
+    {
+      "title": "由",
+      "formula": "Chủ ngữ (Sự việc) + (是) + 由 + Người/Đơn vị đảm nhận + Động từ (+ 的)",
+      "meaning": "Do (ai phụ trách / thực hiện).",
+      "usage": "Giới từ 由 dẫn ra người đảm nhận trách nhiệm làm một công việc nào đó.",
+      "context": "Dùng nhiều trong phân công công việc, giới thiệu tác giả/dịch giả hoặc cấu tạo.",
+      "examples": [
+        { "chinese": "按照规定，这件事情应该由王大夫负责。", "pinyin": "Ànzhào guīdìng, zhè jiàn shìqing yīnggāi yóu Wáng dàifu fùzé.", "vietnamese": "Theo quy định, việc này nên do bác sĩ Vương phụ trách." },
+        { "chinese": "“幽默”这个词最早是由林语堂先生翻译过来的。", "pinyin": "“Yōumò” zhège cí zuìzǎo shì yóu Lín Yǔtáng xiānsheng fānyì guòlái de.", "vietnamese": "Từ “hài hước” (yōumò) sớm nhất là do tiên sinh Lâm Ngữ Đường dịch sang." },
+        { "chinese": "上次的春游活动你们办得非常有趣，大家都玩儿得很开心，这次活动继续由你负责，相信也一定会很成功。", "pinyin": "Shàng cì de chūnyóu huódòng nǐmen bàn de fēicháng yǒuqù, dàjiā dōu wánr de hěn kāixīn, zhè cì huódòng jìxù yóu nǐ fùzé, xiāngxìn yě yídìng huì hěn chénggōng.", "vietnamese": "Hoạt động du xuân lần trước các bạn tổ chức rất thú vị, ai cũng chơi vui, lần này tiếp tục do bạn phụ trách, tin là cũng sẽ rất thành công." }
+      ],
+      "important_notes": "Thường đi cùng các động từ 负责, 组织, 决定, 翻译, 组成.",
+      "common_errors": "",
+      "comparison": "Khác với 被 (nhấn mạnh sự bị động, thường mang sắc thái bất lợi); 由 trung tính, trang trọng, nhấn mạnh người chịu trách nhiệm thực hiện.",
+      "mini_practice": [
+        { "prompt": "A: 这件事不是马经理专门负责吗？ B: 他已经离开公司了，现在______________________。（由）", "sample_answer": "由李经理负责", "explanation": "Dùng 由 + người phụ trách mới + 负责." },
+        { "prompt": "这篇文章是介绍京剧的，______________________。前一部分介绍京剧的发展历史，第二部分主要谈京剧的发展方向。（由）", "sample_answer": "由两部分组成", "explanation": "Dùng cấu trúc mở rộng 由……组成." }
+      ]
+    },
+    {
+      "title": "进行",
+      "formula": "(对 + Đối tượng) + 进行 (+ 了/过) + Động từ 2 âm tiết trang trọng  |  Sự việc + 继续/正在 + 进行",
+      "meaning": "Tiến hành, thực hiện.",
+      "usage": "Động từ 进行 biểu thị thực hiện hoạt động hay công việc nào đó. Thường dùng trước động từ 2 âm tiết mang tính chính thức, nghiêm túc (调查, 交流, 讨论, 比赛); KHÔNG dùng cho hành động tạm thời hoặc sinh hoạt hằng ngày.",
+      "context": "Văn viết, tin tức, công sở, báo cáo học thuật.",
+      "examples": [
+        { "chinese": "大家请注意，现在休息十五分钟，十点半会议继续进行。", "pinyin": "Dàjiā qǐng zhùyì, xiànzài xiūxi shíwǔ fēnzhōng, shí diǎn bàn huìyì jìxù jìnxíng.", "vietnamese": "Mọi người chú ý, bây giờ nghỉ 15 phút, 10 giờ rưỡi cuộc họp tiếp tục tiến hành." },
+        { "chinese": "有人在互联网上专门进行过调查，结果发现每六个中国人中就有一个使用筷子的方法是错误的。", "pinyin": "Yǒu rén zài hùliánwǎng shang zhuānmén jìnxíngguo diàochá, jiéguǒ fāxiàn měi liù ge Zhōngguó rén zhōng jiù yǒu yí ge shǐyòng kuàizi de fāngfǎ shì cuòwù de.", "vietnamese": "Có người từng chuyên môn tiến hành khảo sát trên mạng Internet, kết quả phát hiện cứ sáu người Trung Quốc có một người dùng đũa sai cách." },
+        { "chinese": "成功的语言学习者，在学习方面往往都是积极主动的，他们会主动与他人进行交流，并且请别人帮助他们改错。", "pinyin": "Chénggōng de yǔyán xuéxízhě, zài xuéxí fāngmiàn wǎngwǎng dōu shì jījí zhǔdòng de, tāmen huì zhǔdòng yǔ tārén jìnxíng jiāoliú, bìngqiě qǐng biérén bāngzhù tāmen gǎicuò.", "vietnamese": "Người học ngôn ngữ thành công thường tích cực chủ động trong học tập, họ chủ động tiến hành giao lưu với người khác và nhờ người khác sửa lỗi giúp mình." }
+      ],
+      "important_notes": "Động từ theo sau 进行 đã chuyển chức năng gần như tân ngữ, nên KHÔNG mang tân ngữ trực tiếp ở sau và KHÔNG gắn 了/过 ở sau nó (gắn vào 进行).",
+      "common_errors": "Sai: '进行休息 / 进行看书 / 进行讨论这个问题' → Đúng: '休息 / 看书 / 对这个问题进行讨论'.",
+      "comparison": "",
+      "mini_practice": [
+        { "prompt": "A: 都六点了，会议怎么还没结束？ B: ______________________。（进行）", "sample_answer": "会议还在进行，估计还要半个小时", "explanation": "进行 làm vị ngữ trực tiếp chỉ cuộc họp vẫn đang diễn ra." },
+        { "prompt": "______________________。结果发现，在接受调查的学生中，有超过80%的人希望自己能有机会出国留学……（进行）", "sample_answer": "我们对大学生出国留学的情况进行了一次调查", "explanation": "Dùng 对……进行了一次调查." }
+      ]
+    },
+    {
+      "title": "随着",
+      "formula": "随着 + Định ngữ + Động từ 2 âm tiết (biểu thị sự biến đổi)，Mệnh đề kết quả",
+      "meaning": "Cùng với (sự phát triển / thay đổi của...), ...",
+      "usage": "Giới từ 随着 chỉ một sự việc biến đổi là điều kiện kèm theo để một sự việc khác xảy ra hoặc thay đổi tương ứng. Sau 随着 thường là động từ 2 âm tiết có định ngữ phía trước (社会的发展, 年龄的增长, 认识的加深).",
+      "context": "Mẫu câu cực kỳ thông dụng trong bài viết và đọc hiểu HSK 4–5.",
+      "examples": [
+        { "chinese": "随着社会的发展，京剧也在改变，以适应不同年龄观众的需要。", "pinyin": "Suízhe shèhuì de fāzhǎn, jīngjù yě zài gǎibiàn, yǐ shìyìng bù tóng niánlíng guānzhòng de xūyào.", "vietnamese": "Cùng với sự phát triển của xã hội, Kinh kịch cũng đang thay đổi để thích ứng với nhu cầu của khán giả mọi lứa tuổi." },
+        { "chinese": "有些人喜欢为自己的生活做长远的计划。但是，随着年龄的增长，他们会发现生活总是在不停地变化，生活往往不会按照我们的计划来进行。", "pinyin": "Yǒuxiē rén xǐhuan wèi zìjǐ de shēnghuó zuò chángyuǎn de jìhuà. Dànshì, suízhe niánlíng de zēngzhǎng, tāmen huì fāxiàn shēnghuó zǒngshì zài bù tíng de biànhuà, shēnghuó wǎngwǎng bú huì ànzhào wǒmen de jìhuà lái jìnxíng.", "vietnamese": "Một số người thích lập kế hoạch dài hạn cho đời mình. Nhưng cùng với sự tăng lên của tuổi tác, họ sẽ nhận ra cuộc sống luôn không ngừng biến đổi và thường chẳng diễn ra theo đúng kế hoạch." },
+        { "chinese": "后来，随着人们对茶的认识的加深，慢慢开始把它当作解渴的饮料，这才慢慢有了中国的茶文化。", "pinyin": "Hòulái, suízhe rénmen duì chá de rènshi de jiāshēn, mànmàn kāishǐ bǎ tā dàngzuò jiě kě de yǐnliào, zhè cái mànmàn yǒule Zhōngguó de chá wénhuà.", "vietnamese": "Về sau, cùng với sự nhận thức sâu sắc hơn về trà, người ta dần coi trà là thức uống giải khát, từ đó dần hình thành văn hóa trà Trung Hoa." }
+      ],
+      "important_notes": "Thành phần sau 随着 phải hàm chứa sự biến đổi/tiến triển (发展, 增长, 提高, 加深, 变化).",
+      "common_errors": "Đặt danh từ đơn thuần không có động từ biến đổi sau 随着.",
+      "comparison": "",
+      "mini_practice": [
+        { "prompt": "______________________，越来越多的人喜欢在网上写日记。（随着）", "sample_answer": "随着互联网的发展", "explanation": "Cụm chuẩn: 随着 + 互联网的 + 发展." },
+        { "prompt": "______________________，美的标准一直在变。过去有的时候人们以胖为美，现在的人以瘦为美。（随着）", "sample_answer": "随着时代的变化", "explanation": "Cụm chuẩn: 随着 + 时代的 + 变化." }
+      ]
+    }
+  ],
+  "comparison_section": {
+    "label": "比一比 So sánh",
+    "pair": "大概 — 也许",
+    "term_a": "大概 (dàgài)",
+    "term_b": "也许 (yěxǔ)",
+    "similarity": "Đều là phó từ chỉ sự suy đoán hoặc phỏng đoán về tình huống nào đó. VD: 他总说自己特别喜欢看书，可是这本书他看了一个月才看到第5页，大概/也许是因为工作太忙吧。",
+    "differences": [
+      { "criterion": "Mức độ chắc chắn khi suy đoán", "a": "Phán đoán mạnh hơn, sắc thái khẳng định nặng hơn (今天到现在还没来，大概是有什么事情).", "b": "Thiên về phỏng đoán nhẹ, độ chắc chắn thấp hơn (这次电影艺术节也许会在北京举行)." },
+      { "criterion": "Ước lượng số lượng", "a": "CÓ THỂ phỏng đoán số lượng, thời gian (大概有三分之二的人反对这样做 / 大概要多长时间).", "b": "KHÔNG có cách dùng ước lượng số lượng." },
+      { "criterion": "Dự định tương lai chưa chắc của bản thân", "a": "KHÔNG dùng cho dự định tương lai chưa chắc chắn của chính người nói.", "b": "CÓ THỂ dùng cho dự định tương lai không chắc của bản thân (也许以后我会成为一名记者)." },
+      { "criterion": "Từ loại tính từ (属性词)", "a": "CÓ THỂ làm tính từ với nghĩa 'đại khái, chung chung' (大概的想法 / 电影的大概内容).", "b": "KHÔNG có cách dùng tính từ." }
+    ]
+  },
+  "texts": [
+    {
+      "id": "t1", "title_zh": "小雨和小夏在聊小夏的爷爷表演京剧的情况", "title_vi": "Tiểu Vũ và Tiểu Hạ trò chuyện về việc ông nội Tiểu Hạ diễn Kinh kịch",
+      "lines": [
+        { "speaker": "小雨", "chinese": "小夏，你爷爷京剧唱得真专业，我还以为他是京剧演员呢。", "pinyin": "Xiǎo Xià, nǐ yéye jīngjù chàng de zhēn zhuānyè, wǒ hái yǐwéi tā shì jīngjù yǎnyuán ne.", "vietnamese": "Tiểu Hạ ơi, ông nội cậu hát Kinh kịch chuyên nghiệp quá, mình còn tưởng ông là diễn viên Kinh kịch cơ." },
+        { "speaker": "小夏", "chinese": "对啊，他本来就是京剧演员，年轻时在我们那儿很有名，深受观众们的喜爱。", "pinyin": "Duì a, tā běnlái jiù shì jīngjù yǎnyuán, niánqīng shí zài wǒmen nàr hěn yǒumíng, shēn shòu guānzhòngmen de xǐ'ài.", "vietnamese": "Đúng mà, ông vốn là diễn viên Kinh kịch, hồi trẻ rất nổi tiếng ở quê mình, vô cùng được khán giả yêu mến." },
+        { "speaker": "小雨", "chinese": "你爷爷一定对京剧有着很深厚的感情。", "pinyin": "Nǐ yéye yídìng duì jīngjù yǒuzhe hěn shēnhòu de gǎnqíng.", "vietnamese": "Ông nội cậu chắc hẳn có tình cảm sâu nặng lắm với Kinh kịch." },
+        { "speaker": "小夏", "chinese": "是呀，他8岁就开始上台演出，到现在大概唱了60多年了，他对这门艺术的喜爱从来没有改变过。", "pinyin": "Shì ya, tā bā suì jiù kāishǐ shàng tái yǎnchū, dào xiànzài dàgài chàngle liùshí duō nián le, tā duì zhè mén yìshù de xǐ'ài cónglái méiyǒu gǎibiànguo.", "vietnamese": "Đúng vậy, ông 8 tuổi đã bắt đầu lên sân khấu biểu diễn, đến giờ hát khoảng hơn 60 năm rồi, tình yêu với môn nghệ thuật này chưa bao giờ thay đổi." },
+        { "speaker": "小雨", "chinese": "这么说你喜欢听京剧也是受了你爷爷的影响？", "pinyin": "Zhème shuō nǐ xǐhuan tīng jīngjù yě shì shòule nǐ yéye de yǐngxiǎng?", "vietnamese": "Nói vậy cậu thích nghe Kinh kịch cũng là chịu ảnh hưởng từ ông nội à?" },
+        { "speaker": "小夏", "chinese": "我小时候经常去看他的演出。平时他还给我讲很多京剧里的历史故事，让我学到了很多知识。", "pinyin": "Wǒ xiǎoshíhou jīngcháng qù kàn tā de yǎnchū. Píngshí tā hái gěi wǒ jiǎng hěn duō jīngjù li de lìshǐ gùshi, ràng wǒ xuédàole hěn duō zhīshi.", "vietnamese": "Hồi nhỏ mình thường xuyên đi xem ông biểu diễn. Ngày thường ông còn kể cho mình nghe nhiều câu chuyện lịch sử trong Kinh kịch, giúp mình học được rất nhiều kiến thức." }
+      ]
+    },
+    {
+      "id": "t2", "title_zh": "小雨和马克在聊京剧", "title_vi": "Tiểu Vũ và Mark trò chuyện về Kinh kịch",
+      "lines": [
+        { "speaker": "小雨", "chinese": "真没想到你一个来自美国的外国留学生，能把京剧唱得这么好。", "pinyin": "Zhēn méi xiǎngdào nǐ yí ge láizì Měiguó de wàiguó liúxuéshēng, néng bǎ jīngjù chàng de zhème hǎo.", "vietnamese": "Thật không ngờ cậu là du học sinh nước ngoài đến từ Mỹ mà có thể hát Kinh kịch hay thế này." },
+        { "speaker": "马克", "chinese": "我常常跟着电视学唱京剧，然后一遍一遍地练习，偶尔跟中国人一起唱上几句。", "pinyin": "Wǒ chángcháng gēnzhe diànshì xué chàng jīngjù, ránhòu yí biàn yí biàn de liànxí, ǒu'ěr gēn Zhōngguó rén yìqǐ chàngshang jǐ jù.", "vietnamese": "Mình thường học hát Kinh kịch theo tivi, rồi luyện đi luyện lại từng lượt, thỉnh thoảng hát vài câu cùng người Trung Quốc." },
+        { "speaker": "小雨", "chinese": "难道你从来没有接受过京剧方面的专门教育吗？", "pinyin": "Nándào nǐ cónglái méiyǒu jiēshòuguo jīngjù fāngmiàn de zhuānmén jiàoyù ma?", "vietnamese": "Chẳng lẽ cậu chưa bao giờ được đào tạo chuyên môn về Kinh kịch sao?" },
+        { "speaker": "马克", "chinese": "别吃惊，因为我以前学习过音乐，有一些音乐基础，又对京剧这种表演艺术非常感兴趣，所以能比较容易地学会它的唱法。", "pinyin": "Bié chī jīng, yīnwèi wǒ yǐqián xuéxíguo yīnyuè, yǒu yìxiē yīnyuè jīchǔ, yòu duì jīngjù zhè zhǒng biǎoyǎn yìshù fēicháng gǎn xìngqù, suǒyǐ néng bǐjiào róngyì de xuéhuì tā de chàngfǎ.", "vietnamese": "Đừng ngạc nhiên, vì trước đây mình từng học nhạc, có chút nền tảng âm nhạc, lại rất thích loại hình nghệ thuật biểu diễn như Kinh kịch nên học cách hát của nó tương đối dễ." },
+        { "speaker": "小雨", "chinese": "你真厉害！竟然连很多中国人都听不懂的京剧也能学会。我还是比较喜欢听流行音乐。", "pinyin": "Nǐ zhēn lìhai! Jìngrán lián hěn duō Zhōngguó rén dōu tīngbudǒng de jīngjù yě néng xuéhuì. Wǒ háishi bǐjiào xǐhuan tīng liúxíng yīnyuè.", "vietnamese": "Cậu giỏi thật! Đến cả Kinh kịch mà nhiều người Trung Quốc nghe không hiểu cậu cũng học được. Mình thì vẫn thích nghe nhạc trẻ hơn." },
+        { "speaker": "马克", "chinese": "那是你不了解京剧的唱法。在音乐方面，京剧给了我很多新的想法。我还把京剧的一些特点增加到了自己的音乐中，达到了很好的效果。", "pinyin": "Nà shì nǐ bù liǎojiě jīngjù de chàngfǎ. Zài yīnyuè fāngmiàn, jīngjù gěile wǒ hěn duō xīn de xiǎngfǎ. Wǒ hái bǎ jīngjù de yìxiē tèdiǎn zēngjiādàole zìjǐ de yīnyuè zhōng, dádàole hěn hǎo de xiàoguǒ.", "vietnamese": "Đó là vì cậu chưa hiểu cách hát của Kinh kịch thôi. Về mặt âm nhạc, Kinh kịch cho mình rất nhiều ý tưởng mới. Mình còn đưa một số nét đặc sắc của Kinh kịch vào âm nhạc của bản thân và đạt được hiệu quả rất tốt." }
+      ]
+    },
+    {
+      "id": "t3", "title_zh": "李老师和校长在谈工作", "title_vi": "Cô Lý và hiệu trưởng bàn bạc công việc",
+      "lines": [
+        { "speaker": "李老师", "chinese": "校长，因为外国留学生不了解中国文化，有时候会影响他们和中国人之间的正常交流，甚至还可能引起误会，带来麻烦，所以我们想申请举办一次中国传统文化节活动。", "pinyin": "Xiàozhǎng, yīnwèi wàiguó liúxuéshēng bù liǎojiě Zhōngguó wénhuà, yǒushíhou huì yǐngxiǎng tāmen hé Zhōngguó rén zhījiān de zhèngcháng jiāoliú, shènzhì hái kěnéng yǐnqǐ wùhuì, dàilái máfan, suǒyǐ wǒmen xiǎng shēnqǐng jǔbàn yí cì Zhōngguó chuántǒng wénhuà jié huódòng.", "vietnamese": "Thưa hiệu trưởng, vì du học sinh nước ngoài chưa hiểu văn hóa Trung Quốc nên đôi khi ảnh hưởng đến giao tiếp bình thường giữa họ với người Trung Quốc, thậm chí gây hiểu lầm, rắc rối, nên chúng tôi muốn xin tổ chức một Lễ hội Văn hóa Truyền thống Trung Quốc." },
+        { "speaker": "校长", "chinese": "你们的想法很好，举办文化节活动，一方面能让各国学生更好地了解中国，另一方面也能为学生们提供互相交流和学习的机会。", "pinyin": "Nǐmen de xiǎngfǎ hěn hǎo, jǔbàn wénhuà jié huódòng, yì fāngmiàn néng ràng gè guó xuésheng gèng hǎo de liǎojiě Zhōngguó, lìng yì fāngmiàn yě néng wèi xuéshengmen tígōng hùxiāng jiāoliú hé xuéxí de jīhuì.", "vietnamese": "Ý tưởng của các cô rất hay, tổ chức lễ hội văn hóa một mặt giúp sinh viên các nước hiểu rõ hơn về Trung Quốc, mặt khác cũng mang đến cho các em cơ hội giao lưu và học hỏi lẫn nhau." },
+        { "speaker": "李老师", "chinese": "谢谢您的支持！", "pinyin": "Xièxie nín de zhīchí!", "vietnamese": "Cảm ơn sự ủng hộ của thầy ạ!" },
+        { "speaker": "校长", "chinese": "上次的春游活动你们办得非常有趣，大家都玩儿得很开心，这次活动继续由你负责，相信也一定会很成功。", "pinyin": "Shàng cì de chūnyóu huódòng nǐmen bàn de fēicháng yǒuqù, dàjiā dōu wánr de hěn kāixīn, zhè cì huódòng jìxù yóu nǐ fùzé, xiāngxìn yě yídìng huì hěn chénggōng.", "vietnamese": "Chuyến du xuân lần trước các cô tổ chức rất thú vị, ai cũng chơi vui vẻ, lần này tiếp tục do cô phụ trách, tin rằng cũng nhất định rất thành công." },
+        { "speaker": "李老师", "chinese": "我们回去就开会讨论，星期五之前把详细的计划书发给您。", "pinyin": "Wǒmen huíqù jiù kāi huì tǎolùn, xīngqīwǔ zhīqián bǎ xiángxì de jìhuàshū fāgěi nín.", "vietnamese": "Chúng tôi về sẽ họp bàn thảo luận ngay, trước thứ Sáu sẽ gửi bản kế hoạch chi tiết cho thầy." },
+        { "speaker": "校长", "chinese": "好的，准备过程中有什么问题，你们可以直接来找我。", "pinyin": "Hǎo de, zhǔnbèi guòchéng zhōng yǒu shénme wèntí, nǐmen kěyǐ zhíjiē lái zhǎo wǒ.", "vietnamese": "Được, trong quá trình chuẩn bị có vấn đề gì các cô cứ đến gặp trực tiếp tôi." }
+      ]
+    },
+    {
+      "id": "t4", "title_zh": "使用筷子", "title_vi": "Sử dụng đũa",
+      "lines": [
+        { "speaker": "", "chinese": "筷子在中国大约已经有3000多年的历史了。对外国人来说，使用筷子吃饭并不容易，所以，国外的一些中国餐厅在放筷子的纸袋上会提供使用筷子的详细说明。不过，如果你认为每个中国人都会正确使用筷子，那就错了。有人在互联网上专门进行过调查，结果发现每六个中国人中就有一个使用筷子的方法是错误的。如果你想正确使用筷子，那就好好练习吧。", "pinyin": "Kuàizi zài Zhōngguó dàyuē yǐjīng yǒu sānqiān duō nián de lìshǐ le. Duì wàiguó rén lái shuō, shǐyòng kuàizi chī fàn bìng bù róngyi, suǒyǐ, guówài de yìxiē Zhōngguó cāntīng zài fàng kuàizi de zhǐdài shang huì tígōng shǐyòng kuàizi de xiángxì shuōmíng. Búguò, rúguǒ nǐ rènwéi měi ge Zhōngguó rén dōu huì zhèngquè shǐyòng kuàizi, nà jiù cuò le. Yǒu rén zài hùliánwǎng shang zhuānmén jìnxíngguo diàochá, jiéguǒ fāxiàn měi liù ge Zhōngguó rén zhōng jiù yǒu yí ge shǐyòng kuàizi de fāngfǎ shì cuòwù de. Rúguǒ nǐ xiǎng zhèngquè shǐyòng kuàizi, nà jiù hǎohāor liànxí ba.", "vietnamese": "Đũa ở Trung Quốc ước chừng đã có hơn 3.000 năm lịch sử. Đối với người nước ngoài, dùng đũa ăn cơm không hề dễ, nên một số nhà hàng Trung Quốc ở nước ngoài có in hướng dẫn chi tiết cách cầm đũa trên bao giấy đựng đũa. Tuy nhiên, nếu bạn tưởng mọi người Trung Quốc đều dùng đũa đúng cách thì nhầm rồi. Có người từng chuyên môn khảo sát trên Internet, kết quả phát hiện cứ sáu người Trung Quốc lại có một người dùng đũa sai cách. Nếu bạn muốn dùng đũa chuẩn xác thì hãy chăm chỉ luyện tập nhé." }
+      ]
+    },
+    {
+      "id": "t5", "title_zh": "中国的茶文化", "title_vi": "Văn hóa trà Trung Quốc",
+      "lines": [
+        { "speaker": "", "chinese": "茶在中国有几千年的历史，是中国最常见的饮料。最早的时候，茶只是被当作一种药，而不是饮料。后来，随着人们对茶的认识的加深，慢慢开始把它当作解渴的饮料，这才慢慢有了中国的茶文化。在中国，喝茶是一种十分普遍的生活习惯。对很多中国人来说，喝茶已成为他们生活中不可缺少的一部分。但是有的饮料虽然名字叫“茶”，却并不是真正的茶。比如广东省的人爱喝的“凉茶”，它的味道稍微有点儿苦，其实是一种用中药做成的饮料。", "pinyin": "Chá zài Zhōngguó yǒu jǐqiān nián de lìshǐ, shì Zhōngguó zuì chángjiàn de yǐnliào. Zuì zǎo de shíhou, chá zhǐshì bèi dàngzuò yì zhǒng yào, ér bú shì yǐnliào. Hòulái, suízhe rénmen duì chá de rènshi de jiāshēn, mànmàn kāishǐ bǎ tā dàngzuò jiě kě de yǐnliào, zhè cái mànmàn yǒule Zhōngguó de chá wénhuà. Zài Zhōngguó, hē chá shì yì zhǒng shífēn pǔbiàn de shēnghuó xíguàn. Duì hěn duō Zhōngguó rén lái shuō, hē chá yǐ chéngwéi tāmen shēnghuó zhōng bù kě quēshǎo de yí bùfen. Dànshì yǒude yǐnliào suīrán míngzi jiào “chá”, què bìng bú shì zhēnzhèng de chá. Bǐrú Guǎngdōng Shěng de rén ài hē de “liángchá”, tā de wèidào shāowēi yǒudiǎnr kǔ, qíshí shì yì zhǒng yòng zhōngyào zuòchéng de yǐnliào.", "vietnamese": "Trà ở Trung Quốc có lịch sử mấy nghìn năm, là thức uống phổ biến nhất tại Trung Quốc. Thuở ban đầu, trà chỉ được dùng như một vị thuốc chứ không phải đồ uống. Về sau, cùng với nhận thức ngày càng sâu sắc về trà, người ta dần coi nó là thức uống giải khát, từ đó mới dần hình thành văn hóa trà Trung Quốc. Ở Trung Quốc, uống trà là thói quen sinh hoạt rất phổ biến và đã trở thành phần không thể thiếu trong đời sống của nhiều người. Nhưng có một số đồ uống tuy tên gọi là “trà” nhưng lại không phải trà thật sự. Chẳng hạn “trà thảo mộc” (lương trà) mà người tỉnh Quảng Đông hay uống, vị hơi đắng một chút, thực chất là một loại thức uống làm từ thuốc Đông y." }
+      ]
+    }
+  ],
+  "reading_questions": [
+    { "question_zh": "小夏的爷爷多大年纪了？京剧唱得怎么样？唱了多长时间了？", "question_vi": "Ông nội Tiểu Hạ khoảng bao nhiêu tuổi? Hát Kinh kịch thế nào? Đã hát bao lâu rồi?", "answer_zh": "他8岁开始上台演出，到现在大概唱了60多年了，所以大概70岁左右。他本来就是京剧演员，唱得非常专业，年轻时很有名，深受观众喜爱。", "answer_vi": "Ông lên sân khấu từ năm 8 tuổi, đến nay hát khoảng hơn 60 năm nên khoảng 70 tuổi. Ông vốn là diễn viên Kinh kịch, hát rất chuyên nghiệp và được khán giả yêu thích." },
+    { "question_zh": "小夏受了爷爷哪些影响？", "question_vi": "Tiểu Hạ chịu những ảnh hưởng nào từ ông nội?", "answer_zh": "受爷爷的影响，小夏喜欢上了听京剧，小时候经常去看爷爷的演出，还从爷爷讲的京剧历史故事中学到了很多知识。", "answer_vi": "Chịu ảnh hưởng từ ông, Tiểu Hạ thích nghe Kinh kịch, hồi nhỏ hay đi xem ông diễn và học được nhiều kiến thức lịch sử từ những câu chuyện ông kể." },
+    { "question_zh": "马克学过京剧吗？他怎么学的？他为什么京剧唱得那么好？", "question_vi": "Mark từng học Kinh kịch chưa? Cậu ấy học thế nào? Vì sao cậu ấy hát hay như vậy?", "answer_zh": "他从来没接受过京剧方面的专门教育，而是常常跟着电视一遍一遍地练习，偶尔跟中国人唱几句。因为他以前学过音乐、有音乐基础，又对京剧非常感兴趣，所以唱得很好。", "answer_vi": "Cậu ấy chưa từng qua đào tạo chuyên môn mà tự học theo tivi, luyện đi luyện lại và thỉnh thoảng hát cùng người Trung Quốc. Nhờ có nền tảng âm nhạc và niềm yêu thích lớn nên cậu ấy hát rất hay." },
+    { "question_zh": "京剧给了马克哪些新的想法？", "question_vi": "Kinh kịch mang lại cho Mark những ý tưởng mới nào?", "answer_zh": "在音乐方面给了他很多新的想法，他把京剧的一些特点增加到了自己的音乐中，达到了很好的效果。", "answer_vi": "Mang lại nhiều ý tưởng âm nhạc mới; cậu ấy đã đưa một số nét đặc trưng của Kinh kịch vào âm nhạc của mình và đạt hiệu quả rất tốt." },
+    { "question_zh": "为什么李老师想申请举办中国传统文化节活动？", "question_vi": "Vì sao cô Lý muốn xin tổ chức hoạt động Lễ hội Văn hóa Truyền thống Trung Quốc?", "answer_zh": "因为外国留学生不了解中国文化，有时候会影响他们和中国人之间的正常交流，甚至可能引起误会、带来麻烦。", "answer_vi": "Vì du học sinh nước ngoài chưa hiểu văn hóa Trung Quốc nên đôi khi ảnh hưởng giao tiếp bình thường, thậm chí gây hiểu lầm và rắc rối." },
+    { "question_zh": "为什么校长决定这次活动继续由李老师负责？", "question_vi": "Vì sao hiệu trưởng quyết định lần này tiếp tục do cô Lý phụ trách?", "answer_zh": "因为上次的春游活动她们办得非常有趣，大家都玩儿得很开心，校长相信由李老师负责也一定会很成功。", "answer_vi": "Vì chuyến du xuân lần trước họ tổ chức rất thú vị khiến ai cũng vui vẻ, nên hiệu trưởng tin tưởng giao cô Lý phụ trách sẽ tiếp tục thành công." },
+    { "question_zh": "为什么国外的中国餐厅会提供使用筷子的详细说明？", "question_vi": "Vì sao các nhà hàng Trung Quốc ở nước ngoài cung cấp hướng dẫn chi tiết cách dùng đũa?", "answer_zh": "因为对外国人来说，使用筷子吃饭并不容易，在放筷子的纸袋上提供说明可以帮助他们学习使用。", "answer_vi": "Vì với người nước ngoài việc dùng đũa ăn cơm không dễ, hướng dẫn trên túi giấy đựng đũa giúp họ học cách sử dụng." },
+    { "question_zh": "关于中国人使用筷子的调查结果是什么？", "question_vi": "Kết quả khảo sát về việc người Trung Quốc dùng đũa là gì?", "answer_zh": "结果发现每六个中国人中就有一个使用筷子的方法是错误的。", "answer_vi": "Phát hiện cứ sáu người Trung Quốc thì có một người sử dụng đũa sai cách." },
+    { "question_zh": "茶开始时被用来做什么？后来呢？", "question_vi": "Ban đầu trà được dùng để làm gì? Sau đó thì sao?", "answer_zh": "最早的时候茶只是被当作一种药；后来随着人们对茶的认识加深，慢慢开始把它当作解渴的饮料，形成了茶文化。", "answer_vi": "Ban đầu trà chỉ được dùng làm thuốc; về sau khi hiểu rõ hơn, người ta dùng trà làm thức uống giải khát và hình thành văn hóa trà." },
+    { "question_zh": "广东人爱喝的凉茶是一种什么样的饮料？", "question_vi": "Trà thảo mộc (lương trà) mà người Quảng Đông thích uống là loại thức uống như thế nào?", "answer_zh": "它虽然名字叫“茶”，但并不是真正的茶；它的味道稍微有点儿苦，其实是一种用中药做成的饮料。", "answer_vi": "Tuy tên gọi là “trà” nhưng không phải trà thật sự; vị hơi đắng và thực chất là thức uống làm từ thuốc Đông y." }
+  ],
+  "exercises": [
+    {
+      "id": "h4x13_ex1", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.47 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ thích hợp điền vào chỗ trống: “今天的晚会太精彩了，特别是那些外国留学生______的中国功夫，动作既标准又好看，非常棒。”",
+      "options": ["表演", "演出", "演员", "普遍"],
+      "answer": "表演",
+      "explanation": "Đi kèm tân ngữ tiết mục cụ thể '中国功夫' (võ thuật Trung Hoa) dùng động từ 表演.",
+      "review_tip": "Phân biệt 表演 (trình diễn tiết mục cụ thể) vs 演出 (buổi biểu diễn)."
+    },
+    {
+      "id": "h4x13_ex2", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.47 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ thích hợp điền vào chỗ trống: “这次______举办得非常成功，吸引了不少当地的观众。”",
+      "options": ["演出", "表演", "基础", "苦"],
+      "answer": "演出",
+      "explanation": "Kết hợp với động từ 举办 (tổ chức) và lượng từ 这次 chỉ buổi diễn quy mô → chọn danh từ 演出.",
+      "review_tip": "Ôn câu 2 bài tập 练习2 tr.47."
+    },
+    {
+      "id": "h4x13_ex3", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.47 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Điền từ vào hội thoại: A: “材料整理好了没？” B: “差不多了，我再检查一______就给您送过去。”",
+      "options": ["遍", "次", "节", "页"],
+      "answer": "遍",
+      "explanation": "Kiểm tra lại toàn bộ tài liệu một lượt từ đầu đến cuối → dùng lượng từ 遍 (检查一遍).",
+      "review_tip": "Ôn #8 遍 (một lượt trọn vẹn từ đầu tới cuối)."
+    },
+    {
+      "id": "h4x13_ex4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "比一比 tr.41 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ ĐÚNG: “您最近在拍哪部电影？能谈谈电影的______内容吗？”",
+      "options": ["大概", "也许", "偶尔", "稍微"],
+      "answer": "大概",
+      "explanation": "Làm tính từ định ngữ nghĩa là 'đại khái, sơ lược' (大概内容) chỉ có thể dùng 大概; 也许 không có chức năng tính từ!",
+      "review_tip": "Ôn câu (5) 做一做 tr.41 về cặp 大概—也许."
+    },
+    {
+      "id": "h4x13_ex5", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "比一比 tr.41 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ ĐÚNG cho câu: “穷人的孩子早当家，他们______没有很多钱，却可能比富人家的孩子经历得更多。”",
+      "options": ["也许", "大概", "大约", "十分"],
+      "answer": "也许",
+      "explanation": "Câu gốc mục 做一做 (2) tr.41: biểu thị nhượng bộ/phỏng đoán nhẹ trước 却 → chỉ dùng 也许 (sách đánh dấu 大概 ×, 也许 ✓).",
+      "review_tip": "Ôn bảng 比一比 大概—也许 tr.40–41."
+    },
+    {
+      "id": "h4x13_ex6", "type": "context_mc", "level": "Phân biệt", "origin_tag": "同字词 tr.48 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ nhóm đồng tự '量' phù hợp: “大熊猫样子非常可爱，深受人们喜爱。但是______不多，全世界一共才有一千多只。”",
+      "options": ["数量", "质量", "商量", "部分"],
+      "answer": "数量",
+      "explanation": "Nói về số lượng gấu trúc trên thế giới không nhiều (chỉ hơn 1.000 con) → chọn 数量.",
+      "review_tip": "Ôn nhóm đồng tự 量 (商量 – 数量 – 质量) tr.47–48."
+    },
+    {
+      "id": "h4x13_ex7", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Bài 13 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Câu nào sau đây sử dụng động từ “进行” ĐÚNG ngữ pháp?",
+      "options": [
+        "他们会主动与他人进行交流。",
+        "我们晚上去那家餐厅进行吃饭吧。",
+        "他正在房间里进行睡觉呢。",
+        "我昨天进行调查了这个问题。"
+      ],
+      "answer": "他们会主动与他人进行交流。",
+      "explanation": "进行 chỉ đi trước động từ 2 âm tiết mang tính trang trọng/chính thức (进行交流, 进行调查), không dùng với hành động sinh hoạt thường ngày (吃饭, 睡觉) và không mang tân ngữ sau động từ thứ hai.",
+      "review_tip": "Ôn Chú thích 4 tr.45 về 进行."
+    },
+    {
+      "id": "h4x13_ex8", "type": "reorder", "level": "Vận dụng", "origin_tag": "Bài 13 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Sắp xếp thành câu hoàn chỉnh sử dụng giới từ “随着”:",
+      "tokens": ["京剧也在改变，", "随着", "以适应", "社会的发展，", "不同年龄观众的需要。"],
+      "answer": "随着社会的发展，京剧也在改变，以适应不同年龄观众的需要。",
+      "explanation": "Khung câu chuẩn: 随着 + 社会的发展，Chủ ngữ + Vị ngữ，以 + Mục đích.",
+      "review_tip": "Ôn Chú thích 5 tr.45 về 随着."
+    },
+    {
+      "id": "h4x13_ex9", "type": "error_fix", "level": "Vận dụng", "origin_tag": "Ôn kiến thức cũ (30%)", "mistake_category": "Ngữ pháp",
+      "prompt": "[Ôn tập Bài 12] Tìm lỗi sai và chọn cách sửa ĐÚNG cho câu: “对于中国茶文化的一本书，我非常喜欢看。”",
+      "options": [
+        "Sửa 对于 thành 关于: 关于中国茶文化的一本书，我非常喜欢看。",
+        "Sửa 喜欢 thành 喜爱",
+        "Sửa 一本 thành 一节",
+        "Câu trên hoàn toàn đúng"
+      ],
+      "answer": "Sửa 对于 thành 关于: 关于中国茶文化的一本书，我非常喜欢看。",
+      "explanation": "Cụm giới từ làm định ngữ chỉ chủ đề của sách/bài báo phải dùng 关于, không dùng 对于!",
+      "review_tip": "Ôn lại cặp 对于—关于 của Bài 12."
+    },
+    {
+      "id": "h4x13_ex10", "type": "reading_mc", "level": "Phân biệt", "origin_tag": "Bài khóa 5 (70%)", "mistake_category": "Đọc hiểu",
+      "passage": "茶在中国有几千年的历史，是中国最常见的饮料。最早的时候，茶只是被当作一种药，而不是饮料。后来，随着人们对茶的认识的加深，慢慢开始把它当作解渴的饮料，这才慢慢有了中国的茶文化。",
+      "prompt": "Theo đoạn văn trên, thời kỳ sớm nhất trà được người Trung Quốc dùng để làm gì?",
+      "options": [
+        "Được dùng như một loại thuốc",
+        "Được dùng làm đồ uống giải khát mỗi ngày",
+        "Được dùng để pha trà thảo mộc Quảng Đông",
+        "Được dùng làm quà tặng trong lễ hội"
+      ],
+      "answer": "Được dùng như một loại thuốc",
+      "explanation": "Đoạn văn viết rõ: '最早的时候，茶只是被当作一种药，而不是饮料。'",
+      "review_tip": "Đọc lại Bài khóa 5 tr.44."
+    },
+    {
+      "id": "h4x13_ex11", "type": "translate_zh_vi", "level": "Vận dụng", "origin_tag": "Ôn tổng hợp Bài 11–13 (30%)", "mistake_category": "Dịch thuật",
+      "prompt": "Dịch sang tiếng Việt: “你真厉害！竟然连很多中国人都听不懂的京剧也能学会。”",
+      "hint": "Chú ý 竟然 (vậy mà lại) và cấu trúc Bài 11 连……也…… (ngay cả... cũng...).",
+      "keywords": ["giỏi", "ngay cả", "Kinh kịch"],
+      "answer": "Cậu giỏi thật! Vậy mà ngay cả Kinh kịch nhiều người Trung Quốc nghe không hiểu cậu cũng có thể học được.",
+      "explanation": "真厉害 = giỏi thật; 竟然 = vậy mà lại; 连……也…… = ngay cả... cũng...; 学会 = học được/học thành thạo.",
+      "review_tip": "Kết hợp ôn cấu trúc 连……也…… (Bài 11) và từ vựng Bài 13."
+    }
+  ]
+}

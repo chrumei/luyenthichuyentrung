@@ -1,0 +1,478 @@
+{
+  "id": "hsk5shang_l18",
+  "book_id": "hsk5shang",
+  "textbook": "HSK 5 上",
+  "lesson_number": 18,
+  "title_zh": "抽象艺术美不美？",
+  "title_vi": "Nghệ thuật trừu tượng đẹp hay xấu?",
+  "pdf_pages": "Trang sách 162–169 (Giáo Trình Chuẩn HSK5 Tập 1.pdf)",
+  "source_status": "verified_textbook",
+  "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"],
+  "vocabulary": [
+    {
+      "id": "hsk5s_l18_w01", "order": 1, "textbook": "HSK 5 上", "lesson": 18,
+      "hanzi": "抽象", "pinyin": "chōuxiàng",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "trừu tượng", "structure": "抽象艺术 / 抽象画 / 概念很抽象", "explanation": "Không cụ thể, không mô phỏng trực tiếp hình dáng thực tế mà khái quát hóa (trái nghĩa với 具体).", "examples": [{ "chinese": "对有些人来说，抽象艺术没有古典艺术那么容易欣赏。", "pinyin": "Duì yǒuxiē rén lái shuō, chōuxiàng yìshù méiyǒu gǔdiǎn yìshù nàme róngyì xīnshǎng.", "vietnamese": "Đối với một số người, nghệ thuật trừu tượng không dễ thưởng thức như nghệ thuật cổ điển.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ)", "meanings": ["trừu tượng hóa, khái quát hóa"], "structure": "从……中抽象出……", "difference_note": "Sách gốc ghi đủ tt./đgt.: làm động từ chỉ hành động rút ra đặc trưng chung bản chất từ nhiều sự vật cụ thể.", "examples": [{ "chinese": "我们可以从这些具体事例中抽象出共同的规律。", "pinyin": "Wǒmen kěyǐ cóng zhèxiē jùtǐ shìlì zhōng chōuxiàng chū gòngtóng de guīlǜ.", "vietnamese": "Chúng ta có thể khái quát hóa ra quy luật chung từ những ví dụ cụ thể này." }] }
+      ],
+      "chinese_explanation": "笼统、不具体（跟“具体”相对）；将许多事物共同的本质属性抽取出来。", "collocations": ["抽象艺术", "抽象画", "抽象概念", "非常抽象"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l18_w02", "order": 2, "textbook": "HSK 5 上", "lesson": 18,
+      "hanzi": "古典", "pinyin": "gǔdiǎn",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "cổ điển", "structure": "古典 + 艺术/文学/小说/戏剧/音乐", "explanation": "Thuộc về truyền thống nghệ thuật, văn hóa kinh điển thời xưa, có giá trị chuẩn mực lâu dài.", "examples": [{ "chinese": "对有些人来说，抽象艺术没有古典艺术那么容易欣赏。", "pinyin": "Duì yǒuxiē rén lái shuō, chōuxiàng yìshù méiyǒu gǔdiǎn yìshù nàme róngyì xīnshǎng.", "vietnamese": "Với một số người, nghệ thuật trừu tượng không dễ thưởng thức như nghệ thuật cổ điển.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "古代流传下来被认为典范的；具有传统典雅风格的。", "collocations": ["古典文学", "古典小说", "古典戏剧", "古典音乐", "古典艺术"], "usage_note": "Thường dùng làm định ngữ trực tiếp trước danh từ mà không cần 的 (古典音乐, 古典文学).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l18_w03", "order": 3, "textbook": "HSK 5 上", "lesson": 18,
+      "hanzi": "欣赏", "pinyin": "xīnshǎng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "thưởng thức, chiêm ngưỡng", "structure": "欣赏 + 艺术/画作/音乐/风景", "explanation": "Ngắm nhìn, lắng nghe và cảm nhận vẻ đẹp của nghệ thuật, phong cảnh hoặc âm nhạc.", "examples": [{ "chinese": "志愿者同时欣赏原作和画面元素被调整后的画作。", "pinyin": "Zhìyuànzhě tóngshí xīnshǎng yuánzuò hé huàmiàn yuánsù bèi tiáozhěng hòu de huàzuò.", "vietnamese": "Các tình nguyện viên cùng lúc thưởng thức tác phẩm gốc và bức tranh đã bị điều chỉnh các yếu tố hình ảnh.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ - đối với con người)", "meanings": ["đánh giá cao, mến mộ, khâm phục"], "structure": "对某人很/极其欣赏 / 欣赏他的才华", "difference_note": "Dùng cho người hoặc phẩm chất/tài năng, xuất hiện ngay trong Bài tập 3 câu 1 tr.167.", "examples": [{ "chinese": "我对这个人极其欣赏，我认为他很有才华。", "pinyin": "Wǒ duì zhège rén jíqí xīnshǎng, wǒ rènwéi tā hěn yǒu cáihuá.", "vietnamese": "Tôi vô cùng ngưỡng mộ người này, tôi cho rằng anh ấy rất có tài." }] }
+      ],
+      "chinese_explanation": "享受美好的事物，领略其中的情趣；认为好、喜欢。", "collocations": ["欣赏音乐", "欣赏风景", "欣赏原作", "极其欣赏"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l18_w04", "order": 4, "textbook": "HSK 5 上", "lesson": 18,
+      "hanzi": "布", "pinyin": "bù",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "vải", "structure": "画布 / 一块布 / 棉布", "explanation": "Chất liệu dệt từ bông, sợi dùng may mặc hoặc làm toan vẽ (画布).", "examples": [{ "chinese": "画布上那些不规则的色块、线条，实在看不出有什么意义。", "pinyin": "Huàbù shang nàxiē bù guīzé de sèkuài, xiàntiáo, shízài kànbuchū yǒu shénme yìyì.", "vietnamese": "Những mảng màu, đường nét không theo quy tắc trên tấm vải vẽ kia thực sự không nhìn ra có ý nghĩa gì.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ - thành tố tạo từ)", "meanings": ["bố trí, phân bố, ban bố"], "structure": "布局 / 布置 / 公布 / 宣布", "difference_note": "Trong các từ ghép song âm tiết như 布局 (#36 cùng bài), 布 mang nghĩa sắp đặt, bày biện.", "examples": [{ "chinese": "我们把会议室布置得很温馨。", "pinyin": "Wǒmen bǎ huìyìshì bùzhì de hěn wēnxīn.", "vietnamese": "Chúng tôi trang trí phòng họp rất ấm cúng." }] }
+      ],
+      "chinese_explanation": "棉、麻、化纤等织成的织物；布置、安排。", "collocations": ["画布", "一块布", "桌布", "布鞋"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l18_w05", "order": 5, "textbook": "HSK 5 上", "lesson": 18,
+      "hanzi": "规则", "pinyin": "guīzé",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "đúng quy tắc, ngay ngắn, đều đặn", "structure": "不规则的 + 色块/形状 / 形状很规则", "explanation": "Nghĩa trong bài khóa: có trật tự, hình dạng cân đối theo quy luật nhất định.", "examples": [{ "chinese": "画布上那些不规则的色块、线条，实在看不出有什么意义。", "pinyin": "Huàbù shang nàxiē bù guīzé de sèkuài, xiàntiáo, shízài kànbuchū yǒu shénme yìyì.", "vietnamese": "Những mảng màu và đường nét không ngay ngắn trên toan vẽ thực sự không nhìn ra ý nghĩa gì.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ - bảng 词语搭配 tr.166)", "meanings": ["quy tắc, luật lệ"], "structure": "交通规则 / 比赛(的)规则 / 游戏(的)规则 / 遵守规则", "difference_note": "Sách gốc ghi đủ tt./dt.: làm danh từ chỉ điều lệ mọi người cùng tuân theo.", "examples": [{ "chinese": "每个人都应该严格遵守交通规则。", "pinyin": "Měi ge rén dōu yīnggāi yángé zūnshǒu jiāotōng guīzé.", "vietnamese": "Mỗi người đều nên tuân thủ nghiêm ngặt luật lệ giao thông." }] }
+      ],
+      "chinese_explanation": "合乎一定的方式方法、整齐有规律；规定出来供大家共同遵守的制度或章程。", "collocations": ["不规则的色块", "交通规则", "比赛规则", "游戏规则"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l18_w06", "order": 6, "textbook": "HSK 5 上", "lesson": 18,
+      "hanzi": "派", "pinyin": "pài",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "phái, trường phái, bè cánh", "structure": "抽象派 / 印象派 / 流派", "explanation": "Trường phái nghệ thuật, học thuật hoặc phe phái chính trị có phong cách, chủ trương chung.", "examples": [{ "chinese": "抽象派画家的作品中经常见到好像随便洒上颜料而形成的画作。", "pinyin": "Chōuxiàngpài huàjiā de zuòpǐn zhōng jīngcháng jiàndào hǎoxiàng suíbiàn sǎshàng yánliào ér xíngchéng de huàzuò.", "vietnamese": "Trong tác phẩm của các họa sĩ trường phái trừu tượng thường thấy những bức tranh trông như tùy tiện vẩy màu lên mà thành.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ)", "meanings": ["phái, cử đi (công tác, đại diện)"], "structure": "派 + 某人 + 去/来 + 做某事", "difference_note": "Rất hay dùng trong đời sống và công việc khi phân công, điều động nhân sự.", "examples": [{ "chinese": "公司派他去北京参加学术会议。", "pinyin": "Gōngsī pài tā qù Běijīng cānjiā xuéshù huìyì.", "vietnamese": "Công ty cử anh ấy đi Bắc Kinh tham dự hội nghị học thuật." }] }
+      ],
+      "chinese_explanation": "由于学术、艺术、宗教、政治等见解不同而形成的派别；派遣、分配。", "collocations": ["抽象派", "流派", "派人", "派出代表"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l18_w07", "order": 7, "textbook": "HSK 5 上", "lesson": 18,
+      "hanzi": "作品", "pinyin": "zuòpǐn",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "tác phẩm", "structure": "一幅/部/件作品 / 文学作品 / 代表作品", "explanation": "Thành quả sáng tác văn học, hội họa, âm nhạc, điện ảnh hoặc thiết kế.", "examples": [{ "chinese": "抽象派画家的作品中经常见到好像随便洒上颜料而形成的画作。", "pinyin": "Chōuxiàngpài huàjiā de zuòpǐn zhōng jīngcháng jiàndào hǎoxiàng suíbiàn sǎshàng yánliào ér xíngchéng de huàzuò.", "vietnamese": "Trong các tác phẩm của họa sĩ phái trừu tượng thường thấy những bức tranh trông như tùy ý rắc màu lên.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "文学艺术创造的成品。", "collocations": ["一幅作品", "设计作品", "艺术作品", "代表作品"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l18_w08", "order": 8, "textbook": "HSK 5 上", "lesson": 18,
+      "hanzi": "洒", "pinyin": "sǎ",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "rắc, rải, vẩy (chất lỏng, màu)", "structure": "洒上颜料 / 洒水 / 把茶洒了", "explanation": "Làm cho chất lỏng hoặc giọt nhỏ văng, rải ra trên bề mặt.", "examples": [{ "chinese": "经常见到好像随便洒上颜料而形成的画作。", "pinyin": "Jīngcháng jiàndào hǎoxiàng suíbiàn sǎshàng yánliào ér xíngchéng de huàzuò.", "vietnamese": "Thường thấy những bức tranh trông như tùy tiện vẩy màu vẽ lên mà tạo thành.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "使水或其他东西分散地落下。", "collocations": ["洒水", "洒上颜料", "洒了一地", "阳光洒满大地"], "usage_note": "Phân biệt với 撒 (sǎ – rắc/gieo hạt, vật rắn dạng hạt/bột): 洒 nước/sơn (bộ Thủy 氵), 撒 muối/hạt giống (bộ Thủ 扌).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l18_w09", "order": 9, "textbook": "HSK 5 上", "lesson": 18,
+      "hanzi": "极其", "pinyin": "jíqí",
+      "lesson_usage": { "part_of_speech": "副词 (Phó từ)", "meaning": "vô cùng, hết sức", "structure": "极其 + Tính từ 2+ âm tiết (神秘/丑陋/糟糕/少见) / 极其欣赏", "explanation": "Phó từ mức độ rất cao (như 非常), thiên về văn viết, CHỈ tu sức cho tính từ (hoặc động từ tâm lý) song âm tiết trở lên.", "examples": [{ "chinese": "在有人看来极其神秘甚至丑陋，有人却从中感受到对自由、对生命的赞美。", "pinyin": "Zài yǒurén kànlái jíqí shénmì shènzhì chǒulòu, yǒurén què cóngzhōng gǎnshòu dào duì zìyóu, duì shēngmìng de zànměi.", "vietnamese": "Trong mắt một số người thì vô cùng thần bí thậm chí xấu xí, nhưng người khác lại cảm nhận được sự ngợi ca tự do và sinh mệnh từ đó.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "非常、极端（多用于书面语，只修饰双音节或多音节形容词等）。", "collocations": ["极其神秘", "极其糟糕", "极其少见", "极其重要", "极其欣赏"], "usage_note": "KHÔNG đi với tính từ đơn âm tiết (xem Bài tập 2 câu 1 tr.167: '那个人长得非常丑', KHÔNG nói '极其丑').", "common_errors": "Sai: '极其丑 / 极其大 / 极其好' → Đúng: '极其丑陋 / 非常丑'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l18_w10", "order": 10, "textbook": "HSK 5 上", "lesson": 18,
+      "hanzi": "神秘", "pinyin": "shénmì",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "thần bí, huyền bí", "structure": "极其神秘 / 神秘的色彩 / 神秘感", "explanation": "Khó hiểu, kỳ bí, khiến người ta cảm thấy ẩn chứa điều bí mật khó lý giải.", "examples": [{ "chinese": "在有人看来极其神秘甚至丑陋。", "pinyin": "Zài yǒurén kànlái jíqí shénmì shènzhì chǒulòu.", "vietnamese": "Trong mắt một số người lại vô cùng huyền bí thậm chí xấu xí.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "使人摸不透、高深莫测的。", "collocations": ["极其神秘", "神秘感", "神秘人物", "保持神秘"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l18_w11", "order": 11, "textbook": "HSK 5 上", "lesson": 18,
+      "hanzi": "丑（陋）", "pinyin": "chǒu (lòu)",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "xấu xí", "structure": "很丑 / 极其丑陋 / 丑陋的行为", "explanation": "Dung mạo, hình thức khó coi (trái nghĩa với 美); 丑陋 là dạng song âm tiết trang trọng hơn, còn dùng cho hành vi xấu xa.", "examples": [{ "chinese": "在有人看来极其神秘甚至丑陋。", "pinyin": "Zài yǒurén kànlái jíqí shénmì shènzhì chǒulòu.", "vietnamese": "Trong mắt một số người thì vô cùng thần bí thậm chí xấu xí.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "相貌或样子难看；卑鄙恶劣。", "collocations": ["长得很丑", "极其丑陋", "出丑"], "usage_note": "Chú ý kết hợp với phó từ mức độ: 非常丑 (đơn âm tiết) vs 极其丑陋 (song âm tiết).", "common_errors": "Sai: '极其丑' → Đúng: '非常丑' hoặc '极其丑陋'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l18_w12", "order": 12, "textbook": "HSK 5 上", "lesson": 18,
+      "hanzi": "自由", "pinyin": "zìyóu",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "sự tự do", "structure": "对自由的赞美 / 言论自由 / 这既是挑战，也是自由", "explanation": "Nghĩa trong bài khóa: quyền hoặc trạng thái không bị ràng buộc, được tự chủ theo ý muốn.", "examples": [{ "chinese": "有人却从中感受到对自由、对生命的赞美。", "pinyin": "Yǒurén què cóngzhōng gǎnshòu dào duì zìyóu, duì shēngmìng de zànměi.", "vietnamese": "Nhưng người khác lại từ đó cảm nhận được sự ngợi ca tự do và sự sống.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "形容词 (Tính từ)", "meanings": ["tự do, thoải mái, không bị gò bó"], "structure": "很自由 / 自由活动 / 自由选择", "difference_note": "Sách gốc ghi đủ dt./tt.: làm tính từ mô tả trạng thái linh hoạt, không bị hạn chế.", "examples": [{ "chinese": "这份工作的时间比较自由。", "pinyin": "Zhè fèn gōngzuò de shíjiān bǐjiào zìyóu.", "vietnamese": "Thời gian của công việc này khá tự do." }] }
+      ],
+      "chinese_explanation": "不受拘束、不受限制的权利或状态。", "collocations": ["自由活动", "自由选择", "人身自由", "热爱自由"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l18_w13", "order": 13, "textbook": "HSK 5 上", "lesson": 18,
+      "hanzi": "设计", "pinyin": "shèjì",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "thiết kế", "structure": "设计 + 实验/作品/方案/服装", "explanation": "Lên ý tưởng, lập kế hoạch, vẽ mẫu trước khi thực hiện một công trình, sản phẩm hay thí nghiệm.", "examples": [{ "chinese": "研究者设计了一个有趣的实验。", "pinyin": "Yánjiūzhě shèjì le yí ge yǒuqù de shíyàn.", "vietnamese": "Các nhà nghiên cứu đã thiết kế một thí nghiệm thú vị.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["bản thiết kế, kiểu dáng thiết kế"], "structure": "设计图 / 设计作品 / 设计方案 / 巧妙的设计", "difference_note": "Sách gốc ghi đủ đgt./dt.: làm danh từ hoặc định ngữ trong bảng 词语搭配 tr.166.", "examples": [{ "chinese": "这个产品的外观设计很受欢迎。", "pinyin": "Zhège chǎnpǐn de wàiguān shèjì hěn shòu huānyíng.", "vietnamese": "Thiết kế ngoại hình của sản phẩm này rất được ưa chuộng." }] }
+      ],
+      "chinese_explanation": "在正式做某项工作之前，根据一定的目的要求，预先制定方法、图样等。", "collocations": ["设计实验", "设计图", "设计作品", "设计方案", "设计师"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l18_w14", "order": 14, "textbook": "HSK 5 上", "lesson": 18,
+      "hanzi": "组", "pinyin": "zǔ",
+      "lesson_usage": { "part_of_speech": "量词 (Lượng từ)", "meaning": "nhóm, bộ, đôi (tập hợp nhiều người/vật thành một cụm)", "structure": "一组 + 学生/照片/服装/工具 / 两两一组 / 每组", "explanation": "Lượng từ cho một nhóm người hoặc một bộ sự vật đi cùng nhau thành cụm.", "examples": [{ "chinese": "每个人会看到两两一组出现的一些图画，每组中一幅出自著名抽象艺术家之手。", "pinyin": "Měi ge rén huì kàndào liǎngliǎng yì zǔ chūxiàn de yìxiē túhuà, měi zǔ zhōng yì fú chūzì zhùmíng chōuxiàng yìshùjiā zhī shǒu.", "vietnamese": "Mỗi người sẽ thấy một số bức tranh xuất hiện theo từng cặp hai bức một nhóm, trong mỗi nhóm có một bức do nghệ sĩ trừu tượng nổi tiếng vẽ.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["tổ, nhóm (đơn vị tổ chức)"], "structure": "研究小组 / 第一组 / 组长", "difference_note": "Sách gốc ghi đủ dt./lượng.: làm danh từ chỉ đơn vị tổ/nhóm trong tập thể.", "examples": [{ "chinese": "我们班分成了四个学习小组。", "pinyin": "Wǒmen bān fēnchéng le sì ge xuéxí xiǎozǔ.", "vietnamese": "Lớp chúng tôi chia thành bốn tổ học tập." }] }
+      ],
+      "chinese_explanation": "量词，用于由若干人或事物构成的集合；名词，由少数人组成的小单位。", "collocations": ["一组学生", "一组照片", "一组服装", "一组工具", "小组"], "usage_note": "Phân biệt lượng từ 组 (cả bộ/nhóm gồm nhiều đơn vị: 一组服装) vs 套 (từng bộ quần áo mặc hoàn chỉnh: 七套戏服) — Bài tập 2 câu 2 tr.167!", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l18_w15", "order": 15, "textbook": "HSK 5 上", "lesson": 18,
+      "hanzi": "幅", "pinyin": "fú",
+      "lesson_usage": { "part_of_speech": "量词 (Lượng từ)", "meaning": "bức, tấm, miếng (dùng cho bức tranh, vải vóc, chữ thư pháp...)", "structure": "一幅 + 画儿/作品/静物画/地图/布", "explanation": "Lượng từ chuyên dùng cho tranh vẽ, tác phẩm hội họa, biểu ngữ, vải vóc.", "examples": [{ "chinese": "志愿者必须判断每一组画作中自己更喜欢哪一幅。", "pinyin": "Zhìyuànzhě bìxū pànduàn měi yì zǔ huàzuò zhōng zìjǐ gèng xǐhuan nǎ yì fú.", "vietnamese": "Tình nguyện viên phải phán đoán xem trong mỗi nhóm tranh mình thích bức nào hơn.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "量词，用于布帛、图画等。", "collocations": ["一幅画儿", "一幅作品", "一幅静物画", "一幅地图"], "usage_note": "Đọc thanh 2: fú (dễ nhầm mặt chữ với 副 fù — bộ/cặp).", "common_errors": "Hay nhầm 幅 (bộ Cân 巾, fú – bức tranh) với 副 (bộ Đao 刂, fù – cặp kính/găng tay).", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l18_w16", "order": 16, "textbook": "HSK 5 上", "lesson": 18,
+      "hanzi": "出自", "pinyin": "chūzì",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "xuất phát từ, đến từ (tác giả, nguồn gốc)", "structure": "出自 + 某人之手 / 出自 + Sách/Tác phẩm/Tâm ý", "explanation": "Có nguồn gốc từ ai, tác phẩm nào hoặc xuất phát từ động cơ nào (văn viết).", "examples": [{ "chinese": "每组中一幅出自著名抽象艺术家之手。", "pinyin": "Měi zǔ zhōng yì fú chūzì zhùmíng chōuxiàng yìshùjiā zhī shǒu.", "vietnamese": "Trong mỗi nhóm có một bức xuất phát từ bàn tay của nghệ sĩ trừu tượng nổi tiếng.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "来源于；出于。", "collocations": ["出自名家之手", "出自《论语》", "出自真心"], "usage_note": "Cấu trúc văn viết rất đẹp: 出自……之手 (do bàn tay ai sáng tạo nên).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l18_w17", "order": 17, "textbook": "HSK 5 上", "lesson": 18,
+      "hanzi": "业余", "pinyin": "yèyú",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "nghiệp dư; ngoài giờ làm việc", "structure": "业余 + 爱好者/时间/爱好/水平/合唱团", "explanation": "Không phải chuyên nghiệp (trái nghĩa 专业), hoặc chỉ thời gian ngoài công việc chính.", "examples": [{ "chinese": "另一幅是业余爱好者、婴儿、黑猩猩或者大象的涂鸦。", "pinyin": "Lìng yì fú shì yèyú àihàozhě, yīng'ér, hēixīngxing huòzhě dàxiàng de túyā.", "vietnamese": "Bức còn lại là nét vẽ nguệch ngoạc của người yêu thích nghiệp dư, trẻ sơ sinh, tinh tinh hoặc voi.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "非专业的；工作时间以外的。", "collocations": ["业余时间", "业余爱好", "业余水平", "业余合唱团", "业余乐队"], "usage_note": "Là tính từ phi vị ngữ (区别词), thường làm định ngữ hoặc dùng trong cấu trúc 是……的 (我们只是一支业余的乐队), không nói '很业余' trong văn chuẩn (dù khẩu ngữ có lúc dùng vui).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l18_w18", "order": 18, "textbook": "HSK 5 上", "lesson": 18, "is_out_of_syllabus": true,
+      "hanzi": "婴儿", "pinyin": "yīng'ér",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "trẻ sơ sinh, em bé dưới 1 tuổi", "structure": "一个婴儿 / 婴儿床", "explanation": "Em bé mới sinh còn rất nhỏ (thường dưới 1 tuổi).", "examples": [{ "chinese": "另一幅是业余爱好者、婴儿、黑猩猩或者大象的涂鸦。", "pinyin": "Lìng yì fú shì yèyú àihàozhě, yīng'ér, hēixīngxing huòzhě dàxiàng de túyā.", "vietnamese": "Bức còn lại là nét vẽ nguệch ngoạc của người chơi nghiệp dư, trẻ sơ sinh, tinh tinh hoặc voi.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "不满一岁的小孩儿。", "collocations": ["婴儿床", "婴儿用品", "新生婴儿"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l18_w19", "order": 19, "textbook": "HSK 5 上", "lesson": 18, "is_out_of_syllabus": true,
+      "hanzi": "猩猩", "pinyin": "xīngxing",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "(con) đười ươi, (con) tinh tinh", "structure": "一只黑猩猩 / 大猩猩", "explanation": "Loài linh trưởng gần với con người (黑猩猩 là tinh tinh).", "examples": [{ "chinese": "至少目前可以这么说，没有证据表明黑猩猩或儿童可以这样做。", "pinyin": "Zhìshǎo mùqián kěyǐ zhème shuō, méiyǒu zhèngjù biǎomíng hēixīngxing huò értóng kěyǐ zhèyàng zuò.", "vietnamese": "Ít nhất hiện nay có thể nói rằng chưa có bằng chứng cho thấy tinh tinh hay trẻ em có thể làm được như vậy.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "哺乳动物，类人猿的一种。", "collocations": ["黑猩猩", "大猩猩"], "usage_note": "Âm tiết thứ hai đọc thanh nhẹ: xīngxing.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l18_w20", "order": 20, "textbook": "HSK 5 上", "lesson": 18, "is_out_of_syllabus": true,
+      "hanzi": "涂鸦", "pinyin": "túyā",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "vẽ/viết nguệch ngoạc", "structure": "随手涂鸦 / 墙上涂鸦 / 大象的涂鸦", "explanation": "Vẽ hoặc viết bừa bãi, nguệch ngoạc (trong bài khóa cũng dùng ở vị trí danh từ hóa chỉ nét vẽ nguệch ngoạc).", "examples": [{ "chinese": "所以有可能志愿者认为自己看到的是黑猩猩的随手涂鸦，实际则是著名抽象艺术家的大作。", "pinyin": "Suǒyǐ yǒu kěnéng zhìyuànzhě rènwéi zìjǐ kàndào de shì hēixīngxing de suíshǒu túyā, shíjì zé shì zhùmíng chōuxiàng yìshùjiā de dàzuò.", "vietnamese": "Vì thế có khả năng tình nguyện viên tưởng mình đang xem nét vẽ nguệch ngoạc tùy tay của tinh tinh, thực tế lại là kiệt tác của danh họa trừu tượng.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["tranh vẽ nguệch ngoạc, nghệ thuật graffiti"], "structure": "街头涂鸦 / 墙上的涂鸦", "difference_note": "Dùng làm danh từ chỉ sản phẩm vẽ tự do trên tường hoặc giấy.", "examples": [{ "chinese": "这条街的墙上画满了彩色的涂鸦。", "pinyin": "Zhè tiáo jiē de qiáng shang huàmǎn le cǎisè de túyā.", "vietnamese": "Trên tường con phố này vẽ đầy những bức tranh graffiti đầy màu sắc." }] }
+      ],
+      "chinese_explanation": "比喻书法拙劣或胡乱写作、乱涂乱画；也指街头涂鸦艺术。", "collocations": ["随手涂鸦", "街头涂鸦", "乱涂鸦"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l18_w21", "order": 21, "textbook": "HSK 5 上", "lesson": 18,
+      "hanzi": "签", "pinyin": "qiān",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "ký tên, ký kết", "structure": "签名 / 签字 / 签合同", "explanation": "Viết tên mình lên giấy tờ, tác phẩm hoặc văn bản thỏa thuận để xác nhận.", "examples": [{ "chinese": "其中三分之一的画作作者没有签名，而其余的则标明了身份。", "pinyin": "Qízhōng sānfēnzhīyī de huàzuò zuòzhě méiyǒu qiānmíng, ér qíyú de zé biāomíng le shēnfèn.", "vietnamese": "Trong đó một phần ba số tranh không có chữ ký tác giả, còn những bức còn lại thì ghi rõ thân phận.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["que tre nhỏ, tăm, thẻ, nhãn"], "structure": "牙签 / 竹签 / 标签 / 书签", "difference_note": "Trong các danh từ ghép chỉ que nhỏ hoặc thẻ đánh dấu.", "examples": [{ "chinese": "这本书里夹着一张漂亮的书签。", "pinyin": "Zhè běn shū li jiāzhe yì zhāng piàoliang de shūqiān.", "vietnamese": "Trong cuốn sách này kẹp một chiếc thẻ đánh dấu trang rất đẹp." }] }
+      ],
+      "chinese_explanation": "写上姓名或画押；细长的竹木条或小牌子。", "collocations": ["签名", "签字", "签合同", "签证", "书签"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l18_w22", "order": 22, "textbook": "HSK 5 上", "lesson": 18,
+      "hanzi": "其余", "pinyin": "qíyú",
+      "lesson_usage": { "part_of_speech": "代词 (Đại từ)", "meaning": "cái còn lại, những cái khác", "structure": "其余的(+N) / 其余 + N", "explanation": "Chỉ toàn bộ phần còn lại ngoài đối tượng đã nhắc ở trước.", "examples": [{ "chinese": "其中三分之一的画作作者没有签名，而其余的则标明了身份。", "pinyin": "Qízhōng sānfēnzhīyī de huàzuò zuòzhě méiyǒu qiānmíng, ér qíyú de zé biāomíng le shēnfèn.", "vietnamese": "Trong đó một phần ba số bức tranh tác giả không ký tên, còn những bức còn lại đều ghi rõ thân phận.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "剩下的；另外的部分。", "collocations": ["其余的同学", "其余时间", "其余的"], "usage_note": "Xem Chú thích 2 tr.165: có thể làm chủ ngữ trực tiếp (我只认识这两个字，其余都不认识 — Bài tập 3 câu 3 tr.167) hoặc làm định ngữ (其余的同学).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l18_w23", "order": 23, "textbook": "HSK 5 上", "lesson": 18,
+      "hanzi": "身份", "pinyin": "shēnfèn",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "thân phận, địa vị, danh tính", "structure": "标明身份 / 身份证 / 公开身份", "explanation": "Xuất thân, địa vị xã hội hoặc danh tính xác định một cá nhân.", "examples": [{ "chinese": "其中三分之一的画作作者没有签名，而其余的则标明了身份。", "pinyin": "Qízhōng sānfēnzhīyī de huàzuò zuòzhě méiyǒu qiānmíng, ér qíyú de zé biāomíng le shēnfèn.", "vietnamese": "Trong đó một phần ba số bức tranh không có chữ ký tác giả, còn lại đều ghi rõ danh tính.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "人的出身、地位或资格。", "collocations": ["身份证", "标明身份", "确认身份", "以……的身份"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l18_w24", "order": 24, "textbook": "HSK 5 上", "lesson": 18,
+      "hanzi": "确认", "pinyin": "quèrèn",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "xác nhận", "structure": "确认 + 作者/身份/时间/信息", "explanation": "Kiểm tra và khẳng định chắc chắn một sự thật, thông tin hay danh tính.", "examples": [{ "chinese": "令人头疼的是，一些签名被故意弄错了，志愿者无法确认作者到底是谁。", "pinyin": "Lìng rén tóuténg de shì, yìxiē qiānmíng bèi gùyì nòngcuò le, zhìyuànzhě wúfǎ quèrèn zuòzhě dàodǐ shì shéi.", "vietnamese": "Điều đau đầu là một số chữ ký bị cố tình ghi sai, tình nguyện viên không thể xác nhận tác giả rốt cuộc là ai.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "明确承认；核实认定。", "collocations": ["确认身份", "确认信息", "确认时间", "反复确认"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l18_w25", "order": 25, "textbook": "HSK 5 上", "lesson": 18,
+      "hanzi": "随手", "pinyin": "suíshǒu",
+      "lesson_usage": { "part_of_speech": "副词 (Phó từ)", "meaning": "tiện tay, thuận tay", "structure": "随手 + V (关门/关灯/涂鸦/放)", "explanation": "Tiện tay làm một động tác nhẹ nhàng, tự nhiên ngay lúc đang làm việc khác.", "examples": [{ "chinese": "有可能志愿者认为自己看到的是黑猩猩的随手涂鸦。", "pinyin": "Yǒu kěnéng zhìyuànzhě rènwéi zìjǐ kàndào de shì hēixīngxing de suíshǒu túyā.", "vietnamese": "Có khả năng tình nguyện viên tưởng mình đang nhìn nét vẽ nguệch ngoạc tiện tay của tinh tinh.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "顺手、顺便（多用于手部动作）。", "collocations": ["随手关门", "随手关灯", "随手涂鸦", "随手一放"], "usage_note": "Phân biệt với 随便 (tùy tiện, tùy ý): 随手 gắn với hành động thuận tay (Bài tập 2 câu 3 tr.167: '随手把钥匙放在门口的桌子上了').", "common_errors": "Nhầm 随便 với 随手 khi tả động tác tiện tay để đồ hoặc đóng cửa.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l18_w26", "order": 26, "textbook": "HSK 5 上", "lesson": 18, "is_out_of_syllabus": true,
+      "hanzi": "分辨", "pinyin": "fēnbiàn",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "phân biệt, nhận ra", "structure": "分辨出来 / 分辨真假 / 分辨方向", "explanation": "Nhìn nhận, phân tách rõ hai sự vật dễ nhầm lẫn.", "examples": [{ "chinese": "也许有人认为，在这种情况下根本不可能分辨出来。", "pinyin": "Yěxǔ yǒurén rènwéi, zài zhè zhǒng qíngkuàng xià gēnběn bù kěnéng fēnbiàn chūlái.", "vietnamese": "Có lẽ có người cho rằng trong tình huống này căn bản không thể phân biệt ra được.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "辨别、区分。", "collocations": ["分辨出来", "分辨真假", "分辨是非", "分辨方向"], "usage_note": "Thường đi kèm bổ ngữ khả năng/kết quả: 分辨出来, 分辨不出, 分辨不清.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l18_w27", "order": 27, "textbook": "HSK 5 上", "lesson": 18,
+      "hanzi": "挥", "pinyin": "huī",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "vẫy, múa, vung", "structure": "挥笔 / 挥手 / 挥动", "explanation": "Vung tay, vẫy tay hoặc đưa bút vẽ phóng khoáng (挥笔).", "examples": [{ "chinese": "然而在每一次测试中，志愿者普遍更喜欢的作品都是由人类艺术家挥笔完成的。", "pinyin": "Rán'ér zài měi yí cì cèshì zhōng, zhìyuànzhě pǔbiàn gèng xǐhuan de zuòpǐn dōu shì yóu rénlèi yìshùjiā huībǐ wánchéng de.", "vietnamese": "Thế nhưng trong mỗi lần thử nghiệm, các tác phẩm mà tình nguyện viên nhìn chung thích hơn đều do nghệ sĩ con người hạ bút hoàn thành.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "舞动、摇动；洒、散出。", "collocations": ["挥笔", "挥手告别", "发挥", "指挥"], "usage_note": "挥笔 là cách nói giàu hình ảnh chỉ việc cầm bút viết chữ hoặc vẽ tranh.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l18_w28", "order": 28, "textbook": "HSK 5 上", "lesson": 18,
+      "hanzi": "可见", "pinyin": "kějiàn",
+      "lesson_usage": { "part_of_speech": "连词 (Liên từ)", "meaning": "có thể thấy rõ, chứng tỏ", "structure": "……，（由此）可见……", "explanation": "Dựa vào căn cứ, tình huống nêu ở vế trước để rút ra phán đoán, kết luận ở vế sau.", "examples": [{ "chinese": "由此可见，志愿者能够从画作中感知艺术家的用心，哪怕他们不能够解释原因。", "pinyin": "Yóucǐ kějiàn, zhìyuànzhě nénggòu cóng huàzuò zhōng gǎnzhī yìshùjiā de yòngxīn, nǎpà tāmen bù nénggòu jiěshì yuányīn.", "vietnamese": "Từ đó có thể thấy rõ, tình nguyện viên có thể cảm nhận được tâm huyết của người nghệ sĩ qua bức tranh, cho dù họ không thể giải thích nguyên nhân.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "形容词 / 动词 (Tính từ / Động từ)", "meanings": ["có thể nhìn thấy được"], "structure": "清晰可见 / 肉眼可见 / 随处可见", "difference_note": "Khi dùng theo nghĩa đen của 可 (có thể) + 见 (nhìn thấy) làm vị ngữ hoặc định ngữ.", "examples": [{ "chinese": "远处的雪山在晴天里清晰可见。", "pinyin": "Yuǎnchù de xuěshān zài qíngtiān li qīngxī kějiàn.", "vietnamese": "Ngọn núi tuyết phía xa có thể nhìn thấy rõ mồn một vào ngày nắng." }] }
+      ],
+      "chinese_explanation": "连词，表示根据上文可以作出判断；也可以看见。", "collocations": ["由此可见", "可见一斑", "清晰可见", "随处可见"], "usage_note": "Xem Chú thích 3 tr.165.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l18_w29", "order": 29, "textbook": "HSK 5 上", "lesson": 18,
+      "hanzi": "哪怕", "pinyin": "nǎpà",
+      "lesson_usage": { "part_of_speech": "连词 (Liên từ)", "meaning": "dù cho, cho dù", "structure": "哪怕……，也…… / ……，哪怕……", "explanation": "Liên từ nhượng bộ giả thiết (gần nghĩa với 即使 nhưng thiên về khẩu ngữ và nhấn mạnh hơn tình huống cực đoan).", "examples": [{ "chinese": "由此可见，志愿者能够从画作中感知艺术家的用心，哪怕他们不能够解释原因。", "pinyin": "Yóucǐ kějiàn, zhìyuànzhě nénggòu cóng huàzuò zhōng gǎnzhī yìshùjiā de yòngxīn, nǎpà tāmen bù nénggòu jiěshì yuányīn.", "vietnamese": "Từ đó thấy rõ tình nguyện viên có thể cảm nhận được tâm ý của nghệ sĩ qua tranh, cho dù họ không thể giải thích lý do.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "连词，表示姑且承认某种事实（相当于“即使”）。", "collocations": ["哪怕……也……", "哪怕再难"], "usage_note": "Có thể đặt đầu câu phối hợp với 也 (哪怕熬夜，我今天也得把这个计划做完 — Bài tập 3 câu 4 tr.167), hoặc đặt vế sau để bổ sung nhượng bộ như trong bài khóa.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l18_w30", "order": 30, "textbook": "HSK 5 上", "lesson": 18, "is_out_of_syllabus": true,
+      "hanzi": "元素", "pinyin": "yuánsù",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "yếu tố, nguyên tố", "structure": "画面元素 / 文化元素 / 化学元素", "explanation": "Thành phần cơ bản cấu tạo nên một sự vật, tác phẩm nghệ thuật hoặc chất hóa học.", "examples": [{ "chinese": "志愿者同时欣赏原作和画面元素被调整后的画作，包括静物画和抽象画。", "pinyin": "Zhìyuànzhě tóngshí xīnshǎng yuánzuò hé huàmiàn yuánsù bèi tiáozhěng hòu de huàzuò, bāokuò jìngwùhuà hé chōuxiànghuà.", "vietnamese": "Tình nguyện viên đồng thời thưởng thức bản gốc và bức tranh có các yếu tố hình ảnh bị điều chỉnh, bao gồm tranh tĩnh vật và tranh trừu tượng.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "要素；化学元素。", "collocations": ["画面元素", "中国元素", "时尚元素", "化学元素"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l18_w31", "order": 31, "textbook": "HSK 5 上", "lesson": 18,
+      "hanzi": "调整", "pinyin": "tiáozhěng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "điều chỉnh", "structure": "调整 + 时间/价格/计划/结构/市场 / 被调整后", "explanation": "Thay đổi, sắp xếp lại tình trạng vốn có sao cho phù hợp hơn với hoàn cảnh hoặc yêu cầu.", "examples": [{ "chinese": "志愿者同时欣赏原作和画面元素被调整后的画作。", "pinyin": "Zhìyuànzhě tóngshí xīnshǎng yuánzuò hé huàmiàn yuánsù bèi tiáozhěng hòu de huàzuò.", "vietnamese": "Tình nguyện viên đồng thời xem tác phẩm gốc và bức tranh sau khi các yếu tố hình ảnh đã bị điều chỉnh.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["sự điều chỉnh"], "structure": "做出调整 / 价格调整", "difference_note": "Sách gốc ghi đủ đgt./dt.: làm danh từ chỉ kết quả hoặc đợt điều chỉnh.", "examples": [{ "chinese": "公司最近进行了一次重要的人员调整。", "pinyin": "Gōngsī zuìjìn jìnxíng le yí cì zhòngyào de rényuán tiáozhěng.", "vietnamese": "Công ty gần đây đã tiến hành một đợt điều chỉnh nhân sự quan trọng." }] }
+      ],
+      "chinese_explanation": "改变原有的情况，使适应客观环境和要求。", "collocations": ["调整时间", "调整价格", "调整计划", "调整结构", "调整市场"], "usage_note": "Chú ý chữ 调 đọc tiáo (không đọc diào).", "common_errors": "Đọc nhầm thành diàozhěng (phải là tiáozhěng).", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l18_w32", "order": 32, "textbook": "HSK 5 上", "lesson": 18,
+      "hanzi": "位置", "pinyin": "wèizhì",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "vị trí", "structure": "物体位置 / 地理位置 / 换个位置", "explanation": "Chỗ đặt, tọa độ không gian của người hoặc vật; cũng chỉ chức vụ/vai trò.", "examples": [{ "chinese": "研究者发现，当看到画上物体位置变化后，大脑中有关含意和解释的区域活跃性下降了。", "pinyin": "Yánjiūzhě fāxiàn, dāng kàndào huà shang wùtǐ wèizhì biànhuà hòu, dànǎo zhōng yǒuguān hányì hé jiěshì de qūyù huóyuèxìng xiàjiàng le.", "vietnamese": "Nhà nghiên cứu phát hiện khi thấy vị trí vật thể trên tranh thay đổi, mức độ hoạt động của vùng não liên quan đến hàm ý và diễn giải giảm xuống.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "所在或所占的地方；地位。", "collocations": ["地理位置", "物体位置", "重要位置", "换位置"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l18_w33", "order": 33, "textbook": "HSK 5 上", "lesson": 18, "is_out_of_syllabus": true,
+      "hanzi": "含意", "pinyin": "hányì",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "hàm ý, ẩn ý", "structure": "深刻含意 / 有关含意和解释", "explanation": "Ý nghĩa sâu xa ẩn chứa bên trong ngôn từ hoặc tác phẩm nghệ thuật.", "examples": [{ "chinese": "大脑中有关含意和解释的区域活跃性下降了。", "pinyin": "Dànǎo zhōng yǒuguān hányì hé jiěshì de qūyù huóyuèxìng xiàjiàng le.", "vietnamese": "Mức độ hoạt động ở khu vực não bộ liên quan đến hàm ý và diễn giải đã giảm xuống.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "话语或作品中包含的深层意思。", "collocations": ["深刻含意", "理解含意", "话里的含意"], "usage_note": "Cũng thường gặp cách viết 含义 (chỉ ý nghĩa chứa đựng trong từ ngữ/hành động).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l18_w34", "order": 34, "textbook": "HSK 5 上", "lesson": 18, "is_out_of_syllabus": true,
+      "hanzi": "区域", "pinyin": "qūyù",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "khu vực, vùng", "structure": "大脑区域 / 商业区域 / 禁烟区域", "explanation": "Phạm vi địa lý hoặc vùng không gian được phân chia theo chức năng, ranh giới.", "examples": [{ "chinese": "大脑中有关含意和解释的区域活跃性下降了。", "pinyin": "Dànǎo zhōng yǒuguān hányì hé jiěshì de qūyù huóyuèxìng xiàjiàng le.", "vietnamese": "Tính tích cực của vùng não liên quan đến hàm ý và diễn giải đã suy giảm.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "土地的界划；某一范围的空间地区。", "collocations": ["商业区域", "办公区域", "区域发展", "禁烟区域"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l18_w35", "order": 35, "textbook": "HSK 5 上", "lesson": 18,
+      "hanzi": "活跃", "pinyin": "huóyuè",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "sinh động, sôi nổi, tích cực hoạt động", "structure": "活跃性 / 思维活跃 / 气氛很活跃", "explanation": "Nghĩa trong bài khóa: hoạt động mạnh mẽ, linh hoạt, sôi nổi (trong bài kết hợp thành danh từ 活跃性 — mức độ hoạt động).", "examples": [{ "chinese": "大脑中有关含意和解释的区域活跃性下降了。", "pinyin": "Dànǎo zhōng yǒuguān hányì hé jiěshì de qūyù huóyuèxìng xiàjiàng le.", "vietnamese": "Mức độ hoạt động của khu vực liên quan đến hàm ý và giải thích trong đại não giảm xuống.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ - bảng 词语搭配 tr.166)", "meanings": ["làm sôi nổi, khuấy động, đẩy mạnh"], "structure": "活跃 + 气氛/市场/经济", "difference_note": "Sách gốc ghi đủ tt./đgt. và kiểm tra ngay ở Bài tập 1 câu 5 tr.167 ('要靠他来活跃气氛').", "examples": [{ "chinese": "每次晚会他都是主持人，要靠他来活跃气氛。", "pinyin": "Měi cì wǎnhuì tā dōu shì zhǔchírén, yào kào tā lái huóyuè qìfēn.", "vietnamese": "Mỗi buổi dạ hội anh ấy đều là người dẫn chương trình, phải nhờ anh ấy khuấy động bầu không khí." }] }
+      ],
+      "chinese_explanation": "行动活泼而积极；使气氛或市场等变得活泼热烈。", "collocations": ["活跃气氛", "活跃市场", "活跃经济", "思维活跃", "活跃性"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l18_w36", "order": 36, "textbook": "HSK 5 上", "lesson": 18, "is_out_of_syllabus": true,
+      "hanzi": "布局", "pinyin": "bùjú",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "bố cục", "structure": "原作的布局 / 城市布局 / 合理的布局", "explanation": "Sự sắp xếp, phân bố tổng thể các thành phần trong một bức tranh, bài viết, căn phòng hay đô thị.", "examples": [{ "chinese": "这表明，我们的大脑注意到了原作的布局，并且可以感知其背后的用意。", "pinyin": "Zhè biǎomíng, wǒmen de dànǎo zhùyì dào le yuánzuò de bùjú, bìngqiě kěyǐ gǎnzhī qí bèihòu de yòngyì.", "vietnamese": "Điều này chứng tỏ bộ não chúng ta đã chú ý tới bố cục của tác phẩm gốc và có thể cảm nhận dụng ý đằng sau nó.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ)", "meanings": ["bố trí tổng thể, dàn dựng bố cục"], "structure": "合理布局 / 提前布局", "difference_note": "Dùng như động từ chỉ hành động hoạch định, sắp đặt cục diện.", "examples": [{ "chinese": "这篇文章结构清晰，布局非常合理。", "pinyin": "Zhè piān wénzhāng jiégòu qīngxī, bùjú fēicháng hélǐ.", "vietnamese": "Bài viết này kết cấu rõ ràng, bố cục vô cùng hợp lý." }] }
+      ],
+      "chinese_explanation": "对事物的全面安排和规划。", "collocations": ["画面布局", "战略布局", "合理布局", "房间布局"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l18_w37", "order": 37, "textbook": "HSK 5 上", "lesson": 18,
+      "hanzi": "事实", "pinyin": "shìshí",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "sự thật", "structure": "这个事实 / 事实上 / 重要的事实 / 符合事实", "explanation": "Tình hình khách quan có thật đã hoặc đang tồn tại.", "examples": [{ "chinese": "即使我们还没有清楚地感受到这个事实。", "pinyin": "Jíshǐ wǒmen hái méiyǒu qīngchu de gǎnshòu dào zhège shìshí.", "vietnamese": "Cho dù chúng ta vẫn chưa cảm nhận rõ ràng được sự thật này.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "事情的真实情况。", "collocations": ["事实上", "客观事实", "重要的事实", "尊重事实"], "usage_note": "Phân biệt với 实际 (thực tế — thường dùng '实际情况', không nói '一个重要的实际', xem Bài tập 2 câu 4 tr.167).", "common_errors": "Sai: '忽略了一个十分重要的实际' → Đúng: '忽略了一个十分重要的事实'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l18_w38", "order": 38, "textbook": "HSK 5 上", "lesson": 18,
+      "hanzi": "目前", "pinyin": "mùqián",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "hiện nay, trước mắt", "structure": "目前来看 / 到目前为止 / 目前的情况", "explanation": "Danh từ chỉ thời gian thiên về khoảng thời gian từ trước cho đến hiện tại (trang trọng hơn 现在).", "examples": [{ "chinese": "至少目前可以这么说，没有证据表明黑猩猩或儿童可以这样做。", "pinyin": "Zhìshǎo mùqián kěyǐ zhème shuō, méiyǒu zhèngjù biǎomíng hēixīngxing huò értóng kěyǐ zhèyàng zuò.", "vietnamese": "Ít nhất hiện nay có thể nói như vậy, chưa có chứng cứ nào cho thấy tinh tinh hay trẻ em làm được điều đó.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "指说话的时候，多偏重从过去到现在的一段时间。", "collocations": ["到目前为止", "目前为止", "目前情况", "目前看来"], "usage_note": "Xem bảng 词语辨析 tr.166–167 '目前—现在': 目前 KHÔNG đi liền với mốc thời gian cụ thể và không dùng cho điểm thời gian tức thời như '你现在能过来一趟吗？'.", "common_errors": "Sai: '目前是上午十点钟' / '你目前能过来一趟吗？' → Phải dùng '现在'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l18_w39", "order": 39, "textbook": "HSK 5 上", "lesson": 18,
+      "hanzi": "证据", "pinyin": "zhèngjù",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "chứng cứ, bằng chứng", "structure": "可靠的证据 / 没有证据表明…… / 找证据", "explanation": "Sự vật, dữ kiện khách quan dùng để chứng minh một sự thật hay kết luận.", "examples": [{ "chinese": "没有证据表明黑猩猩或儿童可以这样做。", "pinyin": "Méiyǒu zhèngjù biǎomíng hēixīngxing huò értóng kěyǐ zhèyàng zuò.", "vietnamese": "Không có bằng chứng nào cho thấy tinh tinh hoặc trẻ em có thể làm như vậy.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "能够证明某事物的真实性的有关事实或材料。", "collocations": ["可靠的证据", "充分的证据", "提供证据", "没有证据"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l18_w40", "order": 40, "textbook": "HSK 5 上", "lesson": 18,
+      "hanzi": "话题", "pinyin": "huàtí",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "chủ đề, đề tài (trò chuyện, thảo luận)", "structure": "一个有趣的话题 / 热门话题 / 换个话题", "explanation": "Nội dung trung tâm của cuộc nói chuyện hoặc thảo luận.", "examples": [{ "chinese": "我们的大脑究竟如何感知抽象艺术，是一个有趣的话题。", "pinyin": "Wǒmen de dànǎo jiūjìng rúhé gǎnzhī chōuxiàng yìshù, shì yí ge yǒuqù de huàtí.", "vietnamese": "Bộ não chúng ta rốt cuộc cảm nhận nghệ thuật trừu tượng như thế nào là một chủ đề thú vị.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "谈话的中心内容。", "collocations": ["有趣的话题", "热门话题", "共同话题", "转移话题"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    }
+  ],
+  "proper_nouns": [],
+  "collocations_table": [
+    { "relation": "Động từ + Tân ngữ", "head": "调整", "partners": "时间 / 价格 / 计划 / 结构 / 市场" },
+    { "relation": "Động từ + Tân ngữ", "head": "活跃", "partners": "气氛 / 市场 / 经济" },
+    { "relation": "Định ngữ + Trung tâm ngữ", "head": "古典", "partners": "文学 / 小说 / 戏剧 / 音乐" },
+    { "relation": "Định ngữ + Trung tâm ngữ", "head": "规则", "partners": "交通 / 比赛(的) / 游戏(的)" },
+    { "relation": "Định ngữ + Trung tâm ngữ", "head": "设计", "partners": "图 / 作品 / 方案" },
+    { "relation": "Định ngữ + Trung tâm ngữ", "head": "业余", "partners": "时间 / 爱好 / 水平 / 合唱团" },
+    { "relation": "Số lượng từ + Danh từ", "head": "一组", "partners": "学生 / 照片 / 服装 / 工具" },
+    { "relation": "Số lượng từ + Danh từ", "head": "一幅", "partners": "画儿 / 作品" }
+  ],
+  "grammar": [
+    {
+      "title": "极其",
+      "formula": "极其 + Tính từ song âm tiết / đa âm tiết (hoặc động từ tâm lý song âm tiết)",
+      "meaning": "Vô cùng, hết sức (tương đương 非常 nhưng trang trọng hơn).",
+      "usage": "Phó từ mức độ thường dùng trong văn viết, CHỈ có thể tu sức cho tính từ song âm tiết hoặc đa âm tiết (và một số động từ tâm lý 2 âm tiết như 欣赏).",
+      "context": "Dùng khi nhấn mạnh mức độ cao nhất trong văn viết, bình luận, diễn thuyết.",
+      "examples": [
+        { "chinese": "在中国，餐桌上放一把刀是极其少见的现象。", "pinyin": "Zài Zhōngguó, cānzhuō shang fàng yì bǎ dāo shì jíqí shǎojiàn de xiànxiàng.", "vietnamese": "Ở Trung Quốc, đặt một con dao trên bàn ăn là hiện tượng vô cùng hiếm thấy." },
+        { "chinese": "每天说“太糟糕了”“太讨厌了”“真倒霉”的人，遇到的困难也格外多，运气也显得极其糟糕。", "pinyin": "Měitiān shuō “tài zāogāo le” “tài tǎoyàn le” “zhēn dǎoméi” de rén, yùdào de kùnnan yě géwài duō, yùnqì yě xiǎnde jíqí zāogāo.", "vietnamese": "Người ngày nào cũng nói “tệ quá”, “ghét quá”, “xui xẻo thật” thì khó khăn gặp phải cũng nhiều hơn hẳn, vận may cũng tỏ ra vô cùng tệ hại." },
+        { "chinese": "抽象派画家的作品中经常见到好像随便洒上颜料而形成的画作，在有人看来极其神秘甚至丑陋，……", "pinyin": "Chōuxiàngpài huàjiā de zuòpǐn zhōng jīngcháng jiàndào hǎoxiàng suíbiàn sǎshàng yánliào ér xíngchéng de huàzuò, zài yǒurén kànlái jíqí shénmì shènzhì chǒulòu, …", "vietnamese": "Trong tác phẩm của họa sĩ trường phái trừu tượng thường thấy những bức tranh như tiện tay vẩy màu lên, trong mắt có người thì vô cùng thần bí thậm chí xấu xí…" }
+      ],
+      "important_notes": "QUY TẮC VÀNG: 极其 KHÔNG BAO GIỜ tu sức cho tính từ đơn âm tiết (như 丑、好、大、贵)!",
+      "common_errors": "Sai: '那个人长得极其丑' → Phải dùng '非常丑' hoặc đổi thành '极其丑陋' (Bài tập 2 câu 1 tr.167).",
+      "comparison": "非常 (đi được cả đơn âm tiết và đa âm tiết) vs 极其 (chỉ đi với song/đa âm tiết).",
+      "mini_practice": [
+        { "prompt": "这个项目是我们用了三年时间才谈下来的，______________________。（极其）", "sample_answer": "对公司的发展极其重要", "explanation": "极其 + tính từ 2 âm tiết (重要/宝贵/难得)." },
+        { "prompt": "______________________，谁也不说话。（极其）", "sample_answer": "会议室里的气氛极其紧张", "explanation": "极其 + tính từ 2 âm tiết (紧张/安静/尴尬)." },
+        { "prompt": "A: 你知道孔子吗？  B: ______________________。（极其）", "sample_answer": "当然知道，他对中国文化产生了极其深远的影响", "explanation": "极其 + tính từ 2 âm tiết (深远/重要)." }
+      ]
+    },
+    {
+      "title": "其余",
+      "formula": "其余(+的) + N  |  其余的 + V",
+      "meaning": "Phần còn lại, những người/cái khác còn lại.",
+      "usage": "Đại từ biểu thị tất cả phần sót lại ngoài đối tượng đã đề cập ở trước. Có thể làm định ngữ (có hoặc không có 的) hoặc làm chủ ngữ, tân ngữ.",
+      "context": "Dùng trong mô tả phân chia số lượng, thống kê, phân công công việc.",
+      "examples": [
+        { "chinese": "怎么只有你们两个人？其余的同学呢？", "pinyin": "Zěnme zhǐ yǒu nǐmen liǎng ge rén? Qíyú de tóngxué ne?", "vietnamese": "Sao chỉ có hai bạn vậy? Các bạn học còn lại đâu rồi?" },
+        { "chinese": "只有一个房间亮着灯，其余窗户都是黑的。", "pinyin": "Zhǐ yǒu yí ge fángjiān liàngzhe dēng, qíyú chuānghu dōu shì hēi de.", "vietnamese": "Chỉ có một căn phòng đang sáng đèn, các cửa sổ còn lại đều tối om." },
+        { "chinese": "其中三分之一的画作作者没有签名，而其余的则标明了身份。", "pinyin": "Qízhōng sānfēnzhīyī de huàzuò zuòzhě méiyǒu qiānmíng, ér qíyú de zé biāomíng le shēnfèn.", "vietnamese": "Trong đó một phần ba số bức tranh tác giả không ký tên, còn những bức còn lại thì ghi rõ thân phận." }
+      ],
+      "important_notes": "Khi làm chủ ngữ độc lập, có thể dùng 其余的 hoặc 其余 đều được (như '我只认识这两个字，其余都不认识').",
+      "common_errors": "Không đặt 其余 sau số lượng từ như '两个其余的人' → phải nói '其余的两个人'.",
+      "comparison": "其余 (chỉ toàn bộ phần còn lại trong một tập xác định) vs 其他 (những cái khác nói chung).",
+      "mini_practice": [
+        { "prompt": "A: 这些行李怎么拿？  B: ______________________。（其余）", "sample_answer": "我拿这两个大箱子，其余的你来拿吧", "explanation": "Dùng 其余的 chỉ số hành lý còn lại." },
+        { "prompt": "A: 你看过哪些中国的传统体育表演？  B: ______________________。（其余）", "sample_answer": "我只看过武术表演，其余的都没看过", "explanation": "Dùng 其余的 đối chiếu với phần đã xem." },
+        { "prompt": "你们几个负责新产品的宣传，______________________。（其余）", "sample_answer": "其余的人负责市场调查", "explanation": "Dùng 其余的人 làm chủ ngữ phân công việc." }
+      ]
+    },
+    {
+      "title": "可见",
+      "formula": "（前提/事实）……，（由此）可见 + Kết luận/Phán đoán",
+      "meaning": "Có thể thấy rõ, từ đó suy ra, chứng tỏ.",
+      "usage": "Liên từ đặt đầu vế sau, biểu thị căn cứ vào tình hình, hiện tượng đã nêu ở vế trước để đưa ra kết luận hoặc phán đoán hợp lý.",
+      "context": "Dùng nhiều trong lập luận, thuyết minh khoa học và hội thoại suy luận.",
+      "examples": [
+        { "chinese": "他已经住院好几天了，一直诊断不出是什么问题，可见情况不太好。", "pinyin": "Tā yǐjīng zhùyuàn hǎo jǐ tiān le, yìzhí zhěnduàn bù chū shì shénme wèntí, kějiàn qíngkuàng bú tài hǎo.", "vietnamese": "Anh ấy đã nằm viện mấy ngày rồi mà vẫn chưa chẩn đoán ra bệnh gì, có thể thấy tình hình không mấy khả quan." },
+        { "chinese": "汉语中有个成语叫“自知之明”，把“自知”称为“明”，可见“自知”是一种智慧。", "pinyin": "Hànyǔ zhōng yǒu ge chéngyǔ jiào “zìzhī zhī míng”, bǎ “zìzhī” chēngwéi “míng”, kějiàn “zìzhī” shì yì zhǒng zhìhuì.", "vietnamese": "Trong tiếng Hán có thành ngữ “tự tri chi minh”, gọi “tự biết mình” là “sáng suốt”, chứng tỏ biết rõ bản thân là một loại trí tuệ." },
+        { "chinese": "由此可见，志愿者能够从画作中感知艺术家的用心，哪怕他们不能够解释原因。", "pinyin": "Yóucǐ kějiàn, zhìyuànzhě nénggòu cóng huàzuò zhōng gǎnzhī yìshùjiā de yòngxīn, nǎpà tāmen bù nénggòu jiěshì yuányīn.", "vietnamese": "Từ đó có thể thấy rõ, tình nguyện viên có thể cảm nhận được tâm huyết của nghệ sĩ qua tác phẩm, dù họ không giải thích được lý do." }
+      ],
+      "important_notes": "Dạng trang trọng thường thêm 由此 phía trước: 由此可见 (Từ đó có thể thấy rõ).",
+      "common_errors": "Phân biệt 可见 (suy luận logic chủ quan từ tiền đề) với 所以 (quan hệ nhân-quả trực tiếp).",
+      "comparison": "可见 nhấn mạnh sự suy đoán/chứng tỏ; 因此/所以 nhấn mạnh kết quả tất yếu.",
+      "mini_practice": [
+        { "prompt": "连这么简单的题你都不会，______________________。（可见）", "sample_answer": "可见你平时根本没认真复习", "explanation": "Từ thực tế bài dễ cũng không biết làm, suy ra kết luận với 可见." },
+        { "prompt": "A: 你觉得周末的活动他会参加吗？  B: ______________________。（可见）", "sample_answer": "他连报名表都没填，可见他不打算参加了", "explanation": "Nêu căn cứ trước rồi rút ra phán đoán bằng 可见." },
+        { "prompt": "A: ______________________。（可见）  B: 是啊，我也觉得他很孝敬父母。", "sample_answer": "他不管工作多忙，每周都要回家看望父母，可见他很孝顺", "explanation": "Dẫn hành động thực tế rồi kết luận bằng 可见." }
+      ]
+    }
+  ],
+  "comparison_section": {
+    "label": "词语辨析 Phân biệt từ ngữ",
+    "pair": "目前 — 现在",
+    "term_a": "目前 (mùqián)",
+    "term_b": "现在 (xiànzài)",
+    "similarity": "Đều là danh từ chỉ thời gian, chỉ thời điểm lúc nói, thường có thể thay thế cho nhau. VD: 至少目前/现在可以这么说，没有证据表明黑猩猩或儿童可以这样做。",
+    "differences": [
+      { "criterion": "Phạm vi thời gian & đối chiếu", "a": "Thường thiên về KHOẢNG THỜI GIAN từ trước cho đến hiện tại (到目前为止，事情还没有变化。).", "b": "Có thể chỉ một khoảng thời gian, cũng có thể chỉ MỘT THỜI ĐIỂM CỤ THỂ (我现在就去。), còn có thể nhấn mạnh ĐỐI CHIẾU VỚI TRƯỚC KIA (现在的年轻人，跟我们那时候真不一样！)." },
+      { "criterion": "Kết hợp từ chỉ giờ/thời gian cụ thể", "a": "KHÔNG thể dùng liền với từ chỉ thời gian cụ thể.", "b": "CÓ THỂ dùng liền với từ chỉ thời gian cụ thể (现在是北京时间上午十点钟。)." }
+    ]
+  },
+  "texts": [
+    {
+      "id": "t1", "title_zh": "抽象艺术美不美？（634字）", "title_vi": "Nghệ thuật trừu tượng đẹp hay xấu?",
+      "lines": [
+        { "speaker": "", "chinese": "对有些人来说，抽象艺术没有古典艺术那么容易欣赏，画布上那些不规则的色块、线条，实在看不出有什么意义。抽象派画家的作品中经常见到好像随便洒上颜料而形成的画作，在有人看来极其神秘甚至丑陋，有人却从中感受到对自由、对生命的赞美。", "pinyin": "Duì yǒuxiē rén lái shuō, chōuxiàng yìshù méiyǒu gǔdiǎn yìshù nàme róngyì xīnshǎng, huàbù shang nàxiē bù guīzé de sèkuài, xiàntiáo, shízài kànbuchū yǒu shénme yìyì. Chōuxiàngpài huàjiā de zuòpǐn zhōng jīngcháng jiàndào hǎoxiàng suíbiàn sǎshàng yánliào ér xíngchéng de huàzuò, zài yǒurén kànlái jíqí shénmì shènzhì chǒulòu, yǒurén què cóngzhōng gǎnshòu dào duì zìyóu, duì shēngmìng de zànměi.", "vietnamese": "Đối với một số người, nghệ thuật trừu tượng không dễ thưởng thức như nghệ thuật cổ điển, những mảng màu và đường nét không theo quy tắc trên toan vẽ thực sự chẳng nhìn ra ý nghĩa gì. Trong các tác phẩm của họa sĩ phái trừu tượng thường thấy những bức tranh trông như tùy tiện vẩy màu vẽ lên mà thành; trong mắt có người thì vô cùng huyền bí thậm chí xấu xí, nhưng có người lại từ đó cảm nhận được lời ngợi ca tự do và sự sống." },
+        { "speaker": "", "chinese": "研究者设计了一个有趣的实验。志愿者的任务很简单，每个人会看到两两一组出现的一些图画，每组中一幅出自著名抽象艺术家之手，另一幅是业余爱好者、婴儿、黑猩猩或者大象的涂鸦。志愿者必须判断每一组画作中自己更喜欢哪一幅。", "pinyin": "Yánjiūzhě shèjì le yí ge yǒuqù de shíyàn. Zhìyuànzhě de rènwu hěn jiǎndān, měi ge rén huì kàndào liǎngliǎng yì zǔ chūxiàn de yìxiē túhuà, měi zǔ zhōng yì fú chūzì zhùmíng chōuxiàng yìshùjiā zhī shǒu, lìng yì fú shì yèyú àihàozhě, yīng'ér, hēixīngxing huòzhě dàxiàng de túyā. Zhìyuànzhě bìxū pànduàn měi yì zǔ huàzuò zhōng zìjǐ gèng xǐhuan nǎ yì fú.", "vietnamese": "Các nhà nghiên cứu đã thiết kế một thí nghiệm thú vị. Nhiệm vụ của tình nguyện viên rất đơn giản: mỗi người sẽ xem một số bức tranh xuất hiện theo từng cặp hai bức một nhóm, trong mỗi nhóm một bức do danh họa trừu tượng nổi tiếng sáng tác, bức còn lại là nét vẽ nguệch ngoạc của người chơi nghiệp dư, trẻ sơ sinh, tinh tinh hoặc voi. Tình nguyện viên phải đánh giá xem trong từng cặp tranh mình thích bức nào hơn." },
+        { "speaker": "", "chinese": "其中三分之一的画作作者没有签名，而其余的则标明了身份。令人头疼的是，一些签名被故意弄错了，志愿者无法确认作者到底是谁，所以有可能志愿者认为自己看到的是黑猩猩的随手涂鸦，实际则是著名抽象艺术家的大作。", "pinyin": "Qízhōng sānfēnzhīyī de huàzuò zuòzhě méiyǒu qiānmíng, ér qíyú de zé biāomíng le shēnfèn. Lìng rén tóuténg de shì, yìxiē qiānmíng bèi gùyì nòngcuò le, zhìyuànzhě wúfǎ quèrèn zuòzhě dàodǐ shì shéi, suǒyǐ yǒu kěnéng zhìyuànzhě rènwéi zìjǐ kàndào de shì hēixīngxing de suíshǒu túyā, shíjì zé shì zhùmíng chōuxiàng yìshùjiā de dàzuò.", "vietnamese": "Trong đó một phần ba số bức tranh không có chữ ký tác giả, còn lại đều ghi rõ thân phận. Điều đau đầu là một số chữ ký bị cố tình ghi sai khiến tình nguyện viên không thể xác nhận tác giả rốt cuộc là ai, vì thế rất có thể tình nguyện viên tưởng mình đang nhìn nét vẽ nguệch ngoạc tiện tay của tinh tinh, thực tế lại là kiệt tác của nghệ sĩ trừu tượng danh tiếng." },
+        { "speaker": "", "chinese": "也许有人认为，在这种情况下根本不可能分辨出来。然而在每一次测试中，志愿者普遍更喜欢的作品都是由人类艺术家挥笔完成的。由此可见，志愿者能够从画作中感知艺术家的用心，哪怕他们不能够解释原因。", "pinyin": "Yěxǔ yǒurén rènwéi, zài zhè zhǒng qíngkuàng xià gēnběn bù kěnéng fēnbiàn chūlái. Rán'ér zài měi yí cì cèshì zhōng, zhìyuànzhě pǔbiàn gèng xǐhuan de zuòpǐn dōu shì yóu rénlèi yìshùjiā huībǐ wánchéng de. Yóucǐ kějiàn, zhìyuànzhě nénggòu cóng huàzuò zhōng gǎnzhī yìshùjiā de yòngxīn, nǎpà tāmen bù nénggòu jiěshì yuányīn.", "vietnamese": "Có lẽ có người cho rằng trong tình huống đó căn bản không thể phân biệt nổi. Thế nhưng trong mỗi lần thử nghiệm, tác phẩm mà tình nguyện viên nhìn chung thích hơn đều là tranh do nghệ sĩ con người hạ bút hoàn thành. Từ đó có thể thấy rõ, tình nguyện viên có thể cảm nhận được tâm huyết của người nghệ sĩ qua bức tranh, cho dù họ không thể giải thích nguyên nhân." },
+        { "speaker": "", "chinese": "另一个实验是这样，志愿者同时欣赏原作和画面元素被调整后的画作，包括静物画和抽象画。结果，几乎每个人都更喜欢原作。研究者发现，当看到画上物体位置变化后，大脑中有关含意和解释的区域活跃性下降了。这表明，我们的大脑注意到了原作的布局，并且可以感知其背后的用意，即使我们还没有清楚地感受到这个事实。至少目前可以这么说，没有证据表明黑猩猩或儿童可以这样做。", "pinyin": "Lìng yí ge shíyàn shì zhèyàng, zhìyuànzhě tóngshí xīnshǎng yuánzuò hé huàmiàn yuánsù bèi tiáozhěng hòu de huàzuò, bāokuò jìngwùhuà hé chōuxiànghuà. Jiéguǒ, jīhū měi ge rén dōu gèng xǐhuan yuánzuò. Yánjiūzhě fāxiàn, dāng kàndào huà shang wùtǐ wèizhì biànhuà hòu, dànǎo zhōng yǒuguān hányì hé jiěshì de qūyù huóyuèxìng xiàjiàng le. Zhè biǎomíng, wǒmen de dànǎo zhùyì dào le yuánzuò de bùjú, bìngqiě kěyǐ gǎnzhī qí bèihòu de yòngyì, jíshǐ wǒmen hái méiyǒu qīngchu de gǎnshòu dào zhège shìshí. Zhìshǎo mùqián kěyǐ zhème shuō, méiyǒu zhèngjù biǎomíng hēixīngxing huò értóng kěyǐ zhèyàng zuò.", "vietnamese": "Một thí nghiệm khác diễn ra như sau: tình nguyện viên cùng lúc xem tác phẩm gốc và bức tranh có các yếu tố hình ảnh bị điều chỉnh, gồm cả tranh tĩnh vật lẫn tranh trừu tượng. Kết quả gần như ai cũng thích bản gốc hơn. Nhà nghiên cứu phát hiện khi thấy vị trí vật thể trên tranh bị thay đổi, mức độ hoạt động ở vùng não liên quan đến hàm ý và diễn giải giảm xuống. Điều này chứng tỏ bộ não ta đã chú ý tới bố cục bản gốc và có thể cảm nhận dụng ý đằng sau nó, ngay cả khi ta chưa cảm thấy rõ sự thật này. Ít nhất hiện nay có thể nói chưa có bằng chứng nào cho thấy tinh tinh hay trẻ em có thể làm được điều đó." },
+        { "speaker": "", "chinese": "我们的大脑究竟如何感知抽象艺术，是一个有趣的话题。每个人对抽象艺术可以有不同的解读，这既是挑战，也是自由。", "pinyin": "Wǒmen de dànǎo jiūjìng rúhé gǎnzhī chōuxiàng yìshù, shì yí ge yǒuqù de huàtí. Měi ge rén duì chōuxiàng yìshù kěyǐ yǒu bùtóng de jiědú, zhè jì shì tiǎozhàn, yě shì zìyóu.", "vietnamese": "Bộ não của chúng ta rốt cuộc cảm nhận nghệ thuật trừu tượng như thế nào là một chủ đề thú vị. Mỗi người có thể có cách lý giải khác nhau về nghệ thuật trừu tượng, đó vừa là thử thách, vừa là sự tự do." }
+      ]
+    }
+  ],
+  "reading_questions": [
+    { "question_zh": "在第一个实验中，即使签名被故意弄错了，结果说明了什么？", "question_vi": "Trong thí nghiệm thứ nhất, ngay cả khi chữ ký bị cố tình ghi sai, kết quả đã chứng minh điều gì?", "answer_zh": "志愿者普遍更喜欢的作品都是由人类艺术家挥笔完成的；由此可见，人们能够从画作中感知艺术家的用心，哪怕不能解释原因。", "answer_vi": "Tình nguyện viên nhìn chung vẫn thích các tác phẩm do nghệ sĩ con người vẽ hơn; từ đó chứng tỏ con người có thể cảm nhận được tâm huyết của nghệ sĩ qua bức tranh dù không giải thích được lý do." },
+    { "question_zh": "在第二个实验中，当画上物体位置被调整后，志愿者的大脑发生了什么变化？", "question_vi": "Trong thí nghiệm thứ hai, khi vị trí vật thể trên tranh bị điều chỉnh, đại não tình nguyện viên có thay đổi gì?", "answer_zh": "大脑中有关含意和解释的区域活跃性下降了，这表明我们的大脑注意到了原作的布局，并能感知其背后的用意。", "answer_vi": "Mức độ hoạt động của khu vực não liên quan đến hàm ý và diễn giải giảm xuống, chứng tỏ não bộ chú ý đến bố cục của bản gốc và cảm nhận được dụng ý đằng sau." }
+  ],
+  "exercises": [
+    {
+      "id": "h5s18_ex1", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.167 (Bài tập 1)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ điền vào chỗ trống: “每次晚会他都是主持人，要靠他来______气氛。”",
+      "options": ["活跃", "调整", "规则", "业余"],
+      "answer": "活跃",
+      "explanation": "Cụm kết hợp chuẩn trong bảng 词语搭配 tr.166: 活跃气氛 (khuấy động bầu không khí).",
+      "review_tip": "Nhớ từ loại động từ của 活跃: 活跃气氛 / 活跃市场 / 活跃经济."
+    },
+    {
+      "id": "h5s18_ex2", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.167 (Bài tập 1)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ điền vào chỗ trống: “书房的墙上挂着一______静物画。”",
+      "options": ["幅", "组", "套", "项"],
+      "answer": "幅",
+      "explanation": "Lượng từ chuyên dùng cho tranh vẽ, tác phẩm hội họa là 幅 (一幅画儿 / 一幅静物画).",
+      "review_tip": "Ôn bảng 词语搭配 tr.166: 一幅画儿 / 一幅作品."
+    },
+    {
+      "id": "h5s18_ex3", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.167 (Bài tập 2)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn đáp án đúng: “那个人长得______丑。”",
+      "options": ["非常", "极其", "其余", "随手"],
+      "answer": "非常",
+      "explanation": "极其 CHỈ tu sức cho tính từ song âm tiết hoặc đa âm tiết (như 极其丑陋), không thể đứng trước tính từ đơn âm tiết 丑 → chọn 非常.",
+      "review_tip": "Ôn Chú thích 1 tr.164: quy tắc âm tiết của phó từ 极其."
+    },
+    {
+      "id": "h5s18_ex4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.167 (Bài tập 2)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “可能出门时我______把钥匙放在门口的桌子上了。”",
+      "options": ["随手", "随便", "自由", "业余"],
+      "answer": "随手",
+      "explanation": "随手 diễn tả hành động thuận tay, tiện tay làm (đặt chìa khóa lên bàn khi ra cửa); 随便 mang nghĩa tùy tiện, không câu nệ.",
+      "review_tip": "Phân biệt 随手 (tiện tay: 随手关门/放) và 随便 (tùy ý)."
+    },
+    {
+      "id": "h5s18_ex5", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.167 (词语辨析 做一做)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “______的年轻人，跟我们那时候真不一样！”",
+      "options": ["现在", "目前", "其余", "可见"],
+      "answer": "现在",
+      "explanation": "Khi nhấn mạnh sự đối chiếu với thời kỳ trước đây ('giới trẻ bây giờ khác hẳn hồi chúng tôi ngày xưa'), phải dùng 现在, không dùng 目前.",
+      "review_tip": "Ôn bảng 词语辨析 tr.166–167: 目前—现在."
+    },
+    {
+      "id": "h5s18_ex6", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.167 (Bài tập 3 - Chọn vị trí)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn vị trí thích hợp cho “极其” trong câu: “我 A 对这个人 B 欣赏，我 C 认为他 D 很有才华。”",
+      "options": ["B (我对这个人极其欣赏)", "A (我极其对这个人欣赏)", "C (我极其认为……)", "D (……他极其很有才华)"],
+      "answer": "B (我对这个人极其欣赏)",
+      "explanation": "极其 đứng ngay trước động từ tâm lý 2 âm tiết 欣赏 (và đứng sau cụm giới từ 对这个人) → 我对这个人极其欣赏.",
+      "review_tip": "Ôn vị trí phó từ mức độ khi câu có cụm giới từ 对……."
+    },
+    {
+      "id": "h5s18_ex7", "type": "context_mc", "level": "Vận dụng", "origin_tag": "Sách gốc tr.167 (Bài tập 2)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn cặp lượng từ đúng: “这次展出的一______服装是由七______戏服组成的。”",
+      "options": ["组 / 套", "套 / 组", "幅 / 套", "组 / 幅"],
+      "answer": "组 / 套",
+      "explanation": "一组服装 chỉ cả cụm/nhóm trang phục trưng bày chung; 七套戏服 chỉ 7 bộ trang phục diễn riêng lẻ cấu thành nhóm đó.",
+      "review_tip": "Ôn bảng 词语搭配 tr.166: 一组学生/照片/服装/工具."
+    },
+    {
+      "id": "h5s18_ex8", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Ôn tập Bài 17 (Sách gốc tr.159)", "mistake_category": "Từ vựng",
+      "prompt": "【Ôn tập Bài 17】Chọn đáp án đúng: “我们过多地看电视、玩手机，______了家人之间的交流。”",
+      "options": ["忽视", "轻视", "分辨", "确认"],
+      "answer": "忽视",
+      "explanation": "忽视 nhấn mạnh sự vô tình bỏ quên, không để tâm tới sự giao lưu trong gia đình; không mang sắc thái khinh thường như 轻视.",
+      "review_tip": "Ôn phân biệt 忽视—轻视 (HSK 5 上 Bài 17)."
+    },
+    {
+      "id": "h5s18_ex9", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Ôn tập Bài 17 (Sách gốc tr.159)", "mistake_category": "Ngữ pháp",
+      "prompt": "【Ôn tập Bài 17】Chọn vị trí thích hợp cho “依然” trong câu: “十几年 A 过去了，B 她 C 那么 D 美丽。”",
+      "options": ["C (她依然那么美丽)", "A (十几年依然过去了)", "B (依然她那么美丽)", "D (那么依然美丽)"],
+      "answer": "C (她依然那么美丽)",
+      "explanation": "Phó từ 依然 đứng sau chủ ngữ 她 và trước vị ngữ tính từ 那么美丽.",
+      "review_tip": "Ôn vị trí phó từ 依然 (HSK 5 上 Bài 17)."
+    },
+    {
+      "id": "h5s18_ex10", "type": "context_mc", "level": "Vận dụng", "origin_tag": "Ôn tập Bài 16 (Sách gốc tr.152)", "mistake_category": "Từ vựng",
+      "prompt": "【Ôn tập Bài 16】Chọn đáp án đúng: “调查结果显示，市民对电子阅读的兴趣______提高了。”",
+      "options": ["明显", "清楚", "极其", "随手"],
+      "answer": "明显",
+      "explanation": "明显 làm trạng ngữ trước động từ biểu thị mức độ thay đổi rõ rệt (明显提高 — tăng lên rõ rệt); 清楚 không kết hợp kiểu '清楚提高了'.",
+      "review_tip": "Ôn Bài tập 2 Bài 16: 明显提高."
+    }
+  ]
+}

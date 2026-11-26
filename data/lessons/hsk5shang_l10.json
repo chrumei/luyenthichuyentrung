@@ -1,0 +1,448 @@
+{
+  "id": "hsk5shang_l10",
+  "book_id": "hsk5shang",
+  "textbook": "HSK 5 上",
+  "lesson_number": 10,
+  "title_zh": "争论的奇迹",
+  "title_vi": "Kỳ tích của cuộc tranh luận",
+  "pdf_pages": "Trang sách 92–99 (Giáo Trình Chuẩn HSK5 Tập 1.pdf)",
+  "source_status": "verified_textbook",
+  "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"],
+  "vocabulary": [
+    {
+      "id": "hsk5s_l10_w01", "order": 1, "textbook": "HSK 5 上", "lesson": 10,
+      "hanzi": "争论", "pinyin": "zhēnglùn",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "tranh luận, tranh cãi", "structure": "争论得脸红脖子粗 / 为之争论 / 激烈争论", "explanation": "Mỗi bên giữ ý kiến riêng, tranh cãi qua lại để tìm ra đúng sai.", "examples": [{ "chinese": "两人各执一词，争论得脸红脖子粗，谁也说服不了谁。", "pinyin": "Liǎngrén gèzhí-yìcí, zhēnglùn de liǎnhóng-bózicū, shéi yě shuōfú bùliǎo shéi.", "vietnamese": "Hai người ai nấy giữ khư khư lý lẽ của mình, tranh luận đến đỏ mặt tía tai, không ai thuyết phục nổi ai.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["cuộc tranh luận"], "structure": "一场争论 / 争论的奇迹 / 引起争论", "difference_note": "Làm danh từ có lượng từ 场 (一场争论 – bảng 词语搭配 tr.96).", "examples": [{ "chinese": "这个问题在会上引起了一场激烈的争论。", "pinyin": "Zhège wèntí zài huì shang yǐnqǐ le yì chǎng jīliè de zhēnglùn.", "vietnamese": "Vấn đề này đã dấy lên một cuộc tranh luận gay gắt tại cuộc họp." }] }
+      ],
+      "chinese_explanation": "各执己见，互相辩论。", "collocations": ["一场争论", "激烈争论", "争论不休"], "usage_note": "Phân biệt với 辩论 (có tính tổ chức, quy tắc hơn, như '辩论赛' – Bài tập 2 câu 1 tr.97: không nói '争论赛'!).", "common_errors": "Sai: '争论赛' → Đúng: '辩论赛'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l10_w02", "order": 2, "textbook": "HSK 5 上", "lesson": 10,
+      "hanzi": "奇迹", "pinyin": "qíjì",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "kỳ tích, điều kỳ diệu", "structure": "创造奇迹 / “奇迹”出现了 / 世界奇迹", "explanation": "Sự việc phi thường, khó tin nằm ngoài sức tưởng tượng thông thường.", "examples": [{ "chinese": "事后，有人无意识地快速拉动那一长串相片，“奇迹”出现了。", "pinyin": "Shìhòu, yǒurén wúyìshí de kuàisù lādòng nà yì cháng chuàn xiàngpiàn, “qíjì” chūxiàn le.", "vietnamese": "Sau đó, có người vô tình kéo thật nhanh dải ảnh dài ấy, “kỳ tích” đã xuất hiện.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "想象不到的不平凡的事情。", "collocations": ["创造奇迹", "出现奇迹", "世界奇迹"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l10_w03", "order": 3, "textbook": "HSK 5 上", "lesson": 10,
+      "hanzi": "围绕", "pinyin": "wéirào",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "xoay quanh (chủ đề, trọng tâm)", "structure": "围绕 + Chủ đề/重点 + 进行辩论/讨论", "explanation": "Nghĩa trong bài: lấy một vấn đề, đề tài nào đó làm trung tâm để bàn bạc, nghiên cứu.", "examples": [{ "chinese": "斯坦福与科恩围绕“马奔跑时蹄子是否着地”进行了辩论。", "pinyin": "Sītǎnfú yǔ Kē'ēn wéirào “mǎ bēnpǎo shí tízi shìfǒu zháodì” jìnxíng le biànlùn.", "vietnamese": "Stanford và Cohen đã tiến hành tranh luận xoay quanh câu hỏi “khi ngựa phi nước đại móng guốc có chạm đất không”.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Nghĩa không gian vật lý)", "meanings": ["vây quanh, quay xung quanh"], "structure": "围绕太阳转 / 群山围绕", "difference_note": "Xuất hiện trong Bài tập 1 câu 2 tr.97 ('地球为什么会围绕太阳转').", "examples": [{ "chinese": "地球为什么会围绕太阳转，一直是科学家们很感兴趣的问题。", "pinyin": "Dìqiú wèishénme huì wéirào tàiyáng zhuàn, yìzhí shì kēxuéjiā men hěn gǎn xìngqù de wèntí.", "vietnamese": "Vì sao Trái Đất quay quanh Mặt Trời luôn là vấn đề khiến các nhà khoa học rất hứng thú." }] }
+      ],
+      "chinese_explanation": "以某个问题或事情为中心；环绕。", "collocations": ["围绕重点进行讨论", "围绕主题", "围绕太阳转"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l10_w04", "order": 4, "textbook": "HSK 5 上", "lesson": 10, "is_out_of_syllabus": true,
+      "hanzi": "奔跑", "pinyin": "bēnpǎo",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "chạy nhanh, phi nước đại", "structure": "马奔跑 / 快速奔跑", "explanation": "Chạy rất nhanh, sải bước dài (thường dùng trong văn viết, miêu tả sinh động).", "examples": [{ "chinese": "斯坦福认为，马奔跑得那么快，在跳起时四蹄应该都是不落地的。", "pinyin": "Sītǎnfú rènwéi, mǎ bēnpǎo de nàme kuài, zài tiàoqǐ shí sìtí yīnggāi dōu shì bú luòdì de.", "vietnamese": "Stanford cho rằng ngựa chạy nhanh như thế, lúc bật nhảy cả bốn vó hẳn đều không chạm đất.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "很快地跑。", "collocations": ["自由奔跑", "飞快奔跑"], "usage_note": "Chữ 奔 đọc thanh 1 (bēn – chạy nhanh), khác với bèn (hướng thẳng tới).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l10_w05", "order": 5, "textbook": "HSK 5 上", "lesson": 10, "is_out_of_syllabus": true,
+      "hanzi": "蹄（子）", "pinyin": "tí (zi)",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "móng guốc, vó (ngựa, trâu, bò...)", "structure": "马蹄 / 四蹄 / 一蹄着地", "explanation": "Phần móng cứng dưới chân loài động vật có guốc như ngựa, bò, dê, heo.", "examples": [{ "chinese": "斯坦福与科恩围绕“马奔跑时蹄子是否着地”进行了辩论。", "pinyin": "Sītǎnfú yǔ Kē'ēn wéirào “mǎ bēnpǎo shí tízi shìfǒu zháodì” jìnxíng le biànlùn.", "vietnamese": "Stanford và Cohen tranh luận xoay quanh việc “khi ngựa chạy móng guốc có chạm đất không”.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "马、牛、羊、猪等动物脚趾端坚硬的角质部分。", "collocations": ["马蹄", "四蹄不落地"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l10_w06", "order": 6, "textbook": "HSK 5 上", "lesson": 10,
+      "hanzi": "辩论", "pinyin": "biànlùn",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "biện luận, tranh luận (có lý lẽ chặt chẽ)", "structure": "进行辩论 / 展开辩论", "explanation": "Trình bày lý lẽ để bảo vệ quan điểm của mình và bác bỏ ý kiến đối lập (trang trọng, mang tính học thuật hoặc thi đấu hơn 争论).", "examples": [{ "chinese": "斯坦福与科恩围绕“马奔跑时蹄子是否着地”进行了辩论。", "pinyin": "Sītǎnfú yǔ Kē'ēn wéirào “mǎ bēnpǎo shí tízi shìfǒu zháodì” jìnxíng le biànlùn.", "vietnamese": "Stanford và Cohen đã tiến hành cuộc tranh biện xoay quanh việc ngựa chạy có chạm vó xuống đất không.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["cuộc tranh biện, giải đấu tranh biện"], "structure": "辩论赛 / 一场辩论 / 辩论会", "difference_note": "Kết hợp với 赛 tạo thành '辩论赛' (cuộc thi tranh biện – Bài tập 2 câu 1 tr.97).", "examples": [{ "chinese": "在昨天举行的辩论赛上，他的表现得到了大家的好评。", "pinyin": "Zài zuótiān jǔxíng de biànlùnsài shang, tā de biǎoxiàn dédào le dàjiā de hǎopíng.", "vietnamese": "Tại cuộc thi tranh biện tổ chức hôm qua, màn thể hiện của anh ấy được mọi người đánh giá cao." }] }
+      ],
+      "chinese_explanation": "彼此用一定的理由来说明自己对事物或问题的见解，揭露对方的矛盾。", "collocations": ["进行辩论", "一场辩论", "辩论赛"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l10_w07", "order": 7, "textbook": "HSK 5 上", "lesson": 10, "is_out_of_syllabus": true,
+      "hanzi": "青蛙", "pinyin": "qīngwā",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "ếch, nhái", "structure": "一只青蛙 / 成了青蛙", "explanation": "Loài động vật lưỡng cư biết nhảy, sống ở ruộng ao.", "examples": [{ "chinese": "而科恩认为，马要是四蹄都不着地，那不是成了青蛙啦？", "pinyin": "Ér Kē'ēn rènwéi, mǎ yàoshi sìtí dōu bù zháodì, nà bú shì chéng le qīngwā la?", "vietnamese": "Còn Cohen cho rằng, nếu ngựa cả bốn vó đều không chạm đất thì chẳng phải biến thành con ếch rồi sao?", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "一种常见的两栖动物，善于跳跃和游泳。", "collocations": ["一只青蛙", "井底之蛙"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l10_w08", "order": 8, "textbook": "HSK 5 上", "lesson": 10,
+      "hanzi": "啦", "pinyin": "la",
+      "lesson_usage": { "part_of_speech": "助词 (Trợ từ ngữ khí)", "meaning": "(là hợp âm của “了(le)” và “啊(a)”, biểu thị sự cảm thán, sự chất vấn...) đấy, à, nhé, rồi đấy", "structure": "……啦！ / ……啦？", "explanation": "Đặt ở cuối câu (hoặc cuối phân câu liệt kê) làm nhẹ ngữ khí, biểu thị sự thay đổi kèm cảm thán, chất vấn hay thân mật.", "examples": [{ "chinese": "马要是四蹄都不着地，那不是成了青蛙啦？", "pinyin": "Mǎ yàoshi sìtí dōu bù zháodì, nà bú shì chéng le qīngwā la?", "vietnamese": "Ngựa mà cả bốn vó không chạm đất thì chẳng hóa thành con ếch rồi sao?", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "语气助词，“了”和“啊”的合音，表示感叹、反问或列举等语气。", "collocations": ["太好啦", "我都十八岁啦", "没事啦"], "usage_note": "Trong Bài tập 3 câu 1 tr.98: '我都十八岁啦，能照顾好自己，您就放心吧。' (đặt cuối phân câu khẳng định sự thay đổi tuổi tác).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l10_w09", "order": 9, "textbook": "HSK 5 上", "lesson": 10,
+      "hanzi": "始终", "pinyin": "shǐzhōng",
+      "lesson_usage": { "part_of_speech": "副词 (Phó từ)", "meaning": "từ đầu đến cuối, luôn luôn", "structure": "始终 + 坚持 / 保持 / 有一蹄着地 / 没办法", "explanation": "Chỉ trạng thái hoặc hành động kéo dài xuyên suốt từ lúc bắt đầu (始) đến lúc kết thúc (终), không hề thay đổi.", "examples": [{ "chinese": "应该是始终有一蹄着地。", "pinyin": "Yīnggāi shì shǐzhōng yǒu yì tí zháodì.", "vietnamese": "Đáng lẽ phải luôn có một vó chạm đất từ đầu đến cuối.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "从开始到最后，一直。", "collocations": ["始终坚持", "始终保持", "始终如一"], "usage_note": "Phân biệt với 终于 (cuối cùng cũng đạt kết quả sau quá trình lâu dài): Bài tập 2 câu 2 tr.97 '毕业二十年以来，我们始终保持着联系' → duy trì suốt 20 năm nên dùng 始终!", "common_errors": "Nhầm 始终 (xuyên suốt) với 终于 (kết cục cuối cùng).", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l10_w10", "order": 10, "textbook": "HSK 5 上", "lesson": 10,
+      "hanzi": "脖子", "pinyin": "bózi",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "(cái) cổ", "structure": "脸红脖子粗 / 脖子疼", "explanation": "Bộ phận nối đầu với thân người hoặc động vật.", "examples": [{ "chinese": "两人各执一词，争论得脸红脖子粗，谁也说服不了谁。", "pinyin": "Liǎngrén gèzhí-yìcí, zhēnglùn de liǎnhóng-bózicū, shéi yě shuōfú bùliǎo shéi.", "vietnamese": "Hai người mỗi người một lý, tranh luận đến đỏ mặt tía tai, chẳng ai thuyết phục được ai.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "头和躯干相连接的部分，颈部。", "collocations": ["脸红脖子粗", "脖子疼", "围在脖子上"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l10_w11", "order": 11, "textbook": "HSK 5 上", "lesson": 10,
+      "hanzi": "说服", "pinyin": "shuōfú",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "thuyết phục", "structure": "说服 + 某人 (+ 做某事) / 说服不了", "explanation": "Dùng lời lẽ, đạo lý khiến người khác đồng ý hoặc làm theo ý kiến của mình.", "examples": [{ "chinese": "谁也说服不了谁。", "pinyin": "Shéi yě shuōfú bùliǎo shéi.", "vietnamese": "Không ai thuyết phục nổi ai.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "用理由充分的话使对方心服口服。", "collocations": ["说服别人", "说服不了", "有说服力"], "usage_note": "Âm chuẩn hiện đại trong giáo trình HSK là shuōfú (không đọc shuìfú trong đề thi phổ thông).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l10_w12", "order": 12, "textbook": "HSK 5 上", "lesson": 10,
+      "hanzi": "摄影师", "pinyin": "shèyǐngshī",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "nhà nhiếp ảnh, nhiếp ảnh gia", "structure": "英国摄影师 / 一位摄影师", "explanation": "Người làm nghề chuyên chụp ảnh hoặc quay phim nghệ thuật.", "examples": [{ "chinese": "于是他们就请英国摄影师麦布里奇来判断，可麦布里奇也弄不清楚。", "pinyin": "Yúshì tāmen jiù qǐng Yīngguó shèyǐngshī Màibùlǐqí lái pànduàn, kě Màibùlǐqí yě nòngbùqīngchu.", "vietnamese": "Thế là họ mời nhiếp ảnh gia người Anh Eadweard Muybridge tới phán đoán, nhưng Muybridge cũng không nhìn rõ được.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "专门从事摄影工作的专业人员。", "collocations": ["著名摄影师", "职业摄影师"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l10_w13", "order": 13, "textbook": "HSK 5 上", "lesson": 10,
+      "hanzi": "毕竟", "pinyin": "bìjìng",
+      "lesson_usage": { "part_of_speech": "副词 (Phó từ)", "meaning": "rốt cuộc, cuối cùng, suy cho cùng", "structure": "(1) S + 毕竟 + V/是……  |  (2) 毕竟 + Lý do/Thực tế cốt lõi", "explanation": "Chú thích 1 tr.94–95: (1) rốt cuộc, cuối cùng cũng (到底、终于); (2) nhấn mạnh sự thật/nguyên nhân cốt lõi nhất để giải thích cho kết luận.", "examples": [{ "chinese": "不过摄影师毕竟是摄影师，主意还是有的。", "pinyin": "Búguò shèyǐngshī bìjìng shì shèyǐngshī, zhǔyi háishi yǒu de.", "vietnamese": "Tuy nhiên nhiếp ảnh gia suy cho cùng vẫn là nhiếp ảnh gia, ý tưởng thì vẫn có.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "副词，追根究底所得的结论，相当于“到底、终究”。", "collocations": ["毕竟是", "毕竟完成了任务", "毕竟还小"], "usage_note": "Có thể đặt trước hoặc sau chủ ngữ ('毕竟是秋天了' – Bài tập 3 câu 2 tr.98!).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l10_w14", "order": 14, "textbook": "HSK 5 上", "lesson": 10,
+      "hanzi": "操场", "pinyin": "cāochǎng",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "sân thể thao, sân vận động, bãi tập", "structure": "来到一个操场 / 学校操场 / 在操场上跑步", "explanation": "Khoảng sân rộng dùng cho thể dục thể thao, chạy bộ hoặc tập luyện.", "examples": [{ "chinese": "他们一起来到一个操场，在一条跑道的一边等距离放上24个照相机。", "pinyin": "Tāmen yìqǐ láidào yí ge cāochǎng, zài yì tiáo pǎodào de yìbiān děng jùlí fàngshàng èrshísì ge zhàoxiàngjī.", "vietnamese": "Họ cùng nhau tới một sân tập, dọc một bên đường chạy đặt cách đều nhau 24 chiếc máy ảnh.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "供体育锻炼和操练用的大场地。", "collocations": ["学校操场", "大操场", "去操场跑步"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l10_w15", "order": 15, "textbook": "HSK 5 上", "lesson": 10,
+      "hanzi": "洞", "pinyin": "dòng",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "hốc, lỗ, hang động", "structure": "打24个洞 / 山洞 / 破洞", "explanation": "Lỗ thủng, hố khoét trên mặt đất, tường, vải vóc hoặc hang sâu trong núi.", "examples": [{ "chinese": "在跑道另一边打24个洞，分别插进24根木棍。", "pinyin": "Zài pǎodào lìng yìbiān dǎ èrshísì ge dòng, fēnbié chājìn èrshísì gēn mùgùn.", "vietnamese": "Ở phía bên kia đường chạy đào 24 cái lỗ, lần lượt cắm vào 24 cây gậy gỗ.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "窟窿、孔穴、深穴。", "collocations": ["打洞", "山洞", "黑洞"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l10_w16", "order": 16, "textbook": "HSK 5 上", "lesson": 10,
+      "hanzi": "插", "pinyin": "chā",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "cắm (vào), gài (vào)", "structure": "插进(去) / 插到…… / 插在…… / 插花", "explanation": "Đâm, cắm vật thon dài vào khe hở hoặc lỗ.", "examples": [{ "chinese": "在跑道另一边打24个洞，分别插进24根木棍。", "pinyin": "Zài pǎodào lìng yìbiān dǎ èrshísì ge dòng, fēnbié chājìn èrshísì gēn mùgùn.", "vietnamese": "Bên kia đường chạy đào 24 cái lỗ, lần lượt cắm vào 24 chiếc gậy gỗ.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Nghĩa bóng: xen vào, nhúng tay)", "meanings": ["xen ngang, nhúng tay vào, chen hàng"], "structure": "插手 / 插了一手 / 插嘴 / 插队", "difference_note": "Xuất hiện trong Bài tập 1 câu 3 tr.97 ('如果不是他在中间插了一手，事情不会变成现在这样').", "examples": [{ "chinese": "如果不是他在中间插了一手，事情不会变成现在这样。", "pinyin": "Rúguǒ bú shì tā zài zhōngjiān chā le yì shǒu, shìqing bú huì biànchéng xiànzài zhèyàng.", "vietnamese": "Nếu không phải anh ta nhúng tay xen vào giữa chừng thì sự việc đã không ra nông nỗi này." }] }
+      ],
+      "chinese_explanation": "扎进去、放进去；加入、介入。", "collocations": ["插进", "插花", "插队", "插手", "插嘴"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l10_w17", "order": 17, "textbook": "HSK 5 上", "lesson": 10, "is_out_of_syllabus": true,
+      "hanzi": "棍", "pinyin": "gùn",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "gậy, que", "structure": "一根木棍 / 棍子", "explanation": "Thanh gỗ hoặc kim loại thuôn dài (hay ghép thành 木棍, 棍子).", "examples": [{ "chinese": "分别插进24根木棍，木棍上系着细线。", "pinyin": "Fēnbié chājìn èrshísì gēn mùgùn, mùgùn shang jìzhe xìxiàn.", "vietnamese": "Lần lượt cắm vào 24 cây gậy gỗ, trên gậy gỗ có buộc sợi dây mảnh.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "棒子、长条形的木棒或金属棒。", "collocations": ["木棍", "棍子", "冰棍"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l10_w18", "order": 18, "textbook": "HSK 5 上", "lesson": 10,
+      "hanzi": "系", "pinyin": "jì",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "cột, buộc, thắt (dây, cà vạt, khăn quàng, dây an toàn)", "structure": "系着细线 / 系领带 / 系围巾 / 系鞋带 / 系安全带", "explanation": "Buộc, thắt nút dây hoặc phụ kiện lên vật thể hay cơ thể.", "examples": [{ "chinese": "木棍上系着细线，细线穿过跑道，接上相机快门。", "pinyin": "Mùgùn shang jìzhe xìxiàn, xìxiàn chuānguò pǎodào, jiēshàng xiàngjī kuàimén.", "vietnamese": "Trên gậy gỗ buộc sợi dây mảnh, sợi dây kéo ngang qua đường chạy rồi nối với nút chụp máy ảnh.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 / 动词 (đọc xì – chữ đa âm)", "meanings": ["khoa (trong đại học); hệ thống; liên quan đến"], "structure": "中文系 / 关系 / 联系 / 系统", "difference_note": "Đọc xì khi là danh từ chỉ khoa/hệ thống hoặc trong các từ ghép 关系, 联系; còn động từ 'thắt, buộc' PHẢI đọc jì!", "examples": [{ "chinese": "我是北京大学中文系的学生。", "pinyin": "Wǒ shì Běijīng Dàxué Zhōngwénxì de xuésheng.", "vietnamese": "Tôi là sinh viên khoa Ngữ văn Trung Quốc Đại học Bắc Kinh." }] }
+      ],
+      "chinese_explanation": "打结、扣（读 jì）；另读 xì，指大学里的学科单位或系统、关联。", "collocations": ["系鞋带", "系领带", "系围巾", "系安全带"], "usage_note": "Chữ đa âm cực hay thi: jì (buộc, thắt) vs xì (khoa, quan hệ)!", "common_errors": "Đọc nhầm '系领带' thành xì lǐngdài (phải đọc jì lǐngdài).", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l10_w19", "order": 19, "textbook": "HSK 5 上", "lesson": 10,
+      "hanzi": "匹", "pinyin": "pǐ",
+      "lesson_usage": { "part_of_speech": "量词 (Lượng từ)", "meaning": "(được dùng cho ngựa) con", "structure": "一匹马 / 这匹白马", "explanation": "Lượng từ chuyên dùng cho ngựa, la, lừa.", "examples": [{ "chinese": "麦布里奇让一匹马从跑道的一头飞奔到另一头。", "pinyin": "Màibùlǐqí ràng yì pǐ mǎ cóng pǎodào de yìtóu fēibēn dào lìng yìtóu.", "vietnamese": "Muybridge cho một con ngựa phi như bay từ đầu này sang đầu kia đường chạy.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "量词 (Lượng từ cho vải vóc)", "meanings": ["tấm, cuộn (vải, lụa)"], "structure": "一匹布 / 一匹丝绸", "difference_note": "Cũng dùng làm lượng từ cho vải nguyên cuộn.", "examples": [{ "chinese": "奶奶买了两匹上好的丝绸。", "pinyin": "Nǎinai mǎi le liǎng pǐ shànghǎo de sīchóu.", "vietnamese": "Bà nội mua hai tấm lụa thượng hạng." }] }
+      ],
+      "chinese_explanation": "量词，用于马、骡等牲畜，也用于整卷的布匹。", "collocations": ["一匹马", "一匹布", "黑马"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l10_w20", "order": 20, "textbook": "HSK 5 上", "lesson": 10,
+      "hanzi": "拦", "pinyin": "lán",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "chặn, cản", "structure": "拦路 / 拦住 / 拦在…… / 拦出租车", "explanation": "Ngăn cản không cho đi qua hoặc vẫy dừng xe.", "examples": [{ "chinese": "马一边跑，一边按顺序撞断拦路的24根细线。", "pinyin": "Mǎ yìbiān pǎo, yìbiān àn shùnxù zhuàngduàn lánlù de èrshísì gēn xìxiàn.", "vietnamese": "Con ngựa vừa chạy vừa lần lượt đâm đứt 24 sợi dây mảnh chắn ngang đường.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "阻挡、遮挡，不让通过。", "collocations": ["拦住", "拦路", "拦出租车"], "usage_note": "Thường đi với bổ ngữ kết quả 住 (路被拦住了 – Bài tập 1 câu 6 tr.97).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l10_w21", "order": 21, "textbook": "HSK 5 上", "lesson": 10,
+      "hanzi": "拍", "pinyin": "pāi",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "quay (phim), chụp (ảnh)", "structure": "拍相片 / 拍照片 / 拍电影 / 拍下", "explanation": "Dùng máy ảnh, máy quay ghi lại hình ảnh, thước phim.", "examples": [{ "chinese": "相机连续拍下了24张相片。", "pinyin": "Xiàngjī liánxù pāixià le èrshísì zhāng xiàngpiàn.", "vietnamese": "Máy ảnh liên tiếp chụp được 24 tấm ảnh.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Nghĩa gốc: vỗ, đập bằng lòng bàn tay)", "meanings": ["vỗ, đập nhẹ"], "structure": "拍手 / 拍桌子 / 拍肩膀 / 拍球", "difference_note": "Xuất hiện ngay trong bảng 词语搭配 tr.96: 拍 + 手/桌子/照片/电影.", "examples": [{ "chinese": "演出非常精彩，观众们高兴地拍起了手。", "pinyin": "Yǎnchū fēicháng jīngcǎi, guānzhòng men gāoxìng de pāiqǐ le shǒu.", "vietnamese": "Buổi biểu diễn vô cùng đặc sắc, khán giả vui mừng vỗ tay." }] }
+      ],
+      "chinese_explanation": "摄影、录制影片；用手掌轻打。", "collocations": ["拍照片", "拍电影", "拍手", "拍桌子"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l10_w22", "order": 22, "textbook": "HSK 5 上", "lesson": 10,
+      "hanzi": "差距", "pinyin": "chājù",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "sự chênh lệch, sự khác nhau, khoảng cách (về trình độ, mức độ)", "structure": "差距很小 / 有很大的差距 / 缩小差距", "explanation": "Độ chênh lệch giữa hai sự vật, con người về năng lực, trình độ, chất lượng, hình thái...", "examples": [{ "chinese": "相邻两张相片的差距都很小。", "pinyin": "Xiānglín liǎng zhāng xiàngpiàn de chājù dōu hěn xiǎo.", "vietnamese": "Sự chênh lệch giữa hai bức ảnh liền kề nhau đều rất nhỏ.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "事物之间在程度、水平等方面的差别。", "collocations": ["差距很大", "缩小差距", "贫富差距"], "usage_note": "Phân biệt với 距离 (khoảng cách địa lý, thời gian hoặc tâm lý): so sánh trình độ, năng lực ('我们之间还有很大的差距，我要向他学习' – Bài tập 2 câu 3 tr.98) PHẢI dùng 差距!", "common_errors": "Dùng nhầm 距离 thay cho 差距 khi nói chênh lệch trình độ.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l10_w23", "order": 23, "textbook": "HSK 5 上", "lesson": 10,
+      "hanzi": "显示", "pinyin": "xiǎnshì",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "thể hiện, cho thấy, hiển thị", "structure": "相片/调查显示：…… / 显示出 + Danh từ (才能/实力)", "explanation": "Cho thấy rõ ràng một tình huống, thái độ, năng lực hay số liệu (thường đi với DANH TỪ hoặc MỆNH ĐỀ).", "examples": [{ "chinese": "相片显示：马奔跑时始终有一蹄着地，科恩赢了。", "pinyin": "Xiàngpiàn xiǎnshì: mǎ bēnpǎo shí shǐzhōng yǒu yì tí zháodì, Kē'ēn yíng le.", "vietnamese": "Các bức ảnh cho thấy: khi ngựa phi luôn có một vó chạm đất, Cohen đã thắng.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "明显地表现出来（多接名词或小句）。", "collocations": ["调查显示", "显示出才能", "显示屏"], "usage_note": "Xem bảng 词语辨析: 显示—显得 tr.96–97 (显示 đi với danh từ/mệnh đề; 显得 đi với tính từ!).", "common_errors": "Sai: '他总是显示不太高兴' → Phải dùng '显得'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l10_w24", "order": 24, "textbook": "HSK 5 上", "lesson": 10, "is_out_of_syllabus": true,
+      "hanzi": "意识", "pinyin": "yìshi",
+      "lesson_usage": { "part_of_speech": "名词 / 动词 (Danh từ / Động từ)", "meanings": ["1. (Danh từ) ý thức", "2. (Động từ) nhận thức rõ, ý thức được"], "meaning": "ý thức; nhận thức rõ", "structure": "(dt) 无意识地 / 环保意识 / 安全意识; (đgt) 意识到 + Vấn đề/Sai lầm", "explanation": "Sự nhận biết của trí óc đối với sự vật khách quan và hành vi của bản thân.", "examples": [
+        { "chinese": "事后，有人无意识地快速拉动那一长串相片，“奇迹”出现了。", "pinyin": "Shìhòu, yǒurén wúyìshí de kuàisù lādòng nà yì cháng chuàn xiàngpiàn, “qíjì” chūxiàn le.", "vietnamese": "Sau đó, có người vô tình kéo nhanh dải ảnh dài ấy, “kỳ tích” đã xuất hiện.", "from_text": true },
+        { "chinese": "他终于意识到了自己的错误。", "pinyin": "Tā zhōngyú yìshidào le zìjǐ de cuòwù.", "vietnamese": "Cuối cùng anh ấy cũng nhận thức rõ sai lầm của bản thân." }
+      ] },
+      "additional_usages": [], "chinese_explanation": "人的头脑对客观物质世界的反映；觉察到。", "collocations": ["无意识地", "意识到", "环保意识", "安全意识"], "usage_note": "Chữ 识 đọc thanh nhẹ: yìshi.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l10_w25", "order": 25, "textbook": "HSK 5 上", "lesson": 10,
+      "hanzi": "艰苦", "pinyin": "jiānkǔ",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "gian khổ, khó khăn vất vả", "structure": "艰苦的试验 / 艰苦(的)条件/生活 / 艰苦奋斗", "explanation": "Vô cùng gian nan, vất vả, thiếu thốn về điều kiện hay quá trình thực hiện.", "examples": [{ "chinese": "经过艰苦的试验，电影拍摄技术逐渐改进、成熟。", "pinyin": "Jīngguò jiānkǔ de shìyàn, diànyǐng pāishè jìshù zhújiàn gǎijìn, chéngshú.", "vietnamese": "Trải qua những thử nghiệm gian khổ, kỹ thuật quay phim dần dần được cải tiến và hoàn thiện.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "艰难困苦。", "collocations": ["艰苦的条件", "艰苦的生活", "艰苦奋斗"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l10_w26", "order": 26, "textbook": "HSK 5 上", "lesson": 10, "is_out_of_syllabus": true,
+      "hanzi": "试验", "pinyin": "shìyàn",
+      "lesson_usage": { "part_of_speech": "名词 / 动词 (Danh từ / Động từ)", "meanings": ["1. (Danh từ) cuộc thử nghiệm, sự thử nghiệm", "2. (Động từ) thử nghiệm, chạy thử"], "meaning": "sự thử nghiệm; thử nghiệm", "structure": "经过艰苦的试验 / 做试验 / 试验新方法", "explanation": "Tiến hành làm thử để xem hiệu quả hay khả năng hoạt động của sản phẩm, kỹ thuật, phương pháp mới.", "examples": [{ "chinese": "经过艰苦的试验，电影拍摄技术逐渐改进、成熟。", "pinyin": "Jīngguò jiānkǔ de shìyàn, diànyǐng pāishè jìshù zhújiàn gǎijìn, chéngshú.", "vietnamese": "Trải qua các cuộc thử nghiệm gian khổ, kỹ thuật quay phim dần cải tiến và chín muồi.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "为了察看某事的结果或某物的性能而从事某种活动。", "collocations": ["做试验", "试验成功", "试验阶段"], "usage_note": "Phân biệt: 试验 (thử nghiệm xem cái mới có chạy/hiệu quả không) vs 实验 (thí nghiệm khoa học để kiểm chứng giả thuyết/lý thuyết).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l10_w27", "order": 27, "textbook": "HSK 5 上", "lesson": 10,
+      "hanzi": "逐渐", "pinyin": "zhújiàn",
+      "lesson_usage": { "part_of_speech": "副词 (Phó từ)", "meaning": "dần dần, từng bước một", "structure": "逐渐 + V/Adj (改进 / 成熟 / 习惯 / 流行 / 限制)", "explanation": "Biểu thị mức độ hay số lượng tăng lên hoặc giảm đi từng chút một theo thời gian (thiên về văn viết hơn 慢慢).", "examples": [{ "chinese": "经过艰苦的试验，电影拍摄技术逐渐改进、成熟。", "pinyin": "Jīngguò jiānkǔ de shìyàn, diànyǐng pāishè jìshù zhújiàn gǎijìn, chéngshú.", "vietnamese": "Trải qua quá trình thử nghiệm gian khổ, kỹ thuật quay phim dần dần được cải tiến và hoàn thiện.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "渐渐，程度或数量一点点增加或减少。", "collocations": ["逐渐改进", "逐渐成熟", "逐渐习惯", "逐渐减少"], "usage_note": "Xem Chú thích 2 tr.95; chỉ làm trạng ngữ trước động từ/tính từ, không đứng một mình.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l10_w28", "order": 28, "textbook": "HSK 5 上", "lesson": 10,
+      "hanzi": "改进", "pinyin": "gǎijìn",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "cải thiện, cải tiến", "structure": "改进 + 技术 / 工作 / 方法 / 态度", "explanation": "Sửa đổi cái cũ cho tốt hơn, tiến bộ hơn, hiệu quả hơn.", "examples": [{ "chinese": "经过艰苦的试验，电影拍摄技术逐渐改进、成熟。", "pinyin": "Jīngguò jiānkǔ de shìyàn, diànyǐng pāishè jìshù zhújiàn gǎijìn, chéngshú.", "vietnamese": "Trải qua những thử nghiệm gian khổ, kỹ thuật quay phim dần dần được cải tiến và hoàn thiện.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "改变旧有情况，使有所进步。", "collocations": ["改进工作", "改进方法", "改进态度", "改进技术"], "usage_note": "Phân biệt: 改进 đi với kỹ thuật, phương pháp, công việc, thái độ (tr.96); 改善 đi với đời sống, điều kiện, quan hệ, môi trường (改善生活/环境/关系).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l10_w29", "order": 29, "textbook": "HSK 5 上", "lesson": 10,
+      "hanzi": "成熟", "pinyin": "chéngshú",
+      "lesson_usage": { "part_of_speech": "动词 / 形容词 (Động từ / Tính từ)", "meanings": ["1. (Động từ / Tính từ) chín muồi, hoàn thiện (kỹ thuật, kinh nghiệm, điều kiện)", "2. (Tính từ) trưởng thành (con người); chín (trái cây)"], "meaning": "chín muồi; hoàn thiện; trưởng thành", "structure": "逐渐成熟 / 成熟的瓜果/人/经验/看法/条件", "explanation": "Phát triển đến giai đoạn hoàn bị, vững vàng (hoặc hoa quả chín tới, con người chững chạc).", "examples": [{ "chinese": "电影拍摄技术逐渐改进、成熟。", "pinyin": "Diànyǐng pāishè jìshù zhújiàn gǎijìn, chéngshú.", "vietnamese": "Kỹ thuật quay phim dần dần được cải tiến và hoàn thiện.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "形容词 (Miêu tả con người / trái cây)", "meanings": ["chững chạc, trưởng thành; chín (hoa quả)"], "structure": "显得成熟多了 / 成熟的瓜果", "difference_note": "Rất hay đi cùng 显得 khi nhận xét con người ('几年不见，他显得成熟多了' – bảng 词语辨析 tr.97).", "examples": [{ "chinese": "几年不见，他显得成熟多了。", "pinyin": "Jǐ nián bújiàn, tā xiǎnde chéngshú duō le.", "vietnamese": "Mấy năm không gặp, anh ấy trông trưởng thành hơn nhiều rồi." }] }
+      ],
+      "chinese_explanation": "植物果实长成；事物发展到完善的程度；人思想稳重懂事。", "collocations": ["成熟的经验", "成熟的看法", "成熟的条件", "显得成熟"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l10_w30", "order": 30, "textbook": "HSK 5 上", "lesson": 10,
+      "hanzi": "兄弟", "pinyin": "xiōngdì",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "anh em (anh trai và em trai)", "structure": "卢米埃尔兄弟 / 兄弟俩 / 好兄弟", "explanation": "Chỉ anh trai và em trai nói chung, hoặc anh em thân thiết.", "examples": [{ "chinese": "1895年12月28日，法国人卢米埃尔兄弟在巴黎第一次向公众播放了短片《火车到站》。", "pinyin": "Yībājiǔwǔ nián shí'èr yuè èrshíbā rì, Fǎguórén Lúmǐ'āi'ěr xiōngdì zài Bālí dì-yī cì xiàng gōngzhòng bōfàng le duǎnpiàn 《Huǒchē Dàozhàn》.", "vietnamese": "Ngày 28 tháng 12 năm 1895, anh em nhà Lumière người Pháp lần đầu tiên trình chiếu trước công chúng bộ phim ngắn “Chuyến tàu vào ga” tại Paris.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "哥哥和弟弟；也用来称呼关系亲密的男性朋友。", "collocations": ["兄弟俩", "亲兄弟", "好兄弟"], "usage_note": "Khi đọc xiōngdi (thanh nhẹ) trong khẩu ngữ miền Bắc chỉ riêng 'em trai' (tương đương 弟弟).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l10_w31", "order": 31, "textbook": "HSK 5 上", "lesson": 10,
+      "hanzi": "播放", "pinyin": "bōfàng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "phát sóng, phát, chiếu (phim, nhạc, chương trình)", "structure": "播放 + 短片 / 电影 / 音乐 / 新闻", "explanation": "Phát hình ảnh hoặc âm thanh qua thiết bị chiếu, truyền hình, đài phát thanh, máy nghe nhạc.", "examples": [{ "chinese": "法国人卢米埃尔兄弟在巴黎第一次向公众播放了短片《火车到站》。", "pinyin": "Fǎguórén Lúmǐ'āi'ěr xiōngdì zài Bālí dì-yī cì xiàng gōngzhòng bōfàng le duǎnpiàn 《Huǒchē Dàozhàn》.", "vietnamese": "Anh em nhà Lumière người Pháp lần đầu tiên chiếu cho công chúng xem đoạn phim ngắn “Chuyến tàu vào ga” ở Paris.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "通过广播、电视或播放设备把声音、影像发送出来。", "collocations": ["播放电影", "播放音乐", "播放新闻", "播放器"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l10_w32", "order": 32, "textbook": "HSK 5 上", "lesson": 10,
+      "hanzi": "纪念", "pinyin": "jìniàn",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "kỷ niệm, tưởng niệm", "structure": "纪念日 / 纪念 + Người/Sự kiện", "explanation": "Ghi nhớ, tỏ lòng trân trọng đối với người hay sự kiện có ý nghĩa quan trọng.", "examples": [{ "chinese": "这一天后来成为电影产生的纪念日。", "pinyin": "Zhè yìtiān hòulái chéngwéi diànyǐng chǎnshēng de jìniànrì.", "vietnamese": "Ngày này về sau trở thành ngày kỷ niệm sự ra đời của điện ảnh.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["vật kỷ niệm, kỷ niệm"], "structure": "留个纪念 / 纪念品", "difference_note": "Dùng như danh từ chỉ vật lưu niệm để nhớ lại một chuyến đi hay sự kiện.", "examples": [{ "chinese": "我们拍张合影留个纪念吧。", "pinyin": "Wǒmen pāi zhāng héyǐng liú ge jìniàn ba.", "vietnamese": "Chúng mình chụp một tấm ảnh chung làm kỷ niệm nhé." }] }
+      ],
+      "chinese_explanation": "用事物或行动对人或事表示怀念；用来表示怀念的物品。", "collocations": ["纪念日", "纪念品", "留个纪念"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l10_w33", "order": 33, "textbook": "HSK 5 上", "lesson": 10,
+      "hanzi": "导演", "pinyin": "dǎoyǎn",
+      "lesson_usage": { "part_of_speech": "名词 / 动词 (Danh từ / Động từ)", "meanings": ["1. (Danh từ) nhà đạo diễn", "2. (Động từ) đạo diễn, chỉ đạo dàn dựng"], "meaning": "nhà đạo diễn; đạo diễn", "structure": "(dt) 电影导演 / 著名导演; (đgt) 导演了一部电影", "explanation": "Người chỉ đạo nghệ thuật tổng thể cho bộ phim hoặc vở kịch; cũng dùng làm động từ chỉ hành động đạo diễn.", "examples": [{ "chinese": "兄弟俩也成为历史上最早的电影导演。", "pinyin": "Xiōngdì liǎ yě chéngwéi lìshǐ shang zuì zǎo de diànyǐng dǎoyǎn.", "vietnamese": "Hai anh em cũng trở thành những đạo diễn điện ảnh đầu tiên trong lịch sử.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "电影、戏剧等艺术演出的总指导者；指导排演。", "collocations": ["电影导演", "著名导演", "自编自导"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l10_w34", "order": 34, "textbook": "HSK 5 上", "lesson": 10, "is_out_of_syllabus": true,
+      "hanzi": "瞬间", "pinyin": "shùnjiān",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "chốc lát, khoảnh khắc", "structure": "每一瞬间 / 一瞬间 / 精彩瞬间", "explanation": "Khoảng thời gian cực ngắn trong nháy mắt.", "examples": [{ "chinese": "留心生活的每一瞬间，并为之争论，适时请求帮助、认真研究，或许重大发现就在你的眼前。", "pinyin": "Liúxīn shēnghuó de měi yí shùnjiān, bìng wèizhī zhēnglùn, shìshí qǐngqiú bāngzhù, rènzhēn yánjiū, huòxǔ zhòngdà fāxiàn jiù zài nǐ de yǎnqián.", "vietnamese": "Hãy lưu tâm đến từng khoảnh khắc của cuộc sống, tranh luận vì nó, kịp thời nhờ giúp đỡ và nghiêm túc nghiên cứu, có lẽ phát hiện vĩ đại đang ở ngay trước mắt bạn.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "转眼之间，极短的时间。", "collocations": ["一瞬间", "精彩瞬间", "每一瞬间"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l10_w35", "order": 35, "textbook": "HSK 5 上", "lesson": 10,
+      "hanzi": "请求", "pinyin": "qǐngqiú",
+      "lesson_usage": { "part_of_speech": "动词 / 名词 (Động từ / Danh từ)", "meanings": ["1. (Động từ) yêu cầu, đề nghị, nhờ vả (lịch sự)", "2. (Danh từ) lời thỉnh cầu, lời đề nghị"], "meaning": "yêu cầu, đề nghị; lời thỉnh cầu", "structure": "(đgt) 请求帮助 / 请求原谅; (dt) 同意我的请求", "explanation": "Đưa ra mong muốn một cách lịch sự, chân thành để đối phương giúp đỡ hoặc chấp thuận.", "examples": [
+        { "chinese": "适时请求帮助、认真研究，或许重大发现就在你的眼前。", "pinyin": "Shìshí qǐngqiú bāngzhù, rènzhēn yánjiū, huòxǔ zhòngdà fāxiàn jiù zài nǐ de yǎnqián.", "vietnamese": "Kịp thời đề nghị giúp đỡ, nghiêm túc nghiên cứu, có lẽ phát hiện trọng đại đang ở ngay trước mắt bạn.", "from_text": true },
+        { "chinese": "真心希望您能同意我的请求，帮我这个忙！", "pinyin": "Zhēnxīn xīwàng nín néng tóngyì wǒ de qǐngqiú, bāng wǒ zhège máng!", "vietnamese": "Chân thành mong ngài đồng ý lời thỉnh cầu của tôi, giúp tôi việc này!" }
+      ] },
+      "additional_usages": [], "chinese_explanation": "说明要求，希望得到满足；所提出的要求。", "collocations": ["请求帮助", "同意请求", "提出请求"], "usage_note": "Lịch sự, nhã nhặn hơn 要求 (đòi hỏi, yêu cầu bắt buộc).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l10_w36", "order": 36, "textbook": "HSK 5 上", "lesson": 10,
+      "hanzi": "或许", "pinyin": "huòxǔ",
+      "lesson_usage": { "part_of_speech": "副词 (Phó từ)", "meaning": "có lẽ, có thể (biểu thị suy đoán)", "structure": "(S) + 或许 + V/Adj", "explanation": "Phó từ đồng nghĩa với 也许, 有可能 (thiên về văn viết hơn 也许).", "examples": [{ "chinese": "或许重大发现就在你的眼前。", "pinyin": "Huòxǔ zhòngdà fāxiàn jiù zài nǐ de yǎnqián.", "vietnamese": "Có lẽ phát hiện trọng đại đang ở ngay trước mắt bạn.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "副词，也许、有可能。", "collocations": ["或许会有变化", "或许正是因为"], "usage_note": "ĐỪNG NHẦM 或许 (phó từ 'có lẽ') với 或者 (liên từ 'hoặc' nối 2 lựa chọn)! Xem Bài tập 2 câu 4 tr.98: '吃中餐或者西餐都可以' → dùng 或者!", "common_errors": "Sai: '吃中餐或许西餐都可以' → Phải dùng '或者'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l10_w37", "order": 37, "textbook": "HSK 5 上", "lesson": 10,
+      "hanzi": "重大", "pinyin": "zhòngdà",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "trọng đại, to lớn, cực kỳ quan trọng", "structure": "重大发现 / 重大影响 / 重大意义 / 重大贡献", "explanation": "Có tầm quan trọng và sức ảnh hưởng cực lớn (chủ yếu đi với danh từ trừu tượng).", "examples": [{ "chinese": "或许重大发现就在你的眼前。", "pinyin": "Huòxǔ zhòngdà fāxiàn jiù zài nǐ de yǎnqián.", "vietnamese": "Có lẽ phát hiện trọng đại đang ở ngay trước mắt bạn.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "大而重要。", "collocations": ["重大发现", "重大影响", "重大意义", "重大事故"], "usage_note": "Thường dùng làm định ngữ; không nói '很重大' cho vật thể cụ thể (không nói '重大的房子').", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    }
+  ],
+  "proper_nouns": [
+    { "hanzi": "加利福尼亚州", "pinyin": "Jiālìfúníyà Zhōu", "meaning": "California (bang California, Hoa Kỳ)" },
+    { "hanzi": "斯坦福", "pinyin": "Sītǎnfú", "meaning": "Leland Stanford (tên người)" },
+    { "hanzi": "科恩", "pinyin": "Kē'ēn", "meaning": "Cohen (tên người)" },
+    { "hanzi": "麦布里奇", "pinyin": "Màibùlǐqí", "meaning": "Eadweard Muybridge (nhiếp ảnh gia người Anh)" },
+    { "hanzi": "卢米埃尔", "pinyin": "Lúmǐ'āi'ěr", "meaning": "Lumière (anh em nhà Lumière, Pháp)" }
+  ],
+  "collocations_table": [
+    { "relation": "Động từ + Tân ngữ", "head": "拍", "partners": "手 / 桌子 / 照片 / 电影" },
+    { "relation": "Động từ + Tân ngữ", "head": "改进", "partners": "工作 / 方法 / 态度" },
+    { "relation": "Định ngữ + Trung tâm ngữ", "head": "艰苦（的）", "partners": "条件 / 生活" },
+    { "relation": "Định ngữ + Trung tâm ngữ", "head": "成熟的", "partners": "瓜果 / 人 / 经验 / 看法 / 条件" },
+    { "relation": "Trạng ngữ + Trung tâm ngữ", "head": "围绕（着）重点", "partners": "进行讨论" },
+    { "relation": "Trạng ngữ + Trung tâm ngữ", "head": "始终", "partners": "坚持 / 保持" },
+    { "relation": "Trung tâm ngữ + Bổ ngữ", "head": "插", "partners": "进（去） / 到…… / 在……" },
+    { "relation": "Trung tâm ngữ + Bổ ngữ", "head": "拦", "partners": "住 / 在……" },
+    { "relation": "Số lượng từ + Danh từ", "head": "一匹", "partners": "马" },
+    { "relation": "Số lượng từ + Danh từ", "head": "一场", "partners": "争论 / 辩论" }
+  ],
+  "grammar": [
+    {
+      "title": "毕竟",
+      "formula": "(1) ……，但毕竟 + Kết quả cuối cùng  |  (2) Kết luận，毕竟 + Lý do/Sự thật quan trọng nhất",
+      "meaning": "Rốt cuộc, cuối cùng cũng; suy cho cùng.",
+      "usage": "Phó từ có 2 cách dùng chính: (1) Nghĩa tương đương 到底、终于 (dù gặp trắc trở nhưng rốt cuộc vẫn đạt được); (2) Chỉ ra phần quan trọng nhất hoặc đúng đắn nhất, thường đi kèm câu mang ý '(dù sao đi nữa) kết luận vẫn là như thế'.",
+      "context": "Cực hay dùng khi khuyên nhủ, phân tích lý do cốt lõi hoặc chốt lại nhận định.",
+      "examples": [
+        { "chinese": "虽然我们遇到了很多困难，但毕竟完成了任务。", "pinyin": "Suīrán wǒmen yùdào le hěn duō kùnnan, dàn bìjìng wánchéng le rènwu.", "vietnamese": "Tuy chúng tôi gặp rất nhiều khó khăn, nhưng rốt cuộc cũng đã hoàn thành nhiệm vụ." },
+        { "chinese": "不过摄影师毕竟是摄影师，主意还是有的。", "pinyin": "Búguò shèyǐngshī bìjìng shì shèyǐngshī, zhǔyi háishi yǒu de.", "vietnamese": "Tuy nhiên nhiếp ảnh gia suy cho cùng vẫn là nhiếp ảnh gia, cách giải quyết thì vẫn có." },
+        { "chinese": "生活中总有无法解决的问题，毕竟不是所有的对错都能讲清楚，甚至可能根本就没有真正的对与错。", "pinyin": "Shēnghuó zhōng zǒng yǒu wúfǎ jiějué de wèntí, bìjìng bú shì suǒyǒu de duìcuò dōu néng jiǎng qīngchu, shènzhì kěnéng gēnběn jiù méiyǒu zhēnzhèng de duì yǔ cuò.", "vietnamese": "Trong cuộc sống luôn có những vấn đề không thể giải quyết, suy cho cùng không phải mọi đúng sai đều nói rõ được, thậm chí có thể vốn chẳng có đúng sai tuyệt đối." },
+        { "chinese": "他不高兴是正常的，毕竟没有人能在摔得头破血流的时候，还高兴得起来。", "pinyin": "Tā bù gāoxìng shì zhèngcháng de, bìjìng méiyǒu rén néng zài shuāi de tóupò-xuèliú de shíhou, hái gāoxìng de qǐlái.", "vietnamese": "Anh ấy không vui là bình thường, suy cho cùng chẳng ai lúc ngã đầu rơi máu chảy mà vẫn vui lên nổi." }
+      ],
+      "important_notes": "毕竟 có thể đứng trước chủ ngữ ('毕竟他还是个孩子') hoặc sau chủ ngữ ('他毕竟还是个孩子'). KHÔNG dùng 毕竟 trong câu hỏi!",
+      "common_errors": "Dùng 毕竟 trong câu nghi vấn ('你毕竟去不去？' là sai → phải dùng 到底 hoặc 究竟).",
+      "comparison": "Phân biệt với 到底/究竟: 毕竟 chỉ dùng trong câu trần thuật nêu lý lẽ/kết luận, không dùng hỏi dồn.",
+      "mini_practice": [
+        { "prompt": "你们毕竟是好朋友，______________________。", "sample_answer": "不要因为一点儿小事就生气了", "explanation": "Dùng 毕竟 nêu mối quan hệ cốt lõi để đưa ra lời khuyên hợp lý." },
+        { "prompt": "A: 这孩子真是太淘气了！我快被他烦死了！  B: ______________________。（毕竟）", "sample_answer": "别生气了，他毕竟还是个小孩子嘛", "explanation": "Dùng 毕竟 giải thích lý do thông cảm cho đứa trẻ." }
+      ]
+    },
+    {
+      "title": "逐渐",
+      "formula": "S + 逐渐 + V / Adj (biểu thị biến đổi từ từ)",
+      "meaning": "Dần dần.",
+      "usage": "Phó từ biểu thị mức độ hoặc số lượng tăng lên hay giảm đi từng chút một một cách liên tục theo thời gian.",
+      "context": "Phổ biến trong văn tường thuật quá trình phát triển, biến đổi tự nhiên hoặc xã hội.",
+      "examples": [
+        { "chinese": "食物越来越少，老人不得不逐渐限制猴子的食量。", "pinyin": "Shíwù yuèláiyuè shǎo, lǎorén bùdébù zhújiàn xiànzhì hóuzi de shíliàng.", "vietnamese": "Thức ăn ngày càng ít, ông lão đành phải dần dần hạn chế lượng ăn của đàn khỉ." },
+        { "chinese": "这项运动首先在亚太地区流行，并逐渐受到世界各地人们的欢迎。", "pinyin": "Zhè xiàng yùndòng shǒuxiān zài Yàtài dìqū liúxíng, bìng zhújiàn shòudào shìjiè gèdì rénmen de huānyíng.", "vietnamese": "Môn thể thao này ban đầu thịnh hành ở khu vực châu Á – Thái Bình Dương và dần dần được mọi người khắp thế giới yêu thích." },
+        { "chinese": "经过艰苦的试验，电影拍摄技术逐渐改进、成熟。", "pinyin": "Jīngguò jiānkǔ de shìyàn, diànyǐng pāishè jìshù zhújiàn gǎijìn, chéngshú.", "vietnamese": "Trải qua các cuộc thử nghiệm gian khổ, kỹ thuật quay phim dần dần được cải tiến và hoàn thiện." }
+      ],
+      "important_notes": "Phía sau 逐渐 phải là động từ hoặc tính từ biểu thị sự thay đổi có quá trình (không dùng với hành động chớp nhoáng một lần như 撞断).",
+      "common_errors": "",
+      "comparison": "Gần nghĩa với 渐渐 (nhẹ nhàng, văn học hơn) và 慢慢 (khẩu ngữ, còn có nghĩa 'chậm rãi' về tốc độ).",
+      "mini_practice": [
+        { "prompt": "A: 刚来北京的时候，你习惯吗？  B: ______________________。（逐渐）", "sample_answer": "刚开始不太习惯，后来逐渐就适应了", "explanation": "Dùng 逐渐 + 适应 diễn tả quá trình thích nghi từng bước." },
+        { "prompt": "茶首先在中国出现，______________________。（逐渐）", "sample_answer": "后来逐渐传播到了世界各地", "explanation": "Mô tả quá trình lan truyền dần dần theo thời gian." }
+      ]
+    },
+    {
+      "title": "或许",
+      "formula": "(S) + 或许 + V / Adj",
+      "meaning": "Có lẽ, có thể (tương đương 也许、有可能).",
+      "usage": "Phó từ biểu thị sự phán đoán, ước lượng không chắc chắn 100%, có sắc thái văn viết nhã nhặn hơn 也许.",
+      "context": "Dùng khi nêu giả thuyết, khả năng, kỳ vọng hoặc khuyên nhủ nhẹ nhàng.",
+      "examples": [
+        { "chinese": "虽然以前她不支持你，但或许这次会有变化。", "pinyin": "Suīrán yǐqián tā bù zhīchí nǐ, dàn huòxǔ zhè cì huì yǒu biànhuà.", "vietnamese": "Tuy trước đây cô ấy không ủng hộ bạn, nhưng có lẽ lần này sẽ có thay đổi." },
+        { "chinese": "或许正是因为这一点一滴的努力，你就会走在别人的前面。", "pinyin": "Huòxǔ zhèng shì yīnwèi zhè yìdiǎn-yìdī de nǔlì, nǐ jiù huì zǒu zài biérén de qiánmiàn.", "vietnamese": "Có lẽ chính nhờ từng chút nỗ lực nhỏ bé này, bạn sẽ bước lên phía trước người khác." },
+        { "chinese": "留心生活的每一瞬间，并为之争论，适时请求帮助、认真研究，或许重大发现就在你的眼前。", "pinyin": "Liúxīn shēnghuó de měi yí shùnjiān, bìng wèizhī zhēnglùn, shìshí qǐngqiú bāngzhù, rènzhēn yánjiū, huòxǔ zhòngdà fāxiàn jiù zài nǐ de yǎnqián.", "vietnamese": "Lưu tâm từng khoảnh khắc của cuộc sống, tranh luận vì nó, kịp thời cầu cứu trợ giúp và nghiên cứu nghiêm túc, có lẽ phát hiện trọng đại nằm ngay trước mắt bạn." }
+      ],
+      "important_notes": "Tuyệt đối KHÔNG nhầm lẫn phó từ 或许 ('có lẽ') với liên từ 或者 ('hoặc là')!",
+      "common_errors": "Sai: '喝茶或许喝咖啡都可以' → Phải dùng '或者'.",
+      "comparison": "或许 (phó từ = 也许, suy đoán) vs 或者 (liên từ, liệt kê lựa chọn A hoặc B).",
+      "mini_practice": [
+        { "prompt": "他的妻子前几年瘫痪了，______________________。（或许）", "sample_answer": "或许经过积极治疗，她还能重新站起来", "explanation": "Dùng 或许 nêu một khả năng lạc quan." },
+        { "prompt": "A: 你猜这场比赛的结果会怎么样？  B: ______________________。（或许）", "sample_answer": "两队实力差不多，或许会打成平手", "explanation": "Dùng 或许 đưa ra dự đoán không chắc chắn." }
+      ]
+    }
+  ],
+  "comparison_section": {
+    "label": "词语辨析 Phân biệt từ ngữ",
+    "pair": "显示 — 显得",
+    "term_a": "显示 (xiǎnshì)",
+    "term_b": "显得 (xiǎnde)",
+    "similarity": "Đều là động từ, đều mang nghĩa biểu hiện ra, khiến người ta nhận thấy, nhưng nhìn chung KHÔNG thể thay thế cho nhau.",
+    "differences": [
+      { "criterion": "Nội dung biểu đạt", "a": "Chỉ sự thể hiện ra một THÁI ĐỘ, NĂNG LỰC hoặc TÌNH HUỐNG/KẾT QUẢ nào đó. VD: 相片显示：马奔跑时始终有一蹄着地。", "b": "Chỉ sự biểu hiện ra một ĐẶC TÍNH, TRẠNG THÁI nào đó. VD: 几年不见，他显得成熟多了。" },
+      { "criterion": "Thành phần kết hợp phía sau", "a": "Thường đi với DANH TỪ hoặc MỆNH ĐỀ (小句). VD: 这次活动的组织显示出了他的才能。 / 调查显示，只有37%的人……", "b": "Thường đi với TÍNH TỪ (hoặc cụm tính từ). VD: 中秋节那天，月亮显得格外明亮。 / 节日的北京显得更加美丽。" }
+    ]
+  },
+  "texts": [
+    {
+      "id": "t1", "title_zh": "争论的奇迹（560字）", "title_vi": "Kỳ tích của cuộc tranh luận",
+      "lines": [
+        { "speaker": "", "chinese": "1872年的一天，在美国加利福尼亚州的一个酒店里，斯坦福与科恩围绕“马奔跑时蹄子是否着地”进行了辩论。斯坦福认为，马奔跑得那么快，在跳起时四蹄应该都是不落地的；而科恩认为，马要是四蹄都不着地，那不是成了青蛙啦？应该是始终有一蹄着地。两人各执一词，争论得脸红脖子粗，谁也说服不了谁。于是他们就请英国摄影师麦布里奇来判断，可麦布里奇也弄不清楚。不过摄影师毕竟是摄影师，主意还是有的。他们一起来到一个操场，在一条跑道的一边等距离放上24个照相机，照相机对准跑道；在跑道另一边打24个洞，分别插进24根木棍，木棍上系着细线，细线穿过跑道，接上相机快门。", "pinyin": "Yībāqī'èr nián de yìtiān, zài Měiguó Jiālìfúníyà Zhōu de yí ge jiǔdiàn li, Sītǎnfú yǔ Kē'ēn wéirào “mǎ bēnpǎo shí tízi shìfǒu zháodì” jìnxíng le biànlùn. Sītǎnfú rènwéi, mǎ bēnpǎo de nàme kuài, zài tiàoqǐ shí sìtí yīnggāi dōu shì bú luòdì de; ér Kē'ēn rènwéi, mǎ yàoshi sìtí dōu bù zháodì, nà bú shì chéng le qīngwā la? Yīnggāi shì shǐzhōng yǒu yì tí zháodì. Liǎngrén gèzhí-yìcí, zhēnglùn de liǎnhóng-bózicū, shéi yě shuōfú bùliǎo shéi. Yúshì tāmen jiù qǐng Yīngguó shèyǐngshī Màibùlǐqí lái pànduàn, kě Màibùlǐqí yě nòngbùqīngchu. Búguò shèyǐngshī bìjìng shì shèyǐngshī, zhǔyi háishi yǒu de. Tāmen yìqǐ láidào yí ge cāochǎng, zài yì tiáo pǎodào de yìbiān děng jùlí fàngshàng èrshísì ge zhàoxiàngjī, zhàoxiàngjī duìzhǔn pǎodào; zài pǎodào lìng yìbiān dǎ èrshísì ge dòng, fēnbié chājìn èrshísì gēn mùgùn, mùgùn shang jìzhe xìxiàn, xìxiàn chuānguò pǎodào, jiēshàng xiàngjī kuàimén.", "vietnamese": "Một ngày năm 1872, tại một khách sạn ở bang California, Mỹ, Stanford và Cohen tiến hành tranh biện xoay quanh câu hỏi “khi ngựa phi nước đại móng guốc có chạm đất không”. Stanford cho rằng ngựa chạy nhanh như thế, lúc bật nhảy cả bốn vó đều không chạm đất; còn Cohen lại bảo ngựa mà bốn vó đều không chạm đất thì chẳng hóa thành con ếch sao? Phải là luôn có một vó chạm đất chứ. Hai người ai nấy giữ khư khư lý lẽ của mình, tranh luận đỏ mặt tía tai, không ai thuyết phục nổi ai. Thế là họ mời nhiếp ảnh gia người Anh Eadweard Muybridge tới phán đoán, nhưng Muybridge cũng không nhìn rõ được. Tuy nhiên nhiếp ảnh gia suy cho cùng vẫn là nhiếp ảnh gia, ý tưởng thì vẫn có. Họ cùng nhau đến một sân tập, dọc một bên đường chạy đặt cách đều nhau 24 chiếc máy ảnh hướng thẳng vào đường chạy; phía bên kia đường chạy đào 24 cái lỗ, lần lượt cắm vào 24 cây gậy gỗ, trên gậy buộc sợi dây mảnh kéo ngang đường chạy nối vào nút chụp máy ảnh." },
+        { "speaker": "", "chinese": "一切都准备好了，麦布里奇让一匹马从跑道的一头飞奔到另一头，马一边跑，一边按顺序撞断拦路的24根细线，相机连续拍下了24张相片，相邻两张相片的差距都很小。相片显示：马奔跑时始终有一蹄着地，科恩赢了。", "pinyin": "Yíqiè dōu zhǔnbèihǎo le, Màibùlǐqí ràng yì pǐ mǎ cóng pǎodào de yìtóu fēibēn dào lìng yìtóu, mǎ yìbiān pǎo, yìbiān àn shùnxù zhuàngduàn lánlù de èrshísì gēn xìxiàn, xiàngjī liánxù pāixià le èrshísì zhāng xiàngpiàn, xiānglín liǎng zhāng xiàngpiàn de chājù dōu hěn xiǎo. Xiàngpiàn xiǎnshì: mǎ bēnpǎo shí shǐzhōng yǒu yì tí zháodì, Kē'ēn yíng le.", "vietnamese": "Mọi thứ đã chuẩn bị sẵn sàng, Muybridge cho một con ngựa phi như bay từ đầu này sang đầu kia đường chạy; ngựa vừa chạy vừa lần lượt đâm đứt 24 sợi dây mảnh chắn đường, máy ảnh liên tiếp chụp được 24 tấm hình, độ chênh lệch giữa hai bức ảnh kề nhau đều rất nhỏ. Ảnh chụp cho thấy: khi ngựa phi luôn có một vó chạm đất, Cohen đã thắng." },
+        { "speaker": "", "chinese": "事后，有人无意识地快速拉动那一长串相片，“奇迹”出现了：各张相片中静止的马连成了一匹运动的马，相片“活”了。这就是电影最早的样子。", "pinyin": "Shìhòu, yǒurén wúyìshí de kuàisù lādòng nà yì cháng chuàn xiàngpiàn, “qíjì” chūxiàn le: gè zhāng xiàngpiàn zhōng jìngzhǐ de mǎ liánchéng le yì pǐ yùndòng de mǎ, xiàngpiàn “huó” le. Zhè jiùshì diànyǐng zuì zǎo de yàngzi.", "vietnamese": "Sau sự việc, có người vô tình kéo nhanh dải ảnh dài ấy, “kỳ tích” đã xuất hiện: hình ảnh con ngựa đứng yên trong từng tấm ảnh nối liền thành một con ngựa đang chuyển động, những bức ảnh đã “sống dậy”. Đó chính là hình hài sơ khai nhất của điện ảnh." },
+        { "speaker": "", "chinese": "经过艰苦的试验，电影拍摄技术逐渐改进、成熟。1895年12月28日，法国人卢米埃尔兄弟在巴黎第一次向公众播放了短片《火车到站》，这一天后来成为电影产生的纪念日，兄弟俩也成为历史上最早的电影导演。", "pinyin": "Jīngguò jiānkǔ de shìyàn, diànyǐng pāishè jìshù zhújiàn gǎijìn, chéngshú. Yībājiǔwǔ nián shí'èr yuè èrshíbā rì, Fǎguórén Lúmǐ'āi'ěr xiōngdì zài Bālí dì-yī cì xiàng gōngzhòng bōfàng le duǎnpiàn 《Huǒchē Dàozhàn》, zhè yìtiān hòulái chéngwéi diànyǐng chǎnshēng de jìniànrì, xiōngdì liǎ yě chéngwéi lìshǐ shang zuì zǎo de diànyǐng dǎoyǎn.", "vietnamese": "Trải qua những cuộc thử nghiệm gian khổ, kỹ thuật quay phim dần dần được cải tiến và hoàn thiện. Ngày 28 tháng 12 năm 1895, anh em nhà Lumière người Pháp lần đầu tiên công chiếu bộ phim ngắn “Chuyến tàu vào ga” tại Paris; ngày hôm đó về sau trở thành ngày kỷ niệm sự ra đời của điện ảnh, và hai anh em cũng trở thành những đạo diễn phim đầu tiên trong lịch sử." },
+        { "speaker": "", "chinese": "留心生活的每一瞬间，并为之争论，适时请求帮助、认真研究，或许重大发现就在你的眼前。", "pinyin": "Liúxīn shēnghuó de měi yí shùnjiān, bìng wèizhī zhēnglùn, shìshí qǐngqiú bāngzhù, rènzhēn yánjiū, huòxǔ zhòngdà fāxiàn jiù zài nǐ de yǎnqián.", "vietnamese": "Hãy lưu tâm đến từng khoảnh khắc của cuộc sống, tranh luận vì nó, kịp thời đề nghị giúp đỡ và nghiên cứu nghiêm túc, có lẽ phát hiện vĩ đại đang nằm ngay trước mắt bạn." }
+      ]
+    }
+  ],
+  "reading_questions": [
+    { "question_zh": "摄影师麦布里奇想出了什么办法来判断马奔跑时蹄子是否着地？", "question_vi": "Nhiếp ảnh gia Muybridge đã nghĩ ra cách gì để kiểm chứng xem khi ngựa phi móng guốc có chạm đất không?", "answer_zh": "他在跑道一边等距离放上24个照相机，另一边插24根系着细线的木棍，细线穿过跑道接上相机快门。马奔跑撞断细线时，相机连续拍下24张相片，清楚地显示出马奔跑时始终有一蹄着地。", "answer_vi": "Ông đặt cách đều 24 máy ảnh dọc một bên đường chạy, bên kia cắm 24 cây gậy buộc dây mảnh nối ngang đường chạy tới nút chụp máy ảnh. Khi ngựa phi đâm đứt các sợi dây, máy ảnh liên tiếp chụp 24 tấm hình, cho thấy rõ khi ngựa phi luôn có một vó chạm đất." },
+    { "question_zh": "电影最早的样子是怎么偶然产生的？", "question_vi": "Hình hài sơ khai nhất của điện ảnh đã ra đời một cách tình cờ như thế nào?", "answer_zh": "事后有人无意识地快速拉动那一长串24张相片，静止的马连成了一匹运动的马，相片“活”了，这就是电影最早的雏形。", "answer_vi": "Sau đó có người vô tình kéo nhanh dải 24 bức ảnh liền nhau ấy, hình con ngựa đứng yên bỗng nối liền thành một con ngựa đang chuyển động, bức ảnh như “sống dậy”, đó chính là hình hài đầu tiên của điện ảnh." }
+  ],
+  "exercises": [
+    {
+      "id": "h5s10_ex1", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.97 (练习1)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ thích hợp điền vào chỗ trống: “你今天______这条领带吧，比较正式。”",
+      "options": ["系", "插", "拦", "拍"],
+      "answer": "系",
+      "explanation": "Động từ thắt cà vạt, quàng khăn, buộc dây giày là 系 (jì): 系领带.",
+      "review_tip": "Ôn #18 系 (jì) và phần 扩展 tr.98–99 (系围巾 / 系领带)."
+    },
+    {
+      "id": "h5s10_ex2", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.97 (词语辨析 做一做)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn đáp án đúng: “调查______，只有37%的人愿意回到没有手机的时代。”",
+      "options": ["显示", "显得", "表现", "形容"],
+      "answer": "显示",
+      "explanation": "Phía sau là một MỆNH ĐỀ kết quả khảo sát ('只有37%的人……') → phải dùng 显示 ('cho thấy'); 显得 chỉ đi với tính từ!",
+      "review_tip": "Ôn bảng 词语辨析: 显示—显得 tr.96–97."
+    },
+    {
+      "id": "h5s10_ex3", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.97 (词语辨析 做一做)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn đáp án đúng: “节日的北京______更加美丽。”",
+      "options": ["显得", "显示", "似乎", "或许"],
+      "answer": "显得",
+      "explanation": "Phía sau là cụm TÍNH TỪ '更加美丽' (trở nên đẹp hơn nữa) → dùng 显得 (không dùng 显示 trước tính từ!).",
+      "review_tip": "Ôn bảng 词语辨析: 显示—显得 tr.96–97."
+    },
+    {
+      "id": "h5s10_ex4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.97 (练习2)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “毕业二十年以来，我们______保持着联系。”",
+      "options": ["始终", "终于", "曾经", "逐渐"],
+      "answer": "始终",
+      "explanation": "Nhấn mạnh việc giữ liên lạc xuyên suốt từ lúc tốt nghiệp đến tận 20 năm sau không đổi → dùng 始终 (始 = đầu, 终 = cuối).",
+      "review_tip": "Ôn bảng 词语搭配 tr.96: 始终坚持 / 始终保持."
+    },
+    {
+      "id": "h5s10_ex5", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.98 (练习2)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “我们之间还有很大的______，我要向他学习，更加努力。”",
+      "options": ["差距", "距离", "区别", "不同"],
+      "answer": "差距",
+      "explanation": "Chỉ sự chênh lệch về trình độ, năng lực khiến mình phải học hỏi thêm → dùng 差距 (không dùng 距离 vốn thiên về khoảng cách không gian/tâm lý).",
+      "review_tip": "Phân biệt #22 差距 vs 距离."
+    },
+    {
+      "id": "h5s10_ex6", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.98 (练习2)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn đáp án đúng: “吃中餐______西餐都可以，只是我不能吃太辣的。”",
+      "options": ["或者", "或许", "要不", "毕竟"],
+      "answer": "或者",
+      "explanation": "Nối hai danh từ lựa chọn '中餐' và '西餐' phải dùng liên từ 或者 ('hoặc'); còn 或许 là phó từ ('có lẽ') không nối hai danh từ như vậy!",
+      "review_tip": "Ôn Chú thích 3: 或许 vs 或者 tr.95–98."
+    },
+    {
+      "id": "h5s10_ex7", "type": "grammar_mc", "level": "Vận dụng", "origin_tag": "Sách gốc tr.98 (练习3 Chọn vị trí)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn vị trí thích hợp cho “毕竟” trong câu: “A 是秋天了，B 再热 C 也不会 D 像夏天那样。”",
+      "options": ["A (毕竟是秋天了)", "B (毕竟再热)", "C (再热毕竟也不会)", "D (也不会毕竟像夏天那样)"],
+      "answer": "A (毕竟是秋天了)",
+      "explanation": "毕竟 đặt ở phân câu nêu thực tế cốt lõi làm căn cứ cho kết luận vế sau: '毕竟是秋天了，再热也不会像夏天那样。' (Suy cho cùng đã là mùa thu rồi, có nóng mấy cũng chẳng như mùa hè).",
+      "review_tip": "Ôn Chú thích 1: 毕竟 tr.94–95."
+    },
+    {
+      "id": "h5s10_ex8", "type": "context_mc", "level": "Vận dụng", "origin_tag": "Ôn tập Bài 9 (HSK 5 上 tr.88)", "mistake_category": "Ngữ pháp",
+      "prompt": "[Ôn tập Bài 9] Chọn từ thích hợp: “每个学生都有______的性格特点和兴趣爱好，因此老师在教育学生时应该注意选择合适的方法。”",
+      "options": ["自己", "亲自", "彼此", "始终"],
+      "answer": "自己",
+      "explanation": "Chỗ trống đứng trước '的性格特点' làm ĐỊNH NGỮ → dùng đại từ 自己; phó từ 亲自 KHÔNG làm định ngữ được!",
+      "review_tip": "Ôn 词语辨析 Bài 9: 亲自—自己 tr.88."
+    },
+    {
+      "id": "h5s10_ex9", "type": "context_mc", "level": "Vận dụng", "origin_tag": "Ôn tập Bài 8 & Bài 9 (HSK 5 上)", "mistake_category": "Từ vựng",
+      "prompt": "[Ôn tập Bài 8 & Bài 9] Chọn đáp án đúng: “你咳嗽得这么厉害，真得______烟了！”",
+      "options": ["戒", "拦", "插", "限"],
+      "answer": "戒",
+      "explanation": "Động từ 'cai thuốc lá / cai rượu' là 戒 (戒烟, 戒酒 – Bài 9 tr.87–88).",
+      "review_tip": "Ôn bảng 词语搭配 Bài 9: 戒烟/戒酒 tr.87."
+    }
+  ]
+}

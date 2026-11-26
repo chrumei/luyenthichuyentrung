@@ -1,0 +1,917 @@
+{
+  "id": "hsk4shang_l07",
+  "book_id": "hsk4shang",
+  "textbook": "HSK 4 上",
+  "lesson_number": 7,
+  "title_zh": "最好的医生是自己",
+  "title_vi": "Bác sĩ tốt nhất là chính mình",
+  "pdf_pages": "Trang 87–96 (Chuẩn HSK 4上 .pdf)",
+  "source_status": "verified_textbook",
+  "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"],
+  "vocabulary": [
+    {
+      "id": "hsk4s_l07_w01", "order": 1, "textbook": "HSK 4 上", "lesson": 7, "is_out_of_syllabus": true,
+      "hanzi": "流血", "pinyin": "liú xiě",
+      "lesson_usage": {
+        "part_of_speech": "动词 / 离合词 (Động từ ly hợp)", "meaning": "chảy máu",
+        "structure": "鼻子流血 / 流了很多血",
+        "explanation": "Từ đánh dấu * (ngoài khung HSK 4); trong khẩu ngữ đọc là liú xiě.",
+        "examples": [{ "chinese": "你的鼻子怎么流血了？快用纸擦擦。", "pinyin": "Nǐ de bízi zěnme liú xiě le? Kuài yòng zhǐ cāca.", "vietnamese": "Mũi cậu sao lại chảy máu thế? Mau lấy giấy lau đi.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "血液流出体外（口语读 xiě，书面复合词多读 xuè，如“流血牺牲”“血压”）。",
+      "collocations": ["鼻子流血", "流了很多血", "止血"],
+      "usage_note": "Chữ 血 có hai cách đọc: khẩu ngữ đứng độc lập hoặc sau động từ đơn (流血、抽血) đọc xiě; từ ghép văn viết (血压、血液、鲜血) đọc xuè.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l07_w02", "order": 2, "textbook": "HSK 4 上", "lesson": 7,
+      "hanzi": "擦", "pinyin": "cā",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "lau, chùi",
+        "structure": "用纸擦擦 / 把桌子擦干净 / 擦黑板 / 擦汗",
+        "explanation": "Dùng khăn, giấy hoặc vật mềm lau chùi làm sạch bề mặt.",
+        "examples": [{ "chinese": "你的鼻子怎么流血了？快用纸擦擦。", "pinyin": "Nǐ de bízi zěnme liú xiě le? Kuài yòng zhǐ cāca.", "vietnamese": "Mũi cậu sao lại chảy máu thế? Mau dùng giấy lau đi.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Bôi, thoa / Chạm sượt qua)",
+          "meanings": ["1. bôi, thoa (kem, thuốc mỡ lên da: 擦药、擦防晒霜)", "2. chạm nhẹ, sượt qua (擦肩而过)"],
+          "structure": "擦药 / 擦防晒霜 / 擦肩而过",
+          "difference_note": "Khác với nghĩa lau sạch trong bài, 擦 còn có nghĩa thoa mỹ phẩm/thuốc hoặc lướt ngang qua.",
+          "examples": [{ "chinese": "夏天出门前最好擦点儿防晒霜。", "pinyin": "Xiàtiān chūmén qián zuìhǎo cā diǎnr fángshàishuāng.", "vietnamese": "Mùa hè trước khi ra ngoài tốt nhất nên bôi chút kem chống nắng." }]
+        }
+      ],
+      "chinese_explanation": "用布、纸等摩拭使干净；也指涂抹或轻触掠过。",
+      "collocations": ["擦干净", "擦黑板", "擦汗", "擦药"],
+      "usage_note": "Thường đi kèm bổ ngữ kết quả 干净 (擦干净 = lau sạch).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l07_w03", "order": 3, "textbook": "HSK 4 上", "lesson": 7,
+      "hanzi": "气候", "pinyin": "qìhòu",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "khí hậu",
+        "structure": "北方的气候 / 气候变化 / 气候干燥/湿润",
+        "explanation": "Tình trạng khí tượng mang tính ổn định lâu dài của một vùng miền (khác với 天气 là thời tiết từng ngày).",
+        "examples": [{ "chinese": "我还不习惯北方的气候，估计是天气太干。", "pinyin": "Wǒ hái bù xíguàn běifāng de qìhòu, gūjì shì tiānqì tài gān.", "vietnamese": "Mình vẫn chưa quen khí hậu miền Bắc, đoán chừng do thời tiết khô quá.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "一个地区多年常见的天气状况。",
+      "collocations": ["气候变化", "习惯气候", "气候温暖", "气候干燥"],
+      "usage_note": "Thuộc nhóm đồng tự 气 (tr.95): 生气 / 脾气 / 空气 / 气候. Không dùng 气候 để hỏi thời tiết hôm nay (dùng 今天天气怎么样).",
+      "common_errors": "Sai: '今天气候真好' → Đúng: '今天天气真好'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l07_w04", "order": 4, "textbook": "HSK 4 上", "lesson": 7,
+      "hanzi": "估计", "pinyin": "gūjì",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "đoán chừng, dự đoán",
+        "structure": "(S) + 估计 + 动词短语 / 小句",
+        "explanation": "Căn cứ vào một số dấu hiệu, tình huống để đưa ra suy đoán đại khái.",
+        "examples": [{ "chinese": "我还不习惯北方的气候，估计是天气太干。", "pinyin": "Wǒ hái bù xíguàn běifāng de qìhòu, gūjì shì tiānqì tài gān.", "vietnamese": "Mình vẫn chưa quen khí hậu miền Bắc, ước chừng do thời tiết quá khô.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Ước tính con số/giá trị) & 名词 (Sự ước tính)",
+          "meanings": ["1. (Động từ) ước lượng, định giá, đánh giá (mức độ, số lượng)", "2. (Danh từ) sự ước tính, dự báo (据我估计)"],
+          "structure": "估计损失 / 估计时间 / 正确的估计",
+          "difference_note": "Mang tân ngữ danh từ chỉ đối tượng cần định lượng, hoặc làm danh từ trung tâm ngữ.",
+          "examples": [{ "chinese": "按照我的估计，完成这个项目至少需要两个月。", "pinyin": "Ànzhào wǒ de gūjì, wánchéng zhège xiàngmù zhìshǎo xūyào liǎng ge yuè.", "vietnamese": "Theo ước tính của tôi, hoàn thành dự án này ít nhất cần hai tháng." }]
+        }
+      ],
+      "chinese_explanation": "根据某些情况，对事物做大概的推断或计算。",
+      "collocations": ["我估计", "估计来不及", "初步估计", "保守估计"],
+      "usage_note": "Trọng tâm Chú thích 1 và bảng So sánh '估计—可能' (tr.89–90). 估计 KHÔNG thể thêm 很 phía trước (không nói 很估计) và không làm tính từ.",
+      "common_errors": "Sai: '这是最估计的原因' → Đúng: '这是最可能的原因'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l07_w05", "order": 5, "textbook": "HSK 4 上", "lesson": 7,
+      "hanzi": "咳嗽", "pinyin": "késou",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "ho",
+        "structure": "总是咳嗽 / 咳嗽得厉害 / 咳嗽药",
+        "explanation": "Triệu chứng đường hô hấp; chữ 嗽 đọc thanh nhẹ (késou).",
+        "examples": [{ "chinese": "没有，我只是咳嗽，有点儿头疼，不严重，多喝点儿水就好了。", "pinyin": "Méiyǒu, wǒ zhǐ shì késou, yǒudiǎnr tóu téng, bù yánzhòng, duō hē diǎnr shuǐ jiù hǎo le.", "vietnamese": "Không, mình chỉ ho và hơi đau đầu thôi, không nghiêm trọng đâu, uống thêm chút nước là khỏi.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "呼吸道受刺激而发出声响的生理反应。",
+      "collocations": ["总是咳嗽", "咳嗽药", "咳嗽好点儿了"],
+      "usage_note": "Trong bài khóa 2 ('你咳嗽好点儿了吗？'), 咳嗽 còn đóng vai trò chủ ngữ chỉ triệu chứng bệnh.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l07_w06", "order": 6, "textbook": "HSK 4 上", "lesson": 7,
+      "hanzi": "严重", "pinyin": "yánzhòng",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "nghiêm trọng",
+        "structure": "很严重 / 不严重 / 严重的问题 / 严重影响",
+        "explanation": "Chỉ mức độ nặng nề, nguy hại của bệnh tật, vấn đề hoặc hậu quả.",
+        "examples": [{ "chinese": "没有，我只是咳嗽，有点儿头疼，不严重，多喝点儿水就好了。", "pinyin": "Méiyǒu, wǒ zhǐ shì késou, yǒudiǎnr tóu téng, bù yánzhòng, duō hē diǎnr shuǐ jiù hǎo le.", "vietnamese": "Không, mình chỉ bị ho và hơi đau đầu, không nghiêm trọng đâu, uống thêm chút nước là khỏi.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "程度深、影响大、情况危急。",
+      "collocations": ["问题严重", "病情严重", "污染严重", "严重影响"],
+      "usage_note": "Phân biệt với 严格 (nghiêm khắc, nghiêm ngặt – dùng cho yêu cầu, kỷ luật, giáo viên).",
+      "common_errors": "Sai: '老师对学生很严重' → Đúng: '老师对学生很严格'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l07_w07", "order": 7, "textbook": "HSK 4 上", "lesson": 7,
+      "hanzi": "窗户", "pinyin": "chuānghu",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "cửa sổ",
+        "structure": "打开窗户 / 关窗户 / 一扇窗户",
+        "explanation": "Cửa mở trên tường để đón ánh sáng và thông gió; chữ 户 đọc thanh nhẹ.",
+        "examples": [{ "chinese": "另外，最好经常打开窗户换换空气。", "pinyin": "Lìngwài, zuìhǎo jīngcháng dǎkāi chuānghu huànhuan kōngqì.", "vietnamese": "Ngoài ra, tốt nhất thường xuyên mở cửa sổ để lưu thông không khí.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "墙壁上通气透光的装置。",
+      "collocations": ["打开窗户", "关上窗户", "擦窗户", "一扇窗户"],
+      "usage_note": "Lượng từ chuẩn cho cửa/cửa sổ là 扇 (shàn: 一扇窗户).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l07_w08", "order": 8, "textbook": "HSK 4 上", "lesson": 7,
+      "hanzi": "空气", "pinyin": "kōngqì",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "không khí",
+        "structure": "换换空气 / 空气新鲜 / 空气污染 / 空气质量",
+        "explanation": "Lớp khí bao quanh Trái Đất để hô hấp.",
+        "examples": [{ "chinese": "另外，最好经常打开窗户换换空气。", "pinyin": "Lìngwài, zuìhǎo jīngcháng dǎkāi chuānghu huànhuan kōngqì.", "vietnamese": "Ngoài ra, tốt nhất thường xuyên mở cửa sổ để đổi mới không khí.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "构成地球周围大气的气体。",
+      "collocations": ["空气新鲜", "换空气", "空气质量", "空气污染"],
+      "usage_note": "Thuộc nhóm đồng tự 气 (tr.95). Miêu tả không khí trong lành dùng 新鲜 (空气很新鲜).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l07_w09", "order": 9, "textbook": "HSK 4 上", "lesson": 7,
+      "hanzi": "抽烟", "pinyin": "chōu yān",
+      "lesson_usage": {
+        "part_of_speech": "动词 / 离合词 (Động từ ly hợp)", "meaning": "hút thuốc",
+        "structure": "抽烟 / 别再抽了 / 抽一支烟",
+        "explanation": "Cách nói thông dụng nhất trong khẩu ngữ cho hành động hút thuốc lá (văn viết là 吸烟).",
+        "examples": [{ "chinese": "还是老样子，他让我以后不要再抽烟了。", "pinyin": "Hái shì lǎo yàngzi, tā ràng wǒ yǐhòu búyào zài chōu yān le.", "vietnamese": "Vẫn như cũ thôi, bác sĩ bảo mình sau này đừng hút thuốc nữa.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "离合词拆分 (Cách tách ly hợp)",
+          "meanings": ["hút (bao nhiêu điếu/bao lâu) thuốc"],
+          "structure": "抽 + 数量/补语 + 烟 (抽一支烟 / 抽了两包烟 / 抽完烟)",
+          "difference_note": "Vì là từ ly hợp (抽 = hút, 烟 = thuốc lá), bổ ngữ thời lượng hoặc số lượng phải đặt GIỮA 抽 và 烟.",
+          "examples": [{ "chinese": "他以前每天都要抽一包烟，现在已经戒掉了。", "pinyin": "Tā yǐqián měi tiān dōu yào chōu yì bāo yān, xiànzài yǐjīng jièdiào le.", "vietnamese": "Trước đây ngày nào anh ấy cũng hút một bao thuốc, giờ đã cai được rồi." }]
+        }
+      ],
+      "chinese_explanation": "吸食香烟（口语常用，书面多用“吸烟”）。",
+      "collocations": ["别抽烟", "禁止吸烟", "抽一支烟", "戒烟"],
+      "usage_note": "Biển báo nơi công cộng thường viết 禁止吸烟 (Cấm hút thuốc).",
+      "common_errors": "Sai: '他抽烟了一包' → Đúng: '他抽了一包烟'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l07_w10", "order": 10, "textbook": "HSK 4 上", "lesson": 7,
+      "hanzi": "动作", "pinyin": "dòngzuò",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "động tác, hành động, cử chỉ",
+        "structure": "动作很快/慢 / 抽烟这个动作 / 动作片",
+        "explanation": "Cử động cụ thể của thân thể, tay chân hoặc tốc độ thao tác công việc.",
+        "examples": [{ "chinese": "我也知道，可是我觉得抽烟这个动作看上去很帅。", "pinyin": "Wǒ yě zhīdào, kěshì wǒ juéde chōu yān zhège dòngzuò kàn shangqu hěn shuài.", "vietnamese": "Mình cũng biết, nhưng mình thấy động tác hút thuốc trông rất ngầu.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "全身或身体某部分的活动、姿态。",
+      "collocations": ["动作快", "动作慢", "标准动作", "动作片"],
+      "usage_note": "Phân biệt với 活动 (hoạt động tập thể/sự kiện); 动作 chỉ từng cử động cụ thể.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l07_w11", "order": 11, "textbook": "HSK 4 上", "lesson": 7,
+      "hanzi": "帅", "pinyin": "shuài",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "đẹp (đẹp trai, bảnh bao, ngầu)",
+        "structure": "很帅 / 帅哥 / 看上去很帅",
+        "explanation": "Miêu tả vẻ ngoài điển trai của nam giới hoặc động tác, phong thái trông rất cuốn hút, ngầu.",
+        "examples": [{ "chinese": "可是我觉得抽烟这个动作看上去很帅。", "pinyin": "Kěshì wǒ juéde chōu yān zhège dòngzuò kàn shangqu hěn shuài.", "vietnamese": "Nhưng mình thấy động tác hút thuốc trông rất ngầu.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "英俊、潇洒、有风度（多形容男子或动作）。",
+      "collocations": ["很帅", "帅哥", "帅气", "真帅"],
+      "usage_note": "Thường khen nam giới (đối ứng với 漂亮 khen nữ giới), nhưng cũng dùng khen cử chỉ, trang phục cá tính.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l07_w12", "order": 12, "textbook": "HSK 4 上", "lesson": 7,
+      "hanzi": "出现", "pinyin": "chūxiàn",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "xuất hiện, nảy sinh",
+        "structure": "出现问题 / 出现情况 / 第一时间出现",
+        "explanation": "Lộ diện ra trước mắt hoặc phát sinh sự việc, vấn đề mới.",
+        "examples": [{ "chinese": "等你身体出现问题了，后悔就来不及了。", "pinyin": "Děng nǐ shēntǐ chūxiàn wèntí le, hòuhuǐ jiù láibují le.", "vietnamese": "Đợi đến lúc cơ thể cậu nảy sinh vấn đề rồi thì hối hận cũng không kịp đâu.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "显露出来；产生。",
+      "collocations": ["出现问题", "出现错误", "出现奇迹", "及时出现"],
+      "usage_note": "Thường đứng trong câu tồn hiện: Địa điểm/Thời gian + 出现了 + Chủ thể mới (天空出现了一道彩虹).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l07_w13", "order": 13, "textbook": "HSK 4 上", "lesson": 7,
+      "hanzi": "后悔", "pinyin": "hòuhuǐ",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "ân hận, hối hận",
+        "structure": "很后悔 / 后悔 + 做了某事 / 让人后悔",
+        "explanation": "Động từ tâm lý, cảm thấy day dứt, tiếc nuối vì việc đã làm sai hoặc không làm trước đó.",
+        "examples": [{ "chinese": "等你身体出现问题了，后悔就来不及了。", "pinyin": "Děng nǐ shēntǐ chūxiàn wèntí le, hòuhuǐ jiù láibují le.", "vietnamese": "Đợi đến lúc cơ thể cậu xảy ra vấn đề rồi thì hối hận cũng không kịp nữa.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "事后懊悔自己当初做错或没做好。",
+      "collocations": ["很后悔", "后悔极了", "后悔莫及", "后悔没早说"],
+      "usage_note": "Vì là động từ tâm lý nên nhận được phó từ mức độ (非常后悔、有点儿后悔).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l07_w14", "order": 14, "textbook": "HSK 4 上", "lesson": 7,
+      "hanzi": "来不及", "pinyin": "láibují",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "không kịp",
+        "structure": "来不及 + 动词 / (……就)来不及了",
+        "explanation": "Do thời gian quá ngắn nên không thể kịp làm việc gì; có thể đứng độc lập hoặc mang động từ phía sau.",
+        "examples": [{ "chinese": "等你身体出现问题了，后悔就来不及了。", "pinyin": "Děng nǐ shēntǐ chūxiàn wèntí le, hòuhuǐ jiù láibují le.", "vietnamese": "Đợi đến khi cơ thể cậu xuất hiện vấn đề rồi thì hối hận cũng không kịp đâu.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "因为时间短促，无法赶上或顾及。",
+      "collocations": ["来不及了", "来不及吃早饭", "来不及解释"],
+      "usage_note": "Trọng tâm Chú thích 2 (tr.90–91). Dạng khẳng định đối ứng là 来得及 (kịp). KHÔNG dùng 不 đứng trước 来不及 (sai: 不来不及).",
+      "common_errors": "Sai: '不来不及了' → Đúng: '来不及了'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l07_w15", "order": 15, "textbook": "HSK 4 上", "lesson": 7,
+      "hanzi": "反对", "pinyin": "fǎnduì",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "phản đối",
+        "structure": "反对 + 某人/某事 (反对我抽烟 / 反对这个计划)",
+        "explanation": "Không tán thành, bày tỏ ý kiến chống đối; trái nghĩa với 支持 (ủng hộ) và 赞成 (tán thành).",
+        "examples": [{ "chinese": "其实家人也一直反对我抽烟，我自己却觉得没什么。", "pinyin": "Qíshí jiārén yě yìzhí fǎnduì wǒ chōu yān, wǒ zìjǐ què juéde méi shénme.", "vietnamese": "Thật ra người nhà cũng luôn phản đối mình hút thuốc, nhưng bản thân mình lại thấy chẳng sao.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "不赞成、不同意（跟“支持”“赞成”相对）。",
+      "collocations": ["强烈反对", "反对意见", "一致反对"],
+      "usage_note": "Có thể nhận phó từ mức độ: 非常反对、坚决反对.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l07_w16", "order": 16, "textbook": "HSK 4 上", "lesson": 7,
+      "hanzi": "大夫", "pinyin": "dàifu",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "bác sĩ",
+        "structure": "看大夫 / 张大夫 / 问大夫",
+        "explanation": "Cách gọi quen thuộc trong khẩu ngữ miền Bắc Trung Quốc chỉ bác sĩ (đồng nghĩa với 医生).",
+        "examples": [{ "chinese": "我最近眼睛总是跳，大夫说是因为我长时间看电脑，眼睛太累。", "pinyin": "Wǒ zuìjìn yǎnjing zǒngshì tiào, dàifu shuō shì yīnwèi wǒ cháng shíjiān kàn diànnǎo, yǎnjing tài lèi.", "vietnamese": "Gần đây mắt mình cứ giật liên tục, bác sĩ bảo là do mình nhìn máy tính thời gian dài nên mắt quá mệt.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "医生（口语常用，多见于北方地区）。",
+      "collocations": ["看大夫", "李大夫", "请大夫"],
+      "usage_note": "LƯU Ý PHÁT ÂM ĐẶC BIỆT: Đại phu/bác sĩ đọc là dàifu (thanh 4 + thanh nhẹ), KHÔNG đọc dàfū (dàfū là chức quan thời cổ đại).",
+      "common_errors": "Đọc nhầm thành dàfū.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l07_w17", "order": 17, "textbook": "HSK 4 上", "lesson": 7,
+      "hanzi": "植物", "pinyin": "zhíwù",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "thực vật, cây cối",
+        "structure": "绿色植物 / 植物园 / 保护植物",
+        "explanation": "Giới sinh vật bao gồm cây xanh, hoa cỏ, rêu, tảo... (đối lập với 动物 động vật).",
+        "examples": [{ "chinese": "他还告诉我要多向远处看看，尤其是多看看绿色的植物。", "pinyin": "Tā hái gàosu wǒ yào duō xiàng yuǎn chù kànkan, yóuqí shì duō kànkan lǜsè de zhíwù.", "vietnamese": "Bác sĩ còn dặn mình phải nhìn ra xa nhiều hơn, nhất là ngắm nhiều cây xanh.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "生物的一大类，能通过光合作用制造养分（如花草树木）。",
+      "collocations": ["绿色植物", "植物园", "动植物"],
+      "usage_note": "Vườn bách thảo gọi là 植物园 (zhíwùyuán).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l07_w18", "order": 18, "textbook": "HSK 4 上", "lesson": 7,
+      "hanzi": "研究", "pinyin": "yánjiū",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "nghiên cứu",
+        "structure": "研究 + 问题/历史/文化 / 研究发现",
+        "explanation": "Khám phá, tìm tòi sâu bản chất và quy luật của sự vật. Trong bài khóa 3 ('研究发现'), dùng với chức năng danh từ làm chủ ngữ.",
+        "examples": [{ "chinese": "研究发现，如果人一天静坐超过6小时，就会影响身体健康。", "pinyin": "Yánjiū fāxiàn, rúguǒ rén yì tiān jìng zuò chāoguò liù xiǎoshí, jiù huì yǐngxiǎng shēntǐ jiànkāng.", "vietnamese": "Nghiên cứu phát hiện rằng nếu một ngày người ta ngồi yên quá 6 tiếng thì sẽ ảnh hưởng đến sức khỏe thể chất.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ – kết quả/hoạt động nghiên cứu) & 动词 (Bàn bạc, xem xét)",
+          "meanings": ["1. (Danh từ) nghiên cứu, học thuật (研究生 = nghiên cứu sinh, 做研究)", "2. (Động từ) bàn bạc, thảo luận cân nhắc kỹ (这件事我们再研究一下)"],
+          "structure": "读研究生 / 做研究 / 研究一下",
+          "difference_note": "Xuất hiện trong bài tập tr.95 ('我在考虑要不要读研究生') và dùng trong hội họp mang nghĩa 'bàn bạc xem xét'.",
+          "examples": [{ "chinese": "大学毕业后，我在考虑要不要读研究生。", "pinyin": "Dàxué bìyè hòu, wǒ zài kǎolǜ yào bu yào dú yánjiūshēng.", "vietnamese": "Sau khi tốt nghiệp đại học, tôi đang cân nhắc xem có nên học lên cao học (nghiên cứu sinh) không." }]
+        }
+      ],
+      "chinese_explanation": "探求事物的真相、性质、规律等；也指考虑或商讨。",
+      "collocations": ["研究发现", "研究生", "科学研究", "研究问题"],
+      "usage_note": "Có thể lặp lại dạng ABAB: 研究研究 (nghiên cứu, bàn bạc thử xem).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l07_w19", "order": 19, "textbook": "HSK 4 上", "lesson": 7,
+      "hanzi": "超过", "pinyin": "chāoguò",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "vượt quá, vượt qua",
+        "structure": "超过 + Số lượng / Mốc thời gian / Đối thủ",
+        "explanation": "Vượt lên trên một giới hạn về con số, thời gian hoặc thành tích của người khác.",
+        "examples": [{ "chinese": "如果人一天静坐超过6小时，就会影响身体健康。", "pinyin": "Rúguǒ rén yì tiān jìng zuò chāoguò liù xiǎoshí, jiù huì yǐngxiǎng shēntǐ jiànkāng.", "vietnamese": "Nếu mỗi ngày con người ngồi yên vượt quá 6 tiếng thì sẽ ảnh hưởng đến sức khỏe.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "高出、越过一定限度或标准。",
+      "collocations": ["超过6小时", "超过一半", "超过三分之二", "超过别人"],
+      "usage_note": "Phía sau 超过 đặt trực tiếp mốc số lượng hoặc đối tượng so sánh (không thêm 比).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l07_w20", "order": 20, "textbook": "HSK 4 上", "lesson": 7,
+      "hanzi": "散步", "pinyin": "sàn bù",
+      "lesson_usage": {
+        "part_of_speech": "动词 / 离合词 (Động từ ly hợp)", "meaning": "đi dạo, tản bộ",
+        "structure": "去公园散步 / 散散步 / 散了一会儿步",
+        "explanation": "Đi bộ thong thả để thư giãn và rèn luyện sức khỏe; là từ ly hợp tiêu biểu lặp lại dạng AAB (散散步).",
+        "examples": [
+          { "chinese": "好，咱们午饭后就去附近的公园散散步吧。", "pinyin": "Hǎo, zánmen wǔfàn hòu jiù qù fùjìn de gōngyuán sànsan bù ba.", "vietnamese": "Được, ăn trưa xong bọn mình ra công viên gần đây đi dạo một lát nhé.", "from_text": true },
+          { "chinese": "散步是生活中最简单的锻炼方法。", "pinyin": "Sàn bù shì shēnghuó zhōng zuì jiǎndān de duànliàn fāngfǎ.", "vietnamese": "Đi dạo là phương pháp rèn luyện đơn giản nhất trong cuộc sống.", "from_text": true }
+        ]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "离合词重叠与拆分 (Lặp lại AAB & Chèn thời lượng – Chú thích 3 tr.91)",
+          "meanings": ["đi dạo một chút (nhẹ nhàng, thư giãn)"],
+          "structure": "散散步 / 散一会儿步 / 散了半个小时步",
+          "difference_note": "KHÔNG lặp dạng ABAB (sai: 散步散步) và KHÔNG đặt thời lượng sau 步 (sai: 散步半个小时).",
+          "examples": [{ "chinese": "每天晚饭后我都陪父母散半个小时步。", "pinyin": "Měi tiān wǎnfàn hòu wǒ dōu péi fùmǔ sàn bàn ge xiǎoshí bù.", "vietnamese": "Mỗi ngày sau bữa tối tôi đều đi dạo nửa tiếng cùng bố mẹ." }]
+        }
+      ],
+      "chinese_explanation": "为了锻炼或娱乐而随便走走。",
+      "collocations": ["散散步", "饭后散步", "去公园散步"],
+      "usage_note": "Trọng tâm Chú thích 3 về sự lặp lại của từ ly hợp (tr.91).",
+      "common_errors": "Sai: '我们去散步散步吧' → Đúng: '我们去散散步吧'.",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l07_w21", "order": 21, "textbook": "HSK 4 上", "lesson": 7,
+      "hanzi": "指", "pinyin": "zhǐ",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "chỉ về, nói đến (định nghĩa)",
+        "structure": "A (就是)指 B / 意思是……指……",
+        "explanation": "Trong bài khóa 4, dùng để giải thích khái niệm, chỉ rõ một thuật ngữ/lời nói nhắm tới đối tượng hay ý nghĩa nào.",
+        "examples": [{ "chinese": "过去，人们认为健康就是指身体不生病。但是，现在人们认识到，健康还指精神上的健康。", "pinyin": "Guòqù, rénmen rènwéi jiànkāng jiù shì zhǐ shēntǐ bù shēng bìng. Dànshì, xiànzài rénmen rènshidào, jiànkāng hái zhǐ jīngshén shang de jiànkāng.", "vietnamese": "Trước đây người ta cho rằng khỏe mạnh chính là chỉ cơ thể không bị bệnh. Nhưng nay người ta nhận ra rằng sức khỏe còn chỉ cả sức khỏe về mặt tinh thần.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Chỉ tay, trỏ vào) & 名词 (Ngón tay)",
+          "meanings": ["1. (Động từ) dùng ngón tay chỉ hướng/trỏ vào (指着地图 / 指路)", "2. (Danh từ) ngón tay, ngón chân (手指 / 戒指)"],
+          "structure": "指着 + 名词 / 指路 / 手指",
+          "difference_note": "Nghĩa gốc cụ thể bằng hành động tay chân, khác với nghĩa giải thích khái niệm 'chỉ về' trong bài.",
+          "examples": [{ "chinese": "他指着照片里的年轻人说，那就是他哥哥。", "pinyin": "Tā zhǐzhe zhàopiàn li de niánqīng rén shuō, nà jiù shì tā gēge.", "vietnamese": "Anh ấy chỉ vào người thanh niên trong ảnh nói rằng đó chính là anh trai mình." }]
+        }
+      ],
+      "chinese_explanation": "针对、表示某意思；也指用手指向或手指。",
+      "collocations": ["是指", "指的是", "指路", "手指", "指出"],
+      "usage_note": "Xuất hiện trong bài tập tr.95: 第一印象是指在第一次见面时给别人留下的印象.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l07_w22", "order": 22, "textbook": "HSK 4 上", "lesson": 7, "is_out_of_syllabus": true,
+      "hanzi": "精神", "pinyin": "jīngshén",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "tinh thần",
+        "structure": "精神上的健康 / 身体和精神 / 精神压力",
+        "explanation": "Từ đánh dấu * (ngoài khung HSK 4); chỉ đời sống tâm lý, ý thức, đối lập với 身体 (thể chất) hoặc 物质 (vật chất).",
+        "examples": [{ "chinese": "只有身体和精神都健康，才算是真正的健康。", "pinyin": "Zhǐyǒu shēntǐ hé jīngshén dōu jiànkāng, cái suàn shì zhēnzhèng de jiànkāng.", "vietnamese": "Chỉ khi cả thể chất lẫn tinh thần đều khỏe mạnh thì mới được coi là sức khỏe thật sự.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "形容词 (Tính từ – đọc nhẹ jīngshen)",
+          "meanings": ["tỉnh táo, tràn đầy sức sống, trông bảnh bao sắc sảo"],
+          "structure": "很精神 / 看起来很精神 / 没精神",
+          "difference_note": "Khi làm tính từ, chữ 神 thường đọc thanh nhẹ (jīngshen), miêu tả thần thái khỏe khoắn, tươi tỉnh.",
+          "examples": [{ "chinese": "剪了短发以后，他看起来特别精神。", "pinyin": "Jiǎn le duǎnfà yǐhòu, tā kàn qilai tèbié jīngshen.", "vietnamese": "Sau khi cắt tóc ngắn, anh ấy trông vô cùng khỏe khoắn, sáng sủa." }]
+        }
+      ],
+      "chinese_explanation": "人的意识、思维活动和心理状态；作形容词（jīngshen）表示有生气、活跃。",
+      "collocations": ["精神健康", "精神压力", "很精神", "团队精神"],
+      "usage_note": "Chú ý sự khác biệt thanh điệu: danh từ jīngshén vs tính từ khẩu ngữ jīngshen.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l07_w23", "order": 23, "textbook": "HSK 4 上", "lesson": 7,
+      "hanzi": "教授", "pinyin": "jiàoshòu",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "giáo sư",
+        "structure": "一位教授 / 王教授 / 大学教授",
+        "explanation": "Học hàm cao nhất của giảng viên đại học.",
+        "examples": [{ "chinese": "有一位教授用数字来说明健康有多么重要。", "pinyin": "Yǒu yí wèi jiàoshòu yòng shùzì lái shuōmíng jiànkāng yǒu duōme zhòngyào.", "vietnamese": "Có một vị giáo sư dùng con số để giải thích sức khỏe quan trọng đến nhường nào.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Động từ – văn viết)",
+          "meanings": ["giảng dạy, truyền thụ (kiến thức, kỹ năng)"],
+          "structure": "教授 + 课程 / 知识 / 汉语",
+          "difference_note": "Ít dùng trong khẩu ngữ hàng ngày (khẩu ngữ dùng 教 jiāo), thường gặp trong giới thiệu nghề nghiệp trang trọng.",
+          "examples": [{ "chinese": "他在北京大学教授中国现代文学。", "pinyin": "Tā zài Běijīng Dàxué jiàoshòu Zhōngguó xiàndài wénxué.", "vietnamese": "Ông ấy giảng dạy văn học hiện đại Trung Quốc tại Đại học Bắc Kinh." }]
+        }
+      ],
+      "chinese_explanation": "高等学校教师的最高职称；作动词指讲解传授知识。",
+      "collocations": ["大学教授", "一位教授", "副教授", "教授课程"],
+      "usage_note": "Lượng từ tôn trọng là 位 (一位教授).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l07_w24", "order": 24, "textbook": "HSK 4 上", "lesson": 7,
+      "hanzi": "数字", "pinyin": "shùzì",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "con số, chữ số",
+        "structure": "用数字说明 / 阿拉伯数字 / 幸运数字",
+        "explanation": "Ký hiệu biểu thị số lượng (0, 1, 2...) hoặc dữ liệu số.",
+        "examples": [{ "chinese": "有一位教授用数字来说明健康有多么重要。", "pinyin": "Yǒu yí wèi jiàoshòu yòng shùzì lái shuōmíng jiànkāng yǒu duōme zhòngyào.", "vietnamese": "Có một vị giáo sư dùng con số để giải thích sức khỏe quan trọng đến thế nào.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "表示数目的符号或数据。",
+      "collocations": ["幸运数字", "阿拉伯数字", "具体数字", "数字时代"],
+      "usage_note": "Thời đại kỹ thuật số cũng dùng từ này: 数字时代 (shùzì shídài).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l07_w25", "order": 25, "textbook": "HSK 4 上", "lesson": 7,
+      "hanzi": "说明", "pinyin": "shuōmíng",
+      "lesson_usage": {
+        "part_of_speech": "动词 (Động từ)", "meaning": "giải thích rõ, nói rõ",
+        "structure": "说明 + 问题 / 情况 / 原因 / 小句",
+        "explanation": "Trình bày rõ ràng để người khác hiểu bản chất vấn đề.",
+        "examples": [{ "chinese": "有一位教授用数字来说明健康有多么重要。", "pinyin": "Yǒu yí wèi jiàoshòu yòng shùzì lái shuōmíng jiànkāng yǒu duōme zhòngyào.", "vietnamese": "Có một vị giáo sư dùng con số để giải thích rõ sức khỏe quan trọng đến nhường nào.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Chứng tỏ, cho thấy) & 名词 (Bản hướng dẫn, lời thuyết minh)",
+          "meanings": ["1. (Động từ) chứng tỏ, chứng minh (这说明……)", "2. (Danh từ) lời hướng dẫn, bản thuyết minh (使用说明 / 说明书)"],
+          "structure": "这说明…… / 说明书 / 使用说明",
+          "difference_note": "Rất hay dùng trong lập luận ('这说明他很认真' = điều này chứng tỏ cậu ấy rất nghiêm túc) và trên bao bì sản phẩm ('说明书' = tờ hướng dẫn sử dụng).",
+          "examples": [{ "chinese": "买新电器以后，使用前最好先看一下说明书。", "pinyin": "Mǎi xīn diànqì yǐhòu, shǐyòng qián zuìhǎo xiān kàn yíxià shuōmíngshū.", "vietnamese": "Sau khi mua đồ điện mới, trước khi dùng tốt nhất nên xem qua tờ hướng dẫn sử dụng." }]
+        }
+      ],
+      "chinese_explanation": "解释清楚；证明；也指解释性的文字。",
+      "collocations": ["说明情况", "说明原因", "说明书", "这说明"],
+      "usage_note": "Phân biệt với 解释 (giải thích, thanh minh nguyên nhân); 说明 thiên về trình bày rõ ràng hoặc chứng minh bằng dẫn chứng.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l07_w26", "order": 26, "textbook": "HSK 4 上", "lesson": 7,
+      "hanzi": "要是", "pinyin": "yàoshi",
+      "lesson_usage": {
+        "part_of_speech": "连词 (Liên từ)", "meaning": "nếu như, nếu",
+        "structure": "要是……(的话)，就……",
+        "explanation": "Biểu thị giả thiết (đồng nghĩa với 如果 nhưng sắc thái khẩu ngữ tự nhiên hơn).",
+        "examples": [{ "chinese": "要是健康是1，其他都是1后面的0；如果没有1，不管有多少0也没用。", "pinyin": "Yàoshi jiànkāng shì yī, qítā dōu shì yī hòumiàn de líng; rúguǒ méiyǒu yī, bùguǎn yǒu duōshao líng yě méi yòng.", "vietnamese": "Nếu như sức khỏe là số 1 thì những thứ khác đều là số 0 đằng sau số 1; nếu không có số 1 thì bất kể có bao nhiêu số 0 cũng vô dụng.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "连词，表示假设，相当于“如果”（多用于口语）。",
+      "collocations": ["要是……的话", "要是……就……", "你要是有时间"],
+      "usage_note": "Trọng tâm Chú thích 4 (tr.93). Có thể đặt trước hoặc sau chủ ngữ (要是你有时间 / 你要是有时间).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l07_w27", "order": 27, "textbook": "HSK 4 上", "lesson": 7, "is_out_of_syllabus": true,
+      "hanzi": "既", "pinyin": "jì",
+      "lesson_usage": {
+        "part_of_speech": "副词 / 连词 (Phó từ / Liên từ)", "meaning": "đã... lại..., vừa... vừa... (dùng kết hợp với 又/也/还)",
+        "structure": "既……，又/也/还……",
+        "explanation": "Từ đánh dấu * (ngoài khung HSK 4); nối hai vế động từ hoặc tính từ song song cùng tồn tại (cùng tích cực hoặc cùng tiêu cực).",
+        "examples": [{ "chinese": "散步是生活中最简单的锻炼方法，既可以活动身体，又可以减肥。", "pinyin": "Sàn bù shì shēnghuó zhōng zuì jiǎndān de duànliàn fāngfǎ, jì kěyǐ huódòng shēntǐ, yòu kěyǐ jiǎn féi.", "vietnamese": "Đi dạo là cách rèn luyện đơn giản nhất trong cuộc sống, vừa có thể vận động cơ thể, vừa có thể giảm cân.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "常与“又”“也”“还”搭配，表示同时具备两方面的情况。",
+      "collocations": ["既……又……", "既……也……", "既……还……"],
+      "usage_note": "Trọng tâm Chú thích 5 (tr.94). Đọc là jì (tránh nhầm mặt chữ với 即 jí trong 即使).",
+      "common_errors": "Viết nhầm 既 (jì) thành 即 (jí)!",
+      "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l07_w28", "order": 28, "textbook": "HSK 4 上", "lesson": 7,
+      "hanzi": "减肥", "pinyin": "jiǎn féi",
+      "lesson_usage": {
+        "part_of_speech": "动词 / 离合词 (Động từ ly hợp)", "meaning": "giảm cân, giảm béo",
+        "structure": "减肥 / 减减肥 / 减了五斤肥",
+        "explanation": "Làm giảm trọng lượng, lượng mỡ thừa của cơ thể thông qua vận động hoặc ăn kiêng.",
+        "examples": [{ "chinese": "既可以活动身体，又可以减肥，而且不会像跑步那样辛苦。", "pinyin": "Jì kěyǐ huódòng shēntǐ, yòu kěyǐ jiǎn féi, érqiě bú huì xiàng pǎo bù nàyàng xīnkǔ.", "vietnamese": "Vừa có thể vận động cơ thể, vừa có thể giảm cân, hơn nữa lại không vất vả như chạy bộ.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "离合词用法 (Tách ly hợp & Lặp lại AAB)",
+          "meanings": ["giảm cân chút ít / đã giảm được bao nhiêu cân"],
+          "structure": "减减肥 / 减肥成功 / 减肥方法",
+          "difference_note": "Là động từ ly hợp (减 = giảm, 肥 = mỡ thừa), có thể lặp AAB (减减肥) hoặc làm định ngữ (减肥药、减肥方法).",
+          "examples": [{ "chinese": "我最近胖了不少，得多运动减减肥了。", "pinyin": "Wǒ zuìjìn pàng le bùshǎo, děi duō yùndòng jiǎnjian féi le.", "vietnamese": "Dạo này mình béo lên khá nhiều, phải vận động nhiều hơn để giảm cân chút thôi." }]
+        }
+      ],
+      "chinese_explanation": "通过运动、控制饮食等减少体内多余脂肪、减轻体重。",
+      "collocations": ["减肥成功", "减肥方法", "运动减肥", "减减肥"],
+      "usage_note": "Không mang tân ngữ trực tiếp (không nói 减肥身体).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l07_w29", "order": 29, "textbook": "HSK 4 上", "lesson": 7,
+      "hanzi": "辛苦", "pinyin": "xīnkǔ",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "vất vả, cực nhọc",
+        "structure": "很辛苦 / 工作辛苦 / 不会像跑步那样辛苦",
+        "explanation": "Miêu tả công việc, việc làm đòi hỏi nhiều công sức, gây mệt nhọc thể chất hoặc tinh thần.",
+        "examples": [{ "chinese": "而且不会像跑步那样辛苦。", "pinyin": "Érqiě bú huì xiàng pǎo bù nàyàng xīnkǔ.", "vietnamese": "Hơn nữa sẽ không vất vả như chạy bộ.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 / 客套话 (Lời cảm ơn / nhờ vả lịch sự – Bài tập tr.95)",
+          "meanings": ["làm phiền, cảm ơn bạn đã vất vả (辛苦你了 / 您辛苦了)"],
+          "structure": "辛苦 + 某人 + 了",
+          "difference_note": "Dùng làm câu khách sáo cực kỳ phổ biến khi cảm ơn ai đó vừa làm việc vất vả (như bài tập tr.95: '特别好吃，辛苦你了，一会儿我来洗碗').",
+          "examples": [{ "chinese": "今天的晚饭特别好吃，辛苦你了，一会儿我来洗碗。", "pinyin": "Jīntiān de wǎnfàn tèbié hǎochī, xīnkǔ nǐ le, yíhuìr wǒ lái xǐ wǎn.", "vietnamese": "Bữa tối hôm nay ngon quá, vất vả cho bạn rồi, lát nữa để tôi rửa bát." }]
+        }
+      ],
+      "chinese_explanation": "身心劳苦；也用作客套话，感谢或请求别人付出劳力。",
+      "collocations": ["辛苦你了", "您辛苦了", "工作辛苦", "辛辛苦苦"],
+      "usage_note": "Dạng lặp lại của tính từ 2 âm tiết là AABB: 辛辛苦苦.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l07_w30", "order": 30, "textbook": "HSK 4 上", "lesson": 7,
+      "hanzi": "肚子", "pinyin": "dùzi",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "bụng",
+        "structure": "肚子疼 / 肚子饿 / 肚子吃饱了 / 拉肚子",
+        "explanation": "Phần bụng của người hoặc động vật; chữ 子 đọc thanh nhẹ.",
+        "examples": [{ "chinese": "肚子吃饱了需要活动，家人忙了一天需要交流。", "pinyin": "Dùzi chībǎo le xūyào huódòng, jiārén máng le yì tiān xūyào jiāoliú.", "vietnamese": "Bụng ăn no rồi cần vận động, người nhà bận rộn cả ngày cần trò chuyện giao lưu.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "人或动物的腹部。",
+      "collocations": ["肚子疼", "肚子饿了", "拉肚子", "大肚子"],
+      "usage_note": "拉肚子 (lā dùzi) = bị đau bụng đi ngoài/tiêu chảy.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l07_w31", "order": 31, "textbook": "HSK 4 上", "lesson": 7,
+      "hanzi": "感情", "pinyin": "gǎnqíng",
+      "lesson_usage": {
+        "part_of_speech": "名词 (Danh từ)", "meaning": "tình cảm",
+        "structure": "加深感情 / 感情很好 / 有感情 / 培养感情",
+        "explanation": "Tình cảm gắn bó giữa người với người (vợ chồng, gia đình, bạn bè, thầy trò) rộng hơn 爱情 (tình yêu đôi lứa).",
+        "examples": [{ "chinese": "夫妻说说一天的工作能加深感情。", "pinyin": "Fūqī shuōshuo yì tiān de gōngzuò néng jiāshēn gǎnqíng.", "vietnamese": "Vợ chồng kể cho nhau nghe công việc trong ngày có thể giúp tình cảm thêm sâu đậm.", "from_text": true }]
+      },
+      "additional_usages": [],
+      "chinese_explanation": "对外界刺激产生的心理反应，或人与人之间的深厚情谊。",
+      "collocations": ["加深感情", "感情深", "谈感情", "伤感情"],
+      "usage_note": "Phân biệt: 爱情 chỉ tình yêu nam nữ; 感情 bao gồm mọi loại tình cảm (vợ chồng, bạn bè, gia đình, quê hương).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG"]
+    },
+    {
+      "id": "hsk4s_l07_w32", "order": 32, "textbook": "HSK 4 上", "lesson": 7,
+      "hanzi": "烦恼", "pinyin": "fánnǎo",
+      "lesson_usage": {
+        "part_of_speech": "形容词 (Tính từ)", "meaning": "phiền muộn, buồn phiền",
+        "structure": "很烦恼 / 为……而烦恼 / 一天的烦恼",
+        "explanation": "Sách gốc ghi từ loại tính từ (tt.); trong bài khóa 5 dùng như danh từ ('一天的烦恼' = nỗi phiền muộn của cả ngày).",
+        "examples": [{ "chinese": "听孩子谈谈学校里有意思的事，一天的烦恼就都跑掉了。", "pinyin": "Tīng háizi tántan xuéxiào li yǒu yìsi de shì, yì tiān de fánnǎo jiù dōu pǎodiào le.", "vietnamese": "Nghe con cái kể chuyện thú vị ở trường, mọi phiền muộn cả ngày đều tan biến hết.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "名词 (Danh từ)",
+          "meanings": ["nỗi phiền muộn, điều lo âu, rắc rối tinh thần"],
+          "structure": "没有烦恼 / 消除烦恼 / 生活中的烦恼",
+          "difference_note": "Làm chủ ngữ hoặc tân ngữ đứng sau định ngữ (như chính trong bài khóa 5: 一天的烦恼).",
+          "examples": [{ "chinese": "每个人都会遇到各种烦恼，关键是怎么面对。", "pinyin": "Měi ge rén dōu huì yùdào gè zhǒng fánnǎo, guānjiàn shì zěnme miànduì.", "vietnamese": "Ai cũng sẽ gặp đủ loại phiền muộn, mấu chốt là đối mặt ra sao." }]
+        }
+      ],
+      "chinese_explanation": "烦闷苦恼；也指令人烦闷的事。",
+      "collocations": ["消除烦恼", "没有烦恼", "感到烦恼", "自寻烦恼"],
+      "usage_note": "Phân biệt với 麻烦 (phiền phức về công việc, thủ tục); 烦恼 thiên về tâm trạng buồn bực, lo âu trong lòng.",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4s_l07_w33", "order": 33, "textbook": "HSK 4 上", "lesson": 7,
+      "hanzi": "掉", "pinyin": "diào",
+      "lesson_usage": {
+        "part_of_speech": "动词 / 结果补语 (Động từ / Bổ ngữ kết quả)", "meaning": "mất, đi, hết (đặt sau động từ chỉ kết quả)",
+        "structure": "V + 掉 (跑掉 / 忘掉 / 扔掉 / 洗掉 / 关掉 / 吃掉 / 卖掉)",
+        "explanation": "Đặt ngay sau động từ làm bổ ngữ kết quả, chỉ sự vật rời đi, biến mất, loại bỏ hoặc hoàn tất triệt để.",
+        "examples": [{ "chinese": "一天的烦恼就都跑掉了。", "pinyin": "Yì tiān de fánnǎo jiù dōu pǎodiào le.", "vietnamese": "Mọi phiền muộn cả ngày đều chạy biến hết cả.", "from_text": true }]
+      },
+      "additional_usages": [
+        {
+          "part_of_speech": "动词 (Động từ độc lập: rơi, rụng, đánh rơi)",
+          "meanings": ["1. rơi xuống, rụng xuống (树叶掉了 / 掉眼泪)", "2. đánh rơi, làm mất (手机掉了)", "3. tụt giảm, tụt hậu (掉队 / 掉价)"],
+          "structure": "掉在地上 / 掉头发 / 掉眼泪",
+          "difference_note": "Khi làm động từ chính trong câu, 掉 có nghĩa là rơi, rụng hoặc làm rơi mất đồ.",
+          "examples": [{ "chinese": "小心！你的钥匙掉在地上了。", "pinyin": "Xiǎoxīn! Nǐ de yàoshi diào zài dì shang le.", "vietnamese": "Cẩn thận! Chìa khóa của bạn rơi xuống đất rồi." }]
+        }
+      ],
+      "chinese_explanation": "用在动词后作结果补语，表示去除、消失或彻底完成；单用作动词表示落下、遗失或减少。",
+      "collocations": ["跑掉", "忘掉", "扔掉", "关掉", "掉在地上", "掉眼泪"],
+      "usage_note": "Những cụm V + 掉 cực phổ biến trong HSK 4: 忘掉 (quên mất), 扔掉 (vứt đi), 洗掉 (giặt sạch/rửa sạch), 戒掉 (cai bỏ).",
+      "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_SHANG", "SRC_ZDIC"]
+    }
+  ],
+  "proper_nouns": [],
+  "same_char_expansion": {
+    "char": "气",
+    "words": [
+      { "hanzi": "生气", "pinyin": "shēng qì", "meaning": "tức giận, giận dữ" },
+      { "hanzi": "脾气", "pinyin": "píqi", "meaning": "tính khí, tính tình" },
+      { "hanzi": "空气", "pinyin": "kōngqì", "meaning": "không khí" },
+      { "hanzi": "气候", "pinyin": "qìhòu", "meaning": "khí hậu" }
+    ],
+    "examples": [
+      { "chinese": "别生气了，我刚才真的是跟你开玩笑的。", "vietnamese": "Đừng giận nữa, vừa nãy mình thật sự chỉ đùa cậu thôi." },
+      { "chinese": "他不但能力强，而且脾气好，毕业后一定能找到一份好工作。", "vietnamese": "Anh ấy không những năng lực giỏi mà tính tình còn tốt, sau khi tốt nghiệp chắc chắn sẽ tìm được một công việc tốt." },
+      { "chinese": "因为太高，这里空气比别的地方少，刚到这里的人会感觉身体不舒服。", "vietnamese": "Vì độ cao quá lớn, không khí ở đây loãng (ít) hơn nơi khác, người mới đến đây sẽ cảm thấy cơ thể không thoải mái." },
+      { "chinese": "这次活动是从2007年开始的，它使人们更加关心世界气候变化的问题了。", "vietnamese": "Hoạt động này bắt đầu từ năm 2007, nó khiến mọi người càng quan tâm hơn tới vấn đề biến đổi khí hậu thế giới." }
+    ]
+  },
+  "grammar": [
+    {
+      "title": "估计",
+      "formula": "(S) + 估计 + Động từ / Mệnh đề nhỏ",
+      "meaning": "Đoán chừng, ước chừng, dự đoán.",
+      "usage": "Động từ 估计 biểu thị việc căn cứ vào một số tình huống, cơ sở nhất định để đưa ra suy đoán đại khái về sự việc.",
+      "context": "Có thể đứng sau chủ ngữ người phán đoán (我估计……) hoặc đặt trước/sau chủ ngữ của sự việc được suy đoán (估计他下午六点才能到 / 他估计下午六点才能到).",
+      "examples": [
+        { "chinese": "我还不习惯北方的气候，估计是天气太干。", "pinyin": "Wǒ hái bù xíguàn běifāng de qìhòu, gūjì shì tiānqì tài gān.", "vietnamese": "Mình vẫn chưa quen khí hậu miền Bắc, đoán chừng do thời tiết quá khô." },
+        { "chinese": "你有没有去问问小王？估计他应该有办法。", "pinyin": "Nǐ yǒu méiyǒu qù wènwen Xiǎo Wáng? Gūjì tā yīnggāi yǒu bànfǎ.", "vietnamese": "Cậu đã đi hỏi Tiểu Vương chưa? Đoán chừng cậu ấy hẳn là có cách đấy." },
+        { "chinese": "机场通知飞机晚点一个小时，估计他下午六点才能到上海。", "pinyin": "Jīchǎng tōngzhī fēijī wǎndiǎn yí ge xiǎoshí, gūjì tā xiàwǔ liù diǎn cái néng dào Shànghǎi.", "vietnamese": "Sân bay thông báo máy bay trễ một tiếng, ước chừng 6 giờ chiều anh ấy mới tới được Thượng Hải." }
+      ],
+      "important_notes": "Xem bảng So sánh '估计—可能' ngay bên dưới để nắm chắc 3 điểm khác nhau quan trọng.",
+      "common_errors": "Thêm 很 trước 估计 (Sai: 很估计他不知道 → Đúng: 很可能他还不知道).",
+      "comparison": "估计 là động từ (đặt được trước mệnh đề sau chủ ngữ 我: 我估计他们没机会了); 可能 là động từ năng nguyện/tính từ (nhận 很 và 最: 很可能, 最可能).",
+      "mini_practice": [
+        { "prompt": "_______________________，我们还是下次再去吧。（估计）", "sample_answer": "现在去估计已经关门了 / 估计一会儿要下大雨", "explanation": "Dùng 估计 nêu dự đoán lý do phải hoãn sang lần sau." },
+        { "prompt": "我现在就过去，_______________________。（估计）", "sample_answer": "估计二十分钟就能到", "explanation": "Dùng 估计 ước lượng thời gian di chuyển." },
+        { "prompt": "你可以上网买书，_______________________。（估计）", "sample_answer": "估计比去书店买便宜不少", "explanation": "Dùng 估计 suy đoán lợi ích khi mua sách trên mạng." }
+      ]
+    },
+    {
+      "title": "来不及",
+      "formula": "(S) + 来不及 (+ 动词短语)  |  ……就来不及了",
+      "meaning": "Không kịp (vì thời gian quá ngắn).",
+      "usage": "Động từ 来不及 diễn tả do thời gian gấp gáp nên không kịp thực hiện việc gì. Có thể đứng độc lập làm vị ngữ (来不及了) hoặc mang động từ phía sau (来不及开会).",
+      "context": "Thường đi cùng 再不……就来不及了 (nếu không... nữa thì sẽ không kịp đâu).",
+      "examples": [
+        { "chinese": "等你身体出现问题了，后悔就来不及了。", "pinyin": "Děng nǐ shēntǐ chūxiàn wèntí le, hòuhuǐ jiù láibují le.", "vietnamese": "Đợi đến khi cơ thể cậu gặp vấn đề rồi thì hối hận cũng không kịp nữa." },
+        { "chinese": "今天来不及开会了，明天我们再找时间说这个问题吧。", "pinyin": "Jīntiān láibují kāi huì le, míngtiān wǒmen zài zhǎo shíjiān shuō zhège wèntí ba.", "vietnamese": "Hôm nay không kịp họp rồi, ngày mai chúng ta lại sắp xếp thời gian bàn vấn đề này nhé." },
+        { "chinese": "你不是和同学约了下午两点见面吗？再不走就来不及了。", "pinyin": "Nǐ bú shì hé tóngxué yuē le xiàwǔ liǎng diǎn jiàn miàn ma? Zài bù zǒu jiù láibují le.", "vietnamese": "Cậu chẳng phải hẹn bạn học 2 giờ chiều gặp mặt sao? Không đi ngay là không kịp đâu." }
+      ],
+      "important_notes": "Dạng khẳng định là 来得及 (kịp). Bản thân 来不及 đã mang nghĩa phủ định (chữ 不 ở giữa), tuyệt đối không thêm 不 hay 没 phía trước.",
+      "common_errors": "Sai: '今天没来不及去银行' → Đúng: '今天来不及去银行了'.",
+      "comparison": "来不及 (không kịp về thời gian) vs 赶不上 (không đuổi kịp xe/tàu/máy bay hoặc tiến độ).",
+      "mini_practice": [
+        { "prompt": "节目8点开始，_______________________。（来不及）", "sample_answer": "现在都7点50了，肯定来不及了", "explanation": "Dùng 来不及了 đứng độc lập ở cuối câu." },
+        { "prompt": "我本来打算去图书馆还书，_______________________。（来不及）", "sample_answer": "可是今天太忙，来不及去了", "explanation": "Dùng 来不及 + động từ 去." },
+        { "prompt": "_______________________，原来飞机10点才起飞。（来不及）", "sample_answer": "我以为来不及了", "explanation": "Đặt 来不及 trong mệnh đề suy nghĩ nhầm ban đầu trước 原来." }
+      ]
+    },
+    {
+      "title": "离合词重叠 (Sự lặp lại của từ ly hợp: AAB)",
+      "formula": "Từ ly hợp AB → A + A + B (hoặc A + 一 + A + B / A + 了 + A + B)",
+      "meaning": "Diễn tả hành động diễn ra trong thời gian ngắn, làm thử, mang sắc thái nhẹ nhàng, thoải mái.",
+      "usage": "Từ ly hợp (kết cấu động-tân như 散步、帮忙、睡觉、游泳、聊天儿、见面) khi lặp lại CHỈ lặp âm tiết động từ A (tạo dạng AAB), KHÔNG lặp cả hai chữ theo kiểu ABAB.",
+      "context": "Dùng trong khẩu ngữ để giọng điệu nhẹ nhàng, rủ rê, đề nghị thân mật.",
+      "examples": [
+        { "chinese": "咱们午饭后就去附近的公园散散步吧。", "pinyin": "Zánmen wǔfàn hòu jiù qù fùjìn de gōngyuán sànsan bù ba.", "vietnamese": "Bọn mình ăn trưa xong ra công viên gần đây đi dạo chút đi." },
+        { "chinese": "行李箱怎么这么重啊！你快来帮帮我的忙。", "pinyin": "Xínglixiāng zěnme zhème zhòng a! Nǐ kuài lái bāngbang wǒ de máng.", "vietnamese": "Vali sao mà nặng thế! Anh mau lại giúp em một tay với." },
+        { "chinese": "周末马克一般在宿舍看看书、听听音乐、睡睡觉。", "pinyin": "Zhōumò Mǎkè yìbān zài sùshè kànkan shū, tīngting yīnyuè, shuìshui jiào.", "vietnamese": "Cuối tuần Mark thường ở ký túc xá đọc chút sách, nghe chút nhạc, ngủ một giấc." }
+      ],
+      "important_notes": "Các từ ly hợp tiêu biểu HSK 3–4: 散步→散散步, 帮忙→帮帮忙 (hoặc 帮帮我的忙), 睡觉→睡睡觉, 游泳→游游泳, 聊天儿→聊聊天儿, 见面→见见面, 唱歌→唱唱歌, 跳舞→跳跳舞, 洗澡→洗洗澡, 减肥→减减肥.",
+      "common_errors": "Lặp nhầm theo kiểu động từ 2 âm tiết thông thường ABAB: Sai '散步散步 / 游泳游泳 / 帮忙帮忙' → Đúng '散散步 / 游游泳 / 帮帮忙'.",
+      "comparison": "Động từ thường 2 âm tiết lặp ABAB (休息休息、活动活动、考虑考虑); Từ ly hợp lặp AAB (散散步、睡睡觉、聊聊天儿).",
+      "mini_practice": [
+        { "prompt": "你有时间应该多回家看看爸妈，_______________________。（聊天儿）", "sample_answer": "跟他们聊聊天儿", "explanation": "Lặp AAB của 聊天儿 là 聊聊天儿." },
+        { "prompt": "_______________________，对身体特别好。（游泳）", "sample_answer": "周末去游游泳", "explanation": "Lặp AAB của 游泳 là 游游泳." },
+        { "prompt": "我帮你跟小李联系好了，_______________________。（见面）", "sample_answer": "你们明天见见面吧", "explanation": "Lặp AAB của 见面 là 见见面." }
+      ]
+    },
+    {
+      "title": "要是……（的话），就……",
+      "formula": "(S1) + 要是 + Giả thiết + (的话)，(S2) + 就 + Hành động / Kết quả",
+      "meaning": "Nếu như... thì...",
+      "usage": "Liên từ 要是 tương đương 如果 / 如果是, đưa ra một tình huống giả thiết ở vế 1 (cuối vế 1 có thể thêm 的话), vế 2 dùng 就 (hoặc 那么就) nêu hành động hay kết quả tương ứng.",
+      "context": "Dùng cực kỳ phổ biến trong giao tiếp khẩu ngữ hàng ngày.",
+      "examples": [
+        { "chinese": "要是健康是1，其他都是1后面的0。", "pinyin": "Yàoshi jiànkāng shì yī, qítā dōu shì yī hòumiàn de líng.", "vietnamese": "Nếu như sức khỏe là số 1 thì những thứ khác đều là số 0 phía sau số 1." },
+        { "chinese": "要是你想来中国的大学留学，和中国学生一起学习专业课，那么就需要做好这些准备。", "pinyin": "Yàoshi nǐ xiǎng lái Zhōngguó de dàxué liúxué, hé Zhōngguó xuésheng yìqǐ xuéxí zhuānyèkè, nàme jiù xūyào zuòhǎo zhèxiē zhǔnbèi.", "vietnamese": "Nếu bạn muốn đến đại học Trung Quốc du học và học môn chuyên ngành cùng sinh viên Trung Quốc, vậy thì cần làm tốt những chuẩn bị này." },
+        { "chinese": "要是质量比别人的好的话，那么价格贵一点儿也是可以接受的。", "pinyin": "Yàoshi zhìliàng bǐ biérén de hǎo dehuà, nàme jiàgé guì yìdiǎnr yě shì kěyǐ jiēshòu de.", "vietnamese": "Nếu chất lượng tốt hơn của người khác thì giá đắt hơn một chút cũng có thể chấp nhận được." }
+      ],
+      "important_notes": "要是 có thể đặt trước hoặc sau chủ ngữ vế 1 (要是你有时间 / 你要是有时间 đều đúng).",
+      "common_errors": "Lặp từ dư thừa (Sai: 要是如果明天不下雨 → Chỉ chọn một: 要是 hoặc 如果).",
+      "comparison": "要是 mang sắc thái khẩu ngữ gần gũi hơn 如果; cấu trúc ngữ pháp hoàn toàn tương đồng.",
+      "mini_practice": [
+        { "prompt": "_______________________，20分钟就能到。（要是）", "sample_answer": "要是不堵车的话 / 要是坐地铁去", "explanation": "Đưa ra điều kiện giả thiết thuận lợi bằng 要是." },
+        { "prompt": "_______________________，可能不够，再买两瓶吧。（要是……的话）", "sample_answer": "要是大家都喝果汁的话", "explanation": "Dùng khung 要是……的话." },
+        { "prompt": "你要是有时间，_______________________。（就）", "sample_answer": "就来我家玩儿吧 / 就一起去散散步吧", "explanation": "Vế sau phối hợp với 就." }
+      ]
+    },
+    {
+      "title": "既……又/也/还……",
+      "formula": "S + 既 + V/Adj 1，又 / 也 / 还 + V/Adj 2",
+      "meaning": "Vừa... vừa..., đã... lại còn... (quan hệ song song).",
+      "usage": "Nối hai cấu trúc động từ hoặc tính từ có kết cấu tương đồng, biểu thị đồng thời có cả hai phương diện cùng lúc (hoặc cùng mang nghĩa tích cực, hoặc cùng mang nghĩa tiêu cực).",
+      "context": "Rất hay dùng để khen ngợi hai ưu điểm song hành hoặc chê bai hai nhược điểm song hành.",
+      "examples": [
+        { "chinese": "散步是生活中最简单的锻炼方法，既可以活动身体，又可以减肥。", "pinyin": "Sàn bù shì shēnghuó zhōng zuì jiǎndān de duànliàn fāngfǎ, jì kěyǐ huódòng shēntǐ, yòu kěyǐ jiǎn féi.", "vietnamese": "Đi dạo là cách rèn luyện đơn giản nhất trong cuộc sống, vừa có thể vận động cơ thể, vừa có thể giảm cân." },
+        { "chinese": "成功离不开交流，交流自然需要说话。会说话的人既容易交到朋友，也容易获得成功。", "pinyin": "Chénggōng líbukāi jiāoliú, jiāoliú zìrán xūyào shuōhuà. Huì shuōhuà de rén jì róngyì jiāodào péngyou, yě róngyì huòdé chénggōng.", "vietnamese": "Thành công không thể tách rời giao tiếp, giao tiếp tự nhiên cần nói chuyện. Người khéo ăn nói vừa dễ kết bạn, cũng dễ đạt được thành công." },
+        { "chinese": "他那个人做事既不认真，动作还慢，这个工作这么重要，还是让别人做吧。", "pinyin": "Tā nàge rén zuò shì jì bù rènzhēn, dòngzuò hái màn, zhège gōngzuò zhème zhòngyào, háishi ràng biérén zuò ba.", "vietnamese": "Con người anh ta làm việc đã không nghiêm túc, thao tác lại còn chậm, công việc này quan trọng thế, hay là để người khác làm đi." }
+      ],
+      "important_notes": "Hai vế phải CÙNG chiều sắc thái (cùng tốt hoặc cùng xấu), không nối một khen một chê (nếu trái chiều phải dùng 虽然……但是……).",
+      "common_errors": "Nối 2 vế trái chiều: Sai '这件衣服既好看又太贵' → Đúng '这件衣服虽然好看，但是太贵了'.",
+      "comparison": "又……又…… thường nối tính từ/cụm ngắn (又便宜又好); 既……又/也/还…… trang trọng hơn và nối tốt các cụm động từ dài (既可以……，又可以……).",
+      "mini_practice": [
+        { "prompt": "A: 这两件衣服太漂亮了，你打算买哪件？  B: _______________________。（既……又……）", "sample_answer": "我买这件吧，既便宜又舒服", "explanation": "Nối hai ưu điểm song hành bằng 既……又……." },
+        { "prompt": "来中国学习汉语，_______________________。（既……也……）", "sample_answer": "既可以提高汉语水平，也可以了解中国文化", "explanation": "Nối hai cụm động từ song song bằng 既……也……." },
+        { "prompt": "我们都愿意跟他交朋友，_______________________。（既……还……）", "sample_answer": "因为他既幽默，还特别热情", "explanation": "Nối hai phẩm chất tích cực bằng 既……还……." }
+      ]
+    }
+  ],
+  "comparison_section": {
+    "label": "比一比 So sánh",
+    "pair": "估计 — 可能",
+    "term_a": "估计 (gūjì)",
+    "term_b": "可能 (kěnéng)",
+    "similarity": "Cả hai đều có thể biểu thị suy đoán đại khái về sự việc dựa vào một số tình huống. VD: 今天的工作估计/可能完不成了，因为出了点儿问题。",
+    "differences": [
+      { "criterion": "Từ loại & Vị trí trước mệnh đề", "a": "Động từ: trực tiếp làm vị ngữ, sau nó có thể là động từ HOẶC cả một mệnh đề (我估计这次考试考得不错 / 我估计他们没机会再进球了).", "b": "Động từ năng nguyện: chỉ đứng trước động từ để bổ nghĩa (我这次考试可能考得不错; KHÔNG nói '我可能他们没机会')." },
+      { "criterion": "Chức năng tính từ (“có khả năng / có thể xảy ra”)", "a": "KHÔNG thể làm tính từ (sai: 最估计的原因 / 不估计的事情).", "b": "CÓ thể làm tính từ làm định ngữ (最可能的原因 / 这是不可能的事情)." },
+      { "criterion": "Kết hợp với phó từ mức độ “很 / 最”", "a": "KHÔNG thể thêm 很/最 ở phía trước.", "b": "CÓ thể tạo thành 很可能 / 最可能 (很可能他还不知道这件事 / 他很可能还不知道这件事)." }
+    ]
+  },
+  "texts": [
+    {
+      "id": "t1", "title_zh": "小李和小林聊天气和身体情况", "title_vi": "Tiểu Lý và Tiểu Lâm nói chuyện về thời tiết và tình hình sức khỏe",
+      "lines": [
+        { "speaker": "小李", "chinese": "你的鼻子怎么流血了？快用纸擦擦。", "pinyin": "Nǐ de bízi zěnme liú xiě le? Kuài yòng zhǐ cāca.", "vietnamese": "Mũi cậu sao lại chảy máu thế? Mau lấy giấy lau đi." },
+        { "speaker": "小林", "chinese": "我还不习惯北方的气候，估计是天气太干。今天天气不是很冷，你怎么穿这么多？", "pinyin": "Wǒ hái bù xíguàn běifāng de qìhòu, gūjì shì tiānqì tài gān. Jīntiān tiānqì bú shì hěn lěng, nǐ zěnme chuān zhème duō?", "vietnamese": "Mình vẫn chưa quen khí hậu miền Bắc, đoán chừng do thời tiết quá khô. Thời tiết hôm nay đâu lạnh lắm, sao cậu mặc nhiều thế?" },
+        { "speaker": "小李", "chinese": "就是因为昨天穿得太少，我都感冒了。", "pinyin": "Jiù shì yīnwèi zuótiān chuān de tài shǎo, wǒ dōu gǎnmào le.", "vietnamese": "Chính vì hôm qua mặc ít quá nên mình bị cảm luôn rồi." },
+        { "speaker": "小林", "chinese": "最近感冒的人特别多。你去看医生了吗？", "pinyin": "Zuìjìn gǎnmào de rén tèbié duō. Nǐ qù kàn yīshēng le ma?", "vietnamese": "Dạo này người bị cảm đặc biệt nhiều. Cậu đi khám bác sĩ chưa?" },
+        { "speaker": "小李", "chinese": "没有，我只是咳嗽，有点儿头疼，不严重，多喝点儿水就好了。", "pinyin": "Méiyǒu, wǒ zhǐ shì késou, yǒudiǎnr tóu téng, bù yánzhòng, duō hē diǎnr shuǐ jiù hǎo le.", "vietnamese": "Chưa, mình chỉ ho và hơi đau đầu, không nghiêm trọng đâu, uống thêm chút nước là khỏi thôi." },
+        { "speaker": "小林", "chinese": "春天天气时冷时热，特别容易感冒。这时候一定要多注意保暖，另外，最好经常打开窗户换换空气。", "pinyin": "Chūntiān tiānqì shí lěng shí rè, tèbié róngyì gǎnmào. Zhè shíhou yídìng yào duō zhùyì bǎonuǎn, lìngwài, zuìhǎo jīngcháng dǎkāi chuānghu huànhuan kōngqì.", "vietnamese": "Thời tiết mùa xuân lúc lạnh lúc nóng, rất dễ bị cảm. Lúc này nhất định phải chú ý giữ ấm nhiều hơn, ngoài ra tốt nhất thường xuyên mở cửa sổ thay đổi không khí." }
+      ]
+    },
+    {
+      "id": "t2", "title_zh": "小夏和小雨聊小雨抽烟的事情", "title_vi": "Tiểu Hạ và Tiểu Vũ nói chuyện về việc hút thuốc của Tiểu Vũ",
+      "lines": [
+        { "speaker": "小夏", "chinese": "你咳嗽好点儿了吗？医生怎么说的？", "pinyin": "Nǐ késou hǎo diǎnr le ma? Yīshēng zěnme shuō de?", "vietnamese": "Cậu đỡ ho chút nào chưa? Bác sĩ nói thế nào?" },
+        { "speaker": "小雨", "chinese": "还是老样子，他让我以后不要再抽烟了。", "pinyin": "Hái shì lǎo yàngzi, tā ràng wǒ yǐhòu búyào zài chōu yān le.", "vietnamese": "Vẫn như cũ thôi, bác sĩ bảo mình sau này đừng hút thuốc nữa." },
+        { "speaker": "小夏", "chinese": "抽烟对身体一点儿好处也没有。", "pinyin": "Chōu yān duì shēntǐ yìdiǎnr hǎochu yě méiyǒu.", "vietnamese": "Hút thuốc chẳng có chút lợi ích nào cho cơ thể cả." },
+        { "speaker": "小雨", "chinese": "我也知道，可是我觉得抽烟这个动作看上去很帅。", "pinyin": "Wǒ yě zhīdào, kěshì wǒ juéde chōu yān zhège dòngzuò kàn shangqu hěn shuài.", "vietnamese": "Mình cũng biết, nhưng mình thấy động tác hút thuốc trông rất ngầu." },
+        { "speaker": "小夏", "chinese": "等你身体出现问题了，后悔就来不及了。", "pinyin": "Děng nǐ shēntǐ chūxiàn wèntí le, hòuhuǐ jiù láibují le.", "vietnamese": "Đợi đến lúc cơ thể cậu gặp vấn đề rồi thì hối hận cũng không kịp đâu." },
+        { "speaker": "小雨", "chinese": "其实家人也一直反对我抽烟，我自己却觉得没什么。但最近总是咳嗽，所以我有些担心了。", "pinyin": "Qíshí jiārén yě yìzhí fǎnduì wǒ chōu yān, wǒ zìjǐ què juéde méi shénme. Dàn zuìjìn zǒngshì késou, suǒyǐ wǒ yǒuxiē dān xīn le.", "vietnamese": "Thật ra người nhà cũng luôn phản đối mình hút thuốc, nhưng bản thân mình lại thấy chẳng sao. Cơ mà dạo này cứ ho suốt nên mình cũng hơi lo lắng rồi." },
+        { "speaker": "小夏", "chinese": "抽烟不仅对自己没好处，还会影响周围人的身体健康。为了你和你的家人，别再抽了。", "pinyin": "Chōu yān bùjǐn duì zìjǐ méi hǎochu, hái huì yǐngxiǎng zhōuwéi rén de shēntǐ jiànkāng. Wèile nǐ hé nǐ de jiārén, bié zài chōu le.", "vietnamese": "Hút thuốc không chỉ vô ích cho bản thân mà còn ảnh hưởng sức khỏe những người xung quanh. Vì cậu và gia đình cậu, đừng hút nữa nhé." }
+      ]
+    },
+    {
+      "id": "t3", "title_zh": "小李和小林聊电脑对身体的影响", "title_vi": "Tiểu Lý và Tiểu Lâm nói chuyện về ảnh hưởng của máy tính đối với cơ thể",
+      "lines": [
+        { "speaker": "小李", "chinese": "我最近眼睛总是跳，大夫说是因为我长时间看电脑，眼睛太累。", "pinyin": "Wǒ zuìjìn yǎnjing zǒngshì tiào, dàifu shuō shì yīnwèi wǒ cháng shíjiān kàn diànnǎo, yǎnjing tài lèi.", "vietnamese": "Gần đây mắt mình cứ giật hoài, bác sĩ bảo vì mình nhìn máy tính thời gian dài nên mắt quá mệt." },
+        { "speaker": "小林", "chinese": "长时间坐在电脑前面工作，眼睛很容易累。最好是每过一小时就休息休息，然后再开始工作。", "pinyin": "Cháng shíjiān zuò zài diànnǎo qiánmian gōngzuò, yǎnjing hěn róngyì lèi. Zuìhǎo shì měi guò yì xiǎoshí jiù xiūxi xiūxi, ránhòu zài kāishǐ gōngzuò.", "vietnamese": "Ngồi làm việc trước máy tính lâu rất dễ mỏi mắt. Tốt nhất là cứ qua một tiếng lại nghỉ ngơi chút rồi hãy bắt đầu làm việc tiếp." },
+        { "speaker": "小李", "chinese": "医生也这么说，他还告诉我要多向远处看看，尤其是多看看绿色的植物。", "pinyin": "Yīshēng yě zhème shuō, tā hái gàosu wǒ yào duō xiàng yuǎn chù kànkan, yóuqí shì duō kànkan lǜsè de zhíwù.", "vietnamese": "Bác sĩ cũng nói thế, ông ấy còn dặn mình phải nhìn ra xa nhiều hơn, nhất là ngắm nhiều cây xanh." },
+        { "speaker": "小林", "chinese": "长时间对着电脑不仅对眼睛不好，身体也会不舒服。研究发现，如果人一天静坐超过6小时，就会影响身体健康。", "pinyin": "Cháng shíjiān duìzhe diànnǎo bùjǐn duì yǎnjing bù hǎo, shēntǐ yě huì bù shūfu. Yánjiū fāxiàn, rúguǒ rén yì tiān jìng zuò chāoguò liù xiǎoshí, jiù huì yǐngxiǎng shēntǐ jiànkāng.", "vietnamese": "Đối diện với máy tính lâu không chỉ hại mắt mà cơ thể cũng khó chịu. Nghiên cứu phát hiện rằng nếu con người mỗi ngày ngồi yên quá 6 tiếng sẽ ảnh hưởng tới sức khỏe." },
+        { "speaker": "小李", "chinese": "是啊！像咱们这些久坐办公室的人要注意，有时间应该多站起来活动活动。", "pinyin": "Shì a! Xiàng zánmen zhèxiē jiǔ zuò bàngōngshì de rén yào zhùyì, yǒu shíjiān yīnggāi duō zhàn qilai huódòng huódòng.", "vietnamese": "Đúng thế! Những người ngồi văn phòng lâu như chúng mình phải chú ý, có thời gian nên đứng dậy vận động nhiều hơn." },
+        { "speaker": "小林", "chinese": "好，咱们午饭后就去附近的公园散散步吧。", "pinyin": "Hǎo, zánmen wǔfàn hòu jiù qù fùjìn de gōngyuán sànsan bù ba.", "vietnamese": "Được, ăn trưa xong bọn mình ra công viên gần đây đi dạo chút đi." }
+      ]
+    },
+    {
+      "id": "t4", "title_zh": "什么是真正的健康", "title_vi": "Thế nào là sức khỏe thật sự",
+      "lines": [
+        { "speaker": "", "chinese": "每个人都希望自己健康，那么什么才是健康呢？过去，人们认为健康就是指身体不生病。但是，现在人们认识到，健康还指精神上的健康。只有身体和精神都健康，才算是真正的健康。", "pinyin": "Měi ge rén dōu xīwàng zìjǐ jiànkāng, nàme shénme cái shì jiànkāng ne? Guòqù, rénmen rènwéi jiànkāng jiù shì zhǐ shēntǐ bù shēng bìng. Dànshì, xiànzài rénmen rènshidào, jiànkāng hái zhǐ jīngshén shang de jiànkāng. Zhǐyǒu shēntǐ hé jīngshén dōu jiànkāng, cái suàn shì zhēnzhèng de jiànkāng.", "vietnamese": "Mỗi người đều mong bản thân khỏe mạnh, vậy thế nào mới là khỏe mạnh? Trước đây người ta cho rằng khỏe mạnh chính là cơ thể không ốm đau. Nhưng ngày nay mọi người nhận thức được rằng sức khỏe còn chỉ sức khỏe về mặt tinh thần. Chỉ khi cả thể chất lẫn tinh thần đều khỏe mạnh mới được coi là sức khỏe thật sự." },
+        { "speaker": "", "chinese": "有一位教授用数字来说明健康有多么重要：要是健康是1，其他都是1后面的0；如果没有1，不管有多少0也没用。所以我们平时一定要注意锻炼，别等健康出问题了才后悔。", "pinyin": "Yǒu yí wèi jiàoshòu yòng shùzì lái shuōmíng jiànkāng yǒu duōme zhòngyào: Yàoshi jiànkāng shì yī, qítā dōu shì yī hòumiàn de líng; rúguǒ méiyǒu yī, bùguǎn yǒu duōshao líng yě méi yòng. Suǒyǐ wǒmen píngshí yídìng yào zhùyì duànliàn, bié děng jiànkāng chū wèntí le cái hòuhuǐ.", "vietnamese": "Có một vị giáo sư dùng con số để giải thích sức khỏe quan trọng đến nhường nào: nếu sức khỏe là số 1, những thứ khác đều là số 0 đằng sau số 1; nếu không có số 1 thì bất kể có bao nhiêu số 0 cũng vô ích. Vì vậy ngày thường chúng ta nhất định phải chú ý rèn luyện, đừng đợi sức khỏe gặp vấn đề rồi mới hối hận." }
+      ]
+    },
+    {
+      "id": "t5", "title_zh": "最好的运动是散步", "title_vi": "Môn thể thao tốt nhất là đi dạo",
+      "lines": [
+        { "speaker": "", "chinese": "我听一位医生说过一句话：“最好的医生是自己，最好的药是时间，最好的运动是散步。”前两条我理解得不深，最后一条我完全同意。散步是生活中最简单的锻炼方法，既可以活动身体，又可以减肥，而且不会像跑步那样辛苦。", "pinyin": "Wǒ tīng yí wèi yīshēng shuōguo yí jù huà: “Zuì hǎo de yīshēng shì zìjǐ, zuì hǎo de yào shì shíjiān, zuì hǎo de yùndòng shì sàn bù.” Qián liǎng tiáo wǒ lǐjiě de bù shēn, zuìhòu yì tiáo wǒ wánquán tóngyì. Sàn bù shì shēnghuó zhōng zuì jiǎndān de duànliàn fāngfǎ, jì kěyǐ huódòng shēntǐ, yòu kěyǐ jiǎn féi, érqiě bú huì xiàng pǎo bù nàyàng xīnkǔ.", "vietnamese": "Tôi từng nghe một vị bác sĩ nói một câu: “Bác sĩ tốt nhất là chính mình, liều thuốc tốt nhất là thời gian, môn thể thao tốt nhất là đi dạo.” Hai vế đầu tôi hiểu chưa sâu, còn vế cuối tôi hoàn toàn đồng ý. Đi dạo là cách rèn luyện đơn giản nhất trong cuộc sống, vừa có thể vận động cơ thể, vừa có thể giảm cân, hơn nữa lại không vất vả như chạy bộ." },
+        { "speaker": "", "chinese": "晚饭后，一家人一起出去散散步，是一件很幸福的事情。肚子吃饱了需要活动，家人忙了一天需要交流，夫妻说说一天的工作能加深感情，听孩子谈谈学校里有意思的事，一天的烦恼就都跑掉了。", "pinyin": "Wǎnfàn hòu, yì jiā rén yìqǐ chūqu sànsan bù, shì yí jiàn hěn xìngfú de shìqing. Dùzi chībǎo le xūyào huódòng, jiārén máng le yì tiān xūyào jiāoliú, fūqī shuōshuo yì tiān de gōngzuò néng jiāshēn gǎnqíng, tīng háizi tántan xuéxiào li yǒu yìsi de shì, yì tiān de fánnǎo jiù dōu pǎodiào le.", "vietnamese": "Sau bữa tối, cả nhà cùng nhau ra ngoài đi dạo là một việc rất hạnh phúc. Bụng ăn no rồi cần vận động, người nhà bận rộn cả ngày cần trò chuyện, vợ chồng kể cho nhau nghe công việc trong ngày có thể gắn kết tình cảm sâu sắc hơn, nghe con cái kể chuyện thú vị ở trường, mọi phiền muộn cả ngày đều tan biến sạch." }
+      ]
+    }
+  ],
+  "reading_questions": [
+    { "question_zh": "小林可能是中国哪里人？为什么？春天的时候怎么才能少感冒？", "question_vi": "Tiểu Lâm có thể là người vùng nào ở Trung Quốc? Tại sao? Vào mùa xuân làm thế nào để ít bị cảm?", "answer_zh": "小林可能是南方人，因为他还不习惯北方干燥的气候，鼻子都流血了。春天时冷时热，要多注意保暖，并经常打开窗户换空气。", "answer_vi": "Tiểu Lâm có thể là người miền Nam vì anh vẫn chưa quen khí hậu khô ở miền Bắc đến mức chảy máu cam. Mùa xuân lúc nóng lúc lạnh nên cần giữ ấm và thường xuyên mở cửa sổ thông gió." },
+    { "question_zh": "小雨为什么喜欢抽烟？小夏为什么劝他别再抽烟了？", "question_vi": "Vì sao Tiểu Vũ thích hút thuốc? Vì sao Tiểu Hạ khuyên cậu ấy đừng hút nữa?", "answer_zh": "小雨觉得抽烟这个动作看上去很帅。小夏劝他是因为抽烟不仅对自己身体没好处，还会影响周围人的健康，等身体出问题后悔就来不及了。", "answer_vi": "Tiểu Vũ thấy động tác hút thuốc trông rất ngầu. Tiểu Hạ khuyên vì hút thuốc không chỉ hại bản thân mà còn ảnh hưởng sức khỏe người xung quanh, đợi cơ thể có vấn đề thì hối hận không kịp." },
+    { "question_zh": "长时间坐在电脑前面工作有什么坏处？应该怎么办？", "question_vi": "Ngồi làm việc lâu trước máy tính có tác hại gì? Nên làm thế nào?", "answer_zh": "不仅眼睛容易累（甚至跳），一天静坐超过6小时还会影响身体健康。应该每过一小时休息一下，多向远处和绿色植物看看，多站起来活动活动或饭后去散步。", "answer_vi": "Không chỉ dễ mỏi mắt (thậm chí giật mắt) mà ngồi yên quá 6 tiếng mỗi ngày còn hại sức khỏe. Nên nghỉ ngơi sau mỗi tiếng, nhìn ra xa và ngắm cây xanh, đứng dậy vận động hoặc đi dạo sau bữa ăn." },
+    { "question_zh": "过去和现在人们对健康的认识有哪些不同？那位教授用什么方法说明健康非常重要？", "question_vi": "Nhận thức về sức khỏe trước đây và hiện nay khác nhau thế nào? Vị giáo sư dùng cách nào để nói rõ tầm quan trọng của sức khỏe?", "answer_zh": "过去认为健康只是身体不生病；现在认识到健康还包括精神上的健康。教授用数字“1”和“0”说明：要是健康是1，其他都是1后面的0，没有1，多少0也没用。", "answer_vi": "Trước đây chỉ coi khỏe mạnh là cơ thể không bệnh; nay nhận thức thêm cả sức khỏe tinh thần. Giáo sư dùng số 1 (sức khỏe) và các số 0 phía sau để minh họa: không có số 1 thì bao nhiêu số 0 cũng vô ích." },
+    { "question_zh": "“我”怎么理解“最好的运动是散步”？晚饭后和家人散步有哪些好处？", "question_vi": "“Tôi” hiểu câu “Môn thể thao tốt nhất là đi dạo” thế nào? Đi dạo cùng gia đình sau bữa tối có những lợi ích gì?", "answer_zh": "散步最简单，既能活动身体又能减肥，还不像跑步那样辛苦。晚饭后和家人散步既能帮助消化，又能让家人交流、加深夫妻感情、听孩子聊学校的事，消除一天的烦恼。", "answer_vi": "Đi dạo đơn giản nhất, vừa vận động vừa giảm cân lại không vất vả như chạy bộ. Đi dạo cùng gia đình giúp tiêu hóa, tăng giao lưu, gắn kết tình cảm vợ chồng, nghe chuyện của con và xua tan phiền muộn." }
+  ],
+  "exercises": [
+    {
+      "id": "h4s7_ex1", "type": "meaning_mc", "level": "Nhận biết", "origin_tag": "Bài 7 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Từ “大夫” trong bài khóa 3 được phát âm chuẩn xác như thế nào khi mang nghĩa “bác sĩ”?",
+      "options": ["dàifu", "dàfū", "dàifū", "tài fū"],
+      "answer": "dàifu",
+      "explanation": "Khi mang nghĩa 'bác sĩ', 大夫 đọc là dàifu (thanh 4 + thanh nhẹ); còn dàfū là chức quan đại phu thời cổ đại.",
+      "review_tip": "Ôn phát âm đặc biệt của từ #16 大夫."
+    },
+    {
+      "id": "h4s7_ex2", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.95", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ thích hợp điền vào chỗ trống: “生气时不要急着做决定，因为这个时候做的决定可能让你______。”",
+      "options": ["后悔", "反对", "出现", "擦"],
+      "answer": "后悔",
+      "explanation": "后悔 = hối hận, ân hận (quyết định đưa ra lúc nóng giận có thể khiến bạn hối hận).",
+      "review_tip": "Ôn động từ tâm lý #13 后悔."
+    },
+    {
+      "id": "h4s7_ex3", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.95", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ thích hợp điền vào chỗ trống: “A: 今天的晚饭怎么样？ B: 特别好吃，______你了，一会儿我来洗碗。”",
+      "options": ["辛苦", "严重", "超过", "研究"],
+      "answer": "辛苦",
+      "explanation": "辛苦你了 = vất vả cho bạn rồi (câu khách sáo cảm ơn người khác đã bỏ công sức nấu ăn).",
+      "review_tip": "Ôn cả 2 cách dùng (tính từ & câu khách sáo) của #29 辛苦."
+    },
+    {
+      "id": "h4s7_ex4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "比一比 tr.90", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ ĐÚNG cho câu: “还有一分钟比赛就结束了，我______他们没机会再进球了。”",
+      "options": ["估计", "可能", "Cả 估计 và 可能 đều đúng", "Không từ nào đúng"],
+      "answer": "估计",
+      "explanation": "Trước chỗ trống là chủ ngữ người phán đoán '我', sau chỗ trống là một mệnh đề hoàn chỉnh '他们没机会再进球了'. Chỉ động từ 估计 dùng được cấu trúc này; 可能 là động từ năng nguyện nên không dùng được.",
+      "review_tip": "Xem lại quy tắc 1 của cặp 估计—可能 ở tab Ngữ pháp."
+    },
+    {
+      "id": "h4s7_ex5", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "比一比 tr.90", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ ĐÚNG cho câu: “我看这是不______的事情，网上的消息可不能全信。”",
+      "options": ["可能", "估计", "来不及", "竟然"],
+      "answer": "可能",
+      "explanation": "Chỗ trống cần một TÍNH TỪ làm định ngữ cho '事情' (chuyện không thể xảy ra = 不可能的事情). Chỉ có 可能 làm được tính từ, 估计 thì không.",
+      "review_tip": "Xem lại quy tắc 2 của cặp 估计—可能 (tr.90)."
+    },
+    {
+      "id": "h4s7_ex6", "type": "context_mc", "level": "Phân biệt", "origin_tag": "同字词 tr.96", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ nhóm đồng tự '气' phù hợp: “A: 来北方好几年了吧？你觉得北方和南方的______一样吗？ B: 夏天差不多，但是冬天北方比较干。”",
+      "options": ["气候", "空气", "脾气", "生气"],
+      "answer": "气候",
+      "explanation": "So sánh điều kiện khí tượng lâu dài giữa miền Bắc và miền Nam (mùa hè, mùa đông khô) phải dùng 气候 (khí hậu).",
+      "review_tip": "Ôn nhóm đồng tự 气 (tr.95–96): 生气 / 脾气 / 空气 / 气候."
+    },
+    {
+      "id": "h4s7_ex7", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Bài 7 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Câu nào sau đây dùng dạng lặp lại từ ly hợp ĐÚNG ngữ pháp?",
+      "options": [
+        "晚饭后，一家人一起出去散散步，是一件很幸福的事情。",
+        "晚饭后，一家人一起出去散步散步，是一件很幸福的事情。",
+        "我最近太胖了，应该多运动减肥减肥。",
+        "行李箱太重了，你快来帮忙帮忙我吧。"
+      ],
+      "answer": "晚饭后，一家人一起出去散散步，是一件很幸福的事情。",
+      "explanation": "Từ ly hợp (散步、减肥、帮忙) lặp theo dạng AAB: 散散步、减减肥、帮帮忙 (hoặc 帮帮我的忙), KHÔNG lặp ABAB.",
+      "review_tip": "Ôn Chú thích 3 về quy tắc lặp lại từ ly hợp AAB (tr.91)."
+    },
+    {
+      "id": "h4s7_ex8", "type": "reorder", "level": "Vận dụng", "origin_tag": "Bài 7 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Sắp xếp các từ sau thành câu hoàn chỉnh đúng ngữ pháp:",
+      "tokens": ["既可以", "又可以", "散步", "减肥。", "活动身体，"],
+      "answer": "散步既可以活动身体，又可以减肥。",
+      "explanation": "Cấu trúc song song 既……又…… nối hai vế động từ cùng chủ ngữ 散步.",
+      "review_tip": "Ôn Chú thích 5: 既……又/也/还…… (tr.94)."
+    },
+    {
+      "id": "h4s7_ex9", "type": "error_fix", "level": "Vận dụng", "origin_tag": "Ôn lỗi dễ mắc (30% Bài 1–6)", "mistake_category": "Ngữ pháp",
+      "prompt": "Tìm lỗi sai và chọn cách sửa ĐÚNG cho câu: “她工作既很辛苦，工资又很高，所以大家都很羡慕她。”",
+      "options": [
+        "Sai vì '辛苦' (vất vả – tiêu cực) và '工资高' (lương cao – tích cực) trái chiều sắc thái; nên sửa thành '虽然工作很辛苦，但是工资很高'.",
+        "Sửa '既' thành '即'.",
+        "Sửa '羡慕' thành '支持'.",
+        "Câu trên hoàn toàn đúng."
+      ],
+      "answer": "Sai vì '辛苦' (vất vả – tiêu cực) và '工资高' (lương cao – tích cực) trái chiều sắc thái; nên sửa thành '虽然工作很辛苦，但是工资很高'.",
+      "explanation": "Cấu trúc 既……又…… chỉ nối hai phương diện CÙNG chiều (cùng tích cực hoặc cùng tiêu cực). Khi hai vế tương phản phải dùng 虽然……但是…….",
+      "review_tip": "Ôn quy tắc sắc thái của 既……又…… (Chú thích 5) và ôn từ 羡慕 (Bài 1)."
+    },
+    {
+      "id": "h4s7_ex10", "type": "reading_mc", "level": "Phân biệt", "origin_tag": "Bài khóa 4", "mistake_category": "Đọc hiểu",
+      "passage": "过去，人们认为健康就是指身体不生病。但是，现在人们认识到，健康还指精神上的健康。只有身体和精神都健康，才算是真正的健康。有一位教授用数字来说明健康有多么重要：要是健康是1，其他都是1后面的0；如果没有1，不管有多少0也没用。",
+      "prompt": "Theo đoạn văn trên, ví dụ con số “1” và “0” của vị giáo sư muốn nhấn mạnh điều gì?",
+      "options": [
+        "Sức khỏe là nền tảng quan trọng nhất; mất sức khỏe thì mọi thứ khác đều trở nên vô nghĩa",
+        "Con người chỉ cần có sức khỏe thể chất là đủ, không cần tiền bạc hay công việc",
+        "Khỏe mạnh chỉ đơn giản là không mắc bệnh cảm cúm thông thường",
+        "Người càng có nhiều số 0 phía sau thì sức khỏe càng tốt hơn"
+      ],
+      "answer": "Sức khỏe là nền tảng quan trọng nhất; mất sức khỏe thì mọi thứ khác đều trở nên vô nghĩa",
+      "explanation": "Đoạn văn viết: '要是健康是1，其他都是1后面的0；如果没有1，不管有多少0也没用。'",
+      "review_tip": "Đọc lại bài khóa 4 để nắm vững ý nghĩa hình ảnh ẩn dụ số 1 và số 0."
+    },
+    {
+      "id": "h4s7_ex11", "type": "translate_zh_vi", "level": "Vận dụng", "origin_tag": "Dịch Trung – Việt (Ôn 只有……才……)", "mistake_category": "Dịch thuật",
+      "prompt": "Dịch sang tiếng Việt: “只有身体和精神都健康，才算是真正的健康。”",
+      "hint": "Chú ý cặp cấu trúc 只有……才…… (ôn từ Bài 1) và từ 精神.",
+      "keywords": ["chỉ khi", "tinh thần"],
+      "answer": "Chỉ khi cả cơ thể lẫn tinh thần đều khỏe mạnh thì mới được tính là sức khỏe thật sự.",
+      "explanation": "只有……才…… = chỉ khi... mới...; 身体和精神 = thể chất và tinh thần; 才算是 = mới được coi là.",
+      "review_tip": "Ôn từ #22 精神 và cấu trúc 只有……才……."
+    }
+  ]
+}

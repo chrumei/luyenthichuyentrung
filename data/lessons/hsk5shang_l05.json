@@ -1,0 +1,538 @@
+{
+  "id": "hsk5shang_l05",
+  "book_id": "hsk5shang",
+  "textbook": "HSK 5 上",
+  "lesson_number": 5,
+  "title_zh": "济南的泉水",
+  "title_vi": "Nước suối Tế Nam",
+  "pdf_pages": "Trang sách 46–54 (Giáo Trình Chuẩn HSK5 Tập 1.pdf)",
+  "source_status": "verified_textbook",
+  "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"],
+  "vocabulary": [
+    {
+      "id": "hsk5s_l05_w01", "order": 1, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "悠久", "pinyin": "yōujiǔ",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "lâu đời", "structure": "历史悠久 / 悠久的文化 / 悠久的传统", "explanation": "Trải qua thời gian rất dài (thường đi với lịch sử, văn hóa, truyền thống).", "examples": [{ "chinese": "济南的泉水，历史悠久，最早的文字记载可以推到3000多年前。", "pinyin": "Jǐnán de quánshuǐ, lìshǐ yōujiǔ, zuìzǎo de wénzì jìzǎi kěyǐ tuīdào sānqiān duō nián qián.", "vietnamese": "Nước suối Tế Nam có lịch sử lâu đời, ghi chép bằng văn tự sớm nhất có thể truy ngược về hơn 3000 năm trước.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "年代久远。", "collocations": ["历史悠久", "悠久的文化", "悠久的传统"], "usage_note": "Chỉ dùng cho lịch sử, truyền thống, văn hóa, niên đại (không dùng cho tuổi tác người hay thời gian ngắn như mấy tiếng đồng hồ).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l05_w02", "order": 2, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "文字", "pinyin": "wénzì",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "văn tự (ngôn ngữ viết)", "structure": "文字记载 / 语言文字 / 汉文字", "explanation": "Hệ thống ký hiệu ghi lại ngôn ngữ; chữ viết.", "examples": [{ "chinese": "最早的文字记载可以推到3000多年前。", "pinyin": "Zuìzǎo de wénzì jìzǎi kěyǐ tuīdào sānqiān duō nián qián.", "vietnamese": "Ghi chép bằng văn tự sớm nhất có thể truy ngược về hơn 3000 năm trước.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["lời văn, câu chữ (trong bài viết)"], "structure": "文字优美 / 文字简洁", "difference_note": "Chỉ ngôn từ, phong cách diễn đạt bằng chữ viết trong tác phẩm.", "examples": [{ "chinese": "这篇文章的文字十分优美。", "pinyin": "Zhè piān wénzhāng de wénzì shífēn yōuměi.", "vietnamese": "Lời văn của bài viết này vô cùng đẹp đẽ." }] }
+      ],
+      "chinese_explanation": "记录语言的符号；也指文章的用词造句。", "collocations": ["文字记载", "语言文字", "文字优美"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l05_w03", "order": 3, "textbook": "HSK 5 上", "lesson": 5, "is_out_of_syllabus": true,
+      "hanzi": "记载", "pinyin": "jìzǎi",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "ghi chép, ghi lại", "structure": "文字记载 / 记载历史 / 史书记载", "explanation": "Ghi chép lại sự việc, tư liệu vào sách vở hay văn bản (trong bài dùng làm trung tâm ngữ danh từ hóa '文字记载').", "examples": [{ "chinese": "最早的文字记载可以推到3000多年前。", "pinyin": "Zuìzǎo de wénzì jìzǎi kěyǐ tuīdào sānqiān duō nián qián.", "vietnamese": "Ghi chép bằng văn tự sớm nhất có thể truy ngược về hơn 3000 năm trước.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["bản ghi chép, tư liệu lịch sử ghi lại"], "structure": "历史记载 / 详细的记载", "difference_note": "Chỉ nội dung/văn bản đã được ghi chép lại.", "examples": [{ "chinese": "关于这座古城，书里有很多详细的记载。", "pinyin": "Guānyú zhè zuò gǔchéng, shū li yǒu hěn duō xiángxì de jìzǎi.", "vietnamese": "Về tòa cổ thành này, trong sách có rất nhiều ghi chép chi tiết." }] }
+      ],
+      "chinese_explanation": "把事情写下来；也指写下来的资料。", "collocations": ["文字记载", "历史记载", "如实记载"], "usage_note": "Chú ý chữ 载 đọc thanh 3 (zǎi) khi có nghĩa 'ghi chép' hoặc 'năm' (一年半载).", "common_errors": "Đọc nhầm thành jìzài.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l05_w04", "order": 4, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "形状", "pinyin": "xíngzhuàng",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "hình dạng", "structure": "独特的形状 / 以形状命名 / 各种形状", "explanation": "Dáng vẻ, đường nét bên ngoài của sự vật.", "examples": [{ "chinese": "许多文人都对它的声音、颜色、形状、味道进行过描写。", "pinyin": "Xǔduō wénrén dōu duì tā de shēngyīn, yánsè, xíngzhuàng, wèidào jìnxíngguo miáoxiě.", "vietnamese": "Rất nhiều văn nhân đều từng miêu tả âm thanh, màu sắc, hình dạng và hương vị của nó.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "物体或图形由外部的面或线条表现出来的样子。", "collocations": ["独特的形状", "各种形状", "改变形状"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l05_w05", "order": 5, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "描写", "pinyin": "miáoxiě",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "miêu tả", "structure": "生动地描写 / 对……进行描写 / 描写……的经历", "explanation": "Dùng ngôn ngữ, văn tự khắc họa sống động dáng vẻ, đặc điểm của người hoặc vật.", "examples": [{ "chinese": "许多文人都对它的声音、颜色、形状、味道进行过描写。", "pinyin": "Xǔduō wénrén dōu duì tā de shēngyīn, yánsè, xíngzhuàng, wèidào jìnxíngguo miáoxiě.", "vietnamese": "Rất nhiều văn nhân đều từng miêu tả âm thanh, màu sắc, hình dạng, hương vị của nó.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "用语言文字把事物的形象、特点表现出来。", "collocations": ["生动地描写", "心理描写", "细节描写"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l05_w06", "order": 6, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "赞美", "pinyin": "zànměi",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "ca ngợi, ca tụng", "structure": "赞美 + 泉水/大自然/祖国/母爱", "explanation": "Khen ngợi bằng tình cảm trân trọng, ngưỡng mộ (thiên về văn viết, đối tượng thường là cảnh đẹp, phẩm chất cao đẹp, tác phẩm...).", "examples": [{ "chinese": "留下了许多赞美泉水的诗文。", "pinyin": "Liúxià le xǔduō zànměi quánshuǐ de shīwén.", "vietnamese": "Để lại rất nhiều thơ văn ca ngợi nước suối.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "称赞、颂扬美好的事物或品质。", "collocations": ["赞美泉水", "赞美生活", "发自内心的赞美"], "usage_note": "Phân biệt: 赞美 (ca ngợi vẻ đẹp, tình cảm trang trọng) vs 表扬 (biểu dương, khen thưởng hành vi tốt — đặc biệt người lớn khen trẻ nhỏ/cấp trên khen cấp dưới, như trong Bài tập 2 câu 4 tr.52).", "common_errors": "Sai: '护士小姐赞美女儿很勇敢' → Đúng: '表扬'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l05_w07", "order": 7, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "诗", "pinyin": "shī",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "thơ", "structure": "一首诗 / 写诗 / 诗文", "explanation": "Thể loại văn học có vần điệu, nhịp điệu (lượng từ là 首).", "examples": [{ "chinese": "留下了许多赞美泉水的诗文。", "pinyin": "Liúxià le xǔduō zànměi quánshuǐ de shīwén.", "vietnamese": "Để lại rất nhiều thơ văn ca ngợi nước suối.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "文学体裁的一种，通过有节奏、韵律的语言反映生活和情感。", "collocations": ["一首诗", "古诗", "写诗", "诗人"], "usage_note": "Lượng từ chuẩn của 诗 là 首 (一首诗).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l05_w08", "order": 8, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "老百姓", "pinyin": "lǎobǎixìng",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "người dân, thường dân", "structure": "济南的老百姓 / 普通老百姓", "explanation": "Dân thường, nhân dân nói chung (thân mật hơn 人民, có thể gọi tắt là 百姓).", "examples": [{ "chinese": "而济南的老百姓住在泉边，喝着这甜美的泉水。", "pinyin": "Ér Jǐnán de lǎobǎixìng zhù zài quánbiān, hēzhe zhè tiánměi de quánshuǐ.", "vietnamese": "Còn người dân Tế Nam sống bên bờ suối, uống dòng nước suối ngọt mát này.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "一般平民、普通民众。", "collocations": ["普通老百姓", "老百姓的生活"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l05_w09", "order": 9, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "充满", "pinyin": "chōngmǎn",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "chan chứa, tràn ngập", "structure": "对……充满 + 感激/信心/希望 / 充满阳光/力量/欢乐", "explanation": "Tràn đầy, đầy ắp (chủ yếu dùng với danh từ trừu tượng như tình cảm, hy vọng, niềm tin, tiếng cười...).", "examples": [{ "chinese": "自然对它充满感激之情。", "pinyin": "Zìrán duì tā chōngmǎn gǎnjī zhī qíng.", "vietnamese": "Tự nhiên chan chứa lòng biết ơn đối với nó.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "填满；充分具有某种情感或气氛。", "collocations": ["充满信心", "充满希望", "充满阳光", "充满力量"], "usage_note": "Thường đi với danh từ trừu tượng (信心、希望、感情、力量); không dùng để nói vật chứa cụ thể kiểu '杯子里充满水' (dùng 装满).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l05_w10", "order": 10, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "感激", "pinyin": "gǎnjī",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "cảm kích, biết ơn", "structure": "充满感激之情 / 十分感激 / 感激某人", "explanation": "Bày tỏ lòng biết ơn sâu sắc trong tâm khảm do nhận được sự giúp đỡ lớn lao.", "examples": [{ "chinese": "自然对它充满感激之情。", "pinyin": "Zìrán duì tā chōngmǎn gǎnjī zhī qíng.", "vietnamese": "Tự nhiên chan chứa tình cảm biết ơn đối với nó.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "因对方的好意或帮助而对他产生深厚的好感与谢意。", "collocations": ["充满感激", "非常感激", "感激之情", "感激不尽"], "usage_note": "Phân biệt: 感激 (lòng cảm kích sâu nặng trong tâm, mức độ mạnh) vs 感谢 (lời/hành động cảm ơn nói chung, dùng được trong mọi tình huống như '表示感谢' ở Bài tập 2 câu 3 tr.52).", "common_errors": "Thường nói '表示感谢' thay vì '表示感激' (感激 ít làm tân ngữ trực tiếp của 表示 trừ khi có 之情: 表示感激之情).", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l05_w11", "order": 11, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "从而", "pinyin": "cóng'ér",
+      "lesson_usage": { "part_of_speech": "连词 (Liên từ)", "meaning": "do đó, vì vậy", "structure": "Vế 1 (nguyên nhân/phương pháp)，从而 + Vế 2 (kết quả/mục đích)", "explanation": "Nối hai phân câu, vế trước nêu nguyên nhân hoặc phương pháp, vế sau dẫn ra kết quả hoặc mục đích đạt được.", "examples": [{ "chinese": "从而也产生了许多关于泉水的美丽传说。", "pinyin": "Cóng'ér yě chǎnshēng le xǔduō guānyú quánshuǐ de měilì chuánshuō.", "vietnamese": "Từ đó cũng sản sinh ra rất nhiều truyền thuyết đẹp về nước suối.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "连词，上文表原因、方法等，下文表结果、目的等。", "collocations": ["从而取得成功", "从而提高效率", "从而解决问题"], "usage_note": "Xem Chú thích 3 tr.50: 从而 chỉ dùng ở vế sau, mang sắc thái văn viết, không đứng ở đầu câu độc lập.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l05_w12", "order": 12, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "产生", "pinyin": "chǎnshēng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "sản sinh, xuất hiện", "structure": "产生 + 传说/影响/兴趣/矛盾/变化", "explanation": "Nảy sinh, xuất hiện sự vật, hiện tượng, cảm xúc hoặc tác động mới từ điều có sẵn.", "examples": [{ "chinese": "从而也产生了许多关于泉水的美丽传说。", "pinyin": "Cóng'ér yě chǎnshēng le xǔduō guānyú quánshuǐ de měilì chuánshuō.", "vietnamese": "Từ đó cũng sản sinh ra rất nhiều truyền thuyết đẹp về nước suối.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "由已有事物中生出新的事物；出现。", "collocations": ["产生影响", "产生兴趣", "产生怀疑", "产生效果"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l05_w13", "order": 13, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "传说", "pinyin": "chuánshuō",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "truyền thuyết", "structure": "美丽的传说 / 民间传说 / 关于……的传说", "explanation": "Câu chuyện dân gian được truyền miệng từ đời này sang đời khác.", "examples": [{ "chinese": "从而也产生了许多关于泉水的美丽传说。", "pinyin": "Cóng'ér yě chǎnshēng le xǔduō guānyú quánshuǐ de měilì chuánshuō.", "vietnamese": "Từ đó cũng sản sinh ra rất nhiều truyền thuyết đẹp đẽ về nước suối.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ)", "meanings": ["tương truyền rằng, người ta đồn rằng"], "structure": "传说 + Mệnh đề", "difference_note": "Đứng đầu câu dẫn ra câu chuyện lưu truyền dân gian (gần nghĩa với 相传).", "examples": [{ "chinese": "传说在很久以前，这里是一片大海。", "pinyin": "Chuánshuō zài hěn jiǔ yǐqián, zhèlǐ shì yí piàn dàhǎi.", "vietnamese": "Tương truyền từ rất lâu về trước, nơi đây là một vùng biển lớn." }] }
+      ],
+      "chinese_explanation": "民间流传下来的故事；也作动词，指辗转述说。", "collocations": ["美丽的传说", "民间传说", "古老的传说"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l05_w14", "order": 14, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "善良", "pinyin": "shànliáng",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "lương thiện, tốt bụng", "structure": "善良的青年 / 善良的性格 / 一颗善良的心", "explanation": "Hiền lành, nhân hậu, không có lòng dạ xấu xa.", "examples": [{ "chinese": "相传很久以前，济南城里有个善良的青年，名叫鲍全。", "pinyin": "Xiāngchuán hěn jiǔ yǐqián, Jǐnán chéng li yǒu ge shànliáng de qīngnián, míng jiào Bào Quán.", "vietnamese": "Tương truyền rất lâu về trước, trong thành Tế Nam có một chàng thanh niên lương thiện tên là Bào Toàn.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "纯真温厚，没有恶意。", "collocations": ["善良的性格", "善良的人", "心地善良"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l05_w15", "order": 15, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "救", "pinyin": "jiù",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "cứu, cứu giúp", "structure": "救了很多人 / 救活 / 救起 / 救出 / 救过来", "explanation": "Giúp người/vật thoát khỏi nguy hiểm, bệnh tật hay cái chết.", "examples": [{ "chinese": "一次，他在路边救了一位晕倒的老人。", "pinyin": "Yí cì, tā zài lùbiān jiù le yí wèi yūndǎo de lǎorén.", "vietnamese": "Một lần, anh cứu một cụ già bị ngất xỉu bên đường.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "援助使脱离灾难或危险。", "collocations": ["救活", "救人", "救命", "治病救人"], "usage_note": "Kết hợp bổ ngữ kết quả trong sách: 救活 / 救起 / 救出 / 救过来.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l05_w16", "order": 16, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "晕", "pinyin": "yūn",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "hôn mê, bất tỉnh", "structure": "晕倒 / 晕过去 / 打晕", "explanation": "Ngất xỉu, mất tri giác tạm thời.", "examples": [{ "chinese": "一次，他在路边救了一位晕倒的老人。", "pinyin": "Yí cì, tā zài lùbiān jiù le yí wèi yūndǎo de lǎorén.", "vietnamese": "Một lần, anh cứu một cụ già bị ngất xỉu bên đường.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "形容词 (Tính từ — đọc yūn)", "meanings": ["chóng mặt, hoa mắt"], "structure": "头晕 / 晕头转向", "difference_note": "Chưa đến mức bất tỉnh, chỉ cảm giác quay cuồng đầu óc.", "examples": [{ "chinese": "我发烧了，觉得有点儿头晕。", "pinyin": "Wǒ fāshāo le, juéde yǒudiǎnr tóuyūn.", "vietnamese": "Tôi bị sốt, thấy hơi chóng mặt." }] },
+        { "part_of_speech": "动词 (Động từ — đọc yùn)", "meanings": ["say (xe, tàu, máy bay)"], "structure": "晕车 / 晕船 / 晕机", "difference_note": "Chữ đa âm! Khi nói say tàu xe phải đọc thanh 4: yùn.", "examples": [{ "chinese": "她坐长途汽车容易晕车。", "pinyin": "Tā zuò chángtú qìchē róngyì yùnchē.", "vietnamese": "Cô ấy đi xe khách đường dài rất dễ bị say xe." }] }
+      ],
+      "chinese_explanation": "昏迷（yūn）；头脑发昏（yūn）；乘车船等发晕恶心（yùn）。", "collocations": ["晕倒", "晕过去", "头晕", "晕车"], "usage_note": "Chữ đa âm: 晕倒 (yūndǎo) đọc thanh 1; 晕车 (yùnchē) đọc thanh 4!", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l05_w17", "order": 17, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "龙", "pinyin": "lóng",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "rồng", "structure": "一条龙 / 东海龙王 / 舞龙", "explanation": "Linh vật huyền thoại trong văn hóa Á Đông (lượng từ là 条).", "examples": [{ "chinese": "这老人其实是东海龙王的哥哥。", "pinyin": "Zhè lǎorén qíshí shì Dōnghǎi Lóngwáng de gēge.", "vietnamese": "Cụ già này thực ra là anh trai của Đông Hải Long Vương.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "中国古代传说中的神异动物。", "collocations": ["一条龙", "龙王", "舞龙"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l05_w18", "order": 18, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "治（疗）", "pinyin": "zhì (liáo)",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "điều trị, chữa bệnh", "structure": "治病 / 治疗感冒 / 治好", "explanation": "Chữa trị bệnh tật cho khỏi.", "examples": [{ "chinese": "通过老人的介绍，鲍全从龙王那儿求到了治病救人的白玉壶。", "pinyin": "Tōngguò lǎorén de jièshào, Bào Quán cóng Lóngwáng nàr qiúdào le zhìbìng jiùrén de báiyùhú.", "vietnamese": "Qua lời giới thiệu của cụ già, Bào Toàn đã xin được chiếc bình bạch ngọc chữa bệnh cứu người từ chỗ Long Vương.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ — 治)", "meanings": ["quản lý, trị lý, chế ngự (thiên tai/môi trường)"], "structure": "治理污染 / 治水 / 治国", "difference_note": "Dùng cho quản lý đất nước, trị thủy, xử lý ô nhiễm môi trường.", "examples": [{ "chinese": "政府采取了多项措施治理空气污染。", "pinyin": "Zhèngfǔ cǎiqǔ le duō xiàng cuòshī zhìlǐ kōngqì wūrǎn.", "vietnamese": "Chính phủ đã áp dụng nhiều biện pháp xử lý ô nhiễm không khí." }] }
+      ],
+      "chinese_explanation": "医治疾病；也指管理、整顿。", "collocations": ["治病救人", "治疗方法", "治好"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l05_w19", "order": 19, "textbook": "HSK 5 上", "lesson": 5, "is_out_of_syllabus": true,
+      "hanzi": "玉", "pinyin": "yù",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "ngọc thạch", "structure": "白玉壶 / 一块玉 / 玉石", "explanation": "Loại đá quý có vẻ đẹp mịn màng, sáng bóng.", "examples": [{ "chinese": "鲍全从龙王那儿求到了治病救人的白玉壶。", "pinyin": "Bào Quán cóng Lóngwáng nàr qiúdào le zhìbìng jiùrén de báiyùhú.", "vietnamese": "Bào Toàn đã xin được chiếc bình bạch ngọc chữa bệnh cứu người từ Long Vương.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "温润而有光泽的美石。", "collocations": ["白玉", "一块玉", "玉石"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l05_w20", "order": 20, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "壶", "pinyin": "hú",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "ấm, bình", "structure": "茶壶 / 水壶 / 白玉壶", "explanation": "Vật dụng có vòi và nắp dùng để đựng hoặc đun chất lỏng.", "examples": [{ "chinese": "他把壶埋入地下藏了起来。", "pinyin": "Tā bǎ hú máirù dìxià cáng le qilai.", "vietnamese": "Anh đem chôn chiếc bình xuống lòng đất giấu đi.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "量词 (Lượng từ)", "meanings": ["ấm, bình (đựng trà, nước, rượu...)"], "structure": "一壶茶 / 一壶开水", "difference_note": "Làm lượng từ đứng giữa số từ và danh từ chất lỏng.", "examples": [{ "chinese": "请给我们泡一壶龙井茶。", "pinyin": "Qǐng gěi wǒmen pào yì hú Lóngjǐngchá.", "vietnamese": "Xin hãy pha cho chúng tôi một ấm trà Long Tỉnh." }] }
+      ],
+      "chinese_explanation": "有嘴的盛水或茶酒的器具；也作量词。", "collocations": ["茶壶", "水壶", "一壶茶"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l05_w21", "order": 21, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "抢", "pinyin": "qiǎng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "cướp, cướp đoạt", "structure": "抢走 / 抢光 / 抢东西", "explanation": "Dùng sức mạnh đoạt lấy vật của người khác.", "examples": [{ "chinese": "为了不被坏人抢走，他把壶埋入地下藏了起来。", "pinyin": "Wèile bú bèi huàirén qiǎngzǒu, tā bǎ hú máirù dìxià cáng le qilai.", "vietnamese": "Để không bị kẻ xấu cướp mất, anh đem chiếc bình chôn giấu xuống lòng đất.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ)", "meanings": ["tranh nhau, giành giật (nhanh tay làm trước)"], "structure": "抢购 / 抢着回答 / 抢时间", "difference_note": "Nghĩa trung tính/tích cực trong đời sống: tranh nhau mua, tranh thủ thời gian.", "examples": [{ "chinese": "打折那天，商场的衣服很快就被抢光了。", "pinyin": "Dǎzhé nà tiān, shāngchǎng de yīfu hěn kuài jiù bèi qiǎngguāng le.", "vietnamese": "Hôm giảm giá, quần áo ở trung tâm thương mại nhanh chóng bị mua sạch." }] }
+      ],
+      "chinese_explanation": "夺取；争先做某事。", "collocations": ["抢走", "抢光", "抢购", "抢时间"], "usage_note": "Bài tập 3 tr.53: 抢光 (cướp sạch / tranh mua hết sạch).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l05_w22", "order": 22, "textbook": "HSK 5 上", "lesson": 5, "is_out_of_syllabus": true,
+      "hanzi": "埋", "pinyin": "mái",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "chôn", "structure": "埋入地下 / 埋在土里 / 埋藏", "explanation": "Đặt vật gì xuống dưới đất, cát hoặc tuyết rồi phủ lấp lên.", "examples": [{ "chinese": "他把壶埋入地下藏了起来。", "pinyin": "Tā bǎ hú máirù dìxià cáng le qilai.", "vietnamese": "Anh chôn chiếc bình xuống lòng đất giấu đi.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ — đọc mán)", "meanings": ["oán trách, trách móc (chỉ dùng trong 埋怨)"], "structure": "埋怨别人", "difference_note": "Chữ đa âm! Trong từ 埋怨 phải đọc là mányuàn.", "examples": [{ "chinese": "出了问题不要总是埋怨别人。", "pinyin": "Chū le wèntí búyào zǒngshì mányuàn biérén.", "vietnamese": "Xảy ra chuyện đừng lúc nào cũng trách móc người khác." }] }
+      ],
+      "chinese_explanation": "用土、雪等盖住（mái）；责怪（mán，用于“埋怨”）。", "collocations": ["埋入地下", "埋头工作", "埋怨"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l05_w23", "order": 23, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "（躲）藏", "pinyin": "(duǒ) cáng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "giấu, ẩn núp", "structure": "藏起来 / 躲藏 / 藏在……里", "explanation": "Giấu đồ vật không để lộ ra hoặc ẩn nấp tránh người khác phát hiện.", "examples": [{ "chinese": "他把壶埋入地下藏了起来。", "pinyin": "Tā bǎ hú máirù dìxià cáng le qilai.", "vietnamese": "Anh chôn chiếc bình xuống đất giấu đi.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ — 藏 cáng)", "meanings": ["cất giữ, sưu tầm"], "structure": "收藏 / 珍藏", "difference_note": "Giữ gìn vật quý giá.", "examples": [{ "chinese": "爷爷收藏了很多古老的邮票。", "pinyin": "Yéye shōucáng le hěn duō gǔlǎo de yóupiào.", "vietnamese": "Ông nội sưu tầm rất nhiều tem cổ." }] },
+        { "part_of_speech": "名词 (Danh từ — đọc zàng)", "meanings": ["kho tàng, nơi cất chứa; dân tộc Tạng"], "structure": "宝藏 / 西藏", "difference_note": "Chữ đa âm: đọc thanh 4 (zàng) khi là danh từ chỉ kho báu hoặc Tây Tạng.", "examples": [{ "chinese": "这座山下埋着丰富的自然宝藏。", "pinyin": "Zhè zuò shān xià máizhe fēngfù de zìrán bǎozàng.", "vietnamese": "Dưới ngọn núi này chôn giấu kho báu thiên nhiên phong phú." }] }
+      ],
+      "chinese_explanation": "隐蔽、躲避；收存（cáng）；储存东西的地方（zàng）。", "collocations": ["藏起来", "躲藏", "收藏", "宝藏"], "usage_note": "Kết hợp với Chú thích 1 tr.49: 藏起来 (từ lộ sang ẩn giấu).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l05_w24", "order": 24, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "如今", "pinyin": "rújīn",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "ngày nay", "structure": "如今的…… / 如今，……", "explanation": "Thời hiện tại (tương đối dài, thường dùng để so sánh với quá khứ; thiên văn viết).", "examples": [{ "chinese": "如今的济南市区内，分布着大大小小七百多个天然泉。", "pinyin": "Rújīn de Jǐnán shìqū nèi, fēnbùzhe dàdàxiǎoxiǎo qībǎi duō ge tiānrán quán.", "vietnamese": "Trong nội đô Tế Nam ngày nay phân bố hơn bảy trăm con suối tự nhiên lớn nhỏ.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "现在（多指较长的一段当前时期，偏书面语）。", "collocations": ["如今的社会", "事到如今"], "usage_note": "KHÔNG dùng 如今 để nói thời điểm cụ thể như giờ phút! Bài tập 2 câu 1 tr.52: '现在是五点' (không dùng 如今).", "common_errors": "Sai: '如今是五点' → Đúng: '现在是五点'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l05_w25", "order": 25, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "分布", "pinyin": "fēnbù",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "phân bố", "structure": "分布着…… / 分布在…… / 分布广", "explanation": "Rải rác, trải rộng ở một khu vực hoặc phạm vi nhất định.", "examples": [{ "chinese": "如今的济南市区内，分布着大大小小七百多个天然泉。", "pinyin": "Rújīn de Jǐnán shìqū nèi, fēnbùzhe dàdàxiǎoxiǎo qībǎi duō ge tiānrán quán.", "vietnamese": "Trong nội đô Tế Nam ngày nay phân bố hơn bảy trăm dòng suối tự nhiên lớn nhỏ.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "散布在一定的地区内。", "collocations": ["分布着", "分布在", "分布广泛", "分布均匀"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l05_w26", "order": 26, "textbook": "HSK 5 上", "lesson": 5, "is_out_of_syllabus": true,
+      "hanzi": "天然", "pinyin": "tiānrán",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "tự nhiên, (thuộc) thiên nhiên", "structure": "天然泉 / 天然气 / 纯天然", "explanation": "Vốn có trong tự nhiên, không do con người chế tạo.", "examples": [{ "chinese": "分布着大大小小七百多个天然泉。", "pinyin": "Fēnbùzhe dàdàxiǎoxiǎo qībǎi duō ge tiānrán quán.", "vietnamese": "Phân bố hơn bảy trăm con suối tự nhiên lớn nhỏ.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "自然存在的，非人工制造的。", "collocations": ["天然泉水", "天然气", "纯天然"], "usage_note": "Là tính từ phi vị ngữ: chủ yếu làm định ngữ trước danh từ (không nói '很天然' thông thường như tính từ mô tả trạng thái).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l05_w27", "order": 27, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "优美", "pinyin": "yōuměi",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "đẹp đẽ, tốt đẹp", "structure": "风景优美 / 优美的歌声 / 动作优美 / 语言优美", "explanation": "Đẹp một cách thanh tao, hài hòa, gây cảm giác mỹ cảm dễ chịu (dùng cho phong cảnh, động tác, giọng hát, lời văn...).", "examples": [{ "chinese": "济南泉水的优美，还可从那独特的名字上反映出来。", "pinyin": "Jǐnán quánshuǐ de yōuměi, hái kě cóng nà dútè de míngzi shang fǎnyìng chūlái.", "vietnamese": "Vẻ đẹp thanh tao của nước suối Tế Nam còn có thể thể hiện qua những cái tên độc đáo đó.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "美好、雅致（多形容风景、动作、声音、语言等）。", "collocations": ["风景优美", "动作优美", "优美的歌声", "语言生动优美"], "usage_note": "Xem bảng 词语辨析: 美丽—优美 tr.51–52!", "common_errors": "Không dùng 优美 để tả diện mạo gương mặt hay phẩm chất tâm hồn (không nói '优美的眼睛' hay '优美的心灵', phải dùng 美丽).", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l05_w28", "order": 28, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "独特", "pinyin": "dútè",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "đặc biệt, riêng biệt", "structure": "独特的 + 名字/位置/看法/形状/建筑/味道", "explanation": "Độc đáo, chỉ riêng đối tượng này mới có, không giống cái khác.", "examples": [{ "chinese": "济南泉水的优美，还可从那独特的名字上反映出来。", "pinyin": "Jǐnán quánshuǐ de yōuměi, hái kě cóng nà dútè de míngzi shang fǎnyìng chūlái.", "vietnamese": "Vẻ đẹp của nước suối Tế Nam còn thể hiện qua những cái tên độc đáo ấy.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "独有的、与众不同的。", "collocations": ["独特的名字", "独特的看法", "独特的味道", "风格独特"], "usage_note": "Phân biệt: 独特 là TÍNH TỪ (không làm phó từ bổ nghĩa mức độ như 特别). Bài tập 2 câu 2 tr.52: '不是特别漂亮' (dùng 特别 làm phó từ, không dùng 独特).", "common_errors": "Sai: '长得不是独特漂亮' → Đúng: '特别漂亮'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l05_w29", "order": 29, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "反映", "pinyin": "fǎnyìng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "phản ánh/thể hiện", "structure": "反映出来 / 反映 + 生活/水平/情况/能力", "explanation": "Thể hiện bản chất, đặc điểm của sự vật khách quan ra bên ngoài.", "examples": [{ "chinese": "济南泉水的优美，还可从那独特的名字上反映出来。", "pinyin": "Jǐnán quánshuǐ de yōuměi, hái kě cóng nà dútè de míngzi shang fǎnyìng chūlái.", "vietnamese": "Vẻ đẹp của nước suối Tế Nam còn có thể phản ánh qua những cái tên độc đáo ấy.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ)", "meanings": ["phản ánh, báo cáo (ý kiến, tình hình lên cấp trên)"], "structure": "向……反映情况/问题/意见", "difference_note": "Chuyển đạt thông tin, nguyện vọng đến cơ quan hay người có trách nhiệm.", "examples": [{ "chinese": "我已经把大家的意见反映给经理了。", "pinyin": "Wǒ yǐjīng bǎ dàjiā de yìjiàn fǎnyìng gěi jīnglǐ le.", "vietnamese": "Tôi đã phản ánh ý kiến của mọi người lên giám đốc rồi." }] }
+      ],
+      "chinese_explanation": "把客观事物的实质表现出来；把情况或意见告诉上级或有关部门。", "collocations": ["反映生活", "反映水平", "反映情况", "反映意见"], "usage_note": "Phân biệt kỹ với 反应 (phản ứng — học ở Bài 7)!", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l05_w30", "order": 30, "textbook": "HSK 5 上", "lesson": 5, "is_out_of_syllabus": true,
+      "hanzi": "珍珠", "pinyin": "zhēnzhū",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "ngọc trai, trân châu", "structure": "珍珠泉 / 珍珠项链 / 一颗珍珠", "explanation": "Viên ngọc tròn bóng hình thành trong con trai biển/sông.", "examples": [{ "chinese": "以形状命名的珍珠泉，等等。", "pinyin": "Yǐ xíngzhuàng mìngmíng de Zhēnzhūquán, děngděng.", "vietnamese": "Suối Trân Châu đặt tên theo hình dạng, vân vân.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "贝类动物体内分泌形成的圆粒状珍宝。", "collocations": ["珍珠泉", "珍珠奶茶", "珍珠项链"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l05_w31", "order": 31, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "形成", "pinyin": "xíngchéng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "hình thành", "structure": "自然形成 / 逐渐形成 / 形成 + 泉水/习惯/风俗", "explanation": "Trải qua quá trình phát triển biến đổi mà tạo nên một sự vật, tình trạng hay quy luật nào đó.", "examples": [{ "chinese": "这么多、这么好的泉水是如何形成的呢？", "pinyin": "Zhème duō, zhème hǎo de quánshuǐ shì rúhé xíngchéng de ne?", "vietnamese": "Nhiều nước suối ngon lành như vậy đã được hình thành như thế nào?", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "通过发展变化而成为某种事物或出现某种情况。", "collocations": ["自然形成", "逐渐形成", "形成对比", "形成风俗"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l05_w32", "order": 32, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "于", "pinyin": "yú",
+      "lesson_usage": { "part_of_speech": "介词 (Giới từ)", "meaning": "từ, ở, vào", "structure": "来自于 / 成立于 / 用于 / 有助于 / 高于", "explanation": "Giới từ văn viết đứng sau động từ hoặc tính từ, tương đương 在、从、对、向、比.", "examples": [{ "chinese": "济南的泉水，来自于济南市以南的广大山区。", "pinyin": "Jǐnán de quánshuǐ, láizì yú Jǐnánshì yǐnán de guǎngdà shānqū.", "vietnamese": "Nước suối Tế Nam bắt nguồn từ vùng núi rộng lớn phía nam thành phố Tế Nam.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "介词，引进时间、处所、范围、对象或比较基准（相当于在、从、对、向、比）。", "collocations": ["来自于", "毕业于", "成立于", "用于", "高于"], "usage_note": "Xem Chú thích 2 tr.49 để nắm đủ 5 vai trò của giới từ 于!", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l05_w33", "order": 33, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "广大", "pinyin": "guǎngdà",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "rộng, rộng lớn", "structure": "广大山区 / 广大的农村 / 广大地区", "explanation": "Diện tích, phạm vi rộng lớn.", "examples": [{ "chinese": "济南的泉水，来自于济南市以南的广大山区。", "pinyin": "Jǐnán de quánshuǐ, láizì yú Jǐnánshì yǐnán de guǎngdà shānqū.", "vietnamese": "Nước suối Tế Nam bắt nguồn từ vùng núi rộng lớn ở phía nam thành phố Tế Nam.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "形容词 (Tính từ)", "meanings": ["đông đảo (quần chúng, người tiêu dùng, học sinh...)"], "structure": "广大群众 / 广大消费者 / 广大青年", "difference_note": "Chỉ số lượng người đông đảo, rộng khắp.", "examples": [{ "chinese": "这项政策受到了广大市民的欢迎。", "pinyin": "Zhè xiàng zhèngcè shòudào le guǎngdà shìmín de huānyíng.", "vietnamese": "Chính sách này nhận được sự hoan nghênh của đông đảo người dân thành phố." }] }
+      ],
+      "chinese_explanation": "面积、空间宽阔；人数众多、规模宏大。", "collocations": ["广大山区", "广大农村", "广大群众", "广大消费者"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l05_w34", "order": 34, "textbook": "HSK 5 上", "lesson": 5, "is_out_of_syllabus": true,
+      "hanzi": "岩石", "pinyin": "yánshí",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "nham thạch", "structure": "山区的岩石 / 地下岩石", "explanation": "Khối đá lớn cấu tạo nên lớp vỏ Trái Đất.", "examples": [{ "chinese": "这些山区的岩石是大约四亿年前形成的一层厚厚的石灰岩。", "pinyin": "Zhèxiē shānqū de yánshí shì dàyuē sì yì nián qián xíngchéng de yì céng hòuhòu de shíhuīyán.", "vietnamese": "Nham thạch ở những vùng núi này là một lớp đá vôi dày được hình thành từ khoảng bốn trăm triệu năm trước.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "构成地壳的由矿物集合而成的坚硬块体。", "collocations": ["地下岩石", "岩石层"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l05_w35", "order": 35, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "亿", "pinyin": "yì",
+      "lesson_usage": { "part_of_speech": "数词 (Số từ)", "meaning": "một trăm triệu", "structure": "一亿 / 四亿年前 / 十四亿人口", "explanation": "Đơn vị số đếm bằng 100.000.000 (10^8, tức 1 vạn vạn).", "examples": [{ "chinese": "这些山区的岩石是大约四亿年前形成的一层厚厚的石灰岩。", "pinyin": "Zhèxiē shānqū de yánshí shì dàyuē sì yì nián qián xíngchéng de yì céng hòuhòu de shíhuīyán.", "vietnamese": "Nham thạch của vùng núi này là một lớp đá vôi dày hình thành khoảng bốn trăm triệu năm trước.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "数目，一万万（100,000,000）。", "collocations": ["一亿", "四亿年", "几亿人"], "usage_note": "Lưu ý quy đổi số lớn tiếng Trung: 1亿 = 100 triệu (100,000,000), không phải 1 tỷ (1 tỷ = 10亿)!", "common_errors": "Dịch nhầm 四亿 thành '4 tỷ' (phải là '400 triệu').", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l05_w36", "order": 36, "textbook": "HSK 5 上", "lesson": 5, "is_out_of_syllabus": true,
+      "hanzi": "石灰岩", "pinyin": "shíhuīyán",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "đá vôi", "structure": "石灰岩地区 / 石灰岩层", "explanation": "Loại đá trầm tích chủ yếu chứa canxi cacbonat, dễ thấm nước.", "examples": [{ "chinese": "在这种石灰岩地区，陆地表面的水很容易进入地下。", "pinyin": "Zài zhè zhǒng shíhuīyán dìqū, lùdì biǎomiàn de shuǐ hěn róngyì jìnrù dìxià.", "vietnamese": "Ở vùng đá vôi loại này, nước trên bề mặt đất liền rất dễ thấm xuống lòng đất.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "以碳酸钙为主要成分的沉积岩。", "collocations": ["石灰岩地区", "石灰岩层"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l05_w37", "order": 37, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "地区", "pinyin": "dìqū",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "khu vực, vùng", "structure": "石灰岩地区 / 偏远地区 / 沿海地区", "explanation": "Phạm vi địa lý tương đối rộng lớn.", "examples": [{ "chinese": "在这种石灰岩地区，陆地表面的水很容易进入地下。", "pinyin": "Zài zhè zhǒng shíhuīyán dìqū, lùdì biǎomiàn de shuǐ hěn róngyì jìnrù dìxià.", "vietnamese": "Ở khu vực đá vôi này, nước trên bề mặt đất liền rất dễ đi xuống lòng đất.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "较大范围的地域。", "collocations": ["发达地区", "西部地区", "不同地区"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l05_w38", "order": 38, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "表面", "pinyin": "biǎomiàn",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "bề mặt, phía ngoài", "structure": "陆地表面 / 地球表面 / 水的表面", "explanation": "Lớp mặt ngoài cùng của vật thể.", "examples": [{ "chinese": "陆地表面的水很容易进入地下。", "pinyin": "Lùdì biǎomiàn de shuǐ hěn róngyì jìnrù dìxià.", "vietnamese": "Nước trên bề mặt đất liền rất dễ thấm xuống lòng đất.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["vẻ bề ngoài, hiện tượng bên ngoài (đối lập với bản chất)"], "structure": "表面上 / 表面现象 / 表面问题", "difference_note": "Dùng nghĩa bóng chỉ mặt ngoài không phản ánh hết sự thật bên trong.", "examples": [{ "chinese": "这件事不能只看表面，要了解里面的原因。", "pinyin": "Zhè jiàn shì bù néng zhǐ kàn biǎomiàn, yào liǎojiě lǐmiàn de yuányīn.", "vietnamese": "Chuyện này không thể chỉ nhìn bề ngoài, cần hiểu rõ nguyên nhân bên trong." }] }
+      ],
+      "chinese_explanation": "物体的最外层；事物的非本质外在表现。", "collocations": ["地球表面", "表面上", "表面现象"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l05_w39", "order": 39, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "角度", "pinyin": "jiǎodù",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "góc, độ của góc", "structure": "以……的角度 / 三十度的角度", "explanation": "Độ lớn của góc trong toán học/hình học.", "examples": [{ "chinese": "山区的石灰岩层，以大约三十度的角度，由南向北斜。", "pinyin": "Shānqū de shíhuīyáncéng, yǐ dàyuē sānshí dù de jiǎodù, yóu nán xiàng běi xié.", "vietnamese": "Tầng đá vôi ở vùng núi nghiêng từ nam sang bắc theo góc khoảng ba mươi độ.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["góc độ, phương diện nhìn nhận sự việc"], "structure": "换一个角度 / 从……的角度来看", "difference_note": "Nghĩa bóng cực kỳ phổ biến trong HSK 5 (xuất hiện ngay trong Bài tập 1 câu 6 tr.52!).", "examples": [{ "chinese": "换一个角度考虑，也许正好就能发现问题的关键。", "pinyin": "Huàn yí ge jiǎodù kǎolǜ, yěxǔ zhènghǎo jiù néng fāxiàn wèntí de guānjiàn.", "vietnamese": "Đổi một góc độ suy nghĩ, có lẽ vừa hay sẽ phát hiện ra mấu chốt của vấn đề." }] }
+      ],
+      "chinese_explanation": "两条射线所夹的角的大小；看事情的出发点。", "collocations": ["换个角度", "从……角度看", "不同角度"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l05_w40", "order": 40, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "斜", "pinyin": "xié",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "xiên, nghiêng", "structure": "由南向北斜 / 挂斜了 / 斜线", "explanation": "Không thẳng đứng hoặc không nằm ngang song song với mặt phẳng.", "examples": [{ "chinese": "山区的石灰岩层，以大约三十度的角度，由南向北斜。", "pinyin": "Shānqū de shíhuīyáncéng, yǐ dàyuē sānshí dù de jiǎodù, yóu nán xiàng běi xié.", "vietnamese": "Tầng đá vôi vùng núi nghiêng từ nam sang bắc với góc khoảng ba mươi độ.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "跟平面或直线既不平行也不垂直的；不正。", "collocations": ["斜线", "挂斜了", "斜着身子"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l05_w41", "order": 41, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "为", "pinyin": "wéi",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "trở thành", "structure": "V + 为 (变为/改为/评为/称为) / 以……为……", "explanation": "Tương đương 成、成为 (thường làm bổ ngữ sau động từ) hoặc 作为、算作 (coi là, tính là).", "examples": [{ "chinese": "而济南市区的地下岩石变为了火成岩。", "pinyin": "Ér Jǐnán shìqū de dìxià yánshí biànwéi le huǒchéngyán.", "vietnamese": "Còn nham thạch dưới lòng đất khu nội đô Tế Nam đã biến thành đá mác-ma.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "介词 (Giới từ — đọc wèi)", "meanings": ["vì, cho (mục đích hoặc đối tượng hưởng lợi)"], "structure": "为 + 某人 + V / 为了……", "difference_note": "Chữ đa âm! Khi làm giới từ chỉ đối tượng/mục đích đọc thanh 4: wèi.", "examples": [{ "chinese": "为了保护水资源，大家都要节约用水。", "pinyin": "Wèile bǎohù shuǐ zīyuán, dàjiā dōu yào jiéyuē yòngshuǐ.", "vietnamese": "Để bảo vệ tài nguyên nước, mọi người đều phải tiết kiệm nước." }] }
+      ],
+      "chinese_explanation": "变成、成为、作为（wéi）；给、替、因为（wèi）。", "collocations": ["变为", "改为", "称为", "以……为标准"], "usage_note": "Xem Chú thích 4 tr.50! Chú ý thanh điệu: 变为/改为/成为 đọc wéi (thanh 2).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l05_w42", "order": 42, "textbook": "HSK 5 上", "lesson": 5, "is_out_of_syllabus": true,
+      "hanzi": "火成岩", "pinyin": "huǒchéngyán",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "đá phun trào, đá mác-ma", "structure": "地下火成岩", "explanation": "Loại đá cứng hình thành do dung nham mác-ma nguội đi, khó thấm nước.", "examples": [{ "chinese": "而济南市区的地下岩石变为了火成岩。", "pinyin": "Ér Jǐnán shìqū de dìxià yánshí biànwéi le huǒchéngyán.", "vietnamese": "Còn nham thạch dưới lòng đất nội đô Tế Nam đã chuyển thành đá mác-ma.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "由岩浆冷却凝固形成的岩石（又称岩浆岩）。", "collocations": ["火成岩层"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l05_w43", "order": 43, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "碰", "pinyin": "pèng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "đụng, gặp phải", "structure": "碰到 / 碰见 / 碰上", "explanation": "Va chạm vào vật cản hoặc tình cờ gặp phải người/việc gì.", "examples": [{ "chinese": "地下水流到这里，碰到火成岩挡住了路，就积蓄起来，越积越多。", "pinyin": "Dìxiàshuǐ liúdào zhèlǐ, pèngdào huǒchéngyán dǎngzhù le lù, jiù jīxù qilai, yuè jī yuè duō.", "vietnamese": "Nước ngầm chảy tới đây, gặp phải đá mác-ma chặn đường, liền tích tụ lại, càng tích càng nhiều.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ)", "meanings": ["chạm vào, đụng tay vào; thử vận may"], "structure": "别碰 / 碰运气 / 碰杯", "difference_note": "Chỉ hành động chạm nhẹ hoặc cụng ly, thử vận may.", "examples": [{ "chinese": "博物馆里的展品请不要用手碰。", "pinyin": "Bówùguǎn li de zhǎnpǐn qǐng búyào yòng shǒu pèng.", "vietnamese": "Hiện vật trong bảo tàng xin đừng dùng tay chạm vào." }] }
+      ],
+      "chinese_explanation": "撞击；接触；意外遇见。", "collocations": ["碰到", "碰见", "碰杯", "碰运气"], "usage_note": "Bài tập 3 tr.53: 碰见 (tình cờ gặp).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l05_w44", "order": 44, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "挡", "pinyin": "dǎng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "chặn, cản", "structure": "挡住路 / 挡住视线 / 挡风", "explanation": "Ngăn cản không cho vật đi qua hoặc che khuất đi.", "examples": [{ "chinese": "碰到火成岩挡住了路，就积蓄起来。", "pinyin": "Pèngdào huǒchéngyán dǎngzhù le lù, jiù jīxù qilai.", "vietnamese": "Gặp phải đá mác-ma chặn mất đường đi, liền tích tụ lại.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "阻拦；遮蔽。", "collocations": ["挡住", "挡路", "挡风遮雨"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l05_w45", "order": 45, "textbook": "HSK 5 上", "lesson": 5, "is_out_of_syllabus": true,
+      "hanzi": "地势", "pinyin": "dìshì",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "địa thế", "structure": "地势低 / 地势高 / 地势平坦", "explanation": "Hình thế cao thấp, bằng phẳng hay dốc của mặt đất.", "examples": [{ "chinese": "济南旧城一带，地势低，有的地方甚至低过了地下水的水面。", "pinyin": "Jǐnán jiùchéng yídài, dìshì dī, yǒude dìfang shènzhì dīguò le dìxiàshuǐ de shuǐmiàn.", "vietnamese": "Vùng thành cổ Tế Nam có địa thế thấp, có nơi thậm chí còn thấp hơn mực nước ngầm.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "地面高低起伏的形势。", "collocations": ["地势低", "地势高", "地势险要"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l05_w46", "order": 46, "textbook": "HSK 5 上", "lesson": 5,
+      "hanzi": "冲", "pinyin": "chōng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "xông thẳng lên", "structure": "冲出地表 / 冲出去 / 冲过去", "explanation": "Lao mạnh, phun trào thẳng lên hoặc xông tới với lực lớn.", "examples": [{ "chinese": "地下水就冲出地表，形成了众多的泉水。", "pinyin": "Dìxiàshuǐ jiù chōngchū dìbiǎo, xíngchéng le zhòngduō de quánshuǐ.", "vietnamese": "Nước ngầm liền phun trào lên khỏi mặt đất, hình thành vô số dòng suối.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ — đọc chōng)", "meanings": ["dội nước, cuốn trôi; pha (trà/cà phê bằng nước sôi)"], "structure": "冲澡 / 被大水冲走 / 冲一杯咖啡", "difference_note": "Dùng với dòng nước chảy mạnh hoặc rót nước sôi vào pha đồ uống.", "examples": [{ "chinese": "天气太热了，我先去冲个澡。", "pinyin": "Tiānqì tài rè le, wǒ xiān qù chōng ge zǎo.", "vietnamese": "Trời nóng quá, tôi đi tắm dội nước một cái đã." }] },
+        { "part_of_speech": "介词 (Giới từ — đọc chòng)", "meanings": ["hướng về phía, nhằm vào"], "structure": "冲着 + 某人 + V", "difference_note": "Chữ đa âm! Khi chỉ phương hướng đọc thanh 4 (chòng), sẽ gặp tiếp ở các bài sau.", "examples": [{ "chinese": "可爱的小狗摇着尾巴冲我跑过来。", "pinyin": "Kě'ài de xiǎogǒu yáozhe wěiba chòng wǒ pǎo guòlái.", "vietnamese": "Chú chó con đáng yêu vẫy đuôi chạy về phía tôi." }] }
+      ],
+      "chinese_explanation": "猛烈地向前或向上闯（chōng）；用水浇注、冲击（chōng）；面向、朝着（chòng）。", "collocations": ["冲出地表", "冲走", "冲咖啡", "冲着我笑"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    }
+  ],
+  "proper_nouns": [
+    { "hanzi": "济南", "pinyin": "Jǐnán", "meaning": "Tế Nam (thủ phủ của tỉnh Sơn Đông)" },
+    { "hanzi": "鲍全", "pinyin": "Bào Quán", "meaning": "Bào Toàn (tên người)" },
+    { "hanzi": "东海龙王", "pinyin": "Dōnghǎi Lóngwáng", "meaning": "Đông Hải Long vương" },
+    { "hanzi": "趵突泉", "pinyin": "Bàotūquán", "meaning": "Báo Đột tuyền (tên dòng suối)" },
+    { "hanzi": "舜", "pinyin": "Shùn", "meaning": "vua Thuấn (vị vua trong truyền thuyết cổ đại Trung Hoa)" }
+  ],
+  "collocations_table": [
+    { "relation": "Động từ + Tân ngữ", "head": "充满", "partners": "阳光 / 力量 / 希望 / 欢乐" },
+    { "relation": "Động từ + Tân ngữ", "head": "反映", "partners": "生活 / 水平 / 情况 / 能力" },
+    { "relation": "Định ngữ + Trung tâm ngữ", "head": "悠久的", "partners": "文化 / 历史 / 传统" },
+    { "relation": "Định ngữ + Trung tâm ngữ", "head": "独特的", "partners": "位置 / 看法 / 形状 / 建筑" },
+    { "relation": "Trạng ngữ + Trung tâm ngữ", "head": "描写", "partners": "生动地 / 正确地 / 认真地" },
+    { "relation": "Trạng ngữ + Trung tâm ngữ", "head": "形成", "partners": "自然 / 逐渐" },
+    { "relation": "Trung tâm ngữ + Bổ ngữ", "head": "晕", "partners": "倒 / 过去" },
+    { "relation": "Trung tâm ngữ + Bổ ngữ", "head": "救", "partners": "活 / 起 / 出 / 过来" }
+  ],
+  "grammar": [
+    {
+      "title": "起来 (Động từ + 起来)",
+      "formula": "(1) V + 起来 (từ phân tán → tập trung)  |  (2) V + 起来 (từ lộ ra → ẩn giấu)",
+      "meaning": "1. Tụ lại, gom lại, tích lũy lại · 2. Giấu đi, ẩn đi.",
+      "usage": "Bổ ngữ xu hướng mở rộng gắn sau động từ: (1) biểu thị sự vật từ phân tán tập trung lại một chỗ (积蓄起来, 收起来, 积累起来); (2) biểu thị sự vật từ trạng thái lộ ra chuyển sang ẩn giấu, kín đáo (躲起来, 藏起来).",
+      "context": "Dùng rộng rãi cả khẩu ngữ và văn viết để bổ sung trạng thái kết quả cho động từ.",
+      "examples": [
+        { "chinese": "地下水流到这里，碰到火成岩挡住了路，就积蓄起来，越积越多。", "pinyin": "Dìxiàshuǐ liúdào zhèlǐ, pèngdào huǒchéngyán dǎngzhù le lù, jiù jīxù qilai, yuè jī yuè duō.", "vietnamese": "Nước ngầm chảy đến đây, gặp đá mác-ma chặn đường, liền tích tụ lại, càng tích càng nhiều." },
+        { "chinese": "渔夫想，这网一收起来，鱼一定可以装满整条船。", "pinyin": "Yúfū xiǎng, zhè wǎng yì shōu qilai, yú yídìng kěyǐ zhuāngmǎn zhěng tiáo chuán.", "vietnamese": "Người đánh cá nghĩ, mẻ lưới này vừa thu lại, cá nhất định chất đầy cả con thuyền." },
+        { "chinese": "刘丽知道自己做得不对，躲起来不敢见我。", "pinyin": "Liú Lì zhīdào zìjǐ zuò de búduì, duǒ qilai bù gǎn jiàn wǒ.", "vietnamese": "Lưu Lệ biết mình làm không đúng, trốn đi không dám gặp tôi." },
+        { "chinese": "为了不被坏人抢走，他把壶埋入地下藏了起来。", "pinyin": "Wèile bú bèi huàirén qiǎngzǒu, tā bǎ hú máirù dìxià cáng le qilai.", "vietnamese": "Để không bị kẻ xấu cướp mất, anh chôn chiếc bình xuống đất giấu đi." }
+      ],
+      "important_notes": "Động từ có thể xen 了 ở giữa động từ và 起来 (藏了起来) hoặc tân ngữ nằm giữa 起 và 来.",
+      "common_errors": "",
+      "comparison": "Ngoài 2 nghĩa này, HSK 3–4 đã học V+起来 còn chỉ hướng lên trên (站起来), bắt đầu kéo dài (笑起来) và đánh giá (看起来).",
+      "mini_practice": [
+        { "prompt": "刘方喜欢把旅游时买的门票______________________。（起来）", "sample_answer": "收藏起来 / 收集起来", "explanation": "Dùng nghĩa gom tập trung/cất giữ lại." },
+        { "prompt": "你刚工作，别太着急，经验______________________。（起来）", "sample_answer": "是慢慢积累起来的", "explanation": "Kinh nghiệm được tích lũy dần dần từ phân tán thành tập trung." }
+      ]
+    },
+    {
+      "title": "于 (Giới từ)",
+      "formula": "V / Adj + 于 + Thời gian / Phạm vi / Nơi chốn / Đối tượng / Chuẩn so sánh",
+      "meaning": "Ở, vào, từ, đối với, hướng tới, hơn (tương đương 在、从、对、向、比).",
+      "usage": "Giới từ thiên về văn viết, thường gắn chặt ngay sau động từ/tính từ để dẫn ra: (1) Thời gian (成立于1997年), (2) Phạm vi (用于感冒的治疗), (3) Nơi chốn/nguồn gốc (来自于广大山区), (4) Đối tượng (有助于健康 / 求助于老同学), (5) So sánh (远远高于自己).",
+      "context": "Rất phổ biến trong văn bản học thuật, báo chí, giới thiệu khoa học và bài tập viết lại câu HSK 5.",
+      "examples": [
+        { "chinese": "这家公司成立于1997年。（表示时间）", "pinyin": "Zhè jiā gōngsī chénglì yú yījiǔjiǔqī nián.", "vietnamese": "Công ty này thành lập vào năm 1997." },
+        { "chinese": "这种药主要用于感冒的治疗。（表示范围）", "pinyin": "Zhè zhǒng yào zhǔyào yòng yú gǎnmào de zhìliáo.", "vietnamese": "Loại thuốc này chủ yếu dùng cho việc điều trị cảm cúm." },
+        { "chinese": "济南的泉水，来自于济南市以南的广大山区。（表示处所）", "pinyin": "Jǐnán de quánshuǐ, láizì yú Jǐnánshì yǐnán de guǎngdà shānqū.", "vietnamese": "Nước suối Tế Nam bắt nguồn từ vùng núi rộng lớn phía nam thành phố Tế Nam." },
+        { "chinese": "运动有助于健康。（表示对象）", "pinyin": "Yùndòng yǒuzhù yú jiànkāng.", "vietnamese": "Vận động có ích cho sức khỏe." },
+        { "chinese": "队员们都认为对方的水平远远高于自己。（表示比较）", "pinyin": "Duìyuán men dōu rènwéi duìfāng de shuǐpíng yuǎnyuǎn gāoyú zìjǐ.", "vietnamese": "Các thành viên đều cho rằng trình độ của đối phương cao hơn mình rất nhiều." }
+      ],
+      "important_notes": "Khi chuyển từ '在……V' sang 'V+于……', cụm giới từ 于 đứng SAU động từ (VD: 在19世纪末产生的 → 产生于19世纪末).",
+      "common_errors": "Sai: '于1997年成立' → Đúng: '成立于1997年'.",
+      "comparison": "",
+      "mini_practice": [
+        { "prompt": "改写：乒乓球运动是在19世纪末产生的，说起来还有一段有趣的故事呢。→ 乒乓球运动______________________。（于）", "sample_answer": "产生于19世纪末，说起来还有一段有趣的故事呢", "explanation": "Đổi '是在……产生的' thành '产生于……'." },
+        { "prompt": "改写：工作上，对已取得的成功，他从不满足，而是给自己提出更高的要求。→ ______________________，而是给自己提出更高的要求。（于）", "sample_answer": "工作上，他从不满足于已取得的成功", "explanation": "Đổi '对……从不满足' thành '从不满足于……'." }
+      ]
+    },
+    {
+      "title": "从而",
+      "formula": "Vế 1 (Nguyên nhân / Phương pháp)，从而 + Vế 2 (Kết quả / Mục đích)",
+      "meaning": "Do đó, từ đó, qua đó mà đạt được.",
+      "usage": "Liên từ đặt giữa hai phân câu: vế trước nêu nguyên nhân, biện pháp hoặc hành động; vế sau nêu kết quả tự nhiên hoặc mục đích đạt được từ vế trước.",
+      "context": "Dùng nhiều trong văn nghị luận, bài viết giải thích nguyên lý hoặc phân tích hiệu quả.",
+      "examples": [
+        { "chinese": "比赛前做好思想准备可以减少运动员的压力，从而取得比赛的成功。", "pinyin": "Bǐsài qián zuòhǎo sīxiǎng zhǔnbèi kěyǐ jiǎnshǎo yùndòngyuán de yālì, cóng'ér qǔdé bǐsài de chénggōng.", "vietnamese": "Chuẩn bị tâm lý tốt trước trận đấu có thể giảm áp lực cho vận động viên, từ đó giành thắng lợi trong cuộc thi." },
+        { "chinese": "在学习过程中及时复习，可以尽早发现和解决问题，加深理解，从而取得更好的成绩。", "pinyin": "Zài xuéxí guòchéng zhōng jíshí fùxí, kěyǐ jìnzǎo fāxiàn hé jiějué wèntí, jiāshēn lǐjiě, cóng'ér qǔdé gèng hǎo de chéngjì.", "vietnamese": "Ôn tập kịp thời trong quá trình học giúp sớm phát hiện và giải quyết vấn đề, hiểu sâu hơn, từ đó đạt thành tích tốt hơn." },
+        { "chinese": "而济南的老百姓住在泉边，喝着这甜美的泉水，自然对它充满感激之情，从而也产生了许多关于泉水的美丽传说。", "pinyin": "Ér Jǐnán de lǎobǎixìng zhù zài quánbiān, hēzhe zhè tiánměi de quánshuǐ, zìrán duì tā chōngmǎn gǎnjī zhī qíng, cóng'ér yě chǎnshēng le xǔduō guānyú quánshuǐ de měilì chuánshuō.", "vietnamese": "Còn người dân Tế Nam sống bên bờ suối, uống nước suối ngọt mát, tự nhiên chan chứa lòng biết ơn, từ đó cũng sản sinh nhiều truyền thuyết đẹp." }
+      ],
+      "important_notes": "Thường hai vế có cùng chủ ngữ (hoặc chủ ngữ ẩn). Sau 从而 thường là cụm động từ chỉ kết quả tích cực hoặc tất yếu.",
+      "common_errors": "",
+      "comparison": "Gần với 因此/所以 nhưng 从而 nhấn mạnh sự chuyển tiếp trực tiếp từ phương pháp/tiền đề sang kết quả/mục đích, và không ghép cặp với 因为.",
+      "mini_practice": [
+        { "prompt": "玩游戏可以锻炼人的脑、眼和手，______________________。（从而）", "sample_answer": "从而提高人的反应能力", "explanation": "Vế trước nêu cách thức/tác dụng, 从而 dẫn ra kết quả đạt được." }
+      ]
+    },
+    {
+      "title": "为 (wéi)",
+      "formula": "(1) V + 为 + Danh từ (thành, trở thành)  |  (2) 以 A 为 B / 称……为…… (coi là, gọi là)",
+      "meaning": "1. Trở thành, biến thành (成、成为) · 2. Coi là, tính là, làm (作为、算作).",
+      "usage": "Động từ văn viết đọc thanh 2 (wéi): (1) Thường làm bổ ngữ kết quả sau động từ như 变为、改为、描写为、评为; (2) Biểu thị 'coi là, lấy làm' trong các khuôn 以……为……, 称其为…….",
+      "context": "Dùng phổ biến trong thông báo, văn thuyết minh, báo chí.",
+      "examples": [
+        { "chinese": "而济南市区的地下岩石变为了火成岩。", "pinyin": "Ér Jǐnán shìqū de dìxià yánshí biànwéi le huǒchéngyán.", "vietnamese": "Còn nham thạch dưới lòng đất nội đô Tế Nam đã biến thành đá mác-ma." },
+        { "chinese": "每个人都会遇到各种压力，可是，压力也可以变为动力。", "pinyin": "Měi ge rén dōu huì yùdào gèzhǒng yālì, kěshì, yālì yě kěyǐ biànwéi dònglì.", "vietnamese": "Mỗi người đều sẽ gặp đủ loại áp lực, nhưng áp lực cũng có thể biến thành động lực." },
+        { "chinese": "找工作时，很多人会以收入多少为第一标准，这种想法我不能接受。", "pinyin": "Zhǎo gōngzuò shí, hěn duō rén huì yǐ shōurù duōshao wéi dì-yī biāozhǔn, zhè zhǒng xiǎngfǎ wǒ bù néng jiēshòu.", "vietnamese": "Khi tìm việc, nhiều người lấy mức thu nhập làm tiêu chuẩn đầu tiên, suy nghĩ này tôi không chấp nhận được." },
+        { "chinese": "在他看来，没有工作的生活就不能称其为生活。", "pinyin": "Zài tā kànlái, méiyǒu gōngzuò de shēnghuó jiù bù néng chēng qí wéi shēnghuó.", "vietnamese": "Theo cách nhìn của anh ấy, cuộc sống không có công việc thì không thể gọi là cuộc sống." }
+      ],
+      "important_notes": "Trong Bài tập 1 câu 4 tr.52: '明天的活动改为下周一了' (đổi thành thứ Hai tuần sau).",
+      "common_errors": "",
+      "comparison": "Thay cho 成/成为 ở ngữ cảnh trang trọng hơn (VD: 描写成 → 描写为; 改变时间 → 改为).",
+      "mini_practice": [
+        { "prompt": "改写：在影视作品中，常常把鲨鱼描写成可怕的海洋杀手。→ 在影视作品中，______________________。（为）", "sample_answer": "常常把鲨鱼描写为可怕的海洋杀手", "explanation": "Thay bổ ngữ 成 bằng 为." },
+        { "prompt": "改写：为了方便同学们报名，办公室改变了报名时间，从本月一日到十日，周六、日不休。→ 为了方便同学们报名，______________________。（为）", "sample_answer": "办公室将报名时间改为从本月一日到十日，周六、日不休", "explanation": "Dùng 改为 (đổi thành)." }
+      ]
+    }
+  ],
+  "comparison_section": {
+    "label": "词语辨析 Phân biệt từ ngữ",
+    "pair": "美丽 — 优美",
+    "term_a": "美丽 (měilì)",
+    "term_b": "优美 (yōuměi)",
+    "similarity": "Đều là tính từ, đều có thể miêu tả phong cảnh, môi trường... VD: 济南是一座风景美丽/优美的城市。",
+    "differences": [
+      { "criterion": "Đối tượng miêu tả chính", "a": "Thường dùng miêu tả diện mạo, dáng vẻ, cách ăn mặc xinh đẹp (她有一双美丽的大眼睛).", "b": "Thiên về miêu tả động tác, hình tượng mang lại cảm nhận mỹ cảm thanh tao (演员们的动作十分优美)." },
+      { "criterion": "Giác quan cảm nhận", "a": "Nhìn chung thường miêu tả cảm nhận bằng THỊ GIÁC (雨后天空中出现了一道美丽的彩虹).", "b": "Còn có thể miêu tả cảm nhận PHI THỊ GIÁC như âm thanh, lời văn (一进院子就听到了丽丽那优美的歌声 / 语言生动优美)." },
+      { "criterion": "Nghĩa tu từ (cao quý, tốt đẹp)", "a": "Có cách dùng tu từ, mang nghĩa tốt đẹp, cao quý (她有一颗美丽善良的心 / 美丽的传说).", "b": "KHÔNG có cách dùng tu từ này." }
+    ]
+  },
+  "texts": [
+    {
+      "id": "t1", "title_zh": "济南的泉水（633字）", "title_vi": "Nước suối Tế Nam",
+      "lines": [
+        { "speaker": "", "chinese": "济南的泉水，历史悠久，最早的文字记载可以推到3000多年前。许多文人都对它的声音、颜色、形状、味道进行过描写，留下了许多赞美泉水的诗文。而济南的老百姓住在泉边，喝着这甜美的泉水，自然对它充满感激之情，从而也产生了许多关于泉水的美丽传说。", "pinyin": "Jǐnán de quánshuǐ, lìshǐ yōujiǔ, zuìzǎo de wénzì jìzǎi kěyǐ tuīdào sānqiān duō nián qián. Xǔduō wénrén dōu duì tā de shēngyīn, yánsè, xíngzhuàng, wèidào jìnxíngguo miáoxiě, liúxià le xǔduō zànměi quánshuǐ de shīwén. Ér Jǐnán de lǎobǎixìng zhù zài quánbiān, hēzhe zhè tiánměi de quánshuǐ, zìrán duì tā chōngmǎn gǎnjī zhī qíng, cóng'ér yě chǎnshēng le xǔduō guānyú quánshuǐ de měilì chuánshuō.", "vietnamese": "Nước suối Tế Nam có lịch sử lâu đời, ghi chép văn tự sớm nhất có thể truy ngược về hơn 3000 năm trước. Nhiều văn nhân đều từng miêu tả âm thanh, màu sắc, hình dạng, hương vị của nó, để lại bao thơ văn ca ngợi nước suối. Còn người dân Tế Nam sống bên bờ suối, uống dòng nước ngọt mát này, tự nhiên chan chứa lòng biết ơn, từ đó cũng sản sinh ra nhiều truyền thuyết đẹp về nước suối." },
+        { "speaker": "", "chinese": "相传很久以前，济南城里有个善良的青年，名叫鲍全，他学习医术，救了很多人。一次，他在路边救了一位晕倒的老人，并把老人接回家照顾。这老人其实是东海龙王的哥哥。通过老人的介绍，鲍全从龙王那儿求到了治病救人的白玉壶。为了不被坏人抢走，他把壶埋入地下藏了起来，于是就变成了今天有“天下第一泉”美名的趵突泉。", "pinyin": "Xiāngchuán hěn jiǔ yǐqián, Jǐnán chéng li yǒu ge shànliáng de qīngnián, míng jiào Bào Quán, tā xuéxí yīshù, jiù le hěn duō rén. Yí cì, tā zài lùbiān jiù le yí wèi yūndǎo de lǎorén, bìng bǎ lǎorén jiē huíjiā zhàogù. Zhè lǎorén qíshí shì Dōnghǎi Lóngwáng de gēge. Tōngguò lǎorén de jièshào, Bào Quán cóng Lóngwáng nàr qiúdào le zhìbìng jiùrén de báiyùhú. Wèile bú bèi huàirén qiǎngzǒu, tā bǎ hú máirù dìxià cáng le qilai, yúshì jiù biànchéng le jīntiān yǒu “Tiānxià dì-yī quán” měimíng de Bàotūquán.", "vietnamese": "Tương truyền rất lâu về trước, trong thành Tế Nam có chàng thanh niên lương thiện tên là Bào Toàn, học y thuật và cứu giúp nhiều người. Một lần, anh cứu một cụ già ngất xỉu bên đường rồi đón về nhà chăm sóc. Cụ già ấy thực ra là anh trai của Đông Hải Long Vương. Qua lời giới thiệu của cụ, Bào Toàn xin được từ Long Vương chiếc bình bạch ngọc chữa bệnh cứu người. Để không bị kẻ xấu cướp mất, anh chôn chiếc bình xuống đất giấu đi, thế rồi nơi đó biến thành Báo Đột tuyền mang mỹ danh “Thiên hạ đệ nhất tuyền” ngày nay." },
+        { "speaker": "", "chinese": "如今的济南市区内，分布着大大小小七百多个天然泉，这在国内外城市中是极为少有的。有如此之多的泉，名字当然也少不了。济南泉水的优美，还可从那独特的名字上反映出来，如：以人名命名的舜泉，以动物命名的黑虎泉，以形状命名的珍珠泉，等等。", "pinyin": "Rújīn de Jǐnán shìqū nèi, fēnbùzhe dàdàxiǎoxiǎo qībǎi duō ge tiānrán quán, zhè zài guónèiwài chéngshì zhōng shì jíwéi shǎoyǒu de. Yǒu rúcǐ zhī duō de quán, míngzi dāngrán yě shǎobuliǎo. Jǐnán quánshuǐ de yōuměi, hái kě cóng nà dútè de míngzi shang fǎnyìng chūlái, rú: yǐ rénmíng mìngmíng de Shùnquán, yǐ dòngwù mìngmíng de Hēihǔquán, yǐ xíngzhuàng mìngmíng de Zhēnzhūquán, děngděng.", "vietnamese": "Trong nội đô Tế Nam ngày nay phân bố hơn bảy trăm con suối tự nhiên lớn nhỏ, điều này vô cùng hiếm thấy ở các thành phố trong và ngoài nước. Có nhiều suối đến vậy nên tên gọi tất nhiên cũng không thể thiếu. Vẻ đẹp của nước suối Tế Nam còn thể hiện qua những cái tên độc đáo như: suối Thuấn đặt theo tên người, suối Hắc Hổ đặt theo động vật, suối Trân Châu đặt theo hình dạng, vân vân." },
+        { "speaker": "", "chinese": "说到这里，您也许要问，这么多、这么好的泉水是如何形成的呢？济南的泉水，来自于济南市以南的广大山区，这些山区的岩石是大约四亿年前形成的一层厚厚的石灰岩。在这种石灰岩地区，陆地表面的水很容易进入地下。山区的石灰岩层，以大约三十度的角度，由南向北斜，因此大量的地下水向济南运动。而济南市区的地下岩石变为了火成岩，地下水流到这里，碰到火成岩挡住了路，就积蓄起来，越积越多。它无处可流，就得另找出路。济南旧城一带，地势低，有的地方甚至低过了地下水的水面，地下水就冲出地表，形成了众多的泉水。这就是济南“泉城”美名得来的原因。", "pinyin": "Shuōdào zhèlǐ, nín yěxǔ yào wèn, zhème duō, zhème hǎo de quánshuǐ shì rúhé xíngchéng de ne? Jǐnán de quánshuǐ, láizì yú Jǐnánshì yǐnán de guǎngdà shānqū, zhèxiē shānqū de yánshí shì dàyuē sì yì nián qián xíngchéng de yì céng hòuhòu de shíhuīyán. Zài zhè zhǒng shíhuīyán dìqū, lùdì biǎomiàn de shuǐ hěn róngyì jìnrù dìxià. Shānqū de shíhuīyáncéng, yǐ dàyuē sānshí dù de jiǎodù, yóu nán xiàng běi xié, yīncǐ dàliàng de dìxiàshuǐ xiàng Jǐnán yùndòng. Ér Jǐnán shìqū de dìxià yánshí biànwéi le huǒchéngyán, dìxiàshuǐ liúdào zhèlǐ, pèngdào huǒchéngyán dǎngzhù le lù, jiù jīxù qilai, yuè jī yuè duō. Tā wúchù kě liú, jiù děi lìng zhǎo chūlù. Jǐnán jiùchéng yídài, dìshì dī, yǒude dìfang shènzhì dīguò le dìxiàshuǐ de shuǐmiàn, dìxiàshuǐ jiù chōngchū dìbiǎo, xíngchéng le zhòngduō de quánshuǐ. Zhè jiùshì Jǐnán “Quánchéng” měimíng délái de yuányīn.", "vietnamese": "Nói đến đây, có lẽ bạn sẽ hỏi: nhiều nước suối ngon lành như thế được hình thành ra sao? Nước suối Tế Nam bắt nguồn từ vùng núi rộng lớn phía nam thành phố Tế Nam, nham thạch ở vùng núi này là một tầng đá vôi dày hình thành khoảng bốn trăm triệu năm trước. Ở khu vực đá vôi này, nước bề mặt rất dễ thấm xuống lòng đất. Tầng đá vôi vùng núi nghiêng từ nam sang bắc khoảng ba mươi độ nên lượng lớn nước ngầm chảy về phía Tế Nam. Còn nham thạch ngầm ở nội đô Tế Nam lại chuyển thành đá mác-ma; nước ngầm chảy tới đây bị đá mác-ma chặn đường liền tích tụ ngày càng nhiều, không còn lối thoát nên phải tìm đường khác. Vùng thành cổ Tế Nam địa thế thấp, có nơi thấp hơn cả mực nước ngầm, nước ngầm liền phun trào lên khỏi mặt đất tạo thành vô số dòng suối. Đó chính là lý do Tế Nam có mỹ danh “Tuyền Thành”." }
+      ]
+    }
+  ],
+  "reading_questions": [
+    { "question_zh": "济南的泉水是如何形成的？", "question_vi": "Nước suối Tế Nam được hình thành như thế nào?", "answer_zh": "济南以南山区的石灰岩层容易让地表水进入地下，并由南向北倾斜，地下水流到济南市区碰到火成岩挡路而不断积蓄，又因济南旧城一带地势低，地下水就冲出地表形成了众多的泉水。", "answer_vi": "Tầng đá vôi vùng núi phía nam Tế Nam dễ thấm nước mặt và nghiêng từ nam sang bắc, đưa nước ngầm chảy tới nội đô Tế Nam. Tại đây nước bị đá mác-ma chặn lại tích tụ ngày càng nhiều; nhờ vùng thành cổ địa thế thấp hơn mực nước ngầm nên nước phun trào lên mặt đất tạo thành vô số dòng suối." }
+  ],
+  "exercises": [
+    {
+      "id": "h5s5_ex1", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.52 (Bài tập 1)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ điền vào chỗ trống: “新产品很受顾客欢迎，使我对公司的未来______信心。”",
+      "options": ["充满", "产生", "描写", "反映"],
+      "answer": "充满",
+      "explanation": "Cụm kết hợp chuẩn: 对……充满信心 (tràn đầy niềm tin vào...).",
+      "review_tip": "Ôn bảng 词语搭配 của động từ 充满."
+    },
+    {
+      "id": "h5s5_ex2", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.52 (Bài tập 1)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ điền vào chỗ trống: “换一个角度考虑，也许正好就能发现问题的关键，______找到解决问题的答案。”",
+      "options": ["从而", "为", "于", "但是"],
+      "answer": "从而",
+      "explanation": "Vế trước nêu cách làm (换一个角度考虑), vế sau dẫn ra kết quả đạt được (找到解决问题的答案) → dùng liên từ 从而.",
+      "review_tip": "Ôn Chú thích 3 tr.50: liên từ 从而."
+    },
+    {
+      "id": "h5s5_ex3", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.52 (Bài tập 1)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ điền vào chỗ trống: “办公室让我通知你明天下午的活动改______下周一了。”",
+      "options": ["为", "于", "从而", "形成"],
+      "answer": "为",
+      "explanation": "改为 = 改成 (đổi thành). Ở đây 为 (wéi) làm bổ ngữ kết quả sau động từ 改.",
+      "review_tip": "Ôn Chú thích 4 tr.50: động từ 为 (wéi)."
+    },
+    {
+      "id": "h5s5_ex4", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.52 (词语辨析)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “这篇文章的语言生动______。”",
+      "options": ["优美", "美丽", "独特", "悠久"],
+      "answer": "优美",
+      "explanation": "优美 dùng được cho cảm nhận phi thị giác như ngôn ngữ, lời văn, giọng hát (语言生动优美). Không dùng 美丽 cho ngôn ngữ.",
+      "review_tip": "Ôn mục 词语辨析: 美丽—优美 tr.51–52."
+    },
+    {
+      "id": "h5s5_ex5", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.52 (Bài tập 2)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “______是五点，再过一刻钟小明就放学了。”",
+      "options": ["现在", "如今", "天然", "广大"],
+      "answer": "现在",
+      "explanation": "如今 chỉ giai đoạn 'ngày nay' kéo dài (so với quá khứ), KHÔNG dùng để nói giờ giấc cụ thể. Báo giờ phải dùng 现在.",
+      "review_tip": "Phân biệt 如今 vs 现在."
+    },
+    {
+      "id": "h5s5_ex6", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.52 (Bài tập 2)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “严芳长得不是______漂亮，但仔细看却很有味道。”",
+      "options": ["特别", "独特", "优美", "善良"],
+      "answer": "特别",
+      "explanation": "Trước tính từ 漂亮 cần phó từ chỉ mức độ → 特别 (rất, đặc biệt). 独特 là tính từ (độc đáo), không làm phó từ bổ nghĩa cho tính từ.",
+      "review_tip": "Phân biệt 特别 (phó/tính) vs 独特 (tính từ)."
+    },
+    {
+      "id": "h5s5_ex7", "type": "context_mc", "level": "Vận dụng", "origin_tag": "Sách gốc tr.52 (Bài tập 2)", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “护士小姐______女儿很勇敢，本来很怕打针的她这次竟然没哭。”",
+      "options": ["表扬", "赞美", "感激", "描写"],
+      "answer": "表扬",
+      "explanation": "Khen ngợi hành vi tốt, đặc biệt người lớn khen trẻ nhỏ phải dùng 表扬; 赞美 mang sắc thái ca tụng trang trọng (thường dùng cho cảnh đẹp, phẩm chất cao quý, tác phẩm).",
+      "review_tip": "Phân biệt 赞美 vs 表扬."
+    },
+    {
+      "id": "h5s5_ex8", "type": "grammar_mc", "level": "Vận dụng", "origin_tag": "Ôn tập Bài 1–4", "mistake_category": "Ngữ pháp",
+      "prompt": "[Ôn tập] Chọn đáp án đúng: “这么多的天然泉水，______是如何形成的呢？你去查查资料吧。” — Câu nào sau đây dùng SAI từ “如何”?",
+      "options": ["今天如何这么冷啊？", "请问这个问题该如何解决？", "你最近身体如何？", "大家正在讨论如何节约用水。"],
+      "answer": "今天如何这么冷啊？",
+      "explanation": "Từ Bài 1: 如何 KHÔNG dùng để hỏi nguyên nhân ('Tại sao?'). Câu 'Hôm nay sao lạnh thế?' phải dùng 怎么.",
+      "review_tip": "Ôn lại 词语辨析 Bài 1: 如何—怎么."
+    },
+    {
+      "id": "h5s5_ex9", "type": "context_mc", "level": "Vận dụng", "origin_tag": "Ôn tập Bài 1 + Bài 5", "mistake_category": "Từ vựng",
+      "prompt": "[Ôn tập] Chọn đáp án đúng: “刘经理毕业______北京大学经济学院，没想到他年轻时______还写过不少优美的诗。”",
+      "options": ["于 / 居然", "为 / 居然", "于 / 从而", "在 / 仍然"],
+      "answer": "于 / 居然",
+      "explanation": "毕业于 + Tên trường (Bài 5 tr.52: giới từ 于); 没想到……居然 (Bài 1: không ngờ lại...).",
+      "review_tip": "Ôn giới từ 于 (Bài 5) kết hợp phó từ 居然 (Bài 1)."
+    }
+  ]
+}

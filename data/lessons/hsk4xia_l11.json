@@ -1,0 +1,425 @@
+{
+  "id": "hsk4xia_l11",
+  "book_id": "hsk4xia",
+  "textbook": "HSK 4 下",
+  "lesson_number": 11,
+  "title_zh": "读书好，读好书，好读书",
+  "title_vi": "Đọc sách có rất nhiều lợi ích, đọc sách hay, thích đọc sách",
+  "pdf_pages": "Trang 11–20 (Chuẩn HSK4 下.pdf)",
+  "source_status": "verified_textbook",
+  "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"],
+  "vocabulary": [
+    {
+      "id": "hsk4x_l11_w01", "order": 1, "textbook": "HSK 4 下", "lesson": 11,
+      "hanzi": "流利", "pinyin": "liúlì",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "lưu loát, trôi chảy", "structure": "说得这么流利 / 流利的汉语", "explanation": "Miêu tả khả năng nói hoặc đọc ngoại ngữ/ngôn ngữ trôi chảy, tự nhiên.", "examples": [{ "chinese": "你来中国才一年，汉语就说得这么流利，真厉害！", "pinyin": "Nǐ lái Zhōngguó cái yì nián, Hànyǔ jiù shuō de zhème liúlì, zhēn lìhai!", "vietnamese": "Cậu đến Trung Quốc mới một năm mà tiếng Hán đã nói lưu loát thế này, thật lợi hại!", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "说话、读书等顺畅、不结巴。", "collocations": ["说得很流利", "流利的英语"], "usage_note": "Không dùng 流利 để nói viết chữ đẹp hay giao thông thông suốt.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l11_w02", "order": 2, "textbook": "HSK 4 下", "lesson": 11,
+      "hanzi": "厉害", "pinyin": "lìhai",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "lợi hại, giỏi giang", "structure": "真厉害 / 太厉害了", "explanation": "Trong bài khóa 1, dùng khen ngợi trình độ giỏi giang của người khác.", "examples": [{ "chinese": "你太厉害了！连中文报纸都看得懂。", "pinyin": "Nǐ tài lìhai le! Lián Zhōngwén bàozhǐ dōu kàn de dǒng.", "vietnamese": "Cậu giỏi quá đi! Ngay cả báo tiếng Trung cũng đọc hiểu.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "形容词 (Nghĩa: dữ dội, nghiêm trọng, khó chịu)", "meanings": ["dữ dội, nặng (bệnh tật, thời tiết)", "ghê gớm, nghiêm khắc (tính người)"], "structure": "疼得厉害 / 刮风刮得厉害", "difference_note": "Như câu 6 bài tập tr.20 ('牙最近疼得厉害'), dùng làm bổ ngữ mức độ chỉ sự nghiêm trọng/đau dữ dội.", "examples": [{ "chinese": "大夫，我的牙最近疼得厉害。", "pinyin": "Dàifu, wǒ de yá zuìjìn téng de lìhai.", "vietnamese": "Bác sĩ ơi, răng tôi dạo này đau dữ dội lắm." }] }
+      ],
+      "chinese_explanation": "了不起、高明；也指难以对付、剧烈或严重。", "collocations": ["真厉害", "疼得厉害", "厉害的对手"], "usage_note": "Âm tiết thứ hai đọc thanh nhẹ: lìhai.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l11_w03", "order": 3, "textbook": "HSK 4 下", "lesson": 11,
+      "hanzi": "语法", "pinyin": "yǔfǎ",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "ngữ pháp", "structure": "汉语语法 / 语法知识", "explanation": "Hệ thống quy tắc cấu tạo từ và câu trong ngôn ngữ.", "examples": [{ "chinese": "其实我的语法不太好，很多句子说得都不太准确。", "pinyin": "Qíshí wǒ de yǔfǎ bú tài hǎo, hěn duō jùzi shuō de dōu bú tài zhǔnquè.", "vietnamese": "Thật ra ngữ pháp của mình không tốt lắm, nhiều câu nói chưa được chuẩn xác.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "语言的结构方式，包括词的构成和句子的组织规律。", "collocations": ["语法错误", "学语法", "语法知识"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l11_w04", "order": 4, "textbook": "HSK 4 下", "lesson": 11,
+      "hanzi": "准确", "pinyin": "zhǔnquè",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "chính xác, đúng", "structure": "说得不太准确 / 准确的消息", "explanation": "Hoàn toàn phù hợp với thực tế hoặc tiêu chuẩn, không sai lệch.", "examples": [{ "chinese": "很多句子说得都不太准确。", "pinyin": "Hěn duō jùzi shuō de dōu bú tài zhǔnquè.", "vietnamese": "Nhiều câu nói đều chưa được chính xác lắm.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "行动的结果完全符合实际或预期。", "collocations": ["准确表达", "消息准确", "发音准确"], "usage_note": "Phân biệt với 正确 (đúng đắn về lý lẽ/đáp án); 准确 nhấn mạnh độ chính xác cao, không sai lệch (số liệu, phát âm, tin tức).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l11_w05", "order": 5, "textbook": "HSK 4 下", "lesson": 11,
+      "hanzi": "词语", "pinyin": "cíyǔ",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "từ ngữ, cách diễn đạt", "structure": "新词语 / 简单的词语", "explanation": "Chỉ từ và cụm từ cố định trong ngôn ngữ.", "examples": [{ "chinese": "这样能学到很多新词语。", "pinyin": "Zhèyàng néng xuédào hěn duō xīn cíyǔ.", "vietnamese": "Như vậy có thể học được rất nhiều từ ngữ mới.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "词和短语的总称。", "collocations": ["生词和词语", "常用词语", "选择词语"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l11_w06", "order": 6, "textbook": "HSK 4 下", "lesson": 11,
+      "hanzi": "连", "pinyin": "lián",
+      "lesson_usage": { "part_of_speech": "介词 (Giới từ)", "meaning": "ngay cả, đến cả", "structure": "连 + Chủ ngữ / Tân ngữ đặt trước + 也/都 + Vị ngữ", "explanation": "Nhấn mạnh một ví dụ cực đoan để làm nổi bật tình huống chung.", "examples": [{ "chinese": "你太厉害了！连中文报纸都看得懂。", "pinyin": "Nǐ tài lìhai le! Lián Zhōngwén bàozhǐ dōu kàn de dǒng.", "vietnamese": "Cậu giỏi thật! Ngay cả báo tiếng Trung cũng đọc hiểu.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Động từ)", "meanings": ["nối liền, liên kết (连接、连在一起)"], "structure": "把 A 和 B 连起来", "difference_note": "Là nghĩa gốc của chữ 连 (nối tiếp nhau), khác với giới từ nhấn mạnh trong bài.", "examples": [{ "chinese": "请把左右两边的词语连起来。", "pinyin": "Qǐng bǎ zuǒyòu liǎngbiān de cíyǔ lián qǐlái.", "vietnamese": "Hãy nối các từ ngữ ở hai bên trái phải với nhau." }] }
+      ],
+      "chinese_explanation": "介词，表示强调，常与“都/也”搭配；作动词时表示连接。", "collocations": ["连……都……", "连……也……", "连接"], "usage_note": "Sau 连 bắt buộc phải có 都 hoặc 也 ở phía sau.", "common_errors": "Quên 都/也: Sai '连他不知道' → Đúng '连他都不知道'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l11_w07", "order": 7, "textbook": "HSK 4 下", "lesson": 11,
+      "hanzi": "阅读", "pinyin": "yuèdú",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "đọc, đọc hiểu", "structure": "阅读能力 / 坚持阅读 / 阅读考试", "explanation": "Chỉ việc đọc sách báo, văn bản (sắc thái trang trọng hơn 看书).", "examples": [{ "chinese": "这次阅读考试的题太多了，我没做完。", "pinyin": "Zhè cì yuèdú kǎoshì de tí tài duō le, wǒ méi zuòwán.", "vietnamese": "Đề thi đọc hiểu lần này nhiều quá, mình làm không kịp hết.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "看（书报）并领会其内容。", "collocations": ["阅读理解", "阅读能力", "坚持阅读", "阅读习惯"], "usage_note": "Thường dùng trong học thuật, thi cử; ít nói '阅读手机'.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l11_w08", "order": 8, "textbook": "HSK 4 下", "lesson": 11,
+      "hanzi": "来得及", "pinyin": "láidejí",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ / Kết cấu khả năng)", "meaning": "kịp, còn kịp", "structure": "时间来得及 / 来得及 + V (Phủ định: 来不及)", "explanation": "Còn đủ thời gian để làm kịp việc gì đó.", "examples": [{ "chinese": "两个小时的时间应该来得及吧？", "pinyin": "Liǎng ge xiǎoshí de shíjiān yīnggāi láidejí ba?", "vietnamese": "Thời gian hai tiếng chắc là kịp chứ?", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "还有时间，能够赶上或完成（反义：来不及）。", "collocations": ["还来得及", "时间来得及", "来不及了"], "usage_note": "Dạng phủ định là 来不及 (không kịp), không nói 不来得及.", "common_errors": "Sai: '不来得及' → Đúng: '来不及'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l11_w09", "order": 9, "textbook": "HSK 4 下", "lesson": 11,
+      "hanzi": "复杂", "pinyin": "fùzá",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "phức tạp, rắc rối", "structure": "比较复杂 / 复杂的问题", "explanation": "Trái nghĩa với 简单 (đơn giản).", "examples": [{ "chinese": "这次主要是因为我先做了比较难、比较复杂的题。", "pinyin": "Zhè cì zhǔyào shì yīnwèi wǒ xiān zuò le bǐjiào nán, bǐjiào fùzá de tí.", "vietnamese": "Lần này chủ yếu vì mình làm trước mấy câu khá khó, khá phức tạp.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "（事物的种类、头绪等）多而杂（跟“简单”相对）。", "collocations": ["问题复杂", "情况复杂", "心情复杂"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l11_w10", "order": 10, "textbook": "HSK 4 下", "lesson": 11,
+      "hanzi": "只好", "pinyin": "zhǐhǎo",
+      "lesson_usage": { "part_of_speech": "副词 (Phó từ)", "meaning": "đành phải, buộc phải", "structure": "S + 只好 + V", "explanation": "Vì hoàn cảnh khách quan không còn cách nào khác nên đành chọn phương án đó.", "examples": [{ "chinese": "可是时间来不及，最后只好放弃了。", "pinyin": "Kěshì shíjiān láibují, zuìhòu zhǐhǎo fàngqì le.", "vietnamese": "Nhưng thời gian không kịp, cuối cùng đành phải bỏ cuộc.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "没有别的办法，不得不如此。", "collocations": ["只好放弃", "只好这样", "只好回家"], "usage_note": "Phân biệt với 最好 (khuyên chọn phương án tốt nhất) đã học ở HSK 4 上 Bài 1!", "common_errors": "Rất hay nhầm lẫn khi dịch giữa 只好 (đành phải) và 最好 (tốt nhất là).", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l11_w11", "order": 11, "textbook": "HSK 4 下", "lesson": 11,
+      "hanzi": "填空", "pinyin": "tián kòng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ ly hợp)", "meaning": "điền vào chỗ trống", "structure": "填空题 / 选词填空", "explanation": "Dạng bài tập điền từ thích hợp vào ô trống.", "examples": [{ "chinese": "有几个填空题不会做。", "pinyin": "Yǒu jǐ ge tiánkòngtí bú huì zuò.", "vietnamese": "Có mấy câu điền vào chỗ trống không biết làm.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "在空白处填入适当的内容。", "collocations": ["填空题", "选词填空"], "usage_note": "Chữ 空 ở đây đọc thanh 4 (kòng – chỗ trống), là chữ đa âm!", "common_errors": "Đọc nhầm thành tián kōng (phải là tián kòng).", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l11_w12", "order": 12, "textbook": "HSK 4 下", "lesson": 11,
+      "hanzi": "猜", "pinyin": "cāi",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "đoán", "structure": "猜答案 / 猜对 / 猜错 / 你猜猜", "explanation": "Suy đoán câu trả lời hoặc sự việc khi chưa biết chắc.", "examples": [{ "chinese": "就随便猜了一个答案，结果一个都没猜对。", "pinyin": "Jiù suíbiàn cāi le yí ge dá'àn, jiéguǒ yí ge dōu méi cāiduì.", "vietnamese": "Thế là đoán bừa một đáp án, kết quả chẳng đoán đúng câu nào.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "凭想象估计、推测。", "collocations": ["猜对", "猜错", "猜谜语", "你猜"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l11_w13", "order": 13, "textbook": "HSK 4 下", "lesson": 11,
+      "hanzi": "否则", "pinyin": "fǒuzé",
+      "lesson_usage": { "part_of_speech": "连词 (Liên từ)", "meaning": "nếu không thì, bằng không", "structure": "Vế 1，否则 (+ 就/会) + Kết quả suy ra / Lựa chọn khác", "explanation": "Đặt đầu vế sau, tương đương '如果不是这样'.", "examples": [{ "chinese": "还得注意考试的方法，否则，会做的题也没时间做了。", "pinyin": "Hái děi zhùyì kǎoshì de fāngfǎ, fǒuzé, huì zuò de tí yě méi shíjiān zuò le.", "vietnamese": "Còn phải chú ý phương pháp làm bài, nếu không thì câu biết làm cũng chẳng còn thời gian làm.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "连词，表示“如果不是这样”。", "collocations": ["否则就会", "否则的话"], "usage_note": "Có thể thêm dấu phẩy sau 否则 để ngắt nhịp.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l11_w14", "order": 14, "textbook": "HSK 4 下", "lesson": 11,
+      "hanzi": "客厅", "pinyin": "kètīng",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "phòng khách", "structure": "在客厅里", "explanation": "Gian phòng tiếp khách và sinh hoạt chung trong nhà.", "examples": [{ "chinese": "你的客厅里怎么到处是书啊？", "pinyin": "Nǐ de kètīng li zěnme dàochù shì shū a?", "vietnamese": "Sao trong phòng khách nhà cậu đâu đâu cũng thấy sách thế?", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "家里专门用来接待客人的房间。", "collocations": ["在客厅", "客厅很大"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l11_w15", "order": 15, "textbook": "HSK 4 下", "lesson": 11,
+      "hanzi": "无论", "pinyin": "wúlùn",
+      "lesson_usage": { "part_of_speech": "连词 (Liên từ)", "meaning": "bất kể, dù cho", "structure": "无论 + (A 还是 B / Đại từ nghi vấn)，都/也 + Kết quả", "explanation": "Biểu thị trong bất kỳ điều kiện nào, kết quả cũng không đổi.", "examples": [{ "chinese": "无论是普通杂志，还是著名小说，只要打开它们，就会发现……", "pinyin": "Wúlùn shì pǔtōng zázhì, háishi zhùmíng xiǎoshuō, zhǐyào dǎkāi tāmen, jiù huì fāxiàn……", "vietnamese": "Bất kể là tạp chí bình thường hay tiểu thuyết nổi tiếng, chỉ cần mở ra là sẽ phát hiện...", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "表示在任何条件下结果都不会改变。", "collocations": ["无论如何", "无论是……还是……", "无论什么时候"], "usage_note": "Xem mục So sánh '无论—不管' ở tab Ngữ pháp.", "common_errors": "Không dùng dạng chính phản trực tiếp sau 无论 (Sai: '无论去不去' → Đúng: '无论去还是不去' hoặc '不管去不去').", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l11_w16", "order": 16, "textbook": "HSK 4 下", "lesson": 11,
+      "hanzi": "杂志", "pinyin": "zázhì",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "tạp chí", "structure": "一本杂志 / 看杂志", "explanation": "Ấn phẩm xuất bản định kỳ nhiều chuyên mục.", "examples": [{ "chinese": "无论是普通杂志，还是著名小说……", "pinyin": "Wúlùn shì pǔtōng zázhì, háishi zhùmíng xiǎoshuō……", "vietnamese": "Bất kể là tạp chí bình thường hay tiểu thuyết nổi tiếng...", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "定期出版的包含多篇文章的刊物。", "collocations": ["一本杂志", "时尚杂志", "看杂志"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l11_w17", "order": 17, "textbook": "HSK 4 下", "lesson": 11,
+      "hanzi": "著名", "pinyin": "zhùmíng",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "nổi tiếng", "structure": "著名 + Danh từ (著名小说 / 著名作家)", "explanation": "Sắc thái trang trọng hơn 有名, thường làm định ngữ.", "examples": [{ "chinese": "著名小说", "pinyin": "zhùmíng xiǎoshuō", "vietnamese": "tiểu thuyết nổi tiếng", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "有名、名声很大。", "collocations": ["著名作家", "著名大学", "世界著名"], "usage_note": "Phân biệt: 有名 dùng rộng trong khẩu ngữ & có thể lặp lại; 著名 thiên về văn viết, ít dùng phủ định kiểu '不著名'.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l11_w18", "order": 18, "textbook": "HSK 4 下", "lesson": 11,
+      "hanzi": "页", "pinyin": "yè",
+      "lesson_usage": { "part_of_speech": "量词 (Lượng từ)", "meaning": "trang (sách, giấy)", "structure": "一页书 / 第十页", "explanation": "Đơn vị đếm số trang của sách, vở, báo.", "examples": [{ "chinese": "如果3分钟读一页书，半个小时就可以读10页。", "pinyin": "Rúguǒ sān fēnzhōng dú yí yè shū, bàn ge xiǎoshí jiù kěyǐ dú shí yè.", "vietnamese": "Nếu 3 phút đọc một trang sách, nửa tiếng có thể đọc 10 trang.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "量词，用于书本、报纸等的面数。", "collocations": ["一页纸", "翻到第10页", "网页"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l11_w19", "order": 19, "textbook": "HSK 4 下", "lesson": 11,
+      "hanzi": "增加", "pinyin": "zēngjiā",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "tăng thêm", "structure": "增加 + 知识 / 收入 / 压力 / 烦恼", "explanation": "Tăng lên về số lượng hoặc mức độ trên cơ sở vốn có.", "examples": [{ "chinese": "坚持阅读，除了能增加知识外，还能帮助我减轻压力。", "pinyin": "Jiānchí yuèdú, chúle néng zēngjiā zhīshi wài, hái néng bāngzhù wǒ jiǎnqīng yālì.", "vietnamese": "Kiên trì đọc sách, ngoài việc tăng thêm kiến thức, còn giúp mình giảm bớt áp lực.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "在原有的基础上加多。", "collocations": ["增加知识", "增加收入", "增加经验"], "usage_note": "Tránh nhầm với 提高 (nâng cao về trình độ/chất lượng: 提高能力, 提高水平).", "common_errors": "Sai: '增加水平' → Đúng: '提高水平'; Đúng: '增加数量 / 增加知识'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l11_w20", "order": 20, "textbook": "HSK 4 下", "lesson": 11,
+      "hanzi": "文章", "pinyin": "wénzhāng",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "bài văn, bài báo", "structure": "一篇文章 / 写文章", "explanation": "Bài viết độc lập hoàn chỉnh; lượng từ là 篇.", "examples": [{ "chinese": "在看完一篇文章或一本书之后，还可以把它的主要内容和自己的想法写下来。", "pinyin": "Zài kànwán yì piān wénzhāng huò yì běn shū zhīhòu, hái kěyǐ bǎ tā de zhǔyào nèiróng hé zìjǐ de xiǎngfǎ xiě xialai.", "vietnamese": "Sau khi đọc xong một bài văn hay một quyển sách, còn có thể viết lại nội dung chính và suy nghĩ của mình.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "篇幅不很长的单篇作品。", "collocations": ["一篇文章", "写文章", "读文章"], "usage_note": "Lượng từ chuẩn là 篇 (yì piān wénzhāng).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l11_w21", "order": 21, "textbook": "HSK 4 下", "lesson": 11,
+      "hanzi": "之", "pinyin": "zhī",
+      "lesson_usage": { "part_of_speech": "助词 (Trợ từ)", "meaning": "của (nối định ngữ với trung tâm ngữ – sắc thái văn viết)", "structure": "……之后 / ……之一 / ……之前", "explanation": "Tương đương trợ từ 的 trong văn viết hoặc các kết cấu cố định (之后、之前、之一).", "examples": [{ "chinese": "在看完一篇文章或一本书之后……", "pinyin": "Zài kànwán yì piān wénzhāng huò yì běn shū zhīhòu……", "vietnamese": "Sau khi đọc xong một bài văn hay một quyển sách...", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "代词 (Đại từ cổ – xuất hiện trong thành ngữ)", "meanings": ["nó, điều đó (thay cho tân ngữ)"], "structure": "总而言之 / 取之不尽 / 换言之", "difference_note": "Trong thành ngữ Hán cổ, 之 làm đại từ chỉ sự vật đã nhắc trước đó.", "examples": [{ "chinese": "总而言之，坚持阅读好处很多。", "pinyin": "Zǒng ér yán zhī, jiānchí yuèdú hǎochù hěn duō.", "vietnamese": "Tóm lại, kiên trì đọc sách có rất nhiều lợi ích." }] }
+      ],
+      "chinese_explanation": "相当于“的”，多用于书面语或固定搭配（之后、之一）。", "collocations": ["……之一", "……之后", "……之间", "总而言之"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l11_w22", "order": 22, "textbook": "HSK 4 下", "lesson": 11,
+      "hanzi": "内容", "pinyin": "nèiróng",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "nội dung", "structure": "主要内容 / 内容丰富", "explanation": "Các thông tin, ý nghĩa chứa đựng bên trong sách, bài văn, cuộc họp.", "examples": [{ "chinese": "然而，你不能完全相信书本上的内容。", "pinyin": "Rán'ér, nǐ bù néng wánquán xiāngxìn shūběn shang de nèiróng.", "vietnamese": "Tuy nhiên, bạn không thể hoàn toàn tin tưởng vào nội dung trên sách vở.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "事物内部所含的实质或意义。", "collocations": ["主要内容", "内容丰富", "工作内容"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l11_w23", "order": 23, "textbook": "HSK 4 下", "lesson": 11,
+      "hanzi": "然而", "pinyin": "rán'ér",
+      "lesson_usage": { "part_of_speech": "连词 (Liên từ)", "meaning": "nhưng, song, tuy nhiên", "structure": "Vế 1，然而(，) + Vế chuyển ý", "explanation": "Đặt đầu vế sau để biểu thị bước ngoặt chuyển ý; thiên về văn viết hơn 但是.", "examples": [{ "chinese": "然而，你不能完全相信书本上的内容，要有自己的看法和判断。", "pinyin": "Rán'ér, nǐ bù néng wánquán xiāngxìn shūběn shang de nèiróng, yào yǒu zìjǐ de kànfǎ hé pànduàn.", "vietnamese": "Tuy nhiên, bạn không thể hoàn toàn tin vào nội dung trong sách mà cần có quan điểm và phán đoán của riêng mình.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "连词，表示转折，多用于书面语。", "collocations": ["虽然……然而……", "然而却"], "usage_note": "Khẩu ngữ dùng 但是/可是; bài nghị luận/đọc hiểu rất hay dùng 然而.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l11_w24", "order": 24, "textbook": "HSK 4 下", "lesson": 11,
+      "hanzi": "看法", "pinyin": "kànfǎ",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "quan điểm, cách nhìn", "structure": "对……的看法 / 有自己的看法", "explanation": "Nhận định, đánh giá cá nhân đối với một vấn đề khách quan.", "examples": [{ "chinese": "要有自己的看法和判断。", "pinyin": "Yào yǒu zìjǐ de kànfǎ hé pànduàn.", "vietnamese": "Cần phải có quan điểm và phán đoán của riêng mình.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "对客观事物所抱的见解。", "collocations": ["不同的看法", "发表看法", "对……的看法"], "usage_note": "Phân biệt với 想法 (ý nghĩ, dự định trong đầu).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l11_w25", "order": 25, "textbook": "HSK 4 下", "lesson": 11,
+      "hanzi": "相同", "pinyin": "xiāngtóng",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "giống nhau, như nhau", "structure": "A 和 B 相同 / 相同的 + Danh từ", "explanation": "Chỉ sự giống nhau hoàn toàn hoặc về cơ bản giữa các đối tượng (trái nghĩa: 不同).", "examples": [{ "chinese": "虽然这句话只用了三个相同的汉字，但是不同的顺序却表示了不同的意思。", "pinyin": "Suīrán zhè jù huà zhǐ yòng le sān ge xiāngtóng de Hànzì, dànshì bù tóng de shùnxù què biǎoshì le bù tóng de yìsi.", "vietnamese": "Tuy câu này chỉ dùng ba chữ Hán giống nhau, nhưng thứ tự khác nhau lại biểu đạt những ý nghĩa khác nhau.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "彼此一样，没有区别。", "collocations": ["完全相同", "相同的意见", "各不相同"], "usage_note": "Phân biệt với 共同 (cùng chung một thứ): '我们的意见相同' (đúng) vs không nói '我们的意见很共同'.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l11_w26", "order": 26, "textbook": "HSK 4 下", "lesson": 11,
+      "hanzi": "顺序", "pinyin": "shùnxù",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "trật tự, thứ tự", "structure": "按照……的顺序 / 不同的顺序", "explanation": "Trình tự trước sau của sự vật, hành động hoặc chữ viết.", "examples": [{ "chinese": "不同的顺序却表示了不同的意思。", "pinyin": "Bù tóng de shùnxù què biǎoshì le bù tóng de yìsi.", "vietnamese": "Thứ tự khác nhau lại biểu thị ý nghĩa khác nhau.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "次序，先后排列的规律。", "collocations": ["按照顺序", "笔顺（笔画顺序）", "时间顺序"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l11_w27", "order": 27, "textbook": "HSK 4 下", "lesson": 11,
+      "hanzi": "表示", "pinyin": "biǎoshì",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "có ý nghĩa, biểu thị, bày tỏ", "structure": "表示 + 意思 / 感谢 / 同意 / 欢迎", "explanation": "Trong bài khóa 5, dùng với nghĩa 'biểu thị một ý nghĩa nào đó'.", "examples": [{ "chinese": "不同的顺序却表示了不同的意思。", "pinyin": "Bù tóng de shùnxù què biǎoshì le bù tóng de yìsi.", "vietnamese": "Thứ tự khác nhau lại biểu thị ý nghĩa khác nhau.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["sự bày tỏ, chút biểu hiện thái độ"], "structure": "有点儿表示 / 没有任何表示", "difference_note": "Ít gặp hơn dạng động từ, dùng trong khẩu ngữ khi nói về việc bày tỏ thiện ý/thái độ.", "examples": [{ "chinese": "朋友帮了大忙，我们应该有所表示。", "pinyin": "Péngyou bāng le dàmáng, wǒmen yīnggāi yǒusuǒ biǎoshì.", "vietnamese": "Bạn giúp một việc lớn như vậy, chúng ta nên có chút bày tỏ." }] }
+      ],
+      "chinese_explanation": "用言语行为显出某种思想、感情、态度；或事物本身显出某种意义。", "collocations": ["表示感谢", "表示同意", "表示欢迎", "表示……的意思"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk4x_l11_w28", "order": 28, "textbook": "HSK 4 下", "lesson": 11,
+      "hanzi": "养成", "pinyin": "yǎngchéng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "hình thành, tạo thành (thói quen)", "structure": "养成 + ……的习惯", "explanation": "Rèn luyện lâu dài để hình thành thói quen hay tác phong tốt.", "examples": [{ "chinese": "“好读书”就是要养成阅读的习惯。", "pinyin": "“Hào dú shū” jiù shì yào yǎngchéng yuèdú de xíguàn.", "vietnamese": "“Thích đọc sách” chính là phải hình thành thói quen đọc sách.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "培养而使之形成或成长。", "collocations": ["养成好习惯", "养成阅读的习惯"], "usage_note": "Cụm kết hợp cố định cực quan trọng trong thi HSK: 养成……的习惯.", "common_errors": "Không dùng 做习惯 hay 建习惯 → Phải dùng 养成习惯.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l11_w29", "order": 29, "textbook": "HSK 4 下", "lesson": 11,
+      "hanzi": "同时", "pinyin": "tóngshí",
+      "lesson_usage": { "part_of_speech": "连词 (Liên từ)", "meaning": "đồng thời, hơn nữa", "structure": "Vế 1；同时，又/也/还 + Vế 2", "explanation": "Trong bài khóa 5, dùng làm liên từ bổ sung thêm một phương diện nữa.", "examples": [{ "chinese": "同时，它还会丰富你的情感，使你的生活更精彩。", "pinyin": "Tóngshí, tā hái huì fēngfù nǐ de qínggǎn, shǐ nǐ de shēnghuó gèng jīngcǎi.", "vietnamese": "Đồng thời, nó còn làm phong phú cảm xúc của bạn, khiến cuộc sống thêm rực rỡ.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ thời gian – nêu ngay trong Chú thích 5 tr.18 sách gốc)", "meanings": ["cùng lúc, cùng thời điểm"], "structure": "在……(的)同时，……", "difference_note": "Khi là danh từ chỉ 2 hành động xảy ra song song cùng một thời điểm, đi trong khung '在……的同时'.", "examples": [{ "chinese": "在学习汉语的同时，我还了解了中国文化。", "pinyin": "Zài xuéxí Hànyǔ de tóngshí, wǒ hái liǎojiě le Zhōngguó wénhuà.", "vietnamese": "Cùng lúc học tiếng Hán, tôi còn hiểu thêm về văn hóa Trung Quốc." }] }
+      ],
+      "chinese_explanation": "连词表示更进一步；名词表示同一时间。", "collocations": ["同时还", "在……的同时", "与此同时"], "usage_note": "Sách gốc tr.18 phân tích rất rõ cả 2 từ loại (连词 vs 名词) của 同时!", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    },
+    {
+      "id": "hsk4x_l11_w30", "order": 30, "textbook": "HSK 4 下", "lesson": 11,
+      "hanzi": "精彩", "pinyin": "jīngcǎi",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "tuyệt vời, xuất sắc, đặc sắc", "structure": "更精彩 / 精彩的表演 / 精彩的生活", "explanation": "Miêu tả buổi biểu diễn, trận đấu, bài phát biểu hoặc cuộc sống đặc sắc, lôi cuốn.", "examples": [{ "chinese": "使你的生活更精彩。", "pinyin": "Shǐ nǐ de shēnghuó gèng jīngcǎi.", "vietnamese": "Khiến cuộc sống của bạn càng thêm rực rỡ, đặc sắc.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "（表演、展览、言论、文章等）优美、出色。", "collocations": ["精彩的比赛", "精彩的演出", "生活精彩"], "usage_note": "Không dùng 精彩 để khen thức ăn ngon hay ngoại hình con người.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK4_XIA"]
+    }
+  ],
+  "proper_nouns": [
+    { "hanzi": "大卫", "pinyin": "Dàwèi", "meaning": "David (tên người)" }
+  ],
+  "same_char_expansion": {
+    "char": "同",
+    "words": [
+      { "hanzi": "同意", "pinyin": "tóngyì", "meaning": "đồng ý" },
+      { "hanzi": "共同", "pinyin": "gòngtóng", "meaning": "chung, cùng" },
+      { "hanzi": "相同", "pinyin": "xiāngtóng", "meaning": "giống nhau" },
+      { "hanzi": "同时", "pinyin": "tóngshí", "meaning": "đồng thời" }
+    ],
+    "examples": [
+      { "chinese": "夫妻之间只有浪漫的爱情是不够的，共同的理想和爱好也很重要。", "vietnamese": "Giữa vợ chồng chỉ có tình yêu lãng mạn là chưa đủ, lý tưởng và sở thích chung cũng rất quan trọng." },
+      { "chinese": "我哥哥今年26岁，在读硕士研究生的同时，还在一家公司工作。", "vietnamese": "Anh trai tôi năm nay 26 tuổi, trong lúc học thạc sĩ đồng thời còn làm việc ở một công ty." }
+    ]
+  },
+  "grammar": [
+    {
+      "title": "连……也/都……",
+      "formula": "连 + Chủ ngữ / Tân ngữ đặt trước + 也/都 + Vị ngữ",
+      "meaning": "Ngay cả... cũng...",
+      "usage": "Giới từ 连 dùng để nhấn mạnh một ví dụ ở mức độ tột cùng nhằm làm rõ tính chất của toàn bộ tình huống.",
+      "context": "Dùng nhiều trong cả văn nói lẫn văn viết để nhấn mạnh.",
+      "examples": [
+        { "chinese": "如果连你自己都不喜欢自己，又怎么能让别人喜欢你呢？", "pinyin": "Rúguǒ lián nǐ zìjǐ dōu bù xǐhuan zìjǐ, yòu zěnme néng ràng biérén xǐhuan nǐ ne?", "vietnamese": "Nếu ngay cả bản thân bạn còn không thích chính mình, sao có thể khiến người khác thích bạn được?" },
+        { "chinese": "你太厉害了！连中文报纸都看得懂。", "pinyin": "Nǐ tài lìhai le! Lián Zhōngwén bàozhǐ dōu kàn de dǒng.", "vietnamese": "Cậu giỏi quá! Ngay cả báo tiếng Trung cũng đọc hiểu." }
+      ],
+      "important_notes": "Thành phần sau 连 có thể là chủ ngữ hoặc tân ngữ đưa lên trước động từ.",
+      "common_errors": "Quên phó từ 都 hoặc 也 đứng trước động từ.",
+      "comparison": "Gần với 甚至 (thậm chí), nhưng 甚至 không bắt buộc đặt trước tân ngữ đảo lên đầu.",
+      "mini_practice": [{ "prompt": "安娜因为这件事很生气，______________________。（连）", "sample_answer": "连晚饭都没吃", "explanation": "Đưa tân ngữ 晚饭 lên sau 连, phối hợp với 都." }]
+    },
+    {
+      "title": "否则",
+      "formula": "Vế 1，否则(，) + Hệ quả / Phương án khác",
+      "meaning": "Nếu không thì, bằng không.",
+      "usage": "Nối vế câu chỉ kết quả suy ra nếu không làm theo vế 1, hoặc đưa ra lựa chọn thay thế.",
+      "context": "Thường dùng trong câu nhắc nhở, suy luận logic.",
+      "examples": [
+        { "chinese": "他一定有重要的事找你，否则不会打这么多次电话来。", "pinyin": "Tā yídìng yǒu zhòngyào de shì zhǎo nǐ, fǒuzé bú huì dǎ zhème duō cì diànhuà lái.", "vietnamese": "Anh ấy chắc chắn có việc quan trọng tìm bạn, nếu không sẽ chẳng gọi nhiều lần như vậy." },
+        { "chinese": "你最好下午四点前去公司找她，否则就明天早上再去。", "pinyin": "Nǐ zuìhǎo xiàwǔ sì diǎn qián qù gōngsī zhǎo tā, fǒuzé jiù míngtiān zǎoshang zài qù.", "vietnamese": "Bạn tốt nhất trước 4 giờ chiều đến công ty tìm cô ấy, không thì sáng mai hãy đi." }
+      ],
+      "important_notes": "Tương đương '不然' trong khẩu ngữ.",
+      "common_errors": "",
+      "comparison": "否则 trang trọng hơn 不然.",
+      "mini_practice": [{ "prompt": "要想减肥成功，一定要坚持，______________________。（否则）", "sample_answer": "否则很难看到效果", "explanation": "Vế sau 否则 nêu hệ quả tiêu cực nếu không kiên trì." }]
+    },
+    {
+      "title": "无论……都/也……",
+      "formula": "无论 + (A 还是 B / Đại từ phiếm chỉ)，都/也 + Kết luận",
+      "meaning": "Bất kể / Dù cho... cũng đều...",
+      "usage": "Kết luận không thay đổi trong mọi điều kiện.",
+      "context": "Thiên về văn viết; có thể kết hợp với 如何、是否.",
+      "examples": [
+        { "chinese": "无论做什么事都要注意方法，正确的方法可以让我们做得更好。", "pinyin": "Wúlùn zuò shénme shì dōu yào zhùyì fāngfǎ, zhèngquè de fāngfǎ kěyǐ ràng wǒmen zuò de gèng hǎo.", "vietnamese": "Bất kể làm việc gì cũng phải chú ý phương pháp, phương pháp đúng giúp chúng ta làm tốt hơn." }
+      ],
+      "important_notes": "Xem chi tiết bảng So sánh '无论—不管' bên dưới.",
+      "common_errors": "Dùng trực tiếp dạng chính phản sau 无论 mà không thêm 还是 (Sai: '无论去不去').",
+      "comparison": "So với 不管 (khẩu ngữ), 无论 trang trọng hơn và dùng được 无论如何.",
+      "mini_practice": [{ "prompt": "______________________，她都非常认真。（无论）", "sample_answer": "无论是学习还是工作", "explanation": "Dùng 无论 + 还是 phối hợp với 都." }]
+    },
+    {
+      "title": "然而",
+      "formula": "Vế 1，然而(，) + Vế chuyển ý",
+      "meaning": "Tuy nhiên, nhưng, song.",
+      "usage": "Liên từ chuyển ngoặt đặt đầu vế sau, dùng nhiều trong văn viết.",
+      "context": "Đoạn văn nghị luận, bài đọc hiểu HSK 4–5.",
+      "examples": [
+        { "chinese": "他虽然失败了很多次，然而一直没有放弃。", "pinyin": "Tā suīrán shībài le hěn duō cì, rán'ér yìzhí méiyǒu fàngqì.", "vietnamese": "Tuy anh ấy thất bại rất nhiều lần nhưng vẫn luôn không từ bỏ." }
+      ],
+      "important_notes": "Sau 然而 có thể đặt dấu phẩy để tạo nhịp nhấn.",
+      "common_errors": "",
+      "comparison": "Đồng nghĩa với 但是 nhưng mang sắc thái văn viết rõ nét hơn.",
+      "mini_practice": [{ "prompt": "有的人觉得只要有钱就会幸福，______________________。（然而）", "sample_answer": "然而每个人对幸福的看法并不完全相同", "explanation": "Chuyển ý tương phản với vế 1." }]
+    },
+    {
+      "title": "同时 (Liên từ & Danh từ)",
+      "formula": "(1) Liên từ: Vế 1；同时，又/也/还 + Vế 2  |  (2) Danh từ: 在……(的)同时，……",
+      "meaning": "(1) Đồng thời, hơn nữa  |  (2) Trong cùng lúc...",
+      "usage": "Làm liên từ để bổ sung ý sâu hơn; làm danh từ trong cấu trúc '在……(的)同时' để chỉ 2 hành động xảy ra song song.",
+      "context": "Rất hữu ích khi viết câu ghép và bài văn luận.",
+      "examples": [
+        { "chinese": "阅读有许多好处，它能丰富你的知识；同时，它还会丰富你的情感。", "pinyin": "Yuèdú yǒu xǔduō hǎochù, tā néng fēngfù nǐ de zhīshi; tóngshí, tā hái huì fēngfù nǐ de qínggǎn.", "vietnamese": "Đọc sách có nhiều lợi ích, giúp làm giàu kiến thức; đồng thời còn làm phong phú cảm xúc." },
+        { "chinese": "在学习汉语的同时，我还了解了中国文化。", "pinyin": "Zài xuéxí Hànyǔ de tóngshí, wǒ hái liǎojiě le Zhōngguó wénhuà.", "vietnamese": "Cùng lúc học tiếng Hán, tôi còn hiểu thêm về văn hóa Trung Quốc." }
+      ],
+      "important_notes": "Nhớ rõ 2 từ loại tách biệt của 同时.",
+      "common_errors": "",
+      "comparison": "Gần với 一边……一边…… (chỉ 2 hành động đồng thời), nhưng 在……的同时 trang trọng hơn và dùng được với cả sự việc trừu tượng.",
+      "mini_practice": [{ "prompt": "她是著名的科学家，______________________。（同时）", "sample_answer": "同时，她也是一位优秀的老师", "explanation": "Dùng 同时 kết hợp 也 bổ sung thêm vai trò." }]
+    }
+  ],
+  "comparison_section": {
+    "label": "比一比 So sánh",
+    "pair": "无论 — 不管",
+    "term_a": "无论 (wúlùn)",
+    "term_b": "不管 (bùguǎn)",
+    "similarity": "Đều là liên từ phối hợp với 都/也, biểu thị kết quả không đổi trong bất kỳ điều kiện nào. Theo sau là đại từ phiếm chỉ hoặc vế lựa chọn.",
+    "differences": [
+      { "criterion": "Phong cách & Từ văn viết đi sau", "a": "Dùng nhiều trong văn viết; CÓ THỂ đi với từ trang trọng như 如何、是否 (无论如何，我都不会离开你).", "b": "Dùng nhiều trong khẩu ngữ; KHÔNG đi với 如何、是否 (không nói '不管如何')." },
+      { "criterion": "Dạng câu chính phản (A不A)", "a": "KHÔNG đi trực tiếp với A不A; phải chen 还是/跟/与 vào giữa (无论热还是不热).", "b": "CÓ THỂ đi trực tiếp với dạng chính phản A不A (不管热不热，他总是穿这么多)." }
+    ]
+  },
+  "texts": [
+    {
+      "id": "t1", "title_zh": "马克介绍自己学习汉语的方法", "title_vi": "Mark giới thiệu phương pháp học tiếng Hán của mình",
+      "lines": [
+        { "speaker": "大卫", "chinese": "你来中国才一年，汉语就说得这么流利，真厉害！", "pinyin": "Nǐ lái Zhōngguó cái yì nián, Hànyǔ jiù shuō de zhème liúlì, zhēn lìhai!", "vietnamese": "Cậu đến Trung Quốc mới một năm mà tiếng Hán nói lưu loát thế này, giỏi thật!" },
+        { "speaker": "马克", "chinese": "谢谢！其实我的语法不太好，很多句子说得都不太准确。", "pinyin": "Xièxie! Qíshí wǒ de yǔfǎ bú tài hǎo, hěn duō jùzi shuō de dōu bú tài zhǔnquè.", "vietnamese": "Cảm ơn! Thật ra ngữ pháp mình chưa tốt lắm, nhiều câu nói chưa chuẩn xác." },
+        { "speaker": "大卫", "chinese": "但是我看你跟中国人交流没什么问题，你是怎么做到的？", "pinyin": "Dànshì wǒ kàn nǐ gēn Zhōngguó rén jiāoliú méi shénme wèntí, nǐ shì zěnme zuòdào de?", "vietnamese": "Nhưng mình thấy cậu giao tiếp với người Trung Quốc không có vấn đề gì, cậu làm cách nào vậy?" },
+        { "speaker": "马克", "chinese": "平时多交一些中国朋友，经常和他们聊天儿，听说能力自然就能得到很大的提高。另外，我建议你坚持看中文报纸，这样能学到很多新词语。", "pinyin": "Píngshí duō jiāo yìxiē Zhōngguó péngyou, jīngcháng hé tāmen liáo tiānr, tīngshuō nénglì zìrán jiù néng dédào hěn dà de tígāo. Lìngwài, wǒ jiànyì nǐ jiānchí kàn Zhōngwén bàozhǐ, zhèyàng néng xuédào hěn duō xīn cíyǔ.", "vietnamese": "Ngày thường kết thêm nhiều bạn Trung Quốc, hay trò chuyện với họ, khả năng nghe nói tự nhiên nâng cao rõ rệt. Ngoài ra, mình khuyên cậu kiên trì đọc báo tiếng Trung, như vậy học được rất nhiều từ mới." },
+        { "speaker": "大卫", "chinese": "你太厉害了！连中文报纸都看得懂。", "pinyin": "Nǐ tài lìhai le! Lián Zhōngwén bàozhǐ dōu kàn de dǒng.", "vietnamese": "Cậu giỏi quá! Ngay cả báo tiếng Trung cũng đọc hiểu." },
+        { "speaker": "马克", "chinese": "刚开始肯定有困难，不过遇到不认识的词语，你可以查词典，然后写在本子上，有空儿就拿出来复习一下，慢慢地就会发现中文报纸也没那么难了。", "pinyin": "Gāng kāishǐ kěndìng yǒu kùnnan, búguò yùdào bú rènshi de cíyǔ, nǐ kěyǐ chá cídiǎn, ránhòu xiě zài běnzi shang, yǒu kòngr jiù ná chulai fùxí yíxià, mànmàn de jiù huì fāxiàn Zhōngwén bàozhǐ yě méi nàme nán le.", "vietnamese": "Mới bắt đầu chắc chắn khó khăn, nhưng gặp từ lạ thì tra từ điển rồi chép vào sổ, rảnh mang ra ôn, dần dần sẽ thấy báo tiếng Trung không khó đến thế." }
+      ]
+    },
+    {
+      "id": "t2", "title_zh": "小夏和小雨聊考试的情况", "title_vi": "Tiểu Hạ và Tiểu Vũ nói chuyện về tình hình thi cử",
+      "lines": [
+        { "speaker": "小夏", "chinese": "考试结束了，你对自己的成绩满意吗？", "pinyin": "Kǎoshì jiéshù le, nǐ duì zìjǐ de chéngjì mǎnyì ma?", "vietnamese": "Thi xong rồi, cậu có hài lòng với kết quả của mình không?" },
+        { "speaker": "小雨", "chinese": "说真的，我不太满意。这次阅读考试的题太多了，我没做完。", "pinyin": "Shuō zhēn de, wǒ bú tài mǎnyì. Zhè cì yuèdú kǎoshì de tí tài duō le, wǒ méi zuòwán.", "vietnamese": "Nói thật mình không hài lòng lắm. Đề thi đọc lần này nhiều câu quá, mình làm không kịp." },
+        { "speaker": "小夏", "chinese": "两个小时的时间应该来得及吧？", "pinyin": "Liǎng ge xiǎoshí de shíjiān yīnggāi láidejí ba?", "vietnamese": "Hai tiếng đồng hồ chắc là đủ kịp chứ?" },
+        { "speaker": "小雨", "chinese": "这次主要是因为我先做了比较难、比较复杂的题，结果花了太多时间，后面简单的题我虽然会，可是时间来不及，最后只好放弃了。", "pinyin": "Zhè cì zhǔyào shì yīnwèi wǒ xiān zuò le bǐjiào nán, bǐjiào fùzá de tí, jiéguǒ huā le tài duō shíjiān, hòumiàn jiǎndān de tí wǒ suīrán huì, kěshì shíjiān láibují, zuìhòu zhǐhǎo fàngqì le.", "vietnamese": "Lần này chủ yếu do mình làm câu khó và phức tạp trước nên tốn quá nhiều thời gian, mấy câu dễ phía sau dù biết làm nhưng không kịp giờ, cuối cùng đành bỏ." },
+        { "speaker": "小夏", "chinese": "其实我考得也不怎么样。有几个填空题不会做，有几个选择题，实在想不出来该选哪个，就随便猜了一个答案，结果一个都没猜对。", "pinyin": "Qíshí wǒ kǎo de yě bù zěnmeyàng. Yǒu jǐ ge tiánkòngtí bú huì zuò, yǒu jǐ ge xuǎnzétí, shízài xiǎng bu chūlái gāi xuǎn nǎ ge, jiù suíbiàn cāi le yí ge dá'àn, jiéguǒ yí ge dōu méi cāiduì.", "vietnamese": "Thật ra mình thi cũng chẳng ra sao. Mấy câu điền từ không biết làm, mấy câu trắc nghiệm nghĩ mãi không ra nên đoán bừa, kết quả sai sạch." },
+        { "speaker": "小雨", "chinese": "看来要想考好，不但要认真复习，还得注意考试的方法，否则，会做的题也没时间做了。", "pinyin": "Kànlái yào xiǎng kǎohǎo, búdàn yào rènzhēn fùxí, hái děi zhùyì kǎoshì de fāngfǎ, fǒuzé, huì zuò de tí yě méi shíjiān zuò le.", "vietnamese": "Xem ra muốn thi tốt không chỉ phải ôn kỹ mà còn phải chú ý chiến thuật làm bài, nếu không câu biết làm cũng chẳng còn giờ làm." }
+      ]
+    },
+    {
+      "id": "t3", "title_zh": "小李告诉小林阅读的好处", "title_vi": "Tiểu Lý nói với Tiểu Lâm về lợi ích của việc đọc sách",
+      "lines": [
+        { "speaker": "小林", "chinese": "你的客厅里怎么到处是书啊？这些书你都喜欢看吗？", "pinyin": "Nǐ de kètīng li zěnme dàochù shì shū a? Zhèxiē shū nǐ dōu xǐhuan kàn ma?", "vietnamese": "Sao phòng khách nhà cậu đâu cũng là sách thế? Cậu thích đọc hết đống sách này à?" },
+        { "speaker": "小李", "chinese": "当然，我每天都要看书。无论是普通杂志，还是著名小说，只要打开它们，就会发现，世界上有那么多有意思的事情，有那么多不一样的生活。", "pinyin": "Dāngrán, wǒ měi tiān dōu yào kàn shū. Wúlùn shì pǔtōng zázhì, háishi zhùmíng xiǎoshuō, zhǐyào dǎkāi tāmen, jiù huì fāxiàn, shìjiè shang yǒu nàme duō yǒu yìsi de shìqing, yǒu nàme duō bù yíyàng de shēnghuó.", "vietnamese": "Đương nhiên, ngày nào mình cũng đọc sách. Bất kể tạp chí thường hay tiểu thuyết nổi tiếng, chỉ cần mở ra là thấy thế giới có bao nhiêu điều thú vị và cuộc sống muôn màu." },
+        { "speaker": "小林", "chinese": "想不到你工作那么忙，还能每天坚持阅读。", "pinyin": "Xiǎngbudào nǐ gōngzuò nàme máng, hái néng měi tiān jiānchí yuèdú.", "vietnamese": "Không ngờ cậu bận rộn vậy mà vẫn kiên trì đọc sách mỗi ngày." },
+        { "speaker": "小李", "chinese": "如果3分钟读一页书，半个小时就可以读10页。每天花半个小时来读书，一个月就可以读300页，差不多就是一本书了。", "pinyin": "Rúguǒ sān fēnzhōng dú yí yè shū, bàn ge xiǎoshí jiù kěyǐ dú shí yè. Měi tiān huā bàn ge xiǎoshí lái dú shū, yí ge yuè jiù kěyǐ dú sānbǎi yè, chàbuduō jiù shì yì běn shū le.", "vietnamese": "Nếu 3 phút đọc 1 trang, nửa tiếng đọc được 10 trang. Mỗi ngày dành nửa tiếng thì một tháng đọc được 300 trang, xấp xỉ một quyển sách rồi." },
+        { "speaker": "小李", "chinese": "坚持阅读，除了能增加知识外，还能帮助我减轻压力，人也会变得轻松起来。", "pinyin": "Jiānchí yuèdú, chúle néng zēngjiā zhīshi wài, hái néng bāngzhù wǒ jiǎnqīng yālì, rén yě huì biànde qīngsōng qilai.", "vietnamese": "Kiên trì đọc sách ngoài tăng thêm kiến thức còn giúp mình giảm áp lực, con người cũng nhẹ nhõm hơn." }
+      ]
+    },
+    {
+      "id": "t4", "title_zh": "做读书笔记的好处", "title_vi": "Lợi ích của việc ghi chép khi đọc sách",
+      "lines": [
+        { "speaker": "", "chinese": "根据调查，阅读能力好的人，不但容易找到工作，而且工资也比较高。怎么才能有效提高自己的阅读能力呢？做读书笔记就是其中一种好方法。", "pinyin": "Gēnjù diàochá, yuèdú nénglì hǎo de rén, búdàn róngyì zhǎodào gōngzuò, érqiě gōngzī yě bǐjiào gāo. Zěnme cái néng yǒuxiào tígāo zìjǐ de yuèdú nénglì ne? Zuò dúshū bǐjì jiù shì qízhōng yì zhǒng hǎo fāngfǎ.", "vietnamese": "Theo điều tra, người có năng lực đọc hiểu tốt không những dễ tìm việc mà lương cũng khá cao. Làm sao nâng cao năng lực đọc hiệu quả? Ghi chép khi đọc sách chính là một phương pháp hay." },
+        { "speaker": "", "chinese": "读书笔记有很多种，最简单的就是把自己喜欢或者觉得有用的词语和句子记下来。另外，在看完一篇文章或一本书之后，还可以把它的主要内容和自己的想法写下来。然而，你不能完全相信书本上的内容，要有自己的看法和判断。坚持做读书笔记，对提高阅读能力有很大帮助。", "pinyin": "Dúshū bǐjì yǒu hěn duō zhǒng, zuì jiǎndān de jiù shì bǎ zìjǐ xǐhuan huòzhě juéde yǒuyòng de cíyǔ hé jùzi jì xialai. Lìngwài, zài kànwán yì piān wénzhāng huò yì běn shū zhīhòu, hái kěyǐ bǎ tā de zhǔyào nèiróng hé zìjǐ de xiǎngfǎ xiě xialai. Rán'ér, nǐ bù néng wánquán xiāngxìn shūběn shang de nèiróng, yào yǒu zìjǐ de kànfǎ hé pànduàn. Jiānchí zuò dúshū bǐjì, duì tígāo yuèdú nénglì yǒu hěn dà bāngzhù.", "vietnamese": "Ghi chép đọc sách có nhiều cách, đơn giản nhất là ghi lại những từ ngữ và câu hay mình thích. Ngoài ra, đọc xong một bài hay một cuốn sách có thể tóm tắt nội dung chính và suy nghĩ riêng. Tuy nhiên, không nên tin hoàn toàn vào sách vở mà phải có quan điểm, phán đoán độc lập." }
+      ]
+    },
+    {
+      "id": "t5", "title_zh": "读书好，读好书，好读书", "title_vi": "Đọc sách tốt, đọc sách hay, ham đọc sách",
+      "lines": [
+        { "speaker": "", "chinese": "“读书好（hǎo），读好（hǎo）书，好（hào）读书”。虽然这句话只用了三个相同的汉字，但是不同的顺序却表示了不同的意思。", "pinyin": "“Dú shū hǎo, dú hǎo shū, hào dú shū”. Suīrán zhè jù huà zhǐ yòng le sān ge xiāngtóng de Hànzì, dànshì bù tóng de shùnxù què biǎoshì le bù tóng de yìsi.", "vietnamese": "“Đọc sách tốt (hǎo), đọc sách hay (hǎo), thích đọc sách (hào)”. Tuy câu này chỉ dùng ba chữ Hán giống nhau, nhưng thứ tự khác nhau lại biểu đạt những ý nghĩa khác nhau." },
+        { "speaker": "", "chinese": "首先，“读书好”说的是读书有很多好处；其次，每个人的时间都是有限的，不可能把世界上每一本书都读完，所以要读好的书；最后，“好读书”就是要养成阅读的习惯，使读书真正成为自己的兴趣爱好。", "pinyin": "Shǒuxiān, “dú shū hǎo” shuō de shì dú shū yǒu hěn duō hǎochù; qícì, měi ge rén de shíjiān dōu shì yǒuxiàn de, bù kěnéng bǎ shìjiè shang měi yì běn shū dōu dúwán, suǒyǐ yào dú hǎo de shū; zuìhòu, “hào dú shū” jiù shì yào yǎngchéng yuèdú de xíguàn, shǐ dú shū zhēnzhèng chéngwéi zìjǐ de xìngqù àihào.", "vietnamese": "Trước hết, “đọc sách tốt” nghĩa là đọc sách có nhiều lợi ích; thứ hai, thời gian mỗi người có hạn, không thể đọc hết mọi sách trên đời nên phải chọn sách hay; cuối cùng, “thích đọc sách” là hình thành thói quen đọc, biến đọc sách thành niềm đam mê thực sự." },
+        { "speaker": "", "chinese": "阅读有许多好处，它能丰富你的知识，让你找到解决问题的办法；同时，它还会丰富你的情感，使你的生活更精彩。所以，让阅读成为你的习惯吧！", "pinyin": "Yuèdú yǒu xǔduō hǎochù, tā néng fēngfù nǐ de zhīshi, ràng nǐ zhǎodào jiějué wèntí de bànfǎ; tóngshí, tā hái huì fēngfù nǐ de qínggǎn, shǐ nǐ de shēnghuó gèng jīngcǎi. Suǒyǐ, ràng yuèdú chéngwéi nǐ de xíguàn ba!", "vietnamese": "Đọc sách có rất nhiều ích lợi, làm giàu tri thức, giúp bạn tìm cách giải quyết vấn đề; đồng thời còn làm phong phú tâm hồn, khiến cuộc sống thêm rực rỡ. Vậy nên hãy để đọc sách trở thành thói quen của bạn nhé!" }
+      ]
+    }
+  ],
+  "reading_questions": [
+    { "question_zh": "“书里的知识都是正确的”，这句话对吗？为什么？", "question_vi": "Câu “Kiến thức trong sách đều đúng” có đúng không? Vì sao?", "answer_zh": "不对。因为课文4说，我们不能完全相信书本上的内容，要有自己的看法和判断。", "answer_vi": "Không đúng. Theo bài khóa 4, không thể hoàn toàn tin tưởng sách vở mà cần có quan điểm và phán đoán độc lập." }
+  ],
+  "exercises": [
+    {
+      "id": "h4x11_ex1", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.19 (70%)", "mistake_category": "Từ vựng",
+      "prompt": "Điền từ thích hợp: “为了保证您和他人的安全，请您按照‘先下后上’的______上下车。”",
+      "options": ["顺序", "复杂", "著名", "增加"],
+      "answer": "顺序",
+      "explanation": "按照……的顺序 = theo thứ tự (xuống trước lên sau).",
+      "review_tip": "Ôn cụm 按照……的顺序."
+    },
+    {
+      "id": "h4x11_ex2", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "比一比 tr.15–16 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ ĐÚNG cho câu: “虽然压力很大，但是为了我们共同的理想，______如何一定不能放弃。”",
+      "options": ["无论", "不管", "否则", "然而"],
+      "answer": "无论",
+      "explanation": "Cụm từ văn viết cố định là '无论如何' (dù thế nào đi nữa). 不管 không kết hợp với 如何/是否!",
+      "review_tip": "Ôn mục 比一比: 无论—不管."
+    },
+    {
+      "id": "h4x11_ex3", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "比一比 tr.15 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn từ ĐÚNG: “______去不去，最后都别忘了告诉我一声。”",
+      "options": ["不管", "无论", "即使", "同时"],
+      "answer": "不管",
+      "explanation": "Sau chỗ trống là dạng chính phản trực tiếp '去不去' (không có 还是), chỉ dùng 不管!",
+      "review_tip": "不管 + A不A; 无论 + A 还是 不A."
+    },
+    {
+      "id": "h4x11_ex4", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Bài 11 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Điền cặp từ phù hợp: “他太厉害了，______这么复杂的文章______看得懂。”",
+      "options": ["连……都……", "不仅……还……", "否则……也……", "即使……却……"],
+      "answer": "连……都……",
+      "explanation": "Nhấn mạnh mức độ cực đoan (ngay cả bài văn phức tạp đến vậy cũng đọc hiểu) dùng 连……都…….",
+      "review_tip": "Ôn cấu trúc giới từ 连."
+    },
+    {
+      "id": "h4x11_ex5", "type": "context_mc", "level": "Phân biệt", "origin_tag": "Ôn kiến thức cũ (30%)", "mistake_category": "Từ vựng",
+      "prompt": "[Ôn tập HSK 4 上] Chọn từ đúng cho câu: “时间可能来不及，不过______这样了。” (đành phải như vậy thôi)",
+      "options": ["只好", "最好", "从来", "共同"],
+      "answer": "只好",
+      "explanation": "只好 = đành phải (bất đắc dĩ), phân biệt với 最好 (tốt nhất nên) ở HSK 4 上 Bài 1!",
+      "review_tip": "Phân biệt kỹ 只好 (Bài 11) vs 最好 (Bài 1)."
+    },
+    {
+      "id": "h4x11_ex6", "type": "reorder", "level": "Vận dụng", "origin_tag": "Bài 11 (70%)", "mistake_category": "Ngữ pháp",
+      "prompt": "Sắp xếp thành câu hoàn chỉnh:",
+      "tokens": ["的同时，", "在", "我还了解了", "中国文化。", "学习汉语"],
+      "answer": "在学习汉语的同时，我还了解了中国文化。",
+      "explanation": "Cấu trúc danh từ 同时: 在 + Hành động 1 + 的同时，S + 还 + Hành động 2.",
+      "review_tip": "Ôn chức năng danh từ của 同时."
+    },
+    {
+      "id": "h4x11_ex7", "type": "context_mc", "level": "Phân biệt", "origin_tag": "Ôn kiến thức cũ (30%)", "mistake_category": "Ngữ pháp",
+      "prompt": "[Ôn tập HSK 4 上] Chọn câu ĐÚNG về cặp 刚—刚才:",
+      "options": [
+        "我昨天刚看完那本著名小说。",
+        "我昨天刚才看完那本著名小说。",
+        "刚我看完那本著名小说。",
+        "你为什么刚不告诉我？"
+      ],
+      "answer": "我昨天刚看完那本著名小说。",
+      "explanation": "Trước 刚 có thể đặt từ chỉ thời gian '昨天'; 刚才 thì không được.",
+      "review_tip": "Ôn lại cặp 刚—刚才 từ HSK 4 上 Bài 1."
+    }
+  ]
+}

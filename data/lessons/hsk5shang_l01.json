@@ -1,0 +1,393 @@
+{
+  "id": "hsk5shang_l01",
+  "book_id": "hsk5shang",
+  "textbook": "HSK 5 上",
+  "lesson_number": 1,
+  "title_zh": "爱的细节",
+  "title_vi": "Những điều nhỏ nhặt trong tình yêu",
+  "pdf_pages": "Trang sách 14–20 (Giáo Trình Chuẩn HSK5 Tập 1.pdf)",
+  "source_status": "verified_textbook",
+  "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"],
+  "vocabulary": [
+    {
+      "id": "hsk5s_l01_w01", "order": 1, "textbook": "HSK 5 上", "lesson": 1,
+      "hanzi": "细节", "pinyin": "xìjié",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "chi tiết", "structure": "爱的细节 / 生活的细节 / 注意细节", "explanation": "Những tình tiết nhỏ nhặt nhưng tinh tế trong sự việc hoặc đời sống.", "examples": [{ "chinese": "爱的细节", "pinyin": "Ài de xìjié", "vietnamese": "Những điều nhỏ nhặt trong tình yêu", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "细小的环节或情节。", "collocations": ["电影细节", "生活细节", "注意细节"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l01_w02", "order": 2, "textbook": "HSK 5 上", "lesson": 1,
+      "hanzi": "电台", "pinyin": "diàntái",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "đài phát thanh", "structure": "电台记者 / 广播电台", "explanation": "Cơ quan phát sóng chương trình phát thanh.", "examples": [{ "chinese": "电台要选出一对最恩爱的夫妻。", "pinyin": "Diàntái yào xuǎnchū yí duì zuì ēn'ài de fūqī.", "vietnamese": "Đài phát thanh muốn chọn ra một cặp vợ chồng ân ái nhất.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "广播电台，无线电收发报的机构。", "collocations": ["电台记者", "电台广播", "电台新闻"], "usage_note": "Phân biệt: 电台 (đài phát thanh) vs 电视台 (đài truyền hình).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l01_w03", "order": 3, "textbook": "HSK 5 上", "lesson": 1, "is_out_of_syllabus": true,
+      "hanzi": "恩爱", "pinyin": "ēn'ài",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "ân ái, đằm thắm (vợ chồng)", "structure": "恩爱的夫妻 / 他俩很恩爱", "explanation": "Chỉ tình cảm sâu đậm, gắn bó giữa vợ và chồng.", "examples": [{ "chinese": "评委叫第一对夫妻说说他俩是如何恩爱的。", "pinyin": "Píngwěi jiào dì-yī duì fūqī shuōshuo tāliǎ shì rúhé ēn'ài de.", "vietnamese": "Ban giám khảo gọi cặp vợ chồng thứ nhất kể xem hai người ân ái thế nào.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "形容夫妻之间深厚的感情。", "collocations": ["恩爱夫妻", "十分恩爱"], "usage_note": "Chỉ dùng cho quan hệ vợ chồng (không dùng cho bạn bè).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l01_w04", "order": 4, "textbook": "HSK 5 上", "lesson": 1,
+      "hanzi": "对比", "pinyin": "duìbǐ",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "so sánh, đối chiếu", "structure": "对比后 / 简单地对比 / 把 A 和 B 对比", "explanation": "Đặt các sự vật cạnh nhau để xem điểm giống và khác (đặc biệt sự chênh lệch rõ rệt).", "examples": [{ "chinese": "对比后，有三对夫妻入围。", "pinyin": "Duìbǐ hòu, yǒu sān duì fūqī rùwéi.", "vietnamese": "Sau khi đối chiếu so sánh, có ba cặp vợ chồng vượt qua vòng sơ tuyển.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "名词 (Danh từ)", "meanings": ["sự tương phản, tỷ lệ đối chiếu"], "structure": "形成鲜明对比 / 强烈的对比", "difference_note": "Làm danh từ chỉ kết quả tương phản rõ rệt giữa hai mặt.", "examples": [{ "chinese": "前后两年的成绩形成了鲜明的对比。", "pinyin": "Qiánhòu liǎng nián de chéngjì xíngchéng le xiānmíng de duìbǐ.", "vietnamese": "Thành tích hai năm trước sau tạo nên sự tương phản rõ rệt." }] }
+      ],
+      "chinese_explanation": "把两种事物或同一事物的两个方面放在一起比较。", "collocations": ["详细对比", "鲜明对比", "对比分析"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l01_w05", "order": 5, "textbook": "HSK 5 上", "lesson": 1, "is_out_of_syllabus": true,
+      "hanzi": "入围", "pinyin": "rùwéi",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "vượt qua vòng sơ tuyển, lọt vào danh sách đề cử", "structure": "入围决赛 / 有三对夫妻入围", "explanation": "Lọt qua vòng loại để vào danh sách tranh giải/vòng trong.", "examples": [{ "chinese": "对比后，有三对夫妻入围。", "pinyin": "Duìbǐ hòu, yǒu sān duì fūqī rùwéi.", "vietnamese": "Sau khi đối chiếu, có ba cặp vợ chồng lọt vào vòng trong.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "通过初选进入复赛或候选名单。", "collocations": ["成功入围", "入围作品"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l01_w06", "order": 6, "textbook": "HSK 5 上", "lesson": 1, "is_out_of_syllabus": true,
+      "hanzi": "评委", "pinyin": "píngwěi",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "ban giám khảo, giám khảo", "structure": "各位评委 / 评委们", "explanation": "Viết tắt của 评审委员 (thành viên hội đồng chấm thi/giải).", "examples": [{ "chinese": "评委们听了都很感动。", "pinyin": "Píngwěi men tīng le dōu hěn gǎndòng.", "vietnamese": "Các vị giám khảo nghe xong đều rất cảm động.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "评审委员会成员，负责评定比赛结果的人。", "collocations": ["担任评委", "评委老师"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l01_w07", "order": 7, "textbook": "HSK 5 上", "lesson": 1,
+      "hanzi": "如何", "pinyin": "rúhé",
+      "lesson_usage": { "part_of_speech": "代词 (Đại từ)", "meaning": "như thế nào, ra sao", "structure": "如何 + V / ……，如何？", "explanation": "Hỏi cách thức (thiên về văn viết) hoặc đặt cuối câu để hỏi tình hình/xin ý kiến.", "examples": [{ "chinese": "评委叫第一对夫妻说说他俩是如何恩爱的。", "pinyin": "Píngwěi jiào dì-yī duì fūqī shuōshuo tāliǎ shì rúhé ēn'ài de.", "vietnamese": "Giám khảo gọi cặp thứ nhất kể hai người ân ái ra sao.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "怎么，怎么样（偏书面语）。", "collocations": ["如何解决", "无论如何", "情况如何"], "usage_note": "Xem bảng phân biệt '如何—怎么' ở tab Ngữ pháp (KHÔNG dùng 如何 để hỏi nguyên nhân!).", "common_errors": "Sai: '今天如何这么冷？' → Phải dùng '怎么'.", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l01_w08", "order": 8, "textbook": "HSK 5 上", "lesson": 1, "is_out_of_syllabus": true,
+      "hanzi": "瘫痪", "pinyin": "tānhuàn",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "bị liệt, tê liệt", "structure": "全身瘫痪 / 交通瘫痪", "explanation": "Mất khả năng vận động chân tay hoặc cơ thể; nghĩa bóng chỉ hệ thống ngừng trệ.", "examples": [{ "chinese": "前几年她全身瘫痪了。", "pinyin": "Qián jǐ nián tā quánshēn tānhuàn le.", "vietnamese": "Mấy năm trước chị bị liệt toàn thân.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "身体某部分失去运动能力；也比喻机构或系统不能正常运转。", "collocations": ["全身瘫痪", "交通瘫痪"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l01_w09", "order": 9, "textbook": "HSK 5 上", "lesson": 1,
+      "hanzi": "离婚", "pinyin": "lí hūn",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ ly hợp)", "meaning": "ly hôn", "structure": "跟某人离婚 / 离过婚", "explanation": "Chấm dứt quan hệ hôn nhân theo pháp luật.", "examples": [{ "chinese": "别人都觉得她的丈夫会跟她离婚。", "pinyin": "Biérén dōu juéde tā de zhàngfu huì gēn tā lí hūn.", "vietnamese": "Mọi người đều nghĩ chồng chị sẽ ly hôn với chị.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "夫妻双方依法解除婚姻关系。", "collocations": ["跟……离婚", "办离婚手续"], "usage_note": "Từ ly hợp: không mang tân ngữ trực tiếp (không nói '离婚她').", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l01_w10", "order": 10, "textbook": "HSK 5 上", "lesson": 1,
+      "hanzi": "自杀", "pinyin": "zìshā",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "tự tử, tự sát", "structure": "想自杀", "explanation": "Tự kết thúc sinh mạng của bản thân.", "examples": [{ "chinese": "她也想过要自杀。", "pinyin": "Tā yě xiǎngguo yào zìshā.", "vietnamese": "Chị ấy cũng từng nghĩ đến việc tự tử.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "自己结束自己的生命。", "collocations": ["想自杀"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l01_w11", "order": 11, "textbook": "HSK 5 上", "lesson": 1,
+      "hanzi": "抱怨", "pinyin": "bàoyuàn",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "oán trách, phàn nàn", "structure": "抱怨 + 别人/环境/某事 / 从不抱怨", "explanation": "Bày tỏ sự bất mãn, trách móc bằng lời nói.", "examples": [{ "chinese": "几年如一日地照顾她，从不抱怨。", "pinyin": "Jǐ nián rú yí rì de zhàogù tā, cóng bù bàoyuàn.", "vietnamese": "Nhiều năm như một chăm sóc chị, chưa bao giờ oán trách.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "心中不满，数说别人不对或埋怨环境不好。", "collocations": ["抱怨别人", "不要总是抱怨", "从不抱怨"], "usage_note": "Có thể mang trực tiếp tân ngữ (抱怨别人、抱怨菜不好吃).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l01_w12", "order": 12, "textbook": "HSK 5 上", "lesson": 1,
+      "hanzi": "爱护", "pinyin": "àihù",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "yêu quý, quý trọng, che chở", "structure": "爱护 + 某人/小动物/公物/环境", "explanation": "Yêu thương kết hợp bảo vệ, giữ gìn.", "examples": [{ "chinese": "在丈夫的爱护和努力下，她终于又站了起来。", "pinyin": "Zài zhàngfu de àihù hé nǔlì xià, tā zhōngyú yòu zhàn le qilai.", "vietnamese": "Dưới sự yêu thương che chở và nỗ lực của chồng, cuối cùng chị lại đứng dậy được.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "爱惜并保护。", "collocations": ["爱护环境", "爱护公物", "爱护小动物", "爱护学生"], "usage_note": "Dùng cho người nhỏ/yếu hơn, động vật, cây cối, của công (không dùng với cấp trên/cha mẹ).", "common_errors": "Không nói '爱护老师/父母' (dùng 尊敬/孝敬).", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l01_w13", "order": 13, "textbook": "HSK 5 上", "lesson": 1,
+      "hanzi": "婚姻", "pinyin": "hūnyīn",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "hôn nhân", "structure": "婚姻生活 / 幸福的婚姻", "explanation": "Quan hệ kết hôn vợ chồng.", "examples": [{ "chinese": "十几年的婚姻生活中，他们从来没为任何事红过脸、吵过架。", "pinyin": "Shí jǐ nián de hūnyīn shēnghuó zhōng, tāmen cónglái méi wèi rènhé shì hóngguo liǎn, chǎoguo jià.", "vietnamese": "Trong hơn chục năm đời sống hôn nhân, họ chưa từng đỏ mặt hay cãi nhau vì bất cứ chuyện gì.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "结婚的事；因结婚而产生的夫妻关系。", "collocations": ["婚姻生活", "美满的婚姻", "婚姻法"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l01_w14", "order": 14, "textbook": "HSK 5 上", "lesson": 1,
+      "hanzi": "吵架", "pinyin": "chǎo jià",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ ly hợp)", "meaning": "cãi nhau", "structure": "跟某人吵架 / 吵过架 / 吵起来", "explanation": "Tranh cãi to tiếng vì bất đồng ý kiến.", "examples": [{ "chinese": "他们从来没为任何事红过脸、吵过架。", "pinyin": "Tāmen cónglái méi wèi rènhé shì hóngguo liǎn, chǎoguo jià.", "vietnamese": "Họ chưa từng đỏ mặt hay cãi nhau vì bất cứ chuyện gì.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "因意见不合而激烈争吵。", "collocations": ["跟……吵架", "吵了一架"], "usage_note": "Từ ly hợp: đặt 过/了 ở giữa 吵 và 架 (吵过架, 吵了一架), không đặt sau 架!", "common_errors": "Sai: '吵架过' → Đúng: '吵过架' (có ngay trong Bài tập 3 câu 2 tr.19!).", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l01_w15", "order": 15, "textbook": "HSK 5 上", "lesson": 1, "is_out_of_syllabus": true,
+      "hanzi": "相敬如宾", "pinyin": "xiāngjìng rúbīn",
+      "lesson_usage": { "part_of_speech": "成语 (Thành ngữ)", "meaning": "tương kính như tân (vợ chồng tôn trọng nhau như khách quý)", "structure": "一直相敬如宾", "explanation": "Ca ngợi vợ chồng sống hòa thuận, kính trọng lẫn nhau.", "examples": [{ "chinese": "一直相亲相爱、相敬如宾。", "pinyin": "Yìzhí xiāngqīn xiāng'ài, xiāngjìng rúbīn.", "vietnamese": "Luôn thương yêu nhau, kính trọng nhau như khách quý.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "形容夫妻互相尊敬，像对待宾客一样。", "collocations": ["相亲相爱、相敬如宾"], "usage_note": "Chỉ dùng miêu tả vợ chồng, không dùng cho bạn bè hay đồng nghiệp!", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l01_w16", "order": 16, "textbook": "HSK 5 上", "lesson": 1,
+      "hanzi": "暗暗", "pinyin": "àn'àn",
+      "lesson_usage": { "part_of_speech": "副词 (Phó từ)", "meaning": "thầm, ngấm ngầm, trong lòng", "structure": "暗暗 + 点头 / 高兴 / 下决心", "explanation": "Làm điều gì hoặc có cảm xúc âm thầm trong lòng, không để lộ ra ồn ào.", "examples": [{ "chinese": "评委们听了暗暗点头。", "pinyin": "Píngwěi men tīng le àn'àn diǎntóu.", "vietnamese": "Các giám khảo nghe xong thầm gật đầu.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "私下里、在心里不声张地。", "collocations": ["暗暗点头", "暗暗吃惊", "暗暗下决心"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l01_w17", "order": 17, "textbook": "HSK 5 上", "lesson": 1,
+      "hanzi": "轮", "pinyin": "lún",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "luân phiên, đến lượt", "structure": "轮到 + 某人 (+ V)", "explanation": "Chuyển lần lượt theo thứ tự đến lượt ai đó.", "examples": [{ "chinese": "轮到第三对夫妻了，却很长时间不见人。", "pinyin": "Lúndào dì-sān duì fūqī le, què hěn cháng shíjiān bújiàn rén.", "vietnamese": "Đến lượt cặp vợ chồng thứ ba rồi, thế nhưng rất lâu chẳng thấy người đâu.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "量词 (Lượng từ)", "meanings": ["vòng, lượt (thi đấu), vầng (trăng/mặt trời)"], "structure": "第一轮比赛 / 一轮明月", "difference_note": "Khi làm lượng từ đứng sau số từ, khác với động từ '轮到' trong bài.", "examples": [{ "chinese": "他在第一轮比赛中取得了好成绩。", "pinyin": "Tā zài dì-yī lún bǐsài zhōng qǔdé le hǎo chéngjì.", "vietnamese": "Anh ấy đạt thành tích tốt ngay trong vòng thi thứ nhất." }] }
+      ],
+      "chinese_explanation": "依照次序一个接替一个；作量词指循环的一次。", "collocations": ["轮到", "轮流", "第一轮"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG", "SRC_ZDIC"]
+    },
+    {
+      "id": "hsk5s_l01_w18", "order": 18, "textbook": "HSK 5 上", "lesson": 1,
+      "hanzi": "不耐烦", "pinyin": "bú nàifán",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ)", "meaning": "sốt ruột, mất kiên nhẫn, bực mình", "structure": "有些不耐烦 / 感到很不耐烦", "explanation": "Trạng thái không còn kiên nhẫn chờ đợi hay lắng nghe nữa.", "examples": [{ "chinese": "评委们等得有些不耐烦，就走出来看个究竟。", "pinyin": "Píngwěi men děng de yǒuxiē bú nàifán, jiù zǒu chulai kàn ge jiūjìng.", "vietnamese": "Các giám khảo đợi có chút sốt ruột, liền bước ra xem rốt cuộc thế nào.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "心里急躁，不能忍受等待或重复。", "collocations": ["很不耐烦", "不耐烦地说"], "usage_note": "Dạng khẳng định '耐烦' ít dùng độc lập (nếu khen kiên nhẫn dùng '耐心').", "common_errors": "Trong Bài tập 2 câu 2 tr.19: '让观众感到很不耐烦' (không nói '很不耐烦' bằng '很不耐烦' sai từ với 耐心).", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l01_w19", "order": 19, "textbook": "HSK 5 上", "lesson": 1,
+      "hanzi": "靠", "pinyin": "kào",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "dựa, tựa (thân thể vào vật/người khác)", "structure": "靠在……上 / 靠着……", "explanation": "Nghĩa 1 trong bài khóa: đặt một phần trọng lượng cơ thể tựa lên người hoặc vật.", "examples": [{ "chinese": "男人的头靠在女人的肩膀上，睡着了。", "pinyin": "Nánrén de tóu kào zài nǚrén de jiānbǎng shang, shuìzháo le.", "vietnamese": "Đầu người đàn ông tựa trên vai người phụ nữ, ngủ thiếp đi rồi.", "from_text": true }] },
+      "additional_usages": [
+        { "part_of_speech": "动词 (Nghĩa 2 trong Chú thích 2 tr.16–17: dựa vào, nhờ vào)", "meanings": ["dựa vào, nương tựa, trông cậy vào"], "structure": "靠 + 自己/父母/努力", "difference_note": "Chỉ sự nương tựa hay điều kiện đạt kết quả, không phải tư thế vật lý.", "examples": [{ "chinese": "机会是要靠自己努力去获得的。", "pinyin": "Jīhuì shì yào kào zìjǐ nǔlì qù huòdé de.", "vietnamese": "Cơ hội phải dựa vào nỗ lực của chính mình để giành lấy." }] },
+        { "part_of_speech": "动词 (Nghĩa 3 trong Chú thích 2 tr.17: sát, gần kề)", "meanings": ["gần sát, kề bên (vị trí không gian)"], "structure": "靠窗 / 靠海 / 靠右走", "difference_note": "Thường làm định ngữ hoặc trạng ngữ chỉ vị trí sát cạnh.", "examples": [{ "chinese": "我的座位是17号，是靠窗的座位。", "pinyin": "Wǒ de zuòwèi shì shíqī hào, shì kàochuāng de zuòwèi.", "vietnamese": "Ghế của tôi là số 17, là chỗ ngồi sát cửa sổ." }] }
+      ],
+      "chinese_explanation": "倚着；依赖；接近。", "collocations": ["靠在肩上", "靠自己", "靠窗的座位", "可靠"], "usage_note": "3 tầng nghĩa cực chuẩn được trình bày ngay trong Chú thích 2 trang 16–17 sách gốc!", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l01_w20", "order": 20, "textbook": "HSK 5 上", "lesson": 1,
+      "hanzi": "肩膀", "pinyin": "jiānbǎng",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "bờ vai, vai", "structure": "靠在肩膀上", "explanation": "Bộ phận nối cổ với cánh tay.", "examples": [{ "chinese": "男人的头靠在女人的肩膀上，睡着了。", "pinyin": "Nánrén de tóu kào zài nǚrén de jiānbǎng shang, shuìzháo le.", "vietnamese": "Đầu người đàn ông tựa trên vai người phụ nữ, ngủ thiếp đi.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "人体的肩部。", "collocations": ["拍肩膀", "肩膀疼"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l01_w21", "order": 21, "textbook": "HSK 5 上", "lesson": 1,
+      "hanzi": "喊", "pinyin": "hǎn",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "kêu, gọi lớn, hét", "structure": "大声地喊 / 喊醒 / 喊我一声", "explanation": "Cất giọng lớn để gọi ai đó hoặc hô vang.", "examples": [{ "chinese": "一个评委要上前喊醒那个男的。", "pinyin": "Yí ge píngwěi yào shàngqián hǎnxǐng nàge nán de.", "vietnamese": "Một giám khảo định bước tới gọi người đàn ông kia dậy.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "大声叫唤。", "collocations": ["大声喊", "喊醒", "喊一声"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l01_w22", "order": 22, "textbook": "HSK 5 上", "lesson": 1,
+      "hanzi": "伸", "pinyin": "shēn",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "duỗi, chìa, vươn ra", "structure": "伸出(来) / 伸进(去) / 伸开 / 伸手", "explanation": "Đưa tay, ngón tay, đầu hoặc vật dài vươn dài ra.", "examples": [{ "chinese": "女的却伸出手指做了个小声的动作。", "pinyin": "Nǚ de què shēnchū shǒuzhǐ zuò le ge xiǎoshēng de dòngzuò.", "vietnamese": "Nhưng người phụ nữ lại đưa ngón tay ra làm động tác ra hiệu nhỏ tiếng.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "舒展、展开（跟“缩”相对）。", "collocations": ["伸出手", "伸懒腰", "把头伸到窗外"], "usage_note": "Rất hay đi với bổ ngữ xu hướng: 伸出、伸进、伸开、伸到.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l01_w23", "order": 23, "textbook": "HSK 5 上", "lesson": 1,
+      "hanzi": "手指", "pinyin": "shǒuzhǐ",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "ngón tay", "structure": "一根手指 / 伸出手指", "explanation": "Các ngón trên bàn tay.", "examples": [{ "chinese": "女的却伸出手指做了个小声的动作。", "pinyin": "Nǚ de què shēnchū shǒuzhǐ zuò le ge xiǎoshēng de dòngzuò.", "vietnamese": "Người phụ nữ liền đưa ngón tay ra làm động tác nhỏ tiếng.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "手掌前端的五个分支部分。", "collocations": ["伸出手指", "十根手指"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l01_w24", "order": 24, "textbook": "HSK 5 上", "lesson": 1, "is_out_of_syllabus": true,
+      "hanzi": "歪歪扭扭", "pinyin": "wāiwāiniǔniǔ",
+      "lesson_usage": { "part_of_speech": "形容词 (Tính từ láy AABB)", "meaning": "xiêu vẹo, nguệch ngoạc", "structure": "歪歪扭扭写下…… / 写得歪歪扭扭", "explanation": "Miêu tả chữ viết không ngay ngắn hoặc dáng đi xiêu vẹo.", "examples": [{ "chinese": "用左手歪歪扭扭写下一行字递给评委。", "pinyin": "Yòng zuǒshǒu wāiwāiniǔniǔ xiěxià yì háng zì dì gěi píngwěi.", "vietnamese": "Dùng tay trái viết nguệch ngoạc một dòng chữ đưa cho giám khảo.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "形容字迹或物体斜歪不整齐。", "collocations": ["歪歪扭扭的字"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l01_w25", "order": 25, "textbook": "HSK 5 上", "lesson": 1,
+      "hanzi": "递", "pinyin": "dì",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "đưa, chuyển tận tay", "structure": "递给 + 某人 / 把……递给我", "explanation": "Trao vật nhỏ từ tay mình sang tay người khác.", "examples": [{ "chinese": "写下一行字递给评委。", "pinyin": "Xiěxià yì háng zì dì gěi píngwěi.", "vietnamese": "Viết một dòng chữ đưa cho giám khảo.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "传送、传递，把东西交给对方。", "collocations": ["递给", "快递", "传递"], "usage_note": "Thường dùng với 给 hoặc câu 把 (请把那本杂志递给我).", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l01_w26", "order": 26, "textbook": "HSK 5 上", "lesson": 1,
+      "hanzi": "脑袋", "pinyin": "nǎodai",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "đầu (khẩu ngữ)", "structure": "脑袋靠着 / 摇脑袋", "explanation": "Từ khẩu ngữ thân mật chỉ cái đầu (tương đương 头).", "examples": [{ "chinese": "而她的右肩一直让丈夫的脑袋靠着。", "pinyin": "Ér tā de yòujiān yìzhí ràng zhàngfu de nǎodai kàozhe.", "vietnamese": "Còn vai phải của cô vẫn luôn để đầu chồng tựa lên.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "口语称人的头，有时也指脑筋。", "collocations": ["动脑袋", "脑袋疼"], "usage_note": "Âm tiết 袋 đọc thanh nhẹ: nǎodai.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l01_w27", "order": 27, "textbook": "HSK 5 上", "lesson": 1,
+      "hanzi": "女士", "pinyin": "nǚshì",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "bà, quý bà, quý cô (xưng hô lịch sự với phụ nữ)", "structure": "Họ + 女士 / 女士们、先生们", "explanation": "Cách gọi trang trọng, lịch sự đối với phụ nữ trưởng thành.", "examples": [{ "chinese": "但是女士，我们得听你们夫妻俩的叙述啊！", "pinyin": "Dànshì nǚshì, wǒmen děi tīng nǐmen fūqī liǎ de xùshù a!", "vietnamese": "Nhưng thưa bà, chúng tôi phải nghe lời kể của hai vợ chồng bà chứ!", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "对女性的尊称。", "collocations": ["女士们先生们", "王女士"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l01_w28", "order": 28, "textbook": "HSK 5 上", "lesson": 1,
+      "hanzi": "叙述", "pinyin": "xùshù",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "thuật lại, kể lại", "structure": "叙述 + 经过/故事/内容", "explanation": "Trình bày lại quá trình sự việc theo trình tự rõ ràng (văn viết/trang trọng hơn 讲).", "examples": [{ "chinese": "我们得听你们夫妻俩的叙述啊！", "pinyin": "Wǒmen děi tīng nǐmen fūqī liǎ de xùshù a!", "vietnamese": "Chúng tôi cần nghe lời thuật lại của hai vợ chồng bà chứ!", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "把事情的前后经过记录下来或说出来。", "collocations": ["简单叙述", "详细叙述"], "usage_note": "Trong câu bài khóa trên, 叙述 đứng sau 的 làm danh từ hóa ('lời thuật lại').", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l01_w29", "order": 29, "textbook": "HSK 5 上", "lesson": 1,
+      "hanzi": "居然", "pinyin": "jūrán",
+      "lesson_usage": { "part_of_speech": "副词 (Phó từ)", "meaning": "lại có thể, không ngờ lại", "structure": "S + 居然 + V/Adj", "explanation": "Biểu thị sự ngạc nhiên, nằm ngoài dự đoán (chỉ sự việc đã xảy ra).", "examples": [{ "chinese": "这个女人为了不影响丈夫睡觉，居然放弃这次机会！", "pinyin": "Zhège nǚrén wèile bù yǐngxiǎng zhàngfu shuìjiào, jūrán fàngqì zhè cì jīhuì!", "vietnamese": "Người phụ nữ này để không ảnh hưởng giấc ngủ của chồng, vậy mà lại từ bỏ cơ hội lần này!", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "表示出乎意料、竟然。", "collocations": ["没想到居然", "居然不知道"], "usage_note": "Đồng nghĩa với 竟然; không dùng cho điều chưa xảy ra ở tương lai.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l01_w30", "order": 30, "textbook": "HSK 5 上", "lesson": 1,
+      "hanzi": "催", "pinyin": "cuī",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "thúc giục, hối thúc", "structure": "催 + 某人 (+ 做某事) / 别催他", "explanation": "Giục người khác làm nhanh hơn.", "examples": [{ "chinese": "但评委们还是决定先不催他们。", "pinyin": "Dàn píngwěi men háishi juédìng xiān bù cuī tāmen.", "vietnamese": "Nhưng các giám khảo vẫn quyết định tạm thời không thúc giục họ.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "叫人赶快行动或做某事。", "collocations": ["别催我", "催着出发"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l01_w31", "order": 31, "textbook": "HSK 5 上", "lesson": 1,
+      "hanzi": "等待", "pinyin": "děngdài",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "đợi, chờ đợi", "structure": "耐心地等待 / 等待机会 / 等待一段时间", "explanation": "Trang trọng hơn 等; thường dùng trong văn viết hoặc đi với trạng ngữ 2 âm tiết.", "examples": [{ "chinese": "而是再等待一段时间。", "pinyin": "Érshì zài děngdài yí duàn shíjiān.", "vietnamese": "Mà là chờ đợi thêm một khoảng thời gian nữa.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "不采取行动，直到所期望的人、事物或情况出现。", "collocations": ["耐心等待", "等待结果", "等待机会"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l01_w32", "order": 32, "textbook": "HSK 5 上", "lesson": 1, "is_out_of_syllabus": true,
+      "hanzi": "蚊子", "pinyin": "wénzi",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "con muỗi", "structure": "一只蚊子 / 赶蚊子 / 被蚊子叮", "explanation": "Loài côn trùng hút máu ban đêm.", "examples": [{ "chinese": "我家住一楼，蚊子多。", "pinyin": "Wǒ jiā zhù yīlóu, wénzi duō.", "vietnamese": "Nhà tôi ở tầng một, nhiều muỗi lắm.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "一种会飞、吸食人畜血液的昆虫。", "collocations": ["打蚊子", "赶蚊子", "被蚊子叮"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l01_w33", "order": 33, "textbook": "HSK 5 上", "lesson": 1,
+      "hanzi": "半夜", "pinyin": "bànyè",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "nửa đêm, đêm hôm", "structure": "昨晚半夜 / 大半夜", "explanation": "Khoảng giữa đêm (gần 12 giờ đêm).", "examples": [{ "chinese": "昨晚半夜我被蚊子叮醒了。", "pinyin": "Zuówǎn bànyè wǒ bèi wénzi dīngxǐng le.", "vietnamese": "Nửa đêm qua tôi bị muỗi đốt tỉnh giấc.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "一夜的一半，夜里十二点钟前后。", "collocations": ["深更半夜", "半夜三更", "后半夜"], "usage_note": "", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l01_w34", "order": 34, "textbook": "HSK 5 上", "lesson": 1, "is_out_of_syllabus": true,
+      "hanzi": "叮", "pinyin": "dīng",
+      "lesson_usage": { "part_of_speech": "动词 (Động từ)", "meaning": "đốt, chích (muỗi, ong)", "structure": "被蚊子叮醒了 / 叮了一个包", "explanation": "Côn trùng dùng vòi chích đốt vào da.", "examples": [{ "chinese": "昨晚半夜我被蚊子叮醒了。", "pinyin": "Zuówǎn bànyè wǒ bèi wénzi dīngxǐng le.", "vietnamese": "Nửa đêm qua tôi bị muỗi đốt tỉnh giấc.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "蚊、蜂等用针状口器刺人或动物的皮肤。", "collocations": ["叮咬", "被蚊子叮"], "usage_note": "Phân biệt mặt chữ dễ nhầm: 叮 (bộ Khẩu 口 – đốt, dặn dò) vs 盯 (bộ Mục 目 – nhìn chằm chằm)!", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l01_w35", "order": 35, "textbook": "HSK 5 上", "lesson": 1,
+      "hanzi": "老婆", "pinyin": "lǎopo",
+      "lesson_usage": { "part_of_speech": "名词 (Danh từ)", "meaning": "vợ (khẩu ngữ thân mật)", "structure": "我老婆", "explanation": "Cách gọi vợ thân mật trong đời sống (văn viết dùng 妻子).", "examples": [{ "chinese": "我怕我老婆再被吵醒。", "pinyin": "Wǒ pà wǒ lǎopo zài bèi chǎoxǐng.", "vietnamese": "Tôi sợ vợ tôi lại bị làm ồn tỉnh giấc.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "口语中称妻子。", "collocations": ["老公和老婆"], "usage_note": "Chữ 婆 đọc thanh nhẹ: lǎopo.", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l01_w36", "order": 36, "textbook": "HSK 5 上", "lesson": 1,
+      "hanzi": "吵", "pinyin": "chǎo",
+      "lesson_usage": { "part_of_speech": "动词 / 形容词 (Động từ / Tính từ)", "meanings": ["1. (Động từ) làm ồn (khiến người khác bị ảnh hưởng)", "2. (Tính từ) ồn ào"], "meaning": "làm ồn; ồn ào", "structure": "(đgt) 吵醒 / 吵死了; (tt) 这儿太吵了", "explanation": "Sách gốc ghi đủ 2 từ loại đgt./tt.: bài khóa dùng dạng bị động động từ (被吵醒), bài tập dùng tính từ (太吵了).", "examples": [
+        { "chinese": "我怕我老婆再被吵醒，所以后半夜就在为她赶蚊子。", "pinyin": "Wǒ pà wǒ lǎopo zài bèi chǎoxǐng, suǒyǐ hòubànyè jiù zài wèi tā gǎn wénzi.", "vietnamese": "Tôi sợ vợ tôi lại bị làm ồn tỉnh giấc, nên nửa đêm sau cứ ngồi đuổi muỗi cho cô ấy.", "from_text": true },
+        { "chinese": "这儿太吵了，我们换个地方吧。", "pinyin": "Zhèr tài chǎo le, wǒmen huàn ge dìfang ba.", "vietnamese": "Chỗ này ồn quá, chúng ta đổi chỗ khác đi." }
+      ] },
+      "additional_usages": [], "chinese_explanation": "声音杂乱扰人；争执。", "collocations": ["吵醒", "吵死了", "太吵了", "吵架"], "usage_note": "Phân biệt: 这儿太吵了 (tính từ 'ồn ào') vs 吵架 (động từ 'cãi nhau').", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l01_w37", "order": 37, "textbook": "HSK 5 上", "lesson": 1,
+      "hanzi": "项", "pinyin": "xiàng",
+      "lesson_usage": { "part_of_speech": "量词 (Lượng từ)", "meaning": "hạng mục, mục (dùng cho giải thưởng, công việc, kế hoạch, nghiên cứu...)", "structure": "一项 + 运动/工作/任务/计划/技术/研究/调查/奖项", "explanation": "Lượng từ cho các sự vật được phân thành từng hạng mục cụ thể.", "examples": [{ "chinese": "电台增加了两项奖项。", "pinyin": "Diàntái zēngjiā le liǎng xiàng jiǎngxiàng.", "vietnamese": "Đài phát thanh đã bổ sung thêm hai hạng mục giải thưởng.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "量词，用于分项目的事物。", "collocations": ["一项任务", "一项调查", "两项奖项", "哪项正确"], "usage_note": "Rất hay gặp trong câu hỏi đề thi: '下面哪项是正确的？'", "common_errors": "", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    },
+    {
+      "id": "hsk5s_l01_w38", "order": 38, "textbook": "HSK 5 上", "lesson": 1, "is_out_of_syllabus": true,
+      "hanzi": "患难与共", "pinyin": "huànnàn yǔgòng",
+      "lesson_usage": { "part_of_speech": "成语 (Thành ngữ)", "meaning": "hoạn nạn có nhau, đồng cam cộng khổ", "structure": "患难与共夫妻 / 患难与共的朋友", "explanation": "Cùng nhau chia sẻ, gánh vác khó khăn gian khổ.", "examples": [{ "chinese": "将第一对夫妻评为“患难与共夫妻”。", "pinyin": "Jiāng dì-yī duì fūqī píngwéi “huànnàn yǔgòng fūqī”.", "vietnamese": "Trao danh hiệu “Vợ chồng hoạn nạn có nhau” cho cặp thứ nhất.", "from_text": true }] },
+      "additional_usages": [], "chinese_explanation": "共同承担危险和困难，指彼此关系极为深厚。", "collocations": ["患难与共的夫妻", "患难与共的朋友"], "usage_note": "Chú ý chữ 难 đọc thanh 4 (nàn – tai nạn, hoạn nạn), chữ đa âm!", "common_errors": "Đọc nhầm thành huànnán (phải là huànnàn).", "audio": null, "source_status": "verified_textbook", "source_ids": ["PDF_HSK5_SHANG"]
+    }
+  ],
+  "proper_nouns": [],
+  "collocations_table": [
+    { "relation": "Động từ + Tân ngữ", "head": "抱怨", "partners": "别人 / 妻子 / 餐厅的菜不好吃" },
+    { "relation": "Động từ + Tân ngữ", "head": "爱护", "partners": "环境 / 花草树木 / 公物 / 学生" },
+    { "relation": "Định ngữ + Trung tâm ngữ", "head": "细节", "partners": "电影(的) / 小说(的) / 生活(的)" },
+    { "relation": "Định ngữ + Trung tâm ngữ", "head": "电台(的)", "partners": "记者 / 广播 / 新闻" },
+    { "relation": "Trạng ngữ + Trung tâm ngữ", "head": "对比", "partners": "简单(地) / 详细(地)" },
+    { "relation": "Trạng ngữ + Trung tâm ngữ", "head": "喊", "partners": "大声(地) / 兴奋地 / 对他" },
+    { "relation": "Trung tâm ngữ + Bổ ngữ", "head": "伸", "partners": "出(来) / 进(去) / 开…… / 到……" },
+    { "relation": "Trung tâm ngữ + Bổ ngữ", "head": "吵", "partners": "醒 / 死了" },
+    { "relation": "Số lượng từ + Danh từ", "head": "一项", "partners": "运动 / 工作 / 任务 / 计划 / 技术 / 研究 / 调查 / 奖项" }
+  ],
+  "grammar": [
+    {
+      "title": "如何",
+      "formula": "(1) 如何 + V (hỏi cách thức)  |  (2) ……，如何？ (cuối câu hỏi tình hình/ý kiến)",
+      "meaning": "Như thế nào, ra sao.",
+      "usage": "Đại từ dùng hỏi phương thức hành động (thiên văn viết), hoặc đặt cuối câu để trưng cầu ý kiến/hỏi thăm tình hình.",
+      "context": "Dùng trong báo chí, bài luận, câu hỏi lịch sự.",
+      "examples": [
+        { "chinese": "我们明天举行会议，讨论这个问题该如何解决。", "pinyin": "Wǒmen míngtiān jǔxíng huìyì, tǎolùn zhège wèntí gāi rúhé jiějué.", "vietnamese": "Ngày mai chúng ta họp thảo luận vấn đề này nên giải quyết thế nào." },
+        { "chinese": "我们希望由你来负责解决这个问题，如何？", "pinyin": "Wǒmen xīwàng yóu nǐ lái fùzé jiějué zhège wèntí, rúhé?", "vietnamese": "Chúng tôi hy vọng bạn phụ trách giải quyết việc này, thấy sao?" }
+      ],
+      "important_notes": "KHÔNG dùng 如何 để hỏi nguyên nhân ('Tại sao?').",
+      "common_errors": "Sai: '你如何这么不耐烦？' → Phải dùng '怎么'.",
+      "comparison": "Xem bảng 词语辨析: 如何—怎么 ngay bên dưới.",
+      "mini_practice": [{ "prompt": "请你跟我说一说，______________________。（如何）", "sample_answer": "你是如何提高汉语阅读能力的", "explanation": "如何 + Động từ hỏi phương thức thực hiện." }]
+    },
+    {
+      "title": "靠 (3 nghĩa chính)",
+      "formula": "(1) 靠着/靠在…… (tựa vào)  |  (2) 靠 + 某人/努力 (dựa vào)  |  (3) 靠 + Vị trí (sát, gần)",
+      "meaning": "1. Tựa vào (vật lý) · 2. Dựa vào, nhờ vào · 3. Sát, kề bên.",
+      "usage": "Nắm vững đủ cả 3 lớp nghĩa và cấu trúc kết hợp tương ứng.",
+      "context": "Xuất hiện rất thường xuyên trong đọc hiểu và điền từ HSK 5.",
+      "examples": [
+        { "chinese": "王老师喜欢靠着桌子讲课。", "pinyin": "Wáng lǎoshī xǐhuan kàozhe zhuōzi jiǎngkè.", "vietnamese": "Thầy Vương thích tựa vào bàn giảng bài." },
+        { "chinese": "没有一个人可以完全不靠别人而生活。", "pinyin": "Méiyǒu yí ge rén kěyǐ wánquán bú kào biérén ér shēnghuó.", "vietnamese": "Không ai có thể sống hoàn toàn không dựa vào người khác." },
+        { "chinese": "我的座位是17号，是靠窗的座位。", "pinyin": "Wǒ de zuòwèi shì shíqī hào, shì kàochuāng de zuòwèi.", "vietnamese": "Ghế của tôi là số 17, là ghế sát cửa sổ." }
+      ],
+      "important_notes": "Đừng chỉ nhớ mỗi nghĩa 'tựa vào' kẻo không hiểu cụm '靠窗' (gần cửa sổ) hay '靠自己' (dựa vào bản thân).",
+      "common_errors": "",
+      "comparison": "",
+      "mini_practice": [{ "prompt": "快要到站了，你别______________________，不安全。（靠）", "sample_answer": "靠着车门站着", "explanation": "Dùng nghĩa tựa thân người: 靠着车门." }]
+    },
+    {
+      "title": "居然",
+      "formula": "S + 居然 + V / Adj",
+      "meaning": "Không ngờ lại, lại có thể (vượt ngoài dự đoán).",
+      "usage": "Phó từ biểu thị sự ngạc nhiên trước một kết quả đã xảy ra khác hẳn mong đợi.",
+      "context": "Thường đi cùng 没想到 (không ngờ) để tăng sắc thái bất ngờ.",
+      "examples": [
+        { "chinese": "这么简单的题，你居然也不会做？上课时都干什么去了？", "pinyin": "Zhème jiǎndān de tí, nǐ jūrán yě bú huì zuò? Shàngkè shí dōu gàn shénme qù le?", "vietnamese": "Câu dễ thế này mà cậu cũng không biết làm sao? Lúc lên lớp đã làm gì thế?" },
+        { "chinese": "没想到居然在这儿碰到你！你也去上海？", "pinyin": "Méi xiǎngdào jūrán zài zhèr pèngdào nǐ! Nǐ yě qù Shànghǎi?", "vietnamese": "Không ngờ lại gặp cậu ở đây! Cậu cũng đi Thượng Hải à?" }
+      ],
+      "important_notes": "Phân biệt với 仍然 (vẫn như cũ, không thay đổi).",
+      "common_errors": "Nhầm 居然 (bất ngờ) với 仍然 (vẫn còn) trong Bài tập 2 câu 4 tr.19.",
+      "comparison": "Gần nghĩa với 竟然 (HSK 4 上 Bài 6).",
+      "mini_practice": [{ "prompt": "A: 你听说了吗？小王和小李离婚了！  B: ______________________。（居然）", "sample_answer": "真的吗？他们平时那么恩爱，居然离婚了！", "explanation": "Biểu thị sự kinh ngạc trước tin bất ngờ." }]
+    }
+  ],
+  "comparison_section": {
+    "label": "词语辨析 Phân biệt từ ngữ",
+    "pair": "如何 — 怎么",
+    "term_a": "如何 (rúhé)",
+    "term_b": "怎么 (zěnme)",
+    "similarity": "Đều là đại từ, đều dùng để hỏi phương thức/cách làm. VD: 只有知道如何/怎么停止的人，才知道如何/怎么高速前进。",
+    "differences": [
+      { "criterion": "Phong cách", "a": "Dùng nhiều trong văn viết (该如何爱护我们的地球？).", "b": "Dùng được rộng rãi trong khẩu ngữ (你今天是怎么来的？)." },
+      { "criterion": "Hỏi nguyên nhân ('Tại sao?')", "a": "KHÔNG dùng để hỏi nguyên nhân.", "b": "CÓ THỂ dùng hỏi nguyên nhân (今天怎么这么冷？ / 你怎么这么不耐烦？)." },
+      { "criterion": "Vị trí đặc biệt", "a": "Đặt ở CUỐI CÂU để hỏi tình hình hoặc xin ý kiến (最近身体如何？ / 情况如何？).", "b": "Đặt ở ĐẦU CÂU để biểu thị sự ngạc nhiên (怎么，你不认识我了？！)." }
+    ]
+  },
+  "texts": [
+    {
+      "id": "t1", "title_zh": "爱的细节（662字）", "title_vi": "Những điều nhỏ nhặt trong tình yêu",
+      "lines": [
+        { "speaker": "", "chinese": "电台要选出一对最恩爱的夫妻。对比后，有三对夫妻入围。", "pinyin": "Diàntái yào xuǎnchū yí duì zuì ēn'ài de fūqī. Duìbǐ hòu, yǒu sān duì fūqī rùwéi.", "vietnamese": "Đài phát thanh muốn chọn ra một cặp vợ chồng ân ái nhất. Sau khi đối chiếu, có ba cặp vợ chồng vượt qua vòng sơ tuyển." },
+        { "speaker": "", "chinese": "评委叫第一对夫妻说说他俩是如何恩爱的。妻子说，前几年她全身瘫痪了，医生说她站起来的可能性很小。别人都觉得她的丈夫会跟她离婚，她也想过要自杀。但丈夫一直鼓励她，为她不知找了多少家医院，并且几年如一日地照顾她，从不抱怨。在丈夫的爱护和努力下，她终于又站了起来。她的故事十分感人，评委们听了都很感动。", "pinyin": "Píngwěi jiào dì-yī duì fūqī shuōshuo tāliǎ shì rúhé ēn'ài de. Qīzi shuō, qián jǐ nián tā quánshēn tānhuàn le, yīshēng shuō tā zhàn qilai de kěnéngxìng hěn xiǎo. Biérén dōu juéde tā de zhàngfu huì gēn tā lí hūn, tā yě xiǎngguo yào zìshā. Dàn zhàngfu yìzhí gǔlì tā, wèi tā bùzhī zhǎo le duōshao jiā yīyuàn, bìngqiě jǐ nián rú yí rì de zhàogù tā, cóng bù bàoyuàn. Zài zhàngfu de àihù hé nǔlì xià, tā zhōngyú yòu zhàn le qilai. Tā de gùshi shífēn gǎnrén, píngwěi men tīng le dōu hěn gǎndòng.", "vietnamese": "Ban giám khảo gọi cặp thứ nhất kể hai người ân ái thế nào. Người vợ nói mấy năm trước chị bị liệt toàn thân, bác sĩ bảo khả năng đứng dậy rất nhỏ. Ai cũng nghĩ chồng chị sẽ ly hôn, chị cũng từng nghĩ tới tự tử. Nhưng chồng chị luôn động viên, tìm biết bao bệnh viện, nhiều năm như một chăm sóc chị không lời oán trách. Nhờ tình yêu thương và nỗ lực của chồng, cuối cùng chị lại đứng lên được. Câu chuyện rất cảm động, giám khảo nghe xong đều xúc động." },
+        { "speaker": "", "chinese": "随后进来的是第二对夫妻，他俩说，十几年的婚姻生活中，他们从来没为任何事红过脸、吵过架，一直相亲相爱、相敬如宾。评委们听了暗暗点头。", "pinyin": "Suíhòu jìnlai de shì dì-èr duì fūqī, tāliǎ shuō, shí jǐ nián de hūnyīn shēnghuó zhōng, tāmen cónglái méi wèi rènhé shì hóngguo liǎn, chǎoguo jià, yìzhí xiāngqīn xiāng'ài, xiāngjìng rúbīn. Píngwěi men tīng le àn'àn diǎntóu.", "vietnamese": "Tiếp theo là cặp thứ hai, họ kể trong hơn mười năm hôn nhân chưa từng đỏ mặt hay cãi nhau vì bất cứ chuyện gì, luôn thương yêu nhau, tương kính như tân. Giám khảo nghe xong thầm gật đầu." },
+        { "speaker": "", "chinese": "轮到第三对夫妻了，却很长时间不见人。评委们等得有些不耐烦，就走出来看个究竟。只见第三对夫妻仍然坐在门口，男人的头靠在女人的肩膀上，睡着了。一个评委要上前喊醒那个男的，女的却伸出手指做了个小声的动作，然后小心地从包里拿出纸笔，用左手歪歪扭扭写下一行字递给评委，而她的右肩一直让丈夫的脑袋靠着。评委们看那纸条上面写着：别出声，他昨晚没睡好。一个评委提起笔在后面续写了一句话：但是女士，我们得听你们夫妻俩的叙述啊！女人又写：那我们就不参加了。", "pinyin": "Lúndào dì-sān duì fūqī le, què hěn cháng shíjiān bújiàn rén. Píngwěi men děng de yǒuxiē bú nàifán, jiù zǒu chulai kàn ge jiūjìng. Zhǐjiàn dì-sān duì fūqī réngrán zuò zài ménkǒu, nánrén de tóu kào zài nǚrén de jiānbǎng shang, shuìzháo le. Yí ge píngwěi yào shàngqián hǎnxǐng nàge nán de, nǚ de què shēnchū shǒuzhǐ zuò le ge xiǎoshēng de dòngzuò, ránhòu xiǎoxīn de cóng bāo li náchū zhǐ bǐ, yòng zuǒshǒu wāiwāiniǔniǔ xiěxià yì háng zì dì gěi píngwěi, ér tā de yòujiān yìzhí ràng zhàngfu de nǎodai kàozhe. Píngwěi men kàn nà zhǐtiáo shàngmian xiězhe: Bié chūshēng, tā zuówǎn méi shuìhǎo. Yí ge píngwěi tíqǐ bǐ zài hòumiàn xùxiě le yí jù huà: Dànshì nǚshì, wǒmen děi tīng nǐmen fūqī liǎ de xùshù a! Nǚrén yòu xiě: Nà wǒmen jiù bù cānjiā le.", "vietnamese": "Đến lượt cặp thứ ba nhưng mãi chẳng thấy người. Giám khảo đợi hơi sốt ruột bèn bước ra xem. Chỉ thấy cặp thứ ba vẫn ngồi ngoài cửa, đầu người chồng tựa trên vai vợ ngủ thiếp đi. Một giám khảo định bước tới gọi dậy thì người vợ đưa ngón tay ra hiệu im lặng, cẩn thận lấy giấy bút trong túi, dùng tay trái viết nguệch ngoạc một dòng chữ đưa giám khảo, còn vai phải vẫn giữ yên cho đầu chồng tựa: “Xin đừng lên tiếng, tối qua anh ấy ngủ không ngon.” Một giám khảo viết tiếp: “Nhưng thưa bà, chúng tôi phải nghe lời kể của hai vợ chồng chứ!” Người vợ lại viết: “Vậy chúng tôi không tham gia nữa.”" },
+        { "speaker": "", "chinese": "大家很吃惊，这个女人为了不影响丈夫睡觉，居然放弃这次机会！但评委们还是决定先不催他们，而是再等待一段时间。", "pinyin": "Dàjiā hěn chījīng, zhège nǚrén wèile bù yǐngxiǎng zhàngfu shuìjiào, jūrán fàngqì zhè cì jīhuì! Dàn píngwěi men háishi juédìng xiān bù cuī tāmen, érshì zài děngdài yí duàn shíjiān.", "vietnamese": "Mọi người vô cùng kinh ngạc, người phụ nữ này để không ảnh hưởng giấc ngủ của chồng lại sẵn sàng từ bỏ cơ hội! Nhưng ban giám khảo quyết định chưa thúc giục họ mà chờ thêm một lát." },
+        { "speaker": "", "chinese": "过了一会儿，男人醒了。评委们问他怎么那么累。男人不好意思地笑笑说：“我家住一楼，蚊子多。昨晚半夜我被蚊子叮醒了，我怕我老婆再被吵醒，所以后半夜就在为她赶蚊子。”", "pinyin": "Guò le yíhuìr, nánrén xǐng le. Píngwěi men wèn tā zěnme nàme lèi. Nánrén bù hǎoyìsi de xiàoxiao shuō: “Wǒ jiā zhù yīlóu, wénzi duō. Zuówǎn bànyè wǒ bèi wénzi dīngxǐng le, wǒ pà wǒ lǎopo zài bèi chǎoxǐng, suǒyǐ hòubànyè jiù zài wèi tā gǎn wénzi.”", "vietnamese": "Một lúc sau người chồng tỉnh dậy. Giám khảo hỏi sao anh mệt thế. Anh ngượng ngùng cười nói: “Nhà tôi ở tầng một, nhiều muỗi lắm. Nửa đêm qua tôi bị muỗi đốt tỉnh giấc, sợ vợ lại bị làm ồn tỉnh dậy nên nửa đêm sau tôi cứ ngồi đuổi muỗi cho cô ấy.”" },
+        { "speaker": "", "chinese": "最后的结果是，电台增加了两项奖项，将第一对夫妻评为“患难与共夫妻”，将第二对夫妻评为“相敬如宾夫妻”，而真正的“最恩爱夫妻”奖，却给了第三对夫妻。", "pinyin": "Zuìhòu de jiéguǒ shì, diàntái zēngjiā le liǎng xiàng jiǎngxiàng, jiāng dì-yī duì fūqī píngwéi “huànnàn yǔgòng fūqī”, jiāng dì-èr duì fūqī píngwéi “xiāngjìng rúbīn fūqī”, ér zhēnzhèng de “zuì ēn'ài fūqī” jiǎng, què gěi le dì-sān duì fūqī.", "vietnamese": "Kết quả cuối cùng, đài phát thanh bổ sung thêm hai giải: trao cặp thứ nhất danh hiệu “Vợ chồng hoạn nạn có nhau”, cặp thứ hai danh hiệu “Vợ chồng tương kính như tân”, còn giải “Cặp vợ chồng ân ái nhất” thực sự được trao cho cặp thứ ba." }
+      ]
+    }
+  ],
+  "reading_questions": [
+    { "question_zh": "为什么最后真正的“最恩爱夫妻”奖给了第三对夫妻？", "question_vi": "Vì sao giải “Cặp vợ chồng ân ái nhất” cuối cùng lại trao cho cặp thứ ba?", "answer_zh": "因为他们不需要说华丽的话，而是把爱融入了日常生活的每一个细节里（丈夫半夜为妻子赶蚊子，妻子为了不吵醒丈夫用左手写字甚至愿意放弃比赛）。", "answer_vi": "Bởi tình yêu của họ không nằm ở lời kể hoa mỹ mà thể hiện qua từng chi tiết nhỏ trong đời sống (chồng thức nửa đêm đuổi muỗi cho vợ, vợ giữ yên vai viết tay trái thậm chí sẵn sàng bỏ thi để chồng ngủ ngon)." }
+  ],
+  "exercises": [
+    {
+      "id": "h5s1_ex1", "type": "fill_blank", "level": "Nhận biết", "origin_tag": "Sách gốc tr.19", "mistake_category": "Từ vựng",
+      "prompt": "Chọn từ điền vào chỗ trống: “关于这段对话，下面哪______是正确的？”",
+      "options": ["项", "递", "喊", "催"],
+      "answer": "项",
+      "explanation": "项 (lượng từ) đi với hạng mục/phương án lựa chọn: 哪项是正确的？",
+      "review_tip": "Ôn bảng 词语搭配 của lượng từ 一项."
+    },
+    {
+      "id": "h5s1_ex2", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.18–19", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn đáp án đúng: “你的病都好了吗？现在感觉______？”",
+      "options": ["如何", "怎么", "居然", "是否"],
+      "answer": "如何",
+      "explanation": "Đứng ở CUỐI CÂU để hỏi thăm tình hình/cảm giác dùng '如何' (không dùng '怎么' ở cuối câu hỏi tình trạng kiểu này).",
+      "review_tip": "Ôn mục 词语辨析: 如何—怎么."
+    },
+    {
+      "id": "h5s1_ex3", "type": "synonym_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.19", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “他这么年轻，没想到______是一位著名的作家。”",
+      "options": ["居然", "仍然", "暗暗", "只好"],
+      "answer": "居然",
+      "explanation": "Câu có '没想到' (không ngờ) nhấn mạnh sự bất ngờ ngoài dự đoán → dùng 居然 (không dùng 仍然 – vẫn như cũ).",
+      "review_tip": "Ôn phó từ 居然."
+    },
+    {
+      "id": "h5s1_ex4", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.19 (Chọn vị trí)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn vị trí thích hợp cho chữ “过” trong câu: “你跟 A 你的同屋 B 吵 C 架 D 吗？”",
+      "options": ["C (吵过架)", "D (吵架过)", "A (跟过)", "B (过吵架)"],
+      "answer": "C (吵过架)",
+      "explanation": "吵架 là động từ ly hợp (động-tân), trợ từ động thái 过 phải đặt ở giữa 吵 và 架 → 吵过架.",
+      "review_tip": "Ôn quy tắc từ ly hợp (吵架, 结婚, 开玩笑)."
+    },
+    {
+      "id": "h5s1_ex5", "type": "grammar_mc", "level": "Phân biệt", "origin_tag": "Sách gốc tr.19 (Chọn vị trí)", "mistake_category": "Ngữ pháp",
+      "prompt": "Chọn vị trí thích hợp cho chữ “伸” trong câu: “请不要 A 把头 B 到车窗外 C 去 D。”",
+      "options": ["B (把头伸到车窗外去)", "A (伸把头)", "C (到车窗外伸去)", "D (去伸)"],
+      "answer": "B (把头伸到车窗外去)",
+      "explanation": "Cấu trúc câu chữ 把: 把 + Tân ngữ (头) + Động từ (伸) + Bổ ngữ xu hướng/kết quả (到车窗外去).",
+      "review_tip": "Ôn kết hợp 伸 + 到……去 và câu chữ 把."
+    },
+    {
+      "id": "h5s1_ex6", "type": "context_mc", "level": "Vận dụng", "origin_tag": "Sách gốc tr.19", "mistake_category": "Từ vựng",
+      "prompt": "Chọn đáp án đúng: “电视里广告太多让观众感到很不______。”",
+      "options": ["耐烦", "耐心", "抱怨", "吵"],
+      "answer": "耐烦",
+      "explanation": "Cụm chuẩn là '很不耐烦' (rất sốt ruột/bực bội). Không nói '感到很不耐心'.",
+      "review_tip": "Ôn cách dùng #18 不耐烦."
+    }
+  ]
+}
