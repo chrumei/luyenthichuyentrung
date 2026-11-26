@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mầm Xanh Hán Ngữ – Ôn thi Chuyên Trung (HSK 4–5)</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;700&family=Quicksand:wght@600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/theme.css" />
+  <link rel="stylesheet" href="css/layout.css" />
+  <link rel="stylesheet" href="css/components.css" />
+  <!-- Thư viện mã nguồn mở Hanzi Writer (MIT / Make Me a Hanzi) cho hình động thứ tự nét khi có mạng -->
+  <script defer src="https://cdn.jsdelivr.net/npm/hanzi-writer@3.5/dist/hanzi-writer.min.js"></script>
+</head>
+<body>
+  <div id="app-shell" class="app-shell">
+    <!-- Thanh điều hướng chính -->
+    <header class="top-nav">
+      <div class="top-nav-inner">
+        <a href="#home" class="brand" data-route="home">
+          <span class="brand-icon" aria-hidden="true">
+            <svg viewBox="0 0 40 40" width="36" height="36">
+              <circle cx="20" cy="20" r="19" fill="#D8F3E5" stroke="#2D6A4F" stroke-width="2"/>
+              <path d="M20 30 V17" stroke="#2D6A4F" stroke-width="2.6" stroke-linecap="round"/>
+              <path d="M20 21 C13 21 10 15 12 10 C17 10 21 14 20 21 Z" fill="#52B788" stroke="#2D6A4F" stroke-width="1.6"/>
+              <path d="M20 19 C27 19 30 13 28 8 C23 8 19 12 20 19 Z" fill="#74C69D" stroke="#2D6A4F" stroke-width="1.6"/>
+              <ellipse cx="20" cy="31" rx="8" ry="2.4" fill="#B7E4C7"/>
+            </svg>
+          </span>
+          <span class="brand-text">
+            <strong>Mầm Xanh Hán Ngữ</strong>
+            <small>Ôn thi Chuyên Trung · LHP TP.HCM</small>
+          </span>
+        </a>
+
+        <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="Mở menu">
+          <span></span><span></span><span></span>
+        </button>
+
+        <nav class="main-nav" id="mainNav" aria-label="Điều hướng chính">
+          <a href="#home" class="nav-link active" data-route="home">Trang chủ</a>
+          <a href="#basics" class="nav-link" data-route="basics">Kiến thức căn bản</a>
+          <a href="#advanced" class="nav-link" data-route="advanced">Kiến thức nâng cao</a>
+          <a href="#speedtest" class="nav-link" data-route="speedtest">Phòng kiểm tra từ vựng</a>
+          <a href="#review" class="nav-link" data-route="review">Ôn tập cá nhân</a>
+        </nav>
+
+        <div class="nav-utils">
+          <button type="button" class="btn-chip" id="openSearchBtn" title="Tìm nhanh từ vựng, ngữ pháp, cận nghĩa, chữ Hán (Ctrl+K)">
+            🔍 Tra nhanh
+          </button>
+          <button type="button" class="btn-chip btn-tutor" id="openTutorBtn" title="Góc quản lý nội dung & Nhập/Xuất dữ liệu dành cho Gia sư">
+            ✏️ Gia sư
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <!-- Dải câu động viên nhẹ nhàng -->
+    <div class="encourage-bar" id="encourageBar">
+      <div class="encourage-inner">
+        <span class="encourage-mascot" id="encourageMascot">🐰</span>
+        <span class="encourage-text" id="encourageText">
+          <strong class="zh">今天也要加油！</strong> — Hôm nay cũng cố gắng nhé!
+        </span>
+        <button class="encourage-next" id="nextEncourageBtn" title="Đổi câu động viên">↻</button>
+      </div>
+    </div>
+
+    <!-- Khu vực nội dung chính + Panel phụ 70/30 -->
+    <div class="workspace-container" id="workspaceContainer">
+      <main class="main-column" id="mainView" tabindex="-1">
+        <div class="loading-box">Đang tải dữ liệu học tập...</div>
+      </main>
+
+      <aside class="side-column" id="sidePanel" aria-label="Bảng chi tiết và phân tích chữ Hán">
+        <div class="side-panel-header">
+          <span id="sidePanelTitle">🌿 Trợ lý học tập</span>
+          <button type="button" class="side-close-btn" id="sideCloseBtn" aria-label="Đóng bảng phụ">✕</button>
+        </div>
+        <div class="side-panel-body" id="sidePanelBody"></div>
+      </aside>
+    </div>
+
+    <!-- Lớp phủ cho mobile drawer -->
+    <div class="drawer-backdrop" id="drawerBackdrop"></div>
+
+    <!-- Thẻ nhắc ôn tập nhanh xuất hiện thỉnh thoảng (không gây phiền) -->
+    <div class="quick-nudge" id="quickNudge" hidden></div>
+
+    <!-- Cửa sổ Tìm kiếm nhanh toàn hệ thống -->
+    <div class="modal-backdrop" id="globalSearchModal" hidden>
+      <div class="modal-card modal-lg">
+        <div class="modal-header">
+          <div>
+            <h3>🔎 Tìm kiếm nhanh toàn hệ thống</h3>
+            <p class="muted-sm">Tra ngay 2.345 từ vựng (3 Giáo trình + QUYỂN 4), 160 ngữ pháp, 7 Trạm nâng cao và 1.492 chữ Hán.</p>
+          </div>
+          <button class="icon-btn" id="closeSearchModal" aria-label="Đóng">✕</button>
+        </div>
+        <div class="modal-body" id="globalSearchBody"></div>
+      </div>
+    </div>
+
+    <!-- Cửa sổ quản lý nội dung cho Gia sư (Nhập/Xuất JSON, CSV, thêm từ vựng) -->
+    <div class="modal-backdrop" id="tutorModal" hidden>
+      <div class="modal-card modal-lg">
+        <div class="modal-header">
+          <div>
+            <h3>✏️ Góc Quản lý Nội dung & Dữ liệu (Gia sư)</h3>
+            <p class="muted-sm">Bổ sung từ vựng, nhập/xuất JSON hoặc CSV (tương thích Google Sheets) mà không cần sửa code.</p>
+          </div>
+          <button class="icon-btn" id="closeTutorModal" aria-label="Đóng">✕</button>
+        </div>
+        <div class="modal-body" id="tutorModalBody"></div>
+      </div>
+    </div>
+
+    <!-- Toast thông báo gọn -->
+    <div class="toast-container" id="toastContainer"></div>
+  </div>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
