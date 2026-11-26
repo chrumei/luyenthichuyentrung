@@ -1,0 +1,873 @@
+{
+  "id": "station1",
+  "kind": "synonyms",
+  "icon": "⚖️",
+  "shortTitle": "Trạm 1: Từ cận nghĩa",
+  "title_vi": "TRẠM 1. TỪ ĐỒNG NGHĨA VÀ CẬN NGHĨA",
+  "title_zh": "近义词辨析",
+  "description": "Phân biệt sắc thái, từ loại, khả năng kết hợp và ngữ cảnh không thể thay thế của các cặp từ dễ nhầm trọng tâm HSK 4–5 & thi Chuyên Trung.",
+  "packages": [
+    {
+      "id": "st1_pkg1",
+      "title": "Gói 1: 5 cặp từ cận nghĩa cốt lõi (HSK 4–5)",
+      "intro": "Gồm 5 nhóm cận nghĩa xuất hiện dày đặc nhất trong đề đọc hiểu – điền từ và các giáo trình HSK 4–5: 适合/合适, 刚/刚才, 无论/不管, 熟悉/认识, 提高/增加.",
+      "source_status": "synthesized",
+      "source_ids": ["SRC_PKU_SYN", "SRC_BCC", "PDF_HSK4_SHANG", "PDF_HSK4_XIA"],
+      "items": [
+        {
+          "pair_title": "适合 (shìhé) — 合适 (héshì)",
+          "vietnamese_explanation": "Cả hai đều dịch sang tiếng Việt là 'phù hợp, thích hợp', nhưng khác hẳn nhau về TỪ LOẠI nên cấu trúc câu hoàn toàn khác nhau!",
+          "comparison_rows": [
+            { "word": "适合", "pinyin": "shìhé", "pos": "动词 (Động từ)", "meaning": "phù hợp với (ai/cái gì)", "difference": "Mang trực tiếp tân ngữ phía sau (适合 + O).", "collocations": "适合我 / 适合年轻人的工作 / 适合穿", "example_zh": "看来你真的找到适合你的人了。", "example_py": "Kànlái nǐ zhēn de zhǎodào shìhé nǐ de rén le.", "example_vi": "Xem ra em thật sự đã tìm được người phù hợp với mình rồi." },
+            { "word": "合适", "pinyin": "héshì", "pos": "形容词 (Tính từ)", "meaning": "hợp, vừa vặn, thỏa đáng", "difference": "KHÔNG mang tân ngữ phía sau; làm vị ngữ hoặc định ngữ.", "collocations": "很合适 / 合适的时间 / 大小合适", "example_zh": "这双鞋你穿着非常合适。", "example_py": "Zhè shuāng xié nǐ chuānzhe fēicháng héshì.", "example_vi": "Đôi giày này bạn mang rất vừa vặn/hợp." }
+          ],
+          "context_rule": "Thấy phía sau chỗ trống có tân ngữ (如：______我 / ______夏天穿) → BẮT BUỘC dùng 适合. Thấy đứng cuối câu làm vị ngữ không có tân ngữ (如：这个时间很______) → dùng 合适.",
+          "memory_tip": "Nhớ mẹo: 'Thích hợp' (适合) là ĐỘNG từ có đuôi tân ngữ; 'Hợp thích' (合适) là TÍNH từ đứng gọn một mình.",
+          "common_error": "Lỗi người Việt hay mắc nhất: '这件衣服很合适你' (SAI vì 合适 không mang tân ngữ 你) → Sửa: '这件衣服很适合你'."
+        },
+        {
+          "pair_title": "刚 (gāng) — 刚才 (gāngcái)",
+          "vietnamese_explanation": "Đều chỉ sự việc xảy ra cách đây không lâu, nhưng 刚 là phó từ (cảm giác chủ quan về mốc gần), còn 刚才 là danh từ thời gian (chỉ vài phút ngay trước lúc nói).",
+          "comparison_rows": [
+            { "word": "刚", "pinyin": "gāng", "pos": "副词 (Phó từ)", "meaning": "vừa mới", "difference": "Chỉ đứng sau chủ ngữ; nhận từ thời gian trước nó & thời lượng sau động từ; không đứng trước 不/没.", "collocations": "昨天刚到 / 刚来一会儿 / 刚结婚", "example_zh": "我上个月刚搬到这里来。", "example_py": "Wǒ shàng ge yuè gāng bān dào zhèlǐ lái.", "example_vi": "Tháng trước tôi vừa mới chuyển đến đây." },
+            { "word": "刚才", "pinyin": "gāngcái", "pos": "时间名词 (Danh từ thời gian)", "meaning": "vừa nãy (vài phút trước)", "difference": "Đứng trước hoặc sau chủ ngữ; CÓ THỂ đứng trước 不/没; không có từ thời gian đứng trước.", "collocations": "刚才我去… / 你刚才不在… / 刚才的事", "example_zh": "你刚才不在办公室，我把书放你桌上了。", "example_py": "Nǐ gāngcái bú zài bàngōngshì, wǒ bǎ shū fàng nǐ zhuō shang le.", "example_vi": "Vừa nãy bạn không ở văn phòng, mình đặt sách lên bàn bạn rồi." }
+          ],
+          "context_rule": "Nếu câu nói về 'tháng trước/hôm qua vừa mới...' hoặc có thời lượng phía sau ('刚来三天') → chỉ dùng 刚. Nếu đứng đầu câu trước chủ ngữ hoặc trước 不/没 → chỉ dùng 刚才.",
+          "memory_tip": "刚 = 1 chữ = phó từ dính sát động từ; 刚才 = 2 chữ = danh từ thời gian đi trước chủ ngữ được.",
+          "common_error": "Sai: '我昨天刚才到上海' → Sửa: '我昨天刚到上海'."
+        },
+        {
+          "pair_title": "无论 (wúlùn) — 不管 (bùguǎn)",
+          "vietnamese_explanation": "Đều là liên từ chỉ điều kiện không làm thay đổi kết quả (phối hợp với 都/也), nhưng khác nhau về phong cách ngôn ngữ và kết cấu câu đi kèm.",
+          "comparison_rows": [
+            { "word": "无论", "pinyin": "wúlùn", "pos": "连词 (Văn viết)", "meaning": "bất kể, dù cho", "difference": "Đi được với từ văn viết (如何、是否); KHÔNG đi trực tiếp với dạng chính phản A不A (phải thêm 还是).", "collocations": "无论如何 / 无论是……还是…… / 无论是否", "example_zh": "无论如何，我们都不能放弃理想。", "example_py": "Wúlùn rúhé, wǒmen dōu bù néng fàngqì lǐxiǎng.", "example_vi": "Dù thế nào đi nữa, chúng ta đều không thể từ bỏ lý tưởng." },
+            { "word": "不管", "pinyin": "bùguǎn", "pos": "连词 (Khẩu ngữ)", "meaning": "bất kể, mặc kệ", "difference": "Đi trực tiếp với chính phản A不A (不管去不去); KHÔNG đi với 如何、是否.", "collocations": "不管去不去 / 不管热不热 / 不管多忙", "example_zh": "不管去不去，你都提前告诉我一声。", "example_py": "Bùguǎn qù bu qù, nǐ dōu tíqián gàosu wǒ yì shēng.", "example_vi": "Đi hay không đi thì cậu cũng báo trước cho mình một tiếng nhé." }
+          ],
+          "context_rule": "Gặp '______如何' hoặc '______是否' → CHỈ chọn 无论. Gặp '______去不去 / ______贵不贵' (không có 还是) → CHỈ chọn 不管.",
+          "memory_tip": "无论 = văn viết → đi với 如何/是否; 不管 = khẩu ngữ → đi gọn với A不A.",
+          "common_error": "Sai: '无论下雨不下雨我都去' → Sửa: '无论下雨还是不下雨我都去' hoặc '不管下雨不下雨我都去'."
+        },
+        {
+          "pair_title": "熟悉 (shúxī) — 认识 (rènshi)",
+          "vietnamese_explanation": "Đều liên quan đến việc biết người/vật, nhưng khác nhau ở MỨC ĐỘ hiểu biết và phạm vi đối tượng.",
+          "comparison_rows": [
+            { "word": "认识", "pinyin": "rènshi", "pos": "动词 (Động từ)", "meaning": "quen biết (biết mặt/tên), nhận biết chữ", "difference": "Mức độ cơ bản: mới gặp lần đầu đã có thể nói 认识; dùng cho chữ Hán (认识汉字).", "collocations": "认识新朋友 / 认识这个字 / 很高兴认识你", "example_zh": "我们是在一次足球比赛中认识的。", "example_py": "Wǒmen shì zài yí cì zúqiú bǐsài zhōng rènshi de.", "example_vi": "Chúng tôi quen biết nhau trong một trận bóng đá." },
+            { "word": "熟悉", "pinyin": "shúxī", "pos": "动词 / 形容词", "meaning": "hiểu rõ, thông thạo, thân thuộc", "difference": "Mức độ sâu: đã tiếp xúc lâu, nắm rõ tình hình/môi trường/tính cách; làm tính từ được (熟悉的声音).", "collocations": "熟悉环境 / 对……很熟悉 / 慢慢熟悉", "example_zh": "我对这里的路非常熟悉，不会迷路。", "example_py": "Wǒ duì zhèlǐ de lù fēicháng shúxī, bú huì mílù.", "example_vi": "Tôi rất rành đường ở đây, sẽ không bị lạc đâu." }
+          ],
+          "context_rule": "Nói 'nhận mặt chữ Hán' hay 'mới quen ai đó' → dùng 认识. Nói 'rành đường, nắm rõ tình hình, âm thanh quen thuộc' → dùng 熟悉.",
+          "memory_tip": "认识 = mới 'nhận ra'; 熟悉 = đã 'chín muồi, thuộc nằm lòng'.",
+          "common_error": "Sai: '我不熟悉这个汉字' → Sửa: '我不认识这个汉字'."
+        },
+        {
+          "pair_title": "增加 (zēngjiā) — 提高 (tígāo)",
+          "vietnamese_explanation": "Đều dịch là 'tăng lên', nhưng 增加 tăng về SỐ LƯỢNG, còn 提高 nâng lên về TRÌNH ĐỘ / CHẤT LƯỢNG.",
+          "comparison_rows": [
+            { "word": "增加", "pinyin": "zēngjiā", "pos": "动词 (Động từ)", "meaning": "tăng thêm (số lượng, khối lượng)", "difference": "Đi với danh từ đếm/đo được hoặc mang tính tích lũy số lượng.", "collocations": "增加数量 / 增加收入 / 增加知识 / 增加压力", "example_zh": "今年来这里旅游的人数增加了很多。", "example_py": "Jīnnián lái zhèlǐ lǚyóu de rénshù zēngjiā le hěn duō.", "example_vi": "Số lượng du khách đến đây năm nay tăng thêm rất nhiều." },
+            { "word": "提高", "pinyin": "tígāo", "pos": "动词 (Động từ)", "meaning": "nâng cao (trình độ, chất lượng, hiệu suất)", "difference": "Đi với danh từ chỉ mức độ cao/thấp, năng lực, chất lượng.", "collocations": "提高水平 / 提高能力 / 提高效率 / 提高成绩", "example_zh": "坚持做读书笔记，对提高阅读能力很有帮助。", "example_py": "Jiānchí zuò dúshū bǐjì, duì tígāo yuèdú nénglì hěn yǒu bāngzhù.", "example_vi": "Kiên trì ghi chép đọc sách rất có ích cho việc nâng cao năng lực đọc hiểu." }
+          ],
+          "context_rule": "Với 水平 (trình độ), 能力 (năng lực), 质量 (chất lượng), 效率 (hiệu suất) → BẮT BUỘC dùng 提高. Với 人数 (số người), 收入 (thu nhập), 费用 (chi phí), 负担 (gánh nặng) → dùng 增加.",
+          "memory_tip": "增加 = thêm số lượng (加 là cộng thêm); 提高 = đưa lên cao hơn (高 là cao).",
+          "common_error": "Sai: '我想增加我的汉语水平' → Đúng: '我想提高我的汉语水平'."
+        }
+      ],
+      "package_notes": "Khi phân biệt từ cận nghĩa trong bài thi Chuyên Trung, hãy kiểm tra theo đúng 3 bước: (1) Từ loại & có mang tân ngữ không → (2) Phong cách văn nói/văn viết → (3) Danh từ/động từ kết hợp chuẩn phía sau.",
+      "exercises": [
+        {
+          "id": "st1_e1", "type": "synonym_mc", "level": "Nhận biết", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn từ đúng: “我觉得这份工作非常______你，你应该去试试。”",
+          "options": ["适合", "合适", "熟悉", "增加"],
+          "answer": "适合",
+          "explanation": "Phía sau có tân ngữ trực tiếp '你', chỉ động từ 适合 mới mang tân ngữ.",
+          "review_tip": "Ôn cặp 适合—合适."
+        },
+        {
+          "id": "st1_e2", "type": "synonym_mc", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn từ đúng: “通过每天朗读，他的汉语发音水平______得很快。”",
+          "options": ["提高", "增加", "适合", "认识"],
+          "answer": "提高",
+          "explanation": "水平 (trình độ) luôn kết hợp với 提高, không kết hợp với 增加.",
+          "review_tip": "Ôn cặp 增加—提高."
+        },
+        {
+          "id": "st1_e3", "type": "synonym_mc", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn từ đúng: “你______不是说不想去吗？怎么现在又改变了主意？”",
+          "options": ["刚才", "刚", "无论", "不管"],
+          "answer": "刚才",
+          "explanation": "Phía sau là hình thức phủ định '不是说', chỉ 刚才 đứng trước từ phủ định được.",
+          "review_tip": "Ôn cặp 刚—刚才."
+        },
+        {
+          "id": "st1_e4", "type": "error_fix", "level": "Vận dụng", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Câu nào sau đây ĐÚNG hoàn toàn cả về ngữ pháp lẫn kết hợp từ?",
+          "options": [
+            "不管天气冷不冷，他每天早上都坚持跑步。",
+            "无论天气冷不冷，他每天早上都坚持跑步。",
+            "这件毛衣很合适我，我决定买下来。",
+            "我来中国三年了，已经很认识这里的文化。"
+          ],
+          "answer": "不管天气冷不冷，他每天早上都坚持跑步。",
+          "explanation": "不管 đi trực tiếp với dạng chính phản 冷不冷 là hoàn toàn chuẩn xác; 3 câu kia lần lượt sai 无论+A不A, 合适+tân ngữ, và 认识 với mức độ 'rất hiểu rõ' (phải dùng 熟悉/了解).",
+          "review_tip": "Xem lại cả 5 cặp trong Gói 1 Trạm 1."
+        }
+      ]
+    },
+    {
+      "id": "st1_pkg2",
+      "title": "Gói 2: 6 cặp Hư từ & Liên từ hay bẫy nhất (1700 Cặp cận nghĩa BLCUP)",
+      "intro": "Bám sát nền tảng từ vựng HSK 4–5 trong 3 giáo trình căn bản, mở rộng theo sách 1700对近义词语用法对比 (BLCUP) với 6 cặp hư từ – liên từ cực dễ mất điểm khi ôn thi Chuyên Trung: 必需/必须, 毕竟/到底, 不必/未必, 除非/只有, 从未/从不, 虽然/尽管.",
+      "source_status": "verified_source",
+      "source_ids": ["PDF_1700_SYNONYMS"],
+      "items": [
+        {
+          "pair_title": "必需 (bìxū) — 必须 (bìxū)",
+          "vietnamese_explanation": "Hai từ phát âm hoàn toàn giống nhau (bìxū), chỉ phân biệt được trên mặt chữ, nhưng nghĩa và TỪ LOẠI khác hẳn nhau: 必需 chỉ vật/thứ không thể thiếu, còn 必须 là phó từ chỉ yêu cầu bắt buộc.",
+          "comparison_rows": [
+            { "word": "必需", "pinyin": "bìxū", "pos": "动词、形容词 (Động từ, Tính từ)", "meaning": "nhất định phải có, không thể thiếu (đồ vật/tài liệu)", "difference": "Làm vị ngữ (có thể mang tân ngữ) hoặc định ngữ đứng trước danh từ; tạo danh từ ghép 生活必需品.", "collocations": "生活必需品 / 必需的东西 / 必需的资料 / 日常生活必需的", "example_zh": "《汉语词典》是学习汉语必需的工具书。", "example_py": "《Hànyǔ Cídiǎn》 shì xuéxí Hànyǔ bìxū de gōngjùshū.", "example_vi": "《Từ điển Hán ngữ》 là sách công cụ không thể thiếu khi học tiếng Trung." },
+            { "word": "必须", "pinyin": "bìxū", "pos": "助动词、副词 (Trợ động từ, Phó từ)", "meaning": "nhất định phải, bắt buộc phải", "difference": "Đứng trước động từ hoặc cụm động từ làm trạng ngữ; KHÔNG đứng trước danh từ để làm định ngữ.", "collocations": "必须努力 / 必须坚持上课 / 你必须来 / 必须做到", "example_zh": "我必须买一本《汉语词典》。", "example_py": "Wǒ bìxū mǎi yì běn 《Hànyǔ Cídiǎn》.", "example_vi": "Tôi nhất định phải mua một cuốn 《Từ điển Hán ngữ》." }
+          ],
+          "context_rule": "Trước danh từ hoặc trong cụm '……的(东西/资料/工具书)' hay '生活……品' → BẮT BUỘC dùng 必需. Trước động từ/cụm động từ (……努力 / ……亲自去 / ……拿到证书) → BẮT BUỘC dùng 必须.",
+          "memory_tip": "必需 có chữ 需 (nhu cầu, vật phẩm thiết yếu); 必须 đi với hành động 'bắt buộc phải làm'.",
+          "common_error": "Sai (sách BLCUP): '生活必须品一般都比较便宜' → Đúng: '生活必需品一般都比较便宜'. Sai: '必需拿到高级证书' → Đúng: '必须拿到高级证书'."
+        },
+        {
+          "pair_title": "毕竟 (bìjìng) — 到底 (dàodǐ)",
+          "vietnamese_explanation": "Cả hai đều có thể nhấn mạnh lý do/nguyên nhân ('dù sao thì...') hoặc kết quả tốt cuối cùng ('rốt cuộc cũng...'), nhưng khác nhau ở câu hỏi truy vấn, kết luận tối hậu và cách dùng bổ ngữ 'đến cùng'.",
+          "comparison_rows": [
+            { "word": "毕竟", "pinyin": "bìjìng", "pos": "副词 (Phó từ)", "meaning": "rốt cuộc, suy cho cùng, dù sao thì", "difference": "Nhấn mạnh kết luận cuối cùng sau khi xét tận gốc; KHÔNG dùng trong câu hỏi truy vấn; KHÔNG đứng sau động từ kiểu '坚持～'.", "collocations": "毕竟年轻 / 毕竟没有经验 / 毕竟是老医生 / 毕竟是第二位的", "example_zh": "和他的成绩比起来，这点错误毕竟是第二位的。", "example_py": "Hé tā de chéngjì bǐ qǐlái, zhè diǎn cuòwù bìjìng shì dì-èr wèi de.", "example_vi": "So với thành tích của cậu ấy, chút sai sót này suy cho cùng chỉ là thứ yếu." },
+            { "word": "到底", "pinyin": "dàodǐ", "pos": "副词 / 动宾词组 (Phó từ / Cụm Đ-T)", "meaning": "rốt cuộc (truy vấn), cuối cùng (khẩu ngữ), đến cùng", "difference": "Dùng trong câu hỏi để truy vấn sâu (到底去不去); có nghĩa 'đến tận cùng/hoàn thành' (坚持到底); dùng thiên về khẩu ngữ.", "collocations": "到底去不去 / 到底怎么样 / 到底谁赢了 / 坚持到底 / 到底是年轻人", "example_zh": "你明天到底来不来？", "example_py": "Nǐ míngtiān dàodǐ lái bu lái?", "example_vi": "Ngày mai rốt cuộc bạn có đến hay không?" }
+          ],
+          "context_rule": "Gặp câu nghi vấn truy vấn (……来不来 / ……有没有 / ……谁赢了) hoặc cụm '坚持……' → CHỈ dùng 到底. Nhấn mạnh kết luận đánh giá sau khi cân nhắc (错误……是第二位的) → CHỈ dùng 毕竟.",
+          "memory_tip": "到底 = hỏi 'tới đáy' (câu hỏi truy vấn) & đi 'tới đáy' (坚持到底); 毕竟 = chốt lại chân lý 'suy cho cùng'.",
+          "common_error": "Sai (sách BLCUP): '你明天毕竟来不来？' → Đúng: '你明天到底来不来？'. Sai: '我一定要坚持学毕竟' → Đúng: '我一定要坚持学到底'."
+        },
+        {
+          "pair_title": "不必 (búbì) — 未必 (wèibì)",
+          "vietnamese_explanation": "Nghĩa của hai phó từ này KHÁC NHAU HOÀN TOÀN và không thể thay thế: 不必 là phủ định của 必须 ('không cần'), còn 未必 là phủ định của 必定 ('chưa chắc').",
+          "comparison_rows": [
+            { "word": "不必", "pinyin": "búbì", "pos": "副词 (Phó từ)", "meaning": "không cần, không cần thiết", "difference": "Phủ định của 必须; thường dùng để khuyên nhủ, đối tượng thường là ngôi thứ hai (你/你们); kết hợp quen thuộc '大可不必'.", "collocations": "不必着急 / 不必去得太早 / 不必难过 / 不必生气 / 大可不必", "example_zh": "慢慢来，不必着急。", "example_py": "Mànmàn lái, búbì zháojí.", "example_vi": "Cứ từ từ thôi, không cần phải vội." },
+            { "word": "未必", "pinyin": "wèibì", "pos": "副词 (Phó từ)", "meaning": "chưa chắc, không hẳn", "difference": "Phủ định của 必定 (= 不一定); biểu thị sự phỏng đoán, ước lượng; đi được với tính từ đánh giá như 满意、可信、可靠.", "collocations": "未必知道 / 未必满意 / 未必可信 / 未必可靠 / 未必会说", "example_zh": "留学生能听懂的句子，未必会说。", "example_py": "Liúxuéshēng néng tīngdǒng de jùzi, wèibì huì shuō.", "example_vi": "Câu mà lưu học sinh nghe hiểu được thì chưa chắc đã biết nói." }
+          ],
+          "context_rule": "Ngữ cảnh khuyên bảo 'không cần làm gì' hoặc gặp '大可______' → BẮT BUỘC dùng 不必. Ngữ cảnh suy đoán 'chưa chắc đã…' hoặc trước '可靠/可信/满意/来得了' → BẮT BUỘC dùng 未必.",
+          "memory_tip": "不必 = 不 + 必须 (không cần); 未必 = 未 + 必定 (chưa chắc chắn).",
+          "common_error": "Sai (sách BLCUP): '你别看他这个人说得好听，其实不必可靠' → Đúng: '……其实未必可靠'. Sai: '为这点儿小事生气，大可未必' → Đúng: '……大可不必'."
+        },
+        {
+          "pair_title": "除非 (chúfēi) — 只有 (zhǐyǒu)",
+          "vietnamese_explanation": "Cả hai đều biểu thị điều kiện duy nhất, nhưng 只有 nêu từ góc độ CHÍNH DIỆN ('chỉ có... mới...'), còn 除非 nêu từ góc độ PHẢN DIỆN ('trừ phi... nếu không thì...') nên cặp liên từ đi kèm ở vế sau khác nhau.",
+          "comparison_rows": [
+            { "word": "除非", "pinyin": "chúfēi", "pos": "连词 (Liên từ)", "meaning": "trừ phi, chỉ khi", "difference": "Nêu điều kiện duy nhất từ mặt phản diện; vế sau phối hợp được với 才、不、否则、不然、要不然; KHÔNG đứng một mình trước danh từ làm chủ ngữ không có vế điều kiện.", "collocations": "除非……才…… / 除非……否则…… / 除非……不然…… / 除非……要不……", "example_zh": "除非在这里修个水库，否则不能解决城市供水问题。", "example_py": "Chúfēi zài zhèlǐ xiū ge shuǐkù, fǒuzé bù néng jiějué chéngshì gōngshuǐ wèntí.", "example_vi": "Trừ phi xây một hồ chứa nước ở đây, nếu không thì không thể giải quyết vấn đề cấp nước đô thị." },
+            { "word": "只有", "pinyin": "zhǐyǒu", "pos": "连词 (Liên từ)", "meaning": "chỉ có", "difference": "Nêu điều kiện duy nhất từ mặt chính diện; vế sau CHỈ phối hợp với 才 hoặc 方, KHÔNG đi với 不/否则/不然; dùng được trực tiếp trước danh từ (只有他了解).", "collocations": "只有……才…… / 只有……方…… / 只有他了解这个情况", "example_zh": "只有在这里修个水库，才能解决城市供水问题。", "example_py": "Zhǐyǒu zài zhèlǐ xiū ge shuǐkù, cái néng jiějué chéngshì gōngshuǐ wèntí.", "example_vi": "Chỉ có xây một hồ chứa nước ở đây mới có thể giải quyết vấn đề cấp nước đô thị." }
+          ],
+          "context_rule": "Thấy vế sau có '否则 / 不然 / 要不(然)' → CHỈ dùng 除非. Thấy câu đơn '______他了解这个情况' → CHỈ dùng 只有. Nếu vế sau là '才…' thì đa số câu điều kiện dùng được cả hai.",
+          "memory_tip": "只有 đi một đường thẳng '只有…才…'; 除非 bẻ ngược được với '否则 / 不然 / 要不然'.",
+          "common_error": "Sai (sách BLCUP): '只有你期末考试及格，不然肯定毕不了业' → Sửa: '除非你期末考试及格，不然肯定毕不了业' hoặc '只有你期末考试及格，才能毕业'."
+        },
+        {
+          "pair_title": "从未 (cóngwèi) — 从不 (cóngbù)",
+          "vietnamese_explanation": "Cả hai đều là phó từ phủ định nghĩa 'chưa/không bao giờ', nhưng 从未 phủ định KINH NGHIỆM QUÁ KHỨ (thường đi với 过), còn 从不 phủ định Ý MUỐN/THÓI QUEN (cả quá khứ lẫn hiện tại).",
+          "comparison_rows": [
+            { "word": "从未", "pinyin": "cóngwèi", "pos": "副词 (Phó từ)", "meaning": "chưa từng, chưa bao giờ (从来没有)", "difference": "Phủ định động tác/tình huống trước thời điểm nói; thường kết hợp chặt với trợ từ 过; KHÔNG đi với động từ thói quen/ý muốn ở hiện tại không có 过.", "collocations": "从未说过 / 从未见过 / 从未听说过 / 从未学过", "example_zh": "来中国以前我从未学过汉语。", "example_py": "Lái Zhōngguó yǐqián wǒ cóngwèi xuéguo Hànyǔ.", "example_vi": "Trước khi đến Trung Quốc tôi chưa từng học tiếng Hán." },
+            { "word": "从不", "pinyin": "cóngbù", "pos": "副词 (Phó từ)", "meaning": "không bao giờ (从来不做)", "difference": "Phủ định ý muốn, thói quen, nguyên tắc (không muốn/không bằng lòng làm); phủ định cả quá khứ lẫn lúc đang nói; KHÔNG kết hợp với 过.", "collocations": "从不喝酒 / 从不喜欢 / 从不抽烟 / 从不看 / 从不愿意", "example_zh": "他从不抽烟。", "example_py": "Tā cóngbù chōuyān.", "example_vi": "Anh ấy không bao giờ hút thuốc." }
+          ],
+          "context_rule": "Thấy phía sau động từ có '过' (……听说过 / ……喝过 / ……见过) → BẮT BUỘC dùng 从未. Thấy phủ định thói quen, sở thích, ý nguyện (……抽烟 / ……喝酒 / ……喜欢 / ……愿意) → BẮT BUỘC dùng 从不.",
+          "memory_tip": "从未 = 从来没有 → đi với 过 (kinh nghiệm quá khứ); 从不 = 从来不 → đi với thói quen/ý muốn (không có 过).",
+          "common_error": "Sai (sách BLCUP): '这是我第一次喝白酒，以前从不喝过' → Đúng: '……以前从未喝过'. Sai: '他从未抽烟' (chỉ thói quen) → Đúng: '他从不抽烟'."
+        },
+        {
+          "pair_title": "虽然 (suīrán) — 尽管 (jǐnguǎn)",
+          "vietnamese_explanation": "Khi 尽管 làm liên từ mang nghĩa 'mặc dù', hai từ có thể thay thế cho nhau. Điểm bẫy lớn nhất: 尽管 còn là PHÓ TỪ mang nghĩa 'cứ yên tâm/cứ tự nhiên làm', còn 虽然 hoàn toàn không có nghĩa này.",
+          "comparison_rows": [
+            { "word": "虽然", "pinyin": "suīrán", "pos": "连词 (Liên từ)", "meaning": "tuy, mặc dù", "difference": "CHỈ là liên từ dùng ở vế đầu, phối hợp với 但是/可是 ở vế sau để biểu thị chuyển ngoặt.", "collocations": "虽然……但是…… / 虽然……可是……", "example_zh": "虽然她并不是很聪明的学生，但是非常努力，每天都坚持来上课。", "example_py": "Suīrán tā bìng bú shì hěn cōngming de xuésheng, dànshì fēicháng nǔlì, měitiān dōu jiānchí lái shàngkè.", "example_vi": "Tuy bạn ấy không phải học sinh quá thông minh, nhưng rất nỗ lực, ngày nào cũng kiên trì đi học." },
+            { "word": "尽管", "pinyin": "jǐnguǎn", "pos": "副词、连词 (Phó từ, Liên từ)", "meaning": "(Liên) mặc dù; (Phó) cứ tự nhiên, cứ yên tâm", "difference": "Khi làm liên từ = 虽然 (thường đi với 但是/然而); khi làm phó từ đứng trước động từ biểu thị 'không cần ngại, cứ làm đi'.", "collocations": "尽管……但是…… / 尽管告诉我 / 尽管用吧 / 尽管大胆地说", "example_zh": "有问题你尽管告诉我，我一定帮你解决。", "example_py": "Yǒu wèntí nǐ jǐnguǎn gàosu wǒ, wǒ yídìng bāng nǐ jiějué.", "example_vi": "Có vấn đề gì bạn cứ việc nói với mình, mình nhất định sẽ giúp bạn giải quyết." }
+          ],
+          "context_rule": "Thấy câu khuyên nhủ không có vế chuyển ngoặt (你______用吧 / 你______告诉我 / 就______大胆地说) → CHỈ dùng 尽管. Khi có vế đối lập với 但是/可是 thì dùng được cả 虽然 và 尽管.",
+          "memory_tip": "尽管 có 2 vai: vai liên từ (= 虽然) và vai phó từ 'cứ tự nhiên nhé!' (虽然 không đóng được vai này).",
+          "common_error": "Sai (sách BLCUP): '这本词典你虽然用吧，我现在用不着' → Đúng: '这本词典你尽管用吧，我现在用不着'."
+        }
+      ],
+      "package_notes": "Nhóm hư từ – liên từ luôn ăn điểm ở DẤU HIỆU NGỮ PHÁP đi kèm: nhìn trước/sau chỗ trống xem có 过 không (从未), có 否则/不然 không (除非), có dấu hỏi truy vấn không (到底), hay có danh từ phía sau không (必需).",
+      "exercises": [
+        {
+          "id": "st1_p2_e1", "type": "synonym_mc", "level": "Nhận biết", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn từ đúng: “《汉语词典》是学习汉语______的工具书。”",
+          "options": ["必需", "必须", "未必", "不必"],
+          "answer": "必需",
+          "explanation": "Chỗ trống làm định ngữ trước danh từ '工具书' (sách công cụ không thể thiếu), phải dùng 必需; 必须 là phó từ chỉ đứng trước động từ.",
+          "review_tip": "Ôn cặp 必需—必须."
+        },
+        {
+          "id": "st1_p2_e2", "type": "synonym_mc", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn từ đúng: “留学生能听懂的句子，______会说。”",
+          "options": ["未必", "不必", "从不", "毕竟"],
+          "answer": "未必",
+          "explanation": "Câu mang ý phỏng đoán 'chưa chắc đã biết nói' (= 不一定), phải dùng 未必; 不必 là 'không cần'.",
+          "review_tip": "Ôn cặp 不必—未必."
+        },
+        {
+          "id": "st1_p2_e3", "type": "synonym_mc", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn từ đúng: “这是我第一次喝白酒，以前______喝过。”",
+          "options": ["从未", "从不", "不必", "到底"],
+          "answer": "从未",
+          "explanation": "Phía sau có trợ từ '过' phủ định trải nghiệm trong quá khứ ('chưa từng uống qua'), bắt buộc dùng 从未.",
+          "review_tip": "Ôn cặp 从未—从不."
+        },
+        {
+          "id": "st1_p2_e4", "type": "error_fix", "level": "Vận dụng", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Câu nào sau đây ĐÚNG hoàn toàn theo chuẩn ngữ pháp tiếng Hán?",
+          "options": [
+            "除非你期末考试及格，不然肯定毕不了业。",
+            "只有你期末考试及格，不然肯定毕不了业。",
+            "你明天毕竟来不来？请快点告诉我。",
+            "这本词典你虽然用吧，我现在用不着。"
+          ],
+          "answer": "除非你期末考试及格，不然肯定毕不了业。",
+          "explanation": "除非……不然…… là cấu trúc chuẩn; 只有 không đi với 不然; câu hỏi truy vấn phải dùng 到底 (không dùng 毕竟); nghĩa 'cứ tự nhiên dùng' phải dùng 尽管 (không dùng 虽然).",
+          "review_tip": "Xem lại các cặp 除非/只有, 毕竟/到底 và 虽然/尽管."
+        }
+      ]
+    },
+    {
+      "id": "st1_pkg3",
+      "title": "Gói 3: 6 cặp Động từ trọng điểm HSK 4–5 (1700 Cặp cận nghĩa BLCUP)",
+      "intro": "Tập trung vào 6 cặp động từ tần suất cực cao trong bài thi HSK 4–5 và thi Chuyên Trung (theo sách 1700对近义词语用法对比 – BLCUP): 避免/防止, 表达/表示, 出席/参加, 鼓励/鼓舞, 举行/举办, 决定/决心.",
+      "source_status": "verified_source",
+      "source_ids": ["PDF_1700_SYNONYMS"],
+      "items": [
+        {
+          "pair_title": "避免 (bìmiǎn) — 防止 (fángzhǐ)",
+          "vietnamese_explanation": "Theo sách BLCUP, nghĩa và cách dùng của hai từ này CƠ BẢN GIỐNG NHAU và thay thế được cho nhau trong phần lớn ngữ cảnh, chỉ hơi khác sắc thái giữa 'né tránh không để xảy ra' và 'chủ động phòng bị từ trước'.",
+          "comparison_rows": [
+            { "word": "避免", "pinyin": "bìmiǎn", "pos": "动词 (Động từ)", "meaning": "tránh, né tránh", "difference": "Nhấn mạnh tìm cách không để sự việc/tình huống xấu xảy ra; lưu ý KHÔNG dùng thay chữ 免 trong từ cố định như 免费、免得.", "collocations": "避免事故 / 避免冲突 / 避免受伤害 / 避免受损失 / 避免中毒 / 避免误会", "example_zh": "这件事你好好跟他解释解释，避免产生误会。", "example_py": "Zhè jiàn shì nǐ hǎohāo gēn tā jiěshi jiěshi, bìmiǎn chǎnshēng wùhuì.", "example_vi": "Chuyện này bạn cứ giải thích rõ ràng với anh ấy để tránh nảy sinh hiểu lầm." },
+            { "word": "防止", "pinyin": "fángzhǐ", "pos": "动词 (Động từ)", "meaning": "phòng ngừa, ngăn chặn", "difference": "Nhấn mạnh hành động hoặc chuẩn bị từ trước (防) để ngăn không cho chuyện xấu phát sinh; các tân ngữ xấu đi kèm tương đồng với 避免.", "collocations": "防止事故 / 防止冲突 / 防止受伤害 / 防止受损失 / 防止中毒 / 防止疾病 / 防止误会", "example_zh": "夏天到了，要注意食品卫生，防止发生食物中毒。", "example_py": "Xiàtiān dào le, yào zhùyì shípǐn wèishēng, fángzhǐ fāshēng shíwù zhòngdú.", "example_vi": "Mùa hè đến rồi, cần chú ý vệ sinh thực phẩm để phòng ngừa ngộ độc thức ăn." }
+          ],
+          "context_rule": "Với 事故、冲突、受伤害、受损失、中毒、疾病、误会 → cả 避免 và 防止 đều đúng; ưu tiên 防止 khi nhấn mạnh biện pháp phòng bị từ trước (cháy nổ, dịch bệnh, ngộ độc), ưu tiên 避免 khi nhấn mạnh tránh khỏi điều bất lợi khó lường.",
+          "memory_tip": "避免 = tránh né (避 là tránh); 防止 = phòng bị & chặn đứng từ trước (防 là phòng).",
+          "common_error": "Lỗi hay gặp (sách BLCUP): Không tách/thay 避免 vào từ có 免 cố định như '免费' (SAI: 避免费) hay '免得' (SAI: 避免得)."
+        },
+        {
+          "pair_title": "表达 (biǎodá) — 表示 (biǎoshì)",
+          "vietnamese_explanation": "Hai từ KHÔNG thể thay thế cho nhau trong đa số ngữ cảnh: 表达 diễn đạt bằng NGÔN NGỮ (nói/viết), còn 表示 thể hiện bằng cả ngôn ngữ lẫn cử chỉ/hành động/ký hiệu, đồng thời có cả từ loại danh từ.",
+          "comparison_rows": [
+            { "word": "表达", "pinyin": "biǎodá", "pos": "动词 (Động từ)", "meaning": "biểu đạt, diễn đạt", "difference": "Dùng hình thức ngôn ngữ (nói miệng hoặc viết lách) để truyền đạt tư tưởng, tình cảm; CHỈ là động từ; đi với 思想、感情、表达能力.", "collocations": "表达思想 / 表达感情 / 表达出来 / 表达能力", "example_zh": "我现在已经能用汉语表达自己的思想了。", "example_py": "Wǒ xiànzài yǐjīng néng yòng Hànyǔ biǎodá zìjǐ de sīxiǎng le.", "example_vi": "Bây giờ tôi đã có thể dùng tiếng Hán để diễn đạt tư tưởng của mình rồi." },
+            { "word": "表示", "pinyin": "biǎoshì", "pos": "动词、名词 (Động từ, Danh từ)", "meaning": "biểu thị, tỏ ý, thể hiện", "difference": "Dùng ngôn ngữ hoặc phi ngôn ngữ (gật đầu, ánh mắt, nét mặt, ký hiệu đèn giao thông); đi với 感谢/欢迎/同意/理解/关心; có cách dùng danh từ (…的表示).", "collocations": "表示感谢 / 表示同意 / 表示欢迎 / 表示理解 / 表示关心 / 表示感情 / …的表示", "example_zh": "我代表学校向新同学表示热烈的欢迎。", "example_py": "Wǒ dàibiǎo xuéxiào xiàng xīn tóngxué biǎoshì rèliè de huānyíng.", "example_vi": "Tôi đại diện nhà trường bày tỏ sự chào đón nồng nhiệt tới các bạn tân học sinh." }
+          ],
+          "context_rule": "Đi với '感谢 / 欢迎 / 同意 / 祝贺 / 理解 / 关心' hoặc ký hiệu/cử chỉ ('红灯……停 / 点头……同意') → BẮT BUỘC dùng 表示. Đi với '思想 / 表达能力' hay văn bản diễn đạt tình cảm ('这篇课文……了作者的爱') → dùng 表达.",
+          "memory_tip": "表达 = ĐẠT ý bằng lời văn (nói/viết); 表示 = THỊ (cho thấy) bằng cả lời chào, cử chỉ lẫn tín hiệu.",
+          "common_error": "Sai (sách BLCUP): '点头表达同意，摇头表达不同意' → Đúng: '点头表示同意，摇头表示不同意'. Sai: '用汉语表示自己的思想' → Đúng: '用汉语表达自己的思想'."
+        },
+        {
+          "pair_title": "出席 (chūxí) — 参加 (cānjiā)",
+          "vietnamese_explanation": "Cả hai đều có thể dùng khi tham dự hội nghị chính thức, nhưng phạm vi của 出席 rất hẹp (chủ yếu hội nghị/buổi lễ trang trọng), còn 参加 bao quát rộng hơn nhiều (tổ chức, hoạt động, công việc, thi đấu, ý kiến).",
+          "comparison_rows": [
+            { "word": "出席", "pinyin": "chūxí", "pos": "动词 (Động từ)", "meaning": "tham dự, có mặt (hội nghị/tiệc trang trọng)", "difference": "Đối tượng chủ yếu là hội nghị chính thức, đại hội, tiệc chiêu đãi (người dự thường có vai trò đại biểu/khách mời).", "collocations": "出席大会 / 出席会议 / 出席招待会", "example_zh": "出席这次代表大会的代表共一千五百多人。", "example_py": "Chūxí zhè cì dàibiǎo dàhuì de dàibiǎo gòng yìqiān wǔbǎi duō rén.", "example_vi": "Đại biểu tham dự đại hội đại biểu lần này có tổng cộng hơn 1.500 người." },
+            { "word": "参加", "pinyin": "cānjiā", "pos": "动词 (Động từ)", "meaning": "tham gia, gia nhập; đóng góp (ý kiến)", "difference": "Phạm vi cực rộng: tổ chức, hoạt động, lao động, công việc, cuộc thi, đoàn du lịch, và cả nghĩa 'đóng góp ý kiến' (参加意见).", "collocations": "参加大会 / 参加工会 / 参加选举 / 参加绿化活动 / 参加劳动 / 参加工作 / 参加意见", "example_zh": "他大学一毕业就参加工作了。", "example_py": "Tā dàxué yí bìyè jiù cānjiā gōngzuò le.", "example_vi": "Anh ấy vừa tốt nghiệp đại học là đi làm ngay." }
+          ],
+          "context_rule": "Thấy '工作 / 劳动 / 活动 / 比赛 / 表演 / 旅行团 / 工会 / 意见' → BẮT BUỘC dùng 参加. Với '大会 / 会议 / 招待会' trang trọng thì dùng 出席 hoặc 参加 đều được.",
+          "memory_tip": "出席 = có mặt trên 'ghế' (席) hội nghị trang trọng; 参加 = nhập cuộc đủ mọi việc từ đi làm, thi đấu đến góp ý.",
+          "common_error": "Sai (sách BLCUP): '他大学一毕业就出席工作了' → Đúng: '他大学一毕业就参加工作了'. Sai: '我们班出席了汉语节目表演' → Đúng: '我们班参加了汉语节目表演'."
+        },
+        {
+          "pair_title": "鼓励 (gǔlì) — 鼓舞 (gǔwǔ)",
+          "vietnamese_explanation": "Cả hai đều là động từ kiêm danh từ mang ý thúc đẩy tinh thần, nhưng khác hẳn về CHỦ THỂ gây tác động và CỤM TỪ KẾT HỢP cố định.",
+          "comparison_rows": [
+            { "word": "鼓励", "pinyin": "gǔlì", "pos": "动词、名词 (Động từ, Danh từ)", "meaning": "khích lệ, động viên", "difference": "Chủ thể có thể là NGƯỜI hoặc SỰ VIỆC (dùng lời nói/hành động giúp người khác học/làm tốt hơn); KHÔNG đi với 很受～、令人～、人心、士气.", "collocations": "受到鼓励 / 鼓励他 / 鼓励我们 / 很大的鼓励 / 对我的鼓励", "example_zh": "老师总是鼓励我们，学习汉语要多听多说，不要怕说错。", "example_py": "Lǎoshī zǒngshì gǔlì wǒmen, xuéxí Hànyǔ yào duō tīng duō shuō, búyào pà shuōcuò.", "example_vi": "Thầy cô luôn khích lệ chúng tôi rằng học tiếng Hán phải nghe nói nhiều, đừng sợ nói sai." },
+            { "word": "鼓舞", "pinyin": "gǔwǔ", "pos": "动词、名词 (Động từ, Danh từ)", "meaning": "cổ vũ, truyền cảm hứng", "difference": "Chủ thể tác động là SỰ VIỆC (tin vui, tinh thần, thắng lợi...); kết hợp đặc trưng với 很受～、令人～ và tân ngữ lớn như 人心、士气、人民.", "collocations": "很受鼓舞 / 受到鼓舞 / 很大的鼓舞 / 鼓舞人心 / 鼓舞士气 / 鼓舞人民 / 令人鼓舞", "example_zh": "这是一个令人鼓舞的好消息。", "example_py": "Zhè shì yí ge lìngrén gǔwǔ de hǎo xiāoxi.", "example_vi": "Đây là một tin tốt lành vô cùng đáng phấn khởi/cổ vũ." }
+          ],
+          "context_rule": "Thấy '令人______ / 很受______ / ______人心 / ______士气 / ______人民' → BẮT BUỘC dùng 鼓舞. Thấy người cụ thể động viên ai ('老师______我们 / 谢谢你对我的______') → BẮT BUỘC dùng 鼓励.",
+          "memory_tip": "鼓励 = người dùng lời 'khích lệ' cụ thể; 鼓舞 = tin vui/sự việc 'làm phấn chấn' lòng người (令人鼓舞、很受鼓舞).",
+          "common_error": "Sai (sách BLCUP): '这是一个令人鼓励的好消息' → Đúng: '这是一个令人鼓舞的好消息'. Sai: '听了他的话我很受鼓励' → Đúng: '……我很受鼓舞'."
+        },
+        {
+          "pair_title": "举行 (jǔxíng) — 举办 (jǔbàn)",
+          "vietnamese_explanation": "Cả hai đều dịch là 'tổ chức', nhưng khác nhau ở LOẠI HÌNH SỰ KIỆN đi kèm và đặc biệt là CHỦ THỂ thực hiện hành động.",
+          "comparison_rows": [
+            { "word": "举行", "pinyin": "jǔxíng", "pos": "动词 (Động từ)", "meaning": "tổ chức, tiến hành (hội nghị, thi đấu, hội đàm)", "difference": "Chủ thể có thể là người/đơn vị HOẶC chính bản thân sự kiện/cuộc họp làm chủ ngữ (会议按时举行); đi với 会谈、球赛、联欢.", "collocations": "举行宴会 / 举行婚礼 / 举行会谈 / 举行球赛 / 举行联欢 / 会议按时举行", "example_zh": "一切准备工作都已经做好了，会议将按时举行。", "example_py": "Yíqiè zhǔnbèi gōngzuò dōu yǐjīng zuòhǎo le, huìyì jiāng ànshí jǔxíng.", "example_vi": "Mọi công tác chuẩn bị đều đã xong xuôi, hội nghị sẽ được tổ chức đúng hẹn." },
+            { "word": "举办", "pinyin": "jǔbàn", "pos": "动词 (Động từ)", "meaning": "tổ chức, mở (triển lãm, tọa đàm, lớp học)", "difference": "Chủ thể BẮT BUỘC là người hoặc đơn vị do người tạo nên (trường học, công ty, đài truyền hình...), KHÔNG dùng bản thân cuộc họp làm chủ ngữ; đi với 展览会、展销会、讲座、培训班.", "collocations": "举办宴会 / 举办婚礼 / 举办展览会 / 举办展销会 / 举办讲座 / 举办培训班", "example_zh": "学校准备举办一个外国留学生书画展览。", "example_py": "Xuéxiào zhǔnbèi jǔbàn yí ge wàiguó liúxuéshēng shūhuà zhǎnlǎn.", "example_vi": "Nhà trường chuẩn bị tổ chức một cuộc triển lãm thư họa cho lưu học sinh nước ngoài." }
+          ],
+          "context_rule": "Nếu chủ ngữ là bản thân sự kiện ('会议将如期______') hoặc tân ngữ là '会谈 / 球赛 / 联欢' → BẮT BUỘC dùng 举行. Nếu tân ngữ là '展览(会) / 展销会 / 讲座 / 培训班' (do đơn vị đứng ra mở) → BẮT BUỘC dùng 举办.",
+          "memory_tip": "举行 = tiến hành (行) → cuộc họp tự 'tiến hành' được; 举办 = đứng ra mở & điều hành (办) → phải có người/đơn vị làm chủ ngữ (mở lớp, mở triển lãm).",
+          "common_error": "Sai (sách BLCUP): '会议将如期举办' → Đúng: '会议将如期举行'. Sai: '学校准备举行一个书画展览' → Đúng: '学校准备举办一个书画展览'."
+        },
+        {
+          "pair_title": "决定 (juédìng) — 决心 (juéxīn)",
+          "vietnamese_explanation": "Cả hai đều có từ loại động từ và danh từ, nhưng 决定 mang nghĩa 'nhất định làm' (có thể làm vị ngữ độc lập & mang 了/着/过), còn 决心 mang nghĩa ý chí 'quyết tâm, nhất định muốn' (không làm vị ngữ độc lập, không mang 了/着/过).",
+          "comparison_rows": [
+            { "word": "决定", "pinyin": "juédìng", "pos": "动词、名词 (Động từ, Danh từ)", "meaning": "quyết định (chốt hành động / giữ vai trò quyết định / bản quyết định)", "difference": "Có thể đứng một mình làm vị ngữ (赶快决定) và mang trợ từ 了、着、过 (已经决定了); đi với 做决定、领导决定.", "collocations": "做决定 / 决定做 / 领导决定 / 决定去留学 / 决定了 / 没有决定", "example_zh": "去云南旅行的事已经决定了，下星期出发。", "example_py": "Qù Yúnnán lǚxíng de shì yǐjīng juédìng le, xià xīngqī chūfā.", "example_vi": "Chuyện đi du lịch Vân Nam đã quyết định rồi, tuần sau xuất phát." },
+            { "word": "决心", "pinyin": "juéxīn", "pos": "名词、动词 (Danh từ, Động từ)", "meaning": "quyết tâm (ý chí kiên định)", "difference": "Khi làm động từ KHÔNG đứng một mình làm vị ngữ (phải kèm động từ khác như 决心学习) và KHÔNG mang 了、着、过; đi với 下定决心、有决心.", "collocations": "下定决心 / 有决心 / 没有决心 / 决心做 / 决心去留学 / 决心学习", "example_zh": "我已经下定决心，要把汉语学好。", "example_py": "Wǒ yǐjīng xiàdìng juéxīn, yào bǎ Hànyǔ xuéhǎo.", "example_vi": "Tôi đã hạ quyết tâm nhất định phải học tốt tiếng Hán." }
+          ],
+          "context_rule": "Thấy '下定______ / 有______' → BẮT BUỘC dùng 决心. Thấy đứng cuối câu độc lập hoặc có '了' phía sau ('已经______了 / 要赶快______ / 做______ / 上级领导的______') → BẮT BUỘC dùng 决定.",
+          "memory_tip": "决定 có chữ 定 (chốt định) → đứng cuối chốt hạ '决定了' được; 决心 có chữ 心 (tấm lòng/ý chí) → '下定决心 / 有决心'.",
+          "common_error": "Sai (sách BLCUP): '我已经下定决定，要把汉语学好' → Đúng: '我已经下定决心……'. Sai: '去不去留学要赶快决心' → Đúng: '……要赶快决定'."
+        }
+      ],
+      "package_notes": "Với nhóm động từ HSK 4–5, bí quyết chắc thắng là kiểm tra 2 trục: (1) Chủ thể thực hiện là Người hay Sự việc (鼓励 vs 鼓舞, 举办 vs 举行) và (2) Tân ngữ/trợ từ chuẩn phía sau (表示+欢迎, 决定+了, 参加+工作).",
+      "exercises": [
+        {
+          "id": "st1_p3_e1", "type": "synonym_mc", "level": "Nhận biết", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn từ đúng: “我代表学校向新同学______热烈的欢迎。”",
+          "options": ["表示", "表达", "出席", "举行"],
+          "answer": "表示",
+          "explanation": "Cụm kết hợp chuẩn là 表示欢迎 (bày tỏ sự hoan nghênh); 表达 không kết hợp với 欢迎、感谢、同意.",
+          "review_tip": "Ôn cặp 表达—表示."
+        },
+        {
+          "id": "st1_p3_e2", "type": "synonym_mc", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn từ đúng: “一切准备工作都已经做好了，会议将按时______。”",
+          "options": ["举行", "举办", "出席", "决定"],
+          "answer": "举行",
+          "explanation": "Chủ ngữ ở đây là bản thân cuộc họp ('会议'), chỉ 举行 mới dùng hoạt động/hội nghị làm chủ ngữ; 举办 bắt buộc phải có người hoặc đơn vị đứng ra tổ chức làm chủ ngữ.",
+          "review_tip": "Ôn cặp 举行—举办."
+        },
+        {
+          "id": "st1_p3_e3", "type": "synonym_mc", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn từ đúng: “申办奥运成功的消息______着全中国人民。”",
+          "options": ["鼓舞", "鼓励", "表达", "参加"],
+          "answer": "鼓舞",
+          "explanation": "Chủ thể là tin tức/sự việc lớn ('消息') tác động mạnh mẽ lên '全中国人民', kết hợp chuẩn phải là 鼓舞.",
+          "review_tip": "Ôn cặp 鼓励—鼓舞."
+        },
+        {
+          "id": "st1_p3_e4", "type": "error_fix", "level": "Vận dụng", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Câu nào sau đây ĐÚNG hoàn toàn cả về ngữ pháp lẫn kết hợp từ?",
+          "options": [
+            "去云南旅行的事已经决定了，下星期出发。",
+            "去云南旅行的事已经决心了，下星期出发。",
+            "他大学一毕业就出席工作了，非常独立。",
+            "我已经下定决定，今年一定要考过HSK五级。"
+          ],
+          "answer": "去云南旅行的事已经决定了，下星期出发。",
+          "explanation": "决定 có thể đứng làm vị ngữ độc lập và mang trợ từ '了'; 决心 không mang '了' và đi với '下定决心' (không nói 下定决定); 'đi làm' phải là 参加工作 (không nói 出席工作).",
+          "review_tip": "Xem lại các cặp 决定/决心 và 出席/参加."
+        }
+      ]
+    },
+    {
+      "id": "st1_pkg4",
+      "title": "Gói 4: 6 cặp Tính từ & Phó từ sắc thái tinh tế (1700 Cặp cận nghĩa BLCUP)",
+      "intro": "Chinh phục 6 cặp tính từ – phó từ có độ phân hóa chức năng ngữ pháp và sắc thái rất tinh tế (chuẩn sách 1700对近义词语用法对比 – BLCUP): 出色/优秀, 孤独/孤单, 居然/竟然, 剧烈/激烈, 似乎/好像, 随意/随便.",
+      "source_status": "verified_source",
+      "source_ids": ["PDF_1700_SYNONYMS"],
+      "items": [
+        {
+          "pair_title": "出色 (chūsè) — 优秀 (yōuxiù)",
+          "vietnamese_explanation": "Cả hai đều là tính từ khen ngợi 'xuất sắc, rất giỏi', nhưng khác hẳn ở CHỨC NĂNG NGỮ PHÁP: 出色 làm được cả trạng ngữ và bổ ngữ, còn 优秀 chỉ làm vị ngữ và định ngữ.",
+          "comparison_rows": [
+            { "word": "出色", "pinyin": "chūsè", "pos": "形容词 (Tính từ)", "meaning": "xuất sắc, nổi bật, đặc biệt hay", "difference": "Làm được vị ngữ, định ngữ, TRẠNG NGỮ (出色地完成) và BỔ NGỮ (干得很出色); khẩu ngữ thường dùng; khen diễn xuất (表演非常出色).", "collocations": "很出色 / 成绩出色 / 表演非常出色 / 干得很出色 / 出色地完成任务", "example_zh": "去年，他们出色地完成了国家交给的任务。", "example_py": "Qùnián, tāmen chūsè de wánchéng le guójiā jiāogěi de rènwu.", "example_vi": "Năm ngoái, họ đã hoàn thành xuất sắc nhiệm vụ mà nhà nước giao phó." },
+            { "word": "优秀", "pinyin": "yōuxiù", "pos": "形容词 (Tính từ)", "meaning": "ưu tú, xuất sắc (phẩm hạnh, học vấn, thành tích)", "difference": "CHỈ làm vị ngữ và định ngữ, KHÔNG làm trạng ngữ và bổ ngữ; dùng cả văn nói và văn viết; đi với 人才、作品、儿女、品质、学生.", "collocations": "很优秀 / 优秀人才 / 优秀作品 / 优秀儿女 / 优秀品质 / 优秀学生", "example_zh": "她学习认真、乐于助人，今年被评为优秀学生。", "example_py": "Tā xuéxí rènzhēn, lèyú zhùrén, jīnnián bèi píngwéi yōuxiù xuésheng.", "example_vi": "Bạn ấy học hành chăm chỉ, thích giúp đỡ mọi người, năm nay được bình chọn là học sinh ưu tú." }
+          ],
+          "context_rule": "Thấy '______地完成任务' (trạng ngữ) hoặc '干得很______' (bổ ngữ) hoặc '表演非常______' → BẮT BUỘC dùng 出色. Thấy '______学生 / ______品质 / ______人才 / ______作品' → BẮT BUỘC dùng 优秀.",
+          "memory_tip": "出色 = làm hành động 'xuất sắc' (làm trạng ngữ 地 & bổ ngữ 得 được); 优秀 = danh hiệu/phẩm chất 'ưu tú' (chỉ bổ nghĩa cho danh từ).",
+          "common_error": "Sai (sách BLCUP): '他干得很优秀' → Đúng: '他干得很出色'. Sai: '今年被评为出色学生' → Đúng: '今年被评为优秀学生'."
+        },
+        {
+          "pair_title": "孤独 (gūdú) — 孤单 (gūdān)",
+          "vietnamese_explanation": "Cả hai đều diễn tả cảnh một mình cô đơn, nhưng 孤单 chỉ tả NGƯỜI (và còn có nghĩa lực lượng mỏng/ít), còn 孤独 có thể tả cả SỰ VẬT, tính tình hoặc sự tĩnh lặng sâu sắc.",
+          "comparison_rows": [
+            { "word": "孤独", "pinyin": "gūdú", "pos": "形容词 (Tính từ)", "meaning": "cô độc, cô đơn", "difference": "Ngoài tả người, còn tả sự vật (nhà cửa, cây cối: 一座孤独的小庙), tính tình (性情孤独) và đi với 享受孤独; KHÔNG mang nghĩa lực lượng nhỏ.", "collocations": "很孤独 / 孤独的老人 / 享受孤独 / 性情孤独 / 孤独的小庙", "example_zh": "山坡上只有一座孤独的小庙。", "example_py": "Shānpō shang zhǐ yǒu yí zuò gūdú de xiǎo miào.", "example_vi": "Trên sườn núi chỉ có một ngôi miếu nhỏ cô độc." },
+            { "word": "孤单", "pinyin": "gūdān", "pos": "形容词 (Tính từ)", "meaning": "cô đơn, lẻ loi; (lực lượng) mỏng, đơn độc", "difference": "CHỈ dùng cho người (không tả đồ vật); có thêm nghĩa lực lượng ít ỏi/không người hỗ trợ (孤单一人 / 力量孤单).", "collocations": "很孤单 / 太孤单了 / 孤单的老人 / 孤单一人 / 力量孤单", "example_zh": "你孤单一人要完成这项工作是不可能的。", "example_py": "Nǐ gūdān yì rén yào wánchéng zhè xiàng gōngzuò shì bù kěnéng de.", "example_vi": "Một mình bạn đơn độc muốn hoàn thành công việc này là điều không thể." }
+          ],
+          "context_rule": "Thấy '______一人 / 力量______' → BẮT BUỘC dùng 孤单. Thấy tả sự vật ('一座______的小庙'), tính cách ('性情______'), hay '享受______' → BẮT BUỘC dùng 孤独.",
+          "memory_tip": "孤单 có chữ 单 (đơn chiếc) → '孤单一人 / 力量孤单'; 孤独 thiên về cảm giác/cảnh vật cô độc sâu lắng (享受孤独 / 孤独的小庙).",
+          "common_error": "Sai (sách BLCUP): '山坡上只有一座孤单的小庙' → Đúng: '……一座孤独的小庙'. Sai: '你孤独一人要完成这项工作是不可能的' → Đúng: '你孤单一人……'."
+        },
+        {
+          "pair_title": "居然 (jūrán) — 竟然 (jìngrán)",
+          "vietnamese_explanation": "Cả hai đều là phó từ biểu thị sự việc xảy ra ngoài dự liệu ('thế mà lại, không ngờ lại') và đa số trường hợp thay thế được cho nhau, nhưng có 2 điểm ngữ pháp khác biệt rõ rệt trong đề thi.",
+          "comparison_rows": [
+            { "word": "居然", "pinyin": "jūrán", "pos": "副词 (Phó từ)", "meaning": "thế mà lại, không ngờ lại", "difference": "Thiên về văn viết; thỉnh thoảng CÓ THỂ đứng TRƯỚC chủ ngữ (居然你没有听见); KHÔNG thể rút gọn thành một chữ '居'.", "collocations": "居然没来 / 居然睡着了 / 居然当面撒谎 / 居然你没有听见", "example_zh": "昨天晚上打那么大的雷，下那么大的雨，居然你没有听见。", "example_py": "Zuótiān wǎnshang dǎ nàme dà de léi, xià nàme dà de yǔ, jūrán nǐ méiyǒu tīngjiàn.", "example_vi": "Tối qua sấm to mưa lớn như thế, không ngờ bạn lại chẳng nghe thấy." },
+            { "word": "竟然", "pinyin": "jìngrán", "pos": "副词 (Phó từ)", "meaning": "thế mà lại, lại dám (vượt lẽ thường)", "difference": "Dùng cả văn viết và khẩu ngữ; CÓ THỂ rút gọn thành một chữ '竟' (竟得了九十分); KHÔNG đứng trước chủ ngữ.", "collocations": "竟然没来 / 竟然睡着了 / 竟然考了100分 / 竟得了九十分", "example_zh": "他平时不是很努力，这次考试竟得了九十分。", "example_py": "Tā píngshí bú shì hěn nǔlì, zhè cì kǎoshì jìng dé le jiǔshí fēn.", "example_vi": "Ngày thường cậu ấy không chăm lắm, kỳ thi này thế mà lại được chín mươi điểm." }
+          ],
+          "context_rule": "Thấy chỗ trống đứng TRƯỚC chủ ngữ ('……你没有听见') → CHỈ dùng 居然. Thấy dạng rút gọn 1 âm tiết ('这次考试……得了九十分') → CHỈ dùng 竟 (của 竟然). Khi đứng sau chủ ngữ thì cả hai thường thay nhau được.",
+          "memory_tip": "居然 đứng TRƯỚC chủ ngữ được; 竟然 rút gọn thành 竟 được (không có chữ 居 đứng lẻ!).",
+          "common_error": "Sai (sách BLCUP): '这次考试居得了九十分' → Đúng: '这次考试竟得了九十分'. Sai: '竟然你没有听见' → Đúng: '居然你没有听见' hoặc '你竟然没有听见'."
+        },
+        {
+          "pair_title": "剧烈 (jùliè) — 激烈 (jīliè)",
+          "vietnamese_explanation": "Cả hai đều chỉ mức độ rất mạnh/dữ dội, nhưng 剧烈 tả lực vật lý, dược tính, cơn đau, biến động; còn 激烈 tả sự đối kháng, tranh luận, cãi vã, thi đấu căng thẳng.",
+          "comparison_rows": [
+            { "word": "剧烈", "pinyin": "jùliè", "pos": "形容词 (Tính từ)", "meaning": "dữ dội, mãnh liệt (khí thế/lực mạnh)", "difference": "Thường miêu tả dược tính, cơn đau (疼痛), rung chấn (震动), biến động (变动), vận động mạnh (运动); KHÔNG đi với 冲突、争吵、比赛、对抗.", "collocations": "剧烈的运动 / 剧烈的疼痛 / 剧烈变动 / 剧烈的震动", "example_zh": "睡梦中，我被伤口一阵剧烈的疼痛弄醒了。", "example_py": "Shuìmèng zhōng, wǒ bèi shāngkǒu yí zhèn jùliè de téngtòng nòngxǐng le.", "example_vi": "Trong giấc ngủ, tôi bị một cơn đau dữ dội từ vết thương làm tỉnh giấc." },
+            { "word": "激烈", "pinyin": "jīliè", "pos": "形容词 (Tính từ)", "meaning": "gay gắt, quyết liệt, sôi nổi căng thẳng", "difference": "Miêu tả hành động/ngôn luận/tình thế đối đầu gay gắt như tranh luận, cãi vã, xung đột, thi đấu, và cả vận động mạnh; KHÔNG đi với 疼痛、变动.", "collocations": "激烈的运动 / 激烈的冲突 / 比赛激烈 / 激烈的争吵 / 激烈的对抗", "example_zh": "辩论会上大家争论得很激烈。", "example_py": "Biànlùnhuì shang dàjiā zhēnglùn de hěn jīliè.", "example_vi": "Tại buổi tranh biện mọi người tranh luận rất gay gắt." }
+          ],
+          "context_rule": "Thấy '疼痛 / 震动 / 变动 / 药性' → BẮT BUỘC dùng 剧烈. Thấy '争论 / 争吵 / 冲突 / 对抗 / 比赛 / 竞争' → BẮT BUỘC dùng 激烈. Riêng '运动' (vận động) dùng được cả hai.",
+          "memory_tip": "剧烈 = lực mạnh/đau nhói (cơ thể, động đất, biến động); 激烈 = kích động đối đầu giữa hai phía (tranh cãi, thi đấu, xung đột).",
+          "common_error": "Sai (sách BLCUP): '这场球踢得非常剧烈' → Đúng: '这场球踢得非常激烈'. Sai: '大楼发生了激烈的震动' → Đúng: '大楼发生了剧烈的震动'."
+        },
+        {
+          "pair_title": "似乎 (sìhū) — 好像 (hǎoxiàng)",
+          "vietnamese_explanation": "Cả hai đều dịch là 'hình như, dường như', nhưng khác hẳn về TỪ LOẠI: 似乎 là phó từ (chỉ đứng trước động từ/tính từ), còn 好像 là động từ nên mang trực tiếp tân ngữ danh từ và cấu trúc so sánh '…一样'.",
+          "comparison_rows": [
+            { "word": "似乎", "pinyin": "sìhū", "pos": "副词 (Phó từ)", "meaning": "dường như, tựa hồ", "difference": "Là phó từ đứng trước động từ làm trạng ngữ; KHÔNG mang tân ngữ danh từ trực tiếp và KHÔNG dùng trong kiểu so sánh '……妈妈一样 / ……油画一样'.", "collocations": "似乎见过 / 似乎听说过 / 似乎认识 / 似乎听懂了", "example_zh": "这件事我似乎听谁说过。", "example_py": "Zhè jiàn shì wǒ sìhū tīng shéi shuōguo.", "example_vi": "Chuyện này dường như tôi đã nghe ai đó nói qua rồi." },
+            { "word": "好像", "pinyin": "hǎoxiàng", "pos": "动词 (Động từ)", "meaning": "hình như; giống như", "difference": "Là động từ, vừa đứng trước cụm động từ (好像见过/好像不在家) vừa mang trực tiếp danh từ và đi với '……一样' để ví von.", "collocations": "好像见过 / 好像不在家 / 好像真的 / 好像妈妈一样 / 好像亲姐妹 / 好像老朋友", "example_zh": "这张照片好像油画一样。", "example_py": "Zhè zhāng zhàopiàn hǎoxiàng yóuhuà yíyàng.", "example_vi": "Tấm ảnh này giống hệt như một bức tranh sơn dầu vậy." }
+          ],
+          "context_rule": "Thấy phía sau là danh từ trực tiếp hoặc cấu trúc ví von '______ + N + 一样' (……油画一样 / ……老朋友一样) → BẮT BUỘC dùng 好像. Trước động từ như '见过 / 听说过 / 认识 / 听懂了' → dùng được cả 似乎 và 好像.",
+          "memory_tip": "好像 có chữ 像 (giống) → so sánh '好像……一样' được; 似乎 là phó từ → chỉ đi trước động từ, không so sánh với danh từ.",
+          "common_error": "Sai (sách BLCUP): '李老师待我们似乎妈妈一样' → Đúng: '李老师待我们好像妈妈一样'. Sai: '这张照片似乎油画一样' → Đúng: '这张照片好像油画一样'."
+        },
+        {
+          "pair_title": "随意 (suíyì) — 随便 (suíbiàn)",
+          "vietnamese_explanation": "Cả hai đều làm trạng ngữ nghĩa 'tùy ý, thoải mái', nhưng 随便 có phạm vi rộng hơn nhiều (láy được thành 随随便便, mang nghĩa 'bất kể/无论', và có sắc thái 'qua loa tùy tiện'), còn 随意 trang nhã hơn (请各位随意).",
+          "comparison_rows": [
+            { "word": "随意", "pinyin": "suíyì", "pos": "形容词 (Tính từ)", "meaning": "tùy ý, tự nhiên (theo ý mình)", "difference": "Dùng lịch sự mời khách '请各位随意'; KHÔNG thể láy thành '随随意意'; KHÔNG có nghĩa '无论' (bất kể) và KHÔNG nói '随你的意'.", "collocations": "很随意 / 不随意 / 随意出入 / 随意点菜 / 请各位随意", "example_zh": "这里有酒，有菜，请各位随意。", "example_py": "Zhèlǐ yǒu jiǔ, yǒu cài, qǐng gèwèi suíyì.", "example_vi": "Ở đây có rượu có đồ ăn, xin mời mọi người cứ tự nhiên." },
+            { "word": "随便", "pinyin": "suíbiàn", "pos": "形容词 (Tính từ)", "meaning": "tùy tiện, tự do, thoải mái; bất kể (= 无论)", "difference": "Có nghĩa 'làm sao cho tiện, không cân nhắc kỹ'; CÓ THỂ láy '随随便便'; mang nghĩa '无论' (随便你什么时候来都可以); có cụm '随你的便'.", "collocations": "很随便 / 随便出入 / 随便点菜 / 随便聊聊 / 随便什么 / 随便抽查 / 随随便便 / 随你的便", "example_zh": "随便你什么时候来都可以。", "example_py": "Suíbiàn nǐ shénme shíhou lái dōu kěyǐ.", "example_vi": "Bất kể lúc nào bạn đến cũng đều được cả." }
+          ],
+          "context_rule": "Thấy mời khách lịch sự '请各位______' → CHỈ dùng 随意. Thấy dạng láy AABB ('随随便便'), '随你的便', '______聊聊 / ______什么 / ______抽查', hay cấu trúc '______……都可以' (= 无论) → CHỈ dùng 随便.",
+          "memory_tip": "随便 đa năng: láy được (随随便便) + thay được 无论; 随意 lịch sự gọn gàng: '请各位随意'.",
+          "common_error": "Sai (sách BLCUP): '这里有酒，有菜，请各位随便' → Đúng: '……请各位随意'. Sai: '随意你什么时候来都可以' → Đúng: '随便你什么时候来都可以'."
+        }
+      ],
+      "package_notes": "Nhóm tính từ & phó từ nâng cao hay gài bẫy ở 3 điểm: (1) Có làm trạng ngữ/bổ ngữ không (出色 vs 优秀), (2) Có láy/rút gọn/đứng trước chủ ngữ không (随便, 竟, 居然), và (3) Đối tượng đi kèm là người hay vật, vật lý hay đối kháng (孤独/孤单, 剧烈/激烈, 似乎/好像).",
+      "exercises": [
+        {
+          "id": "st1_p4_e1", "type": "synonym_mc", "level": "Nhận biết", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn từ đúng: “睡梦中，我被伤口一阵______的疼痛弄醒了。”",
+          "options": ["剧烈", "激烈", "出色", "孤独"],
+          "answer": "剧烈",
+          "explanation": "疼痛 (cơn đau) và 震动 (rung chấn) kết hợp chuẩn với 剧烈; 激烈 chỉ dùng cho tranh luận, xung đột, thi đấu.",
+          "review_tip": "Ôn cặp 剧烈—激烈."
+        },
+        {
+          "id": "st1_p4_e2", "type": "synonym_mc", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn từ đúng: “去年，他们______地完成了国家交给的任务。”",
+          "options": ["出色", "优秀", "随意", "孤单"],
+          "answer": "出色",
+          "explanation": "Chỗ trống làm trạng ngữ trước '地完成了任务', chỉ 出色 mới làm trạng ngữ và bổ ngữ được; 优秀 không làm trạng ngữ.",
+          "review_tip": "Ôn cặp 出色—优秀."
+        },
+        {
+          "id": "st1_p4_e3", "type": "synonym_mc", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn từ đúng: “他们一见面就聊得很开心，______老朋友一样。”",
+          "options": ["好像", "似乎", "居然", "竟然"],
+          "answer": "好像",
+          "explanation": "Phía sau là danh từ và cấu trúc so sánh '老朋友一样', chỉ động từ 好像 mới dùng được; phó từ 似乎 không đi với '…一样'.",
+          "review_tip": "Ôn cặp 似乎—好像."
+        },
+        {
+          "id": "st1_p4_e4", "type": "error_fix", "level": "Vận dụng", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Câu nào sau đây ĐÚNG hoàn toàn theo chuẩn sách BLCUP?",
+          "options": [
+            "他平时不是很努力，这次考试竟得了九十分。",
+            "山坡上只有一座孤单的小庙，看起来很安静。",
+            "你怎么能这么随随意意的，想来就来，想走就走。",
+            "昨天晚上打那么大的雷，竟然你没有听见。"
+          ],
+          "answer": "他平时不是很努力，这次考试竟得了九十分。",
+          "explanation": "竟然 có thể rút gọn thành 竟 là chuẩn xác; '一座小庙' (sự vật) phải dùng 孤独 (không dùng 孤单); 随意 không láy được (phải dùng 随随便便); 竟然 không đứng trước chủ ngữ 你 (phải dùng 居然你没有听见 hoặc 你竟然没有听见).",
+          "review_tip": "Xem lại các cặp 居然/竟然, 孤独/孤单 và 随意/随便."
+        }
+      ]
+    },
+    {
+      "id": "st1_pkg5",
+      "title": "Gói 5: 6 cặp Hư từ & Thời gian – Mức độ hay thi nhất (1700 Cặp cận nghĩa BLCUP)",
+      "intro": "Tập trung vào 6 cặp hư từ, danh từ thời gian và phó từ tần suất – mức độ xuất hiện cực dày trong đề HSK 4–5 và thi Chuyên Trung (theo sách 1700对近义词语用法对比 – BLCUP): 重新/再, 后来/以后, 偶尔/偶然, 恐怕/可能, 时常/经常, 时候/时间.",
+      "source_status": "verified_source",
+      "source_ids": ["PDF_1700_SYNONYMS"],
+      "items": [
+        {
+          "pair_title": "重新 (chóngxīn) — 再 (zài)",
+          "vietnamese_explanation": "Cả hai đều là phó từ mang ý 'lại một lần nữa', nhưng 重新 nhấn mạnh làm lại từ đầu (thường vì lần trước chưa tốt, dùng được cho cả việc đã xảy ra lẫn chưa xảy ra), còn 再 CHỈ dùng cho việc chưa xảy ra và có nhiều cách dùng mở rộng về mức độ, điều kiện và trình tự.",
+          "comparison_rows": [
+            { "word": "重新", "pinyin": "chóngxīn", "pos": "副词 (Phó từ)", "meaning": "làm lại từ đầu, lần nữa", "difference": "Chỉ được cả động tác ĐÃ xảy ra lẫn CHƯA xảy ra; thường hàm ý lần trước làm chưa tốt/có sai sót; KHÔNG đứng trước tính từ tăng mức độ, KHÔNG dùng trong câu điều kiện '……不就……', KHÔNG dùng cho trình tự '想好……写'.", "collocations": "重新学习 / 重新读一遍 / 重新来一次 / 重新写 / 重新做人", "example_zh": "这篇作文老师说我写得不好，得重新写。", "example_py": "Zhè piān zuòwén lǎoshī shuō wǒ xiě de bù hǎo, děi chóngxīn xiě.", "example_vi": "Bài văn này thầy giáo bảo tôi viết chưa tốt, phải viết lại từ đầu." },
+            { "word": "再", "pinyin": "zài", "pos": "副词 (Phó từ)", "meaning": "lại, thêm nữa, rồi mới", "difference": "CHỈ chỉ hành động CHƯA xảy ra; dùng được trước tính từ để tăng mức độ (再高一点儿), trong câu giả thiết (再不快点儿就…), chỉ trình tự nối tiếp (想好再写), chỉ lần thứ hai (再婚) và lời chào (再见).", "collocations": "再学习 / 再见 / 再读一遍 / 再来一次 / 再高一点儿 / 想好再写 / 再不…… / 再婚", "example_zh": "快点儿吧，再不快点儿就赶不上车了。", "example_py": "Kuài diǎnr ba, zài bú kuài diǎnr jiù gǎnbushàng chē le.", "example_vi": "Nhanh lên nào, không nhanh lên nữa là không kịp xe mất." }
+          ],
+          "context_rule": "Thấy tăng mức độ trước tính từ ('声音______大一点儿 / 颜色______深一点儿'), câu điều kiện ('______不走就要迟到了'), trình tự ('想好______写') hay '______见 / ______婚 / ______等一会儿' → CHỈ dùng 再. Thấy '______做人' hoặc hành động làm lại từ đầu đã xảy ra → dùng 重新.",
+          "memory_tip": "重新 = làm mới lại từ đầu (新); 再 = thêm nữa/lại nữa ở tương lai (đi với tính từ '再大一点儿' và giả thiết '再不……就……').",
+          "common_error": "Sai (sách BLCUP): '这件大衣的颜色重新深一点儿就好了' → Đúng: '……再深一点儿就好了'. Sai: '快点儿吧，重新不快点儿就赶不上车了' → Đúng: '……再不快点儿就赶不上车了'."
+        },
+        {
+          "pair_title": "后来 (hòulái) — 以后 (yǐhòu)",
+          "vietnamese_explanation": "Cả hai đều là danh từ thời gian nghĩa 'sau đó, về sau' và thay thế được cho nhau khi đứng độc lập kể chuyện quá khứ, nhưng khác hẳn về VỊ TRÍ ĐỨNG SAU CỤM TỪ và PHẠM VI THỜI GIAN (quá khứ vs tương lai).",
+          "comparison_rows": [
+            { "word": "后来", "pinyin": "hòulái", "pos": "名词 (Danh từ thời gian)", "meaning": "sau đó, về sau (trong quá khứ)", "difference": "CHỈ dùng độc lập một mình, KHÔNG đứng sau danh từ, động từ hay mệnh đề thời gian; CHỈ chỉ thời gian trong QUÁ KHỨ, không chỉ tương lai; có cụm riêng '后来者'.", "collocations": "后来的事情 / 后来的情况 / 后来他出国了 / 后来者", "example_zh": "我和男朋友在大学是同班同学，后来他出国了。", "example_py": "Wǒ hé nánpéngyou zài dàxué shì tóngbān tóngxué, hòulái tā chūguó le.", "example_vi": "Tôi và bạn trai hồi đại học là bạn cùng lớp, sau đó anh ấy đi nước ngoài." },
+            { "word": "以后", "pinyin": "yǐhòu", "pos": "名词 (Danh từ thời gian)", "meaning": "sau khi, sau này", "difference": "Vừa dùng độc lập được, vừa đứng sau danh từ, động từ hoặc mệnh đề chỉ mốc cụ thể (毕业以后、来中国以后); chỉ được CẢ QUÁ KHỨ LẪN TƯƠNG LAI.", "collocations": "以后的事情 / 以后的情况 / 毕业以后 / 开学以后 / 暑假以后 / 从今以后 / 一年以后", "example_zh": "来中国以后，我遇到了很多有意思的人和事。", "example_py": "Lái Zhōngguó yǐhòu, wǒ yùdào le hěn duō yǒuyìsi de rén hé shì.", "example_vi": "Sau khi đến Trung Quốc, tôi đã gặp rất nhiều con người và chuyện thú vị." }
+          ],
+          "context_rule": "Thấy đứng sau mốc thời gian/động từ ('毕业______ / 开学______ / 一年______ / 从今______ / 离开家______') hoặc nói về TƯƠNG LAI ('______干什么还不知道') → BẮT BUỘC dùng 以后. Đứng độc lập kể diễn biến tiếp theo trong quá khứ thì dùng 后来 hoặc 以后 đều được.",
+          "memory_tip": "后来 = đứng một mình & chỉ quay về QUÁ KHỨ; 以后 = gắn đuôi sau mọi mốc ('X + 以后') & chỉ cả TƯƠNG LAI.",
+          "common_error": "Sai (sách BLCUP): '离开家后来才知道还是家里好' → Đúng: '离开家以后才知道还是家里好'. Sai: '我现在学习汉语，后来干什么还不知道' → Đúng: '……以后干什么还不知道'."
+        },
+        {
+          "pair_title": "偶尔 (ǒu'ěr) — 偶然 (ǒurán)",
+          "vietnamese_explanation": "Cả hai đều có thể làm trạng ngữ nghĩa 'thỉnh thoảng, tình cờ', nhưng cặp đối lập ngữ nghĩa và CHỨC NĂNG NGỮ PHÁP khác hẳn nhau: 偶尔 đối lập với 经常 (tần suất), còn 偶然 đối lập với 必然 (tính tất yếu).",
+          "comparison_rows": [
+            { "word": "偶尔", "pinyin": "ǒu'ěr", "pos": "副词、形容词 (chủ yếu Phó từ)", "meaning": "thỉnh thoảng, đôi khi (ít khi)", "difference": "Đối lập với '经常'; chủ yếu làm TRẠNG NGỮ (偶尔去一次、偶尔看看电视); cực ít làm định ngữ, KHÔNG nhận phó từ mức độ (*很偶尔) và KHÔNG làm bổ ngữ.", "collocations": "偶尔去一次 / 偶尔的事 / 偶尔也看看电视", "example_zh": "晚上我总是看书学习，偶尔也看看电视。", "example_py": "Wǎnshang wǒ zǒngshì kànshū xuéxí, ǒu'ěr yě kànkan diànshì.", "example_vi": "Buổi tối tôi luôn đọc sách học bài, thỉnh thoảng cũng xem tivi." },
+            { "word": "偶然", "pinyin": "ǒurán", "pos": "形容词、副词 (chủ yếu Tính từ)", "meaning": "ngẫu nhiên, tình cờ (ngoài dự liệu)", "difference": "Đối lập với '必然'; làm được cả trạng ngữ, ĐỊNH NGỮ (偶然事件、偶然因素), BỔ NGỮ (发生得非常偶然), nhận phó từ mức độ (很偶然) và ghép '偶然性'.", "collocations": "偶然的事 / 偶然去一次 / 偶然事件 / 偶然因素 / 偶然性 / 很偶然 / 发生得非常偶然", "example_zh": "一次很偶然的机会，我们两个认识了。", "example_py": "Yí cì hěn ǒurán de jīhuì, wǒmen liǎng ge rènshi le.", "example_vi": "Trong một cơ hội rất tình cờ, hai chúng tôi đã quen biết nhau." }
+          ],
+          "context_rule": "Thấy '很 / 非常 + ______', làm bổ ngữ ('发生得非常______'), hoặc làm định ngữ trước '事件 / 因素 / 机会 / 性' → BẮT BUỘC dùng 偶然. Khi làm trạng ngữ chỉ tần suất ít ('总是……，______也……') → ưu tiên dùng 偶尔.",
+          "memory_tip": "偶尔 đi cặp với 经常 (thỉnh thoảng ↔ thường xuyên); 偶然 đi cặp với 必然 (ngẫu nhiên ↔ tất nhiên) và đi với '很偶然 / 偶然事件'.",
+          "common_error": "Sai (sách BLCUP): '这是一次偶尔事件' → Đúng: '这是一次偶然事件'. Sai: '一次很偶尔的机会，我们两个认识了' → Đúng: '一次很偶然的机会……'."
+        },
+        {
+          "pair_title": "恐怕 (kǒngpà) — 可能 (kěnéng)",
+          "vietnamese_explanation": "Cả hai đều có thể biểu thị sự phỏng đoán ('có lẽ, e rằng'), nhưng 恐怕 mang sắc thái lo lắng về điều TIÊU CỰC và chỉ là phó từ, còn 可能 trung tính (tốt hay xấu đều được), nhận phó từ mức độ và có cả chức năng danh từ.",
+          "comparison_rows": [
+            { "word": "恐怕", "pinyin": "kǒngpà", "pos": "副词 (Phó từ)", "meaning": "e rằng, sợ rằng (phỏng đoán kèm lo lắng)", "difference": "Phỏng đoán điều TIÊU CỰC, không mong muốn (恐怕病了、恐怕迟到、恐怕不及格); KHÔNG nhận '很/非常'; KHÔNG làm danh từ (*没有这个恐怕); diễn đạt được tâm lý lo ngại chủ quan (我恐怕生病).", "collocations": "恐怕来不了 / 恐怕生病了 / 恐怕不及格 / 恐怕迟到", "example_zh": "她恐怕迟到，所以坐出租车来了。", "example_py": "Tā kǒngpà chídào, suǒyǐ zuò chūzūchē lái le.", "example_vi": "Cô ấy sợ bị đến muộn nên đã đi taxi tới." },
+            { "word": "可能", "pinyin": "kěnéng", "pos": "助动词、名词 (Trợ động từ, Danh từ)", "meaning": "có thể, có lẽ; khả năng", "difference": "Phỏng đoán cả điều tốt lẫn điều xấu (可能他会同意、可能买得到); nhận được phó từ mức độ (很可能、非常可能); có chức năng DANH TỪ (有可能、没有这个可能、可能性).", "collocations": "可能来不了 / 可能生病了 / 可能不及格 / 有可能 / 没有可能 / 很可能 / 可能能来 / 可能买得到 / 可能性", "example_zh": "你跟老师说说，可能他会同意。", "example_py": "Nǐ gēn lǎoshī shuōshuo, kěnéng tā huì tóngyì.", "example_vi": "Bạn nói với thầy giáo thử xem, có lẽ thầy sẽ đồng ý đấy." }
+          ],
+          "context_rule": "Thấy '很 / 非常 + ______', '有 / 没有(这个)______', '______性' hoặc phỏng đoán điều tích cực ('______他会同意 / ______买得到') → BẮT BUỘC dùng 可能. Thấy diễn tả nỗi lo ngại chủ quan ('我______生病，影响学习 / 她______迟到，所以……') → dùng 恐怕.",
+          "memory_tip": "恐怕 có chữ 怕 (sợ) → đoán chuyện xấu & lo ngại, không ghép '很恐怕 / 有恐怕'; 可能 = khả năng → đi được '很可能 / 有可能 / 可能性'.",
+          "common_error": "Sai (sách BLCUP): '他很恐怕已经回国了' → Đúng: '他很可能已经回国了'. Sai: '我觉得没有这个恐怕' → Đúng: '我觉得没有这个可能'."
+        },
+        {
+          "pair_title": "时常 (shícháng) — 经常 (jīngcháng)",
+          "vietnamese_explanation": "Khi làm trạng ngữ khẳng định đứng trước động từ, nghĩa của hai từ giống nhau ('thường xuyên, hay'), nhưng 经常 dùng phổ biến hơn và có thêm từ loại TÍNH TỪ, còn 时常 chỉ là phó từ thuần túy.",
+          "comparison_rows": [
+            { "word": "时常", "pinyin": "shícháng", "pos": "副词 (Phó từ)", "meaning": "thường, hay", "difference": "Tần suất sử dụng thấp hơn 经常; chỉ là phó từ làm trạng ngữ, nói chung KHÔNG nhận phó từ khác bổ nghĩa (*不时常、*很时常) và KHÔNG làm định ngữ (*时常性).", "collocations": "时常去 / 时常看看 / 时常迟到 / 时常不上课 / 时常逛书店 / 时常保持联系", "example_zh": "这是我的名片，希望我们时常保持联系。", "example_py": "Zhè shì wǒ de míngpiàn, xīwàng wǒmen shícháng bǎochí liánxì.", "example_vi": "Đây là danh thiếp của tôi, hy vọng chúng ta thường xuyên giữ liên lạc." },
+            { "word": "经常", "pinyin": "jīngcháng", "pos": "副词、形容词 (Phó từ, Tính từ)", "meaning": "thường xuyên, hằng ngày", "difference": "Dùng rất phổ biến; vừa là phó từ vừa là TÍNH TỪ nên chịu sự bổ nghĩa của phó từ khác (不经常、很经常) và làm định ngữ (经常性的工作).", "collocations": "经常去 / 经常看看 / 经常迟到 / 经常不上课 / 经常逛书店 / 经常联系 / 经常复习 / 不经常 / 很经常 / 经常性", "example_zh": "我跟她不经常来往，只是偶尔打个电话。", "example_py": "Wǒ gēn tā bù jīngcháng láiwǎng, zhǐshì ǒu'ěr dǎ ge diànhuà.", "example_vi": "Tôi và cô ấy không thường xuyên qua lại, chỉ thỉnh thoảng gọi điện thoại." }
+          ],
+          "context_rule": "Thấy phía trước có '不 / 很' ('不______来往 / 很______') hoặc làm định ngữ ('______性的工作') → BẮT BUỘC dùng 经常. Khi làm trạng ngữ khẳng định trước động từ (……保持联系 / ……去逛书店) thì cả hai đều đúng.",
+          "memory_tip": "经常 kiêm TÍNH TỪ → đi được với '不经常 / 很经常 / 经常性'; 时常 chỉ làm PHÓ TỪ → đứng thẳng trước động từ, không kẹp sau 不/很.",
+          "common_error": "Sai (sách BLCUP): '我跟她不时常来往' → Đúng: '我跟她不经常来往'. Sai: '这是时常性的工作' → Đúng: '这是经常性的工作'."
+        },
+        {
+          "pair_title": "时候 (shíhou) — 时间 (shíjiān)",
+          "vietnamese_explanation": "Cả hai đều liên quan đến thời gian (đều nói được '什么时候/时间了？'), nhưng 时候 chuyên chỉ THỜI ĐIỂM/LÚC NÀO ĐÓ (một mốc hoặc quãng mơ hồ), còn 时间 chỉ ĐỘ DÀI THỜI GIAN cụ thể, nhận số lượng từ và làm tân ngữ được.",
+          "comparison_rows": [
+            { "word": "时候", "pinyin": "shíhou", "pos": "名词 (Danh từ)", "meaning": "lúc, khi, thời điểm", "difference": "Thường chỉ một điểm thời gian hoặc quãng thời gian mơ hồ (小时候、上大学的时候); KHÔNG đi với số lượng từ/tính từ độ dài (*一年时候、*多长时候、*很长时候) và KHÔNG làm tân ngữ sau động từ kiểu '有时间'.", "collocations": "什么时候 / 什么时候了 / 多少时候 / 过去的时候 / 小时候 / 上大学的时候 / 刚到中国的时候", "example_zh": "他们俩是上大学的时候认识的。", "example_py": "Tāmen liǎ shì shàng dàxué de shíhou rènshi de.", "example_vi": "Hai người họ quen biết nhau lúc học đại học." },
+            { "word": "时间", "pinyin": "shíjiān", "pos": "名词 (Danh từ)", "meaning": "thời gian (độ dài, khái niệm, thời điểm)", "difference": "Chỉ cả thời điểm lẫn quãng thời gian có độ dài cụ thể; CÓ THỂ đi với số lượng từ và từ độ dài (一年时间、多长时间、很长时间、一时间), và làm TÂN NGỮ (有时间); KHÔNG dùng trong '……的时候 / 小时候'.", "collocations": "什么时间 / 多长时间 / 多少时间 / 很长时间 / 一年时间 / 有时间 / 一时间 / 长时间的努力", "example_zh": "有时间来我家玩吧，我们一起聊聊天。", "example_py": "Yǒu shíjiān lái wǒ jiā wán ba, wǒmen yìqǐ liáoliao tiān.", "example_vi": "Có thời gian thì đến nhà mình chơi nhé, chúng ta cùng trò chuyện." }
+          ],
+          "context_rule": "Thấy '小______ / 上大学的______ / 刚到中国的______' (lúc…) → BẮT BUỘC dùng 时候. Thấy '多长______ / 很长______ / 一年______ / 有______ / 一______' (độ dài, số lượng, tân ngữ của 有) → BẮT BUỘC dùng 时间.",
+          "memory_tip": "时候 = 'lúc, khi' (小时候、……的时候); 时间 = 'quãng thời gian đo đếm được' (多长时间、一年时间、有时间).",
+          "common_error": "Sai (sách BLCUP): '他们俩是上大学的时间认识的' → Đúng: '……上大学的时候认识的'. Sai: '要掌握一门技能必须经过长时候的努力' → Đúng: '……经过长时间的努力'."
+        }
+      ],
+      "package_notes": "Với 6 cặp hư từ & thời gian ở Gói 5, hãy khóa chặt 3 dấu hiệu ngữ pháp: (1) Thời gian quá khứ hay tương lai / có gắn sau mốc không (后来 vs 以后, 重新 vs 再); (2) Có đi với phó từ mức độ 很/不 hay không (偶然, 可能, 经常 đi được; 偶尔, 恐怕, 时常 không); (3) Chỉ 'lúc' hay chỉ 'độ dài đo đếm được' (时候 vs 时间).",
+      "exercises": [
+        {
+          "id": "st1_p5_e1", "type": "synonym_mc", "level": "Nhận biết", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn từ đúng: “来中国______，我遇到了很多有意思的人和事。”",
+          "options": ["以后", "后来", "时候", "时间"],
+          "answer": "以后",
+          "explanation": "Phía trước là cụm động từ chỉ mốc thời gian '来中国', chỉ 以后 mới đứng sau danh từ/động từ/mệnh đề được; 后来 chỉ đứng độc lập một mình.",
+          "review_tip": "Ôn cặp 后来—以后."
+        },
+        {
+          "id": "st1_p5_e2", "type": "synonym_mc", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn từ đúng: “一次很______的机会，我们两个在上海认识了。”",
+          "options": ["偶然", "偶尔", "时常", "经常"],
+          "answer": "偶然",
+          "explanation": "Chỗ trống đứng sau phó từ mức độ '很' và làm định ngữ cho '机会' (cơ hội tình cờ), chỉ tính từ 偶然 mới dùng được; 偶尔 không nhận '很' và không làm định ngữ ở đây.",
+          "review_tip": "Ôn cặp 偶尔—偶然."
+        },
+        {
+          "id": "st1_p5_e3", "type": "synonym_mc", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn từ đúng: “你跟老师好好说说，他很______会同意你的想法。”",
+          "options": ["可能", "恐怕", "重新", "后来"],
+          "answer": "可能",
+          "explanation": "Phía trước có phó từ mức độ '很' và nội dung phỏng đoán mang sắc thái tích cực ('thầy sẽ đồng ý'), bắt buộc dùng 可能; 恐怕 không đi với '很' và chỉ phỏng đoán điều tiêu cực.",
+          "review_tip": "Ôn cặp 恐怕—可能."
+        },
+        {
+          "id": "st1_p5_e4", "type": "error_fix", "level": "Vận dụng", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Câu nào sau đây ĐÚNG hoàn toàn theo chuẩn sách BLCUP?",
+          "options": [
+            "快点儿吧，再不出发就赶不上火车了。",
+            "我跟她不时常来往，一年只见一两次。",
+            "要学好汉语必须经过长时候的努力。",
+            "这件大衣的颜色重新深一点儿就好了。"
+          ],
+          "answer": "快点儿吧，再不出发就赶不上火车了。",
+          "explanation": "再 dùng chuẩn trong câu giả thiết '再不……就……'. Ba câu sai lần lượt: 时常 không nhận 不 (phải là 不经常); độ dài thời gian phải là 长时间 (không nói 长时候); tăng mức độ trước tính từ phải dùng 再深一点儿 (không dùng 重新).",
+          "review_tip": "Xem lại các cặp 重新/再, 时常/经常 và 时候/时间."
+        }
+      ]
+    },
+    {
+      "id": "st1_pkg6",
+      "title": "Gói 6: 6 cặp Động từ & Trạng thái tinh tế HSK 4–5 (1700 Cặp cận nghĩa BLCUP)",
+      "intro": "Phân biệt sâu 6 cặp động từ và trợ động từ dễ nhầm nhất ở trình độ HSK 4–5 (chuẩn sách 1700对近义词语用法对比 – BLCUP): 重复/反复, 忽略/忽视, 善于/擅长, 生长/成长, 失去/丢失, 乐意/愿意.",
+      "source_status": "verified_source",
+      "source_ids": ["PDF_1700_SYNONYMS"],
+      "items": [
+        {
+          "pair_title": "重复 (chóngfù) — 反复 (fǎnfù)",
+          "vietnamese_explanation": "Cả hai đều mang nét nghĩa 'lặp lại', nhưng 重复 CHỈ là động từ (trùng lặp nội dung, lặp lại nguyên văn), còn 反复 chủ yếu là PHÓ TỪ làm trạng ngữ ('nhiều lần, đi lại'), kiêm danh từ (bệnh tái phát) và láy được thành 反反复复.",
+          "comparison_rows": [
+            { "word": "重复", "pinyin": "chóngfù", "pos": "动词 (Động từ)", "meaning": "lặp lại, trùng lặp", "difference": "CHỈ là động từ: làm vị ngữ (内容重复), mang tân ngữ (重复别人的句子) và dùng trong câu cầu khiến (再重复一遍); KHÔNG làm trạng ngữ trước động từ tư duy/luyện tập (*重复朗读、*重复思考) và KHÔNG láy được.", "collocations": "内容重复 / 再重复一遍 / 重复使用 / 重复多次 / 重复别人的", "example_zh": "这一段的内容和前边有点儿重复，可以删掉。", "example_py": "Zhè yí duàn de nèiróng hé qiánbian yǒudiǎnr chóngfù, kěyǐ shāndiào.", "example_vi": "Nội dung của đoạn này hơi trùng lặp với đoạn trước, có thể xóa bỏ." },
+            { "word": "反复", "pinyin": "fǎnfù", "pos": "副词、名词、动词 (Phó từ, Danh từ, Động từ)", "meaning": "lặp đi lặp lại nhiều lần; tái phát; thay đổi thất thường", "difference": "Là PHÓ TỪ làm trạng ngữ trước động từ (反复朗读、反复思考、反复比较); là DANH TỪ chỉ tình trạng tái phát (病情有反复); láy AABB được (反反复复); KHÔNG dùng cho câu cầu khiến nhắc lại nguyên văn (*再反复一遍).", "collocations": "反复思考 / 反复考虑 / 反复练习 / 反复朗读 / 反复比较 / 反复使用 / 又有反复 / 反反复复", "example_zh": "课文要反复朗读，才能不断提高口语水平。", "example_py": "Kèwén yào fǎnfù lǎngdú, cái néng búduàn tígāo kǒuyǔ shuǐpíng.", "example_vi": "Bài khóa phải đọc to lặp đi lặp lại nhiều lần mới có thể không ngừng nâng cao trình độ khẩu ngữ." }
+          ],
+          "context_rule": "Thấy đứng trước động từ tư duy/luyện tập ('______思考 / ______考虑 / ______朗读 / ______练习 / ______比较'), dạng láy '反反复复' hay '病又有______' → BẮT BUỘC dùng 反复. Thấy '内容______ / 再______一遍 / 不能______别人的' → BẮT BUỘC dùng 重复.",
+          "memory_tip": "重复 = ĐỘNG từ 'trùng lặp' (内容重复、再重复一遍); 反复 = PHÓ từ 'nhiều lần' (反复练习、反复考虑) + láy '反反复复'.",
+          "common_error": "Sai (sách BLCUP): '课文要重复朗读' → Đúng: '课文要反复朗读'. Sai: '他的病最近又有重复' → Đúng: '他的病最近又有反复'. Sai: '不能反复别人的句子' → Đúng: '不能重复别人的句子'."
+        },
+        {
+          "pair_title": "忽略 (hūlüè) — 忽视 (hūshì)",
+          "vietnamese_explanation": "Cả hai đều có nghĩa 'không chú ý đến', nhưng 忽视 nhấn mạnh THÁI ĐỘ coi nhẹ chuyện quan trọng (không coi trọng), còn 忽略 nhấn mạnh SƠ Ý bỏ sót hoặc chủ động BỎ QUA không tính đến chi tiết nhỏ (略而不计).",
+          "comparison_rows": [
+            { "word": "忽略", "pinyin": "hūlüè", "pos": "动词 (Động từ)", "meaning": "bỏ sót, sơ suất quên mất; bỏ qua không tính đến", "difference": "Có nghĩa 'lược bỏ không tính' nên đi được với '可以忽略 / 忽略不计'; KHÔNG dùng cho việc coi nhẹ những vấn đề hệ trọng như an toàn hay rèn luyện (*忽略安全、*忽略锻炼).", "collocations": "可以忽略 / 忽略不计 / 忽略了 / 不要忽略 / 不能忽略", "example_zh": "小数点后边的第三位数很小，可以忽略不计。", "example_py": "Xiǎoshùdiǎn hòubian de dì-sān wèishù hěn xiǎo, kěyǐ hūlüè bújì.", "example_vi": "Chữ số thứ ba sau dấu phẩy rất nhỏ, có thể bỏ qua không tính đến." },
+            { "word": "忽视", "pinyin": "hūshì", "pos": "动词 (Động từ)", "meaning": "coi nhẹ, xem nhẹ, không coi trọng", "difference": "Nhấn mạnh thiếu sự coi trọng đối với yếu tố quan trọng (忽视安全、忽视锻炼、不可忽视的力量、不能忽视……的困难); KHÔNG đi với '可以……' hay '……不计'.", "collocations": "忽视安全 / 忽视锻炼 / 不可忽视 / 不应忽视 / 不要忽视 / 不能忽视 / 忽视了", "example_zh": "我们决不能只顾工作，而忽视安全和身体锻炼。", "example_py": "Wǒmen jué bù néng zhǐ gù gōngzuò, ér hūshì ānquán hé shēntǐ duànliàn.", "example_vi": "Chúng ta tuyệt đối không thể chỉ lo làm việc mà coi nhẹ an toàn và rèn luyện sức khỏe." }
+          ],
+          "context_rule": "Thấy '可以______ / ______不计' → CHỈ dùng 忽略. Thấy '______安全 / ______锻炼 / 不可______的力量 / 不能______……的困难' → CHỈ dùng 忽视. Khi chỉ đơn thuần 'sơ ý bỏ qua một tình huống/chất lượng' thì dùng cả hai được.",
+          "memory_tip": "忽略 có chữ 略 (lược bỏ) → '可以忽略 / 忽略不计'; 忽视 có chữ 视 (nhìn nhận/coi trọng) → '忽视安全 / 忽视锻炼 / 不可忽视'.",
+          "common_error": "Sai (sách BLCUP): '决不能只顾生产，而忽略安全' → Đúng: '……而忽视安全'. Sai: '小数点后边的第三位数可以忽视不计' → Đúng: '……可以忽略不计'."
+        },
+        {
+          "pair_title": "善于 (shànyú) — 擅长 (shàncháng)",
+          "vietnamese_explanation": "Cả hai đều là động từ nghĩa 'giỏi về, có sở trường ở mặt nào đó', nhưng khác nhau rõ rệt về LOẠI TÂN NGỮ phía sau (động từ vs danh từ) và khả năng nhận phó từ chỉ mức độ.",
+          "comparison_rows": [
+            { "word": "善于", "pinyin": "shànyú", "pos": "动词 (Động từ)", "meaning": "giỏi (làm việc gì), khéo léo trong", "difference": "Chủ yếu mang ĐỘNG TỪ hoặc cụm động từ làm tân ngữ (善于团结人、善于交际、善于学习); KHÔNG mang danh từ chỉ môn năng khiếu/thể thao (*善于书法、*善于歌舞); KHÔNG nhận phó từ mức độ (*很善于).", "collocations": "善于交际 / 善于团结人 / 善于思考 / 善于学习", "example_zh": "她性格温柔，还善于团结人，所以很受欢迎。", "example_py": "Tā xìnggé wēnróu, hái shànyú tuánjié rén, suǒyǐ hěn shòu huānyíng.", "example_vi": "Cô ấy tính tình dịu dàng, lại khéo đoàn kết mọi người nên rất được yêu mến." },
+            { "word": "擅长", "pinyin": "shàncháng", "pos": "动词 (Động từ)", "meaning": "giỏi về, có sở trường về (môn/lĩnh vực)", "difference": "CÓ THỂ mang DANH TỪ làm tân ngữ (擅长书法、擅长歌舞、擅长蛙泳); CÓ THỂ nhận phó từ chỉ mức độ (很擅长、非常擅长) và đứng cuối câu làm vị ngữ (在交际方面很擅长).", "collocations": "擅长书法 / 擅长歌舞 / 擅长蛙泳 / 擅长交际 / 很擅长 / 不擅长", "example_zh": "他擅长书法，在交际方面也很擅长。", "example_py": "Tā shàncháng shūfǎ, zài jiāojì fāngmiàn yě hěn shàncháng.", "example_vi": "Anh ấy giỏi thư pháp, về mặt giao tiếp cũng rất giỏi." }
+          ],
+          "context_rule": "Thấy phía trước có '很 / 非常' ('在……方面很______') hoặc phía sau là danh từ môn năng khiếu/thể thao ('______书法 / ______歌舞 / ______蛙泳') → BẮT BUỘC dùng 擅长. Thấy phía sau là cụm động từ năng lực ứng xử/tư duy ('______团结人 / ______思考') → BẮT BUỘC dùng 善于.",
+          "memory_tip": "善于 + ĐỘNG TỪ (không có '很善于'); 擅长 + DANH TỪ môn sở trường và đi được '很擅长'.",
+          "common_error": "Sai (sách BLCUP): '他在交际方面很善于' → Đúng: '他在交际方面很擅长'. Sai: '我善于蛙泳，自由泳不行' → Đúng: '我擅长蛙泳……'. Sai: '她擅长团结人' → Đúng: '她善于团结人'."
+        },
+        {
+          "pair_title": "生长 (shēngzhǎng) — 成长 (chéngzhǎng)",
+          "vietnamese_explanation": "Cả hai đều có thể dùng khi nói con người lớn lên trong một môi trường (như ở nông thôn, thành phố), nhưng 生长 thiên về SINH RA VÀ LỚN LÊN (dùng cho cả người lẫn động thực vật), còn 成长 thiên về TRƯỞNG THÀNH CHÍN CHẮN (chủ yếu dùng cho người).",
+          "comparison_rows": [
+            { "word": "生长", "pinyin": "shēngzhǎng", "pos": "动词 (Động từ)", "meaning": "sinh trưởng, sinh ra và lớn lên", "difference": "Bao hàm ý sinh ra và phát triển thể chất/kích thước; chủ thể có thể là NGƯỜI (生长在农村) HOẶC ĐỘNG THỰC VẬT (植物生长、生长激素); KHÔNG đi với '健康～ / 茁壮～'.", "collocations": "生长在农村 / 生长在海边 / 植物生长 / 生长激素 / 生长起来", "example_zh": "植物的生长离不开阳光和雨水。", "example_py": "Zhíwù de shēngzhǎng líbukāi yángguāng hé yǔshuǐ.", "example_vi": "Sự sinh trưởng của thực vật không thể tách rời ánh nắng và nước mưa." },
+            { "word": "成长", "pinyin": "chéngzhǎng", "pos": "动词 (Động từ)", "meaning": "trưởng thành, lớn lên chín chắn", "difference": "Không mang nghĩa sinh ra mà nhấn mạnh sự phát triển đến độ trưởng thành; chủ thể chủ yếu là NGƯỜI (ít dùng cho động thực vật); đi chặt với '健康成长 / 茁壮成长 / 在……帮助下成长起来'.", "collocations": "成长在农村 / 成长在海边 / 健康成长 / 茁壮成长 / 成长起来", "example_zh": "全社会都要关心青少年的健康成长。", "example_py": "Quán shèhuì dōu yào guānxīn qīngshàonián de jiànkāng chéngzhǎng.", "example_vi": "Toàn xã hội đều cần quan tâm đến sự trưởng thành lành mạnh của thanh thiếu niên." }
+          ],
+          "context_rule": "Thấy động thực vật ('植物的______离不开阳光雨水') hoặc '______激素' → BẮT BUỘC dùng 生长. Thấy '健康______ / 茁壮______' hoặc con người trưởng thành nhờ sự giúp đỡ ('在老师帮助下______起来') → BẮT BUỘC dùng 成长.",
+          "memory_tip": "生长 có chữ 生 (sinh vật, sinh ra) → dùng cho cả cây cối/động vật; 成长 có chữ 成 (thành người, chín chắn) → '健康成长 / 茁壮成长'.",
+          "common_error": "Sai (sách BLCUP): '植物的成长离不开阳光雨水' → Đúng: '植物的生长离不开阳光雨水'. Sai: '全社会都要关心青少年的健康生长' → Đúng: '……健康成长'."
+        },
+        {
+          "pair_title": "失去 (shīqù) — 丢失 (diūshī)",
+          "vietnamese_explanation": "Cả hai đều là động từ nghĩa 'mất, đánh mất', nhưng phân công rạch ròi theo ĐỐI TƯỢNG TÂN NGỮ: 失去 dùng cho sự vật TRỪU TƯỢNG, còn 丢失 dùng cho ĐỒ VẬT CỤ THỂ bị thất lạc.",
+          "comparison_rows": [
+            { "word": "失去", "pinyin": "shīqù", "pos": "动词 (Động từ)", "meaning": "đánh mất, mất đi (cơ hội, niềm tin, tri giác…)", "difference": "Đối tượng là sự vật TRỪU TƯỢNG (失去机会、失去信心、失去知觉、失去效力、失去联系); KHÔNG dùng cho đồ vật/giấy tờ bị đánh rơi (*把护照失去了、*行李失去了).", "collocations": "失去机会 / 失去信心 / 失去知觉 / 失去效力 / 失去联系", "example_zh": "如果通过这个考试，就可以得到奖学金，因此我不想失去这次机会。", "example_py": "Rúguǒ tōngguò zhège kǎoshì, jiù kěyǐ dédào jiǎngxuéjīn, yīncǐ wǒ bù xiǎng shīqù zhè cì jīhuì.", "example_vi": "Nếu vượt qua kỳ thi này thì có thể nhận được học bổng, vì vậy tôi không muốn đánh mất cơ hội lần này." },
+            { "word": "丢失", "pinyin": "diūshī", "pos": "动词 (Động từ)", "meaning": "làm mất, thất lạc (đồ vật, giấy tờ, tệp tin)", "difference": "Đối tượng BẮT BUỘC là sự vật CỤ THỂ (钱包、行李、文件、身份证、护照); KHÔNG dùng cho khái niệm trừu tượng (*丢失机会、*丢失知觉、*丢失效力).", "collocations": "丢失了钱包 / 行李丢失了 / 丢失了文件 / 丢失了身份证 / 护照丢失了", "example_zh": "我不小心把护照丢失了，心里非常着急。", "example_py": "Wǒ bù xiǎoxīn bǎ hùzhào diūshī le, xīnlǐ fēicháng zháojí.", "example_vi": "Tôi sơ ý làm mất hộ chiếu rồi, trong lòng vô cùng lo lắng." }
+          ],
+          "context_rule": "Thấy đồ vật/giấy tờ cụ thể ('钱包 / 行李 / 文件 / 身份证 / 护照') → BẮT BUỘC dùng 丢失. Thấy khái niệm trừu tượng ('机会 / 信心 / 知觉 / 效力 / 联系') → BẮT BUỘC dùng 失去.",
+          "memory_tip": "丢失 có chữ 丢 (đánh rơi đồ đạc) → đồ vật cụ thể; 失去 = mất đi thứ vô hình/trừu tượng (cơ hội, lòng tin, cảm giác).",
+          "common_error": "Sai (sách BLCUP): '我不小心把护照失去了' → Đúng: '我不小心把护照丢失了'. Sai: '我不想丢失这次机会' → Đúng: '我不想失去这次机会'."
+        },
+        {
+          "pair_title": "乐意 (lèyì) — 愿意 (yuànyì)",
+          "vietnamese_explanation": "Cả hai đều có nghĩa 'sẵn lòng, vui lòng làm gì' và thay thế nhau được trong nhiều câu khẳng định, nhưng 愿意 có thêm nghĩa 'đồng ý, mong muốn điều gì xảy ra' nên mang được MỆNH ĐỀ làm tân ngữ và dùng chuẩn trong dạng phủ định '不愿意'.",
+          "comparison_rows": [
+            { "word": "乐意", "pinyin": "lèyì", "pos": "助动词、动词 (Trợ động từ, Động từ)", "meaning": "vui lòng, sẵn lòng, hài lòng", "difference": "Nhấn mạnh tâm trạng vui vẻ tự nguyện (很乐意帮忙、乐意学); KHÔNG mang nghĩa 'đồng ý/mong muốn cho ai làm gì' nên ít/không mang mệnh đề làm tân ngữ (*乐意你留下来) và tránh dùng '不乐意' thay cho '不愿意' từ chối dứt khoát.", "collocations": "很乐意 / 十分乐意 / 乐意帮忙 / 不太乐意 / 乐意不乐意", "example_zh": "他很乐意帮我这个忙，一点儿也不嫌麻烦。", "example_py": "Tā hěn lèyì bāng wǒ zhège máng, yìdiǎnr yě bù xián máfan.", "example_vi": "Anh ấy rất vui lòng giúp tôi việc này, chẳng ngại phiền phức chút nào." },
+            { "word": "愿意", "pinyin": "yuànyì", "pos": "助动词、动词 (Trợ động từ, Động từ)", "meaning": "bằng lòng, đồng ý, mong muốn", "difference": "Có nghĩa 'đồng ý / mong muốn', vì vậy CÓ THỂ mang MỆNH ĐỀ làm tân ngữ (愿意你留下来、愿意你来) và dùng tự nhiên ở thể phủ định (不愿意去旅行).", "collocations": "很愿意 / 十分愿意 / 愿意帮忙 / 不太愿意 / 愿意你来 / 愿意不愿意 / 不愿意", "example_zh": "我当然愿意你留下来，我们在一起工作很开心。", "example_py": "Wǒ dāngrán yuànyì nǐ liú xiàlái, wǒmen zài yìqǐ gōngzuò hěn kāixīn.", "example_vi": "Tôi tất nhiên muốn bạn ở lại rồi, chúng ta làm việc cùng nhau rất vui." }
+          ],
+          "context_rule": "Thấy phía sau là một mệnh đề có chủ ngữ khác ('我当然______你留下来 / ______你来') hoặc câu phủ định '不______跟大家一起去' → BẮT BUỘC dùng 愿意. Khi nói 'vui lòng giúp đỡ / sẵn lòng học' thì dùng cả hai đều tự nhiên.",
+          "memory_tip": "愿意 = 'đồng ý/mong muốn' → mang cả mệnh đề '愿意你来' và phủ định '不愿意'; 乐意 = 'vui lòng' (很乐意帮忙).",
+          "common_error": "Sai (sách BLCUP): '我当然乐意你留下来' → Đúng: '我当然愿意你留下来'. Sai: '他不乐意跟大家一起去旅行' → Đúng: '他不愿意跟大家一起去旅行'."
+        }
+      ],
+      "package_notes": "Điểm ăn tiền của 6 cặp động từ Gói 6 nằm ở TÂN NGỮ VÀ CHỨC NĂNG CÂU: kiểm tra xem tân ngữ là cụ thể hay trừu tượng (丢失 vs 失去), danh từ hay động từ (擅长 vs 善于), người hay thực vật (成长 vs 生长), có mang mệnh đề không (愿意 vs 乐意), và có làm trạng ngữ trước động từ không (反复 vs 重复).",
+      "exercises": [
+        {
+          "id": "st1_p6_e1", "type": "synonym_mc", "level": "Nhận biết", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn từ đúng: “我不小心把护照______了，现在急得不知道怎么办好。”",
+          "options": ["丢失", "失去", "忽略", "重复"],
+          "answer": "丢失",
+          "explanation": "'护照' (hộ chiếu) là đồ vật cụ thể bị đánh rơi/thất lạc, bắt buộc dùng 丢失; 失去 dùng cho sự vật trừu tượng như 机会、信心、知觉.",
+          "review_tip": "Ôn cặp 失去—丢失."
+        },
+        {
+          "id": "st1_p6_e2", "type": "synonym_mc", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn từ đúng: “学外语时，课文要______朗读，口语水平才能提高。”",
+          "options": ["反复", "重复", "忽视", "成长"],
+          "answer": "反复",
+          "explanation": "Chỗ trống làm trạng ngữ trước động từ '朗读' (đọc đi đọc lại nhiều lần), chỉ phó từ 反复 dùng được; động từ 重复 không làm trạng ngữ trước 朗读、思考、练习.",
+          "review_tip": "Ôn cặp 重复—反复."
+        },
+        {
+          "id": "st1_p6_e3", "type": "synonym_mc", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn từ đúng: “他非常______书法，每次参加学校比赛都能拿一等奖。”",
+          "options": ["擅长", "善于", "乐意", "愿意"],
+          "answer": "擅长",
+          "explanation": "Phía trước có phó từ mức độ '非常' và phía sau là danh từ '书法', chỉ 擅长 mới nhận phó từ mức độ và mang danh từ môn năng khiếu làm tân ngữ; 善于 không dùng được ở cả hai điều kiện này.",
+          "review_tip": "Ôn cặp 善于—擅长."
+        },
+        {
+          "id": "st1_p6_e4", "type": "error_fix", "level": "Vận dụng", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Câu nào sau đây ĐÚNG hoàn toàn theo chuẩn sách BLCUP?",
+          "options": [
+            "我当然愿意你留下来，和我们一起完成这个项目。",
+            "全社会都要关心青少年的健康生长。",
+            "我们决不能只顾工作，而忽略身体健康和安全。",
+            "这一段的内容和前边有点儿反复，可以删掉。"
+          ],
+          "answer": "我当然愿意你留下来，和我们一起完成这个项目。",
+          "explanation": "愿意 có thể mang mệnh đề '你留下来' làm tân ngữ là hoàn toàn chuẩn xác. Ba câu sai lần lượt: '健康成长' (không nói 健康生长); '忽视安全' (không nói 忽略安全); '内容重复' (không nói 内容反复).",
+          "review_tip": "Xem lại các cặp 乐意/愿意, 生长/成长, 忽略/忽视 và 重复/反复."
+        }
+      ]
+    },
+    {
+      "id": "st1_pkg7",
+      "title": "Gói 7: 6 cặp Tính từ & Danh từ cốt lõi HSK 4–5 (1700 Cặp cận nghĩa BLCUP)",
+      "intro": "Hoàn thiện bộ kỹ năng phân biệt 6 cặp tính từ – danh từ tần suất cao nhất trong đề HSK 4–5 và thi Chuyên Trung (theo sách 1700对近义词语用法对比 – BLCUP): 充分/充足, 吃惊/惊讶, 乐趣/兴趣, 难过/伤心, 年纪/年龄, 宁静/安静.",
+      "source_status": "verified_source",
+      "source_ids": ["PDF_1700_SYNONYMS"],
+      "items": [
+        {
+          "pair_title": "充分 (chōngfèn) — 充足 (chōngzú)",
+          "vietnamese_explanation": "Cả hai đều là tính từ nghĩa 'đầy đủ', nhưng 充分 thiên về sự vật TRỪU TƯỢNG và thường làm TRẠNG NGỮ trước động từ, còn 充足 dùng rộng cho cả vật chất/tự nhiên cụ thể và chỉ làm định ngữ hoặc vị ngữ.",
+          "comparison_rows": [
+            { "word": "充分", "pinyin": "chōngfèn", "pos": "形容词 (Tính từ)", "meaning": "đầy đủ (trừu tượng); hết sức, tận dụng tối đa", "difference": "Chủ yếu bổ nghĩa cho sự vật TRỪU TƯỢNG (理由充分、准备充分) và rất hay làm TRẠNG NGỮ trước động từ (充分利用、充分说明、充分发挥); KHÔNG tả ánh sáng, mưa, kinh phí (*阳光充分、*经费充分).", "collocations": "理由充分 / 准备充分 / 充分说明 / 充分证明 / 充分利用 / 充分协商 / 充分发挥", "example_zh": "我要充分利用在中国的机会和良好的语言环境，提高汉语听说能力。", "example_py": "Wǒ yào chōngfèn lìyòng zài Zhōngguó de jīhuì hé liánghǎo de yǔyán huánjìng, tígāo Hànyǔ tīngshuō nénglì.", "example_vi": "Tôi muốn tận dụng tối đa cơ hội ở Trung Quốc cùng môi trường ngôn ngữ tốt để nâng cao năng lực nghe nói tiếng Hán." },
+            { "word": "充足", "pinyin": "chōngzú", "pos": "形容词 (Tính từ)", "meaning": "dồi dào, đầy đủ (số lượng đáp ứng nhu cầu)", "difference": "Dùng cho cả vật chất cụ thể lẫn trừu tượng (阳光充足、光线充足、雨量充足、经费充足、理由充足); thường làm ĐỊNH NGỮ và VỊ NGỮ; KHÔNG làm trạng ngữ trước động từ (*充足利用、*充足说明).", "collocations": "理由充足 / 经费充足 / 光线充足 / 雨量充足 / 阳光充足", "example_zh": "这个房间的阳光非常充足，住起来很舒服。", "example_py": "Zhège fángjiān de yángguāng fēicháng chōngzú, zhù qǐlái hěn shūfu.", "example_vi": "Căn phòng này ánh nắng vô cùng đầy đủ, ở rất thoải mái." }
+          ],
+          "context_rule": "Thấy làm trạng ngữ trước động từ ('______利用 / ______说明 / ______证明 / ______发挥 / ______协商') hoặc '准备______' → BẮT BUỘC dùng 充分. Thấy vật chất/tự nhiên ('阳光 / 光线 / 雨量 / 经费 + ______') → BẮT BUỘC dùng 充足.",
+          "memory_tip": "充分 = trạng ngữ 'tận dụng tối đa' (充分利用、准备充分); 充足 có chữ 足 (đủ lượng) → '阳光充足 / 经费充足 / 雨量充足'.",
+          "common_error": "Sai (sách BLCUP): '我要充足利用在中国的机会' → Đúng: '我要充分利用在中国的机会'. Sai: '这个房间的阳光充分' → Đúng: '这个房间的阳光充足'."
+        },
+        {
+          "pair_title": "吃惊 (chījīng) — 惊讶 (jīngyà)",
+          "vietnamese_explanation": "Nghĩa và từ loại của hai từ này cơ bản giống nhau ('kinh ngạc, ngạc nhiên') và thay thế nhau được trong phần lớn câu bình thường. Điểm phân biệt duy nhất nhưng hay ra đề nhất: 吃惊 có thể TÁCH ĐÔI (ly hợp), còn 惊讶 thì không.",
+          "comparison_rows": [
+            { "word": "吃惊", "pinyin": "chījīng", "pos": "形容词 (Tính từ — kết cấu ly hợp)", "meaning": "giật mình, kinh ngạc", "difference": "Thay thế được cho 惊讶 khi đứng liền (感到很吃惊、令人吃惊); ĐẶC BIỆT có thể tách đôi thành '吃了一惊' hoặc '大吃一惊'.", "collocations": "很吃惊 / 十分吃惊 / 感到吃惊 / 令人吃惊 / 吃惊的目光 / 吃了一惊 / 大吃一惊", "example_zh": "听说他俩离婚了，我吃了一惊，他们结婚还不到一个月。", "example_py": "Tīngshuō tā liǎ líhūn le, wǒ chī le yì jīng, tāmen jiéhūn hái bú dào yí ge yuè.", "example_vi": "Nghe nói hai người họ ly hôn rồi, tôi giật cả mình, họ kết hôn còn chưa đầy một tháng." },
+            { "word": "惊讶", "pinyin": "jīngyà", "pos": "形容词 (Tính từ)", "meaning": "ngạc nhiên, lấy làm lạ", "difference": "Dùng liền khối như tính từ thông thường (很惊讶、十分惊讶、感到惊讶、惊讶的样子); TUYỆT ĐỐI KHÔNG thể tách đôi (*惊了一讶、*大惊一讶).", "collocations": "很惊讶 / 十分惊讶 / 感到惊讶 / 令人惊讶 / 惊讶的目光 / 惊讶的样子", "example_zh": "看到这种情况，我感到很惊讶，不知道发生了什么事。", "example_py": "Kàndào zhè zhǒng qíngkuàng, wǒ gǎndào hěn jīngyà, bù zhīdào fāshēng le shénme shì.", "example_vi": "Nhìn thấy tình huống này, tôi cảm thấy rất ngạc nhiên, không biết đã xảy ra chuyện gì." }
+          ],
+          "context_rule": "Thấy cấu trúc tách đôi '______了一______' hoặc '大______一______' → BẮT BUỘC dùng 吃惊 (吃了一惊 / 大吃一惊). Các vị trí đứng liền sau 很 / 感到 / 令人 hoặc trước 的目光 / 的样子 thì cả hai thay thế nhau được.",
+          "memory_tip": "吃惊 có chữ 吃 (động từ) nên chèn '了一' vào giữa thành '吃了一惊 / 大吃一惊' được; 惊讶 là hai chữ dính liền không tách.",
+          "common_error": "Sai (sách BLCUP): '听到这个消息很多人都大惊一讶' → Đúng: '……很多人都大吃一惊'. Sai: '我惊了一讶' → Đúng: '我吃了一惊'."
+        },
+        {
+          "pair_title": "乐趣 (lèqù) — 兴趣 (xìngqù)",
+          "vietnamese_explanation": "Nghĩa của hai danh từ này KHÁC NHAU và KHÔNG THỂ THAY THẾ cho nhau: 乐趣 là niềm vui/thú vị nảy sinh TỪ SỰ VẬT mang lại, còn 兴趣 là hứng thú/sở thích xuất phát TỪ BÊN TRONG CON NGƯỜI hướng ra sự vật.",
+          "comparison_rows": [
+            { "word": "乐趣", "pinyin": "lèqù", "pos": "名词 (Danh từ)", "meaning": "niềm vui, thú vui (từ sự vật/cuộc sống)", "difference": "Sinh ra từ sự vật, công việc hay cuộc sống (发现乐趣、享受乐趣、得到乐趣、带来乐趣、生活中的乐趣); KHÔNG đi với '感～ / 培养～' (*感乐趣、*培养乐趣).", "collocations": "有乐趣 / 没有乐趣 / 很大的乐趣 / 生活中的乐趣 / 发现乐趣 / 享受乐趣 / 带来乐趣", "example_zh": "乐观的人能从日常生活中发现乐趣，享受乐趣。", "example_py": "Lèguān de rén néng cóng rìcháng shēnghuó zhōng fāxiàn lèqù, xiǎngshòu lèqù.", "example_vi": "Người lạc quan có thể phát hiện niềm vui từ cuộc sống thường ngày và tận hưởng niềm vui ấy." },
+            { "word": "兴趣", "pinyin": "xìngqù", "pos": "名词 (Danh từ)", "meaning": "hứng thú, sự yêu thích/quan tâm", "difference": "Xuất phát từ tâm lý con người đối với sự vật (对……感兴趣、一点儿兴趣也没有、培养兴趣、怀着极大的兴趣); KHÔNG dùng với '生活中的～ / 给家庭带来～'.", "collocations": "有兴趣 / 没有兴趣 / 感兴趣 / 不感兴趣 / 很大的兴趣 / 培养兴趣 / 怀着极大的兴趣", "example_zh": "他从小就对画画儿感兴趣，一直坚持练习。", "example_py": "Tā cóngxiǎo jiù duì huàhuàr gǎn xìngqù, yìzhí jiānchí liànxí.", "example_vi": "Từ nhỏ cậu ấy đã có hứng thú với vẽ tranh, luôn kiên trì luyện tập." }
+          ],
+          "context_rule": "Thấy '对……感______ / 培养______ / 怀着极大的______' → BẮT BUỘC dùng 兴趣. Thấy '发现______ / 享受______ / 带来______ / 生活中的______ / 从工作中得到______' → BẮT BUỘC dùng 乐趣.",
+          "memory_tip": "兴趣 = lòng người hướng tới (对……感兴趣、培养兴趣); 乐趣 = niềm vui từ việc/đời mang lại (发现乐趣、享受乐趣、带来乐趣).",
+          "common_error": "Sai (sách BLCUP): '他从小就对画画儿感乐趣' → Đúng: '……对画画儿感兴趣'. Sai: '我从工作中得到了很大的兴趣' → Đúng: '我从工作中得到了很大的乐趣'."
+        },
+        {
+          "pair_title": "难过 (nánguò) — 伤心 (shāngxīn)",
+          "vietnamese_explanation": "Cả hai đều diễn tả nỗi buồn bã (这件事让她很难过/很伤心), nhưng 伤心 có kết cấu động-tân nên TÁCH ĐÔI ĐƯỢC (伤了我的心) và đi với 伤心事/哭得很伤心, còn 难过 không tách đôi được, dùng được với '心里很难过' và '日子很难过'.",
+          "comparison_rows": [
+            { "word": "难过", "pinyin": "nánguò", "pos": "动词、形容词 (Động từ, Tính từ)", "meaning": "buồn bã, khó chịu; (cuộc sống) khó khăn", "difference": "KHÔNG thể tách đôi (*难了我的过); kết hợp được với '心里很难过' và chỉ cuộc sống chật vật '日子很难过'; KHÔNG nói '*难过事 / *难过落泪 / *哭得很难过'.", "collocations": "非常难过 / 很难过 / 感到难过 / 难过得哭了 / 日子很难过 / 心里很难过", "example_zh": "这件事让我心里很难过，好几天都睡不着觉。", "example_py": "Zhè jiàn shì ràng wǒ xīnlǐ hěn nánguò, hǎo jǐ tiān dōu shuìbuzháo jiào.", "example_vi": "Chuyện này làm trong lòng tôi rất buồn, mấy ngày liền không ngủ được." },
+            { "word": "伤心", "pinyin": "shāngxīn", "pos": "形容词 (Tính từ — kết cấu động-tân)", "meaning": "đau lòng, đau buồn sâu sắc", "difference": "Có kết cấu động-tân nên TÁCH ĐÔI ĐƯỢC (伤了我的心、伤了她的心); đi với '伤心事 / 伤心落泪 / 哭得很伤心'; KHÔNG nói '*心里很伤心' (trùng chữ 心) và KHÔNG tả cuộc sống '*日子很伤心'.", "collocations": "非常伤心 / 很伤心 / 感到伤心 / 伤心得哭了 / 伤心事 / 伤心落泪 / 伤了我的心 / 哭得很伤心", "example_zh": "听到这个坏消息，她哭得很伤心。", "example_py": "Tīngdào zhège huài xiāoxi, tā kū de hěn shāngxīn.", "example_vi": "Nghe thấy tin xấu này, cô ấy khóc rất đau lòng." }
+          ],
+          "context_rule": "Thấy tách đôi '伤了……的心', '哭得很______' hoặc cụm '______事 / ______落泪' → BẮT BUỘC dùng 伤心. Thấy '心里很______' hoặc '日子很______' → BẮT BUỘC dùng 难过.",
+          "memory_tip": "伤心 có chữ 心 (tim) → tách ra '伤了我的心' được nhưng không thêm '心里' thừa; 难过 = khó chịu/khó qua → '心里很难过 / 日子很难过'.",
+          "common_error": "Sai (sách BLCUP): '他这么说真是难了我的过' → Đúng: '……真是伤了我的心'. Sai: '这件事让我心里很伤心' → Đúng: '这件事让我心里很难过' hoặc '这件事让我很伤心'."
+        },
+        {
+          "pair_title": "年纪 (niánjì) — 年龄 (niánlíng)",
+          "vietnamese_explanation": "Cả hai đều là danh từ nghĩa 'tuổi, tuổi tác', nhưng 年纪 CHỈ dùng cho người (thiên về người lớn tuổi và cụm khẩu ngữ), còn 年龄 dùng nhiều cho trẻ em/thanh niên, mốc tuổi quy định chính thức và CẢ ĐỘNG THỰC VẬT.",
+          "comparison_rows": [
+            { "word": "年纪", "pinyin": "niánjì", "pos": "名词 (Danh từ)", "meaning": "tuổi tác (chỉ dùng cho người)", "difference": "CHỈ dùng cho người, đặc biệt người lớn tuổi (đôi khi dùng cho thanh niên: 年纪不小了); đi với '年纪轻 / 小小年纪 / 上年纪了 / 多大年纪'; KHÔNG dùng cho quy định mốc tuổi (*入学年纪、*结婚年纪) hay động thực vật.", "collocations": "年纪轻 / 小小年纪 / 上年纪了 / 退休年纪 / 多大年纪", "example_zh": "爷爷上年纪了，眼睛看书不太清楚了。", "example_py": "Yéye shàng niánjì le, yǎnjing kànshū bú tài qīngchu le.", "example_vi": "Ông nội đã có tuổi rồi, mắt đọc sách không còn rõ lắm nữa." },
+            { "word": "年龄", "pinyin": "niánlíng", "pos": "名词 (Danh từ)", "meaning": "độ tuổi, số tuổi (người và động thực vật)", "difference": "Dùng nhiều cho trẻ em, thiếu niên, thanh niên (年龄还太小); dùng cho mốc tuổi chính thức (入学年龄、结婚年龄、退休年龄) và dùng được cho ĐỘNG THỰC VẬT (这棵树的年龄); KHÔNG nói '*上年龄了 / *年龄轻 / *小小年龄'.", "collocations": "入学年龄 / 退休年龄 / 多大年龄 / 到结婚年龄了 / 年龄还太小 / 树的年龄", "example_zh": "这棵大树的年龄已经有一千多年了。", "example_py": "Zhè kē dàshù de niánlíng yǐjīng yǒu yìqiān duō nián le.", "example_vi": "Số tuổi của cây cổ thụ này đã hơn một nghìn năm rồi." }
+          ],
+          "context_rule": "Thấy '上______了 / 小小______ / ______轻 / 你爸爸多大______了' → BẮT BUỘC dùng 年纪. Thấy '入学______ / 结婚______', nói về trẻ nhỏ ('你______还太小') hoặc động thực vật ('这棵树的______') → BẮT BUỘC dùng 年龄.",
+          "memory_tip": "年纪 = tuổi đời con người trong lời nói ('上年纪了 / 小小年纪'); 年龄 = số tuổi khoa học/hành chính ('入学年龄 / 结婚年龄 / 树的年龄').",
+          "common_error": "Sai (sách BLCUP): '上年龄了，眼睛不好使了' → Đúng: '上年纪了……'. Sai: '这棵树的年纪已经有一千多年了' → Đúng: '这棵树的年龄已经有一千多年了'."
+        },
+        {
+          "pair_title": "宁静 (níngjìng) — 安静 (ānjìng)",
+          "vietnamese_explanation": "Cả hai đều có thể miêu tả khung cảnh tự nhiên yên tĩnh (như bờ hồ, đêm khuya), nhưng 宁静 chỉ môi trường khách quan mà con người KHÔNG điều khiển được (không dùng cầu khiến), còn 安静 dùng được cho cả trạng thái con người kiểm soát/yêu cầu giữ yên lặng.",
+          "comparison_rows": [
+            { "word": "宁静", "pinyin": "níngjìng", "pos": "形容词 (Tính từ)", "meaning": "yên bình, tĩnh lặng, thanh bình", "difference": "Chủ yếu miêu tả MÔI TRƯỜNG KHÁCH QUAN tự nhiên không do con người trực tiếp kiểm soát (湖边恢复了宁静、宁静的夜晚); TUYỆT ĐỐI KHÔNG dùng trong câu cầu khiến hay yêu cầu trật tự (*请宁静、*保持宁静、*需要宁静、*宁静地睡了).", "collocations": "很宁静 / 十分宁静 / 宁静的夜晚 / 恢复宁静", "example_zh": "游人散去了，湖边恢复了原有的宁静。", "example_py": "Yóurén sàn qù le, húbiān huīfù le yuányǒu de níngjìng.", "example_vi": "Du khách tản đi hết rồi, ven hồ khôi phục lại vẻ yên bình vốn có." },
+            { "word": "安静", "pinyin": "ānjìng", "pos": "形容词 (Tính từ)", "meaning": "yên tĩnh, im lặng, không ồn ào", "difference": "Vừa tả môi trường khách quan như 宁静, vừa tả trạng thái con người có thể kiểm soát; vì vậy DÙNG ĐƯỢC trong câu cầu khiến và yêu cầu (请安静、保持安静、需要安静、安静地睡了、创造一个安静的环境).", "collocations": "很安静 / 十分安静 / 安静的夜晚 / 请安静 / 需要安静 / 保持安静 / 安静地睡了 / 安静的环境", "example_zh": "请大家安静一下，我有件重要的事要通知。", "example_py": "Qǐng dàjiā ānjìng yíxià, wǒ yǒu jiàn zhòngyào de shì yào tōngzhī.", "example_vi": "Xin mời mọi người giữ yên lặng một chút, tôi có việc quan trọng cần thông báo." }
+          ],
+          "context_rule": "Thấy câu cầu khiến ('请大家______一下'), yêu cầu giữ trật tự ('保持______ / 病人需要______ / 创造一个______的环境') hay '______地睡了' → BẮT BUỘC dùng 安静. Miêu tả đêm khuya, bờ hồ, thôn quê tĩnh lặng tự nhiên thì dùng 宁静 hoặc 安静 đều đẹp.",
+          "memory_tip": "安静 = con người điều khiển được ('请安静 / 保持安静 / 需要安静'); 宁静 = vẻ thanh bình tự nhiên của cảnh vật (không ra lệnh '请宁静' được!).",
+          "common_error": "Sai (sách BLCUP): '请大家宁静一下，我说一件事' → Đúng: '请大家安静一下……'. Sai: '病人需要宁静，请你们不要说话' → Đúng: '病人需要安静……'."
+        }
+      ],
+      "package_notes": "Gói 7 tổng hợp 4 bẫy kinh điển của tính từ & danh từ HSK 4–5: (1) Tách đôi ly hợp được hay không (吃了一惊, 伤了我的心); (2) Nguồn phát sinh từ người hay từ sự vật (兴趣 vs 乐趣); (3) Phạm vi người/vật & cầu khiến (年纪 vs 年龄, 宁静 vs 安静); (4) Trạng ngữ trừu tượng hay vị ngữ vật chất (充分 vs 充足).",
+      "exercises": [
+        {
+          "id": "st1_p7_e1", "type": "synonym_mc", "level": "Nhận biết", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn từ đúng: “这个房间的阳光非常______，冬天住起来特别暖和。”",
+          "options": ["充足", "充分", "宁静", "安静"],
+          "answer": "充足",
+          "explanation": "'阳光' (ánh nắng), '光线', '雨量', '经费' là các yếu tố vật chất/tự nhiên cụ thể, bắt buộc kết hợp với 充足, không dùng 充分.",
+          "review_tip": "Ôn cặp 充分—充足."
+        },
+        {
+          "id": "st1_p7_e2", "type": "synonym_mc", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn từ đúng: “乐观的人总是能从平凡的日常生活中发现______。”",
+          "options": ["乐趣", "兴趣", "年龄", "年纪"],
+          "answer": "乐趣",
+          "explanation": "Niềm vui nảy sinh từ cuộc sống/sự vật và đi với động từ '发现…… / 享受……' bắt buộc dùng 乐趣; 兴趣 là hứng thú xuất phát từ con người (对……感兴趣).",
+          "review_tip": "Ôn cặp 乐趣—兴趣."
+        },
+        {
+          "id": "st1_p7_e3", "type": "synonym_mc", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn từ đúng: “病人需要______休息，请大家不要在走廊里大声说话。”",
+          "options": ["安静", "宁静", "伤心", "吃惊"],
+          "answer": "安静",
+          "explanation": "Cụm '需要安静 / 保持安静 / 请安静' chỉ trạng thái im lặng do con người kiểm soát, bắt buộc dùng 安静; 宁静 chỉ tả cảnh vật khách quan, không đi với 需要/保持/请.",
+          "review_tip": "Ôn cặp 宁静—安静."
+        },
+        {
+          "id": "st1_p7_e4", "type": "error_fix", "level": "Vận dụng", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Câu nào sau đây ĐÚNG hoàn toàn theo chuẩn sách BLCUP?",
+          "options": [
+            "听到这个突然的消息，大家全都大吃一惊。",
+            "他这么说真是难了我的过，我决定不理他了。",
+            "公园里这棵老树的年纪已经有三百多年了。",
+            "我要充足利用在学校图书馆学习的时间。"
+          ],
+          "answer": "听到这个突然的消息，大家全都大吃一惊。",
+          "explanation": "吃惊 tách đôi thành '大吃一惊' là hoàn toàn chuẩn xác. Ba câu sai lần lượt: 难过 không tách đôi (phải là 伤了我的心); tuổi của cây cối dùng 年龄 (không dùng 年纪); làm trạng ngữ trước động từ 利用 phải dùng 充分 (không dùng 充足).",
+          "review_tip": "Xem lại các cặp 吃惊/惊讶, 难过/伤心, 年纪/年龄 và 充分/充足."
+        }
+      ]
+    }
+  ],
+  "comprehensive_test": [
+    {
+      "id": "st1_ct1", "type": "synonym_mc", "level": "Vận dụng", "mistake_category": "Kiến thức nâng cao",
+      "prompt": "[Tổng hợp Trạm 1] Chọn cặp điền chuẩn nhất: “（1）______遇到什么困难，我们都要想办法（2）______学习效率。”",
+      "options": ["(1) 无论  (2) 提高", "(1) 不管  (2) 增加", "(1) 无论  (2) 增加", "(1) 刚才  (2) 提高"],
+      "answer": "(1) 无论  (2) 提高",
+      "explanation": "效率 (hiệu suất) bắt buộc đi với 提高; 无论遇到什么困难 tự nhiên và trang trọng.",
+      "review_tip": "Ôn lại cặp 无论/不管 và 提高/增加 (Gói 1)."
+    },
+    {
+      "id": "st1_ct2", "type": "synonym_mc", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+      "prompt": "[Tổng hợp Trạm 1] Chọn cặp điền chuẩn nhất: “（1）______你亲自去一趟，否则这件事（2）______能顺利解决。”",
+      "options": ["(1) 除非  (2) 未必", "(1) 只有  (2) 未必", "(1) 除非  (2) 不必", "(1) 虽然  (2) 不必"],
+      "answer": "(1) 除非  (2) 未必",
+      "explanation": "Vế sau có '否则' nên vế đầu BẮT BUỘC dùng 除非 (只有 không đi với 否则); chỗ (2) mang nghĩa suy đoán 'chưa chắc giải quyết thuận lợi được' → dùng 未必.",
+      "review_tip": "Ôn lại cặp 除非/只有 và 不必/未必 (Gói 2)."
+    },
+    {
+      "id": "st1_ct3", "type": "synonym_mc", "level": "Vận dụng", "mistake_category": "Kiến thức nâng cao",
+      "prompt": "[Tổng hợp Trạm 1] Chọn cặp điền chuẩn nhất: “学校准备（1）______一次汉语文化讲座，我们向来参加的老师（2）______真心的感谢。”",
+      "options": ["(1) 举办  (2) 表示", "(1) 举行  (2) 表达", "(1) 举办  (2) 表达", "(1) 出席  (2) 表示"],
+      "answer": "(1) 举办  (2) 表示",
+      "explanation": "Đơn vị đứng ra mở 讲座 (tọa đàm/bài giảng) kết hợp chuẩn với 举办; '感谢' (lời cảm ơn) bắt buộc đi với 表示, không đi với 表达.",
+      "review_tip": "Ôn lại cặp 举行/举办 và 表达/表示 (Gói 3)."
+    },
+    {
+      "id": "st1_ct4", "type": "error_fix", "level": "Vận dụng", "mistake_category": "Kiến thức nâng cao",
+      "prompt": "[Tổng hợp Trạm 1] Tìm câu ĐÚNG hoàn toàn trong 4 câu sau:",
+      "options": [
+        "这场足球比赛进行得非常激烈，双方队员都表现得很出色。",
+        "这场足球比赛进行得非常剧烈，双方队员都表现得很优秀。",
+        "来中国以前我从不学过汉语，所以很多字都不熟悉。",
+        "这里有茶有水果，请各位随便，千万不要客气。"
+      ],
+      "answer": "这场足球比赛进行得非常激烈，双方队员都表现得很出色。",
+      "explanation": "比赛 (trận đấu) đi với 激烈 và bổ ngữ '表现得很出色' dùng 出色 là hoàn toàn chuẩn xác. Câu B sai 剧烈+比赛 và bổ ngữ 很优秀; câu C sai 从不+过 (phải dùng 从未) và 熟悉汉字 (phải dùng 认识); câu D mời khách phải nói 请各位随意.",
+      "review_tip": "Ôn tổng hợp Gói 1–4 Trạm 1 (剧烈/激烈, 出色/优秀, 从未/从不, 认识/熟悉, 随意/随便)."
+    },
+    {
+      "id": "st1_ct5", "type": "synonym_mc", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+      "prompt": "[Tổng hợp Trạm 1] Chọn cặp điền chuẩn nhất: “来中国（1）______，只要有（2）______，我就会去图书馆看书。”",
+      "options": ["(1) 以后  (2) 时间", "(1) 后来  (2) 时间", "(1) 以后  (2) 时候", "(1) 后来  (2) 时候"],
+      "answer": "(1) 以后  (2) 时间",
+      "explanation": "Chỗ (1) đứng sau cụm động từ '来中国' nên bắt buộc dùng 以后 (后来 chỉ dùng độc lập); chỗ (2) làm tân ngữ sau '有' chỉ có thời gian rảnh nên bắt buộc dùng 时间 (không nói 有时候来… với nghĩa 'có thời gian').",
+      "review_tip": "Ôn lại cặp 后来/以后 và 时候/时间 (Gói 5)."
+    },
+    {
+      "id": "st1_ct6", "type": "synonym_mc", "level": "Vận dụng", "mistake_category": "Kiến thức nâng cao",
+      "prompt": "[Tổng hợp Trạm 1] Chọn cặp điền chuẩn nhất: “她（1）______练习了很多遍，做好了（2）______的准备，终于通过了面试。”",
+      "options": ["(1) 反复  (2) 充分", "(1) 重复  (2) 充分", "(1) 反复  (2) 充足", "(1) 重复  (2) 充足"],
+      "answer": "(1) 反复  (2) 充分",
+      "explanation": "Chỗ (1) làm trạng ngữ trước động từ '练习' ('luyện tập lặp đi lặp lại nhiều lần') phải dùng phó từ 反复 (không dùng 重复); chỗ (2) bổ nghĩa cho danh từ trừu tượng '准备' phải dùng 充分 (准备充分 / 充分的准备, không dùng 充足).",
+      "review_tip": "Ôn lại cặp 重复/反复 (Gói 6) và 充分/充足 (Gói 7)."
+    },
+    {
+      "id": "st1_ct7", "type": "error_fix", "level": "Vận dụng", "mistake_category": "Kiến thức nâng cao",
+      "prompt": "[Tổng hợp Trạm 1] Tìm câu ĐÚNG hoàn toàn trong 4 câu sau:",
+      "options": [
+        "他从小就对画画儿感兴趣，现在非常擅长画风景画。",
+        "我不小心把身份证失去了，所以没办法坐火车。",
+        "请大家宁静一下，老师现在要讲一道很重要的题。",
+        "我儿子已经到了入学的年纪，今年秋天就要上小学了。"
+      ],
+      "answer": "他从小就对画画儿感兴趣，现在非常擅长画风景画。",
+      "explanation": "Cụm '对……感兴趣' và '非常擅长……' đều chuẩn ngữ pháp và kết hợp từ. Câu B sai 失去身份证 (đồ vật cụ thể phải dùng 丢失); câu C sai câu cầu khiến 请宁静 (phải dùng 请安静); câu D sai mốc tuổi quy định 入学年纪 (phải dùng 入学年龄).",
+      "review_tip": "Ôn tổng hợp Gói 5–7 Trạm 1 (乐趣/兴趣, 善于/擅长, 失去/丢失, 宁静/安静, 年纪/年龄)."
+    }
+  ]
+}

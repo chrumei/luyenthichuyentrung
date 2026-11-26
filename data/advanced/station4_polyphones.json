@@ -1,0 +1,353 @@
+{
+  "id": "station4",
+  "kind": "polyphones",
+  "icon": "🔊",
+  "shortTitle": "Trạm 4: Chữ đa âm",
+  "title_vi": "TRẠM 4. CHỮ ĐA ÂM",
+  "title_zh": "多音字",
+  "description": "Phân biệt các chữ Hán có nhiều cách đọc theo chuẩn tiếng Phổ thông Trung Quốc đại lục – hiểu bản chất sự chuyển nghĩa và từ loại thay vì học vẹt danh sách Pinyin.",
+  "packages": [
+    {
+      "id": "st4_pkg1",
+      "title": "Gói 1: 6 chữ đa âm xuất hiện dày đặc trong HSK 4–5 (好 · 空 · 长 · 难 · 行 · 重)",
+      "intro": "Tất cả 6 chữ đều xuất hiện trực tiếp trong 3 giáo trình HSK 4–5 của bạn (như tiêu đề Bài 11 '读书好，读好书，好读书', từ '填空', '患难与共', '一行字'...). Ưu tiên chuẩn phát âm tiếng Phổ thông Trung Quốc đại lục.",
+      "source_status": "verified_source",
+      "source_ids": ["SRC_ZDIC", "SRC_MOE_TW", "PDF_HSK4_XIA", "PDF_HSK5_SHANG"],
+      "items": [
+        {
+          "char": "好",
+          "why_diff": "Chuyển đổi từ loại TÍNH TỪ (tốt đẹp) sang ĐỘNG TỪ (yêu thích, ham mê) nên đổi thanh điệu từ thanh 3 sang thanh 4.",
+          "readings": [
+            { "pinyin": "hǎo", "meaning": "Tính từ: tốt, hay, đẹp / Phó từ: dễ, rất", "words": "读书好、好书、好处、好吃", "example_zh": "读书好，读好书。", "example_vi": "Đọc sách tốt, đọc sách hay." },
+            { "pinyin": "hào", "meaning": "Động từ: thích, ham mê, hiếu...", "words": "爱好、好读书、好奇、好学", "example_zh": "“好读书”就是要养成阅读的习惯。", "example_vi": "“Ham đọc sách” chính là phải hình thành thói quen đọc sách." }
+          ],
+          "memory_tip": "Khi mang nghĩa 'thích / ham' (爱好、好奇、好读书) luôn đọc thanh 4 (hào)!"
+        },
+        {
+          "char": "空",
+          "why_diff": "Thanh 1 chỉ không gian bao la/trống rỗng (tính chất); thanh 4 chỉ khoảng trống cụ thể hoặc thời gian rảnh (danh từ/động từ chừa trống).",
+          "readings": [
+            { "pinyin": "kōng", "meaning": "Không trung, bầu trời; trống rỗng, suông", "words": "空气、天空、空调、空手", "example_zh": "早上的空气非常新鲜。", "example_vi": "Không khí buổi sáng vô cùng trong lành." },
+            { "pinyin": "kòng", "meaning": "Chỗ trống, thời gian rảnh; chừa trống", "words": "填空、有空儿、空白、空地", "example_zh": "有空儿就拿出来复习一下。", "example_vi": "Có thời gian rảnh thì mang ra ôn lại một chút." }
+          ],
+          "memory_tip": "Liên quan đến 'chỗ trống / giờ rảnh' (填空, 有空儿) đọc thanh 4 kòng!"
+        },
+        {
+          "char": "长",
+          "why_diff": "Thanh 2 là tính từ chỉ độ dài không gian/thời gian; thanh 3 là động từ (lớn lên, mọc) hoặc danh từ (người đứng đầu, bề trên).",
+          "readings": [
+            { "pinyin": "cháng", "meaning": "Tính từ: dài (chiều dài, thời gian) / Sở trường", "words": "长跑、时间长、长处、长城", "example_zh": "长大以后，他成了一名长跑运动员。", "example_vi": "Sau khi lớn lên, anh ấy trở thành vận động viên chạy đường dài." },
+            { "pinyin": "zhǎng", "meaning": "Động từ: lớn lên, sinh trưởng / Danh từ: trưởng, người đứng đầu", "words": "长大、校长、家长、成长", "example_zh": "孩子慢慢长大了。", "example_vi": "Đứa trẻ dần dần lớn lên rồi." }
+          ],
+          "memory_tip": "Câu ghi nhớ 1 giây từ HSK 4 上 Bài 1: '长大 (zhǎngdà) 以后成了一名长跑 (chángpǎo) 运动员'!"
+        },
+        {
+          "char": "难",
+          "why_diff": "Thanh 2 chỉ sự khó khăn (tính từ); thanh 4 chỉ tai họa, hoạn nạn hoặc trách móc (danh từ/động từ).",
+          "readings": [
+            { "pinyin": "nán", "meaning": "Tính từ: khó, khó khăn, khó chịu", "words": "困难、难过、难道、不难", "example_zh": "中文报纸也没那么难了。", "example_vi": "Báo tiếng Trung cũng không khó đến vậy nữa." },
+            { "pinyin": "nàn", "meaning": "Danh từ: tai họa, nạn, kiếp nạn", "words": "患难与共、灾难、遇难、逃难", "example_zh": "他们是一对患难与共的夫妻。", "example_vi": "Họ là một cặp vợ chồng hoạn nạn có nhau." }
+          ],
+          "memory_tip": "'Khó' đọc nán (thanh 2); 'Tai nạn' đọc nàn (thanh 4 – giống tiếng Việt 'nạn'!)."
+        },
+        {
+          "char": "行",
+          "why_diff": "Thanh 2 (xíng) giữ nghĩa gốc là bước đi, thực hiện, được; thanh 2 (háng) chỉ hàng lối ngay ngắn, ngành nghề hoặc cơ sở kinh doanh.",
+          "readings": [
+            { "pinyin": "xíng", "meaning": "Đi lại, thi hành, được/ổn, hành vi", "words": "旅行、进行、自行车、行不行", "example_zh": "我们明天去旅行，行吗？", "example_vi": "Ngày mai chúng ta đi du lịch, được không?" },
+            { "pinyin": "háng", "meaning": "Hàng/dòng, ngành nghề, ngân hàng", "words": "一行字、银行、行业、同行", "example_zh": "她用左手歪歪扭扭写下一行字。", "example_vi": "Cô ấy dùng tay trái viết nguệch ngoạc một dòng chữ." }
+          ],
+          "memory_tip": "Hàng lối / Ngành nghề / Ngân hàng → đọc háng (giống âm Hán-Việt 'hàng/ngành')!"
+        },
+        {
+          "char": "重",
+          "why_diff": "Thanh 4 (zhòng) chỉ sức nặng, mức độ quan trọng; thanh 2 (chóng) chỉ sự lặp lại, trùng lặp, tầng lớp.",
+          "readings": [
+            { "pinyin": "zhòng", "meaning": "Nặng, quan trọng, coi trọng", "words": "重要、严重、尊重、体重", "example_zh": "爱情是结婚的重要原因。", "example_vi": "Tình yêu là nguyên nhân quan trọng của hôn nhân." },
+            { "pinyin": "chóng", "meaning": "Lặp lại, làm lại, chồng lên nhau", "words": "重新、重复、重叠", "example_zh": "听说公司明年要搬，到时候我又得重新找房子了。", "example_vi": "Nghe nói năm sau công ty chuyển đi, lúc đó tôi lại phải tìm nhà lại từ đầu." }
+          ],
+          "memory_tip": "'Trọng' (nặng, quan trọng) = zhòng; 'Trùng' (lặp lại) = chóng!"
+        }
+      ],
+      "package_notes": "Lưu ý đối chiếu: Một số chữ có khác biệt thanh điệu giữa Đài Loan và Trung Quốc đại lục (ví dụ '熟悉' tại Đại lục chuẩn là shúxī). Website luôn ưu tiên chuẩn tiếng Phổ thông Trung Quốc đại lục.",
+      "exercises": [
+        {
+          "id": "st4_e1", "type": "meaning_mc", "level": "Nhận biết", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Trong câu “好读书就是要养成阅读的习惯”, chữ “好” đọc là gì?",
+          "options": ["hào", "hǎo", "hāo", "háo"],
+          "answer": "hào",
+          "explanation": "Ở đây 好 là động từ mang nghĩa 'thích, ham' (thích đọc sách) nên đọc thanh 4: hào.",
+          "review_tip": "Ôn chữ đa âm 好 (hǎo vs hào)."
+        },
+        {
+          "id": "st4_e2", "type": "context_mc", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn nhóm từ mà chữ “空” ĐỀU đọc là kòng (thanh 4):",
+          "options": ["填空、有空儿、空白", "空气、填空、天空", "空调、空白、天空", "空手、空气、有空儿"],
+          "answer": "填空、有空儿、空白",
+          "explanation": "Cả 填空 (điền chỗ trống), 有空儿 (có thời gian rảnh), 空白 (chỗ để trống) đều thuộc nhóm nghĩa 'khoảng trống / giờ rảnh' → kòng.",
+          "review_tip": "Ôn chữ đa âm 空."
+        },
+        {
+          "id": "st4_e3", "type": "context_mc", "level": "Vận dụng", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Trong câu “用左手歪歪扭扭写下一行字递给评委”, chữ “行” đọc đúng theo chuẩn Phổ thông là gì?",
+          "options": ["háng", "xíng", "hàng", "xìng"],
+          "answer": "háng",
+          "explanation": "一行字 = một dòng/hàng chữ (lượng từ chỉ hàng lối) → đọc háng.",
+          "review_tip": "Ôn chữ đa âm 行 (xíng vs háng)."
+        }
+      ]
+    },
+    {
+      "id": "st4_pkg2",
+      "title": "Gói 2: 6 chữ đa âm siêu quen trong HSK 4–5 (还 · 为 · 得 · 觉 · 乐 · 发)",
+      "intro": "Sáu chữ xuất hiện hầu như trong mọi bài khóa HSK 4上 / 4下 / 5上 và bài đọc hiểu thi Chuyên Trung. Nắm chắc ranh giới từ loại và nghĩa gốc giúp bạn phản xạ đúng thanh điệu ngay khi đọc lướt.",
+      "source_status": "verified_source",
+      "source_ids": ["SRC_ZDIC", "PDF_HSK4_SHANG", "PDF_HSK4_XIA", "PDF_HSK5_SHANG"],
+      "items": [
+        {
+          "char": "还",
+          "why_diff": "Phó từ chỉ sự tiếp diễn/bổ sung đọc hái; động từ chỉ hành động hoàn trả lại vật hay tiền cho chủ cũ đọc huán.",
+          "readings": [
+            { "pinyin": "hái", "meaning": "Phó từ: vẫn, còn, hơn nữa, hãy còn", "words": "还是、还有、还好、还不算晚", "example_zh": "时间还不算晚，我们再复习一遍吧。", "example_vi": "Thời gian vẫn chưa muộn lắm, chúng ta ôn lại một lượt nhé." },
+            { "pinyin": "huán", "meaning": "Động từ: trả lại, hoàn trả", "words": "还书、归还、还钱、还给", "example_zh": "从图书馆借的书要按时归还。", "example_vi": "Sách mượn từ thư viện phải trả lại đúng hạn." }
+          ],
+          "memory_tip": "'Vẫn còn' = hái; 'Hoàn trả' = huán (đồng âm Hán-Việt 'hoàn' trong 归还!)."
+        },
+        {
+          "char": "为",
+          "why_diff": "Giới từ chỉ mục đích, đối tượng hoặc nguyên nhân ('vì, cho') đọc thanh 4 (wèi); động từ mang nghĩa 'làm, trở thành, coi là' đọc thanh 2 (wéi).",
+          "readings": [
+            { "pinyin": "wèi", "meaning": "Giới từ: vì, cho, bởi vì", "words": "为了、因为、为人民服务、为什么", "example_zh": "为了实现梦想，他每天都坚持练习。", "example_vi": "Vì để thực hiện ước mơ, mỗi ngày cậu ấy đều kiên trì luyện tập." },
+            { "pinyin": "wéi", "meaning": "Động từ: làm, trở thành, cho rằng, coi như", "words": "成为、认为、行为、作为", "example_zh": "大家都认为他的行为值得学习。", "example_vi": "Mọi người đều cho rằng hành vi của cậu ấy đáng học hỏi." }
+          ],
+          "memory_tip": "Hễ dịch là 'vì / cho' (为了、因为、为人民服务) → thanh 4 wèi; dịch là 'làm / thành / cho là' (成为、认为、行为) → thanh 2 wéi!"
+        },
+        {
+          "char": "得",
+          "why_diff": "Ba chức năng ngữ pháp tách biệt hoàn toàn: trợ từ kết cấu đọc thanh nhẹ (de), động từ 'đạt được' đọc thanh 2 (dé), trợ động từ 'phải/cần phải' đọc thanh 3 (děi).",
+          "readings": [
+            { "pinyin": "de", "meaning": "Trợ từ kết cấu đứng sau động/tính từ nối bổ ngữ trình độ hoặc khả năng", "words": "跑得快、写得好、说得流利、做得完", "example_zh": "她的汉字写得好，说话也很流利。", "example_vi": "Chữ Hán của bạn ấy viết đẹp, nói chuyện cũng rất lưu loát." },
+            { "pinyin": "dé", "meaning": "Động từ: đạt được, thu được, nhận được", "words": "得到、取得、得意、得分", "example_zh": "经过努力，他终于取得了优异的成绩。", "example_vi": "Trải qua nỗ lực, cuối cùng cậu ấy đã đạt được thành tích xuất sắc." },
+            { "pinyin": "děi", "meaning": "Trợ động từ: phải, cần phải (khẩu ngữ)", "words": "得去、得努力、就得、总得", "example_zh": "离考试只剩一个月了，我们得努力复习。", "example_vi": "Chỉ còn một tháng nữa là đến kỳ thi, chúng ta phải nỗ lực ôn tập." }
+          ],
+          "memory_tip": "Sau động/tính từ (跑得快) = de; 'Đạt được' (得到、取得) = dé; 'Phải làm gì' (得去、得努力) = děi!"
+        },
+        {
+          "char": "觉",
+          "why_diff": "Động từ/danh từ chỉ cảm giác, nhận thức đọc jué; danh từ chỉ giấc ngủ (kết hợp cố định với 睡, 午) đọc jiào.",
+          "readings": [
+            { "pinyin": "jué", "meaning": "Cảm thấy, cảm giác, nhận ra, tự giác", "words": "觉得、感觉、自觉、发觉", "example_zh": "我觉得养成自觉学习的习惯很重要。", "example_vi": "Tôi cảm thấy hình thành thói quen tự giác học tập rất quan trọng." },
+            { "pinyin": "jiào", "meaning": "Giấc ngủ", "words": "睡觉、午觉、睡懒觉", "example_zh": "中午睡一会儿午觉，下午上课更有精神。", "example_vi": "Buổi trưa ngủ một giấc ngắn, buổi chiều lên lớp sẽ tỉnh táo hơn." }
+          ],
+          "memory_tip": "Chỉ cần liên quan đến 'giấc ngủ' (睡觉、午觉) đọc jiào; còn lại nghĩa 'cảm giác / giác ngộ' đều đọc jué!"
+        },
+        {
+          "char": "乐",
+          "why_diff": "Thanh 4 (lè) biểu thị tâm trạng vui vẻ, lạc quan; thanh 4 (yuè) thuộc hệ thống âm nhạc, nhạc cụ (âm Hán-Việt 'nhạc').",
+          "readings": [
+            { "pinyin": "lè", "meaning": "Vui vẻ, hân hoan, lạc quan", "words": "快乐、乐观、助人为乐、可乐", "example_zh": "她性格开朗乐观，平时总是助人为乐。", "example_vi": "Tính cách cô ấy cởi mở lạc quan, ngày thường luôn vui vẻ giúp đỡ người khác." },
+            { "pinyin": "yuè", "meaning": "Âm nhạc, nhạc cụ, dàn nhạc", "words": "音乐、乐器、乐队、声乐", "example_zh": "听轻音乐能帮我们放松心情。", "example_vi": "Nghe nhạc nhẹ có thể giúp chúng ta thư giãn tâm trạng." }
+          ],
+          "memory_tip": "Hán-Việt 'lạc' (vui vẻ: 快乐、乐观) → lè; Hán-Việt 'nhạc' (âm nhạc: 音乐、乐器) → yuè!"
+        },
+        {
+          "char": "发",
+          "why_diff": "Chữ giản thể 发 gộp từ hai chữ phồn thể khác gốc: 發 (phát ra, gửi, khởi hành → fā) và 髮 (tóc → fà).",
+          "readings": [
+            { "pinyin": "fā", "meaning": "Phát ra, nảy sinh, gửi đi, khởi hành, phát triển", "words": "发现、发展、出发、发短信", "example_zh": "出发前，别忘了给家里发短信报平安。", "example_vi": "Trước khi xuất phát, đừng quên gửi tin nhắn báo bình an cho gia đình." },
+            { "pinyin": "fà", "meaning": "Tóc (trong 头发 thường đọc thanh nhẹ tóufa; trong 理发 chuẩn Đại lục đọc thanh 4 lǐfà)", "words": "头发、理发、白发", "example_zh": "天气热了，我想周末去理发。", "example_vi": "Trời nóng rồi, cuối tuần tôi muốn đi cắt tóc." }
+          ],
+          "memory_tip": "Hễ nói về 'tóc' (头发、理发) đọc thanh 4 fà (lưu ý chuẩn Đại lục 理发 là lǐfà!); mọi nghĩa 'phát / gửi' khác đọc fā."
+        }
+      ],
+      "package_notes": "Điểm hay nhầm trong Gói 2: (1) Chuẩn Phổ thông Đại lục đọc 理发 là lǐfà (thanh 4), khác với một số vùng đọc thanh 3; (2) Với chữ 得, cần nhìn vị trí trong câu để phân biệt nhanh 得到 (dé) với 得努力 (děi).",
+      "exercises": [
+        {
+          "id": "st4_p2_e1", "type": "meaning_mc", "level": "Nhận biết", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Trong câu “这本书我下周一定还给你”, chữ “还” đọc là gì?",
+          "options": ["huán", "hái", "huàn", "hǎi"],
+          "answer": "huán",
+          "explanation": "“还给你” nghĩa là 'trả lại cho bạn' (động từ chỉ hành động hoàn trả) → đọc thanh 2: huán.",
+          "review_tip": "Ôn chữ đa âm 还 (hái vs huán)."
+        },
+        {
+          "id": "st4_p2_e2", "type": "context_mc", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn nhóm từ mà chữ “为” ĐỀU đọc là wéi (thanh 2):",
+          "options": ["成为、认为、行为", "为了、成为、认为", "因为、行为、成为", "为人民服务、认为、为了"],
+          "answer": "成为、认为、行为",
+          "explanation": "Cả 成为 (trở thành), 认为 (cho rằng), 行为 (hành vi) đều mang nghĩa 'làm / trở thành / coi là' → đọc thanh 2 wéi. Còn 为了、因为、为人民服务 đều mang nghĩa 'vì / cho' → wèi.",
+          "review_tip": "Ôn chữ đa âm 为 (wèi vs wéi)."
+        },
+        {
+          "id": "st4_p2_e3", "type": "context_mc", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Trong câu “想要取得好成绩，平时就得认真复习，才能考得好”, ba chữ “得” lần lượt đọc là:",
+          "options": ["dé — děi — de", "děi — dé — de", "dé — de — děi", "de — děi — dé"],
+          "answer": "dé — děi — de",
+          "explanation": "取得 (qǔdé = đạt được) → dé; 就得 (jiù děi = liền phải) → děi; 考得好 (kǎo de hǎo = thi đạt kết quả tốt, bổ ngữ trình độ) → thanh nhẹ de.",
+          "review_tip": "Ôn 3 cách đọc của chữ 得 (de / dé / děi)."
+        },
+        {
+          "id": "st4_p2_e4", "type": "context_mc", "level": "Vận dụng", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn câu có cách ghi Pinyin ĐÚNG theo chuẩn tiếng Phổ thông Trung Quốc đại lục:",
+          "options": [
+            "周末他去理发 (lǐfà)，顺便听了一会儿音乐 (yīnyuè)。",
+            "晚上我感觉 (gǎnjiào) 很累，想早点睡觉 (shuìjué)。",
+            "她非常乐观 (yuèguān)，总是助人为乐 (zhùrénwéiyuè)。",
+            "出发 (chūfà) 之前，别忘了给妈妈发短信 (fà duǎnxìn)。"
+          ],
+          "answer": "周末他去理发 (lǐfà)，顺便听了一会儿音乐 (yīnyuè)。",
+          "explanation": "理发 (cắt tóc) chuẩn Đại lục đọc lǐfà (thanh 4) và 音乐 (âm nhạc) đọc yīnyuè. Các câu sai: 感觉 phải là gǎnjué, 睡觉 là shuìjiào; 乐观/助人为乐 phải là lè; 出发/发短信 phải là fā.",
+          "review_tip": "Ôn bộ 3 chữ 觉 · 乐 · 发 trong Gói 2."
+        }
+      ]
+    },
+    {
+      "id": "st4_pkg3",
+      "title": "Gói 3: 6 chữ đa âm hay bẫy điểm thi Chuyên Trung (着 · 教 · 便 · 调 · 假 · 兴)",
+      "intro": "Tập hợp những cái bẫy thanh điệu khét tiếng nhất trong đề thi Chuyên Trung và HSK 4–5 (như 兴奋 đọc thanh 1 xīngfèn, 强调 đọc qiángdiào, 教书 đọc jiāoshū). Học kỹ gói này sẽ giúp bạn không mất điểm oan ở câu hỏi ngữ âm.",
+      "source_status": "verified_source",
+      "source_ids": ["SRC_ZDIC", "PDF_HSK4_XIA", "PDF_HSK5_SHANG"],
+      "items": [
+        {
+          "char": "着",
+          "why_diff": "Trợ từ trạng thái đọc thanh nhẹ (zhe); chỉ kết quả đã đạt được/ngủ thiếp/sốt ruột đọc zháo; dùng trong từ ghép trang trọng mang nghĩa 'mặc, chạm tới, cân nhắc' đọc zhuó.",
+          "readings": [
+            { "pinyin": "zhe", "meaning": "Trợ từ động thái: biểu thị động tác hoặc trạng thái đang duy trì", "words": "看着、写着、开着、笑着", "example_zh": "他正坐在书桌前认真地写着作业。", "example_vi": "Cậu ấy đang ngồi trước bàn học chăm chú viết bài tập." },
+            { "pinyin": "zháo", "meaning": "Động từ / bổ ngữ kết quả: đạt tới, trúng, ngủ thiếp đi, lo lắng", "words": "睡着、着急、找着了、着凉", "example_zh": "别着急，钥匙一定能找着。", "example_vi": "Đừng lo lắng, chìa khóa nhất định sẽ tìm thấy." },
+            { "pinyin": "zhuó", "meaning": "Mặc (trang phục), chạm vào, cân nhắc suy nghĩ cho ai", "words": "穿着、着想、着重、着手", "example_zh": "好朋友之间应该多为对方着想。", "example_vi": "Giữa bạn bè thân thiết nên suy nghĩ cho đối phương nhiều hơn." }
+          ],
+          "memory_tip": "Đang duy trì (看着、写着) = zhe; Ngủ thiếp / Sốt ruột / Tìm thấy (睡着、着急、找着了) = zháo; Ăn mặc / Nghĩ cho ai (穿着、着想) = zhuó!"
+        },
+        {
+          "char": "教",
+          "why_diff": "Động từ truyền dạy trực tiếp kỹ năng hoặc môn học cụ thể đọc thanh 1 (jiāo); danh từ/động từ thuộc lĩnh vực giáo dục, nơi học, chức danh đọc thanh 4 (jiào).",
+          "readings": [
+            { "pinyin": "jiāo", "meaning": "Động từ: dạy trực tiếp (môn học, kỹ năng, kiến thức)", "words": "教书、教汉语、教游泳、教唱歌", "example_zh": "李老师在这所中学教书已经十年了。", "example_vi": "Cô Lý đã dạy học ở trường trung học này mười năm rồi." },
+            { "pinyin": "jiào", "meaning": "Giáo dục, phòng học, chức danh nhà giáo, tài liệu giảng dạy", "words": "教室、教育、教授、教材", "example_zh": "下课后，同学们把教室打扫得干干净净。", "example_vi": "Sau giờ học, các bạn học sinh quét dọn phòng học sạch sẽ tinh tươm." }
+          ],
+          "memory_tip": "'Dạy ai làm gì / dạy môn gì' (教书、教汉语、教游泳) → thanh 1 jiāo; từ ghép có sắc thái 'giáo dục' (教室、教育、教授、教材) → thanh 4 jiào!"
+        },
+        {
+          "char": "便",
+          "why_diff": "Nghĩa gốc thuận tiện, dễ dàng đọc biàn (thanh 4); chỉ đổi sang pián (thanh 2) trong tổ hợp quen thuộc chỉ giá cả rẻ/hời (便宜).",
+          "readings": [
+            { "pinyin": "biàn", "meaning": "Tiện lợi, thuận tiện, tùy tiện", "words": "方便、随便、便利、顺便", "example_zh": "我家附近有地铁站，出行非常方便。", "example_vi": "Gần nhà tôi có ga tàu điện ngầm, đi lại vô cùng thuận tiện." },
+            { "pinyin": "pián", "meaning": "Rẻ, hời (trong 便宜 đọc chuẩn là piányi)", "words": "便宜、占便宜", "example_zh": "这家书店的参考书既实用又便宜。", "example_vi": "Sách tham khảo của hiệu sách này vừa thiết thực vừa rẻ." }
+          ],
+          "memory_tip": "Chỉ nhớ ngoại lệ vàng: 'Rẻ' (便宜 = piányi) đọc pián; còn lại nghĩa 'tiện' (方便、随便、便利) đều đọc biàn!"
+        },
+        {
+          "char": "调",
+          "why_diff": "Thanh 2 (tiáo) chỉ sự điều chỉnh, pha trộn cho hài hòa cân bằng; thanh 4 (diào) chỉ điều tra, giai điệu/thanh điệu, nhấn giọng hoặc điều động công tác.",
+          "readings": [
+            { "pinyin": "tiáo", "meaning": "Điều chỉnh, điều hòa, hòa hợp cho cân đối", "words": "空调、调整、协调、调味", "example_zh": "考前要学会调整心态，不要太紧张。", "example_vi": "Trước kỳ thi phải biết điều chỉnh tâm lý, đừng quá căng thẳng." },
+            { "pinyin": "diào", "meaning": "Điều tra, giọng điệu/thanh điệu, nhấn mạnh, điều chuyển công tác", "words": "调查、声调、强调、调动", "example_zh": "老师反复强调，学汉语一定要读准声调。", "example_vi": "Thầy cô nhấn mạnh nhiều lần rằng học tiếng Hán nhất định phải đọc chuẩn thanh điệu." }
+          ],
+          "memory_tip": "'Điều chỉnh cho êm/hòa' (空调、调整、协调) = tiáo; 'Điều tra / Thanh điệu / Nhấn giọng' (调查、声调、强调) = diào!"
+        },
+        {
+          "char": "假",
+          "why_diff": "Thanh 3 (jiǎ) mang nghĩa giả dối, không thật hoặc giả thiết; thanh 4 (jià) chỉ kỳ nghỉ, ngày nghỉ phép theo quy định.",
+          "readings": [
+            { "pinyin": "jiǎ", "meaning": "Giả, không thật; giả sử, giả vờ", "words": "假如、假装、真假、假设", "example_zh": "假如明天下雨，运动会就改到下周举行。", "example_vi": "Giả sử ngày mai trời mưa, hội thao sẽ chuyển sang tuần sau tổ chức." },
+            { "pinyin": "jià", "meaning": "Kỳ nghỉ, ngày nghỉ, xin nghỉ phép", "words": "放假、请假、暑假、假期", "example_zh": "今年暑假你打算怎么安排假期生活？", "example_vi": "Kỳ nghỉ hè năm nay bạn dự định sắp xếp thời gian nghỉ thế nào?" }
+          ],
+          "memory_tip": "'Giả / Giả sử' (假如、假装、真假) = thanh 3 jiǎ; 'Nghỉ phép / Kỳ nghỉ' (放假、请假、暑假、假期) = thanh 4 jià!"
+        },
+        {
+          "char": "兴",
+          "why_diff": "Bẫy điểm SỐ 1 trong đề thi! Thanh 1 (xīng) chỉ sự hưng thịnh, dấy lên, phấn khích mạnh (đặc biệt là 兴奋 xīngfèn); thanh 4 (xìng) chỉ hứng thú, tâm trạng vui vẻ.",
+          "readings": [
+            { "pinyin": "xīng", "meaning": "Hưng thịnh, dấy lên, phấn khích cao độ (CHÚ Ý BẪY: 兴奋 đọc thanh 1 xīngfèn!)", "words": "兴奋、兴起、复兴、新兴", "example_zh": "听到被录取的消息，全家人都非常兴奋。", "example_vi": "Nghe tin trúng tuyển, cả gia đình đều vô cùng phấn khích." },
+            { "pinyin": "xìng", "meaning": "Hứng thú, niềm vui, hứng khởi", "words": "高兴、兴趣、扫兴、尽兴", "example_zh": "他对中华传统文化一直很感兴趣。", "example_vi": "Cậu ấy luôn rất có hứng thú với văn hóa truyền thống Trung Hoa." }
+          ],
+          "memory_tip": "KHẮC CỐT GHI TÂM: 兴奋 = xīngfèn (thanh 1, TUYỆT ĐỐI KHÔNG đọc xìngfèn)! Còn 高兴、兴趣、扫兴 mới đọc thanh 4 xìng!"
+        }
+      ],
+      "package_notes": "Cảnh báo bẫy thi Chuyên Trung: 4 từ dễ bị đọc sai nhất trong Gói 3 là 兴奋 (xīngfèn — thanh 1, không phải xìngfèn), 强调 (qiángdiào — không phải qiángtiáo), 空调 (kōngtiáo — không phải kōngdiào) và 着想 (zhuóxiǎng — không phải zháoxiǎng).",
+      "exercises": [
+        {
+          "id": "st4_p3_e1", "type": "meaning_mc", "level": "Nhận biết", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Theo chuẩn tiếng Phổ thông Trung Quốc đại lục, từ “兴奋” (phấn khích, hưng phấn) đọc đúng là gì?",
+          "options": ["xīngfèn", "xìngfèn", "xīngfēn", "xìngfēn"],
+          "answer": "xīngfèn",
+          "explanation": "Đây là bẫy kinh điển bậc nhất trong đề thi! Chữ “兴” trong 兴奋 mang nghĩa 'dấy lên, hưng phấn' nên đọc thanh 1 (xīng), ghép thành xīngfèn (KHÔNG đọc xìngfèn).",
+          "review_tip": "Ôn kỹ bẫy chữ đa âm 兴 (兴奋 xīngfèn vs 高兴 gāoxìng)."
+        },
+        {
+          "id": "st4_p3_e2", "type": "context_mc", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn nhóm từ mà chữ “调” ĐỀU đọc là diào (thanh 4):",
+          "options": ["调查、声调、强调", "空调、调查、声调", "调整、强调、协调", "声调、空调、调整"],
+          "answer": "调查、声调、强调",
+          "explanation": "调查 (điều tra), 声调 (thanh điệu), 强调 (nhấn mạnh) đều thuộc nhóm đọc diào (thanh 4). Còn 空调、调整、协调 mang nghĩa 'điều chỉnh, hòa hợp' nên đọc tiáo (thanh 2).",
+          "review_tip": "Ôn chữ đa âm 调 (tiáo vs diào)."
+        },
+        {
+          "id": "st4_p3_e3", "type": "context_mc", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Trong câu “王老师在教室里教我们汉语”, hai chữ “教” lần lượt đọc là:",
+          "options": ["jiào — jiāo", "jiāo — jiào", "jiào — jiào", "jiāo — jiāo"],
+          "answer": "jiào — jiāo",
+          "explanation": "教室 (phòng học) là danh từ chỉ cơ sở giáo dục → đọc thanh 4 jiào; 教汉语 (dạy tiếng Hán trực tiếp) là động từ truyền dạy môn học → đọc thanh 1 jiāo.",
+          "review_tip": "Ôn chữ đa âm 教 (jiāo vs jiào)."
+        },
+        {
+          "id": "st4_p3_e4", "type": "context_mc", "level": "Vận dụng", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Trong câu “他总是替别人着想，放假前虽然很忙，但还是帮我们订到了很便宜的火车票”, các chữ “着、假、便” lần lượt đọc là:",
+          "options": ["zhuó — jià — pián", "zháo — jiǎ — biàn", "zhe — jià — pián", "zhuó — jiǎ — biàn"],
+          "answer": "zhuó — jià — pián",
+          "explanation": "着想 (nghĩ cho ai) đọc zhuóxiǎng → zhuó; 放假 (nghỉ lễ/kỳ nghỉ) đọc fàngjià → jià; 便宜 (rẻ) đọc piányi → pián.",
+          "review_tip": "Ôn bộ 3 chữ 着 · 假 · 便 trong Gói 3."
+        }
+      ]
+    }
+  ],
+  "comprehensive_test": [
+    {
+      "id": "st4_ct1", "type": "context_mc", "level": "Vận dụng", "mistake_category": "Kiến thức nâng cao",
+      "prompt": "[Tổng hợp Trạm 4] Trong các cách đọc sau, từ nào ghi SAI thanh điệu chuẩn Phổ thông Đại lục?",
+      "options": ["患难与共 (huànnán yǔgòng)", "重新 (chóngxīn)", "填空 (tiánkòng)", "长大 (zhǎngdà)"],
+      "answer": "患难与共 (huànnán yǔgòng)",
+      "explanation": "难 trong 患难与共 mang nghĩa 'tai họa, hoạn nạn', phải đọc thanh 4 là huànnàn yǔgòng!",
+      "review_tip": "Ôn chữ đa âm 难 (nán vs nàn)."
+    },
+    {
+      "id": "st4_ct2", "type": "context_mc", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+      "prompt": "[Tổng hợp Trạm 4] Chọn phương án có TẤT CẢ các từ đều ghi ĐÚNG phiên âm chuẩn Phổ thông Đại lục:",
+      "options": [
+        "兴奋 (xīngfèn)、归还 (guīhuán)、空调 (kōngtiáo)",
+        "兴奋 (xìngfèn)、取得 (qǔdé)、一行字 (yì háng zì)",
+        "好读书 (hǎo dúshū)、理发 (lǐfà)、强调 (qiángdiào)",
+        "教书 (jiàoshū)、便宜 (piányi)、睡觉 (shuìjiào)"
+      ],
+      "answer": "兴奋 (xīngfèn)、归还 (guīhuán)、空调 (kōngtiáo)",
+      "explanation": "兴奋 đọc thanh 1 xīngfèn, 归还 (trả lại) đọc guīhuán, 空调 (điều hòa) đọc kōngtiáo. Các đáp án kia sai ở: 兴奋 (phải là xīngfèn), 好读书 (phải là hào), 教书 (phải là jiāoshū).",
+      "review_tip": "Ôn lại các từ bẫy xuyên suốt Gói 1, 2 và 3."
+    },
+    {
+      "id": "st4_ct3", "type": "context_mc", "level": "Vận dụng", "mistake_category": "Kiến thức nâng cao",
+      "prompt": "[Tổng hợp Trạm 4] Trong câu “放假前我得先把借来的书还给图书馆，这样才能重新调整作息”, các chữ “假、得、还、重、调” lần lượt đọc là:",
+      "options": [
+        "jià — děi — huán — chóng — tiáo",
+        "jiǎ — dé — hái — zhòng — diào",
+        "jià — dé — huán — chóng — diào",
+        "jià — děi — hái — zhòng — tiáo"
+      ],
+      "answer": "jià — děi — huán — chóng — tiáo",
+      "explanation": "放假 (kỳ nghỉ) → jià; 得先 (phải làm trước) → děi; 还给 (trả lại cho) → huán; 重新 (làm lại từ đầu) → chóng; 调整 (điều chỉnh) → tiáo.",
+      "review_tip": "Luyện phản xạ đa âm trong câu dài qua cả 3 gói Trạm 4."
+    },
+    {
+      "id": "st4_ct4", "type": "context_mc", "level": "Vận dụng", "mistake_category": "Kiến thức nâng cao",
+      "prompt": "[Tổng hợp Trạm 4] Trong các cách đọc sau, từ nào ghi SAI thanh điệu chuẩn Phổ thông Đại lục?",
+      "options": [
+        "强调 (qiángtiáo)",
+        "助人为乐 (zhùrénwéilè)",
+        "有空儿 (yǒukòngr)",
+        "着急 (zháojí)"
+      ],
+      "answer": "强调 (qiángtiáo)",
+      "explanation": "强调 (nhấn mạnh) thuộc nhóm nghĩa 'giọng điệu / nhấn giọng', phải đọc thanh 4 là qiángdiào (KHÔNG đọc qiángtiáo). Các từ còn lại đều chuẩn: 助人为乐 (wéi + lè), 有空儿 (kòng), 着急 (zháo).",
+      "review_tip": "Ôn lại các cặp dễ nhầm: 调 (tiáo vs diào), 为 (wèi vs wéi), 空 (kōng vs kòng), 着 (zhe/zháo/zhuó)."
+    }
+  ]
+}

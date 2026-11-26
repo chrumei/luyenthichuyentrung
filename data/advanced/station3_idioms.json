@@ -1,0 +1,379 @@
+{
+  "id": "station3",
+  "kind": "idioms",
+  "icon": "🏮",
+  "shortTitle": "Trạm 3: Thành ngữ & Quán dụng",
+  "title_vi": "TRẠM 3. THÀNH NGỮ VÀ QUÁN DỤNG NGỮ",
+  "title_zh": "成语与惯用语",
+  "description": "Phân biệt rõ Thành ngữ (成语 – cô đọng 4 chữ, sắc thái văn viết) và Quán dụng ngữ (惯用语 – thường 3 chữ, hình ảnh sinh động, sắc thái khẩu ngữ) kèm ngữ cảnh dùng chuẩn.",
+  "packages": [
+    {
+      "id": "st3_pkg1",
+      "title": "Gói 1: 6 Thành ngữ & Quán dụng ngữ ứng dụng cao trong giao tiếp và đọc hiểu",
+      "intro": "Gồm 3 Thành ngữ (成语) gắn trực tiếp với chủ đề đời sống/HSK 4–5 và 3 Quán dụng ngữ (惯用语) siêu thông dụng giúp hiểu sâu sắc thái biểu đạt tự nhiên của người bản xứ.",
+      "source_status": "verified_source",
+      "source_ids": ["SRC_ZDIC", "SRC_MOE_TW", "PDF_HSK5_SHANG"],
+      "items": [
+        {
+          "subtype": "成语", "hanzi": "相敬如宾", "pinyin": "xiāngjìng rúbīn",
+          "meaning_vi": "Tương kính như tân (vợ chồng tôn trọng nhau như đối đãi khách quý)",
+          "meaning_zh": "形容夫妻互相尊敬，像对待宾客一样。",
+          "nuance": "Sắc thái trang trọng, khen ngợi (褒义).",
+          "usage": "Thường làm vị ngữ hoặc định ngữ, CHỈ dùng cho quan hệ vợ chồng.",
+          "example": { "chinese": "十几年的婚姻生活中，他们一直相亲相爱、相敬如宾。", "pinyin": "Shí jǐ nián de hūnyīn shēnghuó zhōng, tāmen yìzhí xiāngqīn xiāng'ài, xiāngjìng rúbīn.", "vietnamese": "Trong hơn mười năm hôn nhân, họ luôn thương yêu, kính trọng nhau như khách quý." },
+          "memory_tip": "相敬 (kính nhau) + 如宾 (như tân khách) → xuất hiện ngay trong HSK 5 上 Bài 1!",
+          "common_error": "Lỗi dùng sai đối tượng: KHÔNG dùng cho bạn thân hay đồng nghiệp (Sai: '我和同桌相敬如宾')."
+        },
+        {
+          "subtype": "成语", "hanzi": "患难与共", "pinyin": "huànnàn yǔgòng",
+          "meaning_vi": "Hoạn nạn có nhau, đồng cam cộng khổ",
+          "meaning_zh": "共同承担危险和困难，指彼此关系极为深厚。",
+          "nuance": "Sắc thái trang trọng, ca ngợi (褒义).",
+          "usage": "Dùng cho vợ chồng, bạn bè chí cốt, đồng đội cùng vượt qua gian nan.",
+          "example": { "chinese": "他们是一对患难与共的好朋友。", "pinyin": "Tāmen shì yí duì huànnàn yǔgòng de hǎo péngyou.", "vietnamese": "Họ là một đôi bạn tốt hoạn nạn có nhau." },
+          "memory_tip": "Chú ý chữ 难 đọc thanh 4 (nàn – tai nạn) chứ không phải nán!",
+          "common_error": "Không dùng cho những khó khăn quá vụn vặt nhỏ nhặt."
+        },
+        {
+          "subtype": "成语", "hanzi": "半途而废", "pinyin": "bàntú érfèi",
+          "meaning_vi": "Bỏ cuộc giữa chừng",
+          "meaning_zh": "路走到一半就停了下来，比喻做事不能坚持到底。",
+          "nuance": "Sắc thái phê bình, khuyên răn (贬义).",
+          "usage": "Rất hay dùng trong bài đọc hiểu và bài viết về học tập, rèn luyện kiên trì.",
+          "example": { "chinese": "学习外语最重要的是坚持，千万不能半途而废。", "pinyin": "Xuéxí wàiyǔ zuì zhòngyào de shì jiānchí, qiānwàn bù néng bàntú érfèi.", "vietnamese": "Học ngoại ngữ quan trọng nhất là kiên trì, tuyệt đối không thể bỏ cuộc giữa chừng." },
+          "memory_tip": "半途 (nửa đường) + 而废 (mà bỏ dở).",
+          "common_error": "Vì bản thân đã mang nghĩa 'giữa chừng', không nói thừa '在中间半途而废'."
+        },
+        {
+          "subtype": "惯用语", "hanzi": "开夜车", "pinyin": "kāi yèchē",
+          "meaning_vi": "Thức khuya làm việc / cày đêm ôn thi",
+          "meaning_zh": "比喻为了赶工作或学习而熬夜到很晚。",
+          "nuance": "Quán dụng ngữ khẩu ngữ, sinh động, trung tính/hơi hài hước.",
+          "usage": "Là quán dụng ngữ kết cấu động-tân (có thể chèn vào giữa: 开了一宿夜车).",
+          "example": { "chinese": "平时不认真复习，快考试了才开夜车，效果肯定不好。", "pinyin": "Píngshí bù rènzhēn fùxí, kuài kǎoshì le cái kāi yèchē, xiàoguǒ kěndìng bù hǎo.", "vietnamese": "Bình thường không ôn kỹ, sát thi mới thức đêm cày bài thì hiệu quả chắc chắn không tốt." },
+          "memory_tip": "Nghĩa đen là 'lái xe đêm' → nghĩa bóng là thức thâu đêm học bài/làm việc.",
+          "common_error": "Hiểu nhầm theo nghĩa đen là lái ô tô vào ban đêm."
+        },
+        {
+          "subtype": "惯用语", "hanzi": "碰钉子", "pinyin": "pèng dīngzi",
+          "meaning_vi": "Bị từ chối phũ phàng, gặp trắc trở / va phải đá tảng",
+          "meaning_zh": "比喻遭到拒绝或受到斥责、挫折。",
+          "nuance": "Quán dụng ngữ khẩu ngữ, hình tượng (thường dùng trong lời kể đời thường).",
+          "usage": "Có thể mở rộng thành 碰了个软钉子 (bị từ chối khéo) hoặc 碰了个硬钉子 (bị từ chối thẳng thừng).",
+          "example": { "chinese": "他刚找工作时碰了不少钉子，但从来没有灰心。", "pinyin": "Tā gāng zhǎo gōngzuò shí pèng le bùshǎo dīngzi, dàn cónglái méiyǒu huīxīn.", "vietnamese": "Lúc mới đi tìm việc anh ấy gặp không ít lần bị từ chối/trắc trở, nhưng chưa bao giờ nản lòng." },
+          "memory_tip": "碰 (va trúng) + 钉子 (cây đinh) → gặp sự cự tuyệt đau điếng.",
+          "common_error": "Không dùng trong văn bản hành chính quá trịnh trọng."
+        },
+        {
+          "subtype": "惯用语", "hanzi": "走后门", "pinyin": "zǒu hòumén",
+          "meaning_vi": "Đi cửa sau (dùng quan hệ riêng không chính đáng để đạt lợi ích)",
+          "meaning_zh": "比喻通过不正当的私人关系谋取利益或方便。",
+          "nuance": "Quán dụng ngữ khẩu ngữ, sắc thái chê trách (贬义).",
+          "usage": "Động-tân ly hợp (走了一下后门).",
+          "example": { "chinese": "这次比赛非常公平，谁也不能走后门。", "pinyin": "Zhè cì bǐsài fēicháng gōngpíng, shéi yě bù néng zǒu hòumén.", "vietnamese": "Cuộc thi lần này vô cùng công bằng, không ai có thể đi cửa sau." },
+          "memory_tip": "Nghĩa đen 'đi cửa sau' → nghĩa bóng giống hệt cách nói tiếng Việt!",
+          "common_error": "Nhầm với nghĩa đen đi ra cổng sau tòa nhà (muốn nói nghĩa đen nên nói 从后门进去)."
+        }
+      ],
+      "package_notes": "Phân biệt cốt lõi: Thành ngữ (成语) đa số 4 chữ, kết cấu cố định, nguồn gốc điển cố/văn ngôn; Quán dụng ngữ (惯用语) đa số 3 chữ kết cấu động-tân, có thể chen 了/个 vào giữa, sắc thái khẩu ngữ giàu hình ảnh.",
+      "exercises": [
+        {
+          "id": "st3_e1", "type": "meaning_mc", "level": "Nhận biết", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Trong các mục sau, mục nào là QUÁN DỤNG NGỮ (惯用语) chứ KHÔNG phải Thành ngữ (成语)?",
+          "options": ["开夜车", "相敬如宾", "患难与共", "半途而废"],
+          "answer": "开夜车",
+          "explanation": "开夜车 (3 chữ, kết cấu động-tân khẩu ngữ) là quán dụng ngữ; 3 mục còn lại đều là thành ngữ 4 chữ.",
+          "review_tip": "Phân biệt cấu tạo 4 chữ (成语) và 3 chữ khẩu ngữ (惯用语)."
+        },
+        {
+          "id": "st3_e2", "type": "context_mc", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Điền thành ngữ/quán dụng ngữ thích hợp: “做任何事情都要有耐心，如果遇到一点困难就______，是很难成功的。”",
+          "options": ["半途而废", "相敬如宾", "走后门", "开夜车"],
+          "answer": "半途而废",
+          "explanation": "Ngữ cảnh nói về việc gặp khó khăn đã bỏ dở giữa chừng → 半途而废.",
+          "review_tip": "Ôn nghĩa của 半途而废."
+        },
+        {
+          "id": "st3_e3", "type": "error_fix", "level": "Vận dụng", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Câu nào sau đây sử dụng thành ngữ SAI đối tượng?",
+          "options": [
+            "小王和小李是大学室友，两人一直相敬如宾。",
+            "爷爷奶奶结婚五十年了，一直相敬如宾。",
+            "这对患难与共的夫妻感动了所有评委。",
+            "为了明天的演讲比赛，他昨晚开了夜车。"
+          ],
+          "answer": "小王和小李是大学室友，两人一直相敬如宾。",
+          "explanation": "相敬如宾 CHỈ dùng cho quan hệ vợ chồng, KHÔNG dùng cho bạn cùng phòng đại học!",
+          "review_tip": "Luôn kiểm tra phạm vi đối tượng của thành ngữ."
+        }
+      ]
+    },
+    {
+      "id": "st3_pkg2",
+      "title": "Gói 2: 6 Thành ngữ trọng tâm chủ đề Học tập, Nỗ lực & Thói quen (HSK 4–5)",
+      "intro": "Tập hợp 6 Thành ngữ (成语) xuất hiện dày đặc trong bài đọc hiểu và bài nghị luận về phương pháp học tập, sự kiên trì và thói quen làm việc ở trình độ HSK 4–5.",
+      "source_status": "verified_source",
+      "source_ids": ["SRC_ZDIC", "SRC_MOE_TW", "PDF_HSK4_XIA", "PDF_HSK5_SHANG"],
+      "items": [
+        {
+          "subtype": "成语", "hanzi": "专心致志", "pinyin": "zhuānxīn zhìzhì",
+          "meaning_vi": "Chuyên tâm chú ý, tập trung toàn bộ tinh thần vào một việc",
+          "meaning_zh": "把心思全放在上面，形容一心一意，聚精会神。",
+          "nuance": "Sắc thái khen ngợi (褒义), thường dùng trong học tập và công việc.",
+          "usage": "Thường làm trạng ngữ (专心致志地学习/听课) hoặc vị ngữ.",
+          "example": { "chinese": "上课时她总是专心致志地听老师讲课，从不玩手机。", "pinyin": "Shàngkè shí tā zǒngshì zhuānxīn zhìzhì de tīng lǎoshī jiǎngkè, cóng bù wán shǒujī.", "vietnamese": "Khi lên lớp bạn ấy luôn chăm chú nghe thầy cô giảng bài, chưa bao giờ nghịch điện thoại." },
+          "memory_tip": "专心 (chuyên tâm) + 致志 (dồn hết ý chí) → trái nghĩa với thái độ làm việc 马马虎虎 (qua loa).",
+          "common_error": "Khi làm trạng ngữ đứng trước động từ thường cần thêm 地 (专心致志地复习); tránh thêm từ lặp nghĩa như '非常很专心致志'."
+        },
+        {
+          "subtype": "成语", "hanzi": "循序渐进", "pinyin": "xúnxù jiànjìn",
+          "meaning_vi": "Tuần tự tiệm tiến, học tập hoặc làm việc từng bước theo đúng trình tự",
+          "meaning_zh": "按照一定的步骤逐渐深入或提高，多指学习或工作。",
+          "nuance": "Sắc thái tích cực, khuyên răn (褒义/中性), rất phổ biến khi bàn về phương pháp học.",
+          "usage": "Thường làm vị ngữ, trạng ngữ (循序渐进地提高) hoặc định ngữ.",
+          "example": { "chinese": "学习汉语需要循序渐进，先打好基础，再慢慢提高难度。", "pinyin": "Xuéxí Hànyǔ xūyào xúnxù jiànjìn, xiān dǎhǎo jīchǔ, zài mànmàn tígāo nándù.", "vietnamese": "Học tiếng Trung cần tiến từng bước theo trình tự, trước tiên xây nền tảng thật vững, rồi từ từ nâng dần độ khó." },
+          "memory_tip": "循序 (theo thứ tự – 顺序) + 渐进 (dần dần tiến lên – 渐渐进步).",
+          "common_error": "Lỗi lặp nghĩa (语义重复): vì bản thân đã có nghĩa 'từng bước, dần dần', KHÔNG nói thừa '慢慢地循序渐进' hay '一步一步地循序渐进'."
+        },
+        {
+          "subtype": "成语", "hanzi": "坚持不懈", "pinyin": "jiānchí bùxiè",
+          "meaning_vi": "Kiên trì không ngừng nghỉ, bền bỉ không lơ là",
+          "meaning_zh": "坚持到底，一点儿也不松懈。",
+          "nuance": "Sắc thái ca ngợi mạnh (褒义), trái nghĩa trực tiếp với 半途而废 (bỏ cuộc giữa chừng).",
+          "usage": "Làm vị ngữ, trạng ngữ (坚持不懈地努力) hoặc định ngữ (坚持不懈的精神).",
+          "example": { "chinese": "经过三年坚持不懈的努力，他终于考上了理想的大学。", "pinyin": "Jīngguò sān nián jiānchí búxiè de nǔlì, tā zhōngyú kǎoshàng le lǐxiǎng de dàxué.", "vietnamese": "Trải qua ba năm nỗ lực kiên trì không ngừng nghỉ, cuối cùng anh ấy đã đỗ vào trường đại học mơ ước." },
+          "memory_tip": "坚持 (kiên trì – HSK 4) + 不懈 (không buông lơi). Chú ý biến điệu khi đọc: 不 đứng trước thanh 4 懈 (xiè) đọc thành bú.",
+          "common_error": "Không dùng cho thói quen xấu hay việc tiêu cực (Sai: '他坚持不懈地熬夜玩游戏')."
+        },
+        {
+          "subtype": "成语", "hanzi": "一举两得", "pinyin": "yījǔ liǎngdé",
+          "meaning_vi": "Một công đôi việc (làm một việc thu được hai lợi ích)",
+          "meaning_zh": "做一件事情，同时得到两方面的好处。",
+          "nuance": "Sắc thái khen ngợi, tích cực (褒义), rất hay gặp trong câu nêu lợi ích.",
+          "usage": "Thường làm vị ngữ hoặc định ngữ (一举两得的好办法), hay kết hợp với cặp liên từ 既……又…….",
+          "example": { "chinese": "骑自行车上班既能锻炼身体，又能省钱，真是一举两得。", "pinyin": "Qí zìxíngchē shàngbān jì néng duànliàn shēntǐ, yòu néng shěngqián, zhēn shì yìjǔ liǎngdé.", "vietnamese": "Đi làm bằng xe đạp vừa rèn luyện được sức khỏe, vừa tiết kiệm được tiền, thật đúng là một công đôi việc." },
+          "memory_tip": "一举 (một hành động) + 两得 (được hai lợi ích). Khi đọc, 一 đứng trước thanh 3 举 (jǔ) biến điệu thành yì.",
+          "common_error": "Chỉ dùng khi cả hai kết quả đều là mặt có lợi; không dùng cho hai hậu quả xấu."
+        },
+        {
+          "subtype": "成语", "hanzi": "画蛇添足", "pinyin": "huàshé tiānzú",
+          "meaning_vi": "Vẽ rắn thêm chân (làm thêm việc thừa thãi, không những vô ích mà còn phản tác dụng)",
+          "meaning_zh": "画蛇时给蛇添上脚，比喻做了多余的事，非但无益，反而有害。",
+          "nuance": "Sắc thái phê bình, nhắc nhở (贬义).",
+          "usage": "Làm vị ngữ, định ngữ (画蛇添足的做法) hoặc tân ngữ.",
+          "example": { "chinese": "这篇文章结尾已经很精彩了，再加一段反而显得画蛇添足。", "pinyin": "Zhè piān wénzhāng jiéwěi yǐjīng hěn jīngcǎi le, zài jiā yí duàn fǎn'ér xiǎnde huàshé tiānzú.", "vietnamese": "Phần kết bài văn này vốn đã rất hay rồi, thêm một đoạn nữa ngược lại khiến bài trở nên thừa thãi." },
+          "memory_tip": "画蛇 (vẽ rắn) + 添足 (thêm chân) → rắn không có chân, vẽ thêm vừa thừa vừa hỏng việc.",
+          "common_error": "Nhầm sắc thái khen – chê: KHÔNG dùng để khen ai đó bổ sung thêm chi tiết hay/cẩn thận."
+        },
+        {
+          "subtype": "成语", "hanzi": "马马虎虎", "pinyin": "mǎmǎhūhū",
+          "meaning_vi": "Qua loa đại khái, cẩu thả (hoặc: tạm tạm, ở mức trung bình)",
+          "meaning_zh": "形容做事不认真、不仔细；有时也形容水平一般，勉强过得去。",
+          "nuance": "Chê nhẹ (贬义) khi nói về thái độ làm việc; trung tính/khiêm tốn khi trả lời xã giao về trình độ.",
+          "usage": "Thành ngữ dạng AABB; làm vị ngữ (他做事很马马虎虎), trạng ngữ (马马虎虎地写完) hoặc định ngữ.",
+          "example": { "chinese": "做数学题一定要仔细，千万不能马马虎虎。", "pinyin": "Zuò shùxué tí yídìng yào zǐxì, qiānwàn bù néng mǎmǎhūhū.", "vietnamese": "Làm bài tập toán nhất định phải cẩn thận, tuyệt đối không thể qua loa cẩu thả." },
+          "memory_tip": "Nhớ đủ 2 nghĩa hay gặp trong đề thi: (1) cẩu thả, làm cho xong; (2) tạm tạm, bình thường (ví dụ: '你汉语说得怎么样？—马马虎虎吧').",
+          "common_error": "Tránh nhầm giữa hai ngữ cảnh nghĩa hoặc viết sai dạng lặp thành '马虎马虎' khi cần dùng như tính từ miêu tả thái độ."
+        }
+      ],
+      "package_notes": "Mẹo học nhanh Gói 2: Chia 6 thành ngữ thành 2 nhóm đối lập — Nhóm thái độ/phương pháp TÍCH CỰC (专心致志 – tập trung, 循序渐进 – từng bước, 坚持不懈 – bền bỉ, 一举两得 – một công đôi việc) và Nhóm thói quen cần TRÁNH (画蛇添足 – làm thừa hỏng việc, 马马虎虎 – cẩu thả qua loa). Đặc biệt chú ý lỗi lặp nghĩa với 循序渐进 và sắc thái khen/chê khi làm bài sửa lỗi sai.",
+      "exercises": [
+        {
+          "id": "st3_p2_e1", "type": "meaning_mc", "level": "Nhận biết", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Thành ngữ nào dưới đây mang nghĩa “làm một việc nhưng đồng thời thu được hai lợi ích”?",
+          "options": ["一举两得", "循序渐进", "画蛇添足", "专心致志"],
+          "answer": "一举两得",
+          "explanation": "一举两得 (nhất cử lưỡng đắc) nghĩa là một công đôi việc, làm một việc mà thu được hai mặt có lợi.",
+          "review_tip": "Ghi nhớ cấu tạo 一举 (một hành động) + 两得 (hai lợi ích)."
+        },
+        {
+          "id": "st3_p2_e2", "type": "context_mc", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Điền thành ngữ phù hợp nhất vào chỗ trống: “写作文时，把意思表达清楚就可以了，多余的句子不要加，免得______。”",
+          "options": ["画蛇添足", "坚持不懈", "循序渐进", "一举两得"],
+          "answer": "画蛇添足",
+          "explanation": "Vế trước nhắc không nên thêm những câu thừa thãi → tương ứng với 画蛇添足 (vẽ rắn thêm chân, làm thừa phản tác dụng).",
+          "review_tip": "Phân biệt rõ 画蛇添足 (làm thừa gây hại) với nhóm thành ngữ tích cực."
+        },
+        {
+          "id": "st3_p2_e3", "type": "context_mc", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn thành ngữ thích hợp để hoàn thành câu: “背单词不能一天想记住五百个，而应该______，每天按计划复习。”",
+          "options": ["循序渐进", "马马虎虎", "画蛇添足", "专心致志"],
+          "answer": "循序渐进",
+          "explanation": "Câu nhấn mạnh việc học từ vựng cần theo kế hoạch và trình tự từng bước chứ không nóng vội → chọn 循序渐进.",
+          "review_tip": "Gắn 循序渐进 với ngữ cảnh 'theo trình tự, từng bước nâng cao'."
+        },
+        {
+          "id": "st3_p2_e4", "type": "error_fix", "level": "Vận dụng", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Câu nào sau đây dùng thành ngữ KHÔNG ĐÚNG ngữ pháp hoặc sắc thái nghĩa?",
+          "options": [
+            "为了打好汉语基础，我们要慢慢地循序渐进。",
+            "只要你坚持不懈地练习听力，成绩一定会提高。",
+            "他正在房间里专心致志地准备明天的演讲。",
+            "参加这个志愿者活动既能帮到别人，又能认识新朋友，真是一举两得。"
+          ],
+          "answer": "为了打好汉语基础，我们要慢慢地循序渐进。",
+          "explanation": "循序渐进 bản thân đã chứa nghĩa 'dần dần, từng bước' (渐进), nên thêm '慢慢地' ở phía trước bị lỗi lặp nghĩa (语义重复). Câu đúng: '为了打好汉语基础，我们要循序渐进。'",
+          "review_tip": "Tránh lỗi lặp nghĩa (语义重复) với các thành ngữ đã hàm chứa yếu tố chỉ tốc độ/mức độ như 循序渐进."
+        }
+      ]
+    },
+    {
+      "id": "st3_pkg3",
+      "title": "Gói 3: 6 Thành ngữ & Quán dụng ngữ chủ đề Giao tiếp, Tâm lý & Đời sống",
+      "intro": "Gồm 3 Thành ngữ (成语) về phẩm chất, thái độ khách quan và thảo luận nhóm cùng 3 Quán dụng ngữ (惯用语) diễn tả tâm lý đời sống cực hay xuất hiện trong đề đọc hiểu và nghe hiểu HSK 5.",
+      "source_status": "verified_source",
+      "source_ids": ["SRC_ZDIC", "SRC_MOE_TW", "PDF_HSK5_SHANG"],
+      "items": [
+        {
+          "subtype": "成语", "hanzi": "实事求是", "pinyin": "shíshì qiúshì",
+          "meaning_vi": "Thực sự cầu thị (xuất phát từ thực tế khách quan, nói đúng sự thật, không phóng đại hay che giấu)",
+          "meaning_zh": "从实际情况出发，不夸大，不缩小，正确地对待和处理问题。",
+          "nuance": "Sắc thái trang trọng, khen ngợi (褒义).",
+          "usage": "Làm vị ngữ, trạng ngữ (实事求是地反映情况) hoặc định ngữ (实事求是的态度).",
+          "example": { "chinese": "评价别人的工作应该实事求是，不能只凭个人印象。", "pinyin": "Píngjià biérén de gōngzuò yīnggāi shíshì qiúshì, bù néng zhǐ píng gèrén yìnxiàng.", "vietnamese": "Đánh giá công việc của người khác cần dựa vào thực tế khách quan, không thể chỉ dựa vào ấn tượng cá nhân." },
+          "memory_tip": "实事 (sự việc có thật) + 求是 (tìm cái đúng/chân lý) → trung thực, khách quan, tôn trọng sự thật.",
+          "common_error": "Nhầm với 'khiêm tốn' hay 'lịch sự'. 实事求是 nhấn mạnh tính khách quan, có sao nói vậy (không phóng đại cũng không hạ thấp)."
+        },
+        {
+          "subtype": "成语", "hanzi": "助人为乐", "pinyin": "zhùrén wéilè",
+          "meaning_vi": "Lấy việc giúp đỡ người khác làm niềm vui",
+          "meaning_zh": "把帮助别人当作自己最大的快乐。",
+          "nuance": "Sắc thái ca ngợi phẩm chất tốt đẹp (褒义).",
+          "usage": "Làm vị ngữ hoặc định ngữ (助人为乐的精神 / 助人为乐的好同学).",
+          "example": { "chinese": "我们班的班长非常热心，是一个助人为乐的好同学。", "pinyin": "Wǒmen bān de bānzhǎng fēicháng rèxīn, shì yígè zhùrén wéilè de hǎo tóngxué.", "vietnamese": "Lớp trưởng lớp chúng tôi rất nhiệt tình, là một người bạn tốt luôn lấy việc giúp đỡ mọi người làm niềm vui." },
+          "memory_tip": "助人 (giúp người – 帮助别人) + 为乐 (làm niềm vui).",
+          "common_error": "Không dùng cho việc giúp đỡ mang tính trao đổi lợi ích hay có thu phí, vì thành ngữ nhấn mạnh sự tự nguyện và niềm vui khi giúp người."
+        },
+        {
+          "subtype": "成语", "hanzi": "各抒己见", "pinyin": "gèshū jǐjiàn",
+          "meaning_vi": "Mỗi người bày tỏ ý kiến riêng của mình",
+          "meaning_zh": "各自充分发表自己的意见或看法。",
+          "nuance": "Sắc thái tích cực/trung tính (褒义/中性), hay dùng trong bối cảnh họp hành, thảo luận.",
+          "usage": "Làm vị ngữ; chủ ngữ BẮT BUỘC phải là số nhiều (大家, 同学们, 代表们).",
+          "example": { "chinese": "讨论会上，同学们各抒己见，提出了很多有意思的想法。", "pinyin": "Tǎolùnhuì shàng, tóngxuémen gèshū jǐjiàn, tíchū le hěn duō yǒuyìsi de xiǎngfǎ.", "vietnamese": "Trong buổi thảo luận, các bạn học sinh mỗi người đều nêu ra ý kiến riêng, đề xuất rất nhiều ý tưởng thú vị." },
+          "memory_tip": "各 (mỗi người) + 抒 (bày tỏ) + 己见 (ý kiến của bản thân). Chú ý viết đúng chữ 己 (jǐ – mở trên), không nhầm với 已 (yǐ).",
+          "common_error": "Lỗi dùng với chủ ngữ số ít: KHÔNG nói '他一个人在会上各抒己见' vì 各 (mỗi người) đòi hỏi từ 2 người trở lên."
+        },
+        {
+          "subtype": "惯用语", "hanzi": "打退堂鼓", "pinyin": "dǎ tuìtánggǔ",
+          "meaning_vi": "Đánh trống rút lui (chùn bước, thoái lui, muốn bỏ cuộc giữa chừng khi gặp khó)",
+          "meaning_zh": "原指旧时官吏退堂时打鼓，现比喻做事中途退缩、放弃。",
+          "nuance": "Quán dụng ngữ khẩu ngữ, giàu hình ảnh, sắc thái phê bình nhẹ hoặc khuyên răn.",
+          "usage": "Kết cấu động-tân ly hợp 4 chữ (打了退堂鼓, 打起退堂鼓来了), hay dùng trong lời nói hằng ngày.",
+          "example": { "chinese": "刚练习跑了一周，他就觉得太累，开始打退堂鼓了。", "pinyin": "Gāng liànxí pǎo le yì zhōu, tā jiù juéde tài lèi, kāishǐ dǎ tuìtánggǔ le.", "vietnamese": "Mới tập chạy được một tuần anh ấy đã thấy quá mệt, bắt đầu chùn bước muốn bỏ cuộc rồi." },
+          "memory_tip": "Điểm hay ra bẫy: tuy có 4 chữ nhưng 打退堂鼓 là QUÁN DỤNG NGỮ (động từ 打 + tân ngữ 退堂鼓 – trống bãi đường), gần nghĩa với thành ngữ 半途而废 nhưng mang sắc thái khẩu ngữ.",
+          "common_error": "Nhầm theo nghĩa đen là biểu diễn đánh trống, hoặc tưởng cứ 4 chữ thì không tách chen được 了 (thực tế nói được 打了退堂鼓)."
+        },
+        {
+          "subtype": "惯用语", "hanzi": "抱佛脚", "pinyin": "bào fójiǎo",
+          "meaning_vi": "Ôm chân Phật (nước đến chân mới nhảy, sát giờ mới vội vàng đối phó)",
+          "meaning_zh": "比喻平时不努力、不做准备，到了紧急关头才慌忙应付。",
+          "nuance": "Quán dụng ngữ khẩu ngữ, sắc thái chê trách/nhắc nhở nhẹ (贬义).",
+          "usage": "Cực kỳ hay dùng trọn cụm mở rộng 临时抱佛脚 (línshí bào fójiǎo – đến lúc gấp gáp mới ôm chân Phật); có thể chen từ vào giữa (抱一下佛脚).",
+          "example": { "chinese": "期末考试前要早点复习，不要等到最后一天才临时抱佛脚。", "pinyin": "Qīmò kǎoshì qián yào zǎodiǎn fùxí, búyào děngdào zuìhòu yì tiān cái línshí bào fójiǎo.", "vietnamese": "Trước kỳ thi cuối kỳ cần ôn tập sớm một chút, đừng đợi đến ngày cuối cùng mới nước đến chân mới nhảy." },
+          "memory_tip": "Nghĩa đen 'ôm chân Phật' (lúc nguy cấp mới cầu xin) → nhớ ngay cụm quen thuộc trong đề thi: 临时抱佛脚 (临时 = sát giờ/tạm thời).",
+          "common_error": "Hiểu theo nghĩa đen là đi chùa lễ Phật, hoặc dùng với sắc thái khen ngợi sự chăm chỉ phút chót."
+        },
+        {
+          "subtype": "惯用语", "hanzi": "泼冷水", "pinyin": "pō lěngshuǐ",
+          "meaning_vi": "Dội gáo nước lạnh (nói hoặc làm điều khiến người khác cụt hứng, mất nhiệt huyết)",
+          "meaning_zh": "比喻用言行打击别人的热情或积极性。",
+          "nuance": "Quán dụng ngữ khẩu ngữ, giàu hình ảnh, sắc thái trách móc nhẹ (贬义).",
+          "usage": "Kết cấu động-tân ly hợp, thường đi với giới từ 给 hoặc 向 (给他泼冷水, 泼了一盆冷水 – dội một chậu nước lạnh).",
+          "example": { "chinese": "弟弟本来很高兴地想学画画，你应该多鼓励他，别给他泼冷水。", "pinyin": "Dìdi běnlái hěn gāoxìng de xiǎng xué huàhuà, nǐ yīnggāi duō gǔlì tā, bié gěi tā pō lěngshuǐ.", "vietnamese": "Em trai vốn đang rất hào hứng muốn học vẽ, cậu nên động viên em ấy nhiều hơn, đừng dội gáo nước lạnh vào em ấy." },
+          "memory_tip": "泼 (tạt, dội) + 冷水 (nước lạnh) → giống hệt hình ảnh 'dội gáo nước lạnh' trong tiếng Việt! Hay dùng mẫu 给某人泼冷水.",
+          "common_error": "Hiểu theo nghĩa đen là đổ nước lạnh làm nguội đồ vật, hoặc thiếu giới từ 给/向 khi chỉ rõ đối tượng bị làm cụt hứng."
+        }
+      ],
+      "package_notes": "Điểm nhấn Gói 3: Nắm chắc 3 thành ngữ cốt lõi trong chủ đề ứng xử & thảo luận (实事求是 – khách quan trung thực, 助人为乐 – lấy việc giúp người làm vui, 各抒己见 – mỗi người nêu ý kiến riêng) và 3 quán dụng ngữ tâm lý cực thực tế (打退堂鼓 – chùn bước, 临时抱佛脚 – nước đến chân mới nhảy, 泼冷水 – làm cụt hứng). Đặc biệt lưu ý: 打退堂鼓 có 4 chữ nhưng vẫn là QUÁN DỤNG NGỮ động-tân (nói được 打了退堂鼓), còn 各抒己见 bắt buộc đi với chủ ngữ số nhiều.",
+      "exercises": [
+        {
+          "id": "st3_p3_e1", "type": "meaning_mc", "level": "Nhận biết", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Quán dụng ngữ nào dùng để diễn tả việc “làm giảm nhiệt huyết, khiến người khác cụt hứng”?",
+          "options": ["泼冷水", "抱佛脚", "打退堂鼓", "助人为乐"],
+          "answer": "泼冷水",
+          "explanation": "泼冷水 (dội gáo nước lạnh) diễn tả lời nói hoặc hành động làm tắt đi sự hào hứng, nhiệt tình của người khác.",
+          "review_tip": "Ghi nhớ cấu trúc hay dùng: 给某人泼冷水 / 泼了一盆冷水."
+        },
+        {
+          "id": "st3_p3_e2", "type": "context_mc", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Điền cụm từ phù hợp nhất: “小李平时不怎么复习，每次都是考试前一天才______，所以成绩一直不理想。”",
+          "options": ["临时抱佛脚", "各抒己见", "助人为乐", "实事求是"],
+          "answer": "临时抱佛脚",
+          "explanation": "Bình thường không ôn tập, sát ngày thi mới vội vàng đối phó → 临时抱佛脚 (nước đến chân mới nhảy).",
+          "review_tip": "Nhớ cụm mở rộng cực thông dụng của 抱佛脚 là 临时抱佛脚."
+        },
+        {
+          "id": "st3_p3_e3", "type": "context_mc", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Điền cụm từ thích hợp: “学钢琴刚开始确实很难，但千万别因为遇到一点挫折就______。”",
+          "options": ["打退堂鼓", "泼冷水", "实事求是", "助人为乐"],
+          "answer": "打退堂鼓",
+          "explanation": "Gặp chút trắc trở ban đầu đã muốn chùn bước, bỏ cuộc → 打退堂鼓 (đánh trống rút lui).",
+          "review_tip": "Liên hệ 打退堂鼓 (quán dụng ngữ khẩu ngữ) với 半途而废 (thành ngữ văn viết)."
+        },
+        {
+          "id": "st3_p3_e4", "type": "error_fix", "level": "Vận dụng", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Câu nào dưới đây dùng thành ngữ hoặc quán dụng ngữ KHÔNG ĐÚNG ngữ pháp/đối tượng?",
+          "options": [
+            "昨天的小组会上，班长一个人各抒己见，说了半个小时。",
+            "我们在总结经验时，应该坚持实事求是的原则。",
+            "朋友提出新想法时，不要急着给他泼冷水。",
+            "她一直是个助人为乐的人，邻居们都很尊敬她。"
+          ],
+          "answer": "昨天的小组会上，班长一个人各抒己见，说了半个小时。",
+          "explanation": "各抒己见 mang nghĩa 'MỖI NGƯỜI bày tỏ ý kiến riêng', nên bắt buộc phải dùng với chủ ngữ số nhiều (như 大家, 同学们), KHÔNG dùng với '班长一个人'!",
+          "review_tip": "Luôn kiểm tra chủ ngữ số ít/số nhiều với các thành ngữ có chữ 各 (mỗi) hoặc 相 (lẫn nhau)."
+        }
+      ]
+    }
+  ],
+  "comprehensive_test": [
+    {
+      "id": "st3_ct1", "type": "context_mc", "level": "Vận dụng", "mistake_category": "Kiến thức nâng cao",
+      "prompt": "[Tổng hợp Trạm 3] Chọn từ phù hợp với ngữ cảnh: “他去那家公司推销产品时______，不过他没有放弃，第二次终于谈成了。”",
+      "options": ["碰了钉子", "相敬如宾", "患难与共", "走了后门"],
+      "answer": "碰了钉子",
+      "explanation": "碰了钉子 = bị từ chối / gặp trắc trở lần đầu, rất khớp với vế sau 'không bỏ cuộc, lần 2 thành công'.",
+      "review_tip": "Ôn quán dụng ngữ 碰钉子."
+    },
+    {
+      "id": "st3_ct2", "type": "meaning_mc", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+      "prompt": "[Tổng hợp Trạm 3] Cặp biểu đạt nào sau đây có nghĩa TRÁI NGƯỢC nhau rõ nhất?",
+      "options": [
+        "坚持不懈 — 半途而废",
+        "打退堂鼓 — 半途而废",
+        "临时抱佛脚 — 开夜车",
+        "助人为乐 — 实事求是"
+      ],
+      "answer": "坚持不懈 — 半途而废",
+      "explanation": "坚持不懈 (kiên trì không ngừng nghỉ – Gói 2) trái nghĩa trực tiếp với 半途而废 (bỏ cuộc giữa chừng – Gói 1). Trong khi đó, 打退堂鼓 và 半途而废 là cặp gần nghĩa.",
+      "review_tip": "Hệ thống hóa theo cặp đồng nghĩa / trái nghĩa xuyên suốt cả 3 gói (坚持不懈 ↔ 半途而废 / 打退堂鼓)."
+    },
+    {
+      "id": "st3_ct3", "type": "context_mc", "level": "Vận dụng", "mistake_category": "Kiến thức nâng cao",
+      "prompt": "[Tổng hợp Trạm 3] Chọn cặp từ thích hợp điền vào hai chỗ trống: “准备考试不能______，更不能遇到难题就______，必须每天认认真真地复习。”",
+      "options": [
+        "临时抱佛脚 / 打退堂鼓",
+        "一举两得 / 泼冷水",
+        "各抒己见 / 走后门",
+        "画蛇添足 / 助人为乐"
+      ],
+      "answer": "临时抱佛脚 / 打退堂鼓",
+      "explanation": "Vế 1 nhấn mạnh ôn thi không thể nước đến chân mới nhảy (临时抱佛脚), vế 2 nhấn mạnh càng không thể gặp câu khó đã chùn bước bỏ cuộc (打退堂鼓).",
+      "review_tip": "Kết hợp ngữ cảnh học tập và tâm lý giữa Gói 1, Gói 2 và Gói 3 để chọn chính xác."
+    },
+    {
+      "id": "st3_ct4", "type": "error_fix", "level": "Vận dụng", "mistake_category": "Kiến thức nâng cao",
+      "prompt": "[Tổng hợp Trạm 3] Tìm câu dùng thành ngữ hoặc quán dụng ngữ SAI sắc thái trong các câu sau:",
+      "options": [
+        "为了把报告写好，他补充了两个关键例子，真是画蛇添足。",
+        "学习外语应该循序渐进，每天专心致志地练习半小时就很有效果。",
+        "在讨论班会方案时，同学们各抒己见，气氛非常热烈。",
+        "他们夫妻俩结婚三十年来患难与共、相敬如宾，令人羡慕。"
+      ],
+      "answer": "为了把报告写好，他补充了两个关键例子，真是画蛇添足。",
+      "explanation": "画蛇添足 (vẽ rắn thêm chân) mang sắc thái chê bai việc làm THỪA THÃI gây phản tác dụng, mâu thuẫn với ngữ cảnh tích cực 'bổ sung hai ví dụ then chốt để báo cáo hay hơn'.",
+      "review_tip": "Luôn kiểm tra sự thống nhất về sắc thái khen – chê (褒贬色彩) giữa thành ngữ và cả câu."
+    }
+  ]
+}

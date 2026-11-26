@@ -1,0 +1,641 @@
+{
+  "id": "station7",
+  "kind": "reading",
+  "icon": "📖",
+  "shortTitle": "Trạm 7: Đọc hiểu & Diễn đạt",
+  "title_vi": "TRẠM 7. ĐỌC HIỂU VÀ DIỄN ĐẠT",
+  "title_zh": "阅读与表达",
+  "description": "Luyện đọc hiểu & diễn đạt phân dạng rõ theo 6 chủ đề trọng tâm ôn thi Chuyên Trung (Học tập, Gia đình – Tình bạn, Văn hóa – Du lịch, Sức khỏe – Môi trường, Công nghệ – Đời sống, và Chuyên đề Điền từ ngữ cảnh 选词填空 / 完形填空 chuẩn HSK 3.0 Cấp 4 từ QUYỂN 4.pdf), phân tầng từ HSK 4 đến định hướng HSK 5, kèm bài tập điền từ ngữ cảnh, đọc hiểu, sắp xếp đoạn văn, dịch thuật và viết đoạn.",
+  "packages": [
+    {
+      "id": "st7_pkg1",
+      "title": "Chủ đề 1: Học tập, Thói quen tốt & Chi tiết cuộc sống",
+      "intro": "Gồm 2 đoạn đọc tự biên soạn theo cấp độ tăng dần (Trung cấp HSK 4 → Trung cao cấp HSK 5), gắn kết trực tiếp với vốn từ bạn đang học, kèm bài tập đọc hiểu, sắp xếp câu thành đoạn, dịch thuật và viết đoạn. (Lưu ý: đề mẫu HSK 5 cũ trên chinesetest.cn chỉ dùng tham khảo kỹ năng đọc hiểu, không khẳng định là cấu trúc cố định của đề thi chuyên Trung TP.HCM).",
+      "source_status": "authored_linguistics",
+      "source_ids": ["SRC_XMU_READING", "SRC_HSK5_MODEL_REF", "PDF_HSK4_XIA", "PDF_HSK5_SHANG"],
+      "items": [
+        {
+          "difficulty": "Mức 1 – Trung cấp (Chuẩn HSK 4)",
+          "title_zh": "好习惯是从小事开始的",
+          "title_vi": "Thói quen tốt bắt đầu từ những việc nhỏ",
+          "passage_zh": "很多人想一下子提高自己的阅读能力，于是给自己定了一个很复杂的计划：每天读五十页书。可是坚持不到一个星期，就因为太累而放弃了。其实，养成好习惯不需要太高的目标。如果每天只花十五分钟认真读几页，同时把精彩的句子记下来，一个月后你就会发现，自己的词语量增加了，看文章的速度也快多了。无论做什么事，只要坚持下去，就会看到效果。",
+          "passage_py": "Hěn duō rén xiǎng yíxiàzi tígāo zìjǐ de yuèdú nénglì, yúshì gěi zìjǐ dìng le yí ge hěn fùzá de jìhuà: měi tiān dú wǔshí yè shū. Kěshì jiānchí bú dào yí ge xīngqī, jiù yīnwèi tài lèi ér fàngqì le. Qíshí, yǎngchéng hǎo xíguàn bù xūyào tài gāo de mùbiāo. Rúguǒ měi tiān zhǐ huā shíwǔ fēnzhōng rènzhēn dú jǐ yè, tóngshí bǎ jīngcǎi de jùzi jì xialai, yí ge yuè hòu nǐ jiù huì fāxiàn, zìjǐ de cíyǔliàng zēngjiā le, kàn wénzhāng de sùdù yě kuài duō le. Wúlùn zuò shénme shì, zhǐyào jiānchí xiàqù, jiù huì kàndào xiàoguǒ.",
+          "passage_vi": "Nhiều người muốn nâng cao ngay lập tức năng lực đọc hiểu nên tự đặt ra kế hoạch rất phức tạp: mỗi ngày đọc 50 trang sách. Nhưng kiên trì chưa đầy một tuần đã bỏ cuộc vì quá mệt. Thật ra, hình thành thói quen tốt không cần mục tiêu quá cao. Nếu mỗi ngày chỉ dành 15 phút đọc kỹ vài trang, đồng thời ghi lại các câu hay, sau một tháng bạn sẽ thấy vốn từ ngữ tăng lên và tốc độ đọc bài văn cũng nhanh hơn nhiều. Bất kể làm việc gì, chỉ cần kiên trì thì sẽ thấy hiệu quả.",
+          "key_vocab": [
+            { "zh": "养成", "py": "yǎngchéng", "vi": "hình thành" },
+            { "zh": "复杂", "py": "fùzá", "vi": "phức tạp" },
+            { "zh": "精彩", "py": "jīngcǎi", "vi": "đặc sắc, hay" },
+            { "zh": "效果", "py": "xiàoguǒ", "vi": "hiệu quả" }
+          ],
+          "strategy_note": "Mẹo tìm ý chính: Chú ý các từ chuyển hướng như '其实' (thật ra) và câu chốt cuối đoạn ('无论……只要……就……') – đây thường là nơi tác giả đặt luận điểm trung tâm!"
+        },
+        {
+          "difficulty": "Mức 2 – Trung cao cấp (Định hướng HSK 5)",
+          "title_zh": "细节决定印象",
+          "title_vi": "Chi tiết quyết định ấn tượng",
+          "passage_zh": "在日常交流中，人们往往很重视大场合的表现，却容易忽视生活中的小细节。然而，真正让人产生好感、留下深刻印象的，常常正是一些不起眼的动作：比如耐心等待别人把话说完，从不随意打断；或者在对方遇到困难时，不是一味抱怨，而是伸出援手。正如那篇《爱的细节》所叙述的那样，真诚的关心不需要华丽的语言，它就藏在每一个体贴的瞬间里。",
+          "passage_py": "Zài rìcháng jiāoliú zhōng, rénmen wǎngwǎng hěn zhòngshì dà chǎnghé de biǎoxiàn, què róngyì hūshì shēnghuó zhōng de xiǎo xìjié. Rán'ér, zhēnzhèng ràng rén chǎnshēng hǎogǎn, liúxià shēnkè yìnxiàng de, chángcháng zhèngshì yìxiē bù qǐyǎn de dòngzuò: bǐrú nàixīn děngdài biérén bǎ huà shuōwán, cóng bù suíyì dǎduàn; huòzhě zài duìfāng yùdào kùnnan shí, bú shì yíwèi bàoyuàn, érshì shēnchū yuánshǒu. Zhèngrú nà piān 《Ài de xìjié》 suǒ xùshù de nàyàng, zhēnchéng de guānxīn bù xūyào huálì de yǔyán, tā jiù cáng zài měi yí ge tǐtiē de shùnjiān li.",
+          "passage_vi": "Trong giao tiếp thường ngày, người ta thường rất coi trọng sự thể hiện ở những dịp lớn mà dễ xem nhẹ chi tiết nhỏ trong đời sống. Tuy nhiên, điều thực sự khiến người khác có thiện cảm và lưu lại ấn tượng sâu sắc lại thường là những hành động tưởng chừng nhỏ bé: như kiên nhẫn đợi người khác nói hết lời, không tùy tiện ngắt lời; hay khi đối phương gặp khó khăn không một mực oán trách mà chìa tay giúp đỡ. Đúng như bài 《Những điều nhỏ nhặt trong tình yêu》 đã thuật lại, sự quan tâm chân thành không cần lời hoa mỹ mà ẩn trong từng khoảnh khắc chu đáo.",
+          "key_vocab": [
+            { "zh": "忽视", "py": "hūshì", "vi": "xem nhẹ, lơ là" },
+            { "zh": "深刻", "py": "shēnkè", "vi": "sâu sắc" },
+            { "zh": "一味", "py": "yíwèi", "vi": "một mực, chỉ chăm chăm" },
+            { "zh": "体贴", "py": "tǐtiē", "vi": "chu đáo, ân cần" }
+          ],
+          "strategy_note": "Mẹo đọc đoạn văn nghị luận: Xác định cấu trúc tương phản '往往……却……然而……' để nắm ngay thái độ của tác giả; các từ '比如' dẫn vào ví dụ minh họa chứ không phải ý chính."
+        }
+      ],
+      "package_notes": "Khi viết đoạn văn ngắn (80–120 chữ) cho bài diễn đạt, hãy dùng cấu trúc 3 bước: (1) Nêu quan điểm mở đầu → (2) Dùng 1–2 liên từ HSK 4–5 (不仅……而且…… / 然而 / 同时 / 即使……也……) để triển khai ví dụ → (3) Câu kết gọn gàng.",
+      "exercises": [
+        {
+          "id": "st7_e1", "type": "reading_mc", "level": "Nhận biết", "mistake_category": "Đọc hiểu",
+          "prompt": "[Bài đọc 1] Vì sao nhiều người bỏ cuộc chỉ sau chưa đầy một tuần đọc sách?",
+          "options": [
+            "Vì họ đặt kế hoạch quá phức tạp và mục tiêu quá cao (50 trang/ngày) nên quá mệt",
+            "Vì họ không có tiền mua sách hay",
+            "Vì họ không thích ghi chép câu hay",
+            "Vì họ không biết chữ Hán"
+          ],
+          "answer": "Vì họ đặt kế hoạch quá phức tạp và mục tiêu quá cao (50 trang/ngày) nên quá mệt",
+          "explanation": "Đoạn văn nêu rõ: '给自己定了一个很复杂的计划：每天读五十页书。可是坚持不到一个星期，就因为太累而放弃了。'",
+          "review_tip": "Đọc kỹ câu 1–2 của Bài đọc 1 để tìm thông tin chi tiết."
+        },
+        {
+          "id": "st7_e2", "type": "reading_mc", "level": "Phân biệt", "mistake_category": "Đọc hiểu",
+          "prompt": "[Bài đọc 2] Điều gì được tác giả nhấn mạnh là ý chính của đoạn văn?",
+          "options": [
+            "Những chi tiết nhỏ chu đáo trong đời thường mới thực sự tạo nên ấn tượng sâu sắc và tình cảm chân thành",
+            "Chỉ cần chuẩn bị thật kỹ cho những dịp lớn là đủ",
+            "Lời nói hoa mỹ quan trọng hơn hành động thực tế",
+            "Không nên đợi người khác nói hết câu khi đang vội"
+          ],
+          "answer": "Những chi tiết nhỏ chu đáo trong đời thường mới thực sự tạo nên ấn tượng sâu sắc và tình cảm chân thành",
+          "explanation": "Ý chính nằm ngay sau từ chuyển hướng '然而' và câu kết '真诚的关心不需要华丽的语言，它就藏在每一个体贴的瞬间里。'",
+          "review_tip": "Luyện kỹ năng tìm câu chủ đề sau từ chuyển ý 然而 / 其实."
+        },
+        {
+          "id": "st7_e3", "type": "reorder", "level": "Phân biệt", "mistake_category": "Đọc hiểu",
+          "prompt": "Sắp xếp 3 câu sau thành một đoạn văn mạch lạc logic:",
+          "tokens": [
+            "① 可是如果每天只花十五分钟，反而很容易坚持。",
+            "② 许多人一开始把读书计划定得太高，结果很快就放弃了。",
+            "③ 时间长了，你会发现自己的阅读能力有了很大的提高。"
+          ],
+          "answer": "② 许多人一开始把读书计划定得太高，结果很快就放弃了。① 可是如果每天只花十五分钟，反而很容易坚持。③ 时间长了，你会发现自己的阅读能力有了很大的提高。",
+          "explanation": "Mạch logic: Hiện tượng sai lầm (②) → Chuyển ngoặt '可是' nêu cách làm đúng (①) → Kết quả lâu dài '时间长了' (③).",
+          "review_tip": "Khi sắp xếp đoạn văn, luôn chú ý từ nối chuyển ý (可是/然而) và từ chỉ kết quả (时间长了/因此)."
+        },
+        {
+          "id": "st7_e4", "type": "translate_zh_vi", "level": "Vận dụng", "mistake_category": "Dịch thuật",
+          "prompt": "Dịch Trung – Việt: “真诚的关心不需要华丽的语言，它就藏在每一个生活的细节里。”",
+          "hint": "真诚 = chân thành, 华丽 = hoa mỹ, 细节 = chi tiết.",
+          "keywords": ["chân thành", "chi tiết"],
+          "answer": "Sự quan tâm chân thành không cần những lời lẽ hoa mỹ, nó ẩn giấu trong từng chi tiết của cuộc sống.",
+          "explanation": "Chú ý dịch mượt cụm định ngữ '真诚的关心' và động từ '藏在……里' (ẩn giấu trong...).",
+          "review_tip": "Luyện dịch các định ngữ dài sang tiếng Việt tự nhiên."
+        },
+        {
+          "id": "st7_e5", "type": "make_sentence", "level": "Vận dụng", "mistake_category": "Dịch thuật",
+          "prompt": "Viết một đoạn ngắn (2–3 câu tiếng Trung) chia sẻ về thói quen đọc sách của bạn, có sử dụng ít nhất 1 cấu trúc đã học (不仅……而且…… hoặc 无论……都…… hoặc 同时):",
+          "hint": "Ví dụ: 我非常喜欢阅读。阅读不仅能增加我的知识，同时还能帮我减轻压力。无论学习多忙，我每天晚上都会看半个小时的书。",
+          "keywords": ["阅读"],
+          "answer": "我非常喜欢阅读。阅读不仅能增加我的知识，同时还能让我了解不一样的生活。无论学习多忙，我每天都会坚持看几页书。",
+          "explanation": "Đoạn văn tốt cần đúng ngữ pháp, có liên từ nối câu mạch lạc và dùng đúng kết hợp từ (增加知识, 坚持阅读).",
+          "review_tip": "Luyện dùng liên từ nối vế câu để đoạn viết đạt điểm cao."
+        }
+      ]
+    },
+    {
+      "id": "st7_pkg2",
+      "title": "Chủ đề 2: Gia đình, Tình bạn & Giao tiếp ứng xử",
+      "intro": "Luyện đọc hiểu và diễn đạt về các mối quan hệ gần gũi nhất trong đời sống học sinh: tình cảm gia đình, cách lắng nghe cha mẹ và giữ gìn tình bạn bền lâu — nhóm chủ đề xuất hiện thường xuyên trong bài đọc hiểu và viết đoạn HSK 4–5.",
+      "source_status": "authored_linguistics",
+      "source_ids": ["SRC_XMU_READING", "PDF_HSK4_SHANG", "PDF_HSK4_XIA", "PDF_HSK5_SHANG"],
+      "items": [
+        {
+          "difficulty": "Mức 1 – Trung cấp (Chuẩn HSK 4)",
+          "title_zh": "倾听是最好的陪伴",
+          "title_vi": "Lắng nghe là sự đồng hành tốt nhất",
+          "passage_zh": "现在很多家庭虽然每天都住在一起，可是吃晚饭的时候，父母和孩子常常各自看着手机，很少认真聊天。时间长了，彼此之间不仅少了交流，还会产生一些误会。其实，家人最需要的并不是多么贵重的礼物，而是耐心的倾听。每天放下手机半个小时，听父母讲讲工作中的烦恼，也跟他们说说自己在学校的经历，家庭气氛就会温暖得多。",
+          "passage_py": "Xiànzài hěn duō jiātíng suīrán měi tiān dōu zhù zài yìqǐ, kěshì chī wǎnfàn de shíhou, fùmǔ hé háizi chángcháng gèzì kànzhe shǒujī, hěn shǎo rènzhēn liáotiān. Shíjiān cháng le, bǐcǐ zhījiān bùjǐn shǎo le jiāoliú, hái huì chǎnshēng yìxiē wùhuì. Qíshí, jiārén zuì xūyào de bìng bú shì duōme guìzhòng de lǐwù, érshì nàixīn de qīngtīng. Měi tiān fàngxià shǒujī bàn ge xiǎoshí, tīng fùmǔ jiǎngjiang gōngzuò zhōng de fánnǎo, yě gēn tāmen shuōshuo zìjǐ zài xuéxiào de jīnglì, jiātíng qìfēn jiù huì wēnnuǎn de duō.",
+          "passage_vi": "Hiện nay nhiều gia đình tuy ngày nào cũng sống cùng nhau, nhưng đến bữa tối cha mẹ và con cái lại thường mỗi người tự nhìn điện thoại, rất ít khi nghiêm túc trò chuyện. Lâu dần, giữa hai bên không chỉ thiếu đi sự giao tiếp mà còn nảy sinh những hiểu lầm. Thật ra, điều người thân cần nhất không phải là món quà đắt giá đến đâu, mà là sự lắng nghe kiên nhẫn. Mỗi ngày đặt điện thoại xuống nửa tiếng, nghe cha mẹ kể những phiền muộn trong công việc và chia sẻ với họ trải nghiệm của mình ở trường, bầu không khí gia đình sẽ ấm áp hơn nhiều.",
+          "key_vocab": [
+            { "zh": "彼此", "py": "bǐcǐ", "vi": "lẫn nhau, đôi bên" },
+            { "zh": "误会", "py": "wùhuì", "vi": "hiểu lầm" },
+            { "zh": "倾听", "py": "qīngtīng", "vi": "lắng nghe chăm chú" },
+            { "zh": "气氛", "py": "qìfēn", "vi": "bầu không khí" }
+          ],
+          "strategy_note": "Chú ý cấu trúc phủ định–khẳng định '并不是……而是……' (không phải là... mà là...). Khi gặp cặp liên từ này trong bài đọc chủ đề gia đình – xã hội, vế sau '而是' gần như chắc chắn là quan điểm cốt lõi của tác giả."
+        },
+        {
+          "difficulty": "Mức 2 – Trung cao cấp (Định hướng HSK 5)",
+          "title_zh": "真正的朋友经得起时间考验",
+          "title_vi": "Tình bạn đích thực vượt qua thử thách của thời gian",
+          "passage_zh": "在生活中，我们很容易认识一起逛街、娱乐的伙伴，却不一定能交到真正的朋友。有些人只在你顺利的时候热情地称赞你，一旦你遇到失败或者困难，他们就会悄悄离开。相反，真正的朋友也许平时话不多，但总会在你最需要的时候默默支持你。更重要的是，当你犯错时，他们不会只说好听的话，而是敢于诚恳地指出你的缺点，帮助你不断进步。一段值得珍惜的友谊，往往建立在真诚与信任之上，经得起时间和困难的考验。",
+          "passage_py": "Zài shēnghuó zhōng, wǒmen hěn róngyì rènshi yìqǐ guàngjiē, yúlè de huǒbàn, què bù yídìng néng jiāodào zhēnzhèng de péngyou. Yǒuxiē rén zhǐ zài nǐ shùnlì de shíhou rèqíng de chēngzàn nǐ, yídàn nǐ yùdào shībài huòzhě kùnnan, tāmen jiù huì qiāoqiāo líkāi. Xiāngfǎn, zhēnzhèng de péngyou yěxǔ píngshí huà bù duō, dàn zǒng huì zài nǐ zuì xūyào de shíhou mòmò zhīchí nǐ. Gèng zhòngyào de shì, dāng nǐ fàncuò shí, tāmen bú huì zhǐ shuō hǎotīng de huà, érshì gǎnyú chéngkěn de zhǐchū nǐ de quēdiǎn, bāngzhù nǐ búduàn jìnbù. Yí duàn zhídé zhēnxī de yǒuyì, wǎngwǎng jiànlì zài zhēnchéng yǔ xìnrèn zhīshàng, jīngdeqǐ shíjiān hé kùnnan de kǎoyàn.",
+          "passage_vi": "Trong cuộc sống, chúng ta rất dễ quen những người bạn cùng đi dạo, giải trí, nhưng chưa chắc đã kết giao được với người bạn thực sự. Có những người chỉ nhiệt tình khen ngợi khi bạn thuận lợi, một khi bạn gặp thất bại hay khó khăn, họ sẽ lặng lẽ rời đi. Ngược lại, người bạn đích thực có thể ngày thường không nói nhiều, nhưng luôn âm thầm ủng hộ lúc bạn cần nhất. Quan trọng hơn, khi bạn mắc lỗi, họ sẽ không chỉ nói lời dễ nghe mà dám chân thành chỉ ra khuyết điểm của bạn, giúp bạn không ngừng tiến bộ. Một tình bạn đáng trân trọng thường được xây dựng trên sự chân thành và tin tưởng, đủ sức vượt qua thử thách của thời gian và gian khó.",
+          "key_vocab": [
+            { "zh": "称赞", "py": "chēngzàn", "vi": "khen ngợi, tán dương" },
+            { "zh": "一旦", "py": "yídàn", "vi": "một khi, hễ mà" },
+            { "zh": "珍惜", "py": "zhēnxī", "vi": "trân trọng" },
+            { "zh": "考验", "py": "kǎoyàn", "vi": "thử thách, kiểm chứng" }
+          ],
+          "strategy_note": "Đoạn văn dùng phép đối chiếu rất rõ qua '相反' (ngược lại) và nâng tầng ý qua '更重要的是' (quan trọng hơn là). Khi làm câu hỏi suy luận về thái độ tác giả, hãy đọc kỹ hai câu cuối cùng vì đó là nơi tổng kết chuẩn mực của một tình bạn thật sự."
+        }
+      ],
+      "package_notes": "Khi viết đoạn văn chủ đề Gia đình & Tình bạn, hãy kết hợp cặp tương phản (不仅……而且…… / 并不是……而是……) cùng các động từ giàu sắc thái như 倾听 (lắng nghe), 理解 (thấu hiểu), 珍惜 (trân trọng), 彼此信任 (tin tưởng lẫn nhau) để câu văn tự nhiên và sâu sắc.",
+      "exercises": [
+        {
+          "id": "st7_p2_e1", "type": "reading_mc", "level": "Nhận biết", "mistake_category": "Đọc hiểu",
+          "prompt": "[Bài đọc 1] Theo đoạn văn, điều gì giúp bầu không khí gia đình trở nên ấm áp hơn?",
+          "options": [
+            "Đặt điện thoại xuống nửa tiếng mỗi ngày để lắng nghe và trò chuyện cùng cha mẹ",
+            "Mua thật nhiều món quà đắt giá tặng cha mẹ vào cuối tuần",
+            "Cùng cha mẹ xem điện thoại trong lúc ăn cơm tối",
+            "Chỉ kể với cha mẹ khi gặp chuyện vui ở trường"
+          ],
+          "answer": "Đặt điện thoại xuống nửa tiếng mỗi ngày để lắng nghe và trò chuyện cùng cha mẹ",
+          "explanation": "Câu cuối Bài đọc 1 nêu rõ: '每天放下手机半个小时，听父母讲讲工作中的烦恼，也跟他们说说自己在学校的经历，家庭气氛就会温暖得多。'",
+          "review_tip": "Tìm thông tin chi tiết ở câu có từ khóa '家庭气氛' và '温暖'."
+        },
+        {
+          "id": "st7_p2_e2", "type": "reading_mc", "level": "Phân biệt", "mistake_category": "Đọc hiểu",
+          "prompt": "[Bài đọc 2] Theo tác giả, khi bạn mắc lỗi, một người bạn thực sự sẽ làm gì?",
+          "options": [
+            "Dám chân thành chỉ ra khuyết điểm để giúp bạn không ngừng tiến bộ",
+            "Chỉ nói những lời dễ nghe để bạn khỏi buồn",
+            "Lặng lẽ rời đi cho đến khi bạn tự giải quyết xong",
+            "Khen ngợi bạn nhiệt tình trước mặt mọi người"
+          ],
+          "answer": "Dám chân thành chỉ ra khuyết điểm để giúp bạn không ngừng tiến bộ",
+          "explanation": "Bài đọc 2 nêu rõ ở câu 4: '当你犯错时，他们不会只说好听的话，而是敢于诚恳地指出你的缺点，帮助你不断进步。'",
+          "review_tip": "Chú ý vế khẳng định sau '而是' để tránh chọn nhầm phương án nhiễu."
+        },
+        {
+          "id": "st7_p2_e3", "type": "reorder", "level": "Phân biệt", "mistake_category": "Đọc hiểu",
+          "prompt": "Sắp xếp 3 câu sau thành một đoạn văn mạch lạc về giao tiếp ứng xử:",
+          "tokens": [
+            "① 因此，发生争吵前，先冷静地听对方把话说完非常重要。",
+            "② 如果双方都只想着表达自己，误会往往会越来越深。",
+            "③ 家人和朋友之间难免会有意见不一致的时候。"
+          ],
+          "answer": "③ 家人和朋友之间难免会有意见不一致的时候。② 如果双方都只想着表达自己，误会往往会越来越深。① 因此，发生争吵前，先冷静地听对方把话说完非常重要。",
+          "explanation": "Mạch logic: Nêu tình huống phổ biến (③) → Giả thiết hậu quả xấu nếu xử lý sai '如果……' (②) → Rút ra lời khuyên bằng từ kết luận '因此' (①).",
+          "review_tip": "Câu chứa '因此' (vì vậy) thường đứng cuối để chốt lời khuyên hoặc kết luận."
+        },
+        {
+          "id": "st7_p2_e4", "type": "translate_zh_vi", "level": "Vận dụng", "mistake_category": "Dịch thuật",
+          "prompt": "Dịch Trung – Việt: “真正的朋友不仅会在你顺利时为你高兴，更会在你遇到困难时默默支持你。”",
+          "hint": "顺利 = thuận lợi, 默默 = âm thầm, 支持 = ủng hộ.",
+          "keywords": ["thuận lợi", "ủng hộ"],
+          "answer": "Người bạn thực sự không chỉ vui mừng cho bạn lúc thuận lợi, mà càng âm thầm ủng hộ bạn khi bạn gặp khó khăn.",
+          "explanation": "Cấu trúc tăng tiến '不仅……更会……' dịch là 'không chỉ... mà càng...' để giữ đúng sắc thái nhấn mạnh ở vế sau.",
+          "review_tip": "Chú ý dịch mượt cụm trạng ngữ thời gian '在你顺利时' và '在你遇到困难时'."
+        }
+      ]
+    },
+    {
+      "id": "st7_pkg3",
+      "title": "Chủ đề 3: Văn hóa, Ẩm thực & Du lịch trải nghiệm",
+      "intro": "Luyện đọc hiểu về nét đẹp đời sống văn hóa truyền thống (văn hóa thưởng trà, ẩm thực địa phương) và tư duy du lịch trải nghiệm sâu sắc — đề tài giàu hình ảnh, rất hay gặp trong bài đọc văn hóa xã hội và viết đoạn miêu tả.",
+      "source_status": "authored_linguistics",
+      "source_ids": ["SRC_XMU_READING", "PDF_HSK4_SHANG", "PDF_HSK4_XIA", "PDF_HSK5_SHANG"],
+      "items": [
+        {
+          "difficulty": "Mức 1 – Trung cấp (Chuẩn HSK 4)",
+          "title_zh": "一杯茶里的慢生活",
+          "title_vi": "Nhịp sống chậm trong một tách trà",
+          "passage_zh": "在中国和越南，喝茶都不只是为了解渴，更是一种传统的生活方式。周末的下午，泡上一壶清香的绿茶，约几位老朋友坐下来聊聊天，工作的压力一下子就减轻了许多。不同地方的人喜欢喝不同的茶，喝茶的习惯也各有特点，但大家都很重视茶里的那份安静和放松。在节奏越来越快的现代城市里，花一点时间慢慢品一杯茶，能让人重新找回内心的平静。",
+          "passage_py": "Zài Zhōngguó hé Yuènán, hēchá dōu bù zhǐ shì wèile jiěkě, gèng shì yì zhǒng chuántǒng de shēnghuó fāngshì. Zhōumò de xiàwǔ, pàoshàng yì hú qīngxiāng de lǜchá, yuē jǐ wèi lǎo péngyou zuò xiàlái liáoliaotiān, gōngzuò de yālì yíxiàzi jiù jiǎnqīng le xǔduō. Bùtóng dìfang de rén xǐhuan hē bùtóng de chá, hēchá de xíguàn yě gè yǒu tèdiǎn, dàn dàjiā dōu hěn zhòngshì chá li de nà fèn ānjìng hé fàngsōng. Zài jiézòu yuèláiyuè kuài de xiàndài chéngshì li, huā yìdiǎn shíjiān mànmàn pǐn yì bēi chá, néng ràng rén chóngxīn zhǎohuí nèixīn de píngjìng.",
+          "passage_vi": "Ở Trung Quốc và Việt Nam, uống trà đều không chỉ để giải khát mà còn là một lối sống truyền thống. Chiều cuối tuần, pha một ấm trà xanh thơm dịu, hẹn vài người bạn cũ ngồi trò chuyện, áp lực công việc bỗng chốc vơi đi rất nhiều. Người ở những vùng khác nhau thích uống các loại trà khác nhau, thói quen thưởng trà cũng có nét riêng, nhưng ai nấy đều coi trọng sự yên tĩnh và thư giãn trong tách trà. Giữa thành phố hiện đại nhịp sống ngày càng hối hả, dành chút thời gian thong thả nhâm nhi một tách trà có thể giúp người ta tìm lại sự bình yên trong lòng.",
+          "key_vocab": [
+            { "zh": "解渴", "py": "jiěkě", "vi": "giải khát" },
+            { "zh": "减轻", "py": "jiǎnqīng", "vi": "giảm nhẹ" },
+            { "zh": "节奏", "py": "jiézòu", "vi": "nhịp điệu, nhịp sống" },
+            { "zh": "平静", "py": "píngjìng", "vi": "bình yên, tĩnh lặng" }
+          ],
+          "strategy_note": "Chú ý cấu trúc tăng tiến '不只是……更是……' ở câu mở đầu: câu này đặt chủ đề cho toàn bài. Các chi tiết phía sau (uống trà chiều cuối tuần, mỗi vùng một loại trà) đều phục vụ chứng minh thưởng trà mang lại sự thư thái và kết nối."
+        },
+        {
+          "difficulty": "Mức 2 – Trung cao cấp (Định hướng HSK 5)",
+          "title_zh": "旅行不只是拍照打卡",
+          "title_vi": "Du lịch không chỉ là chụp ảnh check-in",
+          "passage_zh": "如今，一到假期，许多游客都会按照网上的热门路线，匆忙地跑遍各个著名景点，每到一个地方就忙着拍照发朋友圈，担心错过任何一个有名的地方。可是旅行结束后，除了手机里几百张照片，他们对当地的历史和文化却了解得很少。其实，旅行真正的乐趣并不在于去了多少个城市，而在于放慢脚步，走进当地的老街，品尝地道的小吃，和热情的当地人聊一聊他们的风俗习惯。只有用心去感受，每一次出发才会成为难忘的成长经历。",
+          "passage_py": "Rújīn, yí dào jiàqī, xǔduō yóukè dōu huì ànzhào wǎngshàng de rèmén lùxiàn, cōngmáng de pǎobiàn gègè zhùmíng jǐngdiǎn, měi dào yí ge dìfang jiù mángzhe pāizhào fā péngyouquān, dānxīn cuòguò rènhé yí ge yǒumíng de dìfang. Kěshì lǚxíng jiéshù hòu, chúle shǒujī li jǐ bǎi zhāng zhàopiàn, tāmen duì dāngdì de lìshǐ hé wénhuà què liǎojiě de hěn shǎo. Qíshí, lǚxíng zhēnzhèng de lèqù bìng bú zàiyú qù le duōshao ge chéngshì, ér zàiyú fàngmàn jiǎobù, zǒujìn dāngdì de lǎojiē, pǐncháng dìdào de xiǎochī, hé rèqíng de dāngdì rén liáo yi liáo tāmen de fēngsú xíguàn. Zhǐyǒu yòngxīn qù gǎnshòu, měi yí cì chūfā cái huì chéngwéi nánwàng de chéngzhǎng jīnglì.",
+          "passage_vi": "Ngày nay, hễ đến kỳ nghỉ, nhiều du khách đều đi theo các lộ trình nổi tiếng trên mạng, vội vã chạy qua đủ các danh thắng nổi tiếng, cứ đến một nơi lại bận chụp ảnh đăng mạng xã hội vì sợ bỏ lỡ bất kỳ điểm đến nổi danh nào. Thế nhưng sau khi chuyến đi kết thúc, ngoài vài trăm tấm ảnh trong điện thoại, họ lại hiểu rất ít về lịch sử và văn hóa địa phương. Thật ra, niềm vui đích thực của du lịch không nằm ở việc đã đi bao nhiêu thành phố, mà nằm ở chỗ chậm bước lại, dạo vào những con phố cổ địa phương, thưởng thức món ăn vặt đặc trưng và trò chuyện với người dân bản địa hiếu khách về phong tục tập quán của họ. Chỉ khi cảm nhận bằng cả tấm lòng, mỗi chuyến đi mới trở thành trải nghiệm trưởng thành khó quên.",
+          "key_vocab": [
+            { "zh": "匆忙", "py": "cōngmáng", "vi": "vội vàng, hấp tấp" },
+            { "zh": "品尝", "py": "pǐncháng", "vi": "thưởng thức, nếm thử" },
+            { "zh": "地道", "py": "dìdào", "vi": "chính gốc, đúng vị địa phương" },
+            { "zh": "风俗", "py": "fēngsú", "vi": "phong tục" }
+          ],
+          "strategy_note": "Cấu trúc '并不在于……而在于……' (không nằm ở... mà nằm ở...) và câu điều kiện chốt bài '只有……才……' (chỉ có... mới...) là hai dấu hiệu vàng giúp xác định chủ đề tư tưởng của bài đọc HSK 5."
+        }
+      ],
+      "package_notes": "Khi viết đoạn văn chủ đề Văn hóa – Du lịch, hãy kể một chi tiết cụ thể (như món ăn chính gốc 地道的小吃, con phố cổ 老街 hoặc phong tục 风俗习惯) rồi nâng lên ý nghĩa trải nghiệm bằng mẫu câu '只有……才……' để bài viết có chiều sâu.",
+      "exercises": [
+        {
+          "id": "st7_p3_e1", "type": "reading_mc", "level": "Nhận biết", "mistake_category": "Đọc hiểu",
+          "prompt": "[Bài đọc 1] Theo đoạn văn, việc uống trà cùng bạn bè vào chiều cuối tuần mang lại tác dụng gì?",
+          "options": [
+            "Giúp giảm nhẹ áp lực công việc và tìm lại sự bình yên trong lòng",
+            "Giúp mọi vùng miền đều uống cùng một loại trà giống nhau",
+            "Giúp làm tăng nhịp sống nhanh của thành phố hiện đại",
+            "Chỉ có tác dụng giải khát khi thời tiết nóng bức"
+          ],
+          "answer": "Giúp giảm nhẹ áp lực công việc và tìm lại sự bình yên trong lòng",
+          "explanation": "Đoạn văn nêu rõ: '工作的压力一下子就减轻了许多' và '能让人重新找回内心的平静'.",
+          "review_tip": "Gạch chân các động từ chỉ kết quả như '减轻' (giảm nhẹ), '找回' (tìm lại) khi trả lời câu hỏi về tác dụng."
+        },
+        {
+          "id": "st7_p3_e2", "type": "reading_mc", "level": "Phân biệt", "mistake_category": "Đọc hiểu",
+          "prompt": "[Bài đọc 2] Tác giả khuyên người đi du lịch nên làm gì để chuyến đi thực sự có ý nghĩa?",
+          "options": [
+            "Chậm bước lại để dạo phố cổ, thưởng thức món ăn đặc trưng và tìm hiểu phong tục địa phương",
+            "Đi càng nhiều thành phố nổi tiếng trong một kỳ nghỉ càng tốt",
+            "Chụp thật nhiều ảnh đăng mạng xã hội để không bỏ lỡ địa điểm nổi danh nào",
+            "Chỉ nên đi thật nhanh theo các lộ trình nổi tiếng trên mạng"
+          ],
+          "answer": "Chậm bước lại để dạo phố cổ, thưởng thức món ăn đặc trưng và tìm hiểu phong tục địa phương",
+          "explanation": "Ý chính nằm sau '而在于': '放慢脚步，走进当地的老街，品尝地道的小吃，和热情的当地人聊一聊他们的风俗习惯。'",
+          "review_tip": "Phân biệt hiện tượng tác giả phê phán (đầu đoạn) với lời khuyên thực sự sau '其实 / 而在于'."
+        },
+        {
+          "id": "st7_p3_e3", "type": "reorder", "level": "Phân biệt", "mistake_category": "Đọc hiểu",
+          "prompt": "Sắp xếp 3 câu sau thành một đoạn văn mạch lạc về trải nghiệm ẩm thực:",
+          "tokens": [
+            "① 这些地方小吃不仅味道地道，背后还藏着有趣的历史故事。",
+            "② 每到一个新城市，我最喜欢做的事就是去逛当地的夜市。",
+            "③ 因此，对我来说，了解一座城市最好的方式就是从美食开始。"
+          ],
+          "answer": "② 每到一个新城市，我最喜欢做的事就是去逛当地的夜市。① 这些地方小吃不仅味道地道，背后还藏着有趣的历史故事。③ 因此，对我来说，了解一座城市最好的方式就是从美食开始。",
+          "explanation": "Mạch logic: Giới thiệu thói quen đi chợ đêm ở thành phố mới (②) → Giải thích lý do qua đại từ chỉ thị '这些地方小吃' (①) → Kết luận cảm nhận cá nhân bằng '因此' (③).",
+          "review_tip": "Chú ý đại từ chỉ thị '这些' (những ... này) luôn đứng sau câu mở bối cảnh trước đó."
+        },
+        {
+          "id": "st7_p3_e4", "type": "make_sentence", "level": "Vận dụng", "mistake_category": "Dịch thuật",
+          "prompt": "Viết một đoạn ngắn (2–3 câu tiếng Trung) chia sẻ về một chuyến du lịch hoặc trải nghiệm văn hóa đáng nhớ của bạn, có sử dụng từ 旅行 và ít nhất 1 cấu trúc (不仅……而且…… hoặc 只有……才……):",
+          "hint": "Ví dụ: 去年暑假我和家人去海边旅行。我们不仅品尝了当地地道的小吃，还了解了许多有趣的风俗习惯。我觉得只有放慢脚步去感受，旅行才会变得难忘。",
+          "keywords": ["旅行"],
+          "answer": "去年暑假我和家人去了一次难忘的旅行。在那里，我们不仅欣赏了美丽的风景，而且品尝了很多地道的地方小吃。我觉得只有用心去体验当地文化，旅行才会真正有意义。",
+          "explanation": "Đoạn văn đạt yêu cầu khi kết hợp được chi tiết văn hóa – ẩm thực (欣赏风景, 品尝小吃, 体验文化) cùng cấu trúc nối ý rõ ràng.",
+          "review_tip": "Dùng đúng kết hợp từ: 欣赏风景 (ngắm cảnh), 品尝小吃 (thưởng thức món ăn), 体验文化 (trải nghiệm văn hóa)."
+        }
+      ]
+    },
+    {
+      "id": "st7_pkg4",
+      "title": "Chủ đề 4: Sức khỏe, Thể thao & Sống xanh bảo vệ môi trường",
+      "intro": "Luyện đọc hiểu chủ đề sức khỏe học đường (vận động, giấc ngủ) và lối sống xanh bảo vệ môi trường — liên kết chặt chẽ với bài khóa HSK 4下 Bài 14 (保护地球母亲) và nhóm đề nghị luận xã hội quen thuộc.",
+      "source_status": "authored_linguistics",
+      "source_ids": ["SRC_XMU_READING", "PDF_HSK4_SHANG", "PDF_HSK4_XIA", "PDF_HSK5_SHANG"],
+      "items": [
+        {
+          "difficulty": "Mức 1 – Trung cấp (Chuẩn HSK 4)",
+          "title_zh": "运动和睡眠同样重要",
+          "title_vi": "Vận động và giấc ngủ đều quan trọng như nhau",
+          "passage_zh": "快到考试的时候，不少学生为了多背几个词语，常常熬夜学习到半夜，白天却困得没有精神，上课的效率反而下降了。医生提醒大家，想保持好成绩，充足的睡眠和规律的运动同样重要。每天放学后坚持跑步、散步或者打半个小时球，不仅能锻炼身体，还能让大脑得到放松。晚上按时睡觉，第二天精力更充足，记东西自然会又快又牢。",
+          "passage_py": "Kuài dào kǎoshì de shíhou, bùshǎo xuésheng wèile duō bèi jǐ ge cíyǔ, chángcháng áoyè xuéxí dào bànyè, báitiān què kùn de méiyǒu jīngshen, shàngkè de xiàolǜ fǎn'ér xiàjiàng le. Yīshēng tíxǐng dàjiā, xiǎng bǎochí hǎo chéngjì, chōngzú de shuìmián hé guīlǜ de yùndòng tóngyàng zhòngyào. Měi tiān fàngxué hòu jiānchí pǎobù, sànbù huòzhě dǎ bàn ge xiǎoshí qiú, bùjǐn néng duànliàn shēntǐ, hái néng ràng dànǎo dédào fàngsōng. Wǎnshang ànshí shuìjiào, dì-èr tiān jīnglì gèng chōngzú, jì dōngxi zìrán huì yòu kuài yòu láo.",
+          "passage_vi": "Gần đến kỳ thi, không ít học sinh vì muốn học thuộc thêm vài từ vựng mà thường thức khuya đến nửa đêm, nhưng ban ngày lại buồn ngủ, thiếu tỉnh táo, hiệu quả học trên lớp trái lại còn giảm sút. Bác sĩ nhắc nhở mọi người rằng, muốn duy trì thành tích tốt thì giấc ngủ đầy đủ và vận động điều độ đều quan trọng như nhau. Mỗi ngày sau giờ tan học kiên trì chạy bộ, đi dạo hoặc chơi bóng nửa tiếng không chỉ rèn luyện sức khỏe mà còn giúp não bộ thư giãn. Buổi tối ngủ đúng giờ, hôm sau tinh thần dồi dào hơn, ghi nhớ kiến thức tự nhiên sẽ vừa nhanh vừa chắc.",
+          "key_vocab": [
+            { "zh": "熬夜", "py": "áoyè", "vi": "thức khuya" },
+            { "zh": "效率", "py": "xiàolǜ", "vi": "hiệu suất, hiệu quả" },
+            { "zh": "充足", "py": "chōngzú", "vi": "đầy đủ, dồi dào" },
+            { "zh": "规律", "py": "guīlǜ", "vi": "có quy luật, điều độ" }
+          ],
+          "strategy_note": "Chú ý phó từ chuyển ngoặt '反而' (trái lại, ngược lại) ở câu 1 để nhận ra mối quan hệ nhân–quả ngược kỳ vọng: thức khuya để học nhiều hơn nhưng hiệu quả lại kém hơn."
+        },
+        {
+          "difficulty": "Mức 2 – Trung cao cấp (Định hướng HSK 5)",
+          "title_zh": "环保从身边小事做起",
+          "title_vi": "Bảo vệ môi trường bắt đầu từ những việc nhỏ quanh mình",
+          "passage_zh": "提到保护地球母亲，很多人觉得那是政府和科学家的责任，普通人能做的十分有限。其实，这种想法并不正确。地球环境的改变，正是由无数人每天的生活选择积累起来的。如果我们去超市购物时自己带布袋，少用一次性塑料袋；离开房间时顺手关灯，平时注意节约用水；把每天产生的垃圾认真分类，减少不必要的浪费，就是在为环保贡献力量。保护环境不应该只是一句口号，只要每个人都从身边的小事做起，我们的家园就一定会越来越美丽。",
+          "passage_py": "Tídào bǎohù dìqiú mǔqīn, hěn duō rén juéde nà shì zhèngfǔ hé kēxuéjiā de zérèn, pǔtōngrén néng zuò de shífēn yǒuxiàn. Qíshí, zhè zhǒng xiǎngfǎ bìng bú zhèngquè. Dìqiú huánjìng de gǎibiàn, zhèngshì yóu wúshù rén měi tiān de shēnghuó xuǎnzé jīlěi qǐlái de. Rúguǒ wǒmen qù chāoshì gòuwù shí zìjǐ dài bùdài, shǎo yòng yícìxìng sùliàodài; líkāi fángjiān shí shùnshǒu guāndēng, píngshí zhùyì jiéyuē yòngshuǐ; bǎ měi tiān chǎnshēng de lājī rènzhēn fēnlèi, jiǎnshǎo bú bìyào de làngfèi, jiùshì zài wèi huánbǎo gòngxiàn lìliàng. Bǎohù huánjìng bù yīnggāi zhǐshì yí jù kǒuhào, zhǐyào měi ge rén dōu cóng shēnbiān de xiǎoshì zuòqǐ, wǒmen de jiāyuán jiù yídìng huì yuèláiyuè měilì.",
+          "passage_vi": "Nhắc đến việc bảo vệ mẹ Trái Đất, nhiều người cho rằng đó là trách nhiệm của chính phủ và các nhà khoa học, còn điều người bình thường làm được vô cùng hạn chế. Thật ra, suy nghĩ này không đúng. Sự thay đổi của môi trường Trái Đất chính là được tích lũy từ lựa chọn sinh hoạt hằng ngày của vô số con người. Nếu khi đi siêu thị mua sắm chúng ta tự mang túi vải, hạn chế dùng túi ni-lông dùng một lần; rời khỏi phòng tiện tay tắt đèn, ngày thường chú ý tiết kiệm nước; phân loại cẩn thận rác thải phát sinh mỗi ngày và giảm thiểu lãng phí không cần thiết, thì đó chính là đang góp sức cho bảo vệ môi trường. Bảo vệ môi trường không nên chỉ là một câu khẩu hiệu, chỉ cần mỗi người bắt đầu từ việc nhỏ quanh mình, mái nhà chung của chúng ta chắc chắn sẽ ngày càng tươi đẹp.",
+          "key_vocab": [
+            { "zh": "积累", "py": "jīlěi", "vi": "tích lũy" },
+            { "zh": "塑料袋", "py": "sùliàodài", "vi": "túi ni-lông" },
+            { "zh": "节约", "py": "jiéyuē", "vi": "tiết kiệm" },
+            { "zh": "贡献", "py": "gòngxiàn", "vi": "đóng góp, cống hiến" }
+          ],
+          "strategy_note": "Đoạn văn có bố cục nghị luận kinh điển: Nêu quan điểm sai lầm ('很多人觉得……') → Bác bỏ ('其实，这种想法并不正确') → Liệt kê hành động thực tế qua dấu chấm phẩy (;) → Kêu gọi kết bài ('只要……就……'). Đọc theo 4 chặng này giúp nắm trọn bài cực nhanh."
+        }
+      ],
+      "package_notes": "Với chủ đề Sức khỏe & Môi trường, hãy nhớ bộ cụm động từ chuẩn HSK 4–5: 锻炼身体 (rèn luyện thân thể), 充足的睡眠 (giấc ngủ đầy đủ), 节约用水 (tiết kiệm nước), 少用塑料袋 (hạn chế túi ni-lông), 垃圾分类 (phân loại rác).",
+      "exercises": [
+        {
+          "id": "st7_p4_e1", "type": "reading_mc", "level": "Nhận biết", "mistake_category": "Đọc hiểu",
+          "prompt": "[Bài đọc 1] Vì sao hiệu quả học tập trên lớp của nhiều học sinh lại giảm sút trước kỳ thi?",
+          "options": [
+            "Vì các em thức khuya học bài đến nửa đêm khiến ban ngày buồn ngủ và thiếu tỉnh táo",
+            "Vì các em dành nửa tiếng tập thể dục sau giờ tan học",
+            "Vì các em ngủ quá sớm vào buổi tối",
+            "Vì các em không biết cách chạy bộ hoặc đi dạo"
+          ],
+          "answer": "Vì các em thức khuya học bài đến nửa đêm khiến ban ngày buồn ngủ và thiếu tỉnh táo",
+          "explanation": "Câu 1 nêu rõ: '常常熬夜学习到半夜，白天却困得没有精神，上课的效率反而下降了。'",
+          "review_tip": "Đọc kỹ câu đầu tiên có cụm '效率反而下降了' để đối chiếu nguyên nhân trực tiếp."
+        },
+        {
+          "id": "st7_p4_e2", "type": "reading_mc", "level": "Phân biệt", "mistake_category": "Đọc hiểu",
+          "prompt": "[Bài đọc 2] Tác giả phản đối quan điểm nào sau đây?",
+          "options": [
+            "Bảo vệ môi trường chỉ là trách nhiệm của chính phủ và nhà khoa học, người thường khó làm được gì",
+            "Mỗi người nên mang túi vải khi đi siêu thị và phân loại rác cẩn thận",
+            "Tiện tay tắt đèn khi rời phòng và tiết kiệm nước là đang góp sức cho môi trường",
+            "Môi trường thay đổi nhờ sự tích lũy từ thói quen hằng ngày của nhiều người"
+          ],
+          "answer": "Bảo vệ môi trường chỉ là trách nhiệm của chính phủ và nhà khoa học, người thường khó làm được gì",
+          "explanation": "Đoạn văn đưa ra quan điểm ở câu 1 rồi bác bỏ ngay ở câu 2: '其实，这种想法并不正确。'",
+          "review_tip": "Khi câu hỏi hỏi 'tác giả phản đối điều gì', hãy tìm câu ngay trước cụm '其实，这种想法并不正确'."
+        },
+        {
+          "id": "st7_p4_e3", "type": "reorder", "level": "Phân biệt", "mistake_category": "Đọc hiểu",
+          "prompt": "Sắp xếp 3 câu sau thành một đoạn văn mạch lạc về sống xanh:",
+          "tokens": [
+            "① 只要我们每次出门多走几步路或骑自行车，就能减少很多污染。",
+            "② 保护环境其实离我们的日常生活并不遥远。",
+            "③ 比如去附近的商店时，不一定非要开车。"
+          ],
+          "answer": "② 保护环境其实离我们的日常生活并不遥远。③ 比如去附近的商店时，不一定非要开车。① 只要我们每次出门多走几步路或骑自行车，就能减少很多污染。",
+          "explanation": "Mạch logic: Nêu luận điểm mở đầu (②) → Dẫn ví dụ minh họa bằng '比如' (③) → Nêu kết quả tích cực bằng '只要……就……' (①).",
+          "review_tip": "Câu chứa '比如' luôn đứng sau câu nêu nhận định chung để minh họa."
+        },
+        {
+          "id": "st7_p4_e4", "type": "translate_zh_vi", "level": "Vận dụng", "mistake_category": "Dịch thuật",
+          "prompt": "Dịch Trung – Việt: “保护环境不应该只是一句口号，只要每个人都从身边的小事做起，地球就会变得更美丽。”",
+          "hint": "口号 = khẩu hiệu, 从……做起 = bắt đầu làm từ..., 身边的小事 = những việc nhỏ quanh mình.",
+          "keywords": ["khẩu hiệu", "việc nhỏ"],
+          "answer": "Bảo vệ môi trường không nên chỉ là một câu khẩu hiệu, chỉ cần mỗi người bắt đầu từ những việc nhỏ quanh mình thì Trái Đất sẽ trở nên tươi đẹp hơn.",
+          "explanation": "Chú ý dịch rõ cấu trúc điều kiện '只要……就……' (chỉ cần... thì...) và cụm '从身边的小事做起' (bắt đầu từ những việc nhỏ quanh mình).",
+          "review_tip": "Ghi nhớ cụm '从……做起' vì đây là cấu trúc cực hay dùng trong bài viết nghị luận xã hội."
+        }
+      ]
+    },
+    {
+      "id": "st7_pkg5",
+      "title": "Chủ đề 5: Công nghệ, Internet & Cuộc sống hiện đại",
+      "intro": "Luyện đọc hiểu dạng phân tích hai mặt (lợi – hại) về mua sắm trực tuyến và sử dụng điện thoại thông minh trong học tập — dạng bài nghị luận hiện đại rất phổ biến ở trình độ HSK 4–5.",
+      "source_status": "authored_linguistics",
+      "source_ids": ["SRC_XMU_READING", "PDF_HSK4_SHANG", "PDF_HSK4_XIA", "PDF_HSK5_SHANG"],
+      "items": [
+        {
+          "difficulty": "Mức 1 – Trung cấp (Chuẩn HSK 4)",
+          "title_zh": "网上购物的利与弊",
+          "title_vi": "Lợi ích và mặt trái của mua sắm trực tuyến",
+          "passage_zh": "现在，越来越多的人习惯在网上买东西。网上购物确实带来了很多方便：不用出门排队，只要点几下手机就能比较不同商店的价格，而且商品种类非常丰富，能帮大家节省不少时间。不过，网上购物也有缺点。因为看不见实物，有时候买回来的衣服大小不合适，或者质量跟图片不太一样。另外，遇到打折活动时，不少人如果没有提前计划，就很容易买回一堆用不上的东西，既浪费钱又占地方。",
+          "passage_py": "Xiànzài, yuèláiyuè duō de rén xíguàn zài wǎngshàng mǎi dōngxi. Wǎngshàng gòuwù quèshí dàilái le hěn duō fāngbiàn: búyòng chūmén páiduì, zhǐyào diǎn jǐ xià shǒujī jiù néng bǐjiào bùtóng shāngdiàn de jiàgé, érqiě shāngpǐn zhǒnglèi fēicháng fēngfù, néng bāng dàjiā jiéshěng bùshǎo shíjiān. Búguò, wǎngshàng gòuwù yě yǒu quēdiǎn. Yīnwèi kàn bú jiàn shíwù, yǒu shíhou mǎi huílái de yīfu dàxiǎo bù héshì, huòzhě zhìliàng gēn túpiàn bú tài yíyàng. Lìngwài, yùdào dǎzhé huódòng shí, bùshǎo rén rúguǒ méiyǒu tíqián jìhuà, jiù hěn róngyì mǎi huí yì duī yòng bú shàng de dōngxi, jì làngfèi qián yòu zhàn dìfang.",
+          "passage_vi": "Hiện nay, ngày càng nhiều người quen mua đồ trên mạng. Mua sắm trực tuyến quả thật mang lại rất nhiều tiện lợi: không cần ra ngoài xếp hàng, chỉ cần chạm vài cái trên điện thoại là có thể so sánh giá của các cửa hàng khác nhau, hơn nữa chủng loại hàng hóa vô cùng phong phú, giúp mọi người tiết kiệm khá nhiều thời gian. Tuy nhiên, mua sắm trực tuyến cũng có nhược điểm. Vì không nhìn thấy sản phẩm thật, đôi khi quần áo mua về không vừa kích cỡ, hoặc chất lượng không giống hình ảnh lắm. Ngoài ra, khi gặp dịp giảm giá, nếu không lên kế hoạch trước, không ít người rất dễ mua về một đống đồ không dùng tới, vừa tốn tiền vừa chiếm chỗ.",
+          "key_vocab": [
+            { "zh": "节省", "py": "jiéshěng", "vi": "tiết kiệm (thời gian, chi phí)" },
+            { "zh": "质量", "py": "zhìliàng", "vi": "chất lượng" },
+            { "zh": "打折", "py": "dǎzhé", "vi": "giảm giá" },
+            { "zh": "既……又……", "py": "jì... yòu...", "vi": "vừa... vừa..." }
+          ],
+          "strategy_note": "Bài đọc phân tích hai mặt (lợi – hại) luôn có từ chuyển trục ở giữa đoạn như '不过' / '然而' / '但是'. Hãy chia nhẩm bài thành 2 phần: trước '不过' là ưu điểm, sau '不过' (kèm '另外') là nhược điểm để tra đáp án cực nhanh."
+        },
+        {
+          "difficulty": "Mức 2 – Trung cao cấp (Định hướng HSK 5)",
+          "title_zh": "做手机的主人，不做手机的奴隶",
+          "title_vi": "Làm chủ chiếc điện thoại, đừng làm nô lệ cho nó",
+          "passage_zh": "对于现代学生来说，智能手机早已成为学习中的好帮手。遇到不懂的生词，我们可以立刻用词典软件查询；想练习听力和口语，网上也有各种免费的课程资源。然而，如果不够自觉，手机也很容易影响学习效率。许多同学本来只想查一个词语，却忍不住点开了新消息和短视频，不知不觉一个小时就过去了，注意力完全被打断。其实，工具本身没有好坏之分，关键在于使用它的人。学会合理安排时间，写作业时把手机调成静音，我们才能真正做手机的主人。",
+          "passage_py": "Duìyú xiàndài xuésheng láishuō, zhìnéng shǒujī zǎoyǐ chéngwéi xuéxí zhōng de hǎo bāngshǒu. Yùdào bù dǒng de shēngcí, wǒmen kěyǐ lìkè yòng cídiǎn ruǎnjiàn cháxún; xiǎng liànxí tīnglì hé kǒuyǔ, wǎngshàng yě yǒu gèzhǒng miǎnfèi de kèchéng zīyuán. Rán'ér, rúguǒ bú gòu zìjué, shǒujī yě hěn róngyì yǐngxiǎng xuéxí xiàolǜ. Xǔduō tóngxué běnlái zhǐ xiǎng chá yí ge cíyǔ, què rěnbuzhù diǎnkāi le xīn xiāoxi hé duǎnshìpín, bùzhībùjué yí ge xiǎoshí jiù guòqù le, zhùyìlì wánquán bèi dǎduàn. Qíshí, gōngjù běnshēn méiyǒu hǎohuài zhī fēn, guānjiàn zàiyú shǐyòng tā de rén. Xuéhuì hélǐ ānpái shíjiān, xiě zuòyè shí bǎ shǒujī tiáochéng jìngyīn, wǒmen cái néng zhēnzhèng zuò shǒujī de zhǔrén.",
+          "passage_vi": "Đối với học sinh hiện đại, điện thoại thông minh từ lâu đã trở thành trợ thủ đắc lực trong học tập. Gặp từ mới không hiểu, chúng ta có thể lập tức tra cứu bằng ứng dụng từ điển; muốn luyện nghe và nói, trên mạng cũng có đủ loại tài nguyên khóa học miễn phí. Tuy nhiên, nếu không đủ tự giác, điện thoại cũng rất dễ làm ảnh hưởng đến hiệu quả học tập. Nhiều bạn vốn chỉ định tra một từ, nhưng lại không kìm được mà bấm mở tin nhắn mới và video ngắn, thoắt cái một tiếng đồng hồ đã trôi qua, sự tập trung hoàn toàn bị gián đoạn. Thật ra, bản thân công cụ không có tốt hay xấu, mấu chốt nằm ở người sử dụng nó. Biết sắp xếp thời gian hợp lý, chuyển điện thoại sang chế độ im lặng khi làm bài tập, chúng ta mới có thể thực sự làm chủ chiếc điện thoại.",
+          "key_vocab": [
+            { "zh": "资源", "py": "zīyuán", "vi": "tài nguyên, nguồn học liệu" },
+            { "zh": "自觉", "py": "zìjué", "vi": "tự giác" },
+            { "zh": "忍不住", "py": "rěnbuzhù", "vi": "không kìm được, không nhịn được" },
+            { "zh": "不知不觉", "py": "bùzhībùjué", "vi": "bất giác, lúc nào không hay" }
+          ],
+          "strategy_note": "Trong bài nghị luận công nghệ, tác giả hiếm khi hoàn toàn ủng hộ hay hoàn toàn phản đối. Hãy tìm câu trung dung chốt vấn đề ('工具本身没有好坏之分，关键在于……') — đó thường là đáp án đúng cho câu hỏi ý chính hoặc thái độ tác giả."
+        }
+      ],
+      "package_notes": "Khi viết đoạn nghị luận hai mặt về công nghệ (điện thoại, Internet, mua sắm online), hãy dùng khung 3 ý chuẩn điểm cao: (1) 确实带来了很多方便 (khẳng định mặt lợi) → (2) 然而，如果……也会…… (chỉ ra mặt hạn chế) → (3) 关键在于…… (đề xuất cách sử dụng hợp lý).",
+      "exercises": [
+        {
+          "id": "st7_p5_e1", "type": "reading_mc", "level": "Nhận biết", "mistake_category": "Đọc hiểu",
+          "prompt": "[Bài đọc 1] Theo đoạn văn, điều gì dễ xảy ra khi người mua gặp dịp giảm giá mà không có kế hoạch trước?",
+          "options": [
+            "Dễ mua về một đống đồ không dùng tới, vừa lãng phí tiền vừa chiếm chỗ",
+            "Không thể so sánh giá giữa các cửa hàng khác nhau",
+            "Phải ra ngoài xếp hàng rất lâu mới mua được hàng",
+            "Sản phẩm mua về luôn giống hệt hình ảnh quảng cáo"
+          ],
+          "answer": "Dễ mua về một đống đồ không dùng tới, vừa lãng phí tiền vừa chiếm chỗ",
+          "explanation": "Câu cuối Bài đọc 1 nêu rõ: '遇到打折活动时，不少人如果没有提前计划，就很容易买回一堆用不上的东西，既浪费钱又占地方。'",
+          "review_tip": "Tìm cụm từ khóa '打折活动' ở cuối đoạn để xác định chính xác chi tiết."
+        },
+        {
+          "id": "st7_p5_e2", "type": "reading_mc", "level": "Phân biệt", "mistake_category": "Đọc hiểu",
+          "prompt": "[Bài đọc 2] Quan điểm cốt lõi của tác giả về điện thoại thông minh là gì?",
+          "options": [
+            "Bản thân điện thoại không tốt hay xấu, mấu chốt là người dùng cần tự giác sắp xếp thời gian để làm chủ nó",
+            "Học sinh tuyệt đối không nên dùng điện thoại trong lúc học ngoại ngữ",
+            "Tra từ điển trên điện thoại luôn làm mất ít nhất một tiếng đồng hồ",
+            "Nên xem video ngắn trên mạng thay vì học các khóa miễn phí"
+          ],
+          "answer": "Bản thân điện thoại không tốt hay xấu, mấu chốt là người dùng cần tự giác sắp xếp thời gian để làm chủ nó",
+          "explanation": "Hai câu kết khẳng định rõ: '工具本身没有好坏之分，关键在于使用它的人。学会合理安排时间，写作业时把手机调成静音，我们才能真正做手机的主人。'",
+          "review_tip": "Luôn loại trừ các đáp án mang thái độ cực đoan ('tuyệt đối không', 'luôn luôn') trong bài đọc nghị luận hai mặt."
+        },
+        {
+          "id": "st7_p5_e3", "type": "reorder", "level": "Phân biệt", "mistake_category": "Đọc hiểu",
+          "prompt": "Sắp xếp 3 câu sau thành một đoạn văn nghị luận hai mặt về điện thoại thông minh:",
+          "tokens": [
+            "① 然而，长时间看手机也会减少人们面对面交流的机会。",
+            "② 因此，我们既要享受科技带来的方便，也要学会合理控制使用时间。",
+            "③ 智能手机让我们的信息查询和日常联系变得非常方便。"
+          ],
+          "answer": "③ 智能手机让我们的信息查询和日常联系变得非常方便。① 然而，长时间看手机也会减少人们面对面交流的机会。② 因此，我们既要享受科技带来的方便，也要学会合理控制使用时间。",
+          "explanation": "Mạch logic: Nêu mặt lợi trước (③) → Chuyển hướng sang mặt hạn chế bằng '然而' (①) → Kết luận dung hòa bằng '因此，既要……也要……' (②).",
+          "review_tip": "Với đoạn văn lợi–hại, trật tự chuẩn luôn là: Mặt lợi → 然而 (Mặt hại) → 因此 (Kết luận cân bằng)."
+        },
+        {
+          "id": "st7_p5_e4", "type": "make_sentence", "level": "Vận dụng", "mistake_category": "Dịch thuật",
+          "prompt": "Viết một đoạn ngắn (2–3 câu tiếng Trung) nêu suy nghĩ của bạn về việc sử dụng điện thoại (手机) trong học tập, có dùng cấu trúc chuyển ý (虽然……但是…… hoặc 然而) và nêu cách khắc phục:",
+          "hint": "Ví dụ: 手机虽然能帮我们查生词和练习听力，但是如果不够自觉，就很容易分散注意力。因此，我学习时都会把手机调成静音。",
+          "keywords": ["手机"],
+          "answer": "手机虽然是学习的好工具，可以帮我们查词语、找资料，然而如果控制不好时间，就会影响学习效率。因此，我写作业时会把手机调成静音，专心完成任务。",
+          "explanation": "Đoạn văn tốt cần thể hiện rõ góc nhìn hai mặt (lợi ích + hạn chế) và kết lại bằng biện pháp tự quản lý cụ thể.",
+          "review_tip": "Ghi nhớ cụm '控制时间' (kiểm soát thời gian), '影响学习效率' (ảnh hưởng hiệu quả học tập) và '调成静音' (chuyển sang im lặng)."
+        }
+      ]
+    },
+    {
+      "id": "st7_pkg6",
+      "title": "Chủ đề 6: Điền từ ngữ cảnh & Hoàn thành đoạn văn (选词填空 · 完形填空 — QUYỂN 4 HSK 3.0)",
+      "intro": "Chuyên đề rèn kỹ năng Điền từ ngữ cảnh (选词填空 / 完形填空) chuẩn HSK 3.0 Cấp 4, trích xuất và đối chiếu trực tiếp từ giáo trình QUYỂN 4 (TS. Nguyễn Thị Minh Hồng dịch). Tập trung xử lý các cụm kết hợp từ vàng (搭配) và các nhóm từ đồng tố cực dễ nhầm trong đề thi Chuyên Trung & HSK 4–5.",
+      "source_status": "verified_source",
+      "source_ids": ["PDF_HSK30_VOCAB_L4", "PDF_HSK4_XIA", "PDF_HSK5_SHANG"],
+      "items": [
+        {
+          "difficulty": "Mức 1 – Trung cấp (Chuẩn HSK 4 · QUYỂN 4 HSK 3.0)",
+          "title_zh": "从身边小事培养好习惯",
+          "title_vi": "Bồi dưỡng thói quen tốt từ những việc nhỏ quanh mình",
+          "passage_zh": "老师常常教育我们，成长不只是提高考试成绩，更要从小事中培养好习惯。比如，在学校里要爱护公物、爱护眼睛，课后按时完成作业；如果在学习方面有任何问题，可以随时来问老师或同学。快到考试时，大家要抓紧时间专心复习，遇到难题也不要慌张，先让心情平静下来，再认真分析原因。只要每天都对自己充满信心，我们的能力就会逐渐提高。",
+          "passage_py": "Lǎoshī chángcháng jiàoyù wǒmen, chéngzhǎng bù zhǐ shì tígāo kǎoshì chéngjì, gèng yào cóng xiǎoshì zhōng péiyǎng hǎo xíguàn. Bǐrú, zài xuéxiào li yào àihù gōngwù, àihù yǎnjing, kèhòu ànshí wánchéng zuòyè; rúguǒ zài xuéxí fāngmiàn yǒu rènhé wèntí, kěyǐ suíshí lái wèn lǎoshī huò tóngxué. Kuài dào kǎoshì shí, dàjiā yào zhuājǐn shíjiān zhuānxīn fùxí, yùdào nántí yě búyào huāngzhāng, xiān ràng xīnqíng píngjìng xiàlái, zài rènzhēn fēnxī yuányīn. Zhǐyào měi tiān dōu duì zìjǐ chōngmǎn xìnxīn, wǒmen de nénglì jiù huì zhújiàn tígāo.",
+          "passage_vi": "Thầy cô thường giáo dục chúng ta rằng, trưởng thành không chỉ là nâng cao điểm số thi cử mà còn phải bồi dưỡng thói quen tốt từ những việc nhỏ. Ví dụ, ở trường cần giữ gìn của công, bảo vệ đôi mắt, sau giờ học hoàn thành bài tập đúng giờ; nếu trong học tập có bất kỳ thắc mắc nào thì có thể đến hỏi thầy cô hoặc bạn bè bất cứ lúc nào. Gần đến kỳ thi, mọi người cần tranh thủ thời gian chuyên tâm ôn tập, gặp bài khó cũng đừng hoảng loạn, hãy để tâm trạng bình tĩnh lại trước rồi mới nghiêm túc phân tích nguyên nhân. Chỉ cần mỗi ngày đều tràn đầy tự tin vào bản thân, năng lực của chúng ta sẽ dần dần được nâng cao.",
+          "key_vocab": [
+            { "zh": "爱护", "py": "àihù", "vi": "bảo vệ, gìn giữ, yêu quý (爱护公物/眼睛)" },
+            { "zh": "按时", "py": "ànshí", "vi": "đúng hạn, đúng giờ (khác 随时: bất cứ lúc nào)" },
+            { "zh": "培养", "py": "péiyǎng", "vi": "bồi dưỡng, đào tạo (培养习惯/兴趣; khác 教育)" },
+            { "zh": "平静", "py": "píngjìng", "vi": "bình tĩnh, yên lặng (心情平静; khác 宁静/安静)" }
+          ],
+          "strategy_note": "Chiến thuật 3 bước làm 选词填空 / 完形填空: (1) Nhìn kết hợp từ cố định (搭配) ngay trước/sau chỗ trống (vd: 爱护公物, 充满信心, 抓紧时间, 培养习惯); (2) Soi từ loại (词性) của chỗ trống (động từ 充满 + danh từ ≠ tính từ 充分 + 的 + danh từ; phó từ 按时/随时 đứng trước động từ); (3) Kiểm tra mạch ý câu trước–sau (上下文逻辑) để chốt sắc thái đúng (ví dụ 'bất cứ lúc nào hỏi' phải dùng 随时 chứ không dùng 按时)."
+        },
+        {
+          "difficulty": "Mức 2 – Trung cao cấp (Định hướng HSK 5 · QUYỂN 4 HSK 3.0)",
+          "title_zh": "处于快速发展阶段的宁静校园",
+          "title_vi": "Ngôi trường thanh bình trong giai đoạn phát triển nhanh",
+          "passage_zh": "我们学校位于城市南部的绿树公园旁边，校园环境十分宁静。近年来，学校正处于快速发展阶段，不仅为新学期做了充分的准备，还在今年夏天对旧教室和电脑设备进行了全面维修。为了维持良好的教学秩序，同时维护美好的校园环境，学校制定了清晰的管理方案，鼓励每位同学从不乱扔垃圾、节约水电做起。在大家的共同努力下，校园的学习气氛与生活品质正逐步提高，新来的同学也很快就逐渐适应了这里的节奏。",
+          "passage_py": "Wǒmen xuéxiào wèiyú chéngshì nánbù de lǜshù gōngyuán pángbiān, xiàoyuán huánjìng shífēn níngjìng. Jìnniánlái, xuéxiào zhèng chǔyú kuàisù fāzhǎn jiēduàn, bùjǐn wèi xīn xuéqī zuò le chōngfèn de zhǔnbèi, hái zài jīnnián xiàtiān duì jiù jiàoshì hé diànnǎo shèbèi jìnxíng le quánmiàn wéixiū. Wèile wéichí liánghǎo de jiàoxué zhìxù, tóngshí wéihù měihǎo de xiàoyuán huánjìng, xuéxiào zhìdìng le qīngxī de guǎnlǐ fāng'àn, gǔlì měi wèi tóngxué cóng bú luàn rēng lājī, jiéyuē shuǐdiàn zuòqǐ. Zài dàjiā de gòngtóng nǔlì xià, xiàoyuán de xuéxí qìfēn yǔ shēnghuó pǐnzhì zhèng zhúbù tígāo, xīn lái de tóngxué yě hěn kuài jiù zhújiàn shìyìng le zhèlǐ de jiézòu.",
+          "passage_vi": "Trường chúng tôi nằm ở bên cạnh công viên cây xanh phía nam thành phố, môi trường khuôn viên vô cùng thanh bình. Những năm gần đây, nhà trường đang ở vào giai đoạn phát triển nhanh chóng, không chỉ chuẩn bị đầy đủ cho học kỳ mới mà mùa hè năm nay còn tiến hành tu sửa toàn diện các phòng học cũ và thiết bị máy tính. Để duy trì trật tự dạy học tốt đẹp, đồng thời gìn giữ môi trường học đường tươi đẹp, nhà trường đã xây dựng phương án quản lý rõ ràng, khuyến khích mỗi học sinh bắt đầu từ việc không xả rác bừa bãi và tiết kiệm điện nước. Nhờ nỗ lực chung của mọi người, bầu không khí học tập và chất lượng đời sống trong trường đang từng bước được nâng cao, còn các bạn học sinh mới đến cũng rất nhanh dần dần thích nghi với nhịp sống nơi đây.",
+          "key_vocab": [
+            { "zh": "位于", "py": "wèiyú", "vi": "nằm ở (vị trí địa lý: 位于公园旁边)" },
+            { "zh": "处于", "py": "chǔyú", "vi": "ở vào/trong (trạng thái/giai đoạn: 处于快速发展阶段)" },
+            { "zh": "维护", "py": "wéihù", "vi": "gìn giữ, bảo vệ (维护环境/利益; khác 维持/维修)" },
+            { "zh": "逐步", "py": "zhúbù", "vi": "từng bước (có kế hoạch: 逐步提高; khác 逐渐)" }
+          ],
+          "strategy_note": "Mẹo phá bẫy từ đồng tố HSK 3.0 Cấp 4 trong 完形填空: (1) 位于 + địa điểm địa lý ≠ 处于 + giai đoạn/trạng thái; (2) Bộ ba 维: 维持 (duy trì trạng thái/sinh hoạt/trật tự) ≠ 维护 (bảo vệ môi trường/quyền lợi/website) ≠ 维修 (sửa chữa phòng ốc/máy móc); (3) 逐步 (từng bước có kế hoạch, chỉ dùng cho hoạt động của con người) ≠ 逐渐 (dần dần, dùng được cho cả thích nghi tự nhiên và thời tiết)."
+        }
+      ],
+      "package_notes": "Checklist 3 bước chinh phục 选词填空 / 完形填空 (QUYỂN 4 HSK 3.0): (1) Quét cặp kết hợp từ cố định (搭配): 爱护公物, 充满信心, 充分准备, 处于……阶段, 位于……地区, 维持生活, 维护环境, 维修设备; (2) Soi từ loại (词性) trước–sau dấu trống (có 了/着 → chọn động từ; có 的 + danh từ → ưu tiên tính từ/động từ làm định ngữ); (3) Đọc xuyên câu trước–sau kiểm tra logic thời gian và sắc thái (按时 ≠ 随时; 平静 ≠ 宁静 ≠ 安静; 培养 ≠ 教育; 逐步 ≠ 逐渐).",
+      "exercises": [
+        {
+          "id": "st7_p6_e1", "type": "fill_blank", "level": "Nhận biết", "mistake_category": "Từ vựng",
+          "origin_tag": "QUYỂN 4 · Bài 1 (tr.12)",
+          "prompt": "Chọn từ phù hợp nhất để hoàn thành câu: “我们应该从小就教育自己的孩子 ____ 公物。”",
+          "options": ["爱护", "保护", "热爱", "保证"],
+          "answer": "爱护",
+          "explanation": "Theo QUYỂN 4 (Bài 1, tr.9 & tr.12), '爱护' (bảo vệ, gìn giữ, yêu quý) kết hợp cố định với '公物' (của công), '眼睛', '身体', '生命'. '保护' thiên về che chở tránh tổn hại/nguy hiểm (保护环境/动物), '热爱' dùng cho tổ quốc/cuộc sống, '保证' là bảo đảm.",
+          "review_tip": "Ghi nhớ cụm vàng QUYỂN 4: 爱护公物 / 爱护眼睛 / 爱护身体 / 爱护生命."
+        },
+        {
+          "id": "st7_p6_e2", "type": "fill_blank", "level": "Phân biệt", "mistake_category": "Từ vựng",
+          "origin_tag": "QUYỂN 4 · Bài 6 (tr.32)",
+          "prompt": "Chọn từ phù hợp nhất để hoàn thành câu: “我对公司的发展 ____ 了信心。”",
+          "options": ["充满", "充电", "补充", "充分"],
+          "answer": "充满",
+          "explanation": "Chỗ trống đứng ngay trước trợ từ '了' và mang tân ngữ '信心' nên cần ĐỘNG TỪ → chọn '充满' (充满信心 = tràn đầy niềm tin). '充分' là tính từ (phải nói 有充分的信心), không gắn trực tiếp '了信心'; '充电' (sạc pin) và '补充' (bổ sung) sai nghĩa kết hợp.",
+          "review_tip": "Soi từ loại: sau chỗ trống có '了 + 信心' → dùng động từ 充满, không dùng tính từ 充分."
+        },
+        {
+          "id": "st7_p6_e3", "type": "fill_blank", "level": "Phân biệt", "mistake_category": "Từ vựng",
+          "origin_tag": "QUYỂN 4 · Bài 38 (tr.168)",
+          "prompt": "Chọn từ phù hợp nhất để hoàn thành câu: “他每个月的工资不够 ____ 一家人的生活。”",
+          "options": ["维修", "维持", "坚持", "维护"],
+          "answer": "维持",
+          "explanation": "Theo QUYỂN 4 (Bài 38, tr.166 & tr.168), '维持' nghĩa là duy trì, giữ cho không bị gián đoạn — kết hợp chuẩn với '生活' (维持一家人的生活), '生命', '原样'. '维修' là sửa chữa thiết bị/phòng ốc; '维护' là bảo vệ lợi ích/môi trường; '坚持' là kiên trì (không đi với 生活 theo nghĩa chu cấp sinh hoạt).",
+          "review_tip": "Thuộc lòng bộ ba 维: 维持生活 (duy trì cuộc sống) · 维护环境/利益 (bảo vệ) · 维修电脑/空调 (sửa chữa)."
+        },
+        {
+          "id": "st7_p6_e4", "type": "reading_mc", "level": "Phân biệt", "mistake_category": "Đọc hiểu",
+          "prompt": "[Bài đọc 2] Theo đoạn văn về ngôi trường xanh, nhà trường đã thực hiện việc nào sau đây vào mùa hè năm nay?",
+          "options": [
+            "Tiến hành tu sửa (维修) toàn diện các phòng học cũ và thiết bị máy tính",
+            "Di dời ngôi trường từ phía nam sang phía bắc thành phố",
+            "Ngừng duy trì trật tự dạy học để tập trung trồng cây xanh",
+            "Yêu cầu học sinh mới tự sửa chữa máy tính trong lớp"
+          ],
+          "answer": "Tiến hành tu sửa (维修) toàn diện các phòng học cũ và thiết bị máy tính",
+          "explanation": "Câu 2 Bài đọc 2 nêu rõ: '还在今年夏天对旧教室和电脑设备进行了全面维修。' (chú ý phân biệt đúng 维修 cho phòng học/thiết bị, 维持 cho trật tự, 维护 cho môi trường).",
+          "review_tip": "Đọc câu chứa mốc thời gian '今年夏天' và đối chiếu đúng động từ 维修."
+        },
+        {
+          "id": "st7_p6_e5", "type": "reorder", "level": "Vận dụng", "mistake_category": "Đọc hiểu",
+          "prompt": "Sắp xếp 3 câu sau thành một đoạn văn mạch lạc có sử dụng từ khóa QUYỂN 4 (处于, 充分, 逐步, 平静):",
+          "tokens": [
+            "① 只要我们充分做好准备，并逐步改进学习方法，成绩就会慢慢提高。",
+            "② 许多同学在处于备考关键阶段时，常常因为压力大而感到紧张。",
+            "③ 因此，遇到困难时不必过于担心，保持平静的心态才是最重要的。"
+          ],
+          "answer": "② 许多同学在处于备考关键阶段时，常常因为压力大而感到紧张。① 只要我们充分做好准备，并逐步改进学习方法，成绩就会慢慢提高。③ 因此，遇到困难时不必过于担心，保持平静的心态才是最重要的。",
+          "explanation": "Mạch logic chuẩn 3 bước: Nêu hiện tượng bối cảnh với '处于……阶段' (②) → Đưa ra điều kiện cải thiện với '只要……充分……逐步……就……' (①) → Rút ra lời khuyên chốt đoạn bằng '因此' và '保持平静的心态' (③).",
+          "review_tip": "Câu giới thiệu bối cảnh chung (许多同学……) đứng đầu; câu kết luận chứa '因此' luôn đứng cuối."
+        }
+      ]
+    }
+  ],
+  "comprehensive_test": [
+    {
+      "id": "st7_ct1", "type": "reading_mc", "level": "Vận dụng", "mistake_category": "Đọc hiểu",
+      "passage": "有人说，遇到不认识的词语立刻查词典，不如先根据上下文猜一猜它的意思，读完一段后再查词典确认。这样不仅不会打断阅读的节奏，还能加深对新词语的印象。",
+      "prompt": "[Tổng hợp Trạm 7] Theo đoạn văn, lợi ích của việc đoán nghĩa theo ngữ cảnh trước khi tra từ điển là gì?",
+      "options": [
+        "Không làm gián đoạn nhịp đọc và giúp nhớ sâu từ mới hơn",
+        "Giúp không cần dùng từ điển nữa",
+        "Giúp đọc hết cả quyển sách trong 10 phút",
+        "Giúp viết chữ Hán đẹp hơn"
+      ],
+      "answer": "Không làm gián đoạn nhịp đọc và giúp nhớ sâu từ mới hơn",
+      "explanation": "Đoạn văn chỉ rõ ở câu cuối: '这样不仅不会打断阅读的节奏，还能加深对新词语的印象。'",
+      "review_tip": "Chú ý câu chứa 不仅……还…… khi trả lời câu hỏi về lợi ích/nguyên nhân."
+    },
+    {
+      "id": "st7_ct2", "type": "reading_mc", "level": "Vận dụng", "mistake_category": "Đọc hiểu",
+      "passage": "在和别人意见不同时，急着否定对方往往会让对方更难接受你的观点。相反，如果先认真听完对方的理由，再温和地表达自己的看法，交流的效果通常会好得多。",
+      "prompt": "[Tổng hợp Trạm 7 – Chủ đề 2] Theo đoạn văn, khi bất đồng ý kiến với người khác, cách làm nào giúp giao tiếp hiệu quả hơn?",
+      "options": [
+        "Lắng nghe kỹ lý do của đối phương trước rồi mới nhẹ nhàng bày tỏ quan điểm của mình",
+        "Vội vàng phủ nhận ngay lập tức để chứng minh mình đúng",
+        "Im lặng hoàn toàn và không bao giờ nêu ý kiến cá nhân",
+        "Nói thật lớn tiếng để đối phương buộc phải đồng ý"
+      ],
+      "answer": "Lắng nghe kỹ lý do của đối phương trước rồi mới nhẹ nhàng bày tỏ quan điểm của mình",
+      "explanation": "Đoạn văn chỉ rõ sau từ chuyển ý '相反': '先认真听完对方的理由，再温和地表达自己的看法，交流的效果通常会好得多。'",
+      "review_tip": "Chú ý cấu trúc trình tự '先……再……' sau từ chuyển ngoặt '相反'."
+    },
+    {
+      "id": "st7_ct3", "type": "reading_mc", "level": "Vận dụng", "mistake_category": "Đọc hiểu",
+      "passage": "很多游客去一个古镇时，只待两三个小时就匆忙离开，觉得那里和其他地方没什么区别。其实，如果能住上一晚，看看清晨安静的街道，尝尝当地人的早餐，才能真正体会到古镇独特的魅力。",
+      "prompt": "[Tổng hợp Trạm 7 – Chủ đề 3] Vì sao tác giả khuyên du khách nên ở lại cổ trấn một đêm?",
+      "options": [
+        "Vì như vậy mới có thể cảm nhận trọn vẹn nét quyến rũ riêng qua phố sáng yên tĩnh và bữa sáng địa phương",
+        "Vì giá phòng khách sạn ở cổ trấn rất rẻ so với thành phố lớn",
+        "Vì ban ngày tất cả cửa hàng ở cổ trấn đều đóng cửa",
+        "Vì chỉ ở lại hai ba tiếng là đã hiểu hết lịch sử địa phương"
+      ],
+      "answer": "Vì như vậy mới có thể cảm nhận trọn vẹn nét quyến rũ riêng qua phố sáng yên tĩnh và bữa sáng địa phương",
+      "explanation": "Câu cuối nêu rõ: '如果能住上一晚，看看清晨安静的街道，尝尝当地人的早餐，才能真正体会到古镇独特的魅力。'",
+      "review_tip": "Xác định mệnh đề kết quả sau '如果……才……' để tìm lý do hoặc lời khuyên của tác giả."
+    },
+    {
+      "id": "st7_ct4", "type": "reading_mc", "level": "Vận dụng", "mistake_category": "Đọc hiểu",
+      "passage": "不少人以为只有去健身房流很多汗才算运动，其实，每天上下学快走二十分钟，或者在学习一小时后站起来活动一下，对身体同样很有好处。关键不是一次练多累，而是长期坚持下去。",
+      "prompt": "[Tổng hợp Trạm 7 – Chủ đề 4] Đoạn văn muốn nhấn mạnh điều gì về việc rèn luyện thể chất?",
+      "options": [
+        "Vận động nhẹ nhàng hằng ngày và kiên trì lâu dài cũng rất tốt cho sức khỏe, không nhất thiết phải tập quá mệt trong một lần",
+        "Chỉ đến phòng gym tập đến khi đổ thật nhiều mồ hôi mới được coi là vận động",
+        "Học sinh không nên đứng dậy vận động trong lúc đang học bài",
+        "Mỗi tuần chỉ cần tập một lần thật nặng là đủ giữ sức khỏe"
+      ],
+      "answer": "Vận động nhẹ nhàng hằng ngày và kiên trì lâu dài cũng rất tốt cho sức khỏe, không nhất thiết phải tập quá mệt trong một lần",
+      "explanation": "Câu chốt nêu rõ: '关键不是一次练多累，而是长期坚持下去。'",
+      "review_tip": "Cấu trúc '关键不是……而是……' luôn chứa luận điểm trọng tâm của đoạn đọc."
+    },
+    {
+      "id": "st7_ct5", "type": "reading_mc", "level": "Vận dụng", "mistake_category": "Đọc hiểu",
+      "passage": "虽然网上可以随时查到各种答案，但如果一遇到难题就直接上网搜结果，自己却不动脑思考，时间长了，解决问题的能力就会慢慢退步。网络资料应该用来启发思路，而不是代替思考。",
+      "prompt": "[Tổng hợp Trạm 7 – Chủ đề 5] Theo đoạn văn, chúng ta nên sử dụng tài liệu trên mạng như thế nào khi gặp bài khó?",
+      "options": [
+        "Dùng để gợi mở hướng suy nghĩ, không nên để mạng thay thế việc tự tư duy",
+        "Gặp bài khó là lập tức tra đáp án và chép lại cho nhanh",
+        "Tuyệt đối không dùng Internet cho bất kỳ mục đích học tập nào",
+        "Chỉ tra đáp án trên mạng mà không cần tự suy nghĩ trước"
+      ],
+      "answer": "Dùng để gợi mở hướng suy nghĩ, không nên để mạng thay thế việc tự tư duy",
+      "explanation": "Câu cuối khẳng định rõ: '网络资料应该用来启发思路，而不是代替思考。'",
+      "review_tip": "Chú ý mẫu câu đối chiếu '用来……而不是……' để nắm chính xác lời khuyên của tác giả."
+    },
+    {
+      "id": "st7_ct6", "type": "fill_blank", "level": "Vận dụng", "mistake_category": "Từ vựng",
+      "origin_tag": "QUYỂN 4 · Bài 38 (tr.168)",
+      "passage": "妈妈经常提醒大家，青少年时期每天都要按时吃饭、保证充足的睡眠，并且多参加体育锻炼。小明正 ____ 长身体的重要时期，所以全家人都非常讲究他的日常营养。",
+      "prompt": "[Tổng hợp Trạm 7 – Chủ đề 6 · Điền từ ngữ cảnh QUYỂN 4] Chọn từ thích hợp nhất điền vào chỗ trống trong đoạn văn trên:",
+      "options": ["处于", "位于", "关于", "善于"],
+      "answer": "处于",
+      "explanation": "Câu gốc trích từ QUYỂN 4 (Bài 38, tr.168): '小明正处于长身体的重要时期。' Phía sau chỗ trống là danh từ chỉ giai đoạn/thời kỳ ('重要时期') nên phải dùng '处于' (ở vào giai đoạn/trạng thái). '位于' chỉ dùng cho vị trí địa lý (位于市中心); '关于' là giới từ 'về'; '善于' là 'giỏi về' (đi với động từ).",
+      "review_tip": "Ghi nhớ quy tắc vàng QUYỂN 4: 处于 + giai đoạn/trạng thái (处于重要时期/快速发展阶段) ≠ 位于 + vị trí địa lý."
+    }
+  ]
+}

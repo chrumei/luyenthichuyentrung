@@ -1,0 +1,679 @@
+{
+  "id": "station2",
+  "kind": "grammar",
+  "icon": "🧩",
+  "shortTitle": "Trạm 2: Ngữ pháp sâu",
+  "title_vi": "TRẠM 2. NGỮ PHÁP CHUYÊN SÂU",
+  "title_zh": "语法专题",
+  "description": "Hệ thống hóa 5 gói chuyên đề ngữ pháp xương sống nền tảng HSK 4–5 và ôn thi Chuyên Trung (đối chiếu giáo trình Ngữ pháp tiếng Hán hiện đại BLCU): Cú pháp trọng điểm (把/被/是……的), Hư từ chuyên sâu (Phó từ/Giới từ/了着过/的地得), Bổ ngữ & Câu đặc biệt (Tồn hiện/Liên động/Kiêm ngữ), Câu phức & Quy tắc vị trí từ liên kết, và Số–Lượng từ · Lặp Động/Tính từ · Câu phản vấn & Nhấn mạnh.",
+  "packages": [
+    {
+      "id": "st2_pkg1",
+      "title": "Gói 1: 5 Chuyên đề cú pháp trọng điểm (把 · 被 · 是……的 · Bổ ngữ · Trật tự từ)",
+      "intro": "Tập trung vào 5 cấu trúc khiến học sinh mất điểm nhiều nhất ở phần sắp xếp câu và sửa lỗi ngữ pháp.",
+      "source_status": "synthesized",
+      "source_ids": ["SRC_BLCU_GRAMMAR", "SRC_MODERN_CHINESE", "PDF_HSK4_SHANG", "PDF_HSK5_SHANG"],
+      "items": [
+        {
+          "title": "1. Câu chữ 把 (处置句 – Câu xử trí)",
+          "formula": "Chủ ngữ + (Trạng ngữ/Phó từ phủ định/Động từ năng nguyện) + 把 + Tân ngữ xác định + Động từ + Thành phần khác (了/着/Bổ ngữ/Lặp lại)",
+          "explanation": "Dùng khi chủ thể thực hiện hành động làm thay đổi vị trí, trạng thái hoặc kết quả của một sự vật xác định. Động từ trong câu 把 KHÔNG BAO GIỜ đứng trơ trọi một mình!",
+          "examples": [
+            { "chinese": "请不要把头伸到车窗外去。", "pinyin": "Qǐng búyào bǎ tóu shēn dào chēchuāng wài qù.", "vietnamese": "Xin đừng thò đầu ra ngoài cửa sổ xe." },
+            { "chinese": "看完文章后，你可以把主要内容写下来。", "pinyin": "Kànwán wénzhāng hòu, nǐ kěyǐ bǎ zhǔyào nèiróng xiě xialai.", "vietnamese": "Đọc xong bài văn, bạn có thể viết nội dung chính xuống." }
+          ],
+          "comparison": "Phủ định (不/没) và động từ năng nguyện (要/应该/能) PHẢI đứng TRƯỚC chữ 把 (không đứng sau 把!).",
+          "memory_tip": "Nhớ 3 quy tắc vàng của câu 把: (1) Tân ngữ phải xác định; (2) 不/没/要 đứng TRƯỚC 把; (3) Sau động từ PHẢI có 'đuôi' (bổ ngữ/了/lặp lại).",
+          "common_error": "Sai: '我把作业没做完' → Đúng: '我没把作业做完'; Sai: '请把书看' → Đúng: '请把书看完'."
+        },
+        {
+          "title": "2. Câu chữ 被 (被动句 – Câu bị động)",
+          "formula": "Chủ ngữ (đối tượng chịu tác động) + (Trạng ngữ/Phủ định/Năng nguyện) + 被/叫/让 + (Tác nhân) + Động từ + Thành phần khác",
+          "explanation": "Nhấn mạnh đối tượng chịu tác động của hành động (thường kết hợp bổ ngữ kết quả hoặc 了). Với 被 có thể lược bỏ tác nhân, nhưng với 叫/让 bắt buộc phải có tác nhân!",
+          "examples": [
+            { "chinese": "昨晚半夜我被蚊子叮醒了。", "pinyin": "Zuówǎn bànyè wǒ bèi wénzi dīngxǐng le.", "vietnamese": "Nửa đêm qua tôi bị muỗi đốt tỉnh giấc." },
+            { "chinese": "很多人都被这部电影感动得哭了。", "pinyin": "Hěn duō rén dōu bèi zhè bù diànyǐng gǎndòng de kū le.", "vietnamese": "Rất nhiều người đều bị bộ phim này làm cảm động đến bật khóc." }
+          ],
+          "comparison": "Giống câu 把, từ phủ định (没) và động từ năng nguyện (可能/会) luôn đứng TRƯỚC 被.",
+          "memory_tip": "被 cho phép giấu thủ phạm ('杯子被打破了'), còn 叫/让 phải chỉ mặt thủ phạm ('杯子让猫打破了').",
+          "common_error": "Sai: '我的书被他拿' (động từ đứng trơ) → Đúng: '我的书被他拿走了'."
+        },
+        {
+          "title": "3. Câu chữ 是……的 (Nhấn mạnh tình tiết sự việc ĐÃ xảy ra)",
+          "formula": "S + 是 + [Thời gian / Địa điểm / Cách thức / Đối tượng] + V + 的",
+          "explanation": "Sự việc đã xảy ra và cả hai bên đều biết; người nói dùng 是……的 để nhấn mạnh KHI NÀO, Ở ĐÂU, BẰNG CÁCH NÀO, CÙNG AI.",
+          "examples": [
+            { "chinese": "我们是在一次足球比赛中认识的。", "pinyin": "Wǒmen shì zài yí cì zúqiú bǐsài zhōng rènshi de.", "vietnamese": "Chúng tôi quen nhau trong một trận thi đấu bóng đá." },
+            { "chinese": "你是怎么做到跟中国人流利交流的？", "pinyin": "Nǐ shì zěnme zuòdào gēn Zhōngguó rén liúlì jiāoliú de?", "vietnamese": "Cậu làm thế nào để giao tiếp lưu loát với người Trung Quốc vậy?" }
+          ],
+          "comparison": "Phủ định đặt 不 trước 是 (不是……的); nếu tân ngữ là danh từ chỉ vật thường đặt 的 trước hoặc sau tân ngữ đều gặp, nhưng tân ngữ chỉ NGƯỜI thì 的 bắt buộc ở cuối câu.",
+          "memory_tip": "Gặp câu hỏi '是怎么……的？ / 是什么时候……的？' chắc chắn là khung 是……的 nhấn mạnh chuyện đã qua.",
+          "common_error": "Sai: '我是昨天去北京了' (dùng thừa 了 cuối câu 是……的) → Đúng: '我是昨天去北京的'."
+        },
+        {
+          "title": "4. Bổ ngữ kết quả vs Bổ ngữ khả năng (V+完 / V+得/不+完)",
+          "formula": "Kết quả: V + 完/懂/见/醒/错/对  |  Khả năng: V + 得/不 + Bổ ngữ (看得懂 / 看不懂 / 听得清 / 做不完)",
+          "explanation": "Bổ ngữ kết quả cho biết kết quả hành động; khi chèn 得 (có thể) hoặc 不 (không thể) vào giữa động từ và bổ ngữ, ta tạo thành Bổ ngữ khả năng!",
+          "examples": [
+            { "chinese": "连中文报纸都看得懂。", "pinyin": "Lián Zhōngwén bàozhǐ dōu kàn de dǒng.", "vietnamese": "Ngay cả báo tiếng Trung cũng đọc hiểu được." },
+            { "chinese": "有几个选择题实在想不出来该选哪个。", "pinyin": "Yǒu jǐ ge xuǎnzétí shízài xiǎng bu chūlái gāi xuǎn nǎ ge.", "vietnamese": "Có mấy câu trắc nghiệm thật sự không nghĩ ra nên chọn câu nào." }
+          ],
+          "comparison": "Đừng nhầm với Bổ ngữ mức độ (说得很流利): Bổ ngữ khả năng KHÔNG có 很 trước bổ ngữ và phủ định bằng 不 (看不懂), còn bổ ngữ mức độ phủ định bằng 得不 (说得不流利).",
+          "memory_tip": "Phủ định 'V不C' = khả năng không làm nổi (听不懂); 'V得不Adj' = đánh giá mức độ (说得不好).",
+          "common_error": "Sai: '我不能听懂' (lặp nghĩa khi muốn nói khả năng tự nhiên) → Ưu tiên dùng '我听不懂'."
+        },
+        {
+          "title": "5. Trật tự nhiều trạng ngữ trong câu tiếng Trung",
+          "formula": "Chủ ngữ + [Thời gian] + [Địa điểm] + [Phó từ/Phạm vi] + [Giới từ chỉ đối tượng/công cụ] + Động từ",
+          "explanation": "Khác với tiếng Việt thường đặt thời gian và địa điểm ở cuối câu, tiếng Trung ĐƯA thời gian và địa điểm lên TRƯỚC động từ!",
+          "examples": [
+            { "chinese": "她昨晚在家里用左手认真地写了一封信。", "pinyin": "Tā zuówǎn zài jiā li yòng zuǒshǒu rènzhēn de xiě le yì fēng xìn.", "vietnamese": "Tối qua ở nhà cô ấy đã dùng tay trái viết một bức thư thật cẩn thận." }
+          ],
+          "comparison": "Thứ tự chuẩn: Ai → Lúc nào → Ở đâu → Với ai / Bằng gì → Làm gì.",
+          "memory_tip": "Mẹo 4 bước tiếng Trung: Người – Giờ – Chỗ – Cách – Làm!",
+          "common_error": "Dịch xuôi kiểu tiếng Việt: Sai '我学习汉语在图书馆每天' → Đúng: '我每天都在图书馆学习汉语'."
+        }
+      ],
+      "package_notes": "Nắm chắc 5 khung cú pháp trên giúp xử lý trên 70% câu hỏi sắp xếp trật tự từ và sửa lỗi ngữ pháp ở trình độ trung – cao cấp.",
+      "exercises": [
+        {
+          "id": "st2_e1", "type": "grammar_mc", "level": "Nhận biết", "mistake_category": "Ngữ pháp",
+          "prompt": "Câu chữ 把 nào sau đây ĐÚNG ngữ pháp?",
+          "options": [
+            "请你把那本杂志递给我。",
+            "请你把那本杂志不递给我。",
+            "请你把那本杂志递。",
+            "请把你那本杂志递给我。"
+          ],
+          "answer": "请你把那本杂志递给我。",
+          "explanation": "Đủ 3 điều kiện: tân ngữ xác định (那本杂志), động từ có thành phần kết quả/hướng (递给我), và trật tự chuẩn.",
+          "review_tip": "Ôn 3 quy tắc vàng của câu chữ 把."
+        },
+        {
+          "id": "st2_e2", "type": "reorder", "level": "Phân biệt", "mistake_category": "Ngữ pháp",
+          "prompt": "Sắp xếp các thành phần thành câu đúng trật tự tiếng Trung:",
+          "tokens": ["昨天", "在图书馆", "我", "跟朋友", "一起复习了语法。"],
+          "answer": "我昨天在图书馆跟朋友一起复习了语法。",
+          "explanation": "Trật tự chuẩn: Chủ ngữ (我) → Thời gian (昨天) → Địa điểm (在图书馆) → Đối tượng (跟朋友) → Động từ (一起复习了语法).",
+          "review_tip": "Ôn trật tự nhiều trạng ngữ: Người – Giờ – Chỗ – Với ai – Làm gì."
+        },
+        {
+          "id": "st2_e3", "type": "error_fix", "level": "Vận dụng", "mistake_category": "Ngữ pháp",
+          "prompt": "Tìm câu SAI trong các câu sau:",
+          "options": [
+            "我把今天的生词没复习完。",
+            "我没把今天的生词复习完。",
+            "今天的生词都被我复习完了。",
+            "我们是在中学时认识的。"
+          ],
+          "answer": "我把今天的生词没复习完。",
+          "explanation": "Trong câu chữ 把, từ phủ định '没' PHẢI đặt TRƯỚC chữ 把 ('我没把今天的生词复习完').",
+          "review_tip": "Vị trí từ phủ định trong câu 把 và 被."
+        }
+      ]
+    },
+    {
+      "id": "st2_pkg2",
+      "title": "Gói 2: Hệ thống Hư từ chuyên sâu (Phó từ · Giới từ · Trợ từ động thái 了/着/过 · Trợ từ kết cấu 的/地/得)",
+      "intro": "Bám sát kiến thức HSK 4–5 và giáo trình Ngữ pháp tiếng Hán hiện đại (BLCU): vị trí phó từ, cách phân biệt giới từ với động từ, cách dùng thực chiến của 了/着/过, 的/地/得 và đại từ nghi vấn không dùng để hỏi.",
+      "source_status": "verified_source",
+      "source_ids": ["PDF_BLCU_GRAMMAR_18"],
+      "items": [
+        {
+          "title": "1. Phó từ (副词): Vị trí đổi nghĩa & Phân biệt 不 vs 没(有)",
+          "formula": "Phó từ + Động từ/Tính từ (làm trạng ngữ)  |  Đầu câu ≠ Giữa câu: 仅仅他有… (chỉ mỗi anh ấy có) ≠ 他仅仅有… (anh ấy chỉ có mỗi thứ đó)",
+          "explanation": "Phó từ chủ yếu đứng trước động từ hoặc tính từ để bổ sung ý nghĩa về mức độ (很/非常/格外), thời gian (刚刚/已经/一直), tần suất (再/又/经常), phạm vi (都/只/仅仅), phủ định (不/没/别), ngữ khí (难道/居然/偏偏/幸好/毕竟). Một vài phó từ mức độ như 很/极 còn đứng sau tính từ làm bổ ngữ (方便极了, 高兴极了). Đáng chú ý, vị trí đặt trước hay sau chủ ngữ có thể làm đổi hẳn ý câu!",
+          "examples": [
+            { "chinese": "偏偏小李休息。 / 小李偏偏休息。", "pinyin": "Piānpiān Xiǎo Lǐ xiūxi. / Xiǎo Lǐ piānpiān xiūxi.", "vietnamese": "Đúng lúc cần thì Tiểu Lý lại nghỉ (khách quan trớ trêu) / Tiểu Lý lại cứ cố tình nghỉ (chủ quan)." },
+            { "chinese": "幸好你来了，不然我们会迷路的。 / 你幸好来了，不然你会错过机会的。", "pinyin": "Xìnghǎo nǐ lái le, bùrán wǒmen huì mílù de. / Nǐ xìnghǎo lái le, bùrán nǐ huì cuòguò jīhuì de.", "vietnamese": "May mà cậu đến (lợi cho người khác ngoài '你') / Cậu may mà đến đấy (lợi cho chính '你')." },
+            { "chinese": "前天他没有来。 / 前天请他他不来。", "pinyin": "Qiántiān tā méiyǒu lái. / Qiántiān qǐng tā tā bù lái.", "vietnamese": "Hôm kia anh ấy đã không đến (kể sự thật khách quan) / Hôm kia mời mà anh ấy không chịu đến (ý muốn chủ quan)." }
+          ],
+          "comparison": "(1) Phó từ chỉ bổ nghĩa cho động từ/tính từ (格外热闹, 偶尔碰到), không đứng trực tiếp trước danh từ như tính từ (特别节目, 偶然机会). (2) Danh từ thời gian (现在/刚才) đứng được sau giới từ 从/到 (从刚才开始), còn phó từ thời gian (正在/刚刚) thì KHÔNG. (3) 不 đi được với mọi động từ năng nguyện (不会/不应该/不愿意), còn 没 chỉ đi với vài từ như 能/敢 (没能去, 没敢说).",
+          "memory_tip": "2 mẹo kiểm tra nhanh trong bài thi: (1) Đặt sau 从/到 để phân biệt 刚才 (được) vs 刚刚 (không); (2) Kể chuyện đã/chưa xảy ra khách quan dùng 没, nói ý muốn chủ quan hoặc tương lai dùng 不.",
+          "common_error": "Sai: '偶尔机会' / '从刚刚开始' / '他昨天没愿意去' → Đúng: '偶然机会' / '从刚才开始' / '他昨天不愿意去'."
+        },
+        {
+          "title": "2. Giới từ (介词): 3 phép thử nhanh tách Giới từ khỏi Động từ và Liên từ",
+          "formula": "Giới từ + Tân ngữ + Động từ chính (làm trạng ngữ)  |  V + 在/到/向/给 + Tân ngữ (gắn sau động từ)",
+          "explanation": "Giới từ không đứng một mình làm vị ngữ mà đi kèm tân ngữ tạo thành cụm giới từ, thường đặt trước động từ để chỉ thời gian–nơi chốn (从/在/往/沿着/随着), cách thức (按/按照/通过/根据), mục đích (为了), nguyên nhân (由于), đối tượng–phạm vi (对/对于/关于/把/向/跟/给), loại trừ (除了), bị động (被/让/叫), so sánh (比). Nhiều từ trong HSK 4–5 như 在, 到, 给, 比, 经过, 通过 vừa có thể làm động từ vừa có thể làm giới từ.",
+          "examples": [
+            { "chinese": "火车到站了。(Động từ)  vs  火车到十一点钟才进站。(Giới từ)", "pinyin": "Huǒchē dào zhàn le. / Huǒchē dào shíyī diǎnzhōng cái jìnzhàn.", "vietnamese": "Tàu đã tới ga (到 là động từ duy nhất) / Tàu đến 11 giờ mới vào ga (到 là giới từ, động từ chính là 进站)." },
+            { "chinese": "汽车经过了学校大门。(Động từ)  vs  经过认真的考虑，他决定参加比赛。(Giới từ)", "pinyin": "Qìchē jīngguò le xuéxiào dàmén. / Jīngguò rènzhēn de kǎolǜ, tā juédìng cānjiā bǐsài.", "vietnamese": "Ô tô đã đi qua cổng trường (mang được 了) / Qua suy nghĩ kỹ, cậu ấy quyết định thi (giới từ không mang 了)." },
+            { "chinese": "我和他都去过北京。(Liên từ)  vs  我和他谈过这件事。(Giới từ)", "pinyin": "Wǒ hé tā dōu qùguo Běijīng. / Wǒ hé tā tánguo zhè jiàn shì.", "vietnamese": "Tôi và cậu ấy đều từng đi Bắc Kinh (đổi chỗ được) / Tôi đã bàn chuyện này với cậu ấy (có vai chính–phụ, đổi chỗ sẽ đổi ý)." }
+          ],
+          "comparison": "3 phép thử nhận diện Giới từ cực chuẩn: (1) Nếu trong câu đã có động từ chính khác (他在宿舍住, 他给我买书) thì 在/给 là giới từ; nếu chỉ có mình nó (他在宿舍, 他给了我一本书) thì nó là động từ; (2) Động từ hỏi chính phản A不A được (他在不在宿舍？), giới từ KHÔNG (không nói 他在不在黑板上写字); (3) Động từ gắn thêm 了 được (经过了大门), giới từ KHÔNG (chữ 着/了/过 trong 随着/为了/经过/通过 là một phần cố định của từ, không phải trợ từ động thái).",
+          "memory_tip": "Nhớ bộ 3 của Giới từ: Luôn đi kèm động từ khác – KHÔNG lặp A不A – KHÔNG thêm 了 vào sau giới từ!",
+          "common_error": "Sai: '经过了认真的讨论，大家终于同意了。' (thêm 了 vào giới từ 经过) → Đúng: '经过认真的讨论，大家终于同意了。'."
+        },
+        {
+          "title": "3. Trợ từ động thái 了 · 着 · 过 (动态助词) & Phân biệt 着 tĩnh vs 着 động",
+          "formula": "V + 了 (hoàn thành)  |  V + 着 (duy trì trạng thái / hành động)  |  V + 过 (từng trải nghiệm)",
+          "explanation": "Tiếng Trung không chia thì trên động từ mà dùng 了/着/过 gắn ngay sau động từ: 了 chỉ hành động hoàn thành (吃了饭再去 ≠ 吃饭去), 过 chỉ kinh nghiệm đã từng trải qua (去过北京), 着 chỉ trạng thái đang giữ nguyên hoặc động tác đang tiếp diễn. Đặc biệt trong mẫu câu 'Nơi chốn + V + 着 + Danh từ', chữ 着 có 2 nghĩa rất khác nhau mà học sinh hay nhầm: trạng thái TĨNH có sẵn hay hành động ĐỘNG đang diễn ra.",
+          "examples": [
+            { "chinese": "黑板上写着很多字。 → 很多字写在黑板上。(Trạng thái tĩnh có sẵn)", "pinyin": "Hēibǎn shàng xiězhe hěn duō zì. → Hěn duō zì xiě zài hēibǎn shàng.", "vietnamese": "Trên bảng có viết rất nhiều chữ (đổi được sang '…写在黑板上', không dùng 正在)." },
+            { "chinese": "墙上挂着一幅画。 → 一幅画挂在墙上。(Trạng thái tĩnh có sẵn)", "pinyin": "Qiáng shàng guàzhe yì fú huà. → Yì fú huà guà zài qiáng shàng.", "vietnamese": "Trên tường treo một bức tranh (chỉ kết quả giữ nguyên trên tường)." },
+            { "chinese": "外面下着雨。 → 外面正在下雨。 / 操场上放着电影。 → 操场上正在放电影。(Hành động đang diễn ra)", "pinyin": "Wàimiàn xiàzhe yǔ. → Wàimiàn zhèngzài xiàyǔ. / Cāochǎng shàng fàngzhe diànyǐng.", "vietnamese": "Bên ngoài đang mưa / Trên sân vận động đang chiếu phim (đổi được sang 正在 + V)." }
+          ],
+          "comparison": "Nhóm động từ chỉ tư thế và đặt–để (放/站/坐/躺/挂/贴/写/戴) đi với 着 chỉ trạng thái TĨNH nên đổi được sang 'V + 在 + Nơi chốn' (门口站着人 → 人站在门口); nhóm động từ hoạt động (下/跳/打/敲/放电影) đi với 着 chỉ hành động ĐỘNG đang diễn ra nên đổi được sang '正在 + V' (大厅里跳着舞 → 大厅里正在跳舞).",
+          "memory_tip": "Phép thử 1 giây cho 着: đổi được thành '…在 + Nơi chốn' là trạng thái TĨNH (đang nằm/treo/viết sẵn); đổi được thành '正在 + V' là hành động ĐỘNG đang xảy ra!",
+          "common_error": "Sai: '墙上正在挂着一幅画。' (dùng thừa 正在 khi chỉ bức tranh đã treo sẵn trên tường) → Đúng: '墙上挂着一幅画。'."
+        },
+        {
+          "title": "4. Bộ ba trợ từ 的 · 地 · 得 (结构助词) & Phân biệt hai chữ 的 cuối câu",
+          "formula": "Định ngữ + 的 + Danh từ  |  Trạng ngữ + 地 + Động từ  |  Động từ/Tính từ + 得 + Bổ ngữ",
+          "explanation": "Ba chữ 的 · 地 · 得 cùng đọc thanh nhẹ 'de' nhưng phân công rõ ràng trong câu: 的 đứng trước danh từ để nối phần bổ nghĩa (美丽的风景, 他的到来) hoặc thay cho danh từ đã biết (这本是我的); 地 đứng trước động từ để miêu tả cách thức làm việc (认真地复习, 慢慢地走); 得 đứng sau động từ/tính từ để mở ra bổ ngữ đánh giá tình trạng hoặc mức độ (说得很流利, 洗得干干净净, 累得爬不起来了).",
+          "examples": [
+            { "chinese": "我把论文认真地检查了一遍。", "pinyin": "Wǒ bǎ lùnwén rènzhēn de jiǎnchá le yí biàn.", "vietnamese": "Tôi đã kiểm tra lại bài viết một lượt thật cẩn thận (认真地 đứng trước động từ 检查)." },
+            { "chinese": "这本书是我借来的。(的 kết cấu: thêm được danh từ '书', KHÔNG thể bỏ 的)", "pinyin": "Zhè běn shū shì wǒ jièlái de.", "vietnamese": "Quyển sách này là quyển tôi mượn về (我借来的 = quyển mà tôi mượn về)." },
+            { "chinese": "这件事，他是知道的。(的 ngữ khí: KHÔNG thêm được danh từ, bỏ 是…的 nghĩa chính giữ nguyên)", "pinyin": "Zhè jiàn shì, tā shì zhīdào de.", "vietnamese": "Chuyện này thì anh ấy biết đấy (是…的 nhấn mạnh sự khẳng định)." }
+          ],
+          "comparison": "Cùng một tính từ nhưng đổi 地 sang 得 sẽ đổi sắc thái: '他高兴地跳起来' (vui vẻ mà nhảy lên — nhấn tâm trạng lúc nhảy) vs '他高兴得跳起来' (vui đến mức nhảy cẫng lên — nhấn mức độ vui). Còn giữa hai chữ 的 ở cuối câu 是……的, chỉ cần thử thêm danh từ ngay sau 的: thêm được là 的 kết cấu (我借来的书), không thêm được là 的 ngữ khí nhấn mạnh.",
+          "memory_tip": "Nhìn từ đứng NGAY SAU chữ 'de': sau là Danh từ → 的; sau là Động từ → 地; trước là V/Adj + sau là phần đánh giá mức độ/trạng thái → 得.",
+          "common_error": "Sai: '他高兴的跳起来了。' (viết nhầm 的) → Đúng: '他高兴得跳起来了。' (vui đến mức nhảy lên) hoặc '他高兴地跳起来了。'."
+        },
+        {
+          "title": "5. Đại từ nghi vấn dùng KHÔNG để hỏi (谁/什么/哪儿 + 都/也) & Phân biệt 我们/咱们 · 别人/人家",
+          "formula": "谁/什么/哪儿 + 都/也 (bất cứ ai/gì/đâu)  |  不知谁 / 好像在哪儿 (một người/nơi nào đó không rõ)",
+          "explanation": "Trong bài đọc hiểu HSK 4–5 và Chuyên Trung, các từ để hỏi (谁, 什么, 哪儿, 怎么) rất hay xuất hiện trong câu kể mà KHÔNG hề để hỏi: (1) Đi với 都/也 để diễn đạt 'bất cứ ai / cái gì / nơi nào'; (2) Dùng để chỉ một người/nơi nào đó không xác định rõ (không cần biết là ai/ở đâu). Ngoài ra cần phân biệt chính xác hai cặp đại từ nhân xưng hay ra đề là 我们/咱们 và 别人/人家.",
+          "examples": [
+            { "chinese": "谁都会唱这首歌。 / 他什么歌都会唱。 / 我哪儿也不去。", "pinyin": "Shéi dōu huì chàng zhè shǒu gē. / Tā shénme gē dōu huì chàng. / Wǒ nǎr yě bú qù.", "vietnamese": "Ai cũng biết hát bài này / Bài nào cậu ấy cũng biết hát / Tôi chẳng đi đâu hết (nghĩa bao quát toàn bộ)." },
+            { "chinese": "不知谁把窗户打破了。 / 看上去很面熟，好像在哪儿见过似的。", "pinyin": "Bùzhī shéi bǎ chuānghu dǎpò le. / Kàn shàngqù hěn miànshú, hǎoxiàng zài nǎr jiànguo shìde.", "vietnamese": "Không biết ai làm vỡ cửa sổ rồi / Nhìn rất quen mặt, hình như đã từng gặp ở đâu đó rồi (chỉ người/nơi không rõ)." },
+            { "chinese": "我们明天参加活动，你要是没事，咱们一块儿去吧。", "pinyin": "Wǒmen míngtiān cānjiā huódòng, nǐ yàoshi méishì, zánmen yíkuàir qù ba.", "vietnamese": "Bọn mình ngày mai tham gia hoạt động, nếu cậu rảnh thì chúng mình (gồm cả cậu) cùng đi nhé." }
+          ],
+          "comparison": "Phân biệt 2 cặp hay nhầm: (1) 咱们 luôn bao gồm cả người nghe, còn 我们 có thể không gồm người nghe (văn viết trang trọng luôn dùng 我们); (2) 别人 và 人家 đều chỉ 'người ngoài', nhưng 人家 có thể chỉ đích danh người thứ ba (你把东西给人家送回去), tự xưng thân mật (你慢点走，人家跟不上啊), hoặc gọi kèm tên (人家小芳天天六点就起床); còn khi nói 'người khác' (除了他，别人都不会这样做) thì CHỈ dùng 别人, không thay bằng 人家.",
+          "memory_tip": "Thấy 谁/什么/哪儿 đi kèm 都/也 mà cuối câu là dấu chấm (。) → dịch ngay là 'bất cứ ai / cái gì / đâu cũng...', tuyệt đối đừng dịch thành câu hỏi!",
+          "common_error": "Sai: '这里除了他，人家都不会这样做。' → Đúng: '这里除了他，别人都不会这样做。'."
+        }
+      ],
+      "package_notes": "Nắm chắc 5 mảng hư từ cốt lõi này (phó từ 不/没, 3 phép thử giới từ, 着 tĩnh–động, bộ ba 的/地/得 và đại từ nghi vấn dùng bao quát) sẽ giúp bạn giải quyết gọn gàng phần lớn câu hỏi điền từ và sửa lỗi ngữ pháp HSK 4–5.",
+      "exercises": [
+        {
+          "id": "st2_p2_e1", "type": "grammar_mc", "level": "Nhận biết", "mistake_category": "Ngữ pháp",
+          "prompt": "Trong các câu sau, chữ '在' ở câu nào là ĐỘNG TỪ (không phải giới từ)?",
+          "options": [
+            "他在宿舍。",
+            "他在宿舍住。",
+            "他住在宿舍。",
+            "他在黑板上写了几个字。"
+          ],
+          "answer": "他在宿舍。",
+          "explanation": "Trong '他在宿舍', không có động từ nào khác đi kèm và có thể đổi thành câu hỏi chính phản '他在不在宿舍？', nên '在' là động từ chính. Ba câu còn lại đều có động từ chính khác (住, 写) nên '在' là giới từ.",
+          "review_tip": "Ôn 3 phép thử phân biệt giới từ và động từ."
+        },
+        {
+          "id": "st2_p2_e2", "type": "fill_blank", "level": "Phân biệt", "mistake_category": "Ngữ pháp",
+          "prompt": "Muốn diễn đạt ý 'Anh ấy CHỈ CÓ MỖI cuốn từ điển tiếng Hán này (không có cuốn nào khác)', cần chọn câu nào?",
+          "options": [
+            "他仅仅有这本汉语词典。",
+            "仅仅他有这本汉语词典。",
+            "这本汉语词典仅仅他有。",
+            "有这本汉语词典的仅仅是他。"
+          ],
+          "answer": "他仅仅有这本汉语词典。",
+          "explanation": "Phó từ '仅仅' đặt TRƯỚC động từ ('他仅仅有…') nhấn mạnh phạm vi đồ vật (chỉ có mỗi cuốn này); đặt ĐẦU câu trước chủ ngữ ('仅仅他有…') nhấn mạnh phạm vi con người (chỉ mỗi anh ấy có, người khác không có).",
+          "review_tip": "Ôn quy tắc phó từ đổi nghĩa khi đứng đầu câu vs giữa câu."
+        },
+        {
+          "id": "st2_p2_e3", "type": "error_fix", "level": "Phân biệt", "mistake_category": "Ngữ pháp",
+          "prompt": "Tìm câu SAI ngữ pháp về cách dùng hư từ:",
+          "options": [
+            "经过了认真的讨论，大家终于同意了这个计划。",
+            "汽车刚刚经过了学校的大门。",
+            "这是一个非常偶然的机会，大家都很高兴。",
+            "昨天请他参加聚会，但他不愿意来。"
+          ],
+          "answer": "经过了认真的讨论，大家终于同意了这个计划。",
+          "explanation": "Trong câu đầu, '经过' là GIỚI TỪ (vì đã có động từ chính '同意' ở vế sau), mà giới từ KHÔNG được gắn thêm trợ từ động thái '了'. Phải sửa thành '经过认真的讨论，大家终于同意了这个计划。'. Câu 2 dùng '经过' làm động từ nên có '了' là đúng.",
+          "review_tip": "Ôn quy tắc giới từ không mang trợ từ động thái 了."
+        },
+        {
+          "id": "st2_p2_e4", "type": "reorder", "level": "Vận dụng", "mistake_category": "Ngữ pháp",
+          "prompt": "Sắp xếp các thành phần thành câu đúng chuẩn có trạng ngữ '地' và câu chữ '把':",
+          "tokens": ["认真地", "我", "了一遍。", "把文章", "检查"],
+          "answer": "我把文章认真地检查了一遍。",
+          "explanation": "Trật tự chuẩn: Chủ ngữ (我) + 把 + Tân ngữ xác định (文章) + Trạng ngữ cách thức (认真地) + Động từ (检查) + 了 + Bổ ngữ số lượng (一遍).",
+          "review_tip": "Ôn vị trí trạng ngữ có '地' trong câu chữ 把."
+        }
+      ]
+    },
+    {
+      "id": "st2_pkg3",
+      "title": "Gói 3: Hệ thống Bổ ngữ & Các kiểu câu đặc biệt (Bổ ngữ 5 loại · Câu tồn hiện · Câu liên động · Câu kiêm ngữ · Tránh câu hai nghĩa)",
+      "intro": "Mở rộng từ nền tảng HSK 4–5 lên kỹ năng xử lý đề Chuyên Trung theo giáo trình BLCU: 5 loại bổ ngữ, vị trí tân ngữ với bổ ngữ xu hướng, câu tồn hiện, câu liên động, câu kiêm ngữ và cách nhận diện câu dễ gây hiểu nhầm.",
+      "source_status": "verified_source",
+      "source_ids": ["PDF_BLCU_GRAMMAR_18"],
+      "items": [
+        {
+          "title": "1. 5 loại Bổ ngữ thường gặp (Xu hướng · Tình thái · Số lượng · Mức độ) & Vị trí tân ngữ",
+          "formula": "Xu hướng: V + 上/下/进/出/起来/下去  |  Tình thái: V + 得 + đánh giá  |  Số lượng: V + 遍/趟/两年  |  Mức độ: Adj + 极了/死了 hoặc Adj + 得 + 很/厉害/不得了",
+          "explanation": "Ngoài bổ ngữ kết quả và khả năng (Gói 1), bạn cần nắm chắc 4 loại bổ ngữ còn lại rất hay thi: (1) Xu hướng (送上去, 站起来; nghĩa mở rộng: 起来 = bắt đầu như 冷起来, 下去 = tiếp tục như 说下去); (2) Tình thái dùng 得 để đánh giá hành động đã làm (说得很好, 洗得干干净净, 累得爬不起来了); (3) Số lượng gồm số lần động tác (看一遍, 去一趟) và khoảng thời gian (成立了两年, 等了半天); (4) Mức độ gồm nhóm không 得 bắt buộc có 了 (好极了, 讨厌死了) và nhóm có 得 (乱得很, 疼得厉害, 忙得不得了).",
+          "examples": [
+            { "chinese": "爬上山去 / 跑下楼来 / 放回动物园去。", "pinyin": "Pá shàng shān qù / Pǎo xià lóu lái / Fàng huí dòngwùyuán qù.", "vietnamese": "Trèo lên núi / Chạy xuống lầu / Thả về sở thú (tân ngữ chỉ NƠI CHỐN bắt buộc chen GIỮA bổ ngữ xu hướng kép)." },
+            { "chinese": "拿出一支钢笔来 / 拿出来一支钢笔 / 拿一支钢笔出来。", "pinyin": "Náchū yì zhī gāngbǐ lái / Náchūlái yì zhī gāngbǐ / Ná yì zhī gāngbǐ chūlái.", "vietnamese": "Lấy ra một cây bút máy (tân ngữ chỉ ĐỒ VẬT đặt được ở giữa, sau hoặc trước bổ ngữ xu hướng kép)." },
+            { "chinese": "这项工作做得(很)好。(Tình thái)  vs  你有经验，这项工作你一定做得好。(Khả năng)", "pinyin": "Zhè xiàng gōngzuò zuò de (hěn) hǎo. / Nǐ yǒu jīngyàn, zhè xiàng gōngzuò nǐ yídìng zuò de hǎo.", "vietnamese": "Việc này làm (rất) tốt (đánh giá việc đã làm) / Cậu có kinh nghiệm, việc này cậu chắc chắn làm tốt được (dự đoán việc chưa làm)." }
+          ],
+          "comparison": "3 điểm dễ nhầm nhất: (1) Bổ ngữ tình thái phủ định là 做得不好 và thêm được 很 (做得很好), còn bổ ngữ khả năng phủ định là 做不好 và KHÔNG thêm được 很; (2) Phân biệt số lượng đồ vật (新书买了五本 → 五本 là tân ngữ chỉ số sách) với số lần động tác (新书买了两次 → 两次 là bổ ngữ chỉ số lần mua); (3) Mốc giờ (工作到半夜 = đến nửa đêm) khác với khoảng thời gian (工作了半夜 = làm suốt nửa đêm). Cũng chú ý bổ ngữ nói về ai: 他喝醉了酒 (anh ấy say) vs 他喝完了酒 (rượu đã hết).",
+          "memory_tip": "Quy tắc vàng cho bổ ngữ xu hướng kép: 'Nơi chốn CHỈ CHEN GIỮA (跑下楼来); Đồ vật đặt giữa – sau – trước đều ổn!'.",
+          "common_error": "Sai: '他爬上去山了。' / '她跑下来楼了。' → Đúng: '他爬上山去了。' / '她跑下楼来了。'."
+        },
+        {
+          "title": "2. Câu tồn hiện (存现句): Miêu tả tồn tại, xuất hiện và biến mất",
+          "formula": "Nơi chốn / Thời gian (KHÔNG thêm 在) + Động từ (tồn tại / xuất hiện / biến mất) + 着/了/Xu hướng + Tân ngữ (chưa xác định)",
+          "explanation": "Câu tồn hiện dùng để nói tại một nơi chốn hoặc thời điểm nào đó có người hay sự vật tồn tại, mới xuất hiện hoặc rời đi/biến mất. Có 3 đặc điểm cốt lõi: (1) Mở đầu trực tiếp bằng từ chỉ nơi chốn (桥上, 办公室, 礼堂里) hoặc thời gian (昨天, 这学期); (2) Động từ chia 3 nhóm: tồn tại đơn thuần (有/是), tồn tại kèm tư thế–trạng thái (站着, 挂着, 挤满了), xuất hiện hoặc rời đi (传过来, 爆发出来, 走了一批); (3) Tân ngữ phía sau là đối tượng chưa xác định (thường đi với lượng từ: 一个人, 一位新老师, 一阵阵掌声).",
+          "examples": [
+            { "chinese": "桥上站着一个人。 / 办公室挤满了人。", "pinyin": "Qiáo shàng zhànzhe yí ge rén. / Bàngōngshì jǐmǎn le rén.", "vietnamese": "Trên cầu đứng một người / Văn phòng chật cứng người (tồn tại kèm trạng thái)." },
+            { "chinese": "背后传过来一个非常熟悉的声音。 / 昨天走了一批游客。", "pinyin": "Bèihòu chuánguolái yí ge fēicháng shúxī de shēngyīn. / Zuótiān zǒu le yì pī yóukè.", "vietnamese": "Phía sau vọng lại một giọng nói rất quen thuộc / Hôm qua có một đoàn khách du lịch rời đi." },
+            { "chinese": "这学期来了一位新老师。 / 礼堂里爆发出一阵阵热烈的掌声。", "pinyin": "Zhè xuéqī lái le yí wèi xīn lǎoshī. / Lǐtáng li bàofāchū yí zhènzhèn rèliè de zhǎngshēng.", "vietnamese": "Học kỳ này có một thầy giáo mới đến / Trong hội trường vang lên từng tràng pháo tay nồng nhiệt." }
+          ],
+          "comparison": "Tuyệt đối KHÔNG đặt giới từ 在 trước địa điểm ở đầu câu tồn hiện (thêm 在 sẽ biến chủ ngữ thành trạng ngữ khiến cả câu bị mất chủ ngữ!). Ngoài ra, nếu đối tượng đã xác định rõ (như 小王, 我的那本书) thì phải đưa lên làm chủ ngữ câu bình thường (小王来了), không đặt ở cuối câu tồn hiện.",
+          "memory_tip": "Kiểm tra câu tồn hiện theo 3 bước: (1) Đầu câu KHÔNG có 在; (2) Sau động từ có 着/了/bổ ngữ xu hướng; (3) Cuối câu là đối tượng mới, không xác định (一个/一位/不少).",
+          "common_error": "Sai: '在教室里坐着很多学生。' (thừa 在 làm mất chủ ngữ) → Đúng: '教室里坐着很多学生。'."
+        },
+        {
+          "title": "3. Câu liên động (连动句): Nhiều động tác nối tiếp cùng một chủ ngữ",
+          "formula": "Chủ ngữ + Động từ 1 (Tân ngữ 1) + Động từ 2 (Tân ngữ 2) (+ Động từ 3...)  [Không dấu phẩy, không từ nối]",
+          "explanation": "Câu liên động là câu có từ 2 cụm động từ trở lên cùng thuộc MỘT chủ ngữ, nối liền nhau không có dấu phẩy và không dùng từ liên kết. Các hành động liên kết với nhau theo trật tự logic tự nhiên: trước–sau (下了班骑车去买票), phương tiện/tư thế + hành động (骑车去体育馆, 躺在沙发上看电视), mục đích (煮汤圆吃), điều kiện + hành động (有能力做好这项工作), khẳng định + phủ định (坐着别动, 留下不走了), hoặc hành động + kết quả (考大学录取了).",
+          "examples": [
+            { "chinese": "我下了班骑车去体育馆买票。", "pinyin": "Wǒ xià le bān qíchē qù tǐyùguǎn mǎi piào.", "vietnamese": "Tan làm xong tôi đạp xe đến nhà thi đấu mua vé (trước–sau + phương tiện + mục đích)." },
+            { "chinese": "他经常躺在沙发上看电视。 / 你坐着别动。", "pinyin": "Tā jīngcháng tǎng zài shāfā shàng kàn diànshì. / Nǐ zuòzhe bié dòng.", "vietnamese": "Anh ấy thường nằm trên ghế sofa xem tivi / Cậu cứ ngồi yên đừng nhúc nhích." },
+            { "chinese": "他有能力做好这项工作。 / 小李考大学录取了。", "pinyin": "Tā yǒu nénglì zuòhǎo zhè xiàng gōngzuò. / Xiǎo Lǐ kǎo dàxué lùqǔ le.", "vietnamese": "Anh ấy có năng lực làm tốt công việc này / Tiểu Lý thi đại học đã trúng tuyển rồi." }
+          ],
+          "comparison": "Phân biệt câu liên động với 3 dạng gần giống: (1) Nếu thêm cặp từ nối (我一下了班就骑车去那儿) → thành câu rút gọn có từ liên kết; (2) Nếu thêm dấu phẩy tách thành hai vế (你坐着，别动) → thành câu phức; (3) Các câu như 他喜欢钓鱼 (động từ làm tân ngữ), 讨论并通过 (hai động từ song song nối bằng 并), 听懂了 (bổ ngữ kết quả) đều KHÔNG phải câu liên động.",
+          "memory_tip": "Mẹo sắp xếp câu liên động chuẩn 100%: Hành động trước / Phương tiện – Tư thế đặt ĐẦU → Đi đến đâu đặt GIỮA → Làm gì (mục đích / kết quả) đặt CUỐI.",
+          "common_error": "Dịch xuôi kiểu tiếng Việt: Sai '我去图书馆看书骑自行车' → Đúng: '我骑自行车去图书馆看书' (Phương tiện → Đi đâu → Mục đích)."
+        },
+        {
+          "title": "4. Câu kiêm ngữ (兼语句): Phân biệt với Cụm Chủ-Vị làm tân ngữ & Kiêm ngữ lồng Liên động",
+          "formula": "Chủ ngữ + Động từ 1 (sai khiến/thúc đẩy) + Người/Vật N (vừa là Tân ngữ của V1, vừa là Chủ ngữ của V2) + Động từ 2 / Tính từ",
+          "explanation": "Trong câu kiêm ngữ (S + V1 + N + V2), thành phần N ở giữa gánh hai vai trò: chịu tác động của V1 và đồng thời thực hiện V2. V1 thường là động từ sai khiến/thúc đẩy (请/让/叫/派/使/劝/要求/鼓励/选), đôi khi là 有/叫 (外面有人找你; 给女儿起了个名字叫莎莎), và V2 có thể là tính từ (你让我很失望). Trong câu dài HSK 5, kiêm ngữ rất hay lồng thêm liên động (学校派我去北京开会).",
+          "examples": [
+            { "chinese": "我们选他当班长。(Câu kiêm ngữ: ngắt nhịp '我们选他 / 当班长')", "pinyin": "Wǒmen xuǎn tā dāng bānzhǎng.", "vietnamese": "Chúng tôi bầu cậu ấy làm lớp trưởng ('选' trực tiếp chọn '他')." },
+            { "chinese": "我们同意他当班长。(Chủ-vị làm tân ngữ: ngắt nhịp '我们同意 / 他当班长')", "pinyin": "Wǒmen tóngyì tā dāng bānzhǎng.", "vietnamese": "Chúng tôi đồng ý chuyện cậu ấy làm lớp trưởng ('同意' tác động lên cả sự việc '他当班长')." },
+            { "chinese": "学校派我去北京开会。 / 你让我很失望。", "pinyin": "Xuéxiào pài wǒ qù Běijīng kāihuì. / Nǐ ràng wǒ hěn shīwàng.", "vietnamese": "Nhà trường cử tôi đi Bắc Kinh họp (kiêm ngữ + liên động) / Cậu làm tôi rất thất vọng (V2 là tính từ)." }
+          ],
+          "comparison": "3 cách phân biệt siêu nhanh Câu kiêm ngữ (张老师请他们都来) với Câu có cụm Chủ-Vị làm tân ngữ (张老师希望他们都来): (1) Loại V1: kiêm ngữ dùng động từ sai khiến/thúc đẩy (请/让/派/选), câu kia dùng động từ tâm lý/cảm nhận (知道/希望/认为/觉得/相信/看见/听见); (2) Phạm vi nghĩa: V1 kiêm ngữ chỉ tác động vào N, còn V1 kia bao trùm cả sự việc N+V2; (3) Ngắt hơi: kiêm ngữ ngắt SAU N (我们选他 / 当班长), câu kia ngắt SAU V1 (我们同意 / 他当班长).",
+          "memory_tip": "Phép thử ngắt hơi cực dễ nhớ: dừng hơi ngay sau V1 mà nghe tự nhiên ('我同意 / 他当班长', '我希望 / 他们都来') → Chủ-Vị làm tân ngữ; phải đọc liền V1+N rồi mới ngắt ('我们选他 / 当班长') → Câu kiêm ngữ!",
+          "common_error": "Sai: '我请希望他来帮忙。' (ghép lẫn hai loại động từ) → Chọn rõ '我请他来帮忙。' (kiêm ngữ) hoặc '我希望他来帮忙。' (chủ-vị làm tân ngữ)."
+        },
+        {
+          "title": "5. Câu chữ 把 · 被 nâng cao (把A当作B · 被……所) & Tránh câu hai nghĩa hay gặp",
+          "formula": "把 A 当作/作为/看成 B  |  被(为) + Tác nhân + 所 + V  |  Cẩn thận cụm từ/câu dễ hiểu thành 2 nghĩa",
+          "explanation": "Lên trình độ HSK 5 và ôn thi Chuyên Trung, bạn sẽ gặp 3 điểm mở rộng rất thực tế: (1) Câu chữ 把 dùng khung '把 A 当作/作为/看成 B' (coi A như B) và các trường hợp BẮT BUỘC dùng 把 khi sau động từ có 到/在/得 (把开会时间推迟到下星期五; 把自行车放在车棚里); (2) Câu chữ 被 trang trọng dùng khung '被/为……所' (BẮT BUỘC nêu rõ tác nhân), bị động không cần 被 khi chủ ngữ là vật (玻璃窗打破了), và mẫu bị động có phần bị tác động ở cuối (树上的苹果被虫子咬坏了一大半); (3) Nhận diện các cụm từ dễ hiểu nhầm thành 2 nghĩa để tránh lỗi trong bài đọc hiểu và sửa lỗi.",
+          "examples": [
+            { "chinese": "他总是把别人的批评当成工作上的动力。 / 我们应当把获得的成绩作为新的起点。", "pinyin": "Tā zǒngshì bǎ biérén de pīpíng dàngchéng gōngzuò shàng de dònglì. / Wǒmen yīngdāng bǎ huòdé de chéngjì zuòwéi xīn de qǐdiǎn.", "vietnamese": "Anh ấy luôn coi lời góp ý của người khác là động lực làm việc / Chúng ta nên coi thành tích đạt được là điểm khởi đầu mới." },
+            { "chinese": "大家都被他的真诚所感动。 / 我们千万不能被表面现象所迷惑。", "pinyin": "Dàjiā dōu bèi tā de zhēnchéng suǒ gǎndòng. / Wǒmen qiānwàn bù néng bèi biǎomiàn xiànxiàng suǒ míhuò.", "vietnamese": "Mọi người đều bị sự chân thành của cậu ấy làm cảm động / Chúng ta tuyệt đối không được bị hiện tượng bề ngoài đánh lừa." },
+            { "chinese": "两个报社的记者。(Hai nghĩa: 2 phóng viên của tòa báo hay phóng viên của 2 tòa báo?) / 小杨没找到。(Hai nghĩa: Tiểu Dương chưa tìm thấy ai hay chưa tìm thấy Tiểu Dương?)", "pinyin": "Liǎng ge bàoshè de jìzhě. / Xiǎo Yáng méi zhǎodào.", "vietnamese": "Khi viết câu cần thêm lượng từ hoặc tân ngữ rõ ràng để tránh hiểu nhầm thành 2 ý khác nhau." }
+          ],
+          "comparison": "Nhớ nhanh 2 nhóm động từ KHÔNG dùng sai kiểu: (1) KHÔNG dùng trong câu 把: động từ không trực tiếp xử trí làm thay đổi sự vật (有/来/去/出现/知道/同意/以为/相信/希望/看见/听见); (2) KHÔNG đổi sang câu 被: 产生/告诉/欣赏/等待/接近/依靠/享受.",
+          "memory_tip": "Để tránh câu 2 nghĩa kiểu '五个学生的家长', hãy chọn đúng lượng từ tương ứng với danh từ muốn đếm (五位学生的家长 = 5 vị phụ huynh; 五名学生各自的家长 = phụ huynh của 5 học sinh).",
+          "common_error": "Sai: '他把那件事知道了。' (知道 không dùng trong câu 把) hoặc '大家都被所感动。' (bỏ quên tác nhân trong khung 被……所) → Đúng: '他知道了那件事。' / '大家都被他的真诚所感动。'."
+        }
+      ],
+      "package_notes": "Nắm vững 5 loại bổ ngữ và 4 kiểu câu đặc biệt (Tồn hiện, Liên động, Kiêm ngữ, 把/被 nâng cao) giúp bạn xử lý gọn gàng các câu sắp xếp dài và bẫy sửa lỗi phổ biến nhất trong đề HSK 5 và đề thi Chuyên Trung.",
+      "exercises": [
+        {
+          "id": "st2_p3_e1", "type": "grammar_mc", "level": "Nhận biết", "mistake_category": "Ngữ pháp",
+          "prompt": "Câu nào sau đây đặt ĐÚNG vị trí tân ngữ với bổ ngữ xu hướng kép?",
+          "options": [
+            "小狗高兴地跑下楼来了。",
+            "小狗高兴地跑下来楼了。",
+            "我们一起爬上去那座山吧。",
+            "工作人员把小鸟放回去公园了。"
+          ],
+          "answer": "小狗高兴地跑下楼来了。",
+          "explanation": "Tân ngữ chỉ NƠI CHỐN (楼, 山, 公园) BẮT BUỘC chen vào GIỮA bổ ngữ xu hướng kép (跑下楼来, 爬上那座山去, 放回公园去).",
+          "review_tip": "Ôn vị trí tân ngữ nơi chốn trong bổ ngữ xu hướng kép."
+        },
+        {
+          "id": "st2_p3_e2", "type": "grammar_mc", "level": "Phân biệt", "mistake_category": "Ngữ pháp",
+          "prompt": "Trong 4 câu sau, câu nào là CÂU KIÊM NGỮ (兼语句) chứ KHÔNG phải câu có cụm Chủ-Vị làm tân ngữ?",
+          "options": [
+            "大家一致选他当班长。",
+            "大家都同意他当班长。",
+            "张老师希望他们都来参加。",
+            "我相信他能解决这个难题。"
+          ],
+          "answer": "大家一致选他当班长。",
+          "explanation": "Động từ '选' mang nghĩa đề cử/thúc đẩy, tác động trực tiếp vào '他' và ngắt hơi sau '他' ('选他 / 当班长') → Câu kiêm ngữ. Ba câu còn lại dùng động từ tâm lý/thái độ (同意, 希望, 相信) quản cả sự việc phía sau → Cụm Chủ-Vị làm tân ngữ.",
+          "review_tip": "Ôn 3 cách phân biệt Câu kiêm ngữ với Chủ-Vị làm tân ngữ."
+        },
+        {
+          "id": "st2_p3_e3", "type": "error_fix", "level": "Phân biệt", "mistake_category": "Ngữ pháp",
+          "prompt": "Tìm câu SAI ngữ pháp trong các câu sau:",
+          "options": [
+            "在教室的墙上挂着一幅中国画。",
+            "教室的墙上挂着一幅中国画。",
+            "大家都被他的真诚所感动。",
+            "这学期学校来了一位新老师。"
+          ],
+          "answer": "在教室的墙上挂着一幅中国画。",
+          "explanation": "Câu tồn hiện lấy danh từ nơi chốn làm chủ ngữ trực tiếp ('教室的墙上挂着一幅中国画'), KHÔNG đặt giới từ '在' ở đầu câu vì sẽ làm cả câu bị mất chủ ngữ.",
+          "review_tip": "Ôn cấu trúc câu tồn hiện (không thêm 在 đầu câu)."
+        },
+        {
+          "id": "st2_p3_e4", "type": "reorder", "level": "Vận dụng", "mistake_category": "Ngữ pháp",
+          "prompt": "Sắp xếp các từ sau thành một câu tồn hiện đúng chuẩn:",
+          "tokens": ["一个", "传过来", "非常熟悉的", "背后", "声音。"],
+          "answer": "背后传过来一个非常熟悉的声音。",
+          "explanation": "Khung câu tồn hiện biểu thị sự xuất hiện: Chủ ngữ nơi chốn (背后) + Động từ kèm bổ ngữ xu hướng (传过来) + Tân ngữ chưa xác định (一个非常熟悉的声音).",
+          "review_tip": "Ôn trật tự câu tồn hiện biểu thị sự xuất hiện."
+        }
+      ]
+    },
+    {
+      "id": "st2_pkg4",
+      "title": "Gói 4: Câu phức & Quy tắc vị trí Từ liên kết (复句与关联词语)",
+      "intro": "Hệ thống đầy đủ và dễ nhớ các loại câu phức trọng tâm HSK 4–5 và thi Chuyên Trung (theo giáo trình BLCU): quy tắc vàng đặt vị trí từ liên kết theo chủ ngữ giống hay khác, dùng cặp vs dùng đơn, và cách phân biệt các cặp từ liên kết bẫy điểm nhất.",
+      "source_status": "verified_source",
+      "source_ids": ["PDF_BLCU_GRAMMAR_18"],
+      "items": [
+        {
+          "title": "1. Quy tắc vàng vị trí Từ liên kết (关联词语的位置): Chủ ngữ giống hay khác & Liên từ vs Phó từ",
+          "formula": "Cùng chủ ngữ: S + Liên từ 1 + V1，(lược S) + Liên từ 2/Phó từ + V2  |  Khác chủ ngữ: Liên từ 1 + S1 + V1，Liên từ 2 + S2 + V2  |  Phó từ (却/就/才/也/还/都/越): LUÔN đứng SAU chủ ngữ!",
+          "explanation": "Đây là quy tắc quan trọng bậc nhất để ăn điểm phần sửa lỗi và sắp xếp câu phức: (1) Phó từ liên kết (却/就/才/也/还/都/越/再) vừa nối câu vừa bổ nghĩa cho động từ/tính từ nên CHỈ ĐƯỢC đứng SAU chủ ngữ, TRƯỚC vị ngữ (tuyệt đối không đứng đầu câu trước chủ ngữ); (2) Liên từ (因为/所以/虽然/但是/不但/如果/只要) đặt linh hoạt theo chủ ngữ: nếu 2 vế CÙNG chủ ngữ thì liên từ vế 1 đặt SAU chủ ngữ, vế 2 lược chủ ngữ; nếu 2 vế KHÁC chủ ngữ thì liên từ đặt TRƯỚC chủ ngữ mỗi vế.",
+          "examples": [
+            { "chinese": "我因为感冒，所以没有去上班。(Cùng chủ ngữ '我' → '因为' đứng SAU '我')", "pinyin": "Wǒ yīnwèi gǎnmào, suǒyǐ méiyǒu qù shàngbān.", "vietnamese": "Tôi vì bị cảm nên đã không đi làm." },
+            { "chinese": "因为你能依靠集体的力量，所以工作搞得好。(Khác chủ ngữ '你' vs '工作' → '因为' đứng TRƯỚC '你')", "pinyin": "Yīnwèi nǐ néng yīkào jítǐ de lìliang, suǒyǐ gōngzuò gǎo de hǎo.", "vietnamese": "Vì bạn biết dựa vào sức mạnh tập thể nên công việc mới làm tốt." },
+            { "chinese": "他虽然没有听懂，却没有再问。 / 天亮了，风也停了。", "pinyin": "Tā suīrán méiyǒu tīngdǒng, què méiyǒu zài wèn. / Tiān liàng le, fēng yě tíng le.", "vietnamese": "Cậu ấy tuy không nghe hiểu nhưng lại không hỏi thêm / Trời sáng rồi, gió cũng tạnh rồi (phó từ 却/也 luôn đứng sau chủ ngữ)." }
+          ],
+          "comparison": "Chú ý thêm: có từ liên kết đôi khi chỉ nối hai cụm từ trong một câu đơn (他不仅可以而且应该参加这次活动), không nhất thiết tách thành hai phân câu; ngược lại, khi quan hệ nhân–quả đã quá rõ (他今天生病了，不能去上课) vẫn là câu phức dù lược bỏ 因为…所以.",
+          "memory_tip": "Thần chú 3 dòng không bao giờ sai: Cùng chủ ngữ → Chủ đứng đầu (S + 不但…，而且…); Khác chủ ngữ → Liên đứng đầu (不但 + S1…，而且 + S2…); Phó từ (却/就/才/也/都) → Cấm đứng trước chủ ngữ!",
+          "common_error": "Sai: '他不但英语口语流利，而且他妹妹的汉语也很棒。' (khác chủ ngữ mà đặt 不但 sau 他!) → Đúng: '不但他英语口语流利，而且他妹妹的汉语也很棒。'; Sai: '却他没有再问。' → Đúng: '他却没有再问。'."
+        },
+        {
+          "title": "2. Cách phối hợp Từ liên kết: Dùng cặp bắt buộc · Dùng đơn · Ghép Liên từ + Phó từ",
+          "formula": "Bắt buộc đi cặp: 与其…不如 / 不是…而是  |  Chỉ dùng đơn ở vế sau: 以便 / 以致 / 以免 / 免得  |  Kết hợp Liên từ + Phó từ: 不但…，而且…也… / 虽然…，但…却…",
+          "explanation": "Khi dùng từ liên kết cần nắm 3 thói quen chuẩn của tiếng Trung: (1) Có 3 kiểu bắt cặp: Liên từ + Liên từ (虽然…但是, 不但…而且), Liên từ + Phó từ (不但…还, 虽然…却), Phó từ + Phó từ (也…也, 越…越); (2) Một số cặp BẮT BUỘC đi đủ đôi (与其…不如, 不是…而是), một số từ CHỈ dùng một mình ở vế sau (以便, 以致, 以免, 免得), đa số dùng đủ đôi hoặc chỉ dùng vế sau đều được (不但…而且 / chỉ 而且); (3) Ở vế sau có thể dùng đồng thời 1 liên từ + 1 phó từ liên kết để nhấn mạnh hơn (而且…也…, 但…却…).",
+          "examples": [
+            { "chinese": "天气这么好，与其呆在家里，倒不如出去走走。(Bắt buộc dùng đủ cặp)", "pinyin": "Tiānqì zhème hǎo, yǔqí dāi zài jiā li, dàobùrú chūqù zǒuzou.", "vietnamese": "Thời tiết đẹp thế này, ở lì trong nhà chi bằng ra ngoài đi dạo." },
+            { "chinese": "你先把材料准备好，以便小组开会研究。(Chỉ dùng đơn ở vế sau)", "pinyin": "Nǐ xiān bǎ cáiliào zhǔnbèi hǎo, yǐbiàn xiǎozǔ kāihuì yánjiū.", "vietnamese": "Cậu chuẩn bị sẵn tài liệu trước để nhóm họp nghiên cứu." },
+            { "chinese": "他不但学习成绩好，而且体育成绩也很高。 / 他虽然年纪不大，但办事却很成熟。", "pinyin": "Tā búdàn xuéxí chéngjì hǎo, érqiě tǐyù chéngjì yě hěn gāo. / Tā suīrán niánjì bú dà, dàn bànshì què hěn chéngshú.", "vietnamese": "Cậu ấy không những học giỏi mà thể thao cũng rất tốt / Tuy tuổi còn trẻ nhưng làm việc lại rất chững chạc." }
+          ],
+          "comparison": "Cùng một từ mở đầu nhưng đổi bạn đi kèm sẽ đổi hẳn quan hệ câu! Ví dụ với 既: 既…又 / 既…也 (song song), 既…更 (tăng tiến), 既…就 (nhân quả suy luận = 既然…就). Luôn giữ đúng cặp chuẩn, tuyệt đối không ghép lệch kiểu 不仅…而是, 非但…却, 尽管…也.",
+          "memory_tip": "Cảnh giác 3 cặp ghép sai kinh điển hay ra trong đề sửa lỗi: '尽管…也' (sửa thành 即使…也 hoặc 尽管…但是), '不仅…而是' (sửa thành 不仅…而且), '非但…却' (sửa thành 非但…反而).",
+          "common_error": "Sai: '尽管天塌下来，我也能顶得住。' (尽管 không đi với 也) → Đúng: '即使天塌下来，我也能顶得住。'."
+        },
+        {
+          "title": "3. Câu phức Song song · Liên tiếp · Lựa chọn · Tăng tiến (Nhóm Liên hợp)",
+          "formula": "Song song: 既…又 / 一方面…一方面 / 不是…而是  |  Liên tiếp: 先是…接着…后来  |  Lựa chọn: 或者…或者 / 不是…就是 / 与其…不如 / 宁可…也不  |  Tăng tiến: 不但…而且 / 不光…就连…也 / 不但没…反而",
+          "explanation": "4 nhóm câu phức rất hay dùng trong bài viết đoạn và đọc hiểu: (1) Song song: nêu 2 mặt ngang hàng hoặc đối chiếu (虚心使人进步，骄傲使人落后; 不是…而是); (2) Liên tiếp: kể các hành động xảy ra nối tiếp theo thời gian (先是…接着…后来); (3) Lựa chọn có 4 mức rõ rệt: chọn tự do (或者…或者), chắc chắn 1 trong 2 (不是…就是), bỏ trước chọn sau (与其…不如), bỏ sau chọn trước (宁可…也不 / 宁可…也要); (4) Tăng tiến: vế sau mạnh/sâu hơn vế trước, gồm cả tăng tiến ngược chiều (不但没…反而).",
+          "examples": [
+            { "chinese": "不是你去，就是我去。(Chắc chắn 1 trong 2, không có phương án thứ 3)", "pinyin": "Búshì nǐ qù, jiùshì wǒ qù.", "vietnamese": "Không phải cậu đi thì là tôi đi." },
+            { "chinese": "与其在家里玩手机，不如出去锻炼身体。 / 宁可少睡点儿觉，也要把这篇文章写完。", "pinyin": "Yǔqí zài jiā li wán shǒujī, bùrú chūqù duànliàn shēntǐ. / Nìngkě shǎo shuì diǎnr jiào, yě yào bǎ zhè piān wénzhāng xiěwán.", "vietnamese": "Ở nhà nghịch điện thoại chi bằng ra ngoài tập thể dục / Thà ngủ ít đi một chút cũng phải viết xong bài văn này." },
+            { "chinese": "面对这么多困难，他不仅没有放弃，反而更加努力了。", "pinyin": "Miànduì zhème duō kùnnan, tā bùjǐn méiyǒu fàngqì, fǎn'ér gèngjiā nǔlì le.", "vietnamese": "Đối mặt với nhiều khó khăn như vậy, cậu ấy không những không bỏ cuộc mà ngược lại càng cố gắng hơn." }
+          ],
+          "comparison": "Đừng đảo ngược ý giữa hai cặp lựa chọn nâng cao: 与其 A，不如 B = CHỌN B, BỎ A ('thà làm B còn hơn A'); 宁可 A，也不 B = CHỌN A, BỎ B ('thà chịu A chứ quyết không làm B'). Còn với mẫu '宁可 A，也要 B', người nói chấp nhận chịu thiệt A để quyết tâm đạt bằng được B.",
+          "memory_tip": "Mũi tên lựa chọn siêu nhanh: 与其 A 不如 B → chọn vế SAU (B); 宁可 A 也不 B → chọn vế TRƯỚC (A)!",
+          "common_error": "Sai: '宁可呆在家里，不如出去走走。' (ghép chéo 宁可 với 不如) → Đúng: '与其呆在家里，不如出去走走。'."
+        },
+        {
+          "title": "4. Câu phức Nhân quả · Giả thiết · Điều kiện · Mục đích (Nhóm Chính–Phụ I)",
+          "formula": "Nhân quả: 因为…所以 / 由于…因此 / 既然…就  |  Giả thiết: 如果/要是…就  |  Điều kiện: 只要…就 (đủ) · 只有/除非…才 (cần) · 无论/不管…都 (mọi điều kiện)  |  Mục đích: 为了… / 以便 / 以免",
+          "explanation": "4 nhóm câu phức cốt lõi nhất trong đề thi: (1) Nhân quả chia 2 kiểu: giải thích nguyên nhân–kết quả (因为…所以, 由于…因此, 以致 thường dẫn kết quả xấu) và suy luận từ sự thật đã biết (既然…就/可见); (2) Giả thiết (如果/假如/要是…就/那么; 要不是…也许就…); (3) Điều kiện có 3 mức: điều kiện đủ dễ đạt (只要…就), điều kiện cần duy nhất chặt chẽ (只有…才, 除非…才), và mọi điều kiện kết quả không đổi (无论/不管…都/也/还是); (4) Mục đích: đạt tới (为了 ở vế trước; 以便 ở vế sau) và phòng tránh điều xấu (以免/免得 ở vế sau).",
+          "examples": [
+            { "chinese": "既然采用旧的方法不行，就应该考虑采用新的方法。(Nhân quả suy luận)", "pinyin": "Jìrán cǎiyòng jiù de fāngfǎ bù xíng, jiù yīnggāi kǎolǜ cǎiyòng xīn de fāngfǎ.", "vietnamese": "Đã thấy dùng cách cũ không ổn thì nên cân nhắc dùng cách mới." },
+            { "chinese": "只要认真复习，就能取得好成绩。 vs 只有认真复习，才能取得好成绩。", "pinyin": "Zhǐyào rènzhēn fùxí, jiù néng qǔdé hǎo chéngjì. / Zhǐyǒu rènzhēn fùxí, cái néng qǔdé hǎo chéngjì.", "vietnamese": "Chỉ cần ôn kỹ là đạt điểm cao (giọng nhẹ nhàng, điều kiện đủ) / Chỉ có ôn kỹ mới đạt điểm cao (giọng kiên quyết, điều kiện cần)." },
+            { "chinese": "无论天气好不好，比赛都照常进行。 / 你要注意休息，以免影响明天的考试。", "pinyin": "Wúlùn tiānqì hǎo bu hǎo, bǐsài dōu zhàocháng jìnxíng. / Nǐ yào zhùyì xiūxi, yǐmiǎn yǐngxiǎng míngtiān de kǎoshì.", "vietnamese": "Bất kể thời tiết có tốt hay không, trận đấu vẫn diễn ra bình thường / Cậu phải chú ý nghỉ ngơi kẻo ảnh hưởng bài thi ngày mai." }
+          ],
+          "comparison": "3 cái bẫy ra đề nhiều nhất: (1) 因为 nêu lý do ghép với 所以, còn 既然 dựa vào thực tế ai cũng thấy để suy luận/gợi ý và ghép với 就 (KHÔNG ghép 既然…所以); (2) 只要 chỉ ghép với 就, 只有/除非 chỉ ghép với 才; (3) Sau 无论/不管 BẮT BUỘC có yếu tố lựa chọn hoặc từ nghi vấn (好不好, 怎么, 多么, 谁), không đi với một câu khẳng định đơn lẻ (không nói 不管今天下雨).",
+          "memory_tip": "Khóa chặt 4 cặp chuẩn: 只要→就 | 只有/除非→才 | 既然→就 | 无论/不管 + [lựa chọn/nghi vấn] → 都/也.",
+          "common_error": "Sai: '只要正视自己的不足，才能不断提高。' / '不管今天下雨，我们都出发。' → Đúng: '只有正视自己的不足，才能不断提高。' / '不管今天下不下雨，我们都出发。'."
+        },
+        {
+          "title": "5. Câu phức Chuyển ngoặt (转折) · Nhượng bộ (让步) & Cách đọc câu phức dài nhiều vế",
+          "formula": "Chuyển ngoặt mạnh: 虽然/尽管…但是/可是/然而/却  |  Chuyển ngoặt nhẹ: …不过/只是/就是…  |  Nhượng bộ (giả thiết + đối lập): 即使/就算/哪怕…也…",
+          "explanation": "Nhóm câu đối lập được chia rất rõ sắc thái: (1) Chuyển ngoặt mạnh dùng cặp 虽然/尽管…但是/可是/然而/却 khi hai vế trái ngược rõ ràng dựa trên SỰ THẬT; (2) Chuyển ngoặt nhẹ chỉ đặt ở vế sau bằng 不过/只是/就是 để bổ sung hay nhắc nhẹ một điểm nhỏ (小孟也来了，不过他来得比较迟); (3) Nhượng bộ kết hợp GIẢ THIẾT + ĐỐI LẬP: đặt ra tình huống giả định cực đoan nhưng kết quả vẫn không đổi (即使/就算/哪怕…也…); (4) Với câu phức dài từ 3 vế trở lên, hãy luôn tìm cặp từ liên kết chính chia câu thành 2 phần lớn nhất trước, rồi mới đọc các vế nhỏ bên trong.",
+          "examples": [
+            { "chinese": "这匹马虽然个子小，但跑得很快。(Chuyển ngoặt dựa trên sự thật)", "pinyin": "Zhè pǐ mǎ suīrán gèzi xiǎo, dàn pǎo de hěn kuài.", "vietnamese": "Con ngựa này tuy vóc dáng nhỏ nhưng chạy rất nhanh." },
+            { "chinese": "小孟也来了，不过他来得比较迟。(Chuyển ngoặt nhẹ bổ sung ý)", "pinyin": "Xiǎo Mèng yě lái le, búguò tā lái de bǐjiào chí.", "vietnamese": "Tiểu Mạnh cũng đến rồi, có điều cậu ấy đến hơi muộn." },
+            { "chinese": "哪怕工作到深夜，我也要抽点时间学习。 / 困难再大，我们也要想办法克服。(Nhượng bộ)", "pinyin": "Nǎpà gōngzuò dào shēnyè, wǒ yě yào chōu diǎn shíjiān xuéxí. / Kùnnan zài dà, wǒmen yě yào xiǎng bànfǎ kèfú.", "vietnamese": "Cho dù làm việc đến tận khuya, tôi cũng phải tranh thủ chút thời gian học / Khó khăn có lớn đến đâu, chúng ta cũng phải tìm cách vượt qua." }
+          ],
+          "comparison": "Điểm quyết định giữa 虽然/尽管 và 即使/哪怕: 虽然/尽管 nói về SỰ THẬT đã/đang diễn ra và ghép với 但是/可是/却; còn 即使/哪怕/就算 nói về TÌNH HUỐNG GIẢ ĐỊNH (hoặc cực đoan) và ghép với 也. Tuyệt đối không ghép chéo kiểu 尽管…也 hay 即使…但是!",
+          "memory_tip": "Ghi nhớ cặp đôi bất biến: 'Sự thật = 虽然/尽管 → 但是/却'; 'Giả định = 即使/哪怕/就算 → 也'. Thấy 尽管…也 là khoanh sai ngay!",
+          "common_error": "Sai: '即使昨天生病了，他却坚持来上课。' (chuyện đã xảy ra thật và dùng 却) → Đúng: '虽然/尽管昨天生病了，他却坚持来上课。'."
+        }
+      ],
+      "package_notes": "Thành thạo các nhóm câu phức HSK 4–5, quy tắc vị trí từ liên kết theo chủ ngữ và cách tách các cặp dễ nhầm (只要/只有, 既然/因为, 尽管/即使) giúp bạn ăn chắc điểm phần chọn từ liên kết, sửa lỗi câu và viết đoạn văn mạch lạc.",
+      "exercises": [
+        {
+          "id": "st2_p4_e1", "type": "fill_blank", "level": "Nhận biết", "mistake_category": "Ngữ pháp",
+          "prompt": "Chọn cặp từ liên kết đúng nhất để điền vào câu: '___正视自己的不足，___能不断提高和完善自己。'",
+          "options": [
+            "只有……才",
+            "只要……才",
+            "既然……就",
+            "无论……都"
+          ],
+          "answer": "只有……才",
+          "explanation": "Vế sau nêu kết quả đòi hỏi điều kiện cần duy nhất, phải dùng cặp chuẩn '只有……才' (chỉ có nhìn thẳng vào thiếu sót của mình mới có thể không ngừng tiến bộ). Không ghép chéo '只要……才'.",
+          "review_tip": "Ôn cặp điều kiện cần '只有……才' vs điều kiện đủ '只要……就'."
+        },
+        {
+          "id": "st2_p4_e2", "type": "grammar_mc", "level": "Phân biệt", "mistake_category": "Ngữ pháp",
+          "prompt": "Câu nào đặt ĐÚNG vị trí từ liên kết theo quy tắc chủ ngữ giống/khác?",
+          "options": [
+            "不但学生要努力学习，而且老师也要不断进步。",
+            "学生不但要努力学习，而且老师也要不断进步。",
+            "他虽然没有听懂，却他没有再问。",
+            "他因为生病了，所以我昨天去医院看他。"
+          ],
+          "answer": "不但学生要努力学习，而且老师也要不断进步。",
+          "explanation": "Hai vế có chủ ngữ KHÁC nhau ('学生' và '老师'), nên liên từ '不但' PHẢI đứng TRƯỚC chủ ngữ '学生'. Câu B và D đều sai vị trí khi khác chủ ngữ (phải đặt 不但/因为 ở đầu câu); câu C đặt phó từ '却' trước chủ ngữ '他' là sai.",
+          "review_tip": "Ôn quy tắc vàng vị trí liên từ và phó từ liên kết theo chủ ngữ."
+        },
+        {
+          "id": "st2_p4_e3", "type": "error_fix", "level": "Vận dụng", "mistake_category": "Ngữ pháp",
+          "prompt": "Tìm câu SAI về cách phối hợp từ liên kết:",
+          "options": [
+            "尽管天塌下来，我也能顶得住。",
+            "即使天塌下来，我也能顶得住。",
+            "不管老李赶得上赶不上，我们都准时出发。",
+            "与其呆在家里发呆，不如出去散散步。"
+          ],
+          "answer": "尽管天塌下来，我也能顶得住。",
+          "explanation": "'尽管' dùng cho chuyển ngoặt sự thật và đi với '但是/可是/却', KHÔNG thể ghép với '也' để diễn đạt giả thiết nhượng bộ. Câu này phải dùng '即使……也' như phương án B.",
+          "review_tip": "Ôn phân biệt cặp Chuyển ngoặt (尽管……但是/却) và Nhượng bộ (即使……也)."
+        },
+        {
+          "id": "st2_p4_e4", "type": "reorder", "level": "Vận dụng", "mistake_category": "Ngữ pháp",
+          "prompt": "Sắp xếp thành câu phức chuyển ngoặt đúng quy tắc vị trí liên từ & phó từ:",
+          "tokens": ["年纪不大，", "却很成熟。", "他", "但办事", "虽然"],
+          "answer": "他虽然年纪不大，但办事却很成熟。",
+          "explanation": "Cùng chủ ngữ '他' nên '虽然' đứng SAU '他'; vế sau kết hợp liên từ '但' với phó từ liên kết '却' đứng ngay trước vị ngữ '很成熟'.",
+          "review_tip": "Ôn cấu trúc '虽然……，但……却……' khi hai vế cùng chủ ngữ."
+        }
+      ]
+    },
+    {
+      "id": "st2_pkg5",
+      "title": "Gói 5: Số từ & Lượng từ đặc biệt · Lặp lại Động từ & Tính từ · Câu phản vấn & Câu nhấn mạnh",
+      "intro": "Hoàn thiện 5 mảng ngữ pháp cực hay ra đề trắc nghiệm, điền từ và viết câu Chuyên Trung (chọn lọc từ giáo trình Ngữ pháp tiếng Hán hiện đại BLCU, bám sát vốn từ HSK 4–5): phân biệt 二/两 và ước lượng, lượng từ danh–động & lặp lượng từ, lặp động từ & tính từ, phủ định kép với trợ động từ (不能不/不得不), và câu phản vấn & nhấn mạnh.",
+      "source_status": "verified_source",
+      "source_ids": ["PDF_BLCU_GRAMMAR_18"],
+      "items": [
+        {
+          "title": "1. Số từ đặc biệt: Phân biệt 二 vs 两 · Tăng/giảm (减少了 vs 减少到) · Số ước lượng (多/来/左右/几)",
+          "formula": "Lượng từ đơn: 两 + Lượng từ (两本书)  |  Thứ tự/Phân số/Thập phân: 二 (第二, 二分之一)  |  Số tròn chục + 多 + Lượng từ (二十多个)  |  Số lẻ 1–9 + Lượng từ + 多 (三个多小时)",
+          "explanation": "Trong bài thi điền từ và đọc hiểu số liệu, học sinh hay mất điểm ở 3 bẫy số từ sau: (1) 二 vs 两: đứng một mình trước lượng từ thông thường (两本书, 两倍, 两个月), trước 半 (两半) và trước 千/万/亿 thường dùng 两; còn số thứ tự (第二, 二月), phân số/thập phân (二分之一, 零点二), trước 十 (二十) và hàng đơn vị của số nhiều chữ số (二十二, 一百零二次) PHẢI dùng 二. Đặc biệt, 两 còn mang nghĩa ước lượng bằng 几 (过两天 = 过几天), còn 俩 (liǎ) là gộp âm của 两个 nên KHÔNG thêm 个 phía sau (俩人, 兄弟俩); (2) Tăng/giảm: 增加了 / 减少了 chỉ PHẦN CHÊNH LỆCH, còn 增加到 / 减少到 chỉ MỨC ĐẠT TỚI / CÒN LẠI (tính cả gốc); (3) Số ước lượng dùng 多, 来, 左右, 上下, 几 hoặc hai số liền nhau (一两百人, 三四天), trong đó vị trí chữ 多 thay đổi theo số chẵn chục hay số lẻ!",
+          "examples": [
+            { "chinese": "以前是10万元，现在是7万元，成本减少了30%（减少了3万元），减少到70%（减少到7万元）。", "pinyin": "Yǐqián shì shí wàn yuán, xiànzài shì qī wàn yuán, chéngběn jiǎnshǎo le bǎifēnzhī sānshí (jiǎnshǎo le sān wàn yuán), jiǎnshǎo dào bǎifēnzhī qīshí (jiǎnshǎo dào qī wàn yuán).", "vietnamese": "Trước đây là 10 vạn tệ, nay là 7 vạn tệ: chi phí giảm đi 30% (giảm đi 3 vạn), giảm xuống còn 70% (giảm xuống còn 7 vạn)." },
+            { "chinese": "桌上有两本书，我先读第二本；过两天咱们俩再一起交流。", "pinyin": "Zhuō shàng yǒu liǎng běn shū, wǒ xiān dú dì-èr běn; guò liǎng tiān zánmen liǎ zài yìqǐ jiāoliú.", "vietnamese": "Trên bàn có hai quyển sách, tôi đọc quyển thứ hai trước; vài hôm nữa hai đứa mình lại cùng trao đổi." },
+            { "chinese": "教室里有二十多个学生，大家讨论了三个多小时。", "pinyin": "Jiàoshì li yǒu èrshí duō ge xuésheng, dàjiā tǎolùn le sān ge duō xiǎoshí.", "vietnamese": "Trong lớp có hơn hai mươi học sinh, mọi người đã thảo luận hơn ba tiếng đồng hồ." }
+          ],
+          "comparison": "2 cái bẫy kinh điển: (1) Bội số (倍) CHỈ dùng cho sự TĂNG (增加了两倍, 增加到两倍), TUYỆT ĐỐI KHÔNG dùng cho sự GIẢM (không nói 减少了一倍; khi giảm phải dùng phần trăm/phân số như 减少了50% hoặc 减少了一半); (2) Phân biệt cặp đổi 二/两 làm đổi hẳn nghĩa: 二儿子 (con trai thứ hai) ≠ 两个儿子 (hai người con trai), 二次世界大战 (Thế chiến thứ II) ≠ 两次世界大战 (hai cuộc thế chiến).",
+          "memory_tip": "Mẹo vị trí chữ 多 trong 3 giây: số kết thúc bằng số 0 (10, 20, 100...) đặt 多 TRƯỚC lượng từ (十多个, 一千多人); số lẻ 1–9 đặt 多 SAU lượng từ (三个多小时, 两斤多苹果). Và nhớ: '了 = phần lệch, 到 = mức cuối; 倍 chỉ tăng, không giảm!'.",
+          "common_error": "Sai: '他们俩个讨论了二个多小时，费用减少了一倍。' → Đúng: '他们俩讨论了两个多小时，费用减少了一半（50%）。'."
+        },
+        {
+          "title": "2. Lượng từ (量词): Danh lượng từ vs Động lượng từ & Lặp lại lượng từ mang nghĩa 'mỗi / tất cả' (个个/天天/一次次)",
+          "formula": "Danh lượng từ + Danh từ (一杯水/一阵雨)  |  V + Động lượng từ (读三遍/去一趟)  |  Lặp AA / 一AA (个个/一次次 = mỗi / từng cái một / rất nhiều)",
+          "explanation": "Lượng từ chia 2 nhóm chính: (1) Danh lượng từ đếm người/vật gồm nhóm chuyên dùng (个/本/张/条/把/双/批/群) và mượn danh–động từ (一杯水, 一碗饭, 一封信, 一箱衣服); (2) Động lượng từ đếm số lần hành động, đặt SAU động từ làm bổ ngữ (次/回/趟/遍/场/阵/顿/下/番, hoặc mượn danh từ như 看一眼, 踢一脚). Nhiều lượng từ dùng được cho cả hai như 顿 (一顿饭 / 骂了一顿), 阵 (一阵风 / 跑了一阵), 场 (一场电影 / 哭了一场). Khi lặp lại lượng từ đơn âm tiết (个个, 句句, 天天, 回回) sẽ mang nghĩa 'mỗi / tất cả đều...' (nhìn chung cả tập thể), còn dạng 一AA / 一A一A (一个个, 一件件, 一次次, 一幅幅) nhấn từng cá thể, nghĩa 'từng cái một' khi đứng trước động từ, hoặc nhấn 'rất nhiều' khi đứng trước danh từ.",
+          "examples": [
+            { "chinese": "刚才下了一阵雨，空气凉快多了。 / 昨天那场雨下了一整夜。", "pinyin": "Gāngcái xià le yí zhèn yǔ, kōngqì liángkuai duō le. / Zuótiān nà chǎng yǔ xià le yì zhěng yè.", "vietnamese": "Vừa nãy mưa một cơn ngắn nên không khí mát hẳn / Trận mưa hôm qua kéo dài suốt cả đêm (阵 = ngắn, 场 = lâu/lớn)." },
+            { "chinese": "全班同学个个都很努力，大家把课文一遍遍读熟，把错题一件件改好。", "pinyin": "Quánbān tóngxué gègè dōu hěn nǔlì, dàjiā bǎ kèwén yíbiànbiàn dúshú, bǎ cuòtí yíjiànjiàn gǎihǎo.", "vietnamese": "Học sinh cả lớp em nào cũng rất chăm chỉ, mọi người đọc đi đọc lại bài khóa cho thuộc và sửa từng câu sai một cho chuẩn." },
+            { "chinese": "这本复习资料一人一本。 / 为了准备决赛，他几乎一夜未睡，满屋子都贴满了复习笔记。", "pinyin": "Zhè běn fùxí zīliào yì rén yì běn. / Wèile zhǔnbèi juésài, tā jīhū yí yè wèi shuì, mǎn wūzi dōu tiēmǎn le fùxí bǐjì.", "vietnamese": "Tài liệu ôn tập này mỗi người một quyển / Để chuẩn bị chung kết, cậu ấy gần như cả đêm không ngủ, khắp phòng dán đầy ghi chú ôn bài." }
+          ],
+          "comparison": "2 điểm hay ra đề phân biệt: (1) Đổi động lượng từ đổi hẳn sắc thái: 解释一遍 (giải thích trọn từ đầu đến cuối) vs 解释一下 (giải thích ngắn gọn) vs 解释一番 (giải thích kỹ và khá dài) vs 解释一次 (chỉ tính 1 lần); (2) Cách dùng linh hoạt của chữ 一: 一……一…… = 'mỗi… một…' (一人一本), 一 + danh từ = 'đầy / suốt' (走了一身汗, 一屋子人 = 满屋子人, 一夜未睡), 一 + V = 'nhanh / thoáng cái' (一学就会). Ngoài ra, 有点儿/有些 trước danh từ là 'một ít' (有些水), trước tính từ/động từ tâm lý là 'hơi' (有点儿后悔).",
+          "memory_tip": "Phân biệt nhanh trong bài đọc: AA (个个/句句/天天) = 'mỗi/tất cả đều…' (nhìn tổng thể); 一AA (一个个/一次次/一件件) = 'từng người/từng lần một' (nhấn từng đơn vị nối tiếp).",
+          "common_error": "Sai: '他把这篇文章看了一趟。' (趟 dùng cho lượt đi lại, không dùng cho đọc bài) → Đúng: '他把这篇文章看了一遍。' (trọn từ đầu đến cuối)."
+        },
+        {
+          "title": "3. Lặp lại Động từ (AA / A一A / ABAB) & Lặp lại Tính từ (AABB / ABAB) — Cẩn thận bẫy sai dạng!",
+          "formula": "Động từ: AA / A一A / A了A (看看/看一看/看了看) · 2 âm tiết CHỈ ABAB (讨论讨论/休息休息)  |  Tính từ: AA (大大的) · 2 âm tiết AABB (高高兴兴/干干净净) hoặc ABAB (雪白雪白/冰凉冰凉)",
+          "explanation": "Động từ và tính từ lặp lại khác hẳn nhau cả về HÌNH THỨC lẫn Ý NGHĨA: (1) Lặp ĐỘNG TỪ biểu thị hành động diễn ra ngắn, nhẹ nhàng, mang ý 'làm một chút / thử xem': 1 âm tiết dùng AA (看看, 做做, 聊聊), A一A (看一看), A了A (看了看 — việc đã làm); 2 âm tiết BẮT BUỘC lặp dạng ABAB (学习学习, 讨论讨论, 休息休息, 考虑考虑), âm tiết lặp đọc nhẹ; (2) Lặp TÍNH TỪ biểu thị miêu tả sinh động và thường tăng mức độ: 1 âm tiết dùng AA (trước động từ tăng mạnh: 大大缩短了距离, 高高举起; trước danh từ lại nhẹ nhàng dễ thương: 大大的眼睛); 2 âm tiết thông thường dùng AABB (高高兴兴, 干干净净, 踏踏实实, 清清楚楚); tính từ đã có sẵn yếu tố mức độ/màu sắc dùng ABAB (雪白雪白, 冰凉冰凉, 通红通红, 笔直笔直); một số từ chê bai dùng A里AB (马里马虎, 糊里糊涂, 小里小气).",
+          "examples": [
+            { "chinese": "你先看看这篇范文，再跟同桌讨论讨论，累了就休息休息。", "pinyin": "Nǐ xiān kànkan zhè piān fànwén, zài gēn tóngzhuō tǎolùn tǎolùn, lèi le jiù xiūxi xiūxi.", "vietnamese": "Cậu xem qua bài văn mẫu này trước, rồi thảo luận một chút với bạn cùng bàn, mệt thì nghỉ ngơi chút nhé." },
+            { "chinese": "大家把教室打扫得干干净净，高高兴兴地迎接新学期。", "pinyin": "Dàjiā bǎ jiàoshì dǎsǎo de gāngānjìngjìng, gāogāoxìngxìng de yíngjiē xīn xuéqī.", "vietnamese": "Mọi người dọn dẹp lớp học sạch sẽ tinh tươm, vui vẻ phấn khởi đón học kỳ mới." },
+            { "chinese": "窗外落着雪白雪白的雪花，湖水冰凉冰凉的。", "pinyin": "Chuāngwài luòzhe xuěbái xuěbái de xuěhuā, húshuǐ bīngliáng bīngliáng de.", "vietnamese": "Ngoài cửa sổ những bông tuyết trắng muốt đang rơi, nước hồ lạnh buốt." }
+          ],
+          "comparison": "2 quy tắc cấm kỵ ra đề sửa lỗi liên tục: (1) TUYỆT ĐỐI KHÔNG thêm phó từ mức độ (很/非常) hay 不 trước tính từ ĐÃ lặp lại (AABB/ABAB/AA) hoặc nhóm tính từ sẵn mức độ/phân loại (雪白, 冰凉, 大型, 天然, 主要, 初级); (2) KHÔNG lặp chéo dạng giữa động từ và tính từ: động từ 2 âm tiết là ABAB (学习学习, 讨论讨论), KHÔNG biến thành AABB (学学习习, 讨讨论论); ngược lại, tính từ thường là AABB (高高兴兴, 干干净净), KHÔNG biến thành ABAB trừ khi có yếu tố màu sắc/mức độ sẵn (雪白雪白) hoặc được dùng như động từ (高兴高兴 = vui chơi một chút).",
+          "memory_tip": "Khẩu quyết 2 câu ăn trọn điểm: 'Động từ nhẹ nhàng: ABAB (休息休息); Tính từ sinh động: AABB (干干净净) — Đã lặp tính từ, cấm kỵ chữ 很 và 不!'.",
+          "common_error": "Sai: '房间收拾得很干干净净' / '我们要好好学学习习' → Đúng: '房间收拾得干干净净的（或：很干净）' / '我们要好好学习学习'."
+        },
+        {
+          "title": "4. Trợ động từ (能/会/可以/应该/要) & Phủ định kép '不 X 不' (不能不 / 不得不 / 不应该不)",
+          "formula": "Nhóm khả năng: 不 + 能/可以/会 + 不 + V (khẳng định uyển chuyển, khách quan)  |  Nhóm nghĩa vụ/cần thiết: 不 + 得/应该 + 不 + V (nhấn mạnh mạnh mẽ / bắt buộc)",
+          "explanation": "Trợ động từ (động từ năng nguyện) đứng trước động từ biểu thị khả năng–cho phép (能, 能够, 可以, 可能, 会) hoặc cần thiết–ý muốn (应该, 应当, 要, 得, 肯, 敢). Khi đưa vào khung phủ định kép '不 X 不' (2 lần phủ định tạo thành nghĩa KHẲNG ĐỊNH), sắc thái câu trở nên tinh tế hơn hẳn câu khẳng định thường: (1) Với nhóm khả năng (不能不, 不会不, 不可以不), câu không đơn giản là 'có thể', mà mang nghĩa 'nên / không thể không / chắc chắn phải' với giọng điệu uyển chuyển, thuyết phục (不能不相信 ≠ 能相信, mà mang nghĩa nên tin một cách mềm mại; 不会不知道 = chắc chắn biết); (2) Với nhóm nghĩa vụ/cần thiết (不得不, 不应该不), giọng điệu được NHẤN MẠNH MẠNH MẼ hơn hẳn câu khẳng định thường hoặc diễn tả tình thế bất đắc dĩ phải làm.",
+          "examples": [
+            { "chinese": "看到他这么认真的态度，我们不能不相信他一定能成功。", "pinyin": "Kàndào tā zhème rènzhēn de tàidù, wǒmen bù néng bù xiāngxìn tā yídìng néng chénggōng.", "vietnamese": "Thấy thái độ nghiêm túc như vậy của cậu ấy, chúng tôi không thể không tin cậu ấy nhất định sẽ thành công (giọng thuyết phục, uyển chuyển)." },
+            { "chinese": "因为突然下起大雨，运动会不得不推迟到下周举行。", "pinyin": "Yīnwèi tūrán xiàqǐ dàyǔ, yùndònghuì bùdébù tuīchí dào xiàzhōu jǔxíng.", "vietnamese": "Vì bất ngờ đổ mưa lớn, hội thao đành phải (bất đắc dĩ phải) hoãn sang tuần sau tổ chức." },
+            { "chinese": "他是你的好朋友，遇到困难时你不应该不帮他一把。", "pinyin": "Tā shì nǐ de hǎo péngyou, yùdào kùnnan shí nǐ bù yīnggāi bù bāng tā yì bǎ.", "vietnamese": "Cậu ấy là bạn thân của cậu, lúc gặp khó khăn cậu nhất định phải giúp cậu ấy một tay (mạnh hơn hẳn 你应该帮他一把)." }
+          ],
+          "comparison": "Phân biệt nhanh cặp hay thi nhất trong đề đọc hiểu & điền từ: 不得不 nhấn mạnh hoàn cảnh khách quan ép buộc, làm trong thế bất đắc dĩ (因为生病，他不得不请假); còn 不能不 nhấn mạnh lý lẽ, tình cảm hoặc sự thật hiển nhiên khiến ta không thể không thừa nhận/làm theo (这个成绩让人不能不佩服). Ngoài ra, phủ định kép giúp câu dứt khoát hơn câu khẳng định thường, nhưng tuyệt đối cẩn thận đừng thêm phủ định thứ 3 (như 避免不发生) làm đảo ngược nghĩa câu!",
+          "memory_tip": "Quy tắc dấu toán học cho bài đọc hiểu: '(-) × (-) = (+) cực mạnh'! Gặp 不得不 dịch ngay 'bắt buộc/đành phải'; gặp 不能不 dịch 'không thể không'; gặp 不会不知道 dịch 'chắc chắn biết'!",
+          "common_error": "Sai: '为了防止不再出错，他检查了两遍。' (dùng thừa phủ định làm lệch nghĩa) → Đúng: '为了防止再出错，他检查了两遍。'."
+        },
+        {
+          "title": "5. Câu phản vấn (反问句: 难道…吗 / 不是…吗 / 何必) & Câu nhấn mạnh (连…都/也 · 一…也不 · 是…的)",
+          "formula": "Phản vấn: 难道……吗？ / 不是……吗？ / 谁不……呢？ / 何必……呢？  |  Nhấn mạnh: 连 + A + 都/也 + V  |  一 + Lượng từ/点儿 + 也/都 + 不/没 + V",
+          "explanation": "Câu phản vấn (反问句) có hình thức câu hỏi và dấu '?', nhưng KHÔNG dùng để hỏi thông tin mà dùng để khẳng định hoặc phủ định ngược lại cực mạnh — đây là bẫy mất điểm số 1 ở bài đọc hiểu suy luận! Quy tắc đảo chiều rất rõ: bề mặt KHẲNG ĐỊNH thì ý thật là PHỦ ĐỊNH MẠNH (难道我们还有别的选择吗？ = Chúng ta không còn lựa chọn nào khác); bề mặt PHỦ ĐỊNH thì ý thật là KHẲNG ĐỊNH MẠNH (谁不知道这件事呢？ = Ai cũng biết chuyện này; 你会不知道吗？ = Cậu chắc chắn biết). Bên cạnh câu phản vấn, tiếng Trung thường nhấn mạnh ý bằng 3 khung xương sống: 连……都/也 (ngay cả mức cực đoan nhất cũng…), 一……也/都 + 不/没 (phủ định sạch trơn, một chút cũng không), và khung 是……的 hoặc câu cảm thán 多/多么/真……啊！",
+          "examples": [
+            { "chinese": "难道我们还有别的选择吗？ / 事情就发生在我们班，谁不知道呢？", "pinyin": "Nándào wǒmen hái yǒu bié de xuǎnzé ma? / Shìqing jiù fāshēng zài wǒmen bān, shéi bù zhīdào ne?", "vietnamese": "Chẳng lẽ chúng ta còn lựa chọn nào khác sao? (= Không còn lựa chọn nào khác) / Chuyện xảy ra ngay lớp mình, ai mà không biết chứ? (= Ai cũng biết)." },
+            { "chinese": "这么点儿小事，何必放在心上呢？ / 你不是答应过明天准时参加吗？", "pinyin": "Zhème diǎnr xiǎoshì, hébì fàng zài xīnshang ne? / Nǐ búshì dāyingguo míngtiān zhǔnshí cānjiā ma?", "vietnamese": "Chuyện nhỏ thế này, việc gì phải để bụng chứ? (= Không cần để bụng) / Chẳng phải cậu đã hứa ngày mai tham gia đúng giờ sao? (= Cậu đã hứa rồi)." },
+            { "chinese": "他忙得连午饭都忘了吃，可一点儿也不觉得累，这精神真让人佩服啊！", "pinyin": "Tā máng de lián wǔfàn dōu wàng le chī, kě yìdiǎnr yě bù juéde lèi, zhè jīngshén zhēn ràng rén pèifú a!", "vietnamese": "Cậu ấy bận đến mức ngay cả cơm trưa cũng quên ăn, thế mà chút nào cũng chẳng thấy mệt, tinh thần này thật đáng khâm phục!" }
+          ],
+          "comparison": "Lưu ý cực quan trọng về trợ từ cuối câu hỏi & phản vấn: (1) Câu hỏi/phản vấn dạng có–không (难道……, 不是……, 你会不知道……) mới dùng 吗; (2) Câu hỏi/phản vấn đã có ĐẠI TỪ NGHI VẤN (谁, 怎么, 什么, 哪儿, 何必) hoặc dạng lựa chọn (A还是B, A不A) CHỈ dùng 呢/啊, TUYỆT ĐỐI KHÔNG gắn 吗 ở cuối câu!",
+          "memory_tip": "Gặp câu phản vấn trong bài đọc hiểu, hãy lập tức 'lật ngược cực' và xóa dấu hỏi: thấy 难道…不…吗 / 谁不…呢 / 不是…吗 → đổi sang KHẲNG ĐỊNH mạnh; thấy 难道…吗 / 何必…呢 → đổi sang PHỦ ĐỊNH mạnh!",
+          "common_error": "Sai: '这件事谁不知道吗？' / '这么简单的问题，他怎么不明白吗？' → Đúng: '这件事谁不知道呢？' / '这么简单的问题，他怎么不明白呢？'."
+        }
+      ],
+      "package_notes": "Nắm chắc 5 chuyên đề thực chiến này (số từ 二/两·多·增减, lượng từ danh–động & lặp lượng từ, phân biệt lặp động từ ABAB vs tính từ AABB không kèm 很, phủ định kép 不能不/不得不 và quy tắc lật ngược nghĩa câu phản vấn) sẽ giúp bạn tránh sạch những bẫy điểm tinh vi nhất trong đề HSK 4–5 và đề thi Chuyên Trung.",
+      "exercises": [
+        {
+          "id": "st2_p5_e1", "type": "fill_blank", "level": "Nhận biết", "mistake_category": "Ngữ pháp",
+          "prompt": "Chọn cặp từ đúng nhất để điền vào chỗ trống: '去年这项服务的费用是100元，今年降到了70元，也就是说费用___30%，___70元。'",
+          "options": [
+            "减少了……减少到",
+            "减少到……减少了",
+            "减少了一倍……减少到",
+            "降低了……降低"
+          ],
+          "answer": "减少了……减少到",
+          "explanation": "Từ 100 tệ xuống 70 tệ: phần chênh lệch giảm đi là 30 tệ (= 30%) nên dùng '减少了30%'; mức còn lại đạt tới là 70 tệ nên dùng '减少到70元'. Bội số '倍' không dùng cho sự giảm.",
+          "review_tip": "Ôn phân biệt '减少了' (phần chênh lệch) vs '减少到' (mức còn lại)."
+        },
+        {
+          "id": "st2_p5_e2", "type": "grammar_mc", "level": "Phân biệt", "mistake_category": "Ngữ pháp",
+          "prompt": "Chọn câu dùng ĐÚNG hoàn toàn về số từ (二/两/俩) và vị trí chữ '多':",
+          "options": [
+            "我们班有二十多个同学，今天下午讨论了两个多小时。",
+            "我们班有二十个多同学，今天下午讨论了二个多小时。",
+            "他们俩个是我最好的朋友，上次比赛都得了第二名。",
+            "这件衣服原价二百两十块，打折后便宜了两倍。"
+          ],
+          "answer": "我们班有二十多个同学，今天下午讨论了两个多小时。",
+          "explanation": "Số chẵn chục '二十' dùng '二' trước '十' và đặt '多' TRƯỚC lượng từ ('二十多个'); số lẻ '2' đứng trước lượng từ '个' dùng '两' và đặt '多' SAU lượng từ ('两个多小时'). Câu B sai vị trí '多' và dùng sai '二个'; câu C sai '俩个' (vì '俩' đã là '两个'); câu D sai '两十' và dùng '倍' cho sự giảm.",
+          "review_tip": "Ôn quy tắc 二/两/俩 và vị trí chữ 多 với số tròn chục vs số lẻ."
+        },
+        {
+          "id": "st2_p5_e3", "type": "error_fix", "level": "Phân biệt", "mistake_category": "Ngữ pháp",
+          "prompt": "Tìm câu SAI ngữ pháp về cách lặp lại động từ, tính từ hoặc lượng từ:",
+          "options": [
+            "妹妹把书桌擦得很干干净净，看着真舒服。",
+            "遇到不懂的问题，大家可以坐下来好好讨论讨论。",
+            "这件衣服雪白雪白的，穿在身上非常精神。",
+            "全班同学个个都很认真，作业一次次越写越好。"
+          ],
+          "answer": "妹妹把书桌擦得很干干净净，看着真舒服。",
+          "explanation": "Tính từ đã lặp lại dạng AABB ('干干净净') bản thân đã biểu thị mức độ cao và sinh động, TUYỆT ĐỐI KHÔNG dùng thêm '很' ở phía trước. Phải sửa thành '妹妹把书桌擦得干干净净的' hoặc '擦得很干净'.",
+          "review_tip": "Ôn quy tắc cấm dùng '很/不' trước tính từ lặp lại AABB/ABAB."
+        },
+        {
+          "id": "st2_p5_e4", "type": "reorder", "level": "Vận dụng", "mistake_category": "Ngữ pháp",
+          "prompt": "Sắp xếp các thành phần thành một câu phản vấn đúng chuẩn dùng khung '难道……吗':",
+          "tokens": ["真的要", "准备了这么久，", "这次机会吗？", "难道你", "放弃"],
+          "answer": "准备了这么久，难道你真的要放弃这次机会吗？",
+          "explanation": "Trật tự chuẩn: Vế nền mở đầu ('准备了这么久，') + Khung phản vấn kèm chủ ngữ ('难道你') + Trạng ngữ và trợ động từ ('真的要') + Động từ ('放弃') + Tân ngữ kèm trợ từ phản vấn ('这次机会吗？'). Nghĩa thực: Đã chuẩn bị lâu như vậy, cậu không nên bỏ lỡ cơ hội lần này!",
+          "review_tip": "Ôn cấu trúc và sắc thái câu phản vấn '难道……吗？'."
+        }
+      ]
+    }
+  ],
+  "comprehensive_test": [
+    {
+      "id": "st2_ct1", "type": "grammar_mc", "level": "Vận dụng", "mistake_category": "Ngữ pháp",
+      "prompt": "[Tổng hợp Trạm 2] Chọn câu diễn đạt ĐÚNG ý 'Tôi không đọc hiểu quyển sách này':",
+      "options": [
+        "这本书我看不懂。",
+        "这本书我看得不懂。",
+        "这本书我不看得懂。",
+        "我把这本书看不懂。"
+      ],
+      "answer": "这本书我看不懂。",
+      "explanation": "Dạng phủ định của bổ ngữ khả năng là V + 不 + C (看不懂), KHÔNG dùng 得不 và KHÔNG dùng trong câu 把.",
+      "review_tip": "Ôn bổ ngữ khả năng (Gói 1)."
+    },
+    {
+      "id": "st2_ct2", "type": "error_fix", "level": "Phân biệt", "mistake_category": "Ngữ pháp",
+      "prompt": "[Tổng hợp Trạm 2 – Hư từ] Tìm câu SAI trong các câu dùng phó từ, giới từ và trợ từ sau:",
+      "options": [
+        "经过了认真的调查，我们终于找到了问题的原因。",
+        "我把这篇文章仔细地检查了一遍。",
+        "墙上挂着一幅非常漂亮的山水画。",
+        "前天请他来，但他不愿意来。"
+      ],
+      "answer": "经过了认真的调查，我们终于找到了问题的原因。",
+      "explanation": "'经过' trong câu này là GIỚI TỪ (vì có động từ chính '找到' ở vế sau), do đó KHÔNG được thêm trợ từ động thái '了'. Phải sửa thành '经过认真的调查，我们终于找到了问题的原因。'.",
+      "review_tip": "Ôn phân biệt giới từ vs động từ và trợ từ 了/着/地 (Gói 2)."
+    },
+    {
+      "id": "st2_ct3", "type": "grammar_mc", "level": "Phân biệt", "mistake_category": "Ngữ pháp",
+      "prompt": "[Tổng hợp Trạm 2 – Bổ ngữ & Câu đặc biệt] Chọn câu ĐÚNG ngữ pháp hoàn toàn:",
+      "options": [
+        "学校派我去上海参加交流活动。",
+        "在操场上跑着很多踢足球的同学。",
+        "他一口气跑上去五楼了。",
+        "我把那个好消息已经听见了。"
+      ],
+      "answer": "学校派我去上海参加交流活动。",
+      "explanation": "Câu A là câu kiêm ngữ lồng liên động chuẩn xác ('派我去' + '去上海参加交流活动'). Câu B sai do thừa '在' đầu câu tồn hiện; câu C sai vị trí tân ngữ nơi chốn (phải là '跑上五楼去了'); câu D sai vì '听见' không dùng trong câu chữ 把.",
+      "review_tip": "Ôn bổ ngữ xu hướng, câu tồn hiện, câu kiêm ngữ và điều kiện dùng câu 把 (Gói 3)."
+    },
+    {
+      "id": "st2_ct4", "type": "grammar_mc", "level": "Vận dụng", "mistake_category": "Ngữ pháp",
+      "prompt": "[Tổng hợp Trạm 2 – Câu phức] Chọn câu phức ĐÚNG cả phối hợp từ liên kết lẫn vị trí theo chủ ngữ:",
+      "options": [
+        "不但年轻人在学习新技术，而且不少老年人也在积极学习。",
+        "年轻人不但学习新技术，而且不少老年人也在积极学习。",
+        "不管明天下雨，运动会都照常举行。",
+        "既然他昨天生病了，所以今天没来上课。"
+      ],
+      "answer": "不但年轻人在学习新技术，而且不少老年人也在积极学习。",
+      "explanation": "Hai vế khác chủ ngữ ('年轻人' và '不少老年人') nên '不但' đặt trước chủ ngữ vế 1, kết hợp '而且…也…' hoàn toàn chuẩn. Câu B sai vị trí '不但'; câu C dùng '不管' nhưng thiếu yếu tố lựa chọn/nghi vấn ('下不下雨'); câu D ghép sai '既然' với '所以' (phải là '因为…所以' hoặc '既然…就').",
+      "review_tip": "Ôn quy tắc vị trí từ liên kết theo chủ ngữ và các cặp phối hợp chuẩn (Gói 4)."
+    },
+    {
+      "id": "st2_ct5", "type": "grammar_mc", "level": "Vận dụng", "mistake_category": "Ngữ pháp",
+      "prompt": "[Tổng hợp Trạm 2 – Số lượng từ · Lặp từ · Phản vấn & Phủ định kép] Chọn câu ĐÚNG ngữ pháp và diễn đạt chuẩn xác:",
+      "options": [
+        "面对这么多证据，大家不得不承认他的想法很有道理。",
+        "他每天坚持锻炼身体，体重比去年减少了一倍。",
+        "这件事全班同学谁不知道吗？",
+        "我们已经在图书馆认真学习了二个多小时，应该休休息息了。"
+      ],
+      "answer": "面对这么多证据，大家不得不承认他的想法很有道理。",
+      "explanation": "Câu A dùng cấu trúc phủ định kép '不得不' (bất đắc dĩ / buộc phải thừa nhận) hoàn toàn chuẩn xác. Câu B sai vì bội số '倍' KHÔNG dùng cho sự giảm ('减少'); câu C sai vì câu phản vấn có đại từ nghi vấn '谁' chỉ dùng '呢', không dùng '吗' ('谁不知道呢？'); câu D sai kép: trước lượng từ '个' phải dùng '两' ('两个多小时') và động từ 2 âm tiết lặp dạng ABAB ('休息休息').",
+      "review_tip": "Ôn số từ 二/两 và 倍, lặp động từ ABAB, phủ định kép 不得不 và câu phản vấn 谁…呢 (Gói 5)."
+    }
+  ]
+}

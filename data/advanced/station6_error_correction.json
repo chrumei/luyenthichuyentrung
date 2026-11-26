@@ -1,0 +1,428 @@
+{
+  "id": "station6",
+  "kind": "error_correction",
+  "icon": "🩺",
+  "shortTitle": "Trạm 6: Sửa lỗi sai",
+  "title_vi": "TRẠM 6. LUYỆN SỬA LỖI SAI",
+  "title_zh": "纠错训练",
+  "description": "Rèn kỹ năng phát hiện và sửa các nhóm lỗi sai điển hình trong tiếng Trung: bám sát kiến thức HSK 4–5 và mở rộng theo giáo trình Ngữ pháp tiếng Hán hiện đại BLCU (lỗi kết hợp từ, thiếu/thừa thành phần, trộn lẫn hai mẫu câu, sai vị trí thành phần).",
+  "packages": [
+    {
+      "id": "st6_pkg1",
+      "title": "Gói 1: 6 Dạng lỗi kinh điển (Dùng từ · Cận nghĩa · Kết hợp từ · Trật tự · Hư từ · Thừa/Thiếu thành phần)",
+      "intro": "Mỗi mẫu lỗi gồm đủ 6 bước: Câu sai → Nhận diện phần sai → Câu sửa đúng → Giải thích bản chất → Quy tắc ghi nhớ → Câu tương tự tự luyện.",
+      "source_status": "synthesized",
+      "source_ids": ["SRC_YACLC", "SRC_BLCU_ICALL", "SRC_BLCU_GRAMMAR"],
+      "items": [
+        {
+          "error_type": "Nhầm từ gần nghĩa / Sai từ loại",
+          "wrong_sentence": "这件绿色的裙子非常合适你。",
+          "error_part": "“合适你” (tính từ 合适 mang trực tiếp tân ngữ 你)",
+          "correct_sentence": "这件绿色的裙子非常适合你。",
+          "pinyin": "Zhè jiàn lǜsè de qúnzi fēicháng shìhé nǐ.",
+          "vietnamese": "Chiếc váy màu xanh lá này vô cùng hợp với bạn.",
+          "explanation": "合适 là tính từ nên không được mang tân ngữ trực tiếp phía sau. Muốn có tân ngữ '你', phải đổi sang động từ 适合 (hoặc sửa thành 这件裙子你穿着非常合适).",
+          "rule": "Động từ 适合 + Tân ngữ; Tính từ 合适 đứng cuối làm vị ngữ không mang tân ngữ.",
+          "similar_practice": "Sửa lỗi: 这个工作不太合适刚毕业的大学生。 → Đổi 合适 thành 适合."
+        },
+        {
+          "error_type": "Kết hợp từ không tự nhiên",
+          "wrong_sentence": "坚持阅读可以增加我们的汉语水平。",
+          "error_part": "“增加……水平” (kết hợp động – tân sai chuẩn)",
+          "correct_sentence": "坚持阅读可以提高我们的汉语水平。",
+          "pinyin": "Jiānchí yuèdú kěyǐ tígāo wǒmen de Hànyǔ shuǐpíng.",
+          "vietnamese": "Kiên trì đọc sách có thể nâng cao trình độ tiếng Hán của chúng ta.",
+          "explanation": "增加 chỉ đi với danh từ số lượng (人数, 知识, 收入); còn 水平 (trình độ), 能力 (năng lực) bắt buộc kết hợp với động từ 提高.",
+          "rule": "提高 + 水平/能力/质量/效率; 增加 + 数量/收入/知识.",
+          "similar_practice": "Sửa lỗi: 这种方法能增加学生的阅读能力。 → Đổi 增加 thành 提高."
+        },
+        {
+          "error_type": "Sai trật tự từ (Dịch từng từ theo thói quen ngôn ngữ mẹ đẻ)",
+          "wrong_sentence": "我学习汉语在学校的图书馆每天晚上。",
+          "error_part": "Đặt địa điểm '在学校的图书馆' và thời gian '每天晚上' ở cuối câu",
+          "correct_sentence": "我每天晚上都在学校的图书馆学习汉语。",
+          "pinyin": "Wǒ měi tiān wǎnshang dōu zài xuéxiào de túshūguǎn xuéxí Hànyǔ.",
+          "vietnamese": "Tôi mỗi tối đều học tiếng Hán ở thư viện của trường.",
+          "explanation": "Trong tiếng Trung, trạng ngữ chỉ thời gian và địa điểm thường đứng TRƯỚC động từ theo thứ tự: Chủ ngữ + Thời gian + Địa điểm + Động từ.",
+          "rule": "S + Thời gian + Địa điểm + V + O.",
+          "similar_practice": "Sửa lỗi: 我们吃饭在餐厅一起昨天。 → 我们昨天一起在餐厅吃饭。"
+        },
+        {
+          "error_type": "Sai cấu trúc ngữ pháp (Từ ly hợp)",
+          "wrong_sentence": "他们结婚十年了，从来没吵架过。",
+          "error_part": "“吵架过” (đặt 过 sau cả từ ly hợp)",
+          "correct_sentence": "他们结婚十年了，从来没吵过架。",
+          "pinyin": "Tāmen jié hūn shí nián le, cónglái méi chǎoguo jià.",
+          "vietnamese": "Họ kết hôn mười năm rồi, chưa từng cãi nhau bao giờ.",
+          "explanation": "吵架 là động từ ly hợp (động từ 吵 + tân ngữ 架). Các trợ từ động thái 了/过 hoặc bổ ngữ thời lượng phải chèn VÀO GIỮA: 吵过架, 吵了一架.",
+          "rule": "Từ ly hợp (吵架, 见面, 帮忙, 开玩笑, 加班): chèn 了/过/số lượng vào giữa!",
+          "similar_practice": "Sửa lỗi: 你别开玩笑我！ → 你别跟我开玩笑！(hoặc 你别开我的玩笑！)"
+        },
+        {
+          "error_type": "Dùng sai hư từ (Phối hợp cặp liên từ)",
+          "wrong_sentence": "即使明天下大雨，但是我也会按时参加考试。",
+          "error_part": "Dùng thừa liên từ “但是” trong cấu trúc 即使……也……",
+          "correct_sentence": "即使明天下大雨，我也会按时参加考试。",
+          "pinyin": "Jíshǐ míngtiān xià dàyǔ, wǒ yě huì ànshí cānjiā kǎoshì.",
+          "vietnamese": "Cho dù ngày mai mưa to, tôi cũng sẽ đúng giờ đi thi.",
+          "explanation": "即使 luôn đi cặp với 也 (không đi cùng 但是/可是). Nếu muốn dùng 但是 thì vế 1 phải dùng 虽然 (cho sự thật đã xảy ra).",
+          "rule": "即使……，也…… (nhượng bộ giả thiết); 虽然……，但是…… (chuyển ngoặt sự thật).",
+          "similar_practice": "Sửa lỗi: 不但他学习很好，但是性格也很开朗。 → 他不但学习很好，而且性格也很开朗。"
+        },
+        {
+          "error_type": "Thiếu hoặc thừa thành phần câu",
+          "wrong_sentence": "他们俩个在足球比赛中互相帮助彼此。",
+          "error_part": "Thừa '个' sau '俩' VÀ thừa '彼此' sau '互相帮助'",
+          "correct_sentence": "他们俩在足球比赛中互相帮助。",
+          "pinyin": "Tāmen liǎ zài zúqiú bǐsài zhōng hùxiāng bāngzhù.",
+          "vietnamese": "Hai người họ giúp đỡ lẫn nhau trong trận đấu bóng đá.",
+          "explanation": "1) '俩' đã bao hàm nghĩa '两个' nên thừa '个'; 2) Phó từ '互相' đã mang nghĩa tác động qua lại nên không cần thêm tân ngữ '彼此' phía sau.",
+          "rule": "Không lặp nghĩa: 俩 (không thêm 个); 互相 + V (không thêm 彼此 phía sau).",
+          "similar_practice": "Sửa lỗi: 这部电影的爱情故事很吸引。 → Thiếu tân ngữ '人': 这部电影的爱情故事很吸引人。"
+        }
+      ],
+      "package_notes": "Khi làm bài sửa lỗi sai, hãy rà theo 5 điểm kiểm tra nhanh: (1) Cặp liên từ khớp chưa? (2) Từ ly hợp có bị đặt 了/过/tân ngữ sai chỗ không? (3) Trật tự thời gian–địa điểm? (4) Động–tân kết hợp tự nhiên chưa? (5) Có thừa/thiếu thành phần không?",
+      "exercises": [
+        {
+          "id": "st6_e1", "type": "error_fix", "level": "Nhận biết", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Câu “昨天我帮忙他做完了作业。” sai ở đâu và sửa thế nào?",
+          "options": [
+            "帮忙 là từ ly hợp không mang tân ngữ trực tiếp → Sửa: 昨天我帮他做完了作业。(hoặc 昨天我帮了他的忙)",
+            "昨天 phải đặt cuối câu",
+            "做完了 phải đổi thành 做了完",
+            "Câu trên đúng hoàn toàn"
+          ],
+          "answer": "帮忙 là từ ly hợp không mang tân ngữ trực tiếp → Sửa: 昨天我帮他做完了作业。(hoặc 昨天我帮了他的忙)",
+          "explanation": "帮忙 = 帮 (đgt) + 忙 (tân ngữ), nên không thể gắn thêm tân ngữ '他' ngay phía sau.",
+          "review_tip": "Ôn quy tắc từ ly hợp (帮忙, 吵架, 开玩笑)."
+        },
+        {
+          "id": "st6_e2", "type": "error_fix", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn câu ĐÃ SỬA ĐÚNG cho câu sai: “我不仅会说汉语，而且我弟弟也会说。”",
+          "options": [
+            "不仅我会说汉语，而且我弟弟也会说。",
+            "我不仅会说汉语，但是我弟弟也会说。",
+            "不仅我会说汉语，但是我弟弟也会说。",
+            "我会不仅说汉语，而且我弟弟也会说。"
+          ],
+          "answer": "不仅我会说汉语，而且我弟弟也会说。",
+          "explanation": "Hai vế khác chủ ngữ (我 và 我弟弟) nên 不仅 phải đưa lên TRƯỚC chủ ngữ 1.",
+          "review_tip": "Ôn vị trí liên từ trong câu phức."
+        },
+        {
+          "id": "st6_e3", "type": "error_fix", "level": "Vận dụng", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Hãy nhập câu ĐÃ SỬA ĐÚNG cho câu sai sau (chỉ sửa phần sai): “他的性格很好，大家都愿意跟他互相帮助彼此。”",
+          "hint": "Bỏ từ bị lặp nghĩa ở cuối câu.",
+          "acceptable_answers": ["他的性格很好，大家都愿意跟他互相帮助。", "他的性格很好，大家都愿意互相帮助。"],
+          "answer": "他的性格很好，大家都愿意跟他互相帮助。",
+          "explanation": "互相 đã mang nghĩa 'lẫn nhau', thêm 彼此 ở cuối bị trùng lặp thành phần.",
+          "review_tip": "Ôn lỗi thừa thành phần lặp nghĩa."
+        }
+      ]
+    },
+    {
+      "id": "st6_pkg2",
+      "title": "Gói 2: Lỗi kết hợp từ (搭配不当) & Dùng sai trợ từ / liên từ (HSK 4–5 & BLCU)",
+      "intro": "Bám sát vốn từ HSK 4–5 và chọn lọc từ Chương 16 giáo trình Ngữ pháp tiếng Hán hiện đại (BLCU): 6 lỗi kết hợp hay mất điểm nhất trong đề Chuyên Trung — Chủ–Vị, Động–Tân, Định ngữ–Danh từ, bộ ba 的/地/得, cặp liên từ và động từ không mang tân ngữ trực tiếp.",
+      "source_status": "verified_source",
+      "source_ids": ["PDF_BLCU_GRAMMAR_18"],
+      "items": [
+        {
+          "error_type": "Chủ ngữ – Vị ngữ không khớp (主谓搭配不当)",
+          "wrong_sentence": "秋天的北京是一年中最美丽的季节。",
+          "error_part": "Chủ ngữ “北京” (thành phố) không khớp với “是……季节” (mùa)",
+          "correct_sentence": "北京的秋天是一年中最美丽的季节。",
+          "pinyin": "Běijīng de qiūtiān shì yī nián zhōng zuì měilì de jìjié.",
+          "vietnamese": "Mùa thu của Bắc Kinh là mùa đẹp nhất trong năm.",
+          "explanation": "Trong cụm '秋天的北京', danh từ chính là '北京' (thành phố Bắc Kinh), nên không thể nói 'Bắc Kinh là mùa đẹp nhất'. Muốn giữ '季节' ở cuối, phải đảo lại thành '北京的秋天' (mùa thu của Bắc Kinh).",
+          "rule": "Khi gặp câu 'A 是 B', kiểm tra xem danh từ chính của A và B có cùng nhóm nghĩa không (mùa đi với mùa, người đi với người). Ngoài ra chú ý tương ứng 2 mặt: '学习是否认真' (có chăm hay không) mới khớp '能不能考好' (có thi tốt được hay không).",
+          "similar_practice": "Sửa lỗi: 学习认真是决定能不能考出好成绩的关键。 → Đổi thành: 学习是否认真，是决定能不能考出好成绩的关键。"
+        },
+        {
+          "error_type": "Động từ – Tân ngữ không khớp (动宾搭配不当)",
+          "wrong_sentence": "我们要不断发挥优点，改进缺点。",
+          "error_part": "“发挥优点” và “改进缺点” (ghép động từ với tân ngữ sai thói quen tiếng Trung)",
+          "correct_sentence": "我们要不断发扬优点，改正缺点。",
+          "pinyin": "Wǒmen yào bùduàn fāyáng yōudiǎn, gǎizhèng quēdiǎn.",
+          "vietnamese": "Chúng ta phải không ngừng phát huy ưu điểm, sửa chữa khuyết điểm.",
+          "explanation": "Trong tiếng Trung chuẩn (BLCU p.147), '发挥' đi với 作用 (tác dụng), 水平 (trình độ), 能力 (năng lực) chứ không đi với '优点' (phải dùng '发扬优点'). Tương tự, '改进' (cải tiến) đi với 方法, 工作, còn '缺点/错误' bắt buộc đi với '改正' (sửa chữa).",
+          "rule": "Nhớ cặp cố định HSK 4–5: 发扬 + 优点/精神; 发挥 + 作用/水平/能力; 改正 + 缺点/错误; 改进 + 方法/工作; 提高 + 水平/成绩/效率.",
+          "similar_practice": "Sửa lỗi: 这种学习方法能提高和发挥学生的学习成绩。 → '发挥' không đi với '成绩', bỏ '和发挥' thành: 这种学习方法能提高学生的学习成绩。"
+        },
+        {
+          "error_type": "Từ bổ nghĩa không khớp cả hai danh từ trong cụm 'A 和 B' (修饰语搭配不当)",
+          "wrong_sentence": "一位优秀的老师应该具有丰富的知识和水平。",
+          "error_part": "“丰富的……水平” (tính từ 丰富 chỉ khớp 知识, không khớp 水平)",
+          "correct_sentence": "一位优秀的老师应该具有丰富的知识和很高的水平。",
+          "pinyin": "Yī wèi yōuxiù de lǎoshī yīnggāi jùyǒu fēngfù de zhīshi hé hěn gāo de shuǐpíng.",
+          "vietnamese": "Một người thầy giỏi nên có kiến thức phong phú và trình độ rất cao.",
+          "explanation": "Khi một tính từ đứng trước cụm 'A 和 B', nó phải ghép tự nhiên với CẢ HAI danh từ. Ta nói '丰富的知识' (kiến thức phong phú) và '丰富的经验' (kinh nghiệm phong phú) thì chuẩn, nhưng KHÔNG nói '丰富的水平', mà phải bổ sung từ riêng '很高的水平'.",
+          "rule": "Gặp 'Tính từ + A 和 B' hoặc 'Động từ + A 和 B', hãy tách riêng đọc từng vế để kiểm tra: 丰富的知识 (✅), 丰富的水平 (❌) → thêm từ bổ nghĩa riêng cho vế sau.",
+          "similar_practice": "Sửa lỗi: 公园里种了很多高大的树木和小草。 → '高大' không tả '小草', sửa thành: 公园里种了很多高大的树木和绿色的小草。"
+        },
+        {
+          "error_type": "Dùng sai bộ ba trợ từ 的 / 地 / 得 (结构助词误用)",
+          "wrong_sentence": "大家就学习中存在的一些问题，进行了深入地讨论。",
+          "error_part": "“深入地讨论” (dùng nhầm 地 trước tân ngữ 讨论 sau động từ 进行)",
+          "correct_sentence": "大家就学习中存在的一些问题，进行了深入的讨论。",
+          "pinyin": "Dàjiā jiù xuéxí zhōng cúnzài de yīxiē wèntí, jìnxíng le shēnrù de tǎolùn.",
+          "vietnamese": "Mọi người đã tiến hành thảo luận sâu sắc về một số vấn đề tồn tại trong học tập.",
+          "explanation": "Trợ từ '地' chỉ đứng trước động từ làm hành động chính (VD: 深入地讨论这个问题). Nhưng khi có động từ '进行' (tiến hành) đứng trước, từ '讨论' đã đóng vai trò như một danh từ tân ngữ ('cuộc thảo luận'), nên trước nó BẮT BUỘC dùng '的' (进行了深入的讨论).",
+          "rule": "Thấy '进行 + Tính từ + 的 + 讨论/交流/练习/调查' → LUÔN dùng 的 (không dùng 地). Ngoài ra sau '得' dùng tính từ/cụm miêu tả (写得很有条理), không dùng danh từ trần (sai: 写得条理).",
+          "similar_practice": "Sửa lỗi: 老师耐心地教我们怎样把笔记写得完整、条理、清楚。 → '条理' là danh từ, sửa thành '写得完整、清楚、有条理'."
+        },
+        {
+          "error_type": "Dùng sai cặp từ liên kết (关联词语搭配不当)",
+          "wrong_sentence": "不管天气条件非常不利，但是登山队员仍然克服了困难。",
+          "error_part": "“不管……，但是……” (ghép nhầm 不管 với 但是)",
+          "correct_sentence": "尽管天气条件非常不利，但是登山队员仍然克服了困难。",
+          "pinyin": "Jǐnguǎn tiānqì tiáojiàn fēicháng bùlì, dànshì dēngshān duìyuán réngrán kèfú le kùnnan.",
+          "vietnamese": "Mặc dù điều kiện thời tiết vô cùng bất lợi, nhưng các thành viên đội leo núi vẫn khắc phục được khó khăn.",
+          "explanation": "'不管' (bất kể) bắt buộc đi với câu có lựa chọn/nghi vấn (như 不管天气有多不利) và vế sau dùng '都/也'. Ở đây vế 1 nêu sự thật xác định (非常不利) và vế sau có '但是……仍然', là câu chuyển ngoặt nên phải đổi '不管' thành '尽管' (hoặc '虽然').",
+          "rule": "Khóa chặt 3 cặp: 尽管/虽然 + sự thật……，但是/可是/仍然……; 即使 + giả định……，也……; 不管/无论 + lựa chọn/nghi vấn……，都/也…….",
+          "similar_practice": "Sửa lỗi: 尽管明天可能下雨，我也会准时参加比赛。 → '尽管' không đi với '也' (giả định), đổi '尽管' thành '即使'."
+        },
+        {
+          "error_type": "Động từ không mang tân ngữ trực tiếp (不及物动词/离合词误带宾语)",
+          "wrong_sentence": "他去年刚刚毕业了这所著名的中学。",
+          "error_part": "“毕业了这所中学” (động từ 毕业 không được gắn trực tiếp tên trường ở phía sau)",
+          "correct_sentence": "他去年刚刚从这所著名的中学毕业。",
+          "pinyin": "Tā qùnián gānggāng cóng zhè suǒ zhùmíng de zhōngxué bìyè.",
+          "vietnamese": "Năm ngoái cậu ấy vừa mới tốt nghiệp ngôi trường trung học nổi tiếng này.",
+          "explanation": "Nhiều động từ rất quen trong HSK 4–5 như 毕业 (tốt nghiệp), 帮忙 (giúp đỡ), 见面 (gặp mặt), 结婚 (kết hôn), 生气 (tức giận) KHÔNG mang trực tiếp tân ngữ phía sau. Muốn nêu đối tượng/nơi chốn, phải đưa lên trước bằng giới từ thích hợp (从……毕业, 跟……见面, 跟……结婚, 帮……的忙).",
+          "rule": "Không đặt tân ngữ ngay sau 毕业 / 帮忙 / 见面 / 结婚 / 生气! Phải dùng: 从+trường+毕业; 跟+ai+见面/结婚; 帮+ai+V hoặc 帮+ai+的忙; 生+ai+的气.",
+          "similar_practice": "Sửa lỗi: 我昨天见面了我的初中同学。 → Đổi thành: 我昨天跟我的初中同学见面了。(hoặc 我昨天见到了我的初中同学。)"
+        }
+      ],
+      "package_notes": "Mẹo rà lỗi kết hợp từ (Gói 2): (1) Rút gọn câu về khung cốt lõi A 是 B để kiểm tra logic ('北京是季节' ❌); (2) Tách đôi cụm 'A 和 B' xem từ đứng trước có khớp cả hai không; (3) Thấy '进行 + V2' nhớ dùng '的' (không dùng '地'); (4) Thấy 毕业/见面/帮忙/结婚 kiểm tra ngay xem có lỡ gắn tân ngữ trực tiếp phía sau không.",
+      "exercises": [
+        {
+          "id": "st6_e4", "type": "error_fix", "level": "Nhận biết", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Câu “秋天的北京是一年中最美丽的季节。” mắc lỗi ngữ pháp nào và sửa thế nào cho đúng?",
+          "options": [
+            "Chủ–Vị không khớp (北京 không phải là 季节) → Sửa: 北京的秋天是一年中最美丽的季节。",
+            "Thừa trợ từ 的 → Sửa: 秋天北京是一年中最美丽季节。",
+            "Sai trật tự thời gian → Sửa: 一年中秋天的北京是最美丽的季节。",
+            "Dùng sai tính từ 美丽 → Sửa: 秋天的北京是一年中最漂亮的季节。"
+          ],
+          "answer": "Chủ–Vị không khớp (北京 không phải là 季节) → Sửa: 北京的秋天是一年中最美丽的季节。",
+          "explanation": "Trong '秋天的北京', danh từ chính là '北京' (thành phố), không thể khớp với '是……季节' (mùa). Đảo thành '北京的秋天' thì chủ ngữ chính là '秋天' mới hợp lý.",
+          "review_tip": "Ôn lỗi Chủ–Vị không khớp (主谓搭配不当)."
+        },
+        {
+          "id": "st6_e5", "type": "error_fix", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn câu KHÔNG mắc lỗi kết hợp từ và từ loại:",
+          "options": [
+            "我们要不断发扬优点，改正缺点，同时把笔记写得完整、有条理。",
+            "我们要不断发挥优点，改进缺点，同时把笔记写得完整、条理。",
+            "一位优秀的老师应该具有丰富的知识和水平。",
+            "他去年刚刚毕业了这所中学，昨天又见面了原来的班主任。"
+          ],
+          "answer": "我们要不断发扬优点，改正缺点，同时把笔记写得完整、有条理。",
+          "explanation": "发扬优点, 改正缺点 và 写得有条理 đều chuẩn xác. (B sai 发挥优点/改进缺点/写得条理; C sai 丰富的水平; D sai 毕业 và 见面 gắn trực tiếp tân ngữ phía sau).",
+          "review_tip": "Ôn Động–Tân, cụm 'A 和 B' và động từ không mang tân ngữ trực tiếp."
+        },
+        {
+          "id": "st6_e6", "type": "grammar_mc", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn cặp liên từ ĐÚNG để sửa lỗi câu: “不管天气条件非常不利，但是登山队员仍然克服了困难。”",
+          "options": [
+            "尽管……，但是……",
+            "即使……，但是……",
+            "不管……，可是……",
+            "因为……，但是……"
+          ],
+          "answer": "尽管……，但是……",
+          "explanation": "Vế 1 nêu sự thật xác định và vế 2 chuyển ngoặt (仍然克服了困难) nên dùng cặp '尽管/虽然……，但是……'. Không ghép '不管……但是' hay '即使……但是'.",
+          "review_tip": "Ôn phân biệt 尽管……但是, 即使……也 và 不管……都."
+        },
+        {
+          "id": "st6_e7", "type": "error_fix", "level": "Vận dụng", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Hãy nhập câu ĐÃ SỬA ĐÚNG cho câu sai sau (chỉ sửa 1 chữ trợ từ sai): “大家就学习中存在的问题进行了深入地讨论。”",
+          "hint": "Sau động từ 进行, từ 讨论 đóng vai trò như danh từ tân ngữ, nên trước nó cần trợ từ nào?",
+          "acceptable_answers": ["大家就学习中存在的问题进行了深入的讨论。", "大家就学习中存在的问题，进行了深入的讨论。"],
+          "answer": "大家就学习中存在的问题进行了深入的讨论。",
+          "explanation": "Trong cấu trúc '进行 + Tính từ + 的 + 讨论', phải dùng '的' (进行了深入的讨论), không dùng '地'.",
+          "review_tip": "Ôn phân biệt trợ từ 的 / 地 / 得."
+        }
+      ]
+    },
+    {
+      "id": "st6_pkg3",
+      "title": "Gói 3: Lỗi thiếu/thừa thành phần, trộn lẫn hai mẫu câu & Sai vị trí (HSK 4–5 & BLCU)",
+      "intro": "Chinh phục 6 dạng bệnh câu xuất hiện dày đặc trong đề HSK 5 và đề ôn thi Chuyên Trung (chọn lọc từ Chương 16 giáo trình Ngữ pháp BLCU): dùng cả 通过 và 使 làm mất chủ ngữ, thiếu danh từ cuối cụm tân ngữ, lặp từ thừa nghĩa, trộn lẫn hai mẫu câu và đảo ngược người–vật sau giới từ 对.",
+      "source_status": "verified_source",
+      "source_ids": ["PDF_BLCU_GRAMMAR_18"],
+      "items": [
+        {
+          "error_type": "Dùng cả giới từ đầu câu và 使/让 làm mất chủ ngữ (残缺主语)",
+          "wrong_sentence": "通过这次社会实践活动，使我们学到了很多课本以外的知识。",
+          "error_part": "Dùng đồng thời “通过……” và “使……” khiến cả câu không còn chủ ngữ",
+          "correct_sentence": "通过这次社会实践活动，我们学到了很多课本以外的知识。",
+          "pinyin": "Tōngguò zhè cì shèhuì shíjiàn huódòng, wǒmen xuédào le hěn duō kèběn yǐwài de zhīshi.",
+          "vietnamese": "Thông qua hoạt động thực tế lần này, chúng tôi đã học được rất nhiều kiến thức ngoài sách giáo khoa.",
+          "explanation": "Giới từ '通过' nhốt '这次社会实践活动' vào cụm trạng ngữ, còn chữ '使' lại biến '我们' thành tân ngữ của '使' — thế là cả câu mất sạch chủ ngữ! Chỉ cần bỏ '使' (để '我们' làm chủ ngữ) hoặc bỏ '通过' (để '这次社会实践活动' làm chủ ngữ) là đúng ngay.",
+          "rule": "Gặp khung '通过/从/由于/经过/听了……，使/让……' phải kiểm tra chủ ngữ ngay! Luôn bỏ MỘT trong hai (bỏ giới từ đầu câu HOẶC bỏ '使/让').",
+          "similar_practice": "Sửa lỗi: 听了李明的话，使他心里感到很不舒服。 → Bỏ '听了' (李明的话使他心里感到很不舒服) hoặc bỏ '使' (听了李明的话，他心里感到很不舒服)."
+        },
+        {
+          "error_type": "Thiếu danh từ chính ở cuối cụm tân ngữ dài (残缺宾语中心)",
+          "wrong_sentence": "由于学习压力太大，他一度产生了放弃参加比赛。",
+          "error_part": "Thiếu danh từ chính '的想法' ở cuối cụm “放弃参加比赛”",
+          "correct_sentence": "由于学习压力太大，他一度产生了放弃参加比赛的想法。",
+          "pinyin": "Yóuyú xuéxí yālì tài dà, tā yīdù chǎnshēng le fàngqì cānjiā bǐsài de xiǎngfǎ.",
+          "vietnamese": "Vì áp lực học tập quá lớn, có lúc cậu ấy đã nảy sinh ý định bỏ cuộc không tham gia cuộc thi.",
+          "explanation": "Động từ '产生' (nảy sinh) cần đi với một danh từ như 想法 (ý nghĩ), 兴趣 (hứng thú), 影响 (ảnh hưởng). Cụm '放弃参加比赛' mới chỉ là phần bổ nghĩa nên bị thiếu danh từ chính '的想法' ở cuối câu.",
+          "rule": "Khi phía sau các động từ như 产生, 养成, 培养, 解决 là một cụm rất dài, hãy đọc ghép 'Động từ + 2 chữ cuối câu' để xem có bị rơi mất danh từ không (产生……比赛 ❌ → 产生……的想法 ✅).",
+          "similar_practice": "Sửa lỗi: 我们从小就要养成早睡早起。 → Thiếu danh từ '的好习惯': 我们从小就要养成早睡早起的好习惯。"
+        },
+        {
+          "error_type": "Thừa từ lặp nghĩa (成分赘余)",
+          "wrong_sentence": "我们学校的图书馆里大约有两千多本中文书左右。",
+          "error_part": "Dùng trùng cả 3 từ ước lượng “大约”、 “多” và “左右” cùng một lúc",
+          "correct_sentence": "我们学校的图书馆里大约有两千本中文书。",
+          "pinyin": "Wǒmen xuéxiào de túshūguǎn lǐ dàyuē yǒu liǎngqiān běn Zhōngwén shū.",
+          "vietnamese": "Thư viện trường chúng tôi có khoảng hai nghìn quyển sách tiếng Trung.",
+          "explanation": "Các từ ước lượng '大约' (khoảng), '多' (hơn) và '左右' (khoảng chừng) có nghĩa chồng lên nhau nên chỉ chọn MỘT từ (大约有两千本 / 有两千多本 / 有两千本左右). Tương tự, '避免' đã mang nghĩa 'tránh không để xảy ra' nên không thêm '不要' phía sau (sai: 避免不要出错).",
+          "rule": "Nhớ 4 cặp thừa chữ siêu hay ra đề HSK 4–5: 大约……左右 (chọn 1); 至少……以上 (chọn 1); 避免 + 不要 (bỏ 不要); 互相 + 彼此 (bỏ 彼此).",
+          "similar_practice": "Sửa lỗi: 为了避免以后不要再犯同样的错误，他认真记了笔记。 → Bỏ '不要': 为了避免以后再犯同样的错误，他认真记了笔记。"
+        },
+        {
+          "error_type": "Trộn lẫn hai mẫu câu vào làm một (句式杂糅)",
+          "wrong_sentence": "他这次考试进步很快，是因为每天坚持复习的原因。",
+          "error_part": "“是因为……的原因” (trộn lẫn hai mẫu câu “是因为……” và “……的原因是……”)",
+          "correct_sentence": "他这次考试进步很快，是因为每天坚持复习。",
+          "pinyin": "Tā zhè cì kǎoshì jìnbù hěn kuài, shì yīnwèi měitiān jiānchí fùxí.",
+          "vietnamese": "Kỳ thi lần này cậu ấy tiến bộ rất nhanh là vì ngày nào cũng kiên trì ôn tập.",
+          "explanation": "Người viết trộn hai cách nói cùng nghĩa vào một câu: cách 1 '是因为每天坚持复习' và cách 2 '原因是每天坚持复习'. Mỗi câu chỉ được chọn MỘT khuôn trọn vẹn, tuyệt đối không lấy đầu khuôn này nối với đuôi khuôn kia.",
+          "rule": "3 cặp mẫu câu hay bị trộn nhất khi ôn thi Chuyên Trung: (1) 是因为…… + ……的原因 (sai: 是因为……的原因); (2) 必须…… + 非……不可 (sai: 必须……不可); (3) 对于…… + ……来说 (sai: 对于……上).",
+          "similar_practice": "Sửa lỗi: 要提高学习效率，必须采用科学的方法不可。 → Chọn 1 khuôn: 要提高学习效率，必须采用科学的方法。(hoặc 非采用科学的方法不可。)"
+        },
+        {
+          "error_type": "Đổi khuôn câu giữa chừng khi đang liệt kê (句式不统一)",
+          "wrong_sentence": "大扫除时，同学们有的扫地，有的擦玻璃，也有在操场上捡垃圾的。",
+          "error_part": "“也有在操场上捡垃圾的” (đổi ngang từ mẫu “有的……” sang mẫu “有……的”)",
+          "correct_sentence": "大扫除时，同学们有的扫地，有的擦玻璃，还有的在操场上捡垃圾。",
+          "pinyin": "Dàsǎochú shí, tóngxuémen yǒude sǎodì, yǒude cā bōli, háiyǒude zài cāochǎng shàng jiǎn lājī.",
+          "vietnamese": "Khi tổng vệ sinh, các bạn học sinh người thì quét nhà, người thì lau kính, lại có người nhặt rác trên sân trường.",
+          "explanation": "'有的……，有的……' và '有……的，有……的' là hai khuôn liệt kê riêng, không trộn chung trong cùng một câu. Hai vế đầu đã mở bằng '有的 + Hành động' nên vế cuối phải viết đồng bộ là '还有的在操场上捡垃圾'.",
+          "rule": "Khi liệt kê nhiều vế song song (有的…有的…, 一方面…另一方面…), giữ nguyên một khuôn câu từ đầu đến cuối; đừng nối dính thêm một vế đánh giá mới vào đuôi nếu chưa tách dấu phẩy.",
+          "similar_practice": "Sửa lỗi: 学外语，一方面要多听多说，另一方面也要多读多写是非常重要的。 → Tách vế cuối: ……另一方面也要多读多写，这也是非常重要的。"
+        },
+        {
+          "error_type": "Đặt sai thứ tự cụm bổ nghĩa & Đảo ngược người–vật với giới từ 对 (位置不当)",
+          "wrong_sentence": "定期复习是有效的巩固知识、提高成绩的方法。",
+          "error_part": "Đặt tính từ ngắn “有效的” ra trước cụm động từ dài “巩固知识、提高成绩的”",
+          "correct_sentence": "定期复习是巩固知识、提高成绩的有效方法。",
+          "pinyin": "Dìngqī fùxí shì gǒnggù zhīshi, tígāo chéngjì de yǒuxiào fāngfǎ.",
+          "vietnamese": "Ôn tập định kỳ là phương pháp hiệu quả để củng cố kiến thức và nâng cao thành tích.",
+          "explanation": "Khi một danh từ (方法) có nhiều phần bổ nghĩa đứng trước, cụm động từ dài ('巩固知识、提高成绩的') đứng TRƯỚC, còn tính từ ngắn đi sát với danh từ ('有效') đứng NGAY TRƯỚC '方法'. Ngoài ra, với mẫu câu dùng giới từ '对', NGƯỜI (ai thấy quen/lạ/thích) phải đứng TRƯỚC '对', còn SỰ VẬT đứng SAU '对'.",
+          "rule": "1) Nhiều phần bổ nghĩa trước danh từ: Sở hữu/Thời gian → Số lượng → Cụm động từ dài → Tính từ ngắn + Danh từ; 2) Mẫu '对': Người + 对 + Sự vật + 熟悉/陌生/感兴趣.",
+          "similar_practice": "Sửa lỗi đảo người–vật: 这位作家的名字对现在的年轻人可能还有些陌生。 → 现在的年轻人对这位作家的名字可能还有些陌生。"
+        }
+      ],
+      "package_notes": "4 bước kiểm tra nhanh cho Gói 3: (1) Thấy 通过/由于/经过 đầu câu → soi ngay xem vế sau có lỡ thêm 使/让 làm mất chủ ngữ không; (2) Sau 产生/养成/培养 là cụm dài → ghép thử với 2 chữ cuối xem có thiếu danh từ không; (3) Soi cuối câu xem có lặp nghĩa (大约…左右, 避免不要) hay trộn 2 khuôn câu (是因为…的原因, 必须…不可) không; (4) Với '对', đặt NGƯỜI trước '对', VẬT sau '对'.",
+      "exercises": [
+        {
+          "id": "st6_e8", "type": "error_fix", "level": "Nhận biết", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Câu “通过老师的耐心讲解，使我彻底明白了这道题。” sai ở đâu và cách sửa chuẩn là gì?",
+          "options": [
+            "Dùng đồng thời 通过 và 使 làm câu thiếu chủ ngữ → Bỏ 通过 HOẶC bỏ 使",
+            "Sai vị trí trạng ngữ 彻底 → Chuyển 彻底 ra cuối câu",
+            "Sai trợ từ 的 sau 老师 → Đổi 的 thành 地",
+            "Dùng sai lượng từ 道 → Đổi 这道题 thành 这张题"
+          ],
+          "answer": "Dùng đồng thời 通过 và 使 làm câu thiếu chủ ngữ → Bỏ 通过 HOẶC bỏ 使",
+          "explanation": "Bỏ '使' → '通过老师的耐心讲解，我彻底明白了这道题。' (chủ ngữ: 我). Bỏ '通过' → '老师的耐心讲解使我彻底明白了这道题。' (chủ ngữ: 老师的耐心讲解).",
+          "review_tip": "Ôn lỗi dùng cả 通过 và 使 làm mất chủ ngữ."
+        },
+        {
+          "id": "st6_e9", "type": "error_fix", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Câu nào sau đây mắc lỗi TRỘN LẪN HAI MẪU CÂU (句式杂糅)?",
+          "options": [
+            "他今天迟到，是因为路上严重堵车的原因。",
+            "他今天迟到，是因为路上严重堵车。",
+            "他今天迟到的原因是路上严重堵车。",
+            "因为路上严重堵车，所以他今天迟到了。"
+          ],
+          "answer": "他今天迟到，是因为路上严重堵车的原因。",
+          "explanation": "Câu A trộn hai khuôn chuẩn: '是因为……' (câu B) và '……的原因是……' (câu C). Chỉ được giữ lại một khuôn.",
+          "review_tip": "Ôn các cặp mẫu câu hay bị trộn lẫn."
+        },
+        {
+          "id": "st6_e10", "type": "reorder", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Sửa lỗi đảo ngược người–vật với giới từ '对' bằng cách sắp xếp lại các cụm từ sau thành câu đúng:",
+          "tokens": ["这位作家的名字", "可能", "现在的年轻人", "还有些陌生。", "对"],
+          "answer": "现在的年轻人对这位作家的名字可能还有些陌生。",
+          "explanation": "Người cảm nhận ('现在的年轻人') phải đứng làm chủ ngữ TRƯỚC giới từ '对', còn sự vật ('这位作家的名字') đứng SAU '对'.",
+          "review_tip": "Ôn trật tự mẫu câu 'Người + 对 + Sự vật + 熟悉/陌生/感兴趣'."
+        },
+        {
+          "id": "st6_e11", "type": "error_fix", "level": "Vận dụng", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Hãy nhập câu ĐÃ SỬA ĐÚNG cho câu bị trộn hai mẫu câu sau (chỉ giữ 1 mẫu câu chuẩn): “要学好汉语，必须每天坚持练习不可。”",
+          "hint": "Chỉ giữ mẫu '必须……' (bỏ 不可) HOẶC đổi sang mẫu '非……不可'.",
+          "acceptable_answers": [
+            "要学好汉语，必须每天坚持练习。",
+            "要学好汉语，非每天坚持练习不可。"
+          ],
+          "answer": "要学好汉语，必须每天坚持练习。",
+          "explanation": "Không trộn lẫn hai mẫu '必须……' và '非……不可' vào cùng một câu.",
+          "review_tip": "Ôn cách tách hai mẫu câu bị trộn lẫn (句式杂糅)."
+        }
+      ]
+    }
+  ],
+  "comprehensive_test": [
+    {
+      "id": "st6_ct1", "type": "error_fix", "level": "Vận dụng", "mistake_category": "Kiến thức nâng cao",
+      "prompt": "[Tổng hợp Trạm 6] Câu nào sau đây KHÔNG mắc bất kỳ lỗi nào?",
+      "options": [
+        "虽然这次考试题目很复杂，然而他依然冷静地完成了。",
+        "虽然这次考试题目很复杂，所以他依然冷静地完成了。",
+        "即使这次考试题目很复杂，但是他依然冷静地完成了。",
+        "无论这次考试题目难不难，他都冷静地完成了。"
+      ],
+      "answer": "虽然这次考试题目很复杂，然而他依然冷静地完成了。",
+      "explanation": "虽然……然而…… là cặp chuyển ngoặt hoàn toàn chuẩn văn viết. (Câu B sai 所以, câu C sai 即使+但是, câu D sai 无论 kết hợp sự việc đã xảy ra cố định).",
+      "review_tip": "Tổng ôn các cặp liên từ HSK 4–5 (Gói 1 & Gói 2)."
+    },
+    {
+      "id": "st6_ct2", "type": "error_fix", "level": "Nhận biết", "mistake_category": "Kiến thức nâng cao",
+      "prompt": "[Tổng hợp Trạm 6] Câu nào sau đây MẮC LỖI kết hợp từ (搭配不当)?",
+      "options": [
+        "我们要不断发扬优点，改正缺点。",
+        "大家就学习中的问题进行了深入的讨论。",
+        "通过这次活动，我们提高了团队合作能力。",
+        "秋天的北京是一年中最美丽的季节。"
+      ],
+      "answer": "秋天的北京是一年中最美丽的季节。",
+      "explanation": "'北京' là thành phố, không thể khớp với vị ngữ '是……季节' (mùa). Phải sửa thành '北京的秋天是一年中最美丽的季节。' Các câu A, B, C đều đúng chuẩn.",
+      "review_tip": "Ôn lỗi Chủ–Vị, Động–Tân và trợ từ 的/地/得 (Gói 2)."
+    },
+    {
+      "id": "st6_ct3", "type": "error_fix", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+      "prompt": "[Tổng hợp Trạm 6] Câu nào sau đây ĐÚNG hoàn toàn (không thiếu thành phần, không thừa từ, không trộn mẫu câu)?",
+      "options": [
+        "由于每天坚持锻炼，使他的身体越来越健康。",
+        "我们学校的图书馆里大约有两千本中文书。",
+        "要学好外语，必须坚持每天练习不可。",
+        "他一度产生了放弃参加这次比赛。"
+      ],
+      "answer": "我们学校的图书馆里大约有两千本中文书。",
+      "explanation": "Câu B chỉ dùng một từ ước lượng '大约' nên hoàn toàn chuẩn. (A thiếu chủ ngữ do 由于……使……; C trộn mẫu câu 必须……不可; D thiếu danh từ chính 的想法 ở cuối câu).",
+      "review_tip": "Ôn 3 lỗi lớn Gói 3: thiếu thành phần, thừa từ lặp nghĩa và trộn lẫn mẫu câu."
+    },
+    {
+      "id": "st6_ct4", "type": "error_fix", "level": "Vận dụng", "mistake_category": "Kiến thức nâng cao",
+      "prompt": "[Tổng hợp Trạm 6] Hãy sửa câu sai kinh điển sau để khôi phục chủ ngữ rõ ràng: “通过这次汉语比赛，使我大大提高了口语水平。”",
+      "hint": "Bỏ '通过' HOẶC bỏ '使' (chọn 1 trong 2 cách đều được tính điểm).",
+      "acceptable_answers": [
+        "通过这次汉语比赛，我大大提高了口语水平。",
+        "这次汉语比赛，使我大大提高了口语水平。",
+        "这次汉语比赛使我大大提高了口语水平。"
+      ],
+      "answer": "通过这次汉语比赛，我大大提高了口语水平。",
+      "explanation": "Lạm dụng đồng thời giới từ '通过' và động từ sai khiến '使' làm mất chủ ngữ. Chỉ cần bỏ '使' (chủ ngữ là 我) hoặc bỏ '通过' (chủ ngữ là 这次汉语比赛).",
+      "review_tip": "Ôn kỹ thuật sửa lỗi thiếu chủ ngữ do giới từ (Gói 3)."
+    }
+  ]
+}

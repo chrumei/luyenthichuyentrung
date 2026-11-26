@@ -1,0 +1,347 @@
+{
+  "id": "station5",
+  "kind": "confusable",
+  "icon": "🔍",
+  "shortTitle": "Trạm 5: Chữ Hán dễ nhầm",
+  "title_vi": "TRẠM 5. CHỮ HÁN DỄ NHẦM",
+  "title_zh": "易混淆汉字",
+  "description": "Phân biệt các cặp/nhóm chữ hình gần giống, chỉ khác 1–2 nét hoặc khác bộ thủ gợi nghĩa (nhấp vào từng chữ để mở Hình động nét viết và Bộ thủ ở bảng bên phải!).",
+  "packages": [
+    {
+      "id": "st5_pkg1",
+      "title": "Gói 1: 5 nhóm chữ Hán siêu dễ viết sai & đọc nhầm",
+      "intro": "Gồm các cặp chữ kinh điển mà học sinh ôn thi Chuyên Trung cực hay mất điểm oan khi viết chính tả hoặc đọc lướt: 己/已/巳, 即/既, 辩/辨, 叮/盯, 吵/炒.",
+      "source_status": "verified_source",
+      "source_ids": ["SRC_ZDIC", "SRC_HANZI_WRITER", "SRC_CP_CONFUSABLE"],
+      "items": [
+        {
+          "group_label": "己 — 已 — 巳",
+          "chars": [
+            { "char": "己", "pinyin": "jǐ", "meaning": "bản thân, tự mình", "structure_diff": "Nét sổ cong móc MỞ HẲN (không nhô lên chạm nét ngang trên).", "examples": "自己 (zìjǐ – bản thân)" },
+            { "char": "已", "pinyin": "yǐ", "meaning": "đã (hoàn thành)", "structure_diff": "Nét sổ cong móc NHÔ LÊN NỬA CHỪNG.", "examples": "已经 (yǐjīng – đã), 而已 (éryǐ)" },
+            { "char": "巳", "pinyin": "sì", "meaning": "chi Tỵ (trong 12 địa chi)", "structure_diff": "Đóng KÍN HOÀN TOÀN góc trên trái.", "examples": "巳时 (sìshí – giờ Tỵ)" }
+          ],
+          "memory_tip": "Câu thần chú truyền thống cực dễ nhớ: “闭口巳 (bìkǒu sì – đóng kín), 半口已 (bànkǒu yǐ – mở nửa), 开口己 (kāikǒu jǐ – mở hết)!”"
+        },
+        {
+          "group_label": "即 — 既",
+          "chars": [
+            { "char": "即", "pinyin": "jí", "meaning": "tức thì, cho dù", "structure_diff": "Bên phải là bộ TIẾT 卩 (2 nét gọn – như người quỳ lại gần).", "examples": "即使 (jíshǐ – cho dù), 立即 (lìjí – lập tức)" },
+            { "char": "既", "pinyin": "jì", "meaning": "đã (rồi)", "structure_diff": "Bên phải là bộ 旡 (4 nét xòe ra – ăn xong quay đầu đi).", "examples": "既然 (jìrán – đã... thì), 既……又……" }
+          ],
+          "memory_tip": "Nhớ theo bài HSK 4: 即使 (bên phải ít nét hơn: 卩) là 'cho dù'; 既然 (bên phải nhiều nét hơn: 旡) là 'đã... thì'!"
+        },
+        {
+          "group_label": "辩 — 辨",
+          "chars": [
+            { "char": "辩", "pinyin": "biàn", "meaning": "biện luận, tranh luận", "structure_diff": "Ở giữa hai chữ 辛 là bộ NGÔN 讠 (dùng lời nói để tranh biện).", "examples": "辩论 (biànlùn – tranh luận), 争辩" },
+            { "char": "辨", "pinyin": "biàn", "meaning": "phân biệt, tách bạch", "structure_diff": "Ở giữa hai chữ 辛 là hai nét 刂 (như lưỡi dao phân tách rõ đúng sai).", "examples": "辨析 (biànxī – phân biệt), 分辨 (fēnbiàn)" }
+          ],
+          "memory_tip": "Tranh biện phải dùng LỜI NÓI (讠 → 辩); Phân biệt phải TÁCH RẠCH RÒI (刂 → 辨)!"
+        },
+        {
+          "group_label": "叮 — 盯",
+          "chars": [
+            { "char": "叮", "pinyin": "dīng", "meaning": "muỗi đốt/chích; dặn dò", "structure_diff": "Bên trái là bộ KHẨU 口 (miệng / vòi chích).", "examples": "被蚊子叮醒了 (HSK 5 上 Bài 1), 叮嘱 (dặn dò)" },
+            { "char": "盯", "pinyin": "dīng", "meaning": "nhìn chằm chằm", "structure_diff": "Bên trái là bộ MỤC 目 (con mắt).", "examples": "盯着看 (nhìn chằm chằm)" }
+          ],
+          "memory_tip": "Muỗi đốt hay dặn dò dùng MIỆNG (口 → 叮); Nhìn chằm chằm phải dùng MẮT (目 → 盯)!"
+        },
+        {
+          "group_label": "吵 — 炒",
+          "chars": [
+            { "char": "吵", "pinyin": "chǎo", "meaning": "ồn ào, cãi nhau", "structure_diff": "Bên trái là bộ KHẨU 口 (dùng miệng nói ồn / cãi nhau).", "examples": "吵架 (cãi nhau), 吵醒 (làm ồn tỉnh giấc)" },
+            { "char": "炒", "pinyin": "chǎo", "meaning": "xào, rang (nấu ăn)", "structure_diff": "Bên trái là bộ HỎA 火 (dùng lửa để xào thức ăn).", "examples": "炒菜 (xào món ăn), 蛋炒饭 (cơm chiên trứng)" }
+          ],
+          "memory_tip": "Cãi nhau ồn ào bằng MIỆNG (口 → 吵); Xào đồ ăn phải có LỬA (火 → 炒)!"
+        }
+      ],
+      "package_notes": "80% chữ Hán là chữ hình thanh (một nửa gợi âm, một nửa là bộ thủ gợi nghĩa). Khi gặp 2 chữ đọc giống nhau, hãy nhìn thẳng vào BỘ THỦ gợi nghĩa để không bao giờ viết nhầm!",
+      "exercises": [
+        {
+          "id": "st5_e1", "type": "context_mc", "level": "Nhận biết", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn từ viết ĐÚNG chính tả chữ Hán cho câu: “______下雨，我也要去上课。”",
+          "options": ["即使", "既使", "即然", "既然"],
+          "answer": "即使",
+          "explanation": "'Cho dù' là 即使 (chữ 即 bên phải là bộ 卩, khác với 既 trong 既然).",
+          "review_tip": "Phân biệt 即 (即使) và 既 (既然)."
+        },
+        {
+          "id": "st5_e2", "type": "context_mc", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn chữ ĐÚNG điền vào cụm “近义词______析” (phân biệt từ cận nghĩa):",
+          "options": ["辨", "辩", "办", "瓣"],
+          "answer": "辨",
+          "explanation": "Phân biệt rõ rệt dùng chữ 辨 (ở giữa có nét 刂 phân tách), không dùng 辩 (bộ ngôn 讠 – tranh biện).",
+          "review_tip": "Phân biệt 辩 và 辨."
+        },
+        {
+          "id": "st5_e3", "type": "error_fix", "level": "Vận dụng", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Tìm chữ viết SAI trong câu sau: “昨晚半夜我被蚊子盯醒了，而且外面太炒了。”",
+          "options": [
+            "Sai 2 chữ: '盯' sửa thành '叮' (bộ 口), '炒' sửa thành '吵' (bộ 口).",
+            "Chỉ sai chữ '盯' sửa thành '叮'.",
+            "Chỉ sai chữ '炒' sửa thành '吵'.",
+            "Cả câu viết đúng hoàn toàn."
+          ],
+          "answer": "Sai 2 chữ: '盯' sửa thành '叮' (bộ 口), '炒' sửa thành '吵' (bộ 口).",
+          "explanation": "Muỗi đốt là 叮 (bộ 口), còn 盯 (bộ 目) là nhìn chằm chằm; ồn ào là 吵 (bộ 口), còn 炒 (bộ 火) là xào thức ăn.",
+          "review_tip": "Xem lại bộ thủ gợi nghĩa của 叮/盯 và 吵/炒."
+        }
+      ]
+    },
+    {
+      "id": "st5_pkg2",
+      "title": "Gói 2: 6 nhóm chữ chỉ khác 1 nét hoặc bộ thủ gợi nghĩa (未/末 · 晴/睛 · 请/清/情 · 陪/部 · 拔/拨 · 具/真)",
+      "intro": "Tập trung 6 nhóm chữ xuất hiện dày đặc trong giáo trình HSK 4–5 và đề thi Chuyên Trung: chỉ cần lệch một nét dài–ngắn, đảo vị trí bộ thủ trái–phải hoặc nhầm bộ thủ gợi nghĩa là sai hẳn nghĩa câu.",
+      "source_status": "verified_source",
+      "source_ids": ["SRC_ZDIC", "SRC_HANZI_WRITER", "PDF_HSK4_SHANG", "PDF_HSK5_SHANG"],
+      "items": [
+        {
+          "group_label": "未 — 末",
+          "chars": [
+            { "char": "未", "pinyin": "wèi", "meaning": "chưa; tương lai", "structure_diff": "Nét ngang TRÊN NGẮN hơn nét ngang DƯỚI (như cành non mới nhú, chưa hết).", "examples": "未来 (wèilái – tương lai), 未必 (wèibì – chưa chắc)" },
+            { "char": "末", "pinyin": "mò", "meaning": "cuối cùng, phần ngọn", "structure_diff": "Nét ngang TRÊN DÀI hơn nét ngang DƯỚI (vươn tới ngọn, chạm điểm cuối).", "examples": "周末 (zhōumò – cuối tuần), 期末 (qīmò – cuối kỳ)" }
+          ],
+          "memory_tip": "Nhớ nhanh bằng độ dài nét ngang trên: “Trên NGẮN là 未 (chưa hết, còn 未来/未必); Trên DÀI là 末 (đã tới ngọn cuối cùng: 周末/期末)!”"
+        },
+        {
+          "group_label": "晴 — 睛",
+          "chars": [
+            { "char": "晴", "pinyin": "qíng", "meaning": "trời nắng, quang đãng", "structure_diff": "Bên trái là bộ NHẬT 日 (mặt trời – chỉ có 1 nét ngang bên trong).", "examples": "晴天 (qíngtiān – trời nắng), 晴朗 (qínglǎng – trời quang mây tạnh)" },
+            { "char": "睛", "pinyin": "jīng", "meaning": "con ngươi, đôi mắt", "structure_diff": "Bên trái là bộ MỤC 目 (con mắt – có 2 nét ngang bên trong).", "examples": "眼睛 (yǎnjing – đôi mắt), 闭上眼睛 (bì shàng yǎnjing – nhắm mắt lại)" }
+          ],
+          "memory_tip": "Trời nắng phải có MẶT TRỜI (bộ 日 1 nét ngang → 晴天); Đôi mắt phải có BỘ MỤC (bộ 目 2 nét ngang → 眼睛)!"
+        },
+        {
+          "group_label": "请 — 清 — 情",
+          "chars": [
+            { "char": "请", "pinyin": "qǐng", "meaning": "mời, xin phép", "structure_diff": "Bên trái là bộ NGÔN 讠 (dùng lời nói lịch sự để mời hoặc xin).", "examples": "请假 (qǐngjià – xin nghỉ phép), 请问 (qǐngwèn – xin hỏi)" },
+            { "char": "清", "pinyin": "qīng", "meaning": "trong trẻo, rõ ràng, sạch sẽ", "structure_diff": "Bên trái là bộ THỦY 氵 (dòng nước trong sạch, nhìn thấu rõ ràng).", "examples": "清楚 (qīngchu – rõ ràng), 清洁 (qīngjié – sạch sẽ, vệ sinh)" },
+            { "char": "情", "pinyin": "qíng", "meaning": "tình cảm, tâm trạng", "structure_diff": "Bên trái là bộ TÂM ĐỨNG 忄 (cảm xúc trong trái tim).", "examples": "热情 (rèqíng – nhiệt tình), 心情 (xīnqíng – tâm trạng)" }
+          ],
+          "memory_tip": "Cùng phần gợi âm 青 bên phải, chỉ đổi bộ thủ bên trái: mở lời xin/mời dùng NGÔN (讠 → 请), trong sạch rõ ràng dùng THỦY (氵 → 清), tâm trạng/tình cảm dùng TÂM (忄 → 情)!"
+        },
+        {
+          "group_label": "陪 — 部",
+          "chars": [
+            { "char": "陪", "pinyin": "péi", "meaning": "ở bên cạnh, đi cùng, bầu bạn", "structure_diff": "Bộ 阝 nằm BÊN TRÁI (bộ Phụ – gò đất), chữ 咅 nằm bên phải.", "examples": "陪伴 (péibàn – bầu bạn, ở bên), 陪朋友 (péi péngyou – đi cùng bạn)" },
+            { "char": "部", "pinyin": "bù", "meaning": "bộ phận, phần, toàn bộ", "structure_diff": "Bộ 阝 nằm BÊN PHẢI (bộ Ấp – khu vực/phần), chữ 咅 nằm bên trái.", "examples": "全部 (quánbù – toàn bộ), 部分 (bùfen – bộ phận, một phần)" }
+          ],
+          "memory_tip": "Hai chữ y hệt thành phần (咅 và 阝) nhưng đảo chỗ trái–phải: “阝 ở TRÁI là Bầu bạn đi cùng (陪: 陪伴/陪朋友); 阝 ở PHẢI là Bộ phận (部: 全部/部分)!”"
+        },
+        {
+          "group_label": "拔 — 拨",
+          "chars": [
+            { "char": "拔", "pinyin": "bá", "meaning": "nhổ lên, kéo lên; độ cao", "structure_diff": "Bên trái là bộ TÀI GẢY 扌, bên phải là chữ 友 thêm một nét CHẤM 丶 (犮).", "examples": "海拔 (hǎibá – độ cao so với mực nước biển), 拔牙 (báyá – nhổ răng)" },
+            { "char": "拨", "pinyin": "bō", "meaning": "bấm số gọi, gẩy", "structure_diff": "Bên trái là bộ TÀI GẢY 扌, bên phải là chữ 发 (phát).", "examples": "拨电话 (bō diànhuà – gọi điện), 拨打 (bōdǎ – bấm số gọi)" }
+          ],
+          "memory_tip": "Cả hai đều có bộ tay 扌: 拨 (bō) có chữ 发 bên phải — bấm số để PHÁT tín hiệu gọi điện (拨电话/拨打); còn 拔 (bá) có 友+丶 (犮) — dùng sức nhổ lên, vươn cao (拔牙/海拔)!"
+        },
+        {
+          "group_label": "具 — 真",
+          "chars": [
+            { "char": "具", "pinyin": "jù", "meaning": "công cụ, đồ dùng; có sẵn", "structure_diff": "KHÔNG có đầu 十 phía trên; bên trong khung có 3 nét ngang ngắn, dưới cùng là 八.", "examples": "具体 (jùtǐ – cụ thể), 工具 (gōngjù – công cụ), 家具 (jiājù – đồ nội thất)" },
+            { "char": "真", "pinyin": "zhēn", "meaning": "thật, chân chính, nghiêm túc", "structure_diff": "CÓ thêm đầu 十 phía trên chữ 具 (bên trong khung cũng có 3 nét ngang ngắn!).", "examples": "认真 (rènzhēn – chăm chỉ, nghiêm túc), 真正 (zhēnzhèng – thực sự), 天真 (tiānzhēn – ngây thơ)" }
+          ],
+          "memory_tip": "Nhớ công thức “十 + 具 = 真”: chữ 真 có đầu 十 ở trên (thập toàn mới là 真正/认真), còn 具 không có đầu 十 (具体/工具/家具). Lưu ý cả hai chữ đều có ĐỦ 3 nét ngang bên trong khung!"
+        }
+      ],
+      "package_notes": "Khi ôn 6 nhóm chữ này, đừng chỉ học thuộc bằng mắt lướt qua: hãy để ý kỹ độ dài nét (未/末), vị trí trái–phải của bộ thủ (陪/部), phần đầu 十 (具/真) và bộ thủ gợi nghĩa (晴/睛, 请/清/情, 拔/拨).",
+      "exercises": [
+        {
+          "id": "st5_p2_e1", "type": "context_mc", "level": "Nhận biết", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn cặp chữ viết ĐÚNG chính tả cho câu: “这个周______天气非常______朗，我们去公园散步吧。”",
+          "options": ["末 / 晴", "未 / 晴", "末 / 睛", "未 / 睛"],
+          "answer": "末 / 晴",
+          "explanation": "Cuối tuần là 周末 (nét ngang trên dài hơn nét dưới: 末); trời quang đãng là 晴朗 (bộ Nhật 日 gợi mặt trời, không phải bộ Mục 目 trong 眼睛).",
+          "review_tip": "Phân biệt 未/末 (ngắn–dài) và 晴/睛 (bộ 日 vs 目)."
+        },
+        {
+          "id": "st5_p2_e2", "type": "context_mc", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn dãy chữ ĐÚNG lần lượt điền vào câu: “我昨天______假去看病，今天心______好多了，思路也更______楚了。”",
+          "options": ["请 — 情 — 清", "清 — 情 — 请", "请 — 清 — 情", "情 — 请 — 清"],
+          "answer": "请 — 情 — 清",
+          "explanation": "请假 (xin nghỉ phép dùng bộ Ngôn 讠), 心情 (tâm trạng dùng bộ Tâm 忄), 清楚 (rõ ràng dùng bộ Thủy 氵).",
+          "review_tip": "Nhớ 3 bộ thủ gợi nghĩa của 请 (讠), 清 (氵), 情 (忄)."
+        },
+        {
+          "id": "st5_p2_e3", "type": "context_mc", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn cặp chữ viết ĐÚNG chính tả cho câu: “他去医院______牙前，先给妈妈______了一个电话。”",
+          "options": ["拔 / 拨", "拨 / 拔", "拔 / 拔", "拨 / 拨"],
+          "answer": "拔 / 拨",
+          "explanation": "Nhổ răng là 拔牙 (bên phải là 友+丶); bấm số gọi điện là 拨电话 (bên phải là chữ 发).",
+          "review_tip": "Phân biệt 拔 (拔牙/海拔) và 拨 (拨电话/拨打)."
+        },
+        {
+          "id": "st5_p2_e4", "type": "error_fix", "level": "Vận dụng", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Tìm lỗi sai mặt chữ trong câu sau: “大部分计划都很认具，而且好朋友一直部伴在我身边。”",
+          "options": [
+            "Sai 2 chữ: '具' sửa thành '真' (认真), '部' trong '部伴' sửa thành '陪' (陪伴).",
+            "Chỉ sai chữ '具' sửa thành '真' (认真).",
+            "Chỉ sai chữ '部' trong '大部分' sửa thành '陪'.",
+            "Cả câu viết đúng hoàn toàn."
+          ],
+          "answer": "Sai 2 chữ: '具' sửa thành '真' (认真), '部' trong '部伴' sửa thành '陪' (陪伴).",
+          "explanation": "大部分 (bộ phận dùng 部, 阝 bên phải) viết đúng; nghiêm túc phải là 认真 (có đầu 十 ở trên), còn bầu bạn phải là 陪伴 (bộ 阝 bên trái).",
+          "review_tip": "Ôn cặp 陪/部 (trái–phải của 阝) và 具/真 (có/không có đầu 十)."
+        }
+      ]
+    },
+    {
+      "id": "st5_pkg3",
+      "title": "Gói 3: 6 nhóm chữ đồng âm / gần âm siêu dễ viết sai chính tả (历/厉 · 代/袋 · 须/需 · 坐/座 · 象/像 · 蓝/篮)",
+      "intro": "Gồm 6 cặp chữ đọc giống hệt nhau nên cực kỳ dễ chọn nhầm khi gõ Pinyin hoặc viết chính tả (听写) trong đề thi Chuyên Trung. Bí quyết là bám vào từ loại và bộ thủ gợi nghĩa!",
+      "source_status": "verified_source",
+      "source_ids": ["SRC_ZDIC", "SRC_HANZI_WRITER", "PDF_HSK4_XIA", "PDF_HSK5_SHANG"],
+      "items": [
+        {
+          "group_label": "历 — 厉",
+          "chars": [
+            { "char": "历", "pinyin": "lì", "meaning": "lịch sử, trải qua, tờ lịch", "structure_diff": "Bên ngoài là bộ HÁN 厂, bên trong là chữ LỰC 力 (trải qua nhiều công sức).", "examples": "历史 (lìshǐ – lịch sử), 经历 (jīnglì – trải nghiệm), 日历 (rìlì – lịch ngày)" },
+            { "char": "厉", "pinyin": "lì", "meaning": "lợi hại, nghiêm khắc", "structure_diff": "Bên ngoài là bộ HÁN 厂, bên trong là chữ VẠN 万.", "examples": "厉害 (lìhai – lợi hại, giỏi, dữ dội), 严厉 (yánlì – nghiêm khắc)" }
+          ],
+          "memory_tip": "Trải qua lịch sử, kinh nghiệm phải tốn SỨC LỰC (厂 + 力 → 历: 历史/经历/日历); Lợi hại hay nghiêm khắc gấp VẠN lần (厂 + 万 → 厉: 厉害/严厉)!"
+        },
+        {
+          "group_label": "代 — 袋",
+          "chars": [
+            { "char": "代", "pinyin": "dài", "meaning": "đại diện, thay thế, thời đại", "structure_diff": "Bên trái là bộ NHÂN ĐỨNG 亻 (con người đại diện/thay thế), bên phải là 弋.", "examples": "代表 (dàibiǎo – đại diện, đại biểu), 现代 (xiàndài – hiện đại), 代替 (dàitì – thay thế)" },
+            { "char": "袋", "pinyin": "dài", "meaning": "cái túi, bao đựng", "structure_diff": "Phía trên là 代 (gợi âm dài), phía dưới là bộ Y 衣 (vải vóc/quần áo → túi đựng).", "examples": "塑料袋 (sùliàodài – túi ni-lông), 口袋 (kǒudài – túi áo/quần), 书袋 (shūdài – túi đựng sách)" }
+          ],
+          "memory_tip": "Con người đại diện, thay thế dùng bộ NHÂN 亻 (代 → 代表/现代/代替); Cái túi đựng đồ làm từ vải vóc nên có bộ Y 衣 bên dưới (袋 → 塑料袋/口袋/书袋)!"
+        },
+        {
+          "group_label": "须 — 需",
+          "chars": [
+            { "char": "须", "pinyin": "xū", "meaning": "nhất định phải (phó từ); râu", "structure_diff": "Bên trái là 彡 (sợi râu), bên phải là 页 (đầu/mặt); KHÔNG có bộ mưa 雨.", "examples": "必须 (bìxū – bắt buộc phải, dùng trước động từ), 胡须 (húxū – râu)" },
+            { "char": "需", "pinyin": "xū", "meaning": "cần, nhu cầu (động/danh từ)", "structure_diff": "Phía trên là bộ VŨ 雨 (mưa), phía dưới là 而 (như mùa màng cần nước mưa).", "examples": "需要 (xūyào – cần, nhu cầu), 生活必需品 (shēnghuó bìxūpǐn – nhu yếu phẩm hằng ngày)" }
+          ],
+          "memory_tip": "Cặp bẫy kinh điển đề Chuyên Trung: “必须 + Động từ” dùng 须 (không có bộ 雨), còn “需要 / 生活必需品” (cần thiết như cây cần mưa) dùng 需 (có bộ 雨 ở trên)!"
+        },
+        {
+          "group_label": "坐 — 座",
+          "chars": [
+            { "char": "坐", "pinyin": "zuò", "meaning": "ngồi; đi (bằng phương tiện) [động từ]", "structure_diff": "Hai người (人 + 人) ngồi trên đất (土), KHÔNG có mái nhà 广 bọc bên ngoài.", "examples": "坐车 (zuòchē – đi xe), 请坐 (qǐngzuò – mời ngồi)" },
+            { "char": "座", "pinyin": "zuò", "meaning": "chỗ ngồi; lượng từ (cầu, núi, tòa nhà) [danh/lượng từ]", "structure_diff": "Thêm bộ NGHIỄM 广 (mái nhà) bọc bên ngoài chữ 坐.", "examples": "座位 (zuòwèi – chỗ ngồi), 一座桥 (yí zuò qiáo – một cây cầu)" }
+          ],
+          "memory_tip": "Không có mái nhà 广 là ĐỘNG TỪ “ngồi / đi xe” (坐 → 请坐/坐车); Có mái nhà 广 bọc ngoài là DANH TỪ / LƯỢNG TỪ “chỗ ngồi, cây cầu” (座 → 座位/一座桥)!"
+        },
+        {
+          "group_label": "象 — 像",
+          "chars": [
+            { "char": "象", "pinyin": "xiàng", "meaning": "con voi; hiện tượng, hình ảnh ấn tượng", "structure_diff": "KHÔNG có bộ NHÂN ĐỨNG 亻 bên trái (chữ tượng hình con voi).", "examples": "大象 (dàxiàng – con voi), 印象 (yìnxiàng – ấn tượng), 现象 (xiànxiàng – hiện tượng)" },
+            { "char": "像", "pinyin": "xiàng", "meaning": "giống như, hình như; bức tượng, ảnh chân dung", "structure_diff": "CÓ bộ NHÂN ĐỨNG 亻 bên trái chữ 象.", "examples": "好像 (hǎoxiàng – hình như, giống như), 偶像 (ǒuxiàng – thần tượng), 头像 (tóuxiàng – ảnh đại diện)" }
+          ],
+          "memory_tip": "Con voi thật và các hiện tượng/ấn tượng KHÔNG có bộ 亻 (象 → 大象/印象/现象); Còn “giống như” hoặc hình ảnh/thần tượng liên quan đến NGƯỜI phải có bộ 亻 (像 → 好像/偶像/头像)!"
+        },
+        {
+          "group_label": "蓝 — 篮",
+          "chars": [
+            { "char": "蓝", "pinyin": "lán", "meaning": "màu xanh lam", "structure_diff": "Phía trên là bộ THẢO 艹 (xưa chiết xuất thuốc nhuộm màu xanh lam từ cây cỏ).", "examples": "蓝天 (lántiān – bầu trời xanh), 蓝色 (lánsè – màu xanh lam)" },
+            { "char": "篮", "pinyin": "lán", "meaning": "cái giỏ, cái rổ (bóng rổ)", "structure_diff": "Phía trên là bộ TRÚC ⺮ (cái rổ/giỏ truyền thống đan bằng tre trúc).", "examples": "篮球 (lánqiú – bóng rổ), 篮子 (lánzi – cái giỏ, cái rổ)" }
+          ],
+          "memory_tip": "Màu xanh lam nhuộm từ CÂY CỎ dùng bộ THẢO 艹 (蓝 → 蓝天/蓝色); Cái rổ/giỏ đan từ TRE TRÚC dùng bộ TRÚC ⺮ (篮 → 篮球/篮子)!"
+        }
+      ],
+      "package_notes": "Với các cặp chữ đồng âm, gõ Pinyin rất dễ trượt tay chọn nhầm chữ đứng đầu danh sách. Hãy tập thói quen kiểm tra BỘ THỦ (艹/⺮, 亻/衣, 广, 雨) và TỪ LOẠI (坐 động từ vs 座 danh/lượng từ; 必须 + động từ vs 需要/必需品) trước khi chốt đáp án!",
+      "exercises": [
+        {
+          "id": "st5_p3_e1", "type": "context_mc", "level": "Nhận biết", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn cặp chữ ĐÚNG chính tả điền vào câu: “在______天白云下打______球，真舒服！”",
+          "options": ["蓝 / 篮", "篮 / 蓝", "蓝 / 蓝", "篮 / 篮"],
+          "answer": "蓝 / 篮",
+          "explanation": "Bầu trời xanh là 蓝天 (màu sắc dùng bộ Thảo 艹); bóng rổ là 篮球 (cái rổ đan từ tre dùng bộ Trúc ⺮).",
+          "review_tip": "Phân biệt 蓝 (艹 – màu xanh) và 篮 (⺮ – giỏ, bóng rổ)."
+        },
+        {
+          "id": "st5_p3_e2", "type": "context_mc", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn cặp từ viết ĐÚNG chính tả cho câu: “为了保护环境，我们______减少使用塑料______。”",
+          "options": ["必须 / 袋", "必需 / 袋", "必须 / 代", "必需 / 代"],
+          "answer": "必须 / 袋",
+          "explanation": "Trước động từ 减少 dùng phó từ 必须 (nhất định phải, chữ 须 không có bộ mưa 雨); túi ni-lông là 塑料袋 (chữ 袋 có bộ Y 衣 ở dưới, khác với 代 trong 代表/代替).",
+          "review_tip": "Phân biệt 必须 (+ động từ) vs 需要/必需品, và 代 vs 袋."
+        },
+        {
+          "id": "st5_p3_e3", "type": "context_mc", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Chọn câu viết ĐÚNG hoàn toàn chính tả chữ Hán (chú ý 坐/座 và 象/像):",
+          "options": [
+            "请坐在这个座位上，那座桥看起来好像一条长龙。",
+            "请座在这个坐位上，那座桥看起来好像一条长龙。",
+            "请坐在这个座位上，那坐桥看起来好象一条长龙。",
+            "请坐在这个坐位上，那座桥看起来好像一条长龙。"
+          ],
+          "answer": "请坐在这个座位上，那座桥看起来好像一条长龙。",
+          "explanation": "请坐 là động từ (không có 广), 座位 và 一座桥 là danh từ/lượng từ (có 广); 好像 (giống như) có bộ 亻 bên trái.",
+          "review_tip": "Ôn cặp 坐/座 (động từ vs danh/lượng từ) và 象/像 (có/không có bộ 亻)."
+        },
+        {
+          "id": "st5_p3_e4", "type": "error_fix", "level": "Vận dụng", "mistake_category": "Kiến thức nâng cao",
+          "prompt": "Tìm lỗi sai mặt chữ trong câu sau: “这次历史课的经厉让我印像深刻，老师讲得非常历害。”",
+          "options": [
+            "Sai 3 chỗ: '经厉' → '经历', '印像' → '印象', '历害' → '厉害'.",
+            "Sai 2 chỗ: '历史' → '厉史', '印像' → '印象'.",
+            "Sai 2 chỗ: '经厉' → '经历', '历害' → '厉害'; còn '印像' viết đúng.",
+            "Chỉ sai 1 chỗ: '历害' → '厉害'."
+          ],
+          "answer": "Sai 3 chỗ: '经厉' → '经历', '印像' → '印象', '历害' → '厉害'.",
+          "explanation": "历史 và 经历 dùng 历 (bên trong 力 – trải qua công sức); 厉害 dùng 厉 (bên trong 万); 印象 là ấn tượng nên dùng 象 (không có bộ 亻).",
+          "review_tip": "Phân biệt 历/厉 (力 vs 万) và 象/像 (印象 vs 好像)."
+        }
+      ]
+    }
+  ],
+  "comprehensive_test": [
+    {
+      "id": "st5_ct1", "type": "context_mc", "level": "Vận dụng", "mistake_category": "Kiến thức nâng cao",
+      "prompt": "[Tổng hợp Trạm 5] Chọn câu KHÔNG có lỗi sai mặt chữ Hán:",
+      "options": [
+        "自己已经决定好了，即使有困难也要坚持。",
+        "已己已经决定好了，既使有困难也要坚持。",
+        "自己己经决定好了，即使有困难也要坚持。",
+        "自己已经决定好了，既使有困难也要坚持。"
+      ],
+      "answer": "自己已经决定好了，即使有困难也要坚持。",
+      "explanation": "自己 (mở hẳn 己), 已经 (mở nửa 已), 即使 (bộ 卩 即) đều chuẩn xác.",
+      "review_tip": "Ôn nhóm 己/已/巳 và 即/既."
+    },
+    {
+      "id": "st5_ct2", "type": "context_mc", "level": "Phân biệt", "mistake_category": "Kiến thức nâng cao",
+      "prompt": "[Tổng hợp Trạm 5] Chọn câu viết ĐÚNG hoàn toàn chính tả chữ Hán:",
+      "options": [
+        "期末考试前，她认真整理了具体计划，周末还陪妹妹打篮球。",
+        "期未考试前，她认具整理了具体计划，周末还陪妹妹打篮球。",
+        "期末考试前，她认真整理了具体计划，周末还部妹妹打蓝球。",
+        "期末考试前，她认真整理了具体计划，周未还陪妹妹打蓝球。"
+      ],
+      "answer": "期末考试前，她认真整理了具体计划，周末还陪妹妹打篮球。",
+      "explanation": "期末/周末 dùng 末 (nét trên dài), 认真 dùng 真 (có đầu 十), 具体 dùng 具 (không đầu 十), 陪伴 dùng 陪 (阝 bên trái), 篮球 dùng 篮 (bộ Trúc ⺮).",
+      "review_tip": "Ôn tổng hợp 未/末, 具/真, 陪/部 và 蓝/篮."
+    },
+    {
+      "id": "st5_ct3", "type": "error_fix", "level": "Vận dụng", "mistake_category": "Kiến thức nâng cao",
+      "prompt": "[Tổng hợp Trạm 5] Câu sau có BAO NHIÊU chữ Hán viết sai chính tả? “坐上火车找到坐位后，我必须先给家里拔个电话，说明生活必须品都装在书代里了。”",
+      "options": [
+        "4 chữ: 坐(位)→座, 拔(电话)→拨, (必)须(品)→需, (书)代→袋.",
+        "3 chữ: 坐(位)→座, 拔(电话)→拨, (书)代→袋.",
+        "3 chữ: 拔(电话)→拨, (必)须(品)→需, (书)代→袋.",
+        "2 chữ: 坐(位)→座, (书)代→袋."
+      ],
+      "answer": "4 chữ: 坐(位)→座, 拔(电话)→拨, (必)须(品)→需, (书)代→袋.",
+      "explanation": "座位 (danh từ có 广), 拨电话 (bấm số có 发), 生活必需品 (nhu yếu phẩm dùng 需 có bộ 雨), 书袋 (cái túi có bộ 衣). Còn '坐上火车' (động từ) và '必须先给...' (phó từ trước động từ) đều viết đúng.",
+      "review_tip": "Ôn 坐/座, 拔/拨, 须/需 và 代/袋."
+    },
+    {
+      "id": "st5_ct4", "type": "context_mc", "level": "Vận dụng", "mistake_category": "Kiến thức nâng cao",
+      "prompt": "[Tổng hợp Trạm 5] Chọn câu KHÔNG có lỗi sai mặt chữ Hán (kết hợp cả 3 gói chữ dễ nhầm):",
+      "options": [
+        "既然已经决定参加辩论赛，我们就得把材料看清楚，积累一次宝贵的经历。",
+        "即然已经决定参加辨论赛，我们就得把材料看清楚，积累一次宝贵的经历。",
+        "既然己经决定参加辩论赛，我们就得把材料看请楚，积累一次宝贵的经历。",
+        "既然已经决定参加辩论赛，我们就得把材料看清楚，积累一次宝贵的经厉。"
+      ],
+      "answer": "既然已经决定参加辩论赛，我们就得把材料看清楚，积累一次宝贵的经历。",
+      "explanation": "既然 (既), 已经 (已), 辩论赛 (辩 bộ 讠 – tranh biện bằng lời), 清楚 (清 bộ 氵 – rõ ràng), 经历 (历 bên trong 力 – trải nghiệm) đều chuẩn xác.",
+      "review_tip": "Rà soát tổng hợp cả 3 gói: 己/已, 即/既, 辩/辨, 请/清/情 và 历/厉."
+    }
+  ]
+}
